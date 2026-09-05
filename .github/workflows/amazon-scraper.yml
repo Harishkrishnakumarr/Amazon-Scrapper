@@ -2,10 +2,8 @@ name: Amazon Seller Scraper
 
 on:
   workflow_dispatch:
-
   schedule:
-    # Runs every day at 12:00 AM UTC
-    # 5:30 AM IST
+    # Runs every day at 12:00 AM UTC = 5:30 AM IST
     - cron: "0 0 * * *"
 
 permissions:
@@ -14,63 +12,50 @@ permissions:
 jobs:
   amazon-scraper:
     runs-on: ubuntu-latest
-
     timeout-minutes: 360
 
     steps:
-      # --------------------------------------------------
-      # 1. Checkout repository
-      # --------------------------------------------------
+
+      # 1. Checkout master
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: master
           fetch-depth: 0
 
-      # --------------------------------------------------
       # 2. Setup Python
-      # --------------------------------------------------
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
-      # --------------------------------------------------
-      # 3. Install Python dependencies
-      # --------------------------------------------------
+      # 3. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # --------------------------------------------------
-      # 4. Install Playwright browsers
-      # --------------------------------------------------
+      # 4. Install Playwright Chromium
       - name: Install Playwright Chromium
         run: |
           python -m playwright install --with-deps chromium
 
-      # --------------------------------------------------
-      # 5. Create required directories
-      # --------------------------------------------------
+      # 5. Prepare directories
       - name: Prepare directories
         run: |
           mkdir -p logs
           mkdir -p output
           mkdir -p output/backups
 
-      # --------------------------------------------------
       # 6. Run Amazon scraper
-      # --------------------------------------------------
       - name: Run Amazon Seller Scraper
         env:
           PYTHONUNBUFFERED: "1"
         run: |
           python main.py --batch --headless
 
-      # --------------------------------------------------
-      # 7. Show generated files
-      # --------------------------------------------------
+      # 7. Verify output
       - name: Verify output
         if: always()
         run: |
@@ -83,9 +68,7 @@ jobs:
           echo "===== LOGS ====="
           find logs -maxdepth 1 -type f -print || true
 
-      # --------------------------------------------------
-      # 8. Upload scraper artifacts
-      # --------------------------------------------------
+      # 8. Upload artifacts
       - name: Upload scraper artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -99,9 +82,7 @@ jobs:
           if-no-files-found: warn
           retention-days: 14
 
-      # --------------------------------------------------
       # 9. Commit generated data
-      # --------------------------------------------------
       - name: Commit generated data
         if: success()
         run: |
@@ -119,10 +100,8 @@ jobs:
             git commit -m "Update Amazon seller data"
           fi
 
-      # --------------------------------------------------
-      # 10. Push generated data
-      # --------------------------------------------------
-      - name: Push changes
+      # 10. Push generated data to master
+      - name: Push changes to master
         if: success()
         run: |
-          git push origin HEAD:${{ github.ref_name }}
+          git push origin HEAD:master
