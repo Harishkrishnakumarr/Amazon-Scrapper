@@ -1,0 +1,501 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0GZ361P7Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:21:17.881519"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T16:21:21.899609",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:21:26.451550"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:21:27.376910"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:21:27.377655"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:21:38.119004",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:21:54.868481",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:22:08.841063",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:22:20.839338",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:22:27.703935",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:22:50.047671",
+    "status": "results_found"
+  },
+  {
+    "business": "HAYDEN AUDIO",
+    "field": "Business Name",
+    "value": "HAYDEN AUDIO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A394PF4R8NVAHH&asin=B0DVC68X7H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:23:09.402989"
+  },
+  {
+    "seller": "HAYDEN AUDIO",
+    "field": "Website",
+    "query": "HAYDEN AUDIO official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/157/matthew-hayden",
+      "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk"
+    ],
+    "timestamp": "2026-08-26T16:23:17.014913",
+    "status": "results_found"
+  },
+  {
+    "seller": "HAYDEN AUDIO",
+    "field": "Legal Entity Name",
+    "query": "HAYDEN AUDIO company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/157/matthew-hayden",
+      "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk",
+      "https://www.hayden.com/",
+      "https://www.cnn.com/2026/08/19/us/hayden-panettiere-death-what-we-know"
+    ],
+    "timestamp": "2026-08-26T16:23:37.005934",
+    "status": "results_found"
+  },
+  {
+    "business": "HAYDEN AUDIO",
+    "field": "Email Address",
+    "value": "info@hayden.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.hayden.com/",
+    "timestamp": "2026-08-26T16:23:43.679219"
+  },
+  {
+    "seller": "HAYDEN AUDIO",
+    "field": "PAN",
+    "query": "HAYDEN AUDIO PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/157/matthew-hayden",
+      "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk",
+      "https://www.hayden.com/",
+      "https://www.cnn.com/2026/08/19/us/hayden-panettiere-death-what-we-know"
+    ],
+    "timestamp": "2026-08-26T16:23:53.470442",
+    "status": "results_found"
+  },
+  {
+    "seller": "HAYDEN AUDIO",
+    "field": "GST",
+    "query": "HAYDEN AUDIO GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/157/matthew-hayden",
+      "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk",
+      "https://www.hayden.com/",
+      "https://www.cnn.com/2026/08/19/us/hayden-panettiere-death-what-we-know"
+    ],
+    "timestamp": "2026-08-26T16:24:10.292710",
+    "status": "results_found"
+  },
+  {
+    "seller": "HAYDEN AUDIO",
+    "field": "Owner",
+    "query": "HAYDEN AUDIO director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/157/matthew-hayden",
+      "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk",
+      "https://www.hayden.com/",
+      "https://www.cnn.com/2026/08/19/us/hayden-panettiere-death-what-we-know"
+    ],
+    "timestamp": "2026-08-26T16:24:40.647959",
+    "status": "results_found"
+  },
+  {
+    "seller": "HAYDEN AUDIO",
+    "field": "Address",
+    "query": "HAYDEN AUDIO registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/157/matthew-hayden",
+      "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk",
+      "https://www.hayden.com/",
+      "https://www.cnn.com/2026/08/19/us/hayden-panettiere-death-what-we-know"
+    ],
+    "timestamp": "2026-08-26T16:24:53.223966",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B099S7MRFH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:25:14.377024"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T16:25:19.581510",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T16:25:26.154846"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T16:25:28.676513"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.companydetails.in/company/clicktech-retail-private-limited",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-26T16:25:48.560491",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:25:51.249540"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:25:51.249566"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:25:51.249572"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:25:51.249576"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:25:56.828846",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T16:26:24.494818",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T16:26:36.778998",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T16:26:45.099197",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:26:56.806856",
+    "status": "results_found"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Business Name",
+    "value": "Corus Labs",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2VSFU9ZVNPNNH&asin=B014A676BK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:27:10.449377"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "Website",
+    "query": "Corus Labs official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/"
+    ],
+    "timestamp": "2026-08-26T16:27:18.074203",
+    "status": "results_found"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Website URL",
+    "value": "https://www.1mg.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+    "timestamp": "2026-08-26T16:28:09.564746"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "Legal Entity Name",
+    "query": "Corus Labs company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/",
+      "https://corusinternational.org/",
+      "https://www.corusent.com/"
+    ],
+    "timestamp": "2026-08-26T16:28:30.638493",
+    "status": "results_found"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Email Address",
+    "value": "care@1mg.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+    "timestamp": "2026-08-26T16:28:33.346147"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Billing Address",
+    "value": "a)97/2, athiyawad, dabhel village, nani daman (ut) daman-300 210",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+    "timestamp": "2026-08-26T16:28:33.800841"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "City",
+    "value": "dabhel village",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+    "timestamp": "2026-08-26T16:28:33.800860"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "PAN",
+    "query": "Corus Labs PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/",
+      "https://corusinternational.org/",
+      "https://www.corusent.com/"
+    ],
+    "timestamp": "2026-08-26T16:28:48.049883",
+    "status": "results_found"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "GST",
+    "query": "Corus Labs GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/",
+      "https://corusinternational.org/",
+      "https://www.corusent.com/"
+    ],
+    "timestamp": "2026-08-26T16:29:03.352649",
+    "status": "results_found"
+  }
+]

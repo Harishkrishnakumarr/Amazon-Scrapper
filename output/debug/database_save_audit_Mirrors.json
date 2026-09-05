@@ -1,0 +1,74 @@
+{
+  "category": "Mirrors",
+  "records_before_save": 9,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "HARP MODZ",
+      "database_id": 916,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.harpmodz.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Ficzny",
+      "database_id": 917,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916025493505",
+      "email": "nanohana-fujito@ezweb.ne.jp",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "UCRAVO\u00ae",
+      "database_id": 918,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919924590629",
+      "email": "ucravo2706@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.ucravo.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MANVI.",
+      "database_id": 919,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919380168388",
+      "email": "rahuluda@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.manvi.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Smit K",
+      "database_id": 920,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919732947000",
+      "email": "smitcollege1996@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.smu.edu.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

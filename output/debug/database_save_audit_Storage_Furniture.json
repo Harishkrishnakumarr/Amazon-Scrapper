@@ -1,0 +1,61 @@
+{
+  "category": "Storage Furniture",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Exvito",
+      "database_id": 209,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "FastUnbox\u00ae",
+      "database_id": 210,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910444751001",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.fastunbox.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Enigmatic Woodworks",
+      "database_id": 211,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910675452025",
+      "email": "contact@enigmaticwoodworks.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.enigmaticwoodworks.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RAJESHREE NX",
+      "database_id": 212,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

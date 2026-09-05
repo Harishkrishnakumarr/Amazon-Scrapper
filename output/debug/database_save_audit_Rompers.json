@@ -1,0 +1,48 @@
+{
+  "category": "Rompers",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Excel India Online",
+      "database_id": 1477,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918980685509",
+      "email": "support@legalwiz.in",
+      "gst": "27ABCDE1234F1Z5",
+      "pan": "ABCDE1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MONTALY",
+      "database_id": 1477,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919241728118",
+      "email": "info@registerease.in",
+      "gst": "27ABCDE1234F1Z5",
+      "pan": "ABCDE1234F",
+      "website": "https://www.montaly.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KidBee Baby",
+      "database_id": 1478,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "tradersbst@gmail.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.kidbea.com/",
+      "status": "Verified"
+    }
+  ]
+}

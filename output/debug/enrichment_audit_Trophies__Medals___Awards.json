@@ -1,0 +1,441 @@
+[
+  {
+    "business": "SURYA ECOMMERCE",
+    "field": "Business Name",
+    "value": "SURYA ECOMMERCE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1Y8ZIPKCDPXPM&asin=B0GD226F9M&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:19:28.287339"
+  },
+  {
+    "seller": "SURYA ECOMMERCE",
+    "field": "Website",
+    "query": "SURYA ECOMMERCE official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:19:44.410546",
+    "status": "no_results"
+  },
+  {
+    "seller": "SURYA ECOMMERCE",
+    "field": "Legal Entity Name",
+    "query": "SURYA ECOMMERCE company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=148988&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=3e91212c160e1009911e4ba26682ce60&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://registration.surya.com/registration/",
+      "https://registration.surya.com/form.php",
+      "https://www.indiafilings.com/learn/how-to-set-up-and-register-an-ecommerce-company-in-india"
+    ],
+    "timestamp": "2026-08-26T10:20:22.656388",
+    "status": "results_found"
+  },
+  {
+    "seller": "SURYA ECOMMERCE",
+    "field": "PAN",
+    "query": "SURYA ECOMMERCE PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:20:34.752472",
+    "status": "no_results"
+  },
+  {
+    "seller": "SURYA ECOMMERCE",
+    "field": "PAN",
+    "query": "SURYA ECOMMERCE PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:20:40.584582",
+    "status": "no_results"
+  },
+  {
+    "seller": "SURYA ECOMMERCE",
+    "field": "GST",
+    "query": "SURYA ECOMMERCE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/7915/suryakumar-yadav",
+      "https://www.surya.com/",
+      "https://starsunfolded.com/suriya-actor/",
+      "http://www.surya.co.in/"
+    ],
+    "timestamp": "2026-08-26T10:20:43.358873",
+    "status": "results_found"
+  },
+  {
+    "seller": "SURYA ECOMMERCE",
+    "field": "Owner",
+    "query": "SURYA ECOMMERCE director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:21:12.652742",
+    "status": "no_results"
+  },
+  {
+    "seller": "SURYA ECOMMERCE",
+    "field": "Owner",
+    "query": "SURYA ECOMMERCE founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:21:50.003089",
+    "status": "no_results"
+  },
+  {
+    "business": "Memento World",
+    "field": "Business Name",
+    "value": "Memento World",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AYMRIVNP5RWOZ&asin=B0GDM5DD9R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:21:50.670320"
+  },
+  {
+    "seller": "Memento World",
+    "field": "Website",
+    "query": "Memento World official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:22:09.899558",
+    "status": "no_results"
+  },
+  {
+    "seller": "Memento World",
+    "field": "Legal Entity Name",
+    "query": "Memento World company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://cn.kyocera.com/",
+      "https://global.kyocera.com/",
+      "https://cn.kyocera.com/company/index.html"
+    ],
+    "timestamp": "2026-08-26T10:22:17.201322",
+    "status": "results_found"
+  },
+  {
+    "seller": "Memento World",
+    "field": "PAN",
+    "query": "Memento World PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:22:40.666477",
+    "status": "no_results"
+  },
+  {
+    "seller": "Memento World",
+    "field": "PAN",
+    "query": "Memento World PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/memento-world-32BUWPJ7051H1ZC/",
+      "https://www.battlemetrics.com/servers/palworld/40035313",
+      "https://www.justdial.com/Alappuzha/Memento-World-Opposite-Keerhy-Hotel-Cherthala/0477PX477-X477-220624145541-D5N1_BZDET",
+      "https://www.justdial.com/Kozhikode/Memento-World-Near-Paragon-Hotel-Palayam/0495PX495-X495-170928050737-Q2V1_BZDET"
+    ],
+    "timestamp": "2026-08-26T10:22:43.943622",
+    "status": "results_found"
+  },
+  {
+    "seller": "Memento World",
+    "field": "GST",
+    "query": "Memento World GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:22:56.059705",
+    "status": "no_results"
+  },
+  {
+    "seller": "Memento World",
+    "field": "GST",
+    "query": "Memento World GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/memento-world-32BUWPJ7051H1ZC/",
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/memento-34aahps0570n1zd/",
+      "https://www.knowyourgst.com/gst-number-search/memento-27EWXPM9515B1ZZ/"
+    ],
+    "timestamp": "2026-08-26T10:23:08.805782",
+    "status": "results_found"
+  },
+  {
+    "seller": "Memento World",
+    "field": "Owner",
+    "query": "Memento World director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.playstation.com/ja-jp/games/marvels-wolverine/",
+      "https://blog.ja.playstation.com/2025/09/25/20250925-wolverine/",
+      "https://www.playstation.com/ja-jp/ps5/marvels-wolverine-limited-edition-console-bundle-and-accessories/",
+      "https://tecnobits.com/ja/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%81%AEPS5%E5%90%91%E3%81%91%E3%82%A6%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%AA%E3%83%B3%E5%88%9D%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%82%A4/"
+    ],
+    "timestamp": "2026-08-26T10:23:10.136416",
+    "status": "results_found"
+  },
+  {
+    "seller": "Memento World",
+    "field": "Address",
+    "query": "Memento World registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:23:36.947096",
+    "status": "no_results"
+  },
+  {
+    "seller": "Memento World",
+    "field": "Address",
+    "query": "Memento World registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/memento-world-32BUWPJ7051H1ZC/",
+      "https://in.infoaboutcompanies.com/Catalog/KL/Kozhikode/Trophy-Shop/Memento-World",
+      "https://www.justdial.com/Alappuzha/Memento-World-Opposite-Keerhy-Hotel-Cherthala/0477PX477-X477-220624145541-D5N1_BZDET",
+      "https://www.justdial.com/Kozhikode/Memento-World-Near-Paragon-Hotel-Palayam/0495PX495-X495-170928050737-Q2V1_BZDET"
+    ],
+    "timestamp": "2026-08-26T10:23:52.652278",
+    "status": "results_found"
+  },
+  {
+    "business": "MUSA INTERNATIONAL",
+    "field": "Business Name",
+    "value": "MUSA INTERNATIONAL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1J9EXCIOYYRXX&asin=B0H7KD5Y5F&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:23:53.007887"
+  },
+  {
+    "seller": "MUSA INTERNATIONAL",
+    "field": "Website",
+    "query": "MUSA INTERNATIONAL official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:23:59.120551",
+    "status": "no_results"
+  },
+  {
+    "seller": "MUSA INTERNATIONAL",
+    "field": "Legal Entity Name",
+    "query": "MUSA INTERNATIONAL company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://musaforstudents.in/",
+      "https://myislam.org/prophet-musa/",
+      "https://www.momjunction.com/baby-names/musa/",
+      "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327926-2"
+    ],
+    "timestamp": "2026-08-26T10:24:56.258675",
+    "status": "results_found"
+  },
+  {
+    "seller": "MUSA INTERNATIONAL",
+    "field": "PAN",
+    "query": "MUSA INTERNATIONAL PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:26:09.012150",
+    "status": "no_results"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Business Name",
+    "value": "ODESTAR INDIA TECHNOLOGIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3D623H7Y6T7CO&asin=B097CJ5V7G&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:26:09.571694"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Website",
+    "query": "ODESTAR INDIA TECHNOLOGIES official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:26:34.776220",
+    "status": "no_results"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Legal Entity Name",
+    "query": "ODESTAR INDIA TECHNOLOGIES company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://zauba.company/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/search",
+      "https://www.registrationwala.com/company-search"
+    ],
+    "timestamp": "2026-08-26T10:27:08.762870",
+    "status": "results_found"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "PAN",
+    "query": "ODESTAR INDIA TECHNOLOGIES PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.idserve.in/index.php/how-to-find-details-using-a-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T10:27:21.657262",
+    "status": "results_found"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "PAN",
+    "query": "ODESTAR INDIA TECHNOLOGIES PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-36452377-instagram-je-ne-peux-plus-voir-qui-a-vu-mes-story-instants",
+      "https://forums.commentcamarche.net/forum/affich-37910805-probleme-etrange-avec-les-groupes-instagram",
+      "https://it.ccm.net/faq/29720-visualizza-le-storie-nascoste-di-instagram-in-anonimo-online",
+      "https://it.ccm.net/faq/27293-come-riattivare-un-account-instagram-disabilitato"
+    ],
+    "timestamp": "2026-08-26T10:27:28.818572",
+    "status": "results_found"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "GST",
+    "query": "ODESTAR INDIA TECHNOLOGIES GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/odestar-technologies-09EKQPS6021D1ZV/",
+      "https://gstverify.co.in/search/",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-08-26T10:27:37.512282",
+    "status": "results_found"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "GST Number",
+    "value": "09EKQPS6021D1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/odestar-technologies-09EKQPS6021D1ZV/",
+    "timestamp": "2026-08-26T10:27:40.482396"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "PAN Number",
+    "value": "EKQPS6021D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/odestar-technologies-09EKQPS6021D1ZV/",
+    "timestamp": "2026-08-26T10:27:40.482422"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Owner",
+    "query": "ODESTAR INDIA TECHNOLOGIES director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://odestar.com/founder-%26-ceo",
+      "https://odestar.com/news-%26-archived-events",
+      "https://odestar.com/contact",
+      "https://odestar.com/book"
+    ],
+    "timestamp": "2026-08-26T10:27:46.669652",
+    "status": "results_found"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Phone Number",
+    "value": "+916610234967",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://odestar.com/news-%26-archived-events",
+    "timestamp": "2026-08-26T10:27:51.177732"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Email Address",
+    "value": "sharkey@odestar.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://odestar.com/news-%26-archived-events",
+    "timestamp": "2026-08-26T10:27:51.178354"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Owner",
+    "query": "ODESTAR INDIA TECHNOLOGIES founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.hotels.com/?msockid=2d86815a48ff6b162884969b49676ad9",
+      "https://www.booking.com/hotel/index.html?msockid=2d86815a48ff6b162884969b49676ad9",
+      "https://www.booking.com/?msockid=2d86815a48ff6b162884969b49676ad9"
+    ],
+    "timestamp": "2026-08-26T10:27:55.205505",
+    "status": "results_found"
+  },
+  {
+    "seller": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Address",
+    "query": "ODESTAR INDIA TECHNOLOGIES registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.insiderbiz.in/company-map/OSTER-TECHNOLOGIES-INDIA-PRIVATE-LIMITED",
+      "https://www.dnb.com/business-directory/company-profiles.odestar_technologies.4d640f23cff3b606d7a6ef67f4f83e62.html",
+      "https://www.knowyourgst.com/gst-number-search/odestar-technologies-09EKQPS6021D1ZV/",
+      "https://opencorpdata.com/in/"
+    ],
+    "timestamp": "2026-08-26T10:28:07.312080",
+    "status": "results_found"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Billing Address",
+    "value": "a-201, venus chs ltd., room no-4, s s nagar, andheri (west), mumbai mh 400053 in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.insiderbiz.in/company-map/OSTER-TECHNOLOGIES-INDIA-PRIVATE-LIMITED",
+    "timestamp": "2026-08-26T10:28:12.817143"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "City",
+    "value": "mumbai mh  in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.insiderbiz.in/company-map/OSTER-TECHNOLOGIES-INDIA-PRIVATE-LIMITED",
+    "timestamp": "2026-08-26T10:28:12.817162"
+  },
+  {
+    "business": "ODESTAR INDIA TECHNOLOGIES",
+    "field": "Pincode",
+    "value": "400053",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.insiderbiz.in/company-map/OSTER-TECHNOLOGIES-INDIA-PRIVATE-LIMITED",
+    "timestamp": "2026-08-26T10:28:12.817166"
+  }
+]

@@ -1,0 +1,924 @@
+[
+  {
+    "business": "Dawntech Etel!",
+    "field": "Business Name",
+    "value": "Dawntech Etel!",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AQUYM0O99MFUT&asin=B0GP8XYL7H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T12:37:36.521672"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "Website",
+    "query": "Dawntech Etel! official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dawntech.dev/",
+      "https://dawntech.dev/jobs"
+    ],
+    "timestamp": "2026-08-21T12:37:38.071920",
+    "status": "results_found"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "Website URL",
+    "value": "https://dawntech.dev/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://dawntech.dev/",
+    "timestamp": "2026-08-21T12:37:43.520077"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "Phone Number",
+    "value": "+915584214909",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://dawntech.dev/",
+    "timestamp": "2026-08-21T12:37:44.041977"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "Email Address",
+    "value": "legal@dawntech.dev",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://dawntech.dev/privacy",
+    "timestamp": "2026-08-21T12:37:48.098517"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "Legal Entity Name",
+    "query": "Dawntech Etel! company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tongji.edu.cn/",
+      "https://bkzs.tongji.edu.cn/",
+      "https://yz.tongji.edu.cn/",
+      "https://www.lib.tongji.edu.cn/",
+      "https://gs.tongji.edu.cn/"
+    ],
+    "timestamp": "2026-08-21T12:37:49.449693",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "PAN",
+    "query": "Dawntech Etel! PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mizuho-sc.com/index.html",
+      "https://www.mizuho-sc.com/service/online/index.html",
+      "https://mnc.mizuho-sc.com/web/rmfCmnEtcInvTopAction.do",
+      "https://mnc.mizuho-sc.com/",
+      "https://staticcontents.mizuho-sc.com/cds/user_contents/web/contents/regular/1229260_2080.html"
+    ],
+    "timestamp": "2026-08-21T12:38:11.659165",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "PAN",
+    "query": "Dawntech Etel! PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.techspot.com/downloads/4718-google-chrome.html",
+      "https://chrome.en.softonic.com/download",
+      "https://www.google.co.uk/chrome/browser-tools/",
+      "https://www.google.co.in/intl/en_uk/chrome/safety/"
+    ],
+    "timestamp": "2026-08-21T12:38:25.092000",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "GST",
+    "query": "Dawntech Etel! GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/30432177",
+      "https://www.zhihu.com/question/24917424",
+      "https://forumserver.twoplustwo.com/199/venues-amp-communities/"
+    ],
+    "timestamp": "2026-08-21T12:38:31.357680",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "GST",
+    "query": "Dawntech Etel! GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/gst/dawntech-electronics-private-limited-03aamcm3175b2zr/",
+      "https://gst.jamku.app/gstin/23AAMCM3175B1ZQ",
+      "https://fnshiftsolutions.com/gstin-search/dawntech-electronics-private-limited-23AAMCM3175B1ZQ",
+      "https://www.knowyourgst.com/gst-number-search/dawntech-electronics-private-limited-27AAMCM3175B1ZI/",
+      "https://gst.jamku.app/gstin/03AAMCM3175B2ZR"
+    ],
+    "timestamp": "2026-08-21T12:38:39.851329",
+    "status": "results_found"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "GST Number",
+    "value": "23AAMCM3175B1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/23AAMCM3175B1ZQ",
+    "timestamp": "2026-08-21T12:38:41.679691"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "Owner",
+    "query": "Dawntech Etel! director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zotero.org/",
+      "https://www.zotero.org/user/login/",
+      "https://zotero.en.softonic.com/",
+      "https://zbib.org/",
+      "https://www.zotero.org/download/connectors"
+    ],
+    "timestamp": "2026-08-21T12:38:43.580753",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "Owner",
+    "query": "Dawntech Etel! managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.masterdata.in/company/dawntech_electronics_private_limited/U52100KA2018PTC119756",
+      "https://tracxn.com/d/legal-entities/india/dawntech-electronics-private-limited/__XrN-kvEajpgfpMxqHWfuxu2suZVjiSKav30tpLrya0Q",
+      "https://www.thecompanycheck.com/people/dawntech-electronics/U45202KA2018PTC119756",
+      "https://www.filesure.in/company/dawntech-electronics-private-limited/U52100KA2018PTC119756?tab=about",
+      "https://www.affluense.club/company/dawntech-electronics-private-limited"
+    ],
+    "timestamp": "2026-08-21T12:38:53.565551",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "Owner",
+    "query": "Dawntech Etel! founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/dawntech-electronics-private-limited/__XrN-kvEajpgfpMxqHWfuxu2suZVjiSKav30tpLrya0Q",
+      "https://www.dnb.com/business-directory/company-profiles.dawntech_electronics_private_limited.59102fb03b906452ddcf5a7e864cc0f8.html",
+      "https://www.companydetails.in/company/dawntech-electronics-pvt-ltd",
+      "https://info.edgeinsights.in/company/Dawntech-Electronics-Pvt.-Ltd./201204",
+      "https://www.falconebiz.com/company/DAWNTECH-ELECTRONICS-PRIVATE-LIMITED-U52100KA2018PTC119756"
+    ],
+    "timestamp": "2026-08-21T12:39:04.200089",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dawntech Etel!",
+    "field": "Address",
+    "query": "Dawntech Etel! registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/dawntech-electronics-private-limited/__XrN-kvEajpgfpMxqHWfuxu2suZVjiSKav30tpLrya0Q",
+      "https://www.companydetails.in/company/dawntech-electronics-pvt-ltd",
+      "https://www.falconebiz.com/company/DAWNTECH-ELECTRONICS-PRIVATE-LIMITED-U52100KA2018PTC119756",
+      "https://www.instafinancials.com/company/dawntech-electronics-private-limited-U52100KA2018PTC119756",
+      "https://b2bhint.com/en/company/in-ka/dawntech-electronics-private-limited--U52100KA2018PTC119756"
+    ],
+    "timestamp": "2026-08-21T12:39:06.955834",
+    "status": "results_found"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dawntech-electronics-private-limited/__XrN-kvEajpgfpMxqHWfuxu2suZVjiSKav30tpLrya0Q",
+    "timestamp": "2026-08-21T12:39:07.386407"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dawntech-electronics-private-limited/__XrN-kvEajpgfpMxqHWfuxu2suZVjiSKav30tpLrya0Q",
+    "timestamp": "2026-08-21T12:39:07.386421"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dawntech-electronics-private-limited/__XrN-kvEajpgfpMxqHWfuxu2suZVjiSKav30tpLrya0Q",
+    "timestamp": "2026-08-21T12:39:07.386425"
+  },
+  {
+    "business": "Dawntech Etel!",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dawntech-electronics-private-limited/__XrN-kvEajpgfpMxqHWfuxu2suZVjiSKav30tpLrya0Q",
+    "timestamp": "2026-08-21T12:39:07.386428"
+  },
+  {
+    "business": "MonsoonTreasureSALE",
+    "field": "Business Name",
+    "value": "MonsoonTreasureSALE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ICFXJ6T71555&asin=B0H8PRXFLY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T12:39:07.788894"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "Website",
+    "query": "MonsoonTreasureSALE official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/monsoontreasuresale",
+      "https://baanknet.com/"
+    ],
+    "timestamp": "2026-08-21T12:39:10.726389",
+    "status": "results_found"
+  },
+  {
+    "business": "MonsoonTreasureSALE",
+    "field": "Website URL",
+    "value": "https://www.sellerratings.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sellerratings.com/amazon/india/monsoontreasuresale",
+    "timestamp": "2026-08-21T12:39:15.008563"
+  },
+  {
+    "business": "MonsoonTreasureSALE",
+    "field": "Phone Number",
+    "value": "+910611232026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sellerratings.com/",
+    "timestamp": "2026-08-21T12:39:16.351269"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "Legal Entity Name",
+    "query": "MonsoonTreasureSALE company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://secretaryofstate.com/",
+      "https://secretaryofstate.com/texas",
+      "https://secretaryofstate.com/california",
+      "https://secretaryofstate.com/illinois",
+      "https://secretaryofstate.com/michigan"
+    ],
+    "timestamp": "2026-08-21T12:39:22.915522",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "Legal Entity Name",
+    "query": "MonsoonTreasureSALE Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-info/csr-data-summary.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/grievance-cell.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/enquire-din-status.html",
+      "https://golegally.com/mca-company-search"
+    ],
+    "timestamp": "2026-08-21T12:39:32.753980",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "PAN",
+    "query": "MonsoonTreasureSALE PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://incometaxindia.gov.in/pan",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-08-21T12:39:44.419598",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "PAN",
+    "query": "MonsoonTreasureSALE PAN",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://theloom.in/buy/monsoon-sale",
+      "https://www.sellerratings.com/amazon/india/monsoontreasuresale",
+      "https://palmonas.com/collections/monsoon-sale",
+      "https://myborosil.com/collections/monsoon-cookware"
+    ],
+    "timestamp": "2026-08-21T12:39:59.251947",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "GST",
+    "query": "MonsoonTreasureSALE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.5movierulz.army/"
+    ],
+    "timestamp": "2026-08-21T12:40:03.971889",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "GST",
+    "query": "MonsoonTreasureSALE GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://gstverify.co.in/search/",
+      "https://cleartax.in/s/gst-number-search-by-name/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-08-21T12:40:08.114273",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "GST",
+    "query": "MonsoonTreasureSALE GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://5278.cc/",
+      "https://5278.cc/forum-23-1.html",
+      "https://jable.tv/members/254401/favourites/videos/",
+      "https://jable.tv/search/5278%E4%B8%AD%E6%96%87/",
+      "https://5277.cc/forum.php?mod=forumdisplay&fid=23&orderby=dateline&filter=dateline"
+    ],
+    "timestamp": "2026-08-21T12:40:16.684385",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "Owner",
+    "query": "MonsoonTreasureSALE director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://sports.yahoo.co.jp/",
+      "https://www.yahoo.co.jp/",
+      "https://transit.yahoo.co.jp/",
+      "https://news.yahoo.co.jp/",
+      "https://news.yahoo.co.jp/categories/domestic"
+    ],
+    "timestamp": "2026-08-21T12:40:25.058299",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "Address",
+    "query": "MonsoonTreasureSALE registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/monsoontreasuresale",
+      "https://tirunelveli.nic.in/department/treasury/",
+      "https://opengovuk.com/company/12543476",
+      "https://find-and-update.company-information.service.gov.uk/company/14308273",
+      "https://www.scribd.com/document/627072356/EB-OFFICE"
+    ],
+    "timestamp": "2026-08-21T12:40:50.621153",
+    "status": "results_found"
+  },
+  {
+    "seller": "MonsoonTreasureSALE",
+    "field": "Email",
+    "query": "MonsoonTreasureSALE email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://baike.baidu.com/item/%E4%B8%8D%E6%AD%BB%E9%B8%9F/6601235",
+      "https://ledblinky.net/Support.htm",
+      "https://baike.baidu.com/item/%E6%89%8B%E5%90%88%E4%BC%9A/19400073",
+      "https://www.aussiearcade.com/topic/88725-confused-about-split-roms/",
+      "https://bbs.xqemu.cn/thread-9628-1-1.html"
+    ],
+    "timestamp": "2026-08-21T12:41:08.691830",
+    "status": "results_found"
+  },
+  {
+    "business": "AmazCart",
+    "field": "Business Name",
+    "value": "AmazCart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2EZYW60S94PYU&asin=B0H8XQ49B8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T12:41:09.217097"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Website",
+    "query": "AmazCart official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://amazcart.ischooll.com/",
+      "https://amazcart.ischooll.com/login"
+    ],
+    "timestamp": "2026-08-21T12:41:12.418253",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Legal Entity Name",
+    "query": "AmazCart company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://amazcart.ischooll.com/merchant-register-step-1",
+      "https://codecanyon.net/item/amazcart-laravel-ecommerce-system-cms/34962179",
+      "https://ticket.aorasoft.com/amazcart/how-to-configure-amazcart-system-settings/company-information/company-information",
+      "https://amazcart.ischooll.com/register",
+      "https://ticket.aorasoft.com/amazcart/welcome-to-amazcart"
+    ],
+    "timestamp": "2026-08-21T12:41:40.410769",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Legal Entity Name",
+    "query": "AmazCart Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://abs.gov.au/census/find-census-data/quickstats/2021/LGA11250",
+      "https://www.population.net.au/broken-hill-population/",
+      "https://profile.id.com.au/broken-hill"
+    ],
+    "timestamp": "2026-08-21T12:41:50.825178",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Legal Entity Name",
+    "query": "AmazCart legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.leikart.com/?msclkid=9d23773242d71fd517661db5b89eaffc",
+      "https://www.legalentityidentifier.in/?msclkid=4d8db921370f1b53f7b2d3a6cd46f4d7",
+      "https://www.legalentityidentifier.in/lei-cost/?msclkid=6fee296355b31975dd7643e4affa81e0",
+      "https://ticket.aorasoft.com/amazcart/how-to-configure-amazcart-system-settings/company-information/company-information",
+      "https://ticket.aorasoft.com/list/amazcart/how-to-configure-amazcart-system-settings/company-information"
+    ],
+    "timestamp": "2026-08-21T12:41:58.854813",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "PAN",
+    "query": "AmazCart PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.paisabazaar.com/pan-card/how-to-track-pan-card-status/",
+      "https://www.paisabazaar.com/pan-card/form-61/",
+      "https://www.paisabazaar.com/pan-card/tan-verification/",
+      "https://www.paisabazaar.com/pan-card/how-to-change-photo-and-signature-in-pan-card/"
+    ],
+    "timestamp": "2026-08-21T12:42:02.351116",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "PAN",
+    "query": "AmazCart PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bn.wiktionary.org/wiki/%E0%A6%9A%E0%A7%81%E0%A6%A6%E0%A6%BE",
+      "https://en.wiktionary.org/wiki/%E0%A6%9A%E0%A7%81%E0%A6%A6%E0%A6%BE",
+      "https://en.wiktionary.org/wiki/%E0%A6%9A%E0%A7%8B%E0%A6%A6%E0%A6%BE",
+      "https://www.xvideos.com/tags/%E0%A6%9A%E0%A7%81%E0%A6%A6%E0%A6%BE%E0%A6%9A%E0%A7%81%E0%A6%A6%E0%A6%BF",
+      "https://bn.wiktionary.org/wiki/%E0%A6%9A%E0%A7%8B%E0%A6%A6%E0%A6%BE"
+    ],
+    "timestamp": "2026-08-21T12:42:07.387497",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "PAN",
+    "query": "AmazCart PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://my.gstzen.in/m/taxpayers/pan/amazon-seller-services-pvt-ltd/AAICA3918J/",
+      "https://razorpay.com/gst-number-search/pan/",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html"
+    ],
+    "timestamp": "2026-08-21T12:42:18.331971",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "GST",
+    "query": "AmazCart GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tabelog.com/saitama/A1102/A110203/R9291/rstLst/cond04-00-01/?msockid=11e7238bf347677e17a43437f2c8660c",
+      "https://retty.me/area/PRE11/ARE54/SUB5402/LND28895/PUR14/",
+      "https://retty.me/area/PRE11/ARE54/SUB5402/STAN5178/PUR14/",
+      "https://tabelog.com/saitama/A1102/A110203/R9291/rstLst/cond07-00-00/?msockid=11e7238bf347677e17a43437f2c8660c",
+      "https://www.dokkyo.ac.jp/campuslife/facilities/cafeteria.html"
+    ],
+    "timestamp": "2026-08-21T12:42:24.969638",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "GST",
+    "query": "AmazCart GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.customs.go.kr/kcs/ad/cntnts/cntntsView.do?cntntsId=10220&mi=10220",
+      "https://unipass.customs.go.kr/per/persIndex.do",
+      "https://info.kpark.co.kr/p/customs-clearance-code-inquiry-method",
+      "https://life.utrip.kr/p/how-to-get-customs-clearance-code"
+    ],
+    "timestamp": "2026-08-21T12:42:43.952993",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Owner",
+    "query": "AmazCart director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.forbes.com/profile/apoorva-mehta/",
+      "https://www.cnbc.com/2023/09/20/instacart-founder-launched-20-failed-companies-now-hes-a-billionaire.html",
+      "https://tracxn.com/d/companies/amazcart/__WMvuUBcqXpgqRZ3K6ST6THs84PsA_zpmHzrItCBvjSg"
+    ],
+    "timestamp": "2026-08-21T12:42:47.079949",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Owner",
+    "query": "AmazCart managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://support.yahoo-net.jp/PccYjcommon/s/article/H000012569",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1142306246",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1155890246"
+    ],
+    "timestamp": "2026-08-21T12:42:54.120346",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Owner",
+    "query": "AmazCart founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://annapurnabhandar.mlet.org.in/annapurna-bhandar-portal/",
+      "https://annapurna-bhandar.online/",
+      "https://socialsecurity.wb.gov.in/",
+      "https://annapurnayojanawb.com/",
+      "https://www.egovtschemes.com/socialregistry-wb-gov-in/"
+    ],
+    "timestamp": "2026-08-21T12:43:03.625711",
+    "status": "results_found"
+  },
+  {
+    "seller": "AmazCart",
+    "field": "Address",
+    "query": "AmazCart registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.choice-sushi.com/shop/asahikawa-toyooka/",
+      "https://www.choice-sushi.com/menu/asahikawa-toyooka/",
+      "https://tabelog.com/hokkaido/A0104/A010401/1002198/?msockid=11e7238bf347677e17a43437f2c8660c",
+      "https://www.hotpepper.jp/strJ000265040/?msockid=11e7238bf347677e17a43437f2c8660c",
+      "https://map.yahoo.co.jp/v3/place/l-b6ZTbAPLw"
+    ],
+    "timestamp": "2026-08-21T12:43:06.480612",
+    "status": "results_found"
+  },
+  {
+    "business": "NexGen Firm",
+    "field": "Business Name",
+    "value": "NexGen Firm",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JX4RPEWBK50R&asin=B0H8Y2FFDN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T12:43:12.576005"
+  },
+  {
+    "seller": "NexGen Firm",
+    "field": "Website",
+    "query": "NexGen Firm official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://nextgen.ehospital.gov.in/login",
+      "https://nextgen.ehospital.gov.in/opd/"
+    ],
+    "timestamp": "2026-08-21T12:43:13.940519",
+    "status": "results_found"
+  },
+  {
+    "seller": "NexGen Firm",
+    "field": "Legal Entity Name",
+    "query": "NexGen Firm company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://nextgen.ehospital.gov.in/login",
+      "https://nextgen.ehospital.gov.in/opd/",
+      "https://nextgen.ehospital.nic.in/dashboard/",
+      "https://www.nexgenam.com/",
+      "https://www.nextgen.com/"
+    ],
+    "timestamp": "2026-08-21T12:43:35.237024",
+    "status": "results_found"
+  },
+  {
+    "seller": "NexGen Firm",
+    "field": "PAN",
+    "query": "NexGen Firm PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://nextgen.ehospital.gov.in/login",
+      "https://nextgen.ehospital.gov.in/opd/",
+      "https://nextgen.ehospital.nic.in/dashboard/",
+      "https://www.nexgenam.com/",
+      "https://www.nextgen.com/"
+    ],
+    "timestamp": "2026-08-21T12:43:55.989253",
+    "status": "results_found"
+  },
+  {
+    "seller": "NexGen Firm",
+    "field": "GST",
+    "query": "NexGen Firm GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://nextgen.ehospital.gov.in/login",
+      "https://nextgen.ehospital.gov.in/opd/"
+    ],
+    "timestamp": "2026-08-21T12:44:16.966818",
+    "status": "results_found"
+  },
+  {
+    "seller": "NexGen Firm",
+    "field": "GST",
+    "query": "NexGen Firm GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://nextgen.ehospital.gov.in/login",
+      "https://nextgen.ehospital.gov.in/opd/",
+      "https://nextgen.ehospital.nic.in/dashboard/",
+      "https://www.nexgenam.com/",
+      "https://www.nextgen.com/"
+    ],
+    "timestamp": "2026-08-21T12:44:34.982882",
+    "status": "results_found"
+  },
+  {
+    "seller": "NexGen Firm",
+    "field": "Owner",
+    "query": "NexGen Firm director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://nextgen.ehospital.gov.in/login",
+      "https://nextgen.ehospital.gov.in/opd/",
+      "https://nextgen.ehospital.nic.in/dashboard/",
+      "https://www.nexgenam.com/",
+      "https://www.nextgen.com/"
+    ],
+    "timestamp": "2026-08-21T12:44:37.852780",
+    "status": "results_found"
+  },
+  {
+    "seller": "NexGen Firm",
+    "field": "Address",
+    "query": "NexGen Firm registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://nextgen.ehospital.gov.in/login",
+      "https://nextgen.ehospital.gov.in/opd/",
+      "https://nextgen.ehospital.nic.in/dashboard/",
+      "https://www.nexgenam.com/",
+      "https://www.nextgen.com/"
+    ],
+    "timestamp": "2026-08-21T12:44:58.267311",
+    "status": "results_found"
+  },
+  {
+    "business": "Whitepine Mobitech Private Limited",
+    "field": "Business Name",
+    "value": "Whitepine Mobitech Private Limited",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEGNKQAHFZB6D&asin=B0HDYP7NN3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T12:45:17.996476"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "Website",
+    "query": "Whitepine Mobitech Private Limited official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/explore",
+      "https://www.zhihu.com/question/19860864"
+    ],
+    "timestamp": "2026-08-21T12:45:19.500039",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "Legal Entity Name",
+    "query": "Whitepine Mobitech Private Limited company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-21T12:45:32.237503",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "Legal Entity Name",
+    "query": "Whitepine Mobitech Private Limited Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://imageresizer.com/",
+      "https://imageresizer.com/image-compressor",
+      "https://imageresizer.com/crop-image",
+      "https://imageresizer.com/bulk-resize",
+      "https://imageresizer.com/image-enlarger"
+    ],
+    "timestamp": "2026-08-21T12:45:46.976869",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "PAN",
+    "query": "Whitepine Mobitech Private Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ecpv.hdfcbank.com/ecpv/CT_Home.jsp",
+      "https://corporatebanking.hdfcbank.com/cbx/CBXLogin.jsp",
+      "https://corporate.hdfcbank.com/EnetMVC/jsp/CommonJsp/Session.jsp",
+      "https://leadinsta.hdfcbank.com/applications/webforms/apply/hdfc_pl_cata/PB_TnC/PB_TnC.html",
+      "https://offers.smartbuy.hdfcbank.com/offer_details/itc-storein/20775"
+    ],
+    "timestamp": "2026-08-21T12:45:50.727796",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "PAN",
+    "query": "Whitepine Mobitech Private Limited PAN",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-21T12:46:09.590691",
+    "status": "no_results"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "GST",
+    "query": "Whitepine Mobitech Private Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://141go161.com/zh/contact.php",
+      "http://www.newhk148forum.com/bbs/forum.php?mod=forumdisplay&fid=9",
+      "https://hk141.net/",
+      "https://hk141.net/rankings",
+      "https://141girl.com/sitemap"
+    ],
+    "timestamp": "2026-08-21T12:46:11.168080",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "GST",
+    "query": "Whitepine Mobitech Private Limited GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/991925355584235219.html",
+      "http://zhidao.baidu.com/",
+      "https://zhidao.baidu.com/question/580670653.html"
+    ],
+    "timestamp": "2026-08-21T12:46:28.506104",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "Owner",
+    "query": "Whitepine Mobitech Private Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/explore",
+      "https://www.zhihu.com/question/329637605",
+      "https://www.zhihu.com/question/19860864",
+      "https://www.zhihu.com/question/12113462690",
+      "https://www.zhihu.com/question/19614936"
+    ],
+    "timestamp": "2026-08-21T12:46:37.487008",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "Owner",
+    "query": "Whitepine Mobitech Private Limited managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mapion.co.jp/phonebook/M13013/34205/23430135998/",
+      "https://ivry.jp/telsearch/0848223132/",
+      "http://p34.everytown.info/p34/818/0848223132/%E5%B0%BE%E9%81%93%E6%A4%9C%E5%AF%9F%E5%AF%A9%E6%9F%BB%E4%BC%9A/top.html",
+      "https://www.navitime.co.jp/category/0502012/34205/",
+      "https://www.jpnumber.com/searchnumber.do?number=%E5%BA%83%E5%B3%B6%E5%B8%82%E3%80%80%E7%9D%A3%E4%BF%83"
+    ],
+    "timestamp": "2026-08-21T12:46:56.100540",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "Address",
+    "query": "Whitepine Mobitech Private Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://support.yahoo-net.jp/PccHelpcenter/s/",
+      "https://support.yahoo-net.jp/PccLogin/s/article/H000010765",
+      "https://faq.ikyu.com/app/answers/detail/a_id/1109/~/yahoo%21-japan-id%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%EF%BC%9F"
+    ],
+    "timestamp": "2026-08-21T12:46:57.718902",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whitepine Mobitech Private Limited",
+    "field": "Address",
+    "query": "Whitepine Mobitech Private Limited registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.orizzontescuolaforum.net/t10861-voto-abilitazione-aaaa-eeee",
+      "https://www.orizzontescuolaforum.net/t5277-eeee-scuola-primaria",
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/492664001",
+      "https://www.orizzontescuolaforum.net/t10750-eeee-aaaa"
+    ],
+    "timestamp": "2026-08-21T12:47:10.644278",
+    "status": "results_found"
+  }
+]

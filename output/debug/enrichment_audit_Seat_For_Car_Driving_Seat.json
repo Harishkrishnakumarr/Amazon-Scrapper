@@ -1,0 +1,362 @@
+[
+  {
+    "business": "Q1 Beads Int.",
+    "field": "Business Name",
+    "value": "Q1 Beads Int.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VRDDF5GYJLRU&asin=B084DRPDNM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T07:43:17.250822"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Website",
+    "query": "Q1 Beads Int. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp"
+    ],
+    "timestamp": "2026-08-27T07:43:19.520844",
+    "status": "results_found"
+  },
+  {
+    "business": "Q1 Beads Int.",
+    "field": "Website URL",
+    "value": "https://www.investopedia.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.investopedia.com/terms/q/quarter.asp",
+    "timestamp": "2026-08-27T07:43:28.587246"
+  },
+  {
+    "business": "Q1 Beads Int.",
+    "field": "Email Address",
+    "value": "press@investopedia.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.investopedia.com/about-us",
+    "timestamp": "2026-08-27T07:43:31.340533"
+  },
+  {
+    "business": "Q1 Beads Int.",
+    "field": "Owner Name",
+    "value": "Mia Davis",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.investopedia.com/about-us",
+    "timestamp": "2026-08-27T07:43:31.346145"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Legal Entity Name",
+    "query": "Q1 Beads Int. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:43:35.216509",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Legal Entity Name",
+    "query": "Q1 Beads Int. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:43:42.350695",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "PAN",
+    "query": "Q1 Beads Int. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:43:49.234377",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "PAN",
+    "query": "Q1 Beads Int. PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:43:55.678259",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "GST",
+    "query": "Q1 Beads Int. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:44:05.843739",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "GST",
+    "query": "Q1 Beads Int. GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:44:19.517704",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Address",
+    "query": "Q1 Beads Int. registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:44:20.963106",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Address",
+    "query": "Q1 Beads Int. registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/"
+    ],
+    "timestamp": "2026-08-27T07:44:28.326330",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Phone",
+    "query": "Q1 Beads Int. phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:44:35.693487",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Phone",
+    "query": "Q1 Beads Int. contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:44:40.893986",
+    "status": "results_found"
+  },
+  {
+    "business": "HEEZOX",
+    "field": "Business Name",
+    "value": "HEEZOX",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1XE2K7YQMWL2U&asin=B0GV7SD2NC&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:44:45.996333"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Website",
+    "query": "HEEZOX official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.realestate.com.au/property/unit-4-59-rosella-st-doncaster-east-vic-3109/",
+      "https://www.property.com.au/vic/doncaster-east-3109/rosella-st/4-59-pid-11436747/"
+    ],
+    "timestamp": "2026-08-27T07:44:47.414875",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Legal Entity Name",
+    "query": "HEEZOX company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.uta-net.com/song/4/",
+      "https://ikuina.com/lyrics/%e4%ba%95%e6%b2%a2%e5%85%ab%e9%83%8e/%e3%81%82%e3%81%82%e4%b8%8a%e9%87%8e%e9%a7%85-%e4%ba%95%e6%b2%a2%e5%85%ab%e9%83%8e",
+      "https://www.uta-net.com/movie/4/",
+      "https://www.asahi.com/articles/ASV4R3GHSV4ROXIE04YM.html?msockid=3fc9833c9f0c6256221294fe9e256370"
+    ],
+    "timestamp": "2026-08-27T07:44:59.851040",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "PAN",
+    "query": "HEEZOX PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-27T07:45:17.632322",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "PAN",
+    "query": "HEEZOX PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.hildesheimcc.cc/"
+    ],
+    "timestamp": "2026-08-27T07:45:25.112396",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "GST",
+    "query": "HEEZOX GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:45:30.718690",
+    "status": "no_results"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "GST",
+    "query": "HEEZOX GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hancomtaja.com/ko",
+      "https://www.hangul-tajawang.com/",
+      "https://dino-typing.com/index.php?device=mobile",
+      "https://www.typing-practice.com/"
+    ],
+    "timestamp": "2026-08-27T07:45:32.229818",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Owner",
+    "query": "HEEZOX director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://hethongphapluat.com/thong-tu-40-2018-tt-byt-quy-dinh-ve-quan-ly-mau-benh-pham-benh-truyen-nhiem-do-bo-truong-bo-y-te-ban-hanh.html"
+    ],
+    "timestamp": "2026-08-27T07:45:52.035151",
+    "status": "results_found"
+  },
+  {
+    "business": "HEEZOX",
+    "field": "Email Address",
+    "value": "info@hethongphapluat.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://hethongphapluat.com/thong-tu-40-2018-tt-byt-quy-dinh-ve-quan-ly-mau-benh-pham-benh-truyen-nhiem-do-bo-truong-bo-y-te-ban-hanh.html",
+    "timestamp": "2026-08-27T07:45:58.234902"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Owner",
+    "query": "HEEZOX founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/id-ID/",
+      "https://openai.com/index/gpt-4/",
+      "https://openai.com/index/chatgpt/"
+    ],
+    "timestamp": "2026-08-27T07:46:02.209119",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Address",
+    "query": "HEEZOX registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:46:07.399248",
+    "status": "no_results"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Address",
+    "query": "HEEZOX registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nidec.com/jp/",
+      "https://www.nidec.com/en/",
+      "https://moen.nidec.com/en-US/drives/products",
+      "https://moen.nidec.com/"
+    ],
+    "timestamp": "2026-08-27T07:46:11.855451",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Phone",
+    "query": "HEEZOX phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://verizon-wireless.pissedconsumer.com/customer-service.html",
+      "https://www.verizon.com/business/support/contact-us/",
+      "https://www.verizon.com/support/contact-us/",
+      "https://www.contacthelp.com/"
+    ],
+    "timestamp": "2026-08-27T07:46:30.864982",
+    "status": "results_found"
+  }
+]

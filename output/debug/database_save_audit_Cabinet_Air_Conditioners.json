@@ -1,0 +1,74 @@
+{
+  "category": "Cabinet Air Conditioners",
+  "records_before_save": 9,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kosliya Lab",
+      "database_id": 1113,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@gstserver.com",
+      "gst": "37EDEPK3412H1ZQ",
+      "pan": "EDEPK3412H",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AMFAH INDIA TRADING",
+      "database_id": 1114,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MiraHome",
+      "database_id": 1115,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916592500000",
+      "email": "contact@foodvietnamese.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Hoteon Trading Pvt. Ltd.,",
+      "database_id": 1116,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919148183707",
+      "email": "customercare@hoteon.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.hoteonlife.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Salesio Nova",
+      "database_id": 1117,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

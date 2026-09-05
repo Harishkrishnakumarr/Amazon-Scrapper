@@ -1,0 +1,74 @@
+{
+  "category": "Towing & Transporting",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cart2Globe",
+      "database_id": 1046,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "mercuriojohn_mercurio@motionpictures.orgbytedance",
+      "gst": "27AAECC4477E1ZN",
+      "pan": "AAECC4477E",
+      "website": "https://www.cart2india.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Kosliya Lab",
+      "database_id": 1047,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "NITYAECOMMERCE",
+      "database_id": 1048,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917971191632",
+      "email": "domainabuse@tucows.com",
+      "gst": "27ADPPY7552F1ZT",
+      "pan": "ADPPY7552F",
+      "website": "https://www.nityaecommerce.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "EXOTIQUE MART INDIA",
+      "database_id": 1049,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918800222776",
+      "email": "info@exotique.in",
+      "gst": "07AABCE2211M1ZX",
+      "pan": "AABCE2211M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Elyssion Designs",
+      "database_id": 1050,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

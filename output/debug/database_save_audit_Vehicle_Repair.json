@@ -1,0 +1,74 @@
+{
+  "category": "Vehicle Repair",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RATNAM TYRE TOOLS",
+      "database_id": 951,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917537463560",
+      "email": "mtyres11@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 952,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 953,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SABMILJAYEGA",
+      "database_id": 954,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "27AEMFS8343E1ZO",
+      "pan": "AEMFS8343E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DIT'S TRENDZ",
+      "database_id": 955,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

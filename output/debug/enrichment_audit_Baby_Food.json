@@ -1,0 +1,840 @@
+[
+  {
+    "business": "Amazon Retail",
+    "field": "Business Name",
+    "value": "Amazon Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARENK22K2PQRH&asin=B00I4SYXIK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:20:36.779556"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Website",
+    "query": "Amazon Retail official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:20:40.133240",
+    "status": "results_found"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "Website URL",
+    "value": "https://www.primevideo.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.primevideo.com/collection/IncludedwithPrime",
+    "timestamp": "2026-08-29T10:20:46.368896"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Legal Entity Name",
+    "query": "Amazon Retail company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:21:01.301701",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Legal Entity Name",
+    "query": "Amazon Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:21:11.351158",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "PAN",
+    "query": "Amazon Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:21:20.410638",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "PAN",
+    "query": "Amazon Retail PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:21:27.678560",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "GST",
+    "query": "Amazon Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:21:34.867690",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "GST",
+    "query": "Amazon Retail GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-37AAPCA6346P1ZU/",
+      "https://piceapp.com/gst-number-search/amazon-retail-india-private-limited-29aapca6346p1zr/",
+      "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-29AAPCA6346P2ZQ/",
+      "https://www.mastersindia.co/gst-search/?name=amazon-retail-india-private-limited&gstin=07AAPCA6346P1ZX"
+    ],
+    "timestamp": "2026-08-29T10:21:46.371022",
+    "status": "results_found"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "GST Number",
+    "value": "37AAPCA6346P1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-37AAPCA6346P1ZU/",
+    "timestamp": "2026-08-29T10:21:47.132772"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "PAN Number",
+    "value": "AAPCA6346P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-37AAPCA6346P1ZU/",
+    "timestamp": "2026-08-29T10:21:47.132795"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Owner",
+    "query": "Amazon Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:21:49.501404",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Owner",
+    "query": "Amazon Retail founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:21:55.981480",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Address",
+    "query": "Amazon Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:22:03.002611",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Address",
+    "query": "Amazon Retail registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:22:09.732338",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Phone",
+    "query": "Amazon Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:22:16.385410",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Phone",
+    "query": "Amazon Retail contact phone",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:22:22.665623",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Email",
+    "query": "Amazon Retail email contact address customer care",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/collection/IncludedwithPrime"
+    ],
+    "timestamp": "2026-08-29T10:22:29.519321",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Email",
+    "query": "Amazon Retail contact email",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.wikihow.com/Contact-Amazon",
+      "https://www.androidpolice.com/how-to-contact-amazon-customer-service-phone-email-or-chat/"
+    ],
+    "timestamp": "2026-08-29T10:22:42.284564",
+    "status": "results_found"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "WENOVA BRANDS PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2LXYQCD1ADPB1&asin=B0FRRSTN7R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T10:22:43.630554"
+  },
+  {
+    "seller": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Website",
+    "query": "WENOVA BRANDS PRIVATE LIMITED official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://wenovabrands.com/",
+      "https://wenova.com/index-2.html"
+    ],
+    "timestamp": "2026-08-29T10:22:48.001515",
+    "status": "results_found"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Website URL",
+    "value": "https://wenovabrands.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://wenovabrands.com/",
+    "timestamp": "2026-08-29T10:22:49.877029"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "value": "At Wenova Brands Private Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://wenovabrands.com/",
+    "timestamp": "2026-08-29T10:22:50.033062"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Phone Number",
+    "value": "+917338923389",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://wenovabrands.com/",
+    "timestamp": "2026-08-29T10:22:50.033139"
+  },
+  {
+    "seller": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "At Wenova Brands Private Limited PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/wenova-brands-private-limited/__tU02GYr94K--4GiKa-F0HjehLtSv9aBxWQUBVrtJFMA",
+      "https://www.dnb.com/business-directory/company-profiles.wenova_brands_private_limited.17f2348c3cca9ae45dea435be273dd9c.html",
+      "https://www.falconebiz.com/company/WENOVA-BRANDS-PRIVATE-LIMITED-U46497TN2024PTC167372",
+      "https://www.companydetails.in/company/wenova-brands-private-limited"
+    ],
+    "timestamp": "2026-08-29T10:22:54.459164",
+    "status": "results_found"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/wenova-brands-private-limited/__tU02GYr94K--4GiKa-F0HjehLtSv9aBxWQUBVrtJFMA",
+    "timestamp": "2026-08-29T10:22:55.190583"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/wenova-brands-private-limited/__tU02GYr94K--4GiKa-F0HjehLtSv9aBxWQUBVrtJFMA",
+    "timestamp": "2026-08-29T10:22:55.190600"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/wenova-brands-private-limited/__tU02GYr94K--4GiKa-F0HjehLtSv9aBxWQUBVrtJFMA",
+    "timestamp": "2026-08-29T10:22:55.190914"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/wenova-brands-private-limited/__tU02GYr94K--4GiKa-F0HjehLtSv9aBxWQUBVrtJFMA",
+    "timestamp": "2026-08-29T10:22:55.190930"
+  },
+  {
+    "business": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "r1980@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/WENOVA-BRANDS-PRIVATE-LIMITED-U46497TN2024PTC167372",
+    "timestamp": "2026-08-29T10:22:58.016984"
+  },
+  {
+    "seller": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "WENOVA BRANDS PRIVATE LIMITED PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/wenova-brands-private-limited/__tU02GYr94K--4GiKa-F0HjehLtSv9aBxWQUBVrtJFMA",
+      "https://www.thecompanycheck.com/company/wenova-brands-private-limited/U46497TN2024PTC167372",
+      "https://www.dnb.com/business-directory/company-profiles.wenova_brands_private_limited.17f2348c3cca9ae45dea435be273dd9c.html",
+      "https://www.indiafilings.com/search/wenova-brands-private-limited-cin-U46497TN2024PTC167372"
+    ],
+    "timestamp": "2026-08-29T10:23:00.815214",
+    "status": "results_found"
+  },
+  {
+    "seller": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "GST",
+    "query": "At Wenova Brands Private Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ontheworldmap.com/china/",
+      "https://gaode.com/?fromVisual=true?fromVisual=true",
+      "https://www.trip.com/guide/info/china-map-app.html",
+      "https://www.travelchinaguide.com/map/china_map.htm"
+    ],
+    "timestamp": "2026-08-29T10:23:08.353733",
+    "status": "results_found"
+  },
+  {
+    "seller": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "At Wenova Brands Private Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://about.youtube/",
+      "https://www.youtubekids.com/",
+      "https://blog.youtube/"
+    ],
+    "timestamp": "2026-08-29T10:23:26.084382",
+    "status": "results_found"
+  },
+  {
+    "seller": "WENOVA BRANDS PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "WENOVA BRANDS PRIVATE LIMITED founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.vivaldi.net/topic/78284/web-whatsapp-keeps-crashing-after-the-last-update",
+      "https://comunitate.orange.ro/t5/abonament/nu-pot-face-backup-pe-whatsapp/m-p/102950",
+      "https://forum.vivaldi.net/topic/6191/travian-browser-game",
+      "https://comunitate.orange.ro/t5/roaming/optiuni-roaming-prepay-ucraina/m-p/43821"
+    ],
+    "timestamp": "2026-08-29T10:23:31.586667",
+    "status": "results_found"
+  },
+  {
+    "business": "Li'l Sprouts",
+    "field": "Business Name",
+    "value": "Li'l Sprouts",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AX8GFX6LR0APP&asin=B0F8GF7WYY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:23:45.102637"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Website",
+    "query": "Li'l Sprouts official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de"
+    ],
+    "timestamp": "2026-08-29T10:23:47.385669",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Legal Entity Name",
+    "query": "Li'l Sprouts company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:23:58.729858",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Legal Entity Name",
+    "query": "Li'l Sprouts Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:06.583001",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "PAN",
+    "query": "Li'l Sprouts PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:15.732424",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "PAN",
+    "query": "Li'l Sprouts PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:24.085024",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "GST",
+    "query": "Li'l Sprouts GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:30.328526",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "GST",
+    "query": "Li'l Sprouts GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:37.497387",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Owner",
+    "query": "Li'l Sprouts director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:45.001171",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Owner",
+    "query": "Li'l Sprouts founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:52.668292",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Address",
+    "query": "Li'l Sprouts registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:24:59.417365",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Address",
+    "query": "Li'l Sprouts registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:25:10.878849",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Phone",
+    "query": "Li'l Sprouts phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:25:16.351728",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Phone",
+    "query": "Li'l Sprouts contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:25:25.438657",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Email",
+    "query": "Li'l Sprouts email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:25:32.400568",
+    "status": "results_found"
+  },
+  {
+    "seller": "Li'l Sprouts",
+    "field": "Email",
+    "query": "Li'l Sprouts contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.w3schools.com/TAGS/tag_li.asp",
+      "https://lichess.org/de",
+      "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li",
+      "https://www.w3schools.com/html/html_lists_ordered.asp"
+    ],
+    "timestamp": "2026-08-29T10:25:39.963174",
+    "status": "results_found"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "Business Name",
+    "value": "Jigajinni Industries Private Limited",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AC8LNJOA94VYN&asin=B0G9MQK2RH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:25:44.379045"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "Website",
+    "query": "Jigajinni Industries Private Limited official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.his-vacation.com/theme/pool.html",
+      "https://www.jalan.net/theme/beach/pool/?msockid=12e68822876f640117019fe6865d65f9"
+    ],
+    "timestamp": "2026-08-29T10:25:46.437543",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "Legal Entity Name",
+    "query": "Jigajinni Industries Private Limited company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/jigajinni-industries-private-limited",
+      "https://tracxn.com/d/legal-entities/india/jigajinni-industries-private-limited/__KGwRRwfSnQV_hZzVTXuH9TlomQ6rCufaGyFgkD1RtO8",
+      "https://www.thecompanycheck.com/company/jigajinni-industries-private-limited/U74999KA2020PTC131700",
+      "https://cin.iadv.io/JIGAJINNI-INDUSTRIES-PRIVATE-LIMITED-U74999KA2020PTC131700/"
+    ],
+    "timestamp": "2026-08-29T10:26:00.802283",
+    "status": "results_found"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/jigajinni-industries-private-limited/__KGwRRwfSnQV_hZzVTXuH9TlomQ6rCufaGyFgkD1RtO8",
+    "timestamp": "2026-08-29T10:26:51.031930"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/jigajinni-industries-private-limited/__KGwRRwfSnQV_hZzVTXuH9TlomQ6rCufaGyFgkD1RtO8",
+    "timestamp": "2026-08-29T10:26:51.031954"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/jigajinni-industries-private-limited/__KGwRRwfSnQV_hZzVTXuH9TlomQ6rCufaGyFgkD1RtO8",
+    "timestamp": "2026-08-29T10:26:51.031960"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/jigajinni-industries-private-limited/__KGwRRwfSnQV_hZzVTXuH9TlomQ6rCufaGyFgkD1RtO8",
+    "timestamp": "2026-08-29T10:26:51.031965"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "PAN",
+    "query": "Jigajinni Industries Private Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445"
+    ],
+    "timestamp": "2026-08-29T10:26:54.483670",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "PAN",
+    "query": "Jigajinni Industries Private Limited PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://id.xhamster.com/search/viral+indonesia",
+      "https://www.vidio.com/sections/396-viral-hari-ini",
+      "https://dicrotin.com/category/bokep-indonesia/bokep-viral",
+      "https://m.vidio.com/tags/video-viral-indonesia"
+    ],
+    "timestamp": "2026-08-29T10:27:01.484110",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "GST",
+    "query": "Jigajinni Industries Private Limited GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/jigajinni-industries-private-limited-29AAECJ7480N1ZS/",
+      "https://gst.unifers.ai/gst/29AAECJ7480N1ZS/jigajinni-industries-private-limited",
+      "https://www.mastersindia.co/gst-search/?name=jigajinni-industries-private-limited&gstin=29AAECJ7480N1ZS",
+      "https://www.tradeindia.com/jigajinni-industries-private-limited-38739760/"
+    ],
+    "timestamp": "2026-08-29T10:27:12.063089",
+    "status": "results_found"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "GST Number",
+    "value": "29AAECJ7480N1ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/jigajinni-industries-private-limited-29AAECJ7480N1ZS/",
+    "timestamp": "2026-08-29T10:27:12.785582"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "PAN Number",
+    "value": "AAECJ7480N",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/jigajinni-industries-private-limited-29AAECJ7480N1ZS/",
+    "timestamp": "2026-08-29T10:27:12.785609"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "Owner",
+    "query": "Jigajinni Industries Private Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tw.hinative.com/dictionaries/debris",
+      "https://tw.hinative.com/questions/17675266",
+      "https://tw.hinative.com/questions/873447",
+      "https://tw.hinative.com/questions/3525642"
+    ],
+    "timestamp": "2026-08-29T10:27:14.943141",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "Owner",
+    "query": "Jigajinni Industries Private Limited founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-08-29T10:27:17.736933",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "Phone",
+    "query": "Jigajinni Industries Private Limited phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://thunderstore.io/c/riskofrain2/p/ebkr/r2modman/",
+      "https://r2modman.com/",
+      "https://old.thunderstore.io/c/repo/p/ebkr/r2modman/",
+      "https://r2modman.me/download/"
+    ],
+    "timestamp": "2026-08-29T10:27:25.847808",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "Phone",
+    "query": "Jigajinni Industries Private Limited contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://comicvine.gamespot.com/profile/xxxxxxxxx/forums/",
+      "https://comicvine.gamespot.com/belerainte/4005-196430/",
+      "https://comicvine.gamespot.com/forums/battles-7/albert-wesker-vs-t-1000-635159/",
+      "https://comicvine.gamespot.com/forums/battles-7/beyonder-vs-grand-priest-2382865/"
+    ],
+    "timestamp": "2026-08-29T10:27:37.447254",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jigajinni Industries Private Limited",
+    "field": "Email",
+    "query": "Jigajinni Industries Private Limited email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://zh.snipaste.com/",
+      "https://www.snipaste.com/",
+      "https://zh.snipaste.com/download.html",
+      "https://www.snipaste.com/download.html"
+    ],
+    "timestamp": "2026-08-29T10:27:39.254468",
+    "status": "results_found"
+  },
+  {
+    "business": "Jigajinni Industries Private Limited",
+    "field": "Email Address",
+    "value": "snipaste.app@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://zh.snipaste.com/",
+    "timestamp": "2026-08-29T10:27:42.112748"
+  }
+]

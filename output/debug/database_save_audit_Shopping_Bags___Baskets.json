@@ -1,0 +1,74 @@
+{
+  "category": "Shopping Bags & Baskets",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "PERIYASAMY TRADERS",
+      "database_id": 1650,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "33CKQPP1385M1ZH",
+      "pan": "CKQPP1385M",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SAKTHI MALAR Stores",
+      "database_id": 1620,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "admin@sakthimasala.com",
+      "gst": "33IVTPS4368K1ZI",
+      "pan": "IVTPS4368K",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Jay tags",
+      "database_id": 1651,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "profileskpop@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://kprofiles.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "WENGTY",
+      "database_id": 1620,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "customercare@wendys.com",
+      "gst": "33IVTPS4368K1ZI",
+      "pan": "IVTPS4368K",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Sasti Global Bazaar",
+      "database_id": 1652,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@gstextract.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

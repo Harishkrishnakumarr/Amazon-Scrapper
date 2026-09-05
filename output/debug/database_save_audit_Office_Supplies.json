@@ -1,0 +1,48 @@
+{
+  "category": "Office Supplies",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 405,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 406,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910151683015",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Herrlich Homes",
+      "database_id": 407,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918381522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.herrlichhomes.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

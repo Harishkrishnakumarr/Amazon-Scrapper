@@ -1,0 +1,590 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B00ID6OXTW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T12:19:02.023831"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-25T12:19:03.858665",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bscmg.sgs.com/",
+      "https://africactn.com/how-to-get-bsc-madagascar-certificate/",
+      "https://getctn.com/en/guides/madagascar-bsc-comprehensive-guide",
+      "https://ctncertificate.com/how-to-get-madagascar-bsc-a-detailed-guide/",
+      "https://bscafrica.net/madagascar-bsc-ctn-certificate/"
+    ],
+    "timestamp": "2026-08-25T12:19:11.325140",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T12:20:01.341079",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.inchcalculator.com/convert/second-to-minute/",
+      "https://www.unitconverters.net/time/seconds-to-minutes.htm",
+      "https://www.checkyourmath.com/convert/time/seconds_minutes.php",
+      "https://www.timecalculator.net/seconds-to-minutes",
+      "https://www.unitconverters.net/time/minutes-to-seconds.htm"
+    ],
+    "timestamp": "2026-08-25T12:20:02.671673",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://blog.youtube/"
+    ],
+    "timestamp": "2026-08-25T12:20:25.825322",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://info.edgeinsights.in/company/Retailez-Private-Limited/217728",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-25T12:20:47.110916",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://retailez.co.in/partner/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-25T12:20:50.567419",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:20:51.825732"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:20:51.825771"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:20:51.825777"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:20:51.825782"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bossmatka.me/",
+      "https://mydpboss.in/",
+      "https://appaboss.com/",
+      "https://matkaboss.net/",
+      "https://www.rsboss.net/"
+    ],
+    "timestamp": "2026-08-25T12:20:53.763728",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912020122026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bossmatka.me/",
+    "timestamp": "2026-08-25T12:20:56.285009"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13300318538",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13327934233"
+    ],
+    "timestamp": "2026-08-25T12:20:57.715873",
+    "status": "results_found"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "Business Name",
+    "value": "SPARTAN SPORTS CORP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AK4I05GX9AHNH&asin=B0FQCHB66Y&ref_=dp_merchant_link",
+    "timestamp": "2026-08-25T12:21:05.592773"
+  },
+  {
+    "seller": "SPARTAN SPORTS CORP",
+    "field": "Website",
+    "query": "SPARTAN SPORTS CORP official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://spartan.mizoram.gov.in/",
+      "https://spartansports.com/"
+    ],
+    "timestamp": "2026-08-25T12:21:07.937507",
+    "status": "results_found"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "Website URL",
+    "value": "https://spartansports.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://spartansports.com/",
+    "timestamp": "2026-08-25T12:21:18.632981"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "Phone Number",
+    "value": "+914158952026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://spartansports.com/",
+    "timestamp": "2026-08-25T12:21:24.126615"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "Email Address",
+    "value": "sales@spartansports.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://spartansports.com/",
+    "timestamp": "2026-08-25T12:21:24.133165"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "Billing Address",
+    "value": "#403, Leather Complex, Kapurthala Road, Jalandhar, Punjab, India - 144021",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://spartansports.com/",
+    "timestamp": "2026-08-25T12:21:24.366293"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "City",
+    "value": "Jalandhar",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://spartansports.com/",
+    "timestamp": "2026-08-25T12:21:24.366312"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "State",
+    "value": "Punjab",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://spartansports.com/",
+    "timestamp": "2026-08-25T12:21:24.366317"
+  },
+  {
+    "business": "SPARTAN SPORTS CORP",
+    "field": "Pincode",
+    "value": "144021",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://spartansports.com/",
+    "timestamp": "2026-08-25T12:21:24.366322"
+  },
+  {
+    "seller": "SPARTAN SPORTS CORP",
+    "field": "Legal Entity Name",
+    "query": "SPARTAN SPORTS CORP company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://spartan.mizoram.gov.in/",
+      "https://spartansports.com/",
+      "https://www.spartan.com/",
+      "https://in.spartan.com/en",
+      "https://spartanindia.com/"
+    ],
+    "timestamp": "2026-08-25T12:21:36.131833",
+    "status": "results_found"
+  },
+  {
+    "seller": "SPARTAN SPORTS CORP",
+    "field": "PAN",
+    "query": "SPARTAN SPORTS CORP PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T12:22:19.223567",
+    "status": "no_results"
+  },
+  {
+    "seller": "SPARTAN SPORTS CORP",
+    "field": "PAN",
+    "query": "SPARTAN SPORTS CORP PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://spartan.mizoram.gov.in/",
+      "https://spartansports.com/",
+      "https://www.spartan.com/",
+      "https://in.spartan.com/en",
+      "https://spartanindia.com/"
+    ],
+    "timestamp": "2026-08-25T12:22:22.483155",
+    "status": "results_found"
+  },
+  {
+    "seller": "SPARTAN SPORTS CORP",
+    "field": "GST",
+    "query": "SPARTAN SPORTS CORP GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://spartan.mizoram.gov.in/",
+      "https://spartansports.com/",
+      "https://www.spartan.com/",
+      "https://in.spartan.com/en",
+      "https://spartanindia.com/"
+    ],
+    "timestamp": "2026-08-25T12:22:27.441335",
+    "status": "results_found"
+  },
+  {
+    "seller": "SPARTAN SPORTS CORP",
+    "field": "GST",
+    "query": "SPARTAN SPORTS CORP GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://spartan.mizoram.gov.in/",
+      "https://spartansports.com/",
+      "https://www.spartan.com/",
+      "https://in.spartan.com/en",
+      "https://spartanindia.com/"
+    ],
+    "timestamp": "2026-08-25T12:22:48.025763",
+    "status": "results_found"
+  },
+  {
+    "seller": "SPARTAN SPORTS CORP",
+    "field": "Owner",
+    "query": "SPARTAN SPORTS CORP director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://spartan.mizoram.gov.in/",
+      "https://spartansports.com/",
+      "https://www.spartan.com/",
+      "https://in.spartan.com/en",
+      "https://spartanindia.com/"
+    ],
+    "timestamp": "2026-08-25T12:22:49.578391",
+    "status": "results_found"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "Business Name",
+    "value": "Rey's Sparkle Pvt. Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2T6C6XJD99A72&asin=B00IAPKBDS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-25T12:23:07.090544"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Website",
+    "query": "Rey's Sparkle Pvt. Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker",
+      "https://www.starwars.com/databank/rey"
+    ],
+    "timestamp": "2026-08-25T12:23:09.574699",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Legal Entity Name",
+    "query": "Rey's Sparkle Pvt. Ltd company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker",
+      "https://www.starwars.com/databank/rey",
+      "https://disney.fandom.com/wiki/Rey"
+    ],
+    "timestamp": "2026-08-25T12:23:29.976279",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "PAN",
+    "query": "Rey's Sparkle Pvt. Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker",
+      "https://www.starwars.com/databank/rey",
+      "https://disney.fandom.com/wiki/Rey",
+      "https://fandorable.com/movies/star-wars/characters-star-wars/rey/",
+      "https://hero.fandom.com/wiki/Rey_(Star_Wars)"
+    ],
+    "timestamp": "2026-08-25T12:23:56.111974",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "GST",
+    "query": "Rey's Sparkle Pvt. Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker",
+      "https://www.starwars.com/databank/rey",
+      "https://disney.fandom.com/wiki/Rey",
+      "https://fandorable.com/movies/star-wars/characters-star-wars/rey/",
+      "https://hero.fandom.com/wiki/Rey_(Star_Wars)"
+    ],
+    "timestamp": "2026-08-25T12:24:24.002277",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Owner",
+    "query": "Rey's Sparkle Pvt. Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker",
+      "https://www.starwars.com/databank/rey",
+      "https://disney.fandom.com/wiki/Rey",
+      "https://fandorable.com/movies/star-wars/characters-star-wars/rey/",
+      "https://hero.fandom.com/wiki/Rey_(Star_Wars)"
+    ],
+    "timestamp": "2026-08-25T12:24:56.498053",
+    "status": "results_found"
+  },
+  {
+    "business": "Sporting Syndicate Pvt Ltd.",
+    "field": "Business Name",
+    "value": "Sporting Syndicate Pvt Ltd.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AVTE9AXL039BP&asin=B0DNJ5STVV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T12:25:12.059196"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "Website",
+    "query": "Sporting Syndicate Pvt Ltd. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/"
+    ],
+    "timestamp": "2026-08-25T12:25:17.671334",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "Legal Entity Name",
+    "query": "Sporting Syndicate Pvt Ltd. company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/",
+      "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336",
+      "https://www.sportinglife.com/racing/racecards",
+      "https://www.transfermarkt.co.in/sporting-lissabon/startseite/verein/336"
+    ],
+    "timestamp": "2026-08-25T12:25:32.620596",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "PAN",
+    "query": "Sporting Syndicate Pvt Ltd. PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/",
+      "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336",
+      "https://www.sportinglife.com/racing/racecards",
+      "https://www.transfermarkt.co.in/sporting-lissabon/startseite/verein/336"
+    ],
+    "timestamp": "2026-08-25T12:25:54.915740",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "GST",
+    "query": "Sporting Syndicate Pvt Ltd. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/",
+      "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336",
+      "https://www.sportinglife.com/racing/racecards",
+      "https://www.transfermarkt.co.in/sporting-lissabon/startseite/verein/336"
+    ],
+    "timestamp": "2026-08-25T12:26:26.232225",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "GST",
+    "query": "Sporting Syndicate Pvt Ltd. GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/",
+      "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336",
+      "https://www.sportinglife.com/racing/racecards",
+      "https://www.transfermarkt.co.in/sporting-lissabon/startseite/verein/336"
+    ],
+    "timestamp": "2026-08-25T12:26:40.851897",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "Owner",
+    "query": "Sporting Syndicate Pvt Ltd. director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/",
+      "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336",
+      "https://www.sportinglife.com/racing/racecards",
+      "https://www.transfermarkt.co.in/sporting-lissabon/startseite/verein/336"
+    ],
+    "timestamp": "2026-08-25T12:26:50.150253",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "Owner",
+    "query": "Sporting Syndicate Pvt Ltd. managing director",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/"
+    ],
+    "timestamp": "2026-08-25T12:27:01.851486",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "Owner",
+    "query": "Sporting Syndicate Pvt Ltd. founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/",
+      "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336",
+      "https://www.sportinglife.com/racing/racecards",
+      "https://www.transfermarkt.co.in/sporting-lissabon/startseite/verein/336"
+    ],
+    "timestamp": "2026-08-25T12:27:07.558677",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sporting Syndicate Pvt Ltd.",
+    "field": "Address",
+    "query": "Sporting Syndicate Pvt Ltd. registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sporting.pt/en",
+      "https://www.sporting.pt/",
+      "https://www.transfermarkt.com/sporting-lissabon/startseite/verein/336",
+      "https://www.sportinglife.com/racing/racecards",
+      "https://www.transfermarkt.co.in/sporting-lissabon/startseite/verein/336"
+    ],
+    "timestamp": "2026-08-25T12:27:09.537149",
+    "status": "results_found"
+  }
+]

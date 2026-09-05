@@ -1,0 +1,74 @@
+{
+  "category": "Breath Fresheners",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 338,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919881502026",
+      "email": "rk@rkgroup.biz",
+      "gst": "24ABIFR2700F1ZM",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Amazon Retail",
+      "database_id": 339,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918526272026",
+      "email": "w.antonelli322@gmail.com",
+      "gst": "37AAPCA6346P1ZU",
+      "pan": "AAPCA6346P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "EMAMI ltd",
+      "database_id": 340,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917001072023",
+      "email": "contact@emamigroup.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://emamiltd.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ISKCON KISNA STORE",
+      "database_id": 341,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911000002026",
+      "email": "info@iskcon.ngo",
+      "gst": "27AAATI0017P8ZG",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Nurpi",
+      "database_id": 342,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915536105351",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "BPWPG2509A",
+      "website": "https://www.nurpi.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

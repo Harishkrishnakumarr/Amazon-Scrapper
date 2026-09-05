@@ -1,0 +1,61 @@
+{
+  "category": "Diving",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Creative Corporation.",
+      "database_id": 528,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912632118595",
+      "email": "dan@creativecorporation.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.creativecorporation.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "PrimeNest Retail 221",
+      "database_id": 529,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SIMPLEX SHOP",
+      "database_id": 530,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://simplexshop.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SWINYA TRADERS",
+      "database_id": 531,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

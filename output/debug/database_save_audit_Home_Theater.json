@@ -1,0 +1,35 @@
+{
+  "category": "Home Theater",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 764,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "EMBEE ENTERPRISES",
+      "database_id": 765,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918447877367",
+      "email": "support@embee.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

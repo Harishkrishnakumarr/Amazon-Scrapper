@@ -1,0 +1,87 @@
+{
+  "category": "Charcoal Bags",
+  "records_before_save": 7,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AHPL",
+      "database_id": 1147,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919822309980",
+      "email": "export@ahpl.co",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1149,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SHREVI\u00ae",
+      "database_id": 1154,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "cs@mediaindonesia.com",
+      "gst": "24ADPPL8119H1ZB",
+      "pan": "ADPPL8119H",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1148,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918849425521",
+      "email": "info@rk.world",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "https://rk.world/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Smile Shop Online",
+      "database_id": 1155,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@projektron.de",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MAPPERZ",
+      "database_id": 1156,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

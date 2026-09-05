@@ -1,0 +1,61 @@
+{
+  "category": "Gps & Accessories",
+  "records_before_save": 7,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "TORQUE CRAFT",
+      "database_id": 757,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "L3 Modz",
+      "database_id": 758,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919843199393",
+      "email": "l3modz2022@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.l3modz.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AJJAS",
+      "database_id": 759,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918065179521",
+      "email": "contact@ajjas.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.ajjas.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Onelap India",
+      "database_id": 760,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

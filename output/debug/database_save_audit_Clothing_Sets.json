@@ -1,0 +1,113 @@
+{
+  "category": "Clothing Sets",
+  "records_before_save": 8,
+  "records_saved": 8,
+  "records_verified_after_save": 8,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1392,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Vihaan Inc",
+      "database_id": 1395,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "24AANFV1649P1ZG",
+      "pan": "AANFV1649P",
+      "website": "https://www.vihaaninc.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BONUM SALES GROUP",
+      "database_id": 1393,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "09BBDPD4691R1Z0",
+      "pan": "BBDPD4691R",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kuchipoo",
+      "database_id": 1393,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "06ABAFV0462G1ZF",
+      "pan": "ABAFV0462G",
+      "website": "https://kuchipoo.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Excel India Online",
+      "database_id": 1394,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917413826826",
+      "email": "excelindiaweb123@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.excelindiaonline.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KiCO",
+      "database_id": 1392,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "csyugesh@gmail.com",
+      "gst": "27AAVFK3754G1ZU",
+      "pan": "AAVFK3754G",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "JMD Enterprises",
+      "database_id": 1396,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919334419203",
+      "email": "ordermsme@gmail.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.jmdenterprises.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "A K HOUSE.",
+      "database_id": 1393,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "unedygymraeg@companieshouse.gov.uk",
+      "gst": "06ABAFV0462G1ZF",
+      "pan": "ABAFV0462G",
+      "website": "https://www.akhouse.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

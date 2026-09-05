@@ -1,0 +1,614 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B09GRRYM24&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T03:25:21.958091"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-15T03:25:23.571055",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T03:25:26.735000"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T03:25:27.234425"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T03:25:27.235290"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-15T03:25:33.549612",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=8c0b1cc589e51cb8344076ba073f24fe&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.cocoblu.in/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-15T03:25:38.157960",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T03:25:45.547857",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T03:26:02.112729",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T03:26:10.962458",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-15T03:26:16.817587",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-15T03:26:21.918026",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-15T03:26:27.000134",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-15T03:26:29.566986",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-15T03:26:33.875632",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://theorg.com/org/cocoblu-retail",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.signalhire.com/profiles/mouli-venkataraman%27s-email/159940393"
+    ],
+    "timestamp": "2026-08-15T03:26:40.060797",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T03:26:53.617851",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-15T03:26:59.904091"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-15T03:26:59.904106"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-15T03:26:59.904109"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-15T03:26:59.904111"
+  },
+  {
+    "business": "TS LIFESTYLE",
+    "field": "Business Name",
+    "value": "TS LIFESTYLE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2V6ARLOE0T89Y&asin=B0BTJ8VSLC&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T03:27:00.348622"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "Website",
+    "query": "TS LIFESTYLE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm"
+    ],
+    "timestamp": "2026-08-15T03:27:01.780274",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "Legal Entity Name",
+    "query": "TS LIFESTYLE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "https://transport.telangana.gov.in/",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "https://teamspeak.com/en/downloads/"
+    ],
+    "timestamp": "2026-08-15T03:28:04.292707",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "Legal Entity Name",
+    "query": "TS LIFESTYLE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.typescriptlang.org/"
+    ],
+    "timestamp": "2026-08-15T03:28:14.747281",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "Legal Entity Name",
+    "query": "TS LIFESTYLE legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "https://transport.telangana.gov.in/",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "https://teamspeak.com/en/downloads/"
+    ],
+    "timestamp": "2026-08-15T03:28:16.432998",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "PAN",
+    "query": "TS LIFESTYLE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "https://transport.telangana.gov.in/",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "https://teamspeak.com/en/downloads/"
+    ],
+    "timestamp": "2026-08-15T03:28:20.751387",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "PAN",
+    "query": "TS LIFESTYLE PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "https://transport.telangana.gov.in/",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "https://teamspeak.com/en/downloads/"
+    ],
+    "timestamp": "2026-08-15T03:28:26.079952",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "PAN",
+    "query": "TS LIFESTYLE PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.typescriptlang.org/"
+    ],
+    "timestamp": "2026-08-15T03:28:31.019269",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "GST",
+    "query": "TS LIFESTYLE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "https://transport.telangana.gov.in/",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/"
+    ],
+    "timestamp": "2026-08-15T03:28:33.348286",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "GST",
+    "query": "TS LIFESTYLE GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/ts-lifestyle-07BDVPB5580P1ZQ/",
+      "https://cleartax.in/gst-number-search/",
+      "https://gst.jamku.app/gstin/33AAACL2937J1ZL",
+      "https://piceapp.com/gst-number-search/lifestyle-international-private-limited-29aaacl2937j1za/",
+      "https://www.mastersindia.co/gst-search/?name=lifestyle-international-private-limited&gstin=36AAACL2937J1ZF/"
+    ],
+    "timestamp": "2026-08-15T03:28:40.768456",
+    "status": "results_found"
+  },
+  {
+    "business": "TS LIFESTYLE",
+    "field": "GST Number",
+    "value": "07BDVPB5580P1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/ts-lifestyle-07BDVPB5580P1ZQ/",
+    "timestamp": "2026-08-15T03:28:41.381041"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "Owner",
+    "query": "TS LIFESTYLE director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "https://transport.telangana.gov.in/",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "https://teamspeak.com/en/downloads/"
+    ],
+    "timestamp": "2026-08-15T03:28:42.618110",
+    "status": "results_found"
+  },
+  {
+    "seller": "TS LIFESTYLE",
+    "field": "Owner",
+    "query": "TS LIFESTYLE managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.typescriptlang.org/",
+      "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "https://transport.telangana.gov.in/",
+      "https://www.geeksforgeeks.org/typescript/typescript-tutorial/",
+      "https://teamspeak.com/en/downloads/"
+    ],
+    "timestamp": "2026-08-15T03:28:47.986262",
+    "status": "results_found"
+  },
+  {
+    "business": "SIVASAH CREATION",
+    "field": "Business Name",
+    "value": "SIVASAH CREATION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1M3SSEHP01GP0&asin=B0BT7RL28F&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T03:29:03.981842"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "Website",
+    "query": "SIVASAH CREATION official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://okcalc.com/en/",
+      "https://www.symbolab.com/"
+    ],
+    "timestamp": "2026-08-15T03:29:05.249947",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "Legal Entity Name",
+    "query": "SIVASAH CREATION company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=Company%20registration%20online&utm_adgroup=1357898695889625&network=o&device=c&msclkid=e2a0b70d22d41a485ef4dd72ad60700c&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=Company%20registration%20online&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.mbgcorp.com/in/insights/roc-company-registration-in-india-process-forms-fees-timeline/",
+      "https://www.businessoutreach.in/how-to-register-company-india/",
+      "https://razorpay.com/rize/company-registration/",
+      "https://www.startbusiness.co.in/"
+    ],
+    "timestamp": "2026-08-15T03:29:16.286897",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "PAN",
+    "query": "SIVASAH CREATION PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ruangguru.com/blog/angka-romawi",
+      "https://zonareferensi.com/angka-romawi/",
+      "https://sijai.com/angka-romawi/",
+      "https://readmore.id/matematika/angka-romawi-1-sampai-100",
+      "https://mediaindonesia.com/humaniora/836391/angka-romawi-1-100-lengkap--cara-menulis--contoh"
+    ],
+    "timestamp": "2026-08-15T03:29:41.619361",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "PAN",
+    "query": "SIVASAH CREATION PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/382486986"
+    ],
+    "timestamp": "2026-08-15T03:29:54.236012",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "PAN",
+    "query": "SIVASAH CREATION PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.jjwxc.net/book2/4697321?more=0&whole=1",
+      "https://www.jjwxc.net/onebook.php?novelid=4697321",
+      "https://www.douyin.com/note/7641125409333358523",
+      "https://www.zhihu.com/pin/1931150747833201928",
+      "https://zhuanlan.zhihu.com/p/1990832084412023500"
+    ],
+    "timestamp": "2026-08-15T03:29:58.915642",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "GST",
+    "query": "SIVASAH CREATION GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/PowerShell/comments/181l9lh/what_is_irm_httpsmassgravedevget_iex/",
+      "https://www.reddit.com/r/Piracy/comments/1470wjh/how_does_mas_work_and_is_it_safe/",
+      "https://www.reddit.com/r/craftmybox/comments/1b559h6/usar_irm_httpsmassgravedevget_iex_no_cmd_pra/",
+      "https://www.reddit.com/r/MAS_Activator/comments/13k2yuz/microsoft_activation_scripts_mas_official/",
+      "https://www.reddit.com/r/MAS_Activator/comments/1afs0f8/pending_restart_flags/"
+    ],
+    "timestamp": "2026-08-15T03:30:15.404987",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "GST",
+    "query": "SIVASAH CREATION GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/shiva-creation-24alhph0121m1zh/",
+      "https://cleartax.in/gst-number-search/",
+      "https://piceapp.com/gst-number-search/shiva-creation-24bbvps8619g1zy/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://www.knowyourgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-08-15T03:30:27.162158",
+    "status": "results_found"
+  },
+  {
+    "business": "SIVASAH CREATION",
+    "field": "GST Number",
+    "value": "24ALHPH0121M1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shiva-creation-24alhph0121m1zh/",
+    "timestamp": "2026-08-15T03:30:29.115677"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "Owner",
+    "query": "SIVASAH CREATION director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.thesaurus.com/browse/hatred"
+    ],
+    "timestamp": "2026-08-15T03:30:30.684788",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "Owner",
+    "query": "SIVASAH CREATION managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.inven.co.kr/board/fifaonline4/3145?category=%EC%BF%A0%ED%8F%B0",
+      "https://www.inven.co.kr/webzine/news/?news=283908&site=fifaonline4",
+      "https://www.inven.co.kr/board/fifaonline4/3145/52206",
+      "https://www.inven.co.kr/board/fifaonline4/3145/39342",
+      "https://www.inven.co.kr/board/fifaonline4/3309/32690"
+    ],
+    "timestamp": "2026-08-15T03:30:32.565858",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIVASAH CREATION",
+    "field": "Address",
+    "query": "SIVASAH CREATION registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.xnxx.com/",
+      "https://www.xnxx.com/hits",
+      "https://multi.xnxx.com/",
+      "https://forum.xnxx.com/forums/sexuality.7/",
+      "https://forum.xnxx.com/tags/porn/"
+    ],
+    "timestamp": "2026-08-15T03:30:52.967685",
+    "status": "results_found"
+  }
+]

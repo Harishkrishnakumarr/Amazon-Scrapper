@@ -1,0 +1,809 @@
+[
+  {
+    "business": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Business Name",
+    "value": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ALV2S0U64C7QH&asin=B08L6NM2TP&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T12:46:45.332813"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Website",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://manthan.com/",
+      "https://www.f6s.com/companies/merchandising/india/co"
+    ],
+    "timestamp": "2026-08-18T12:46:47.767961",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Legal Entity Name",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U52390DL2015PTC287841",
+      "https://www.indiafilings.com/search/ah-merchandise-solutions-private-limited-cin-U52390DL2015PTC287841",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-18T12:46:52.637573",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "PAN",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-number-search-by-name-and-pan/#:~:text=KKKKK2624R%20is%20the%20PAN%20Number%20and%208%2C%20Z%2C,by%20default%20and%20Check%20code%20respectively%20illustrated%20below.",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U52390DL2015PTC287841",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-18T12:47:13.604801",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "PAN",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U52390DL2015PTC287841",
+      "https://gstverify.co.in/search/",
+      "https://cleartax.in/gst-number-search/",
+      "https://tallysolutions.com/business-tools-templates/gstin-verification-search/"
+    ],
+    "timestamp": "2026-08-18T12:47:20.920712",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "PAN",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U52390DL2015PTC287841",
+      "https://gstverify.co.in/search/",
+      "https://cleartax.in/s/gst-number-search-by-name/",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-08-18T12:47:27.822274",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "GST",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T12:47:33.725091",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "GST",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T12:47:45.911303",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Owner",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.companyseekers.com/",
+      "https://www.indianretailer.com/news/speciality-restaurants-appoints-avik-chatterjee-ceo-0",
+      "https://www.snapdeal.com/team/kunal-bahl",
+      "https://www.delvein.in/",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-08-18T12:47:56.670156",
+    "status": "results_found"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Address",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841#:~:text=AH%20MERCHANDISE%20SOLUTIONS%20PVT%20LTD%27s%20registered%20office%20address,Phase-iii%2C%20M.i.g%2C%20East%20Delhi%2C%20Delhi%2C%20Delhi%2C%20India%2C%20110096.",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U52390DL2015PTC287841",
+      "https://tracxn.com/d/legal-entities/india/ah-merchandise-solutions-private-limited/__wRXbb_vsJLX3jORmXp53RfkK3p9W1lEVwDHK76DNq-c",
+      "https://gst.unifers.ai/gst/07AANCA9557E2ZA/ah-merchandise-solutions-private-limited"
+    ],
+    "timestamp": "2026-08-18T12:48:17.805432",
+    "status": "results_found"
+  },
+  {
+    "business": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ah-merchandise-solutions-private-limited/__wRXbb_vsJLX3jORmXp53RfkK3p9W1lEVwDHK76DNq-c",
+    "timestamp": "2026-08-18T12:48:22.903631"
+  },
+  {
+    "business": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ah-merchandise-solutions-private-limited/__wRXbb_vsJLX3jORmXp53RfkK3p9W1lEVwDHK76DNq-c",
+    "timestamp": "2026-08-18T12:48:22.903647"
+  },
+  {
+    "business": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ah-merchandise-solutions-private-limited/__wRXbb_vsJLX3jORmXp53RfkK3p9W1lEVwDHK76DNq-c",
+    "timestamp": "2026-08-18T12:48:22.903652"
+  },
+  {
+    "business": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ah-merchandise-solutions-private-limited/__wRXbb_vsJLX3jORmXp53RfkK3p9W1lEVwDHK76DNq-c",
+    "timestamp": "2026-08-18T12:48:22.903664"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Phone",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.scribd.com/document/577326585/2020100746",
+      "https://www.yellowpages.org.in/",
+      "https://yellowpages.in/",
+      "https://nissi-group.com/contact-us/",
+      "https://tidco.com/amrlhitechcity.php"
+    ],
+    "timestamp": "2026-08-18T12:48:24.725966",
+    "status": "results_found"
+  },
+  {
+    "business": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Phone Number",
+    "value": "+912351922026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.scribd.com/document/577326585/2020100746",
+    "timestamp": "2026-08-18T12:48:35.544055"
+  },
+  {
+    "seller": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Email",
+    "query": "AH MERCHANDISE SOLUTIONS PVT LTD email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841",
+      "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U52390DL2015PTC287841",
+      "https://www.volza.com/company-profile/asb-merchandise-pvt-ltd-80759313/contacts/",
+      "https://nissi-group.com/contact-us/",
+      "https://nissi.co.in/contact-us/"
+    ],
+    "timestamp": "2026-08-18T12:48:42.133669",
+    "status": "results_found"
+  },
+  {
+    "business": "AH MERCHANDISE SOLUTIONS PVT LTD",
+    "field": "Email Address",
+    "value": "rchandise2015@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/AH-MERCHANDISE-SOLUTIONS-PRIVATE-LIMITED-U14101DL2015PTC287841",
+    "timestamp": "2026-08-18T12:48:42.710306"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "Business Name",
+    "value": "SUPREME_ENTERPRISE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YAAIW929P3EB&asin=B0CSSN8NVR&ref_=dp_merchant_link",
+    "timestamp": "2026-08-18T12:48:43.992768"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "Website",
+    "query": "SUPREME_ENTERPRISE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://suprementerprises.com/index.php",
+      "https://suprementerprises.com/about.php"
+    ],
+    "timestamp": "2026-08-18T12:48:45.980316",
+    "status": "results_found"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "Website URL",
+    "value": "https://suprementerprises.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://suprementerprises.com/index.php",
+    "timestamp": "2026-08-18T12:49:06.513507"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "Phone Number",
+    "value": "+915357372025",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://suprementerprises.com/",
+    "timestamp": "2026-08-18T12:49:06.833048"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "Email Address",
+    "value": "info@suprementerprises.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://suprementerprises.com/",
+    "timestamp": "2026-08-18T12:49:06.833388"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "Billing Address",
+    "value": "117-C, Hari Nagar, Ashram, South East Delhi, New Delhi -110014 (India)",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://suprementerprises.com/",
+    "timestamp": "2026-08-18T12:49:06.844532"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "City",
+    "value": "New Delhi  (India)",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://suprementerprises.com/",
+    "timestamp": "2026-08-18T12:49:06.844541"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://suprementerprises.com/",
+    "timestamp": "2026-08-18T12:49:06.844544"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "Pincode",
+    "value": "110014",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://suprementerprises.com/",
+    "timestamp": "2026-08-18T12:49:06.844546"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "SUPREME_ENTERPRISE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://udyamregistration.gov.in/Default.aspx",
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/search",
+      "https://cleartax.in/s/company-registration",
+      "https://indiapost.org/how-to-register-business-in-india"
+    ],
+    "timestamp": "2026-08-18T12:49:09.940632",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "SUPREME_ENTERPRISE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/search",
+      "https://www.registerkaro.in/company-details",
+      "https://www.infyner.com/due-diligence/supremeply-enterprises-private-limited/U52609TN2020PTC136879",
+      "http://www.msmeregistration.gov.in/UdyamRegistration.aspx"
+    ],
+    "timestamp": "2026-08-18T12:49:18.435063",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "PAN",
+    "query": "SUPREME_ENTERPRISE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8e954fad-3758-4f41-b626-4ea203aa1716.pdf#:~:text=021.%20INDIA%20%2B91%20%28022%29%2022851657%2C%2030925825%20CIN%3A%20L35920MH1942PLC0035S4,67710000%2C%2040430000%20UMBAI%20%E2%80%93%20400051%20Fort%2C%20MUMBAI%2040",
+      "https://gst.iadv.io/SUPREME-ENTERPRISE-18ABWPA7479G1Z1/",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.incometaxindia.gov.in/pan"
+    ],
+    "timestamp": "2026-08-18T12:49:31.503692",
+    "status": "results_found"
+  },
+  {
+    "business": "SUPREME_ENTERPRISE",
+    "field": "PAN Number",
+    "value": "ABWPA7479G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SUPREME-ENTERPRISE-18ABWPA7479G1Z1/",
+    "timestamp": "2026-08-18T12:49:33.199254"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "GST",
+    "query": "SUPREME_ENTERPRISE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/supreme-enterprise-27adipr2089k1zy/",
+      "https://gst.unifers.ai/gst/27ABZFS4868G1Z7/supreme-enterprise",
+      "https://piceapp.com/gst-number-search/supreme-enterprise-24aezfs8219n1zz/",
+      "https://fnshiftsolutions.com/gstin-search/supreme-enterprise-24AEZFS8219N1ZZ",
+      "https://gst.jamku.app/gstin/19ABVFS6543C1ZO"
+    ],
+    "timestamp": "2026-08-18T12:49:34.843853",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "GST",
+    "query": "SUPREME_ENTERPRISE GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/supreme-enterprise-27adipr2089k1zy/",
+      "https://piceapp.com/gst-number-search/supreme-enterprise-24aezfs8219n1zz/",
+      "https://gst.jamku.app/gstin/27AABPG2211L1Z4",
+      "https://gstverify.co.in/search/",
+      "https://cleartax.in/s/gst-number-search-by-name/"
+    ],
+    "timestamp": "2026-08-18T12:49:44.012630",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "GST",
+    "query": "SUPREME_ENTERPRISE GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/supreme-enterprise-27adipr2089k1zy/",
+      "https://piceapp.com/gst-number-search/supreme-enterprise-24aezfs8219n1zz/",
+      "https://piceapp.com/gst-number-search/supreme-enterprises-27amapr7225c1z8/",
+      "https://gst.unifers.ai/gst/27ABZFS4868G1Z7/supreme-enterprise",
+      "https://piceapp.com/gst-number-search/supreme-enterprise-27agvps7703h1zq/"
+    ],
+    "timestamp": "2026-08-18T12:49:50.874146",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUPREME_ENTERPRISE",
+    "field": "Owner",
+    "query": "SUPREME_ENTERPRISE director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.businessoffashion.com/people/james-jebbia/",
+      "https://blessclothing.com/who-is-the-owner-of-supreme/",
+      "https://successstory.com/companies/supreme-583",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.bloomberg.com/profile/person/21329003"
+    ],
+    "timestamp": "2026-08-18T12:50:06.163529",
+    "status": "results_found"
+  },
+  {
+    "business": "RKPM",
+    "field": "Business Name",
+    "value": "RKPM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A9MM4XYZ558M7&asin=B09M4BSSVJ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-18T12:50:16.493491"
+  },
+  {
+    "seller": "RKPM",
+    "field": "Website",
+    "query": "RKPM official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://delhimetrorail.com/station/RKPM",
+      "https://dpsrkp.net/"
+    ],
+    "timestamp": "2026-08-18T12:50:18.642186",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKPM",
+    "field": "Legal Entity Name",
+    "query": "RKPM company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13317752273",
+      "https://www.zhihu.com/question/35734173",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1018333575",
+      "https://www.zhihu.com/question/613517157",
+      "https://sensorstechforum.com/pokki-start-menu/"
+    ],
+    "timestamp": "2026-08-18T12:51:52.578409",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKPM",
+    "field": "Legal Entity Name",
+    "query": "RKPM Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://lamentedigital.com/como-se-dice-correctamente-cerca-de-mi-o-cerca-mio/",
+      "https://www.rae.es/dpd/cerca"
+    ],
+    "timestamp": "2026-08-18T12:52:03.412049",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKPM",
+    "field": "Legal Entity Name",
+    "query": "RKPM legal entity",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/"
+    ],
+    "timestamp": "2026-08-18T12:52:10.449991",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKPM",
+    "field": "PAN",
+    "query": "RKPM PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ilovepdf.com/compress_pdf",
+      "https://smallpdf.com/compress-pdf",
+      "https://tools.pdf24.org/en/compress-pdf",
+      "https://www.freeconvert.com/compress-pdf",
+      "https://www.adobe.com/acrobat/online/compress-pdf.html?msockid=060ef5542a5a658a2bdee2ed2b8364f2"
+    ],
+    "timestamp": "2026-08-18T12:52:12.619333",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKPM",
+    "field": "PAN",
+    "query": "RKPM PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.shiseido.co.jp/",
+      "https://corp.shiseido.com/jp/",
+      "https://www.shiseido.co.jp/sw/onlinestore/",
+      "https://brand.shiseido.co.jp/",
+      "https://finance.yahoo.co.jp/quote/4911.T"
+    ],
+    "timestamp": "2026-08-18T12:52:17.183829",
+    "status": "results_found"
+  },
+  {
+    "business": "LEGACYCART",
+    "field": "Business Name",
+    "value": "LEGACYCART",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39LEO1R2MCDOK&asin=B0H8DT4TY9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-18T12:52:17.654471"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "Website",
+    "query": "LEGACYCART official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.office.com/login"
+    ],
+    "timestamp": "2026-08-18T12:52:19.550595",
+    "status": "results_found"
+  },
+  {
+    "business": "LEGACYCART",
+    "field": "Website URL",
+    "value": "https://www.legacycart.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.legacycart.com/",
+    "timestamp": "2026-08-18T12:52:22.076334"
+  },
+  {
+    "business": "LEGACYCART",
+    "field": "Phone Number",
+    "value": "+919305522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.legacycart.com/",
+    "timestamp": "2026-08-18T12:52:23.438436"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "Legal Entity Name",
+    "query": "LEGACYCART company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://poki.com/?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://poki.com/id?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://poki.to/poki",
+      "https://www.crazygames.com/id/",
+      "https://poki.ac/new/"
+    ],
+    "timestamp": "2026-08-18T12:52:34.742169",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "PAN",
+    "query": "LEGACYCART PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://namu.wiki/w/%EC%95%BD%ED%95%9C%EC%98%81%EC%9B%85(%EB%93%9C%EB%9D%BC%EB%A7%88)",
+      "https://namu.wiki/w/%EC%95%BD%ED%95%9C%EC%98%81%EC%9B%85",
+      "https://m.comic.naver.com/webtoon/list?titleId=710751",
+      "https://www.netflix.com/kr/title/81742615",
+      "https://m.blog.naver.com/jaehee740/223026480677"
+    ],
+    "timestamp": "2026-08-18T12:52:58.435290",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "GST",
+    "query": "LEGACYCART GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-18T12:53:22.624777",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "GST",
+    "query": "LEGACYCART GSTIN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-18T12:53:28.932601",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "Owner",
+    "query": "LEGACYCART director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5519991/all",
+      "https://forum.lowyat.net/topic/5566080"
+    ],
+    "timestamp": "2026-08-18T12:53:44.913811",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "Owner",
+    "query": "LEGACYCART managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://trailblazers.salesforce.com/profileView?u=0054S000001Ow1RQAS",
+      "https://trailblazers.salesforce.com/profileView?u=0053A00000FTbBWQA1",
+      "https://salesforce.stackexchange.com/questions/116835/how-to-skip-verification-code-for-a-user-in-salesforce",
+      "https://stackoverflow.com/questions/9258653/salesforce-rest-api-login",
+      "https://stackoverflow.com/questions/70944727/salesforce-unsupported-grant-type-grant-type-not-supported"
+    ],
+    "timestamp": "2026-08-18T12:53:51.663077",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEGACYCART",
+    "field": "Address",
+    "query": "LEGACYCART registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://thesocialcat.com/glossary/brand-collab-manager-facebook",
+      "https://www.meta.com/brand/resources/meta/partnering-with-meta/",
+      "https://www.scalefluence.com/how-to-get-brand-collaborations-on-facebook/"
+    ],
+    "timestamp": "2026-08-18T12:54:10.421027",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0G5GM5P59&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T12:54:30.122484"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://us.etrade.com/e/t/user/login?msockid=060ef5542a5a658a2bdee2ed2b8364f2"
+    ],
+    "timestamp": "2026-08-18T12:54:32.504726",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+    "timestamp": "2026-08-18T12:55:32.462739"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151703015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-18T12:55:34.069862"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://us.etrade.com/l/welcome/new-account?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://etrade.gov.et/main/customer/business-license/registration",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/"
+    ],
+    "timestamp": "2026-08-18T12:55:42.164375",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://incometaxindia.gov.in/tax-services/online-pan-verification",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/verify-your-pan",
+      "https://us.etrade.com/e/t/user/login?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://www.utiitsl.com/"
+    ],
+    "timestamp": "2026-08-18T12:56:03.033623",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/e/t/user/login?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://us.etrade.com/home/welcome-back?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://us.etrade.com/what-we-offer/our-accounts?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://us.etrade.com/planning?msockid=060ef5542a5a658a2bdee2ed2b8364f2",
+      "https://us.etrade.com/e/t/user/loginhelp?msockid=060ef5542a5a658a2bdee2ed2b8364f2"
+    ],
+    "timestamp": "2026-08-18T12:56:18.566151",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T12:56:24.293179",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://fnshiftsolutions.com/gstin-search/etrade-marketing-private-limited-27AADCV4254H1Z8",
+      "https://gst.jamku.app/gstin/29AADCV4254H1Z4",
+      "https://gstserver.com/gst/06AADCV4254H1ZC/",
+      "https://gst.jamku.app/gstin/06AADCV4254H1ZC"
+    ],
+    "timestamp": "2026-08-18T12:56:30.576304",
+    "status": "results_found"
+  }
+]

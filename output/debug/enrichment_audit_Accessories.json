@@ -1,0 +1,755 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DW915L6V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T19:21:05.052583"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+      "https://us.etrade.com/e/t/user/login?msockid=3d8a4b5b0db0628b05895c930c4d63bb"
+    ],
+    "timestamp": "2026-09-02T19:21:06.924438",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+    "timestamp": "2026-09-02T19:21:39.617439"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://realitypathing.com/how-to-set-up-e-trade-for-a-small-business/#:~:text=Open%20an%20E-Trade%20business%20account%20application%2C%20choose%20the,exactly%20as%20they%20appear%20on%20your%20formation%20documents.",
+      "https://us.etrade.com/forms-applications?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+      "https://us.etrade.com/home?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-09-02T19:21:48.051979",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://www.etrade.com/",
+      "https://express.etrade.com/etx/rtao/ma/account-types/brokerage",
+      "https://zerodha.com/",
+      "https://www.brokerage-review.com/online-brokers/create/open-etrade-account.aspx"
+    ],
+    "timestamp": "2026-09-02T19:21:55.834245",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T19:22:05.020317",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/contact-us?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+      "https://eservices.nsdl.com/",
+      "https://us.etrade.com/e/t/user/login?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-09-02T19:22:08.351249",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://taxguru.in/goods-and-service-tax/online-gst-registration-e-commerce-businesses-guide.html",
+      "https://taxguru.in/goods-and-service-tax/online-gst-number-apply-complete-guide-gstin.html"
+    ],
+    "timestamp": "2026-09-02T19:22:25.716579",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+918333024179",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+    "timestamp": "2026-09-02T19:22:29.177328"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://gst.jamku.app/gstin/27AADCV4254H1Z8",
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-33AADCV4254H1ZF/",
+      "https://piceapp.com/gst-number-search/etrade-marketing-private-limited-27aadcv4254h1z8/"
+    ],
+    "timestamp": "2026-09-02T19:22:34.258006",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "GST Number",
+    "value": "27AADCV4254H1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-09-02T19:22:37.580161"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "PAN Number",
+    "value": "AADCV4254H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-09-02T19:22:37.580178"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://whomakethis.com/who-owns-e-trade/",
+      "https://www.cbinsights.com/company/etrade-financial/people",
+      "https://brandsownedby.com/who-owns-e-trade/"
+    ],
+    "timestamp": "2026-09-02T19:22:39.740747",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "info@creativecommons.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "timestamp": "2026-09-02T19:22:41.531921"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.company-histories.com/ETrade-Financial-Corporation-Company-History.html",
+      "https://us.etrade.com/why-etrade?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+      "https://grokipedia.com/page/William_A._Porter"
+    ],
+    "timestamp": "2026-09-02T19:22:50.151269",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://craft.co/etrade/locations",
+      "https://opengovus.com/edgar/0000879018",
+      "https://craft.co/etrade-services/locations",
+      "https://www.zoominfo.com/c/etrade-financial-corp/13370133"
+    ],
+    "timestamp": "2026-09-02T19:22:54.658049",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/contact-us?msockid=3d8a4b5b0db0628b05895c930c4d63bb",
+      "https://tracxn.com/d/legal-entities/india/etrade-marketing-private-limited/__qdhEqadUx0-JLf7Q9DrWInbifrXNFwaBwfp5hqsaPTI",
+      "https://prospeo.io/c/e-trade-from-morgan-stanley",
+      "https://www.globaldata.com/company-profile/e-trade-financial-corp/locations/"
+    ],
+    "timestamp": "2026-09-02T19:23:00.118081",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/etrade-marketing-private-limited/__qdhEqadUx0-JLf7Q9DrWInbifrXNFwaBwfp5hqsaPTI",
+    "timestamp": "2026-09-02T19:23:03.996561"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/etrade-marketing-private-limited/__qdhEqadUx0-JLf7Q9DrWInbifrXNFwaBwfp5hqsaPTI",
+    "timestamp": "2026-09-02T19:23:03.996952"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/etrade-marketing-private-limited/__qdhEqadUx0-JLf7Q9DrWInbifrXNFwaBwfp5hqsaPTI",
+    "timestamp": "2026-09-02T19:23:03.996960"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/etrade-marketing-private-limited/__qdhEqadUx0-JLf7Q9DrWInbifrXNFwaBwfp5hqsaPTI",
+    "timestamp": "2026-09-02T19:23:03.996965"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0DWFBQ8BC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T19:23:04.859952"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T19:23:06.282488",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://www.cocoblu.in/",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T19:23:09.976945",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "37AAJCC8517E1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:23:10.636919"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:23:10.636942"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:23:10.642771"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:23:10.642788"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:23:10.642795"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:23:10.642799"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "powersectt@rattanindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T19:23:12.495365"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T19:23:20.570359"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-02T19:23:22.192726",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-09-02T19:23:25.957237",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T19:23:31.311469",
+    "status": "results_found"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Business Name",
+    "value": "KBS TRADERS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3LUYR1BE8IX5A&isAmazonFulfilled=1&asin=B0DW915L6V&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T19:23:34.904761"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Website",
+    "query": "KBS TRADERS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kbs.co.in/",
+      "https://kbs.co.in/app"
+    ],
+    "timestamp": "2026-09-02T19:23:36.323048",
+    "status": "results_found"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Legal Entity Name",
+    "query": "KBS TRADERS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kbs.co.in/investor-charter",
+      "https://kbs.co.in/forms-downloads",
+      "https://kbs.co.in/faq",
+      "https://kbs.co.in/about"
+    ],
+    "timestamp": "2026-09-02T19:23:44.174151",
+    "status": "results_found"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Email Address",
+    "value": "nehal.shah@kbs.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kbs.co.in/investor-charter",
+    "timestamp": "2026-09-02T19:23:44.934933"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Billing Address",
+    "value": "106/108, jaihind bldg, 1 st floor",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kbs.co.in/investor-charter",
+    "timestamp": "2026-09-02T19:23:44.938079"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "City",
+    "value": "jaihind bldg",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kbs.co.in/investor-charter",
+    "timestamp": "2026-09-02T19:23:44.938095"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Phone Number",
+    "value": "+919820198210",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kbs.co.in/faq",
+    "timestamp": "2026-09-02T19:23:46.086560"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Legal Entity Name",
+    "query": "KBS TRADERS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.instafinancials.com/company/kbs-trading-pvt-ltd-U51109WB1995PTC076256",
+      "https://www.kbs.co.in/",
+      "https://www.thecompanycheck.com/company/kbs-trading-pvt-ltd/U51109WB1995PTC076256",
+      "https://kbs.co.in/investor-charter"
+    ],
+    "timestamp": "2026-09-02T19:23:47.926381",
+    "status": "results_found"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "PAN",
+    "query": "KBS TRADERS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T19:23:54.386584",
+    "status": "results_found"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "PAN",
+    "query": "KBS TRADERS PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan",
+      "https://maps.google.co.in/mapfiles/home3.html"
+    ],
+    "timestamp": "2026-09-02T19:24:01.725389",
+    "status": "results_found"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T19:24:03.305935"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T19:24:03.305953"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Owner",
+    "query": "KBS TRADERS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendlyne.com/equity/about/3317/KBSINDIA/kbs-india-ltd/",
+      "https://trendlyne.com/portfolio/bulk-block-deals/",
+      "https://trendlyne.com/equity/corporate-actions/KBSINDIA/3317/kbs-india-ltd/",
+      "https://trendlyne.com/equity/Split/KBSINDIA/3317/kbs-india-ltd-split/"
+    ],
+    "timestamp": "2026-09-02T19:24:04.967838",
+    "status": "results_found"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Owner",
+    "query": "KBS TRADERS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.screener.in/company/530357/",
+      "https://www.financialexpress.com/sports/from-silicon-valley-to-the-super-bowl-how-one-india-born-investor-built-a-new-playbook-for-sports/4327238/",
+      "https://money.rediff.com/companies/Kbs-India-Ltd/14090544",
+      "https://www.business-standard.com/markets/kbs-india-ltd-share-price-7043.html"
+    ],
+    "timestamp": "2026-09-02T19:24:10.105396",
+    "status": "results_found"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "Business Name",
+    "value": "Kesi Ornaments",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A304K9S29J78T9&isAmazonFulfilled=0&asin=B0FJM34MVF&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-02T19:24:15.337157"
+  },
+  {
+    "seller": "Kesi Ornaments",
+    "field": "Website",
+    "query": "Kesi Ornaments official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hunzo.in/products/kesi-ornaments-baby-teething-toys",
+      "https://www.bestreviewsonline.in/kesi-ornaments-8-pack"
+    ],
+    "timestamp": "2026-09-02T19:24:16.725310",
+    "status": "results_found"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "Website URL",
+    "value": "https://hunzo.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://hunzo.in/products/kesi-ornaments-baby-teething-toys",
+    "timestamp": "2026-09-02T19:24:21.241189"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "Phone Number",
+    "value": "+919888939280",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://hunzo.in/",
+    "timestamp": "2026-09-02T19:24:26.261199"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "Email Address",
+    "value": "hunzo.in@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://hunzo.in/",
+    "timestamp": "2026-09-02T19:24:26.262554"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "Billing Address",
+    "value": "615, sector 8B, Chandigarh, 160009",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://hunzo.in/",
+    "timestamp": "2026-09-02T19:24:26.268600"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "State",
+    "value": "Chandigarh",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://hunzo.in/",
+    "timestamp": "2026-09-02T19:24:26.268613"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "Pincode",
+    "value": "160009",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://hunzo.in/",
+    "timestamp": "2026-09-02T19:24:26.268616"
+  },
+  {
+    "seller": "Kesi Ornaments",
+    "field": "Legal Entity Name",
+    "query": "Kesi Ornaments company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://udyamregisteration.org/",
+      "https://www.inspex.in/",
+      "https://www.startbusiness.co.in/"
+    ],
+    "timestamp": "2026-09-02T19:24:42.517388",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kesi Ornaments",
+    "field": "Legal Entity Name",
+    "query": "Kesi Ornaments Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://gstverify.co.in/search/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-02T19:24:53.135637",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kesi Ornaments",
+    "field": "PAN",
+    "query": "Kesi Ornaments PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.desitoolkit.in/tools/government/pan-decoder",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T19:24:57.634389",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kesi Ornaments",
+    "field": "PAN",
+    "query": "Kesi Ornaments PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://piceapp.com/gst-number-search/",
+      "https://www.invoizzy.in/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T19:25:00.675948",
+    "status": "results_found"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T19:25:01.512306"
+  },
+  {
+    "business": "Kesi Ornaments",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T19:25:01.512330"
+  },
+  {
+    "seller": "Kesi Ornaments",
+    "field": "Owner",
+    "query": "Kesi Ornaments director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.kesi_ornaments.53e2a8e3ecf405fdd7bbe8d5a9e31021.html",
+      "https://palmonas.com/pages/about-us",
+      "https://www.wordunscrambler.net/codycross-answers/daily-puzzle/group-902021/",
+      "https://hanh-founder.carrd.co/"
+    ],
+    "timestamp": "2026-09-02T19:25:03.001855",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kesi Ornaments",
+    "field": "Owner",
+    "query": "Kesi Ornaments founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.researchgate.net/publication/271969470_The_Origin_and_Heritage_of_Kesi_Technique",
+      "https://www.dnb.com/business-directory/company-profiles.kesi_ornaments.53e2a8e3ecf405fdd7bbe8d5a9e31021.html",
+      "https://buyhatke.com/amazon-kesi-ornaments-manual-800-ml-food-chopper-manual-hand-press-chopper-with-sharp-blades-to-cut-onion-tomatoes-all-vegetables-all-fruits-ultra-durable-price-in-india-63-76336642"
+    ],
+    "timestamp": "2026-09-02T19:25:15.759277",
+    "status": "results_found"
+  }
+]

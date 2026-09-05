@@ -1,0 +1,716 @@
+[
+  {
+    "business": "Black Jones",
+    "field": "Business Name",
+    "value": "Black Jones",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2RUW1561TNTQ3&asin=B0GVYXN3QR&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T19:42:17.918339"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Website",
+    "query": "Black Jones official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://blackjones.in/new-arrivals/",
+      "https://blackjones.in/"
+    ],
+    "timestamp": "2026-09-02T19:42:19.576298",
+    "status": "results_found"
+  },
+  {
+    "business": "Black Jones",
+    "field": "Website URL",
+    "value": "https://www.blackjones.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.blackjones.com/",
+    "timestamp": "2026-09-02T19:42:22.708604"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Legal Entity Name",
+    "query": "Black Jones company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/?topic_id=18",
+      "https://theresanaiforthat.com/s/black+jones+company+registration/",
+      "https://blackjones.in/my-account-3/",
+      "https://www.gov.uk/government/organisations/companies-house"
+    ],
+    "timestamp": "2026-09-02T19:42:30.516651",
+    "status": "results_found"
+  },
+  {
+    "business": "Black Jones",
+    "field": "Phone Number",
+    "value": "+919289291994",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blackjones.in/my-account-3/",
+    "timestamp": "2026-09-02T19:42:33.672494"
+  },
+  {
+    "business": "Black Jones",
+    "field": "Email Address",
+    "value": "sales.blackjones@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blackjones.in/my-account-3/",
+    "timestamp": "2026-09-02T19:42:33.672582"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Legal Entity Name",
+    "query": "Black Jones Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/",
+      "https://mcalookup.in/"
+    ],
+    "timestamp": "2026-09-02T19:42:35.547228",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "PAN",
+    "query": "Black Jones PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide#:~:text=Another%20way%20to%20find%20your%20PAN%20number%20by,your%20personal%20details%2C%20complete%20the%20captcha%2C%20and%20submit.",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T19:42:41.787843",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "PAN",
+    "query": "Black Jones PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/pan-number-name-search#:~:text=Below%20are%20the%20steps%20to%20perform%20this%20search%3A,Step%204%3A%20Complete%20the%20CAPTCHA%20and%20click%20%E2%80%9CSubmit.%E2%80%9D",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://capitalprofit.co.in/search-pan-number-search-by-name/",
+      "https://tincheck.io/india/"
+    ],
+    "timestamp": "2026-09-02T19:42:45.891236",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "GST",
+    "query": "Black Jones GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/black-jones-07aatfb8462e1z4/",
+      "https://fnshiftsolutions.com/gstin-search/black-jones-07AATFB8462E1Z4",
+      "https://fnshiftsolutions.com/gstin-search/black-jones-27AATFB8462E1Z2",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T19:43:00.082605",
+    "status": "results_found"
+  },
+  {
+    "business": "Black Jones",
+    "field": "GST Number",
+    "value": "07AATFB8462E1Z4",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/black-jones-07AATFB8462E1Z4",
+    "timestamp": "2026-09-02T19:43:00.996877"
+  },
+  {
+    "business": "Black Jones",
+    "field": "PAN Number",
+    "value": "AATFB8462E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/black-jones-07AATFB8462E1Z4",
+    "timestamp": "2026-09-02T19:43:00.996889"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Owner",
+    "query": "Black Jones director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/blacksoil/__vika6frNHJsjD4Kivkg6WHRZRnXfHVh9uyW_ZHs7YrI",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.ycombinator.com/companies/black-founders",
+      "https://blacklakesecurity.com/leadership/"
+    ],
+    "timestamp": "2026-09-02T19:43:02.291834",
+    "status": "results_found"
+  },
+  {
+    "business": "Black Jones",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/blacksoil/__vika6frNHJsjD4Kivkg6WHRZRnXfHVh9uyW_ZHs7YrI",
+    "timestamp": "2026-09-02T19:43:02.836163"
+  },
+  {
+    "business": "Black Jones",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/blacksoil/__vika6frNHJsjD4Kivkg6WHRZRnXfHVh9uyW_ZHs7YrI",
+    "timestamp": "2026-09-02T19:43:02.836174"
+  },
+  {
+    "business": "Black Jones",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/blacksoil/__vika6frNHJsjD4Kivkg6WHRZRnXfHVh9uyW_ZHs7YrI",
+    "timestamp": "2026-09-02T19:43:02.836177"
+  },
+  {
+    "business": "Black Jones",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/blacksoil/__vika6frNHJsjD4Kivkg6WHRZRnXfHVh9uyW_ZHs7YrI",
+    "timestamp": "2026-09-02T19:43:02.836179"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Owner",
+    "query": "Black Jones founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blackjones.in/",
+      "https://blackjones.in/new-arrivals/",
+      "https://blackjones.in/eyewear/",
+      "https://blackjones.in/men-2/"
+    ],
+    "timestamp": "2026-09-02T19:43:09.968875",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B08CZYM6DC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T19:43:11.504030"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T19:43:12.855838",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/work-with-us/",
+    "timestamp": "2026-09-02T19:43:15.651483"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T19:43:16.037416"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T19:43:16.037719"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-32AAJCC8517E1ZU/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T19:43:19.481329",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T19:43:19.955345"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T19:43:19.955357"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T19:43:21.242177",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:43:21.621635"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:43:21.621645"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:43:21.621648"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:43:21.621650"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T19:43:24.864443"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T19:43:27.195864",
+    "status": "results_found"
+  },
+  {
+    "business": "Royal Son",
+    "field": "Business Name",
+    "value": "Royal Son",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2LNIEOU5J7ZO4&isAmazonFulfilled=1&asin=B08CZYM6DC&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T19:43:29.469660"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "Website",
+    "query": "Royal Son official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://royalson.in/",
+      "https://royalson.in/collections/vendors?q=royal+son"
+    ],
+    "timestamp": "2026-09-02T19:43:30.791216",
+    "status": "results_found"
+  },
+  {
+    "business": "Royal Son",
+    "field": "Website URL",
+    "value": "https://www.royalson.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.royalson.com/",
+    "timestamp": "2026-09-02T19:43:33.969582"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "Legal Entity Name",
+    "query": "Royal Son company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://royalson.in/account/register",
+      "https://royalson.in/",
+      "https://businesssetup.in/step-by-step-guide-to-company-registration-in-india-2025/",
+      "https://www.registerkaro.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-09-02T19:43:41.815838",
+    "status": "results_found"
+  },
+  {
+    "business": "Royal Son",
+    "field": "Phone Number",
+    "value": "+919351121114",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://royalson.in/account/register",
+    "timestamp": "2026-09-02T19:43:43.479335"
+  },
+  {
+    "business": "Royal Son",
+    "field": "Email Address",
+    "value": "info@royalson.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://royalson.in/account/register",
+    "timestamp": "2026-09-02T19:43:43.479391"
+  },
+  {
+    "business": "Royal Son",
+    "field": "Billing Address",
+    "value": "electricity bill/water bill/property tax receipt",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://businesssetup.in/step-by-step-guide-to-company-registration-in-india-2025/",
+    "timestamp": "2026-09-02T19:43:45.683022"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "Legal Entity Name",
+    "query": "Royal Son Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.instafinancials.com/products/instabasic.html",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-02T19:43:47.952134",
+    "status": "results_found"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "PAN",
+    "query": "Royal Son PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp"
+    ],
+    "timestamp": "2026-09-02T19:43:53.556568",
+    "status": "results_found"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "PAN",
+    "query": "Royal Son PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T19:44:17.901704",
+    "status": "no_results"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "GST",
+    "query": "Royal Son GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/royal-son-27bjlpk7740j1zq/",
+      "https://piceapp.com/gst-number-search/royal-son-29bjlpk7740j1zm/",
+      "https://www.knowyourgst.com/gst-number-search/royal-son-36BJLPK7740J1ZR/",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T19:44:19.719880",
+    "status": "results_found"
+  },
+  {
+    "business": "Royal Son",
+    "field": "GST Number",
+    "value": "36BJLPK7740J1ZR",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/royal-son-36BJLPK7740J1ZR/",
+    "timestamp": "2026-09-02T19:44:23.138961"
+  },
+  {
+    "business": "Royal Son",
+    "field": "PAN Number",
+    "value": "BJLPK7740J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/royal-son-36BJLPK7740J1ZR/",
+    "timestamp": "2026-09-02T19:44:23.138970"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "Owner",
+    "query": "Royal Son director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.forbes.com/profile/vikram-lal/",
+      "https://careers.royalenfield.com/us/en/leaders-speak",
+      "https://whoistheownerof.com/who-is-the-owner-of-royal-enfield/"
+    ],
+    "timestamp": "2026-09-02T19:44:24.649821",
+    "status": "results_found"
+  },
+  {
+    "seller": "Royal Son",
+    "field": "Owner",
+    "query": "Royal Son founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://royalson.in/",
+      "https://www.dnb.com/business-directory/company-profiles.royal_son.5b77b17698b31568eec500203f18eddb.html",
+      "https://www.forbes.com/profile/raj-kumar-kishin-rk/",
+      "https://internshala.com/company/royal-son-1775723505"
+    ],
+    "timestamp": "2026-09-02T19:44:34.646148",
+    "status": "results_found"
+  },
+  {
+    "business": "Hasterr Lifestyle",
+    "field": "Business Name",
+    "value": "Hasterr Lifestyle",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AH4IF5GTELW8Q&asin=B0GTZK5XL8&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T19:44:40.665866"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "Website",
+    "query": "Hasterr Lifestyle official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hastaglifestyle.com/pages/about-us",
+      "https://havster.in/pages/contact"
+    ],
+    "timestamp": "2026-09-02T19:44:42.104561",
+    "status": "results_found"
+  },
+  {
+    "business": "Hasterr Lifestyle",
+    "field": "Website URL",
+    "value": "https://havster.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://havster.in/pages/contact",
+    "timestamp": "2026-09-02T19:44:45.470314"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "Legal Entity Name",
+    "query": "Hasterr Lifestyle company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://businessregistration.launzr.com/",
+      "https://www.registerkaro.in/company-registration",
+      "https://www.registerkaro.in/",
+      "https://juststart.co.in/"
+    ],
+    "timestamp": "2026-09-02T19:44:54.216565",
+    "status": "results_found"
+  },
+  {
+    "business": "Hasterr Lifestyle",
+    "field": "Phone Number",
+    "value": "+918169969331",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://businessregistration.launzr.com/",
+    "timestamp": "2026-09-02T19:44:56.049990"
+  },
+  {
+    "business": "Hasterr Lifestyle",
+    "field": "Email Address",
+    "value": "support@launzr.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://businessregistration.launzr.com/",
+    "timestamp": "2026-09-02T19:44:56.050435"
+  },
+  {
+    "business": "Hasterr Lifestyle",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T19:44:57.353023"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "Legal Entity Name",
+    "query": "Hasterr Lifestyle Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/HAVSTER-LIFESTYLE-PRIVATE-LIMITED-U14103UP2025PTC226253",
+      "https://www.thecompanycheck.com/company/havster-lifestyle-private-limited/U14103UP2025PTC226253",
+      "https://tracxn.com/d/legal-entities/india/havster-lifestyle-private-limited/__AY3Og8xxakl5CnbgkwieW21Rc60ofRQuxYQ59UlsP7w",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T19:45:02.573109",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "PAN",
+    "query": "Hasterr Lifestyle PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-09-02T19:45:06.749912",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "GST",
+    "query": "Hasterr Lifestyle GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T19:45:29.877870",
+    "status": "no_results"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "GST",
+    "query": "Hasterr Lifestyle GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/havster-lifestyle-private-limited-09AAICH0134R1Z7/",
+      "https://gstextract.com/gstin-details",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-09-02T19:45:31.319427",
+    "status": "results_found"
+  },
+  {
+    "business": "Hasterr Lifestyle",
+    "field": "GST Number",
+    "value": "09AAICH0134R1Z7",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/havster-lifestyle-private-limited-09AAICH0134R1Z7/",
+    "timestamp": "2026-09-02T19:45:34.948534"
+  },
+  {
+    "business": "Hasterr Lifestyle",
+    "field": "PAN Number",
+    "value": "AAICH0134R",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/havster-lifestyle-private-limited-09AAICH0134R1Z7/",
+    "timestamp": "2026-09-02T19:45:34.948543"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "Owner",
+    "query": "Hasterr Lifestyle director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marketscreener.com/insider/RAJIV-DINESH-GANDHI-A0UC7E/",
+      "https://www.indiratrade.com/company-profile/board-members/haslifestyle",
+      "https://www.crunchbase.com/person/rajiv-gandhi-c80b",
+      "https://tracxn.com/d/companies/hamsterlondon/__6sbDVhc5ywSsRXflwsMsM8rcSWkvMdFzMGOdE7SJghk"
+    ],
+    "timestamp": "2026-09-02T19:45:36.207983",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hasterr Lifestyle",
+    "field": "Owner",
+    "query": "Hasterr Lifestyle founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/companies/hamsterlondon/__6sbDVhc5ywSsRXflwsMsM8rcSWkvMdFzMGOdE7SJghk",
+      "https://www.ynos.in/startup/outzidr-553363"
+    ],
+    "timestamp": "2026-09-02T19:45:40.754976",
+    "status": "results_found"
+  }
+]

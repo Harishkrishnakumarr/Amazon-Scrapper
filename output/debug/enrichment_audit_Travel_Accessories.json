@@ -1,0 +1,478 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DW915L6V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T00:27:45.340655"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:27:47.080130",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+    "timestamp": "2026-09-05T00:28:17.559412"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:28:26.025702",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:28:36.400873",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:28:46.175292",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:28:57.782737",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:29:01.102136",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:29:13.977308",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:29:17.144207",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:29:24.591207",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:29:32.579602",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=376d223237f1600b052c35f836a86131",
+      "https://us.etrade.com/e/t/user/login?msockid=376d223237f1600b052c35f836a86131",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=376d223237f1600b052c35f836a86131"
+    ],
+    "timestamp": "2026-09-05T00:29:41.246755",
+    "status": "results_found"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Business Name",
+    "value": "KBS TRADERS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3LUYR1BE8IX5A&isAmazonFulfilled=1&asin=B0DW915L6V&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-05T00:29:47.935200"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Website",
+    "query": "KBS TRADERS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://kbstraders.com/",
+      "https://www.kbstrading.com/"
+    ],
+    "timestamp": "2026-09-05T00:29:52.876454",
+    "status": "results_found"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Website URL",
+    "value": "https://www.kbstraders.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kbstraders.com/",
+    "timestamp": "2026-09-05T00:29:54.351580"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Phone Number",
+    "value": "+919946601888",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kbstraders.com/",
+    "timestamp": "2026-09-05T00:29:56.238951"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Email Address",
+    "value": "info@kbstraders.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kbstraders.com/",
+    "timestamp": "2026-09-05T00:29:56.239031"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Legal Entity Name",
+    "query": "KBS TRADERS company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=9df3cc2cc49e11422e5da6b7d1dbc38d&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://find-and-update.company-information.service.gov.uk/company/14392954",
+      "https://www.ukcompanydir.com/companies/kbs-traders-ltd/",
+      "https://kbs.co.in/investor-charter"
+    ],
+    "timestamp": "2026-09-05T00:30:01.980418",
+    "status": "results_found"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "Billing Address",
+    "value": "106/108, jaihind bldg, 1 st floor",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kbs.co.in/investor-charter",
+    "timestamp": "2026-09-05T00:30:09.258360"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "City",
+    "value": "jaihind bldg",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kbs.co.in/investor-charter",
+    "timestamp": "2026-09-05T00:30:09.258386"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Legal Entity Name",
+    "query": "KBS TRADERS Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/kbs-traders-33AAVFK5137D1ZA",
+      "https://www.companydetails.in/company/kbs-trading-pvt-ltd",
+      "https://www.indiafilings.com/search/kbs-trading-pvt-ltd-cin-U51109WB1995PTC076256",
+      "https://www.thecompanycheck.com/company/kbs-trading-pvt-ltd/U51109WB1995PTC076256"
+    ],
+    "timestamp": "2026-09-05T00:30:13.898529",
+    "status": "results_found"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "PAN",
+    "query": "KBS TRADERS PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.kbs.co.in/",
+      "https://kbstrading.in/",
+      "https://www.dnb.com/business-directory/company-profiles.kbs_traders.aff1cc2252e864d9b92f273131d1c370.html"
+    ],
+    "timestamp": "2026-09-05T00:30:23.099188",
+    "status": "results_found"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "GST",
+    "query": "KBS TRADERS GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/trademark-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=403741929&Adgroupid=1335907225705653&Adid=83494598968972&device=c&Adposition=&physical=262576&match_type=p&network=brand%20name%20registration&target_name=kwd-83494716304230:loc-90&placement=&keyword_id=brand%20name%20registration&msclkid=d0f3c3d88379159278b5a943961dface",
+      "https://www.knowyourgst.com/gst-number-search/kbs-traders-33AAVFK5137D1ZA/",
+      "https://piceapp.com/gst-number-search/kbs-traders-33aavfk5137d1za/",
+      "https://fnshiftsolutions.com/gstin-search/kbs-traders-33AAVFK5137D1ZA"
+    ],
+    "timestamp": "2026-09-05T00:30:33.974917",
+    "status": "results_found"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "GST Number",
+    "value": "33AAVFK5137D1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kbs-traders-33AAVFK5137D1ZA/",
+    "timestamp": "2026-09-05T00:30:36.734730"
+  },
+  {
+    "business": "KBS TRADERS",
+    "field": "PAN Number",
+    "value": "AAVFK5137D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kbs-traders-33AAVFK5137D1ZA/",
+    "timestamp": "2026-09-05T00:30:36.734757"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Owner",
+    "query": "KBS TRADERS director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kbs-trade.com/about",
+      "https://www.ukcompanydir.com/companies/kbs-traders-ltd/",
+      "https://find-and-update.company-information.service.gov.uk/company/14392954/officers",
+      "https://www.marketscreener.com/insider/KEITH-HALL-A01W56/"
+    ],
+    "timestamp": "2026-09-05T00:30:40.645815",
+    "status": "results_found"
+  },
+  {
+    "seller": "KBS TRADERS",
+    "field": "Owner",
+    "query": "KBS TRADERS founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kbs-trade.com/about",
+      "https://find-and-update.company-information.service.gov.uk/company/14392954",
+      "https://find-and-update.company-information.service.gov.uk/company/14392954/filing-history",
+      "https://www.kbstrading.com/"
+    ],
+    "timestamp": "2026-09-05T00:30:49.770710",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0DW9B8QL7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T00:30:52.782985"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-09-05T00:30:54.231273",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-09-05T00:30:59.916985",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "support@rkgaming.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkgamingstore.com/",
+    "timestamp": "2026-09-05T00:31:09.916211"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-09-05T00:31:16.729649",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-09-05T00:31:37.714543",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-09-05T00:31:56.444597",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Address",
+    "query": "RK World Infocom Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-09-05T00:32:17.909386",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Phone",
+    "query": "RK World Infocom Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-09-05T00:32:35.362173",
+    "status": "results_found"
+  }
+]

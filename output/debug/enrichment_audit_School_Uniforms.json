@@ -1,0 +1,467 @@
+[
+  {
+    "business": "REAL CHOICE 01",
+    "field": "Business Name",
+    "value": "REAL CHOICE 01",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2A5QXBXHNNODH&asin=B0FP9D6N8X&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T14:59:12.384309"
+  },
+  {
+    "seller": "REAL CHOICE 01",
+    "field": "Website",
+    "query": "REAL CHOICE 01 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://realchoice.co.in/index.aspx",
+      "https://www.realchoicegarments.com/"
+    ],
+    "timestamp": "2026-09-02T14:59:16.923813",
+    "status": "results_found"
+  },
+  {
+    "seller": "REAL CHOICE 01",
+    "field": "Legal Entity Name",
+    "query": "REAL CHOICE 01 company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686895x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686895&hsa_kw=how%20to%20register%20a%20company%20in%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=daec923eef9915fd4f10f8a9031a5689&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=how%20to%20register%20a%20company%20in%20usa&utm_content=International%20-%20International%20-%20General",
+      "http://www.shopperapproved.com/reviews/IncFile.com/?IG=0afddf75f0b44aa4a16a97ec824db767",
+      "https://entitycheck.com/",
+      "https://find-and-update.company-information.service.gov.uk/"
+    ],
+    "timestamp": "2026-09-02T14:59:28.132980",
+    "status": "results_found"
+  },
+  {
+    "seller": "REAL CHOICE 01",
+    "field": "Legal Entity Name",
+    "query": "REAL CHOICE 01 Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.falconebiz.com/company/REAL-CHOICE-ENTERPRISES-PRIVATE-LIMITED-U41000KA2025PTC211458",
+      "https://www.companydetails.in/"
+    ],
+    "timestamp": "2026-09-02T14:59:37.933228",
+    "status": "results_found"
+  },
+  {
+    "seller": "REAL CHOICE 01",
+    "field": "PAN",
+    "query": "REAL CHOICE 01 PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gentools.io/pan-card-generator",
+      "https://taxless.in/pan-card-validator"
+    ],
+    "timestamp": "2026-09-02T14:59:41.107943",
+    "status": "results_found"
+  },
+  {
+    "seller": "REAL CHOICE 01",
+    "field": "GST",
+    "query": "REAL CHOICE 01 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/real-choice-27afrpc5246c1zk/",
+      "https://piceapp.com/gst-number-search/real-choice-27aaapn4142n1zk/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://www.knowyourgst.com/gst-number-search/real-choice-27AFZPG7948D1ZT/"
+    ],
+    "timestamp": "2026-09-02T14:59:55.895033",
+    "status": "results_found"
+  },
+  {
+    "business": "REAL CHOICE 01",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search",
+    "timestamp": "2026-09-02T14:59:59.534455"
+  },
+  {
+    "business": "REAL CHOICE 01",
+    "field": "GST Number",
+    "value": "01AAUCM7837L1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search",
+    "timestamp": "2026-09-02T14:59:59.536699"
+  },
+  {
+    "business": "REAL CHOICE 01",
+    "field": "PAN Number",
+    "value": "AAUCM7837L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search",
+    "timestamp": "2026-09-02T14:59:59.536717"
+  },
+  {
+    "seller": "REAL CHOICE 01",
+    "field": "Owner",
+    "query": "REAL CHOICE 01 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://realchoice.co.in/#:~:text=Exporter%2C%20Wholesaler%2C%20Distributor%20and%20Trader%20of%20Kids%20Garments,Viral%20Nagda%20is%20the%20CEO%20at%20Real%20Choice.",
+      "http://realchoice.co.in/",
+      "https://www.inspex.in/",
+      "https://tracxn.com/d/legal-entities/india/real-choice-enterprises-private-limited/__1csODiJQtLw_gWMwtEY2KWJ1earRjJqNtTo0XgobKn8"
+    ],
+    "timestamp": "2026-09-02T15:00:01.379341",
+    "status": "results_found"
+  },
+  {
+    "business": "REAL CHOICE 01",
+    "field": "Email Address",
+    "value": "info@realchoice.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://realchoice.co.in/#:~:text=Exporter%2C%20Wholesaler%2C%20Distributor%20and%20Trader%20of%20Kids%20Garments,Viral%20Nagda%20is%20the%20CEO%20at%20Real%20Choice.",
+    "timestamp": "2026-09-02T15:00:05.941395"
+  },
+  {
+    "business": "REAL CHOICE 01",
+    "field": "Billing Address",
+    "value": "g/23, essgee options one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://realchoice.co.in/",
+    "timestamp": "2026-09-02T15:00:09.604952"
+  },
+  {
+    "business": "REAL CHOICE 01",
+    "field": "City",
+    "value": "essgee options one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://realchoice.co.in/",
+    "timestamp": "2026-09-02T15:00:09.604968"
+  },
+  {
+    "seller": "REAL CHOICE 01",
+    "field": "Owner",
+    "query": "REAL CHOICE 01 founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "http://realchoice.co.in/#:~:text=Exporter%2C%20Wholesaler%2C%20Distributor%20and%20Trader%20of%20Kids%20Garments,Viral%20Nagda%20is%20the%20CEO%20at%20Real%20Choice.",
+      "http://realchoice.co.in/",
+      "https://tracxn.com/d/legal-entities/india/real-choice-enterprises-private-limited/__1csODiJQtLw_gWMwtEY2KWJ1earRjJqNtTo0XgobKn8"
+    ],
+    "timestamp": "2026-09-02T15:00:17.073180",
+    "status": "results_found"
+  },
+  {
+    "business": "HORN Dark K",
+    "field": "Business Name",
+    "value": "HORN Dark K",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39D0YCN9ZDD1R&asin=B0G9M9L78H&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T15:00:18.477516"
+  },
+  {
+    "seller": "HORN Dark K",
+    "field": "Website",
+    "query": "HORN Dark K official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dark.netflix.io/",
+      "https://darkofficial.com/site/"
+    ],
+    "timestamp": "2026-09-02T15:00:20.097018",
+    "status": "results_found"
+  },
+  {
+    "seller": "HORN Dark K",
+    "field": "Legal Entity Name",
+    "query": "HORN Dark K company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/horn-dark-private-limited/__2ZBrRdegarcIwy4nCHIez82w4n3QHM_MWFGFKX1z__A#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202BR2021PTC052251%20and%20its%20current%20status%20is%20Active.",
+      "https://www.registerkaro.in/company/horn-dark-private-limited-U18202BR2021PTC052251",
+      "https://www.companydetails.in/company/horn-dark-private-limited",
+      "https://www.instafinancials.com/company/horn-dark-private-limited/U18202BR2021PTC052251/index.html"
+    ],
+    "timestamp": "2026-09-02T15:01:09.574728",
+    "status": "results_found"
+  },
+  {
+    "business": "HORN Dark K",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/horn-dark-private-limited/__2ZBrRdegarcIwy4nCHIez82w4n3QHM_MWFGFKX1z__A#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202BR2021PTC052251%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:01:10.671271"
+  },
+  {
+    "business": "HORN Dark K",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/horn-dark-private-limited/__2ZBrRdegarcIwy4nCHIez82w4n3QHM_MWFGFKX1z__A#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202BR2021PTC052251%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:01:10.671289"
+  },
+  {
+    "business": "HORN Dark K",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/horn-dark-private-limited/__2ZBrRdegarcIwy4nCHIez82w4n3QHM_MWFGFKX1z__A#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202BR2021PTC052251%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:01:10.671294"
+  },
+  {
+    "business": "HORN Dark K",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/horn-dark-private-limited/__2ZBrRdegarcIwy4nCHIez82w4n3QHM_MWFGFKX1z__A#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202BR2021PTC052251%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:01:10.671298"
+  },
+  {
+    "business": "HORN Dark K",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/horn-dark-private-limited-U18202BR2021PTC052251",
+    "timestamp": "2026-09-02T15:01:13.014286"
+  },
+  {
+    "seller": "HORN Dark K",
+    "field": "PAN",
+    "query": "HORN Dark K PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://pancards.org/pan-card-number-check/",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T15:01:38.965758",
+    "status": "results_found"
+  },
+  {
+    "business": "HORN Dark K",
+    "field": "Email Address",
+    "value": "gsd@utiitsl.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://pancards.org/pan-card-number-check/",
+    "timestamp": "2026-09-02T15:01:49.961102"
+  },
+  {
+    "seller": "HORN Dark K",
+    "field": "GST",
+    "query": "HORN Dark K GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/horn-dark-private-limited-10AAFCH8058P1Z8/",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T15:01:54.643780",
+    "status": "results_found"
+  },
+  {
+    "seller": "HORN Dark K",
+    "field": "Owner",
+    "query": "HORN Dark K director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company/horn-dark-private-limited-U18202BR2021PTC052251",
+      "https://www.dnb.com/business-directory/company-profiles.horn_dark_private_limited.6b7cf07c46f8bf74e26bf61b17425c95.html",
+      "https://www.indiafilings.com/search/horn-dark-private-limited-cin-U18202BR2021PTC052251",
+      "https://www.thecompanycheck.com/company/horn-dark-private-limited/U18202BR2021PTC052251"
+    ],
+    "timestamp": "2026-09-02T15:02:22.108978",
+    "status": "results_found"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "Business Name",
+    "value": "Dress Emporium Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=APO7002LZHWXN&asin=B0F5X1ZL8K&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T15:02:24.465394"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Website",
+    "query": "Dress Emporium Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://byshree.com/collections/a-line-kurta-kurtis"
+    ],
+    "timestamp": "2026-09-02T15:02:27.281856",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "Dress Emporium Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T15:02:48.781038",
+    "status": "no_results"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "Dress Emporium Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://mcalookup.in/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T15:02:51.505081",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "PAN",
+    "query": "Dress Emporium Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://mcalookup.in/",
+      "https://tincheck.io/india/"
+    ],
+    "timestamp": "2026-09-02T15:02:53.900060",
+    "status": "results_found"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T15:03:00.571194"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T15:03:00.571234"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Owner",
+    "query": "Dress Emporium Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/director/pavit/08558451",
+      "https://in.marketscreener.com/quote/stock/ARVIND-FASHIONS-LIMITED-55763416/company-governance/",
+      "https://www.inspex.in/",
+      "https://www.forbes.com/profile/deepinder-goyal/"
+    ],
+    "timestamp": "2026-09-02T15:03:04.433272",
+    "status": "results_found"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "Email Address",
+    "value": "team@qorpiq.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/director/pavit/08558451",
+    "timestamp": "2026-09-02T15:03:07.499138"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T15:03:17.326749"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Address",
+    "query": "Dress Emporium Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/inditex-trent-retail-india-private-limited/__J2tmWkX4kyx8CTsUVvTjcBPGPKtjfpCz37dwgAX1QA0#:~:text=Its%20registered%20address%20is%208th%20Floor%2C%20Ambience%20Corporate,%28CIN%29%20U74900HR2009FTC043768%20and%20its%20current%20status%20is%20Active.",
+      "https://www.inspex.in/",
+      "https://www.planetexim.net/indian-company/dsenterprises-pvtltd/cin/U51900MH1991PTC063683.html",
+      "https://tracxn.com/d/legal-entities/india/inditex-trent-retail-india-private-limited/__J2tmWkX4kyx8CTsUVvTjcBPGPKtjfpCz37dwgAX1QA0"
+    ],
+    "timestamp": "2026-09-02T15:03:24.817048",
+    "status": "results_found"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inditex-trent-retail-india-private-limited/__J2tmWkX4kyx8CTsUVvTjcBPGPKtjfpCz37dwgAX1QA0#:~:text=Its%20registered%20address%20is%208th%20Floor%2C%20Ambience%20Corporate,%28CIN%29%20U74900HR2009FTC043768%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:03:29.177178"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inditex-trent-retail-india-private-limited/__J2tmWkX4kyx8CTsUVvTjcBPGPKtjfpCz37dwgAX1QA0#:~:text=Its%20registered%20address%20is%208th%20Floor%2C%20Ambience%20Corporate,%28CIN%29%20U74900HR2009FTC043768%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:03:29.177223"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inditex-trent-retail-india-private-limited/__J2tmWkX4kyx8CTsUVvTjcBPGPKtjfpCz37dwgAX1QA0#:~:text=Its%20registered%20address%20is%208th%20Floor%2C%20Ambience%20Corporate,%28CIN%29%20U74900HR2009FTC043768%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:03:29.177238"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inditex-trent-retail-india-private-limited/__J2tmWkX4kyx8CTsUVvTjcBPGPKtjfpCz37dwgAX1QA0#:~:text=Its%20registered%20address%20is%208th%20Floor%2C%20Ambience%20Corporate,%28CIN%29%20U74900HR2009FTC043768%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T15:03:29.177243"
+  }
+]

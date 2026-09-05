@@ -1,0 +1,827 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B09PVFJ2P4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:19:36.175838"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T10:19:39.960657",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:19:45.329590"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:19:46.972787"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:19:46.973637"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://fnshiftsolutions.com/gstin-search/cocoblu-retail-limited-29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T10:19:55.561499",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+    "timestamp": "2026-09-02T10:19:59.902947"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+    "timestamp": "2026-09-02T10:19:59.902969"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T10:20:01.606433",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:20:02.718669"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:20:02.718689"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:20:02.718694"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:20:02.718698"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T10:20:10.791478"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T10:20:12.582026",
+    "status": "results_found"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Business Name",
+    "value": "Asian Shoes",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OZBP9WERCHBG&asin=B0DJD6NGT3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:20:18.016939"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Website",
+    "query": "Asian Shoes official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.asianfootwears.com/",
+      "https://corporate.asianfootwears.com/sales-enquiry"
+    ],
+    "timestamp": "2026-09-02T10:20:20.074171",
+    "status": "results_found"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Legal Entity Name",
+    "query": "Asian Shoes company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sarkariyojana.com/udyam-registration-online-portal/#:~:text=Any%20enterprise%20can%20register%20on%20the%20portal%20at,to%20be%20paid%20to%20anyone%20for%20the%20registration.",
+      "https://udyamsearch.com/",
+      "https://www.indiafilings.com/check-company-name-availability",
+      "https://hsncodefinder.ai/blogs/footwear-hsn-code/"
+    ],
+    "timestamp": "2026-09-02T10:20:27.904348",
+    "status": "results_found"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Phone Number",
+    "value": "+919310501787",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sarkariyojana.com/udyam-registration-online-portal/#:~:text=Any%20enterprise%20can%20register%20on%20the%20portal%20at,to%20be%20paid%20to%20anyone%20for%20the%20registration.",
+    "timestamp": "2026-09-02T10:20:29.680380"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Legal Entity Name",
+    "query": "Asian Shoes Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/",
+      "https://www.legalxindia.com/tools/cin-llpin-lookup"
+    ],
+    "timestamp": "2026-09-02T10:20:36.668564",
+    "status": "results_found"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T10:20:37.656292"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "PAN",
+    "query": "Asian Shoes PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T10:20:44.377494",
+    "status": "no_results"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "PAN",
+    "query": "Asian Shoes PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dhan.co/stocks/sector/footwear-stocks/",
+      "https://gstpan.com/",
+      "https://gstverify.co.in/search/",
+      "https://hsncodefinder.ai/blogs/footwear-hsn-code/"
+    ],
+    "timestamp": "2026-09-02T10:20:48.103200",
+    "status": "results_found"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Billing Address",
+    "value": "unit no. 2201, 22nd floor, gold medal avenue, s.v. road, beside patel petrol pump, piramal nagar, goregaon west, mumbai \u2013 400104, customer care: 99877",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://dhan.co/stocks/sector/footwear-stocks/",
+    "timestamp": "2026-09-02T10:20:52.300880"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "City",
+    "value": "mumbai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://dhan.co/stocks/sector/footwear-stocks/",
+    "timestamp": "2026-09-02T10:20:52.300926"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Pincode",
+    "value": "400104",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://dhan.co/stocks/sector/footwear-stocks/",
+    "timestamp": "2026-09-02T10:20:52.300933"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T10:20:55.226012"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T10:20:55.226040"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Owner",
+    "query": "Asian Shoes director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thehindubusinessline.com/companies/asian-footwear-to-double-ebos-to-150-targets-1000-crore-revenue-ipo-by-fy29/article70944579.ece",
+      "https://www.forbes.com/profile/joseph-tsai/",
+      "https://www.afaqs.com/news/advertising/ms-dhoni-leads-in-asian-footwears-new-festive-go-chase-film-10547622",
+      "https://tracxn.com/d/companies/walkaroo/__5VP-LXN_w128GFkZZ_pFKwlEeNRhctnEOrQToBTo8Og"
+    ],
+    "timestamp": "2026-09-02T10:20:57.593609",
+    "status": "results_found"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Owner",
+    "query": "Asian Shoes founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thehindubusinessline.com/companies/asian-footwear-to-double-ebos-to-150-targets-1000-crore-revenue-ipo-by-fy29/article70944579.ece",
+      "https://scoopearth.in/shoe-manufacturers-and-brands-in-india/",
+      "https://www.f6s.com/companies/footwear/india/co",
+      "https://www.afaqs.com/news/advertising/ms-dhoni-leads-in-asian-footwears-new-festive-go-chase-film-10547622"
+    ],
+    "timestamp": "2026-09-02T10:21:08.726539",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Business Name",
+    "value": "BansalEnterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2PGHJDBLVX5DX&isAmazonFulfilled=1&asin=B09PVFJ2P4&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T10:21:14.121603"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Website",
+    "query": "BansalEnterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bansalenterprises.co.in/index.php",
+      "https://www.bansalenterprises.co.in/regular-slotted.php"
+    ],
+    "timestamp": "2026-09-02T10:21:15.689254",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Website URL",
+    "value": "https://www.bansalenterprises.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bansalenterprises.com/",
+    "timestamp": "2026-09-02T10:21:18.891562"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Legal Entity Name",
+    "query": "BansalEnterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregisteration.org/blog/print-download-udyam-certificate",
+      "https://udyamregistrationform.com/correction-in-udyog-aadhar/",
+      "https://legaldocs.co.in/udyam-registration/download-and-print-udyam-registration-certificate",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-09-02T10:21:29.756140",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Phone Number",
+    "value": "+919334419203",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://udyamregisteration.org/blog/print-download-udyam-certificate",
+    "timestamp": "2026-09-02T10:21:34.737665"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Email Address",
+    "value": "ordermsme@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://udyamregisteration.org/blog/print-download-udyam-certificate",
+    "timestamp": "2026-09-02T10:21:34.737904"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Legal Entity Name",
+    "query": "BansalEnterprises Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://zauba.company/",
+      "https://www.companydetails.in/company/bansal-enterprises-private-limited"
+    ],
+    "timestamp": "2026-09-02T10:21:41.125055",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "PAN",
+    "query": "BansalEnterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gst.iadv.io/BANSAL-ENTERPRISES-03AUBPB2518F1ZH/",
+      "https://gstverify.co.in/gst/bansal-enterprises-29apcpp2089p1z3/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T10:21:46.417247",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "GST Number",
+    "value": "03AUBPB2518F1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BANSAL-ENTERPRISES-03AUBPB2518F1ZH/",
+    "timestamp": "2026-09-02T10:21:47.197335"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "PAN Number",
+    "value": "AUBPB2518F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BANSAL-ENTERPRISES-03AUBPB2518F1ZH/",
+    "timestamp": "2026-09-02T10:21:47.197354"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Owner",
+    "query": "BansalEnterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://bansalenterprises.net/about.html",
+      "https://bansalgroup.in/Leadership.php",
+      "https://www.crunchbase.com/person/madhup-bansal"
+    ],
+    "timestamp": "2026-09-02T10:21:49.128907",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Owner",
+    "query": "BansalEnterprises founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://bansalenterprises.net/about.html",
+      "https://startuptalky.com/mukesh-bansal-success-story/",
+      "https://starsunfolded.com/mukesh-bansal/"
+    ],
+    "timestamp": "2026-09-02T10:21:53.671313",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Address",
+    "query": "BansalEnterprises registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bansalgroup.com/contact/",
+      "https://www.bansalenterprise.in/",
+      "https://www.bansalenterprises.net/",
+      "https://bansalwire.com/group-companies/"
+    ],
+    "timestamp": "2026-09-02T10:22:00.191193",
+    "status": "results_found"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "Business Name",
+    "value": "APPOO TRADING",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A30ME7OT2WIFX0&isAmazonFulfilled=0&asin=B09Y24RYVP&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-02T10:22:14.322429"
+  },
+  {
+    "seller": "APPOO TRADING",
+    "field": "Website",
+    "query": "APPOO TRADING official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.falconebiz.com/company/APPOO-TRADING-PRIVATE-LIMITED-U52190MH2018PTC313525",
+      "https://indiatradezone.com/company/789905-appoo-trading-private-limited"
+    ],
+    "timestamp": "2026-09-02T10:22:16.201153",
+    "status": "results_found"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "Website URL",
+    "value": "https://indiatradezone.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://indiatradezone.com/company/789905-appoo-trading-private-limited",
+    "timestamp": "2026-09-02T10:22:20.672040"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "Email Address",
+    "value": "info@indiatradezone.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://indiatradezone.com/",
+    "timestamp": "2026-09-02T10:22:22.307777"
+  },
+  {
+    "seller": "APPOO TRADING",
+    "field": "Legal Entity Name",
+    "query": "APPOO TRADING company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/appoo-trading-private-limited",
+      "https://www.falconebiz.com/company/APPOO-TRADING-PRIVATE-LIMITED-U52190MH2018PTC313525",
+      "https://www.indiafilings.com/search/appoo-trading-private-limited-cin-U52190MH2018PTC313525",
+      "https://qorpiq.com/company/appoo-trading-private-limited/U52190MH2018PTC313525"
+    ],
+    "timestamp": "2026-09-02T10:22:28.426941",
+    "status": "results_found"
+  },
+  {
+    "seller": "APPOO TRADING",
+    "field": "PAN",
+    "query": "APPOO TRADING PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T10:22:52.434699",
+    "status": "no_results"
+  },
+  {
+    "seller": "APPOO TRADING",
+    "field": "PAN",
+    "query": "APPOO TRADING PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/appoo-trading-private-limited/__XpjNbD0437upm8296IqsnfAaxctV7sPpbmMdD0kHN1g",
+      "https://www.infyner.com/due-diligence/appoo-trading-private-limited/U52190MH2018PTC313525",
+      "https://www.planetexim.net/indian-company/trademarks/appoo-trading-private-limited-/cin/U52190MH2018PTC313525.html",
+      "https://fnshiftsolutions.com/gstin-search/appoo-trading-private-limited-27AARCA2622A1Z1"
+    ],
+    "timestamp": "2026-09-02T10:22:54.222854",
+    "status": "results_found"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/appoo-trading-private-limited/__XpjNbD0437upm8296IqsnfAaxctV7sPpbmMdD0kHN1g",
+    "timestamp": "2026-09-02T10:22:55.007360"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/appoo-trading-private-limited/__XpjNbD0437upm8296IqsnfAaxctV7sPpbmMdD0kHN1g",
+    "timestamp": "2026-09-02T10:22:55.007389"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/appoo-trading-private-limited/__XpjNbD0437upm8296IqsnfAaxctV7sPpbmMdD0kHN1g",
+    "timestamp": "2026-09-02T10:22:55.007395"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/appoo-trading-private-limited/__XpjNbD0437upm8296IqsnfAaxctV7sPpbmMdD0kHN1g",
+    "timestamp": "2026-09-02T10:22:55.007401"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "GST Number",
+    "value": "27AARCA2622A1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/appoo-trading-private-limited-27AARCA2622A1Z1",
+    "timestamp": "2026-09-02T10:22:59.360200"
+  },
+  {
+    "business": "APPOO TRADING",
+    "field": "PAN Number",
+    "value": "AARCA2622A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/appoo-trading-private-limited-27AARCA2622A1Z1",
+    "timestamp": "2026-09-02T10:22:59.360218"
+  },
+  {
+    "seller": "APPOO TRADING",
+    "field": "Owner",
+    "query": "APPOO TRADING director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/appoo-trading-private-limited",
+      "https://www.infyner.com/company/appoo-trading-private-limited/U52190MH2018PTC313525",
+      "https://tracxn.com/d/legal-entities/india/appoo-trading-private-limited/__XpjNbD0437upm8296IqsnfAaxctV7sPpbmMdD0kHN1g",
+      "https://www.dnb.com/business-directory/company-profiles.appoo_trading_private_limited.12a995f9ada3a9601cc7c4a60177f3df.html"
+    ],
+    "timestamp": "2026-09-02T10:23:01.256007",
+    "status": "results_found"
+  },
+  {
+    "seller": "APPOO TRADING",
+    "field": "Phone",
+    "query": "APPOO TRADING phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.infyner.com/company/appoo-trading-private-limited/U52190MH2018PTC313525",
+      "https://www.falconebiz.com/company/APPOO-TRADING-PRIVATE-LIMITED-U52190MH2018PTC313525",
+      "https://www.infyner.com/due-diligence/appoo-trading-private-limited/U52190MH2018PTC313525",
+      "https://www.justdial.com/Mumbai/Appoo-Trading-Pvt-Ltd-Matunga-East/022PXX22-XX22-230811221218-A1P2_BZDET"
+    ],
+    "timestamp": "2026-09-02T10:23:19.555255",
+    "status": "results_found"
+  },
+  {
+    "seller": "APPOO TRADING",
+    "field": "Phone",
+    "query": "APPOO TRADING contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justdial.com/Mumbai/Appoo-Trading-Pvt-Ltd-Matunga-East/022PXX22-XX22-230811221218-A1P2_BZDET",
+      "https://www.falconebiz.com/company/APPOO-TRADING-PRIVATE-LIMITED-U52190MH2018PTC313525",
+      "https://www.companydetails.in/company/appoo-trading-private-limited",
+      "https://www.planetexim.net/indian-company/appoo-trading-private-limited/cin/U52190MH2018PTC313525.html"
+    ],
+    "timestamp": "2026-09-02T10:23:27.775634",
+    "status": "results_found"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "Business Name",
+    "value": "RELAXO FOOTWEARS LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2EABNUZNST2DY&asin=B09PVFFGH7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:23:38.361977"
+  },
+  {
+    "seller": "RELAXO FOOTWEARS LIMITED",
+    "field": "Website",
+    "query": "RELAXO FOOTWEARS LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://relaxofootwear.com/",
+      "https://relaxofootwear.com/collections/sale"
+    ],
+    "timestamp": "2026-09-02T10:23:39.858832",
+    "status": "results_found"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "Website URL",
+    "value": "https://relaxofootwear.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://relaxofootwear.com/",
+    "timestamp": "2026-09-02T10:23:44.626728"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "Legal Entity Name",
+    "value": "Relaxo Footwears Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://relaxofootwear.com/",
+    "timestamp": "2026-09-02T10:23:48.286730"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "Email Address",
+    "value": "customercare@relaxofootwear.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://relaxofootwear.com/contact-us",
+    "timestamp": "2026-09-02T10:23:54.505034"
+  },
+  {
+    "seller": "RELAXO FOOTWEARS LIMITED",
+    "field": "PAN",
+    "query": "Relaxo Footwears Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://relaxofootwear.com/pages/investor-relations",
+      "https://in.marketscreener.com/quote/stock/RELAXO-FOOTWEARS-LIMITED-14993034/",
+      "https://beta.bseindia.com/stock-share-price/relaxo-footwears-ltd/relaxo/530517/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T10:23:57.194823",
+    "status": "results_found"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T10:24:03.774042"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T10:24:03.774061"
+  },
+  {
+    "seller": "RELAXO FOOTWEARS LIMITED",
+    "field": "Owner",
+    "query": "Relaxo Footwears Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://relaxofootwear.com/pages/boards-of-directors",
+      "https://relaxofootwear.com/pages/board-of-directors-footer-section",
+      "https://trendlyne.com/equity/about/1125/RELAXO/relaxo-footwears-ltd/",
+      "https://choiceindia.com/stocks/relaxo-footwears-ltd-board-of-directors"
+    ],
+    "timestamp": "2026-09-02T10:24:05.617425",
+    "status": "results_found"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "Billing Address",
+    "value": "sunil patodia tower, j b nagar, andheri east, mumbai, maharashtra 400099.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://choiceindia.com/stocks/relaxo-footwears-ltd-board-of-directors",
+    "timestamp": "2026-09-02T10:24:11.105225"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "City",
+    "value": "maharashtra .",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://choiceindia.com/stocks/relaxo-footwears-ltd-board-of-directors",
+    "timestamp": "2026-09-02T10:24:11.105290"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://choiceindia.com/stocks/relaxo-footwears-ltd-board-of-directors",
+    "timestamp": "2026-09-02T10:24:11.105302"
+  },
+  {
+    "business": "RELAXO FOOTWEARS LIMITED",
+    "field": "Pincode",
+    "value": "400099",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://choiceindia.com/stocks/relaxo-footwears-ltd-board-of-directors",
+    "timestamp": "2026-09-02T10:24:11.105311"
+  },
+  {
+    "seller": "RELAXO FOOTWEARS LIMITED",
+    "field": "Owner",
+    "query": "RELAXO FOOTWEARS LIMITED founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://relaxofootwear.com/pages/about-us",
+      "https://relaxofootwear.com/collections/men-all",
+      "https://relaxofootwear.com/collections/sneakers-for-men",
+      "https://relaxofootwear.com/pages/size-guide"
+    ],
+    "timestamp": "2026-09-02T10:24:12.807201",
+    "status": "results_found"
+  },
+  {
+    "seller": "RELAXO FOOTWEARS LIMITED",
+    "field": "Phone",
+    "query": "RELAXO FOOTWEARS LIMITED phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNC6CC92AF55B88169&market=en-IN&src=SERPICTIT",
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNC6CC92AF55B88169&market=en-IN&src=SERPIC",
+      "https://relaxofootwear.com/pages/contact",
+      "https://relaxofootwear.com/collections/men-all"
+    ],
+    "timestamp": "2026-09-02T10:24:24.145117",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DM2BN5SQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T19:26:02.138576"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/"
+    ],
+    "timestamp": "2026-09-05T19:26:04.567764",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://courtcasefinder.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://courtcasefinder.com/",
+    "timestamp": "2026-09-05T19:26:37.800396"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://helpdeskgeek.com/how-to-get-help-in-windows/"
+    ],
+    "timestamp": "2026-09-05T19:26:46.466426",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.alodokter.com/ini-pentingnya-jumlah-trombosit-normal-dalam-darah-anda",
+      "https://www.halodoc.com/artikel/mengenal-fungsi-trombosit-serta-proses-pembentukannya",
+      "https://www.alodokter.com/trombosit-ketahui-fungsinya-dan-gangguan-yang-perlu-diwaspadai",
+      "https://ciputrahospital.com/trombosit-berfungsi-untuk-proses-pembekuan-darah/"
+    ],
+    "timestamp": "2026-09-05T19:26:49.838889",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "help@halodoc.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.halodoc.com/artikel/mengenal-fungsi-trombosit-serta-proses-pembentukannya",
+    "timestamp": "2026-09-05T19:26:53.175773"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/",
+      "https://unicourt.com/courts/federal/us-district-courts-2",
+      "https://www.elitigation.sg/gd/"
+    ],
+    "timestamp": "2026-09-05T19:26:56.121166",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hindustantimes.com/entertainment/bollywood/mirzapur-the-movie-release-review-live-updates-pankaj-tripathi-kaleen-bhaiya-ali-fazal-guddu-divyenndu-munna-bhaiya-101788494515984.html",
+      "https://www.bollywoodhungama.com/movie/mirzapur-the-movie/",
+      "https://www.thehindu.com/entertainment/movies/mirzapur-the-movie-review-ali-fazal-divyenndu-pankaj-tripathi/article71427938.ece",
+      "https://in.bookmyshow.com/movies/mirzapur-the-movie/ET00417686"
+    ],
+    "timestamp": "2026-09-05T19:27:09.356695",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://spark.sbi.bank.in/learner/",
+      "https://spark.sbi.bank.in/appservice/",
+      "https://hrms.sbi.bank.in/",
+      "https://sparklearning.in/"
+    ],
+    "timestamp": "2026-09-05T19:27:25.341222",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.treccani.it/vocabolario/query/",
+      "https://www.italiaonline.it/risorse/cos-e-una-query-e-come-si-effettua-1237",
+      "https://www.wordreference.com/enit/query",
+      "https://www.copy42.it/query-significato-esempi-tipologie/"
+    ],
+    "timestamp": "2026-09-05T19:27:36.355552",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/place/Kosovo",
+      "https://www.ireland.ie/en/dfa/overseas-travel/advice/kosovo/",
+      "https://www.geocountries.com/kosovo",
+      "https://www.britannica.com/place/Kosovo/Government-and-society"
+    ],
+    "timestamp": "2026-09-05T19:27:53.944250",
+    "status": "results_found"
+  },
+  {
+    "business": "M/s J&C Enterprises",
+    "field": "Business Name",
+    "value": "M/s J&C Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JX52M5BMH34W&asin=B0H83DRK69&ref_=dp_merchant_link",
+    "timestamp": "2026-09-05T19:28:11.034436"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "Website",
+    "query": "M/s J&C Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=3e5961f15dfb6f213846763a5c3a6eba",
+      "https://kawverse.com/m/"
+    ],
+    "timestamp": "2026-09-05T19:28:13.862813",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "Legal Entity Name",
+    "query": "M/s J&C Enterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=3e5961f15dfb6f213846763a5c3a6eba",
+      "https://kawverse.com/m/",
+      "https://en.wiktionary.org/wiki/m",
+      "https://dictionary.cambridge.org/dictionary/english/m"
+    ],
+    "timestamp": "2026-09-05T19:28:30.351050",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "PAN",
+    "query": "M/s J&C Enterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=3e5961f15dfb6f213846763a5c3a6eba",
+      "https://kawverse.com/m/",
+      "https://en.wiktionary.org/wiki/m",
+      "https://dictionary.cambridge.org/dictionary/english/m"
+    ],
+    "timestamp": "2026-09-05T19:28:48.283511",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "PAN",
+    "query": "M/s J&C Enterprises PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/ms-j-c-enterprises-09AAQPC1902R1ZB/",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.knowyourgst.com/gst-number-search/ms-j-c-enterprises-pvt-ltd-09AABCJ4602R1Z7/"
+    ],
+    "timestamp": "2026-09-05T19:29:09.550880",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "GST",
+    "query": "M/s J&C Enterprises GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=3e5961f15dfb6f213846763a5c3a6eba",
+      "https://kawverse.com/m/",
+      "https://en.wiktionary.org/wiki/m",
+      "https://dictionary.cambridge.org/dictionary/english/m"
+    ],
+    "timestamp": "2026-09-05T19:29:17.313616",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "Owner",
+    "query": "M/s J&C Enterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=3e5961f15dfb6f213846763a5c3a6eba",
+      "https://kawverse.com/m/",
+      "https://en.wiktionary.org/wiki/m",
+      "https://dictionary.cambridge.org/dictionary/english/m"
+    ],
+    "timestamp": "2026-09-05T19:29:31.215535",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "Address",
+    "query": "M/s J&C Enterprises registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=3e5961f15dfb6f213846763a5c3a6eba",
+      "https://kawverse.com/m/",
+      "https://en.wiktionary.org/wiki/m",
+      "https://dictionary.cambridge.org/dictionary/english/m"
+    ],
+    "timestamp": "2026-09-05T19:29:44.518846",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/s J&C Enterprises",
+    "field": "Phone",
+    "query": "M/s J&C Enterprises phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.courierstracking.com/dtdc-courier-ms-j-c-enterprises-cochin-branch-phone-number-address/",
+      "https://www.jcenterprises.com/contact-us",
+      "https://www.contacthelp.com/",
+      "https://www.jcenterprises.com/contact"
+    ],
+    "timestamp": "2026-09-05T19:30:06.096871",
+    "status": "results_found"
+  },
+  {
+    "business": "M/s J&C Enterprises",
+    "field": "Email Address",
+    "value": "sales@jcenterprises.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.jcenterprises.com/contact-us",
+    "timestamp": "2026-09-05T19:30:09.537011"
+  }
+]

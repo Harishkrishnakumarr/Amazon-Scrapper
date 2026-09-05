@@ -1,0 +1,61 @@
+{
+  "category": "Air Hockey",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 485,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Whole9Yards",
+      "database_id": 486,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912570020169",
+      "email": "info@whole9yards.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://whole9yards.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 487,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Global Selling Central",
+      "database_id": 488,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911032082026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

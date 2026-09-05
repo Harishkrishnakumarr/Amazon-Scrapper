@@ -1,0 +1,925 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B07TMHV63K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T16:31:01.331992"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T16:31:02.767190",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-18T16:31:05.157360"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T16:31:05.573356"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T16:31:05.593396"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T16:31:05.593413"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T16:31:05.593421"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T16:31:05.593425"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T16:31:10.166990",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=5568c65e3c3715f4f567acda07b51543&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.indiafilings.com/search/retailez-private-limited-gstin-09AALCR3173P1ZL"
+    ],
+    "timestamp": "2026-08-18T16:31:17.656024",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM#:~:text=RETAILEZ%20PRIVATE%20LIMITED%20is%20a%20Private%20Limited%20Company,registered%20at%20Registrar%20of%20Companies%2C%20ROC%20Kolkata%20II.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd"
+    ],
+    "timestamp": "2026-08-18T16:31:27.970882",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://gstverify.co.in/search/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T16:31:33.459895",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.scribd.com/document/1067657484/Invoice"
+    ],
+    "timestamp": "2026-08-18T16:31:43.838712",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-number-search-by-name",
+      "https://reg.gst.gov.in/registration/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-08-18T16:31:57.909890",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstverify.co.in/search/",
+      "https://services.gst.gov.in/services/searchIRN"
+    ],
+    "timestamp": "2026-08-18T16:32:09.575081",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/gst/retailez-private-limited-36aalcr3173p1zo/#:~:text=The%20GST%20number%20of%20RETAILEZ%20PRIVATE%20LIMITED%20is,GSTIN%2036AALCR3173P1ZO%20was%20registered%20on%2010%20Jan%202022.",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-19AALCR3173P1ZK/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-29aalcr3173p1zj/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/"
+    ],
+    "timestamp": "2026-08-18T16:32:18.223290",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://www.indiaratings.co.in/pressrelease/76876",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd"
+    ],
+    "timestamp": "2026-08-18T16:32:19.812529",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://www.planetexim.net/indian-company/shareholding/anav-retailez-llp/llpin/ADA-9388.html"
+    ],
+    "timestamp": "2026-08-18T16:32:27.467106",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://retailez.co.in/about-us/",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388"
+    ],
+    "timestamp": "2026-08-18T16:32:42.773834",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/about-us/",
+    "timestamp": "2026-08-18T16:32:43.605533"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CB8V1ZHY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T16:32:44.242221"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=192a64241c2767122045739d1df066ca",
+      "https://us.etrade.com/e/t/user/login?msockid=192a64241c2767122045739d1df066ca"
+    ],
+    "timestamp": "2026-08-18T16:32:45.663429",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=192a64241c2767122045739d1df066ca",
+    "timestamp": "2026-08-18T16:33:43.777122"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910111701011",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-18T16:33:45.770735"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=192a64241c2767122045739d1df066ca",
+      "https://us.etrade.com/l/welcome/new-account?msockid=192a64241c2767122045739d1df066ca",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/home?msockid=192a64241c2767122045739d1df066ca",
+      "https://etrade.gov.et/main/customer/business-license/registration"
+    ],
+    "timestamp": "2026-08-18T16:33:53.822271",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://incometaxindia.gov.in/tax-services/online-pan-verification",
+      "https://us.etrade.com/e/t/user/login?msockid=192a64241c2767122045739d1df066ca",
+      "http://www.pan.utiitsl.com/PAN/",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-08-18T16:34:16.961116",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/e/t/user/login?msockid=192a64241c2767122045739d1df066ca",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html",
+      "https://incometaxindia.gov.in/tax-services/instant-e-pan"
+    ],
+    "timestamp": "2026-08-18T16:34:31.256607",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T16:34:37.818771",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-33AADCV4254H1ZF/",
+      "https://gst.jamku.app/gstin/27AADCV4254H1Z8",
+      "https://fnshiftsolutions.com/gstin-search/etrade-marketing-private-limited-27AADCV4254H1Z8",
+      "https://gst.jamku.app/gstin/06AADCV4254H1ZC"
+    ],
+    "timestamp": "2026-08-18T16:34:41.935947",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "GST Number",
+    "value": "27AADCV4254H1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-18T16:34:42.548778"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cbinsights.com/company/etrade-financial/people",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://brandsownedby.com/who-owns-e-trade/",
+      "https://www.washingtonpost.com/obituaries/2023/04/12/bernie-newcomb-who-created-etrade-and-distrupted-online-trading-dies-at-79/",
+      "https://marketswiki.com/wiki/William_A._Porter"
+    ],
+    "timestamp": "2026-08-18T16:34:44.505463",
+    "status": "results_found"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "Business Name",
+    "value": "Parage Unify Crafts",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A16EW6Z9UNGBER&asin=B0FB3DCFQK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T16:34:45.122479"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "Website",
+    "query": "Parage Unify Crafts official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.parageunifycrafts.in/",
+      "https://www.parageunifycrafts.in/collections/all"
+    ],
+    "timestamp": "2026-08-18T16:34:46.521055",
+    "status": "results_found"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "Website URL",
+    "value": "https://www.parageunifycrafts.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.parageunifycrafts.in/",
+    "timestamp": "2026-08-18T16:34:52.969631"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "Phone Number",
+    "value": "+910600102026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.parageunifycrafts.in/",
+    "timestamp": "2026-08-18T16:34:53.682311"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "Email Address",
+    "value": "riya.paragunifycrafts@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.parageunifycrafts.in/",
+    "timestamp": "2026-08-18T16:34:53.682640"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "Billing Address",
+    "value": "Plot No. 16, S.F., Block- A, Wazirpur Group Industrial Area, Delhi-110052",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.parageunifycrafts.in/",
+    "timestamp": "2026-08-18T16:34:53.709349"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "City",
+    "value": "Block A",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.parageunifycrafts.in/",
+    "timestamp": "2026-08-18T16:34:53.709362"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.parageunifycrafts.in/",
+    "timestamp": "2026-08-18T16:34:53.709366"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "Pincode",
+    "value": "110052",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.parageunifycrafts.in/",
+    "timestamp": "2026-08-18T16:34:53.709369"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "Legal Entity Name",
+    "query": "Parage Unify Crafts company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.parageunifycrafts.in/pages/company-profile",
+      "https://www.parageunifycrafts.in/",
+      "https://paragunifycrafts.linker.store/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://www.udyamregistration.gov.in/UdyamRegistration.aspx/"
+    ],
+    "timestamp": "2026-08-18T16:34:58.635993",
+    "status": "results_found"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "Legal Entity Name",
+    "query": "Parage Unify Crafts Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://golegally.com/mca-company-search",
+      "https://www.inspex.in/",
+      "https://www.udyam.ltd/blog/udyam-search-by-name",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx"
+    ],
+    "timestamp": "2026-08-18T16:35:11.157196",
+    "status": "results_found"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "PAN",
+    "query": "Parage Unify Crafts PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.parageunifycrafts.in/pages/faqs",
+      "https://www.parageunifycrafts.in/pages/contact-us",
+      "https://www.parageunifycrafts.in/pages/company-profile",
+      "https://www.parageunifycrafts.in/collections/cast-iron",
+      "https://www.parageunifycrafts.in/"
+    ],
+    "timestamp": "2026-08-18T16:35:21.013162",
+    "status": "results_found"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "PAN",
+    "query": "Parage Unify Crafts PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.parageunifycrafts.in/collections/cookware",
+      "https://www.parageunifycrafts.in/collections/fry-pan",
+      "https://paragunifycrafts.co.in/collections/souce-pan",
+      "https://paragunifycrafts.co.in/pages/cookware",
+      "https://paragunifycrafts.linker.store/"
+    ],
+    "timestamp": "2026-08-18T16:35:33.705679",
+    "status": "results_found"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "GST",
+    "query": "Parage Unify Crafts GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.parageunifycrafts.in/pages/company-profile",
+      "https://www.globallinker.com/seller/parag-unify-crafts",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.parageunifycrafts.in/",
+      "https://services.gst.gov.in/services/searchtp"
+    ],
+    "timestamp": "2026-08-18T16:35:44.011711",
+    "status": "results_found"
+  },
+  {
+    "business": "Parage Unify Crafts",
+    "field": "GST Number",
+    "value": "07BUGPG2443E1Z0",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.parageunifycrafts.in/pages/company-profile",
+    "timestamp": "2026-08-18T16:35:46.094136"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "Owner",
+    "query": "Parage Unify Crafts director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.parageunifycrafts.in/pages/company-profile",
+      "https://www.signalhire.com/profiles/vicky-gupta/232288815",
+      "https://www.parageunifycrafts.in/pages/faqs"
+    ],
+    "timestamp": "2026-08-18T16:35:47.929707",
+    "status": "results_found"
+  },
+  {
+    "seller": "Parage Unify Crafts",
+    "field": "Owner",
+    "query": "Parage Unify Crafts managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.parageunifycrafts.in/pages/company-profile",
+      "https://www.parageunifycrafts.in/pages/contact-us",
+      "https://paragunifycrafts.linker.store/",
+      "https://linktr.ee/paragunifycrafts"
+    ],
+    "timestamp": "2026-08-18T16:36:00.613278",
+    "status": "results_found"
+  },
+  {
+    "business": "A1 BIZ",
+    "field": "Business Name",
+    "value": "A1 BIZ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A33BWZXNNVLPPX&asin=B0F6P1LZBR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T16:36:06.926750"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Website",
+    "query": "A1 BIZ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://a1.com/",
+      "http://www.a1bs.com/about_us.html"
+    ],
+    "timestamp": "2026-08-18T16:36:08.522268",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Legal Entity Name",
+    "query": "A1 BIZ company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U64202TN2001PTC063603%20and%20its%20current%20status%20is%20Active.",
+      "https://www.aska1.com/free-business-registration/",
+      "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+      "https://www.a1corp.com.sg/",
+      "https://tracxn.com/d/legal-entities/india/a-1-limited/__8W1pFjoqK-hd1mpMmPhMU7P5LAYADBG9vy4BjrmiLe8"
+    ],
+    "timestamp": "2026-08-18T16:36:25.456266",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Legal Entity Name",
+    "query": "A1 BIZ Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.setindiabiz.com/company-registration",
+      "https://ebizfiling.com/service/private-limited-company/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.a1corp.com.sg/"
+    ],
+    "timestamp": "2026-08-18T16:36:39.286714",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "PAN",
+    "query": "A1 BIZ PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=To%20check%20a%20company%E2%80%99s%20PAN%20number%20online%20in,characters%203%20to%2012%20represent%20the%2010-character%20PAN.",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gentools.io/pan-card-generator",
+      "https://cleartax.in/s/pan-card-companies-india",
+      "https://www.incometaxindia.gov.in/pan"
+    ],
+    "timestamp": "2026-08-18T16:36:48.345114",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "GST",
+    "query": "A1 BIZ GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T16:37:10.379968",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "GST",
+    "query": "A1 BIZ GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T16:37:18.391092",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "GST",
+    "query": "A1 BIZ GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/a1-travels-and-speed-parce-lservice-29ADGPT8295H1ZP/",
+      "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+      "https://www.mastersindia.co/gst-search/?name=a1-industries&gstin=33ABOFA9319H1Z9"
+    ],
+    "timestamp": "2026-08-18T16:37:30.038186",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Owner",
+    "query": "A1 BIZ director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+      "https://a1.com/management/leadership-biographies/",
+      "https://www.companyseekers.com/",
+      "https://zauba.company/",
+      "https://www.thecompanycheck.com/company/aone-biz-solutions-private-limited/U64202TN2001PTC063603"
+    ],
+    "timestamp": "2026-08-18T16:37:31.734212",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Owner",
+    "query": "A1 BIZ managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+      "https://www.thecompanycheck.com/company/aone-biz-solutions-private-limited/U64202TN2001PTC063603",
+      "https://rocketreach.co/a1-business-pte-ltd-management_b5f3344bf42d3468",
+      "https://www.etnownews.com/stocks/company-profile/a1-274990",
+      "https://internationalbusiness.a1.group/team/"
+    ],
+    "timestamp": "2026-08-18T16:37:40.768644",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Owner",
+    "query": "A1 BIZ founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+      "https://www.thecompanycheck.com/company/aone-biz-solutions-private-limited/U64202TN2001PTC063603",
+      "https://en.namu.wiki/w/%EC%97%90%EC%9D%B4%EC%9B%90%EB%B9%84%EC%A6%88",
+      "https://a1bizconsulting.com/"
+    ],
+    "timestamp": "2026-08-18T16:37:51.292626",
+    "status": "results_found"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Address",
+    "query": "A1 BIZ registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+      "https://www.insiderbiz.in/company/A-ONE-BIZ-SOLUTIONS-PRIVATE-LIMITED",
+      "https://www.falconebiz.com/company/A-ONE-BIZ-SOLUTIONS-PRIVATE-LIMITED-U64202TN2001PTC063603",
+      "https://www.companydetails.in/company/a-one-biz-solutions-private-limited",
+      "https://www.dial4trade.com/a-one-biz-solutions-pvt-ltd/contact-us.htm"
+    ],
+    "timestamp": "2026-08-18T16:37:53.218105",
+    "status": "results_found"
+  },
+  {
+    "business": "A1 BIZ",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+    "timestamp": "2026-08-18T16:37:53.784709"
+  },
+  {
+    "business": "A1 BIZ",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+    "timestamp": "2026-08-18T16:37:53.784730"
+  },
+  {
+    "business": "A1 BIZ",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+    "timestamp": "2026-08-18T16:37:53.784736"
+  },
+  {
+    "business": "A1 BIZ",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-one-biz-solutions-private-limited/__oekRLmPWCP02rVuofBMgTf4jIElgLOZH0JZ9QfdzMG4",
+    "timestamp": "2026-08-18T16:37:53.784740"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Phone",
+    "query": "A1 BIZ phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.a1.net/business/service/business-kontakt",
+      "https://a1.com/customer-contact-and-social-media/",
+      "https://a1.com/contact/",
+      "https://www.a1travels.in/",
+      "https://www.a1callcenter.com/"
+    ],
+    "timestamp": "2026-08-18T16:37:56.567387",
+    "status": "results_found"
+  },
+  {
+    "business": "A1 BIZ",
+    "field": "Phone Number",
+    "value": "+910124720261",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.a1.net/business/service/business-kontakt",
+    "timestamp": "2026-08-18T16:38:03.772050"
+  },
+  {
+    "seller": "A1 BIZ",
+    "field": "Email",
+    "query": "A1 BIZ email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://a1.com/contact/",
+      "https://www.a1.net/business/service/business-kontakt",
+      "https://a1.com/customer-contact-and-social-media/",
+      "https://www.a1.net/kontakt",
+      "https://askai.glarity.app/search/How-can-I-contact-A1-for-business-customer-support"
+    ],
+    "timestamp": "2026-08-18T16:38:05.382201",
+    "status": "results_found"
+  },
+  {
+    "business": "Winkelen",
+    "field": "Business Name",
+    "value": "Winkelen",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GLGLTJUALRB7&asin=B0B7J1RB6K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T16:38:08.292876"
+  },
+  {
+    "seller": "Winkelen",
+    "field": "Website",
+    "query": "Winkelen official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://winkelen.nl/",
+      "https://winkelen.nl/meubels"
+    ],
+    "timestamp": "2026-08-18T16:38:09.877678",
+    "status": "results_found"
+  },
+  {
+    "business": "Winkelen",
+    "field": "Website URL",
+    "value": "https://winkelen.nl/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://winkelen.nl/",
+    "timestamp": "2026-08-18T16:39:41.338138"
+  },
+  {
+    "business": "Winkelen",
+    "field": "Phone Number",
+    "value": "+919911042026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://winkelen.nl/about-us",
+    "timestamp": "2026-08-18T16:39:49.874323"
+  },
+  {
+    "seller": "Winkelen",
+    "field": "Legal Entity Name",
+    "query": "Winkelen company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://www.inspex.in/",
+      "https://www.quickcompany.in/company",
+      "https://golegally.com/mca-company-search",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-18T16:39:59.588966",
+    "status": "results_found"
+  }
+]

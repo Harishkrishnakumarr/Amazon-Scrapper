@@ -1,0 +1,74 @@
+{
+  "category": "Tailoring & Embroidery Supplies",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Jay Gurudev Craft & Tailoring Materials",
+      "database_id": 410,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910611232026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.sellerratings.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Mayuu Stores",
+      "database_id": 411,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916320242026",
+      "email": "contact@mayuwater.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Eastern Eagles",
+      "database_id": 412,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "support@easternfin.com",
+      "gst": "29NYWPS4232P1ZW",
+      "pan": "Not Found",
+      "website": "https://www.easterneagles.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "i5Mart",
+      "database_id": 413,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Megnetron Alpha",
+      "database_id": 414,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

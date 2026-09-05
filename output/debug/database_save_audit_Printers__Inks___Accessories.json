@@ -1,0 +1,74 @@
+{
+  "category": "Printers, Inks & Accessories",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "CELESTIAL COLORS PRIVATE LIMITED",
+      "database_id": 748,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917016231378",
+      "email": "support@celestialperfume.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Hoteon Trading Pvt. Ltd.,",
+      "database_id": 749,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919148183707",
+      "email": "customercare@hoteon.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Protectio Covers",
+      "database_id": 750,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919445195396",
+      "email": "dc.leoal@ctd.tn.oov.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.decksaver.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Canoff india",
+      "database_id": 751,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "press@google.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.google.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Splashjet Ink",
+      "database_id": 752,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "career@splashjet-ink.com",
+      "gst": "27ABDCS2178Q1ZN",
+      "pan": "ABDCS2178Q",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

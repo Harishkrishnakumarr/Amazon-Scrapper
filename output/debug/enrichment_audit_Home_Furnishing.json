@@ -1,0 +1,666 @@
+[
+  {
+    "business": "Heybey Traders",
+    "field": "Business Name",
+    "value": "Heybey Traders",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1Z6SBRVOGOY4Y&asin=B0FJFB8PMD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T11:33:08.641187"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Website",
+    "query": "Heybey Traders official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://heytraders.in/home/",
+      "https://www.dnb.com/business-directory/company-profiles.heybey_traders.de090887e502df2b3a7472ea8fffea5c.html"
+    ],
+    "timestamp": "2026-08-28T11:33:16.744184",
+    "status": "results_found"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "Website URL",
+    "value": "https://heytraders.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://heytraders.in/home/",
+    "timestamp": "2026-08-28T11:33:19.179082"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "Email Address",
+    "value": "vishnu.solanki89@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://heytraders.in/",
+    "timestamp": "2026-08-28T11:33:19.536639"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Legal Entity Name",
+    "query": "Heybey Traders company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T11:34:19.357495",
+    "status": "no_results"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "PAN",
+    "query": "Heybey Traders PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.dailymail.com/news/article-13158735/YouTube-tractor-stuntman-crushed-death-vehicle-filming-wheelie-stunt-1-5million-followers-India.html",
+      "https://www.gorecenter.com/death-of-famous-indian-youtuber-nishu-deshwal/"
+    ],
+    "timestamp": "2026-08-28T11:34:21.627186",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "PAN",
+    "query": "Heybey Traders PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/heybey-traders-06FNWPK8099F1Z2/",
+      "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+      "https://www.knowyourgst.com/gst-number-search/heybey-traders-27FNWPK8099F1ZY/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-28T11:34:28.483672",
+    "status": "results_found"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "GST Number",
+    "value": "06FNWPK8099F1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/heybey-traders-06FNWPK8099F1Z2/",
+    "timestamp": "2026-08-28T11:34:28.925160"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "PAN Number",
+    "value": "FNWPK8099F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/heybey-traders-06FNWPK8099F1Z2/",
+    "timestamp": "2026-08-28T11:34:28.925188"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Owner",
+    "query": "Heybey Traders director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.eporner.com/tag/bokep-indo/",
+      "https://erobokep.com/",
+      "https://quinbokep.com/",
+      "https://bokepindoh.xxx/"
+    ],
+    "timestamp": "2026-08-28T11:34:30.593593",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Owner",
+    "query": "Heybey Traders founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.heybey_traders.de090887e502df2b3a7472ea8fffea5c.html",
+      "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+      "https://www.knowyourgst.com/gst-number-search/heybey-traders-36FNWPK8099F1ZZ/",
+      "https://www.sellerratings.com/amazon/india/heybey-traders%3Ft%3D1781518566"
+    ],
+    "timestamp": "2026-08-28T11:34:45.671088",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Address",
+    "query": "Heybey Traders registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://m.me/login/"
+    ],
+    "timestamp": "2026-08-28T11:34:47.238355",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Address",
+    "query": "Heybey Traders registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marvel.com/characters/doctor-doom-victor-von-doom",
+      "https://www.marvel.com/characters/doctor-doom-victor-von-doom/in-comics",
+      "https://comicbook.com/movies/news/marvel-finally-explains-the-secret-reason-robert-downey-jr-was-cast-as-doctor-doom/",
+      "https://thedirect.com/article/avengers-doomsday-dr-doom-powerful-why-victor-von-doom-laterverian"
+    ],
+    "timestamp": "2026-08-28T11:34:52.712365",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Phone",
+    "query": "Heybey Traders phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wotif.com/?msockid=3c2739adf9936da73d482e6ef8836ce2",
+      "https://www.booking.com/?msockid=3c2739adf9936da73d482e6ef8836ce2",
+      "https://www.airbnb.com.au/",
+      "https://www.trivago.com.au/?msockid=3c2739adf9936da73d482e6ef8836ce2"
+    ],
+    "timestamp": "2026-08-28T11:35:11.244784",
+    "status": "results_found"
+  },
+  {
+    "business": "LD ENTERPRISE Hub",
+    "field": "Business Name",
+    "value": "LD ENTERPRISE Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2PHB287LG0WID&asin=B0H14YDPXP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T11:35:13.144599"
+  },
+  {
+    "seller": "LD ENTERPRISE Hub",
+    "field": "Website",
+    "query": "LD ENTERPRISE Hub official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ldplayer.net/",
+      "https://ld-player.en.softonic.com/"
+    ],
+    "timestamp": "2026-08-28T11:35:16.474623",
+    "status": "results_found"
+  },
+  {
+    "seller": "LD ENTERPRISE Hub",
+    "field": "Legal Entity Name",
+    "query": "LD ENTERPRISE Hub company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=231560&loc_interest_ms=&adgroupid=1343605787129260&keywords=to%20register%20your%20business&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct&campaignid=606415592&device=c&domain=companyregistration.direct&placement=&msclkid=50b598a1d2bf1800c257f230f7874a05",
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=231560&loc_interest_ms=&adgroupid=1343605787129260&keywords=to%20register%20your%20business&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct%2F&campaignid=606415592&device=c&domain=companyregistration.direct&placement=&msclkid=b15f5f4c70a711b03b5635dd559fc7e4",
+      "https://ldhub.app/",
+      "https://enterprise-hub.servicetitan.com/"
+    ],
+    "timestamp": "2026-08-28T11:35:43.194248",
+    "status": "results_found"
+  },
+  {
+    "seller": "LD ENTERPRISE Hub",
+    "field": "PAN",
+    "query": "LD ENTERPRISE Hub PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ldplayer.net/",
+      "https://ld-player.en.softonic.com/",
+      "https://www.ldplayer.net/versions",
+      "https://www.softpedia.com/get/Mobile-Phone-Tools/LDPlayer.shtml"
+    ],
+    "timestamp": "2026-08-28T11:35:54.106531",
+    "status": "results_found"
+  },
+  {
+    "business": "LD ENTERPRISE Hub",
+    "field": "Email Address",
+    "value": "support@ldplayer.net",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.ldplayer.net/",
+    "timestamp": "2026-08-28T11:35:56.910243"
+  },
+  {
+    "seller": "LD ENTERPRISE Hub",
+    "field": "GST",
+    "query": "LD ENTERPRISE Hub GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/ld-enterprise-33CAUPD5785R1ZO/"
+    ],
+    "timestamp": "2026-08-28T11:36:22.593018",
+    "status": "results_found"
+  },
+  {
+    "business": "LD ENTERPRISE Hub",
+    "field": "GST Number",
+    "value": "33CAUPD5785R1ZO",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/ld-enterprise-33CAUPD5785R1ZO/",
+    "timestamp": "2026-08-28T11:36:25.313519"
+  },
+  {
+    "business": "LD ENTERPRISE Hub",
+    "field": "PAN Number",
+    "value": "CAUPD5785R",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/ld-enterprise-33CAUPD5785R1ZO/",
+    "timestamp": "2026-08-28T11:36:25.313535"
+  },
+  {
+    "seller": "LD ENTERPRISE Hub",
+    "field": "Owner",
+    "query": "LD ENTERPRISE Hub director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ldplayer.net/",
+      "https://ld-player.en.softonic.com/",
+      "https://www.ldplayer.net/versions",
+      "https://www.softpedia.com/get/Mobile-Phone-Tools/LDPlayer.shtml"
+    ],
+    "timestamp": "2026-08-28T11:36:29.770137",
+    "status": "results_found"
+  },
+  {
+    "seller": "LD ENTERPRISE Hub",
+    "field": "Address",
+    "query": "LD ENTERPRISE Hub registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.ld_enterprise.7706e7f13eced7a6d6701a6c0e42d851.html",
+      "https://piceapp.com/gst-number-search/ld-enterprise-33caupd5785r1zo/",
+      "https://find-and-update.company-information.service.gov.uk/company/11762292",
+      "https://find-and-update.company-information.service.gov.uk/"
+    ],
+    "timestamp": "2026-08-28T11:37:04.761397",
+    "status": "results_found"
+  },
+  {
+    "seller": "LD ENTERPRISE Hub",
+    "field": "Phone",
+    "query": "LD ENTERPRISE Hub phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ldplayer.net/",
+      "https://ld-player.en.softonic.com/",
+      "https://www.ldplayer.net/versions",
+      "https://www.softpedia.com/get/Mobile-Phone-Tools/LDPlayer.shtml"
+    ],
+    "timestamp": "2026-08-28T11:37:08.161488",
+    "status": "results_found"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "Business Name",
+    "value": "GOOD LIFE BRANDS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3791T8H6C2KFV&asin=B0H3ZLJVNM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T11:37:24.178398"
+  },
+  {
+    "seller": "GOOD LIFE BRANDS",
+    "field": "Website",
+    "query": "GOOD LIFE BRANDS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://goodlifeclothing.com/",
+      "https://goodlifeclothing.com/collections/shop-all2"
+    ],
+    "timestamp": "2026-08-28T11:37:33.860679",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOOD LIFE BRANDS",
+    "field": "Legal Entity Name",
+    "query": "GOOD LIFE BRANDS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.rottenwifi.com/how-to-see-all-bing-related-searches/",
+      "https://rottenwifi.com/how-to-see-all-bing-related-searches/",
+      "https://pcnmobile.com/how-to-see-all-bing-related-searches/",
+      "https://www.seroundtable.com/bing-testing-related-searches-at-top-37757.html"
+    ],
+    "timestamp": "2026-08-28T11:37:57.001080",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOOD LIFE BRANDS",
+    "field": "Legal Entity Name",
+    "query": "GOOD LIFE BRANDS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.geely.com/-/",
+      "https://www.ask-oracle.com/baby-name/gerely/",
+      "https://www.geely.com/en/models/starray",
+      "https://www.carmodelslist.com/geely/"
+    ],
+    "timestamp": "2026-08-28T11:38:08.507925",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOOD LIFE BRANDS",
+    "field": "PAN",
+    "query": "GOOD LIFE BRANDS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://archive.org/stream/NEW_1/NEW.txt&sa=U&ei=dbWhU_r0ELLY7Ab2jYDoBg&ved=0CEA",
+      "https://www.scribd.com/document/1073562373/Forevermore-8-5-Club-Destiny-Nicole-Edwards-exclusive-release",
+      "https://github.com/sehiyes/hyrox/blob/main/index_260822.html",
+      "https://gist.github.com/AshwinD24?direction=asc&amp;sort=updated"
+    ],
+    "timestamp": "2026-08-28T11:38:10.167622",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOOD LIFE BRANDS",
+    "field": "GST",
+    "query": "GOOD LIFE BRANDS GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+      "https://fnshiftsolutions.com/gstin-search/good-brands-for-a-healthy-life-private-limited-27AAFCG6407K1ZF",
+      "https://www.mastersindia.co/gst-search/?name=good-brands-for-a-healthy-life-private-limited&gstin=27AAFCG6407K1ZF",
+      "https://fnshiftsolutions.com/gstin-search/good-brands-for-a-healthy-life-private-limited-06AAFCG6407K1ZJ"
+    ],
+    "timestamp": "2026-08-28T11:38:37.468737",
+    "status": "results_found"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.142096"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.158516"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "GST Number",
+    "value": "27AAFCG6407K1ZF",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.174283"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "PAN Number",
+    "value": "AAFCG6407K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.174306"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.312459"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.312479"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.319645"
+  },
+  {
+    "business": "GOOD LIFE BRANDS",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/good-brands-for-a-healthy-life-private-limited-27aafcg6407k1zf/",
+    "timestamp": "2026-08-28T11:38:40.326364"
+  },
+  {
+    "seller": "GOOD LIFE BRANDS",
+    "field": "Owner",
+    "query": "GOOD LIFE BRANDS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ukbusinessforums.co.uk/threads/tax-guidance-for-an-e-commerce-business-run-by-a-minor.429752/",
+      "https://www.ukbusinessforums.co.uk/threads/just-joined.420981/",
+      "https://www.ukbusinessforums.co.uk/threads/not-insolvent-yet.428286/",
+      "https://www.ukbusinessforums.co.uk/threads/bookkeepers-and-accountants-and-mutual-clients.428523/"
+    ],
+    "timestamp": "2026-08-28T11:38:42.993173",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOOD LIFE BRANDS",
+    "field": "Owner",
+    "query": "GOOD LIFE BRANDS founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://chrome.xahuapu.net/help/56.html"
+    ],
+    "timestamp": "2026-08-28T11:38:45.835708",
+    "status": "results_found"
+  },
+  {
+    "business": "Crosscut Lamps",
+    "field": "Business Name",
+    "value": "Crosscut Lamps",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NSKKWV4P8IYC&asin=B0B6SXGSD5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T11:38:52.655060"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "Website",
+    "query": "Crosscut Lamps official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://lantern.io/en",
+      "https://lantern.io/en/beta-main"
+    ],
+    "timestamp": "2026-08-28T11:38:55.302425",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "Legal Entity Name",
+    "query": "Crosscut Lamps company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/topics/c-language",
+      "https://www.divyabhaskar.co.in/local/gujarat/vadodara/",
+      "https://tv9gujarati.com/",
+      "https://sandesh.com/"
+    ],
+    "timestamp": "2026-08-28T11:39:13.637326",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "PAN",
+    "query": "Crosscut Lamps PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://miyazakisuiren.web.fc2.com/swim.html",
+      "https://miyazakisuiren.web.fc2.com/company.html",
+      "https://miyazakisuiren.web.fc2.com/schedule.html",
+      "https://miyazakisuiren.web.fc2.com/2025041920.html"
+    ],
+    "timestamp": "2026-08-28T11:39:29.827153",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "PAN",
+    "query": "Crosscut Lamps PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/",
+      "https://desktop.github.com/download/",
+      "https://github.com/features/copilot"
+    ],
+    "timestamp": "2026-08-28T11:39:44.142451",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "GST",
+    "query": "Crosscut Lamps GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-08-28T11:39:50.522023",
+    "status": "results_found"
+  },
+  {
+    "business": "Crosscut Lamps",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T11:39:52.878313"
+  },
+  {
+    "business": "Crosscut Lamps",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T11:39:52.878337"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "Owner",
+    "query": "Crosscut Lamps director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/system-design/microservices/",
+      "https://www.geeksforgeeks.org/blogs/microservice-architecture-introduction-challenges-best-practices/",
+      "https://middleware.io/blog/microservices-architecture/",
+      "https://softwaresystemdesign.com/software-architecture-design/architectural-patterns/microservices-architecture/"
+    ],
+    "timestamp": "2026-08-28T11:40:00.256722",
+    "status": "results_found"
+  },
+  {
+    "business": "Crosscut Lamps",
+    "field": "Billing Address",
+    "value": "a-143, 6th floor, sovereign corporate tower, sector- 136, noida, uttar pradesh (201305)",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/blogs/microservice-architecture-introduction-challenges-best-practices/",
+    "timestamp": "2026-08-28T11:40:09.538905"
+  },
+  {
+    "business": "Crosscut Lamps",
+    "field": "City",
+    "value": "uttar pradesh ()",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/blogs/microservice-architecture-introduction-challenges-best-practices/",
+    "timestamp": "2026-08-28T11:40:09.538923"
+  },
+  {
+    "business": "Crosscut Lamps",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/blogs/microservice-architecture-introduction-challenges-best-practices/",
+    "timestamp": "2026-08-28T11:40:09.538930"
+  },
+  {
+    "business": "Crosscut Lamps",
+    "field": "Pincode",
+    "value": "201305",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/blogs/microservice-architecture-introduction-challenges-best-practices/",
+    "timestamp": "2026-08-28T11:40:09.538935"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "Phone",
+    "query": "Crosscut Lamps phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/140422-install-uninstall-microsoft-wordpad-windows-10-a.html",
+      "https://forums.commentcamarche.net/forum/affich-36085464-wordpad",
+      "https://forums.commentcamarche.net/forum/affich-20895019-accolade-sous-wordpad",
+      "https://www.tenforums.com/activity.php"
+    ],
+    "timestamp": "2026-08-28T11:40:17.295065",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crosscut Lamps",
+    "field": "Email",
+    "query": "Crosscut Lamps email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.agfg.com.au/restaurants/adelaide/adelaide-city",
+      "https://www.bestrestaurants.com.au/best-guides/best-guides/best-restaurants-in-adelaide-cbd/",
+      "https://sitchu.com.au/adelaide/restaurants/best-restaurants-adelaide-cbd",
+      "https://www.broadsheet.com.au/adelaide/guides/best-restaurants-cbd"
+    ],
+    "timestamp": "2026-08-28T11:40:31.325570",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "category": "Salon Spa Equipment",
+  "records_before_save": 10,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "STOP 'N' BUY",
+      "database_id": 317,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "T TOPLINE\u00ae",
+      "database_id": 318,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919085282025",
+      "email": "info@topline.ph",
+      "gst": "24ASHPV1226A1Z6",
+      "pan": "ASHPV1226A",
+      "website": "https://topline.ph/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Alifonus",
+      "database_id": 319,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RedStarSafety",
+      "database_id": 320,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918071793718",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.redstarsafety.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KIDOM ENTERPRISE",
+      "database_id": 321,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

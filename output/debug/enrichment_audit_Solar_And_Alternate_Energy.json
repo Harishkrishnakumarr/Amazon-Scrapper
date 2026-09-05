@@ -1,0 +1,899 @@
+[
+  {
+    "business": "BOOKBUZZ",
+    "field": "Business Name",
+    "value": "BOOKBUZZ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A187XCOY9IUIAD&asin=9352607112&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T14:56:58.624739"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "Website",
+    "query": "BOOKBUZZ official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://bookbuzz.org/",
+      "https://bookbuzz.org/about"
+    ],
+    "timestamp": "2026-08-29T14:57:04.236609",
+    "status": "results_found"
+  },
+  {
+    "business": "BOOKBUZZ",
+    "field": "Website URL",
+    "value": "https://www.bookbuzz.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bookbuzz.com/",
+    "timestamp": "2026-08-29T14:57:06.522083"
+  },
+  {
+    "business": "BOOKBUZZ",
+    "field": "Email Address",
+    "value": "publicity@bookbuzz.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.bookbuzz.com/",
+    "timestamp": "2026-08-29T14:57:07.265367"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "Legal Entity Name",
+    "query": "BOOKBUZZ company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5519991"
+    ],
+    "timestamp": "2026-08-29T14:57:13.302467",
+    "status": "results_found"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "Legal Entity Name",
+    "query": "BOOKBUZZ Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://reflex.dev/blog/top-python-web-frameworks/",
+      "https://www.browserstack.com/guide/top-python-web-development-frameworks",
+      "https://www.geeksforgeeks.org/blogs/best-python-frameworks/"
+    ],
+    "timestamp": "2026-08-29T14:57:22.621900",
+    "status": "results_found"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "PAN",
+    "query": "BOOKBUZZ PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.vivaldi.net/topic/113545/whatsapp.com-web-use-another-browser-browser-unsupported-for-whatsapp-web",
+      "https://forum.vivaldi.net/topic/78815/whatsapp-web-on-web-panel-became-extremely-slow",
+      "https://forum.vivaldi.net/topic/112404/whatsapp-web-logging-out-constantly",
+      "https://forum.vivaldi.net/topic/78284/web-whatsapp-keeps-crashing-after-the-last-update"
+    ],
+    "timestamp": "2026-08-29T14:57:33.374081",
+    "status": "results_found"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "GST",
+    "query": "BOOKBUZZ GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gstregistration.org/"
+    ],
+    "timestamp": "2026-08-29T14:57:51.370087",
+    "status": "results_found"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "GST",
+    "query": "BOOKBUZZ GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BOOKBUZZ-EDU-INDIA-PRIVATE-LIMITED-U58111KA2025PTC203892",
+      "https://www.falconebiz.com/LLP/BOOKBUZZ-INDIA-LLP-ACV-6409",
+      "https://www.knowyourgst.com/gst-number-search/",
+      "https://www.easyleadz.com/company/the-book-buzz/gst"
+    ],
+    "timestamp": "2026-08-29T14:57:57.345677",
+    "status": "results_found"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "Owner",
+    "query": "BOOKBUZZ director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://english.ahram.org.eg/NewsContent/18/62/417431/Books/Reviews/INTERVIEW-Rania-Hanna-founder-of-BookBuzz-on-selli.aspx",
+      "https://bookbuzz.net/about-us/",
+      "https://bookbuzz.net/"
+    ],
+    "timestamp": "2026-08-29T14:58:05.148866",
+    "status": "results_found"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "Owner",
+    "query": "BOOKBUZZ founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://bookbuzz.net/about-us/",
+      "https://bookbuzz.net/",
+      "https://english.ahram.org.eg/NewsContentMulti/417431/Multimedia.aspx",
+      "https://www.finebooksmagazine.com/fine-books-news/new-book-search-engine-bookbuzzorg-launched"
+    ],
+    "timestamp": "2026-08-29T14:58:13.776720",
+    "status": "results_found"
+  },
+  {
+    "business": "BOOKBUZZ",
+    "field": "Phone Number",
+    "value": "+917748980700",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.finebooksmagazine.com/fine-books-news/new-book-search-engine-bookbuzzorg-launched",
+    "timestamp": "2026-08-29T14:58:18.051079"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "Address",
+    "query": "BOOKBUZZ registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-08-29T14:58:20.156374",
+    "status": "results_found"
+  },
+  {
+    "seller": "BOOKBUZZ",
+    "field": "Address",
+    "query": "BOOKBUZZ registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.weeronline.nl/",
+      "https://www.knmi.nl/nederland-nu/weer/verwachtingen",
+      "https://www.buienradar.nl/",
+      "https://www.weerplaza.nl/"
+    ],
+    "timestamp": "2026-08-29T14:58:23.694683",
+    "status": "results_found"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "Business Name",
+    "value": "Repro Books-On-Demand",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15DBATYR506U3&asin=B0BWXXP6WH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T14:58:35.479427"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Website",
+    "query": "Repro Books-On-Demand official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.apahotel.com/",
+      "https://www.apahotel.com/hotel/"
+    ],
+    "timestamp": "2026-08-29T14:58:37.040903",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Legal Entity Name",
+    "query": "Repro Books-On-Demand company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kiddihub.com/trung-tam-tieng-anh/khanh-hoa",
+      "https://top5sao.com/top-5-trung-tam-anh-ngu-o-khanh-hoa"
+    ],
+    "timestamp": "2026-08-29T14:59:05.574655",
+    "status": "results_found"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "Email Address",
+    "value": "contact@kiddihub.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kiddihub.com/trung-tam-tieng-anh/khanh-hoa",
+    "timestamp": "2026-08-29T14:59:10.942695"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "PAN",
+    "query": "Repro Books-On-Demand PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://explaincharges.com/microsoft-store-redmond-wa-charge-on-credit-card/",
+      "https://www.mapquest.com/us/washington/microsoft-corporation-12544878"
+    ],
+    "timestamp": "2026-08-29T14:59:15.271511",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "PAN",
+    "query": "Repro Books-On-Demand PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/awe",
+      "https://www.merriam-webster.com/dictionary/awe",
+      "https://www.britannica.com/dictionary/awe",
+      "https://www.psychologytoday.com/us/basics/awe?msockid=22cd7d022c6360a814276ac62d6e61a7"
+    ],
+    "timestamp": "2026-08-29T14:59:23.946024",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "GST",
+    "query": "Repro Books-On-Demand GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.reprobooks.in/",
+      "https://www.reprobooks.in/about-us/",
+      "https://www.reprobooks.in/our-business/",
+      "https://www.reprobooks.in/publishers/"
+    ],
+    "timestamp": "2026-08-29T14:59:40.170665",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Owner",
+    "query": "Repro Books-On-Demand director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://math.stackexchange.com/questions/145523/links-between-difference-and-differential-equations",
+      "https://mathworld.wolfram.com/RecurrenceEquation.html",
+      "https://math.stackexchange.com/questions/1027495/what-is-the-difference-between-difference-equations-and-recurrence-relations",
+      "https://www.mathpages.com/home/kmath361/kmath361.htm"
+    ],
+    "timestamp": "2026-08-29T14:59:46.300301",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Owner",
+    "query": "Repro Books-On-Demand founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.lizzis.no/"
+    ],
+    "timestamp": "2026-08-29T14:59:52.521792",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Address",
+    "query": "Repro Books-On-Demand registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.reprobooks.in/contact-us/",
+      "https://www.reprobooks.in/publishers/",
+      "https://www.reprobooks.in/our-business/",
+      "https://www.reprobooks.in/educators/"
+    ],
+    "timestamp": "2026-08-29T14:59:57.998935",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Address",
+    "query": "Repro Books-On-Demand registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://recordsfinder.com/death/",
+      "https://www.mylife.com/",
+      "https://deadline.com/",
+      "https://www.shorelinemedia.net/ludington_daily_news/"
+    ],
+    "timestamp": "2026-08-29T15:00:10.176656",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Phone",
+    "query": "Repro Books-On-Demand phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.reprobooks.in/contact-us/",
+      "https://www.reprobooks.in/publishers/",
+      "https://www.reprobooks.in/our-business/",
+      "https://www.reprobooks.in/educators/"
+    ],
+    "timestamp": "2026-08-29T15:00:14.468395",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Phone",
+    "query": "Repro Books-On-Demand contact phone",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://101.200.227.21/plan/16618",
+      "https://www.newton.com.tw/wiki/2014%E5%B9%B4%E9%82%A2%E5%8F%B0%E5%B8%82%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E5%A0%B1%E5%91%8A"
+    ],
+    "timestamp": "2026-08-29T15:00:24.194969",
+    "status": "results_found"
+  },
+  {
+    "business": "Book Wings- USA",
+    "field": "Business Name",
+    "value": "Book Wings- USA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html?ie=UTF8&seller=A2EE13C78BX7YO",
+    "timestamp": "2026-08-29T15:00:28.747312"
+  },
+  {
+    "seller": "Book Wings- USA",
+    "field": "Website",
+    "query": "Book Wings- USA official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.booksarewings.org/",
+      "https://www.booksarewings.org/our-why"
+    ],
+    "timestamp": "2026-08-29T15:00:32.862939",
+    "status": "results_found"
+  },
+  {
+    "business": "Book Wings- USA",
+    "field": "Website URL",
+    "value": "https://www.booksarewings.org/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.booksarewings.org/our-why",
+    "timestamp": "2026-08-29T15:00:43.577487"
+  },
+  {
+    "business": "Book Wings- USA",
+    "field": "Email Address",
+    "value": "info@booksarewings.org",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.booksarewings.org/",
+    "timestamp": "2026-08-29T15:00:45.907483"
+  },
+  {
+    "business": "Book Wings- USA",
+    "field": "Billing Address",
+    "value": "1005 Main St., Suite 711B",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.booksarewings.org/",
+    "timestamp": "2026-08-29T15:00:45.928342"
+  },
+  {
+    "seller": "Book Wings- USA",
+    "field": "Legal Entity Name",
+    "query": "Book Wings- USA company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.booking.com/?msockid=22cd7d022c6360a814276ac62d6e61a7",
+      "https://openlibrary.org/"
+    ],
+    "timestamp": "2026-08-29T15:00:51.607360",
+    "status": "results_found"
+  },
+  {
+    "seller": "Book Wings- USA",
+    "field": "Legal Entity Name",
+    "query": "Book Wings- USA Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://secretaryofstate.com/",
+      "https://secretaryofstate.com/texas",
+      "https://secretaryofstate.com/california",
+      "https://secretaryofstate.com/illinois"
+    ],
+    "timestamp": "2026-08-29T15:00:57.552581",
+    "status": "results_found"
+  },
+  {
+    "seller": "Book Wings- USA",
+    "field": "PAN",
+    "query": "Book Wings- USA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-08-29T15:01:16.784960",
+    "status": "results_found"
+  },
+  {
+    "seller": "Book Wings- USA",
+    "field": "GST",
+    "query": "Book Wings- USA GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.booking.com/?msockid=22cd7d022c6360a814276ac62d6e61a7",
+      "https://openlibrary.org/"
+    ],
+    "timestamp": "2026-08-29T15:01:23.534437",
+    "status": "results_found"
+  },
+  {
+    "seller": "Book Wings- USA",
+    "field": "Owner",
+    "query": "Book Wings- USA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.booking.com/?msockid=22cd7d022c6360a814276ac62d6e61a7",
+      "https://openlibrary.org/",
+      "https://bookstohome.co.in/",
+      "https://www.bookswagon.com/"
+    ],
+    "timestamp": "2026-08-29T15:01:44.359949",
+    "status": "results_found"
+  },
+  {
+    "seller": "Book Wings- USA",
+    "field": "Phone",
+    "query": "Book Wings- USA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.booking.com/?msockid=22cd7d022c6360a814276ac62d6e61a7",
+      "https://openlibrary.org/",
+      "https://bookstohome.co.in/",
+      "https://www.bookswagon.com/"
+    ],
+    "timestamp": "2026-08-29T15:02:02.502095",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=1906860327&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T15:02:11.274156"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.howtogeek.com/799594/how-to-change-the-taskbar-color-in-windows-11/",
+      "https://www.wikihow.com/Change-Taskbar-Color-Windows-11"
+    ],
+    "timestamp": "2026-08-29T15:02:13.139515",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cloud.hello.hit.com.au/pref-processing",
+      "https://www.hit.com.au/story/bay-to-bay-running-festival-is-back-for-2019-83238",
+      "https://www.hit.com.au/story/what-is-this-band-called-115036",
+      "https://www.hit.com.au/story/heres-how-to-wake-up-with-2dayfm-on-your-iphone-every-morning-142588"
+    ],
+    "timestamp": "2026-08-29T15:02:23.149321",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://thetechgorilla.com/how-to-get-help-in-windows-11/",
+      "https://www.izoate.com/blog/how-to-get-help-in-windows-11-complete-guide-to-windows-11-support/"
+    ],
+    "timestamp": "2026-08-29T15:02:34.888560",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "raj@how2shout.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+    "timestamp": "2026-08-29T15:02:42.027362"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0",
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-08-29T15:02:48.412975",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bbs.kakaku.com/bbs/K0000318340/",
+      "https://bbs.kakaku.com/bbs/70100510143/SortID=15313027/",
+      "https://bbs.kakaku.com/bbs/K0001458682/SortID=26073555/",
+      "https://bbs.kakaku.com/bbs/K0000914961/SortID=20734475/"
+    ],
+    "timestamp": "2026-08-29T15:02:54.842904",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.winwinpoolshop.com/en/product/49930-78470/%E0%B8%9B%E0%B8%B1%E0%B9%8A%E0%B8%A1-ctx400-15-%E0%B9%81%E0%B8%A3%E0%B8%87-1-%E0%B9%80%E0%B8%9F%E0%B8%AA-astral",
+      "https://www.winwinpoolshop.com/product/49930-78470/ctx400-1-5hp",
+      "https://segapool.com/product/astralpool-ctx-400-11203/",
+      "https://www.xn--12cai3dqql2dhbc9bybzb1c7acbb8hrb6y0a7d8a.com/product/801982"
+    ],
+    "timestamp": "2026-08-29T15:03:05.018987",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopee.com/",
+      "https://shopee.ph/buyer/login",
+      "http://u.shopee.ph/",
+      "https://shopee.ph/search?keyword=%23shoppee"
+    ],
+    "timestamp": "2026-08-29T15:03:18.505092",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.aol.com/"
+    ],
+    "timestamp": "2026-08-29T15:03:22.693893",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://contactout.com/company/Cocoblu-Retail-19325",
+      "https://www.cocoblu.in/contact-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.dnb.com/business-directory/company-profiles.cocoblu_retail_limited.aa5dcd80d3295b7afdf865dae5a9bb48.html"
+    ],
+    "timestamp": "2026-08-29T15:03:32.443362",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "37AAJCC8517E1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-29T15:03:35.444627"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-29T15:03:35.444653"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-29T15:03:35.457230"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-29T15:03:35.457256"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-29T15:03:35.457678"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-29T15:03:35.457699"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dollarrupee.in/",
+      "https://dollarrupee.in/silver-price-today-forecast",
+      "https://dollarrupee.in/dogecoin",
+      "https://dollarrupee.in/chart"
+    ],
+    "timestamp": "2026-08-29T15:03:37.002130",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/contact-us/",
+      "https://www.cocoblu.in/",
+      "https://aeroleads.com/c/cocoblu",
+      "https://contactout.com/company/Cocoblu-Retail-19325"
+    ],
+    "timestamp": "2026-08-29T15:03:44.762854",
+    "status": "results_found"
+  },
+  {
+    "business": "booksone",
+    "field": "Business Name",
+    "value": "booksone",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AR0VU5WPLITNC&asin=9380772548&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T15:03:54.674882"
+  },
+  {
+    "seller": "booksone",
+    "field": "Website",
+    "query": "booksone official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://h30434.www3.hp.com/t5/Printers-Knowledge-Base/How-to-Find-the-WPS-PIN-to-Complete-Printer-Setup/ta-p/9613199",
+      "https://h30434.www3.hp.com/t5/Printing-Errors-or-Lights-Stuck-Print-Jobs/quot-Printer-in-error-state-quot-what-does-that-mean/td-p/9306581"
+    ],
+    "timestamp": "2026-08-29T15:03:57.208792",
+    "status": "results_found"
+  },
+  {
+    "business": "booksone",
+    "field": "Website URL",
+    "value": "https://www.booksone.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.booksone.com/",
+    "timestamp": "2026-08-29T15:04:00.185958"
+  },
+  {
+    "seller": "booksone",
+    "field": "Legal Entity Name",
+    "query": "booksone company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://entitysearch.us/",
+      "https://www.brookstone.com/",
+      "https://find-and-update.company-information.service.gov.uk/"
+    ],
+    "timestamp": "2026-08-29T15:04:12.635418",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "Legal Entity Name",
+    "query": "booksone Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://razorpay.com/rize/company-registration/private-limited/",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://taxlegit.com/blogs/how-to-register-private-limited-company-india"
+    ],
+    "timestamp": "2026-08-29T15:04:24.073657",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "PAN",
+    "query": "booksone PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.radio-philippines.com/newsline-central-luzon-1031-fm2",
+      "https://zeno.fm/radio/newsline-central-luzon-103-1-fm/",
+      "https://mytuner-radio.com/radio/newsline-central-luzon-1031-fm-philippines-498973/",
+      "https://liveonlineradio.net/newsline-central-luzon-1031-fm"
+    ],
+    "timestamp": "2026-08-29T15:04:28.888285",
+    "status": "results_found"
+  },
+  {
+    "business": "booksone",
+    "field": "Email Address",
+    "value": "newslinecl1031fm@outlook.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.radio-philippines.com/newsline-central-luzon-1031-fm2",
+    "timestamp": "2026-08-29T15:04:30.511329"
+  },
+  {
+    "seller": "booksone",
+    "field": "PAN",
+    "query": "booksone PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-29T15:04:41.321485",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "GST",
+    "query": "booksone GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://jp.noxinfluencer.com/youtube-video-rank/top-jp-all-video-day"
+    ],
+    "timestamp": "2026-08-29T15:04:43.178193",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "GST",
+    "query": "booksone GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wayground.com/admin/quiz/5f47a7a9944f31001b46cdc7/salar-de-uyuni",
+      "https://bingquiz.com/bing-salar-de-uyuni-quiz/",
+      "https://wayground.com/admin/quiz/619db645ab7c25001d5c4f40/uyuni-salt-flats-salar-de-uyuni",
+      "https://www.thatquiz.org/tq/preview?c=34ddprzo"
+    ],
+    "timestamp": "2026-08-29T15:04:49.308950",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "Owner",
+    "query": "booksone director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://whoistheownerof.com/",
+      "https://whoistheownerof.com/company/",
+      "https://whoistheownerof.com/website/",
+      "https://www.whoistheownerof.com/company/satellite-television/"
+    ],
+    "timestamp": "2026-08-29T15:04:59.723811",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "Owner",
+    "query": "booksone founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.caisgroup.com/our-company/profile/dean-zayed",
+      "https://qz.com/1651414/barnes-nobles-new-ceo-wants-the-chain-to-be-more-like-an-indie",
+      "https://www.onepeacebooks.com/"
+    ],
+    "timestamp": "2026-08-29T15:05:09.000100",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "Address",
+    "query": "booksone registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.importgenius.com/suppliers/booksone",
+      "https://craft.co/barnes-noble/locations",
+      "https://www.corporateoffice.com/Barnes-Noble.html",
+      "https://www.barnesandnobleinc.com/"
+    ],
+    "timestamp": "2026-08-29T15:05:16.772736",
+    "status": "results_found"
+  },
+  {
+    "seller": "booksone",
+    "field": "Phone",
+    "query": "booksone phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://knowyourmeme.com/memes/momo",
+      "https://momohandles.com.au/",
+      "https://momochicken.com.au/",
+      "https://www.momoshop.com.tw/brand/Main.jsp"
+    ],
+    "timestamp": "2026-08-29T15:05:32.626148",
+    "status": "results_found"
+  }
+]

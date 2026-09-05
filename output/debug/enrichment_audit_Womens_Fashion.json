@@ -1,0 +1,945 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0H7SQXDCV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T03:39:21.386354"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=160801da4c8267563884166f4dda6632",
+      "https://us.etrade.com/e/t/user/login?msockid=160801da4c8267563884166f4dda6632"
+    ],
+    "timestamp": "2026-08-15T03:39:23.180228",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=160801da4c8267563884166f4dda6632",
+    "timestamp": "2026-08-15T03:40:28.898196"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151624015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-15T03:40:29.867626"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications",
+      "https://express.etrade.com/etx/rtao/ma/account-types/brokerage/individual",
+      "https://us.etrade.com/e/t/accounts/sccreatemsg",
+      "https://us.etrade.com/etx/mm/fundingcenter/link-account",
+      "https://us.etrade.com/e/t/user/475formsubmit"
+    ],
+    "timestamp": "2026-08-15T03:40:44.015459",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications",
+      "https://express.etrade.com/etx/rtao/ma/account-types/brokerage/individual",
+      "https://us.etrade.com/e/t/accounts/sccreatemsg",
+      "https://us.etrade.com/etx/mm/fundingcenter/link-account",
+      "https://us.etrade.com/e/t/user/475formsubmit"
+    ],
+    "timestamp": "2026-08-15T03:40:58.173938",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/contact-us",
+      "https://us.etrade.com/frequently-asked-questions/most-popular",
+      "https://us.etrade.com/e/t/accounts/sccreatemsg",
+      "https://us.etrade.com/e/t/home/contactus_esp",
+      "https://us.etrade.com/etx/user/recoveruserid"
+    ],
+    "timestamp": "2026-08-15T03:41:03.875895",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home",
+      "https://us.etrade.com/etx/hw/v2/accountshome?cnt=header_logon_startin_accounts",
+      "https://us.etrade.com/e/t/etpro/ETProLaunchPage",
+      "https://us.etrade.com/e/t/invest/vieworders",
+      "https://us.etrade.com/what-we-offer/investment-choices/cryptocurrency"
+    ],
+    "timestamp": "2026-08-15T03:41:22.557895",
+    "status": "results_found"
+  },
+  {
+    "business": "MOOVER",
+    "field": "Business Name",
+    "value": "MOOVER",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39CV4DVTASPO6&asin=B0H7S62F6T&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T03:41:22.988211"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "Website",
+    "query": "MOOVER official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.figma.com/",
+      "https://www.figma.com/pt-br/"
+    ],
+    "timestamp": "2026-08-15T03:41:24.643328",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "Legal Entity Name",
+    "query": "MOOVER company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686895x1273236128138508x506213434&adid=&device=c&location=149966&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686895&hsa_kw=how%20to%20register%20a%20company%20in%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=6e42affd3653149bd5b3c582a4ca896a&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=how%20to%20register%20a%20company%20in%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=149966&loc_interest_ms=&adgroupid=1343605787129260&keywords=register%20with%20companies%20house&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct&campaignid=606415592&device=c&domain=companyregistration.direct&placement=&msclkid=9f2a2b40e24716881bb7413f70def896",
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=fa42b693a89c199c6f57dcec3a05f1b8&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://moowr.com/",
+      "https://moova.io/en/index.html"
+    ],
+    "timestamp": "2026-08-15T03:41:36.824859",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "PAN",
+    "query": "MOOVER PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://xhamster.com/",
+      "https://xhamster.com/newest",
+      "https://xhamster3.com/best/weekly",
+      "https://xhamster2.com/newest/2",
+      "https://xhamster.desi/best/daily"
+    ],
+    "timestamp": "2026-08-15T03:41:56.000210",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "GST",
+    "query": "MOOVER GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-15T03:42:21.091979",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "GST",
+    "query": "MOOVER GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://brainly.ph/question/30092564",
+      "https://brainly.ph/question/2395334",
+      "https://brainly.ph/question/13282364",
+      "https://brainly.ph/question/48813",
+      "https://brainly.ph/question/29841657"
+    ],
+    "timestamp": "2026-08-15T03:42:26.965168",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "GST",
+    "query": "MOOVER GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/10434916917",
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+      "https://www.reddit.com/r/writing/",
+      "https://www.reddit.com/r/jobsearchhacks/comments/11s684l/the_real_way_to_write_your_resume_using_chatgpt/"
+    ],
+    "timestamp": "2026-08-15T03:42:32.819897",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "Owner",
+    "query": "MOOVER director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astrology.com/zodiac-signs/gemini",
+      "https://www.horoscope.com/zodiac-signs/gemini",
+      "https://www.astrology.com/horoscope/daily/gemini.html",
+      "https://www.astroyogi.com/horoscopes/daily/gemini-free-horoscope.aspx",
+      "https://www.prokerala.com/astrology/horoscope/?sign=gemini"
+    ],
+    "timestamp": "2026-08-15T03:42:42.946116",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "Owner",
+    "query": "MOOVER managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reformer.com/community-news/schoonmaker-retires-from-moover/article_d93574b6-ecd9-4887-9f43-6d5db22c195c.html",
+      "https://www.moover.com/sevt-announces-new-ceo-appointment/",
+      "https://vermontjournal.com/business/moover-announces-new-ceo/",
+      "https://www.datanyze.com/companies/moover-toys/350864392",
+      "https://vermontjournal.com/news/moover-promotes-new-chief-operating-officer/"
+    ],
+    "timestamp": "2026-08-15T03:42:57.360351",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "Address",
+    "query": "MOOVER registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://pixabay.com/videos/search/romantic/",
+      "https://www.netflix.com/in/browse/genre/8883",
+      "https://www.justwatch.com/in/lists/romantic-drama/movies"
+    ],
+    "timestamp": "2026-08-15T03:43:04.116835",
+    "status": "results_found"
+  },
+  {
+    "seller": "MOOVER",
+    "field": "Address",
+    "query": "MOOVER registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/442148723/answers/updated",
+      "https://www.zhihu.com/pin/1628699817512886272",
+      "https://jingyan.baidu.com/article/ff42efa9ec3c0fc19e22020b.html",
+      "https://jingyan.baidu.com/article/5970355206a3c7cec107405d.html",
+      "https://www.zhihu.com/topic/23739196/hot"
+    ],
+    "timestamp": "2026-08-15T03:43:22.134851",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Business Name",
+    "value": "RAVR India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20ZUMPRRI5G7L&asin=B0BWPGC2PR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T03:43:25.671759"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Website",
+    "query": "RAVR India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hi.xhamster.desi/search/%E0%A4%A8%E0%A4%82%E0%A4%97%E0%A5%80+%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%80+%E0%A4%AB%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%82",
+      "https://hi.xhamster.desi/search/%E0%A4%A8%E0%A4%82%E0%A4%97%E0%A5%80+%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80"
+    ],
+    "timestamp": "2026-08-15T03:43:26.895718",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Legal Entity Name",
+    "query": "RAVR India company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://fitsmallbusiness.com/best-marketing-automation-software/"
+    ],
+    "timestamp": "2026-08-15T03:43:52.083856",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Legal Entity Name",
+    "query": "RAVR India Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/forum/resources/tuna.843/",
+      "https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/"
+    ],
+    "timestamp": "2026-08-15T03:43:55.983072",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Legal Entity Name",
+    "query": "RAVR India legal entity",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tools.usps.com/go/TrackConfirmAction?nums=tools+usps+com&msockid=160801da4c8267563884166f4dda6632",
+      "https://www.ups.com/track?tracknum=tracking&loc=en_US&msockid=160801da4c8267563884166f4dda6632"
+    ],
+    "timestamp": "2026-08-15T03:44:00.035298",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://www.pan.utiitsl.com/PAN/"
+    ],
+    "timestamp": "2026-08-15T03:44:08.112231",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/"
+    ],
+    "timestamp": "2026-08-15T03:44:16.764473",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/55795521",
+      "https://www.zhihu.com/question/279338227"
+    ],
+    "timestamp": "2026-08-15T03:44:21.767207",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "GST",
+    "query": "RAVR India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/download-official-windows-11-iso-file-from-microsoft.1009/",
+      "https://www.elevenforum.com/t/get-and-give-remote-assistance-with-quick-assist-app-in-windows-11.13205/"
+    ],
+    "timestamp": "2026-08-15T03:44:27.518016",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "GST",
+    "query": "RAVR India GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://connect.heromotocorp.biz/edealer_enu?SWECmd=Start&SWEHo=connect.heromotocorp.biz",
+      "https://connect.heromotocorp.biz/siebel/app/edealerarc/enu/?SWECmd=Start&SWEHo=connect.heromotocorp.biz",
+      "https://connect.heromotocorp.biz/siebel/app/edealer/enu/?SWENeedContext=false&SWECmd=GotoView&SWEView=Auto+Home+Page+View+(SDW)&SWEC=13&SWEBID=-1",
+      "https://connect.heromotocorp.biz/siebel/app/edealer/enu/?SWECmd=GotoView&SWEView=Home+Page+View+CX&SWERF=1&SWEHo=connect.heromotocorp.biz&SWEBU=1&SWEApplet0=Signin+Applet+",
+      "https://connect.heromotocorp.biz/siebel/app/edealer/enu/?swecmd=gotoview&sweview=home+page+view+cx&swerf=1&sweho=connect.heromotocorp.biz&swebu=1&sweapplet0=signin+applet+(cx+partner+portal)&swerowid0=vrid-0"
+    ],
+    "timestamp": "2026-08-15T03:44:32.327470",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Owner",
+    "query": "RAVR India director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+      "https://www.allindiaitr.com/company/ravr-industries-private-limited/U17299TN2022PTC154064",
+      "https://www.companydetails.in/company/ravr-industries-private-limited",
+      "https://qorpiq.com/company/ravr-industries-private-limited/U17299TN2022PTC154064",
+      "https://www.thecompanycheck.com/company/ravr-industries-private-limited/U17299TN2022PTC154064"
+    ],
+    "timestamp": "2026-08-15T03:44:54.952630",
+    "status": "results_found"
+  },
+  {
+    "business": "Toretto Totes",
+    "field": "Business Name",
+    "value": "Toretto Totes",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2D6J5WPK6ULXV&asin=B0H2F8Q17H&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T03:45:31.804188"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Website",
+    "query": "Toretto Totes official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.minecraft.net/",
+      "https://minbrowser.org/"
+    ],
+    "timestamp": "2026-08-15T03:45:33.094594",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Legal Entity Name",
+    "query": "Toretto Totes company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.hiedano.kameoka-city.org/",
+      "https://www.hiedano.kameoka-city.org/association.php",
+      "https://www.hiedano.kameoka-city.org/introduce.php",
+      "https://www.hiedano.kameoka-city.org/towntimes/towntimes13.pdf",
+      "https://www.hiedano.kameoka-city.org/contact.php"
+    ],
+    "timestamp": "2026-08-15T03:45:41.101061",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "PAN",
+    "query": "Toretto Totes PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://5278.cc/forum.php?mod=forumdisplay&fid=23&filter=typeid&typeid=431",
+      "https://5278.cc/",
+      "https://movie.douban.com/subject/36452545/",
+      "https://movie.douban.com/subject/25885376/photos",
+      "https://5278.cc/forum.php?mod=forumdisplay&fid=23&filter=typeid&typeid=34"
+    ],
+    "timestamp": "2026-08-15T03:46:07.758203",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "PAN",
+    "query": "Toretto Totes PAN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.bingquote.com/home"
+    ],
+    "timestamp": "2026-08-15T03:46:19.551070",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "PAN",
+    "query": "Toretto Totes PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.isuzuute.com.au/mu-x/overview",
+      "https://www.carsales.com.au/cars/isuzu/mu-x/",
+      "https://www.isuzuute.com.au/",
+      "https://www.carsales.com.au/research/isuzu/mu-x/",
+      "https://www.sutherlandisuzuute.com.au/new-vehicles/mu-x/"
+    ],
+    "timestamp": "2026-08-15T03:46:21.765329",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "GST",
+    "query": "Toretto Totes GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/tardis/zm/art/294283384",
+      "https://www.zhihu.com/question/509353816",
+      "https://it.ccm.net/faq/29720-visualizza-le-storie-nascoste-di-instagram-in-anonimo-online"
+    ],
+    "timestamp": "2026-08-15T03:46:28.660931",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "GST",
+    "query": "Toretto Totes GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://atlasofpelvicsurgery.org/9AbdominalWall/1PfannenstielIncision/cha9sec1.html",
+      "https://www.vumc.org/global-surgical-atlas/sites/default/files/public_files/PDF/Pfannenstiel%20Incision.pdf",
+      "https://www.urology-textbook.com/pfannenstiel-incision.html",
+      "https://everything.explained.today/Pfannenstiel_incision/",
+      "https://pelvichealthptprep.com/blog/f/pfannestiel-incision"
+    ],
+    "timestamp": "2026-08-15T03:46:37.562810",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Owner",
+    "query": "Toretto Totes director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.berlin.de/rbmskzl/service/artikel.107798.php",
+      "https://firmania.de/berlin/rotes-rathaus-7964836",
+      "https://www.berlin.de/tickets/suche/orte/rathausstrasse-15-56d89e07-de6d-4f53-8f8d-70320600d72b/",
+      "https://www.mapquest.com/de/rotes-rathaus-775858878",
+      "https://orte.immobilienscout24.de/adresse/berlin-10178-rathausstrasse-nr-15"
+    ],
+    "timestamp": "2026-08-15T03:46:48.681440",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Owner",
+    "query": "Toretto Totes managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://fineartamerica.com/shop/tote+bags/managing+director",
+      "https://www.americanmadebags.com/a4-director-tote",
+      "https://rocketreach.co/tote-inc-management_b5bba898f6873718",
+      "https://sbcnews.co.uk/sportsbook/2026/04/20/john-oreilly-joins-tote/",
+      "https://pitchbook.com/profiles/company/10305-10"
+    ],
+    "timestamp": "2026-08-15T03:46:56.251059",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Owner",
+    "query": "Toretto Totes founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.wikiwand.com/en/Totes_Isotoner",
+      "https://rocketreach.co/totes-isotoner-profile_b5c7b39ff42e0d48",
+      "https://www.cbinsights.com/company/totes-isotoner-corporation/people",
+      "https://en-academic.com/dic.nsf/enwiki/1105395",
+      "https://www.nssmag.com/en/fashion/36485/tote-bag-storia"
+    ],
+    "timestamp": "2026-08-15T03:47:09.080619",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Address",
+    "query": "Toretto Totes registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://opengovny.com/corporation/1015458",
+      "https://www.mapquest.com/us/ohio/totes-isotoner-corporate-office-438273347",
+      "https://leadiq.com/c/totes-isotoner/5a1d970d230000530085adba",
+      "https://www.datanyze.com/companies/totes/120455291",
+      "https://contactout.com/company/totes-isotoner-1231317"
+    ],
+    "timestamp": "2026-08-15T03:47:12.571021",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Address",
+    "query": "Toretto Totes registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.aoyamaflowermarket.com/",
+      "https://www.aoyamaflowermarket.com/category/SHOP/",
+      "https://www.aoyamaflowermarket.com/category/SHOP115/",
+      "https://www.aoyamaflowermarket.com/category/SHOP079/",
+      "https://www.aoyamaflowermarket.com/category/USE_CELEB_FAREWELL/"
+    ],
+    "timestamp": "2026-08-15T03:47:19.941383",
+    "status": "results_found"
+  },
+  {
+    "seller": "Toretto Totes",
+    "field": "Phone",
+    "query": "Toretto Totes phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://totes-com.pissedconsumer.com/customer-service.html",
+      "https://www.totes.com/pages/contact-us",
+      "https://www.target.com/help/contact-us",
+      "https://www.torrid.com/help",
+      "https://help.totencarry.com/"
+    ],
+    "timestamp": "2026-08-15T03:47:33.909707",
+    "status": "results_found"
+  },
+  {
+    "business": "Cute Shopping Network\u00ae",
+    "field": "Business Name",
+    "value": "Cute Shopping Network\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A133RPGBG07NNR&asin=B0GZ3K9533&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T03:47:34.185660"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Website",
+    "query": "Cute Shopping Network\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers"
+    ],
+    "timestamp": "2026-08-15T03:47:35.618981",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Cute Shopping Network\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:47:46.826842",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Cute Shopping Network\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:47:56.583392",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Cute Shopping Network\u00ae legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:03.360842",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "PAN",
+    "query": "Cute Shopping Network\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:06.715689",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "PAN",
+    "query": "Cute Shopping Network\u00ae PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:14.168057",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "PAN",
+    "query": "Cute Shopping Network\u00ae PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:20.861025",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "GST",
+    "query": "Cute Shopping Network\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:28.241362",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "GST",
+    "query": "Cute Shopping Network\u00ae GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:34.182300",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "GST",
+    "query": "Cute Shopping Network\u00ae GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:40.535397",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Owner",
+    "query": "Cute Shopping Network\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:49.710609",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Owner",
+    "query": "Cute Shopping Network\u00ae managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:48:56.767609",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Owner",
+    "query": "Cute Shopping Network\u00ae founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:49:02.667000",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Address",
+    "query": "Cute Shopping Network\u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:49:08.334233",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Address",
+    "query": "Cute Shopping Network\u00ae registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:49:14.046233",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Address",
+    "query": "Cute Shopping Network\u00ae head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:49:20.399737",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Phone",
+    "query": "Cute Shopping Network\u00ae phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:49:26.018648",
+    "status": "results_found"
+  },
+  {
+    "business": "Cute Shopping Network\u00ae",
+    "field": "Phone Number",
+    "value": "+911412422026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.merriam-webster.com/dictionary/cute",
+    "timestamp": "2026-08-15T03:49:26.962016"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Email",
+    "query": "Cute Shopping Network\u00ae email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:49:28.435730",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cute Shopping Network\u00ae",
+    "field": "Email",
+    "query": "Cute Shopping Network\u00ae official email id",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/cute",
+      "https://wallpaperbat.com/cute-pc-wallpapers",
+      "https://www.crazygames.com/t/cute",
+      "https://dictionary.cambridge.org/dictionary/english/cute",
+      "https://www.merriam-webster.com/thesaurus/cute"
+    ],
+    "timestamp": "2026-08-15T03:49:34.264391",
+    "status": "results_found"
+  }
+]

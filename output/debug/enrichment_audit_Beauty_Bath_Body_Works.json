@@ -1,0 +1,303 @@
+[
+  {
+    "business": "Bath & Body Works India",
+    "field": "Business Name",
+    "value": "Bath & Body Works India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A10OHJUIAX45ZN&asin=B0GTM9YBS6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-19T16:01:45.726099"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Website",
+    "query": "Bath & Body Works India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/",
+      "https://www.bathandbodyworks.in/mens-collection/"
+    ],
+    "timestamp": "2026-08-19T16:01:47.497498",
+    "status": "results_found"
+  },
+  {
+    "business": "Bath & Body Works India",
+    "field": "Website URL",
+    "value": "https://www.bathandbodyworks.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bathandbodyworks.in/mens-collection/",
+    "timestamp": "2026-08-19T16:01:53.394570"
+  },
+  {
+    "business": "Bath & Body Works India",
+    "field": "Phone Number",
+    "value": "+919331312026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.bathandbodyworks.in/",
+    "timestamp": "2026-08-19T16:01:54.260076"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Legal Entity Name",
+    "query": "Bath & Body Works India company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.instafinancials.com/company/bath-body-works-india-private-limited-U74900KA2011PTC059668/company-overview#:~:text=BATH%20%26%20BODY%20WORKS%20INDIA%20PRIVATE%20LIMITED%27s%20unique,number%20is%2059668.%20It%20is%20registered%20at%20RoC-Bangalore.",
+      "https://www.falconebiz.com/company/BATH-BODY-WORKS-INDIA-PRIVATE-LIMITED-U74900KA2011PTC059668",
+      "https://tracxn.com/d/legal-entities/india/bath-body-works-india-private-limited/__YsODNvtzPh3Ti6ELHdTJhqDfS_me-3sYSpqC2KnFOe4",
+      "https://www.instafinancials.com/company/bath-body-works-india-private-limited-U74900KA2011PTC059668/company-overview",
+      "https://www.thecompanycheck.com/company/bath-body-works-india-private-limited/U74900KA2011PTC059668"
+    ],
+    "timestamp": "2026-08-19T16:02:00.212924",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Legal Entity Name",
+    "query": "Bath & Body Works India Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/",
+      "https://www.bathandbodyworks.in/mens-collection/",
+      "https://www.bathandbodyworks.in/c/new-and-now/",
+      "https://www.bathandbodyworks.in/c/hand-soaps-and-cleansers/",
+      "https://www.bathandbodyworks.in/shop-by-fragrance/"
+    ],
+    "timestamp": "2026-08-19T16:02:05.496214",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Legal Entity Name",
+    "query": "Bath & Body Works India legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/",
+      "https://www.bathandbodyworks.in/mens-collection/",
+      "https://www.bathandbodyworks.in/c/new-and-now/",
+      "https://www.bathandbodyworks.in/c/hand-soaps-and-cleansers/",
+      "https://www.bathandbodyworks.in/shop-by-fragrance/"
+    ],
+    "timestamp": "2026-08-19T16:02:18.963422",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "PAN",
+    "query": "Bath & Body Works India PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://hsncodefinder.app/",
+      "https://gstverify.co.in/search/",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-08-19T16:02:20.582789",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "PAN",
+    "query": "Bath & Body Works India PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/",
+      "https://www.bathandbodyworks.in/mens-collection/",
+      "https://www.bathandbodyworks.in/c/new-and-now/",
+      "https://www.bathandbodyworks.in/c/hand-soaps-and-cleansers/",
+      "https://www.bathandbodyworks.in/shop-by-fragrance/"
+    ],
+    "timestamp": "2026-08-19T16:02:32.633196",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "GST",
+    "query": "Bath & Body Works India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-19T16:02:41.098707",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "GST",
+    "query": "Bath & Body Works India GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/",
+      "https://www.bathandbodyworks.in/mens-collection/",
+      "https://www.bathandbodyworks.in/c/new-and-now/",
+      "https://www.bathandbodyworks.in/c/hand-soaps-and-cleansers/",
+      "https://www.bathandbodyworks.in/shop-by-fragrance/"
+    ],
+    "timestamp": "2026-08-19T16:02:46.462878",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "GST",
+    "query": "Bath & Body Works India GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=mast-india-trading-services-private-limited&gstin=29AAHCM6949G2ZW#:~:text=GST%20number%20of%20BATH%20%26%20BODY%20WORKS%20INDIA,This%20is%20the%20GST%20number%20registered%20in%20Karnataka.",
+      "https://www.mastersindia.co/gst-search/?name=mast-india-trading-services-private-limited&gstin=29AAHCM6949G2ZW",
+      "https://www.falconebiz.com/company/BATH-BODY-WORKS-INDIA-PRIVATE-LIMITED-U74900KA2011PTC059668",
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchhsnsac"
+    ],
+    "timestamp": "2026-08-19T16:02:57.263113",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Owner",
+    "query": "Bath & Body Works India director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-19T16:03:01.421235",
+    "status": "no_results"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Owner",
+    "query": "Bath & Body Works India managing director",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/bath-body-works-india-private-limited/U74900KA2011PTC059668",
+      "https://www.masterdata.in/company/bath_amp_body_works_india_private_limited/U74900KA2011PTC059668",
+      "https://tracxn.com/d/legal-entities/india/bath-body-works-india-private-limited/__YsODNvtzPh3Ti6ELHdTJhqDfS_me-3sYSpqC2KnFOe4"
+    ],
+    "timestamp": "2026-08-19T16:03:03.679925",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Owner",
+    "query": "Bath & Body Works India founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/",
+      "https://www.forbes.com/profile/les-wexner/",
+      "https://whoistheownerof.com/who-is-the-owner-of-bath-body-works/",
+      "https://www.planify.in/investors/aakash-anand/",
+      "https://www.bathandbodyworks.in/mens-collection/"
+    ],
+    "timestamp": "2026-08-19T16:03:09.940496",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Address",
+    "query": "Bath & Body Works India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://jaanoindia.in/company-search/",
+      "https://www.bathandbodyworks.in/",
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.bharatibiz.com/en/"
+    ],
+    "timestamp": "2026-08-19T16:03:21.708582",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Address",
+    "query": "Bath & Body Works India registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/",
+      "https://tracxn.com/d/legal-entities/india/bhagwati-products-limited/__q2xIEUovXpU8xjIqE6GdLHpjVzkAFITAUcmgdH0d8-M",
+      "https://www.moneycontrol.com/company-facts/bataindia/management/BI01",
+      "https://www.inspex.in/",
+      "https://markets.ft.com/data/equities/tearsheet/profile?s=BBWI:NYQ"
+    ],
+    "timestamp": "2026-08-19T16:03:29.487731",
+    "status": "results_found"
+  },
+  {
+    "business": "Bath & Body Works India",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bhagwati-products-limited/__q2xIEUovXpU8xjIqE6GdLHpjVzkAFITAUcmgdH0d8-M",
+    "timestamp": "2026-08-19T16:03:31.338902"
+  },
+  {
+    "business": "Bath & Body Works India",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bhagwati-products-limited/__q2xIEUovXpU8xjIqE6GdLHpjVzkAFITAUcmgdH0d8-M",
+    "timestamp": "2026-08-19T16:03:31.339077"
+  },
+  {
+    "business": "Bath & Body Works India",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bhagwati-products-limited/__q2xIEUovXpU8xjIqE6GdLHpjVzkAFITAUcmgdH0d8-M",
+    "timestamp": "2026-08-19T16:03:31.339085"
+  },
+  {
+    "business": "Bath & Body Works India",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bhagwati-products-limited/__q2xIEUovXpU8xjIqE6GdLHpjVzkAFITAUcmgdH0d8-M",
+    "timestamp": "2026-08-19T16:03:31.339088"
+  },
+  {
+    "seller": "Bath & Body Works India",
+    "field": "Email",
+    "query": "Bath & Body Works India email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bathandbodyworks.in/bbw-contact-us.html",
+      "https://www.bathandbodyworks.in/bbw-help-faqs.html",
+      "https://customercare.bathandbodyworks.com/hc/en-us/requests/new",
+      "https://www.bathbadyworks.com/",
+      "https://www.bathandbodyworks.ca/en/contact"
+    ],
+    "timestamp": "2026-08-19T16:03:33.087026",
+    "status": "results_found"
+  },
+  {
+    "business": "Bath & Body Works India",
+    "field": "Email Address",
+    "value": "bbw-orderinquiry@apparelgroup.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.bathandbodyworks.in/bbw-contact-us.html",
+    "timestamp": "2026-08-19T16:03:33.738521"
+  }
+]

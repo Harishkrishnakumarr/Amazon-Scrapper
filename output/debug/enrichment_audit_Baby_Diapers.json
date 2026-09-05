@@ -1,0 +1,367 @@
+[
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B07DP27MF4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:06:18.428408"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rk.world/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-08-29T10:06:21.094893",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://rk.world/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://rk.world/",
+    "timestamp": "2026-08-29T10:06:24.416909"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@rk.world",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://rk.world/",
+    "timestamp": "2026-08-29T10:06:26.299049"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Owner Name",
+    "value": "Mahendra Chordia",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://rk.world/about",
+    "timestamp": "2026-08-29T10:06:28.820256"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.companydetails.in/company/rk-worldinfocom-private-limited",
+      "https://www.indiafilings.com/search/rk-worldinfocom-private-limited-cin-U32204KA2008PTC046634",
+      "https://www.instafinancials.com/company/rk-worldinfocom-private-limited-U32204KA2008PTC046634/index.html"
+    ],
+    "timestamp": "2026-08-29T10:06:38.736730",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "GST Number",
+    "value": "37AAECR0564M1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:06:39.627095"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AAECR0564M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:06:39.627119"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:06:39.632809"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:06:39.632828"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:06:39.633026"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:06:39.633041"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Phone",
+    "query": "RK World Infocom Pvt Ltd phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/rk-worldinfocom-private-limited/contact",
+      "https://www.justdial.com/Bangalore/Rk-World-Infocom-Pvt-Ltd-Koramangala/080PXX80-XX80-220511021612-L1C6_BZDET",
+      "https://rk.world/",
+      "https://in.near-place.com/r-k-world-infocom-pvt-ltd-18b-5th-main-road-5th-block-jayanagar-bengaluru"
+    ],
+    "timestamp": "2026-08-29T10:07:52.450645",
+    "status": "results_found"
+  },
+  {
+    "business": "SKY SELLER - DAILY NEEDS",
+    "field": "Business Name",
+    "value": "SKY SELLER - DAILY NEEDS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3TCDEPCYK1HDS&asin=B0DSJVT8Q1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T10:08:00.141360"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Website",
+    "query": "SKY SELLER - DAILY NEEDS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/"
+    ],
+    "timestamp": "2026-08-29T10:08:02.117073",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Legal Entity Name",
+    "query": "SKY SELLER - DAILY NEEDS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:08:11.968299",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Legal Entity Name",
+    "query": "SKY SELLER - DAILY NEEDS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:08:21.749497",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "PAN",
+    "query": "SKY SELLER - DAILY NEEDS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:08:30.136248",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "PAN",
+    "query": "SKY SELLER - DAILY NEEDS PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:08:42.587777",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "GST",
+    "query": "SKY SELLER - DAILY NEEDS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:08:44.081599",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "GST",
+    "query": "SKY SELLER - DAILY NEEDS GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:08:56.128283",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Owner",
+    "query": "SKY SELLER - DAILY NEEDS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:09:00.545217",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Owner",
+    "query": "SKY SELLER - DAILY NEEDS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:09:09.221558",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Address",
+    "query": "SKY SELLER - DAILY NEEDS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:09:17.730598",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Address",
+    "query": "SKY SELLER - DAILY NEEDS registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:09:28.687514",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Phone",
+    "query": "SKY SELLER - DAILY NEEDS phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:09:34.920245",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Phone",
+    "query": "SKY SELLER - DAILY NEEDS contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:09:46.746049",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Email",
+    "query": "SKY SELLER - DAILY NEEDS email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:09:50.818318",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKY SELLER - DAILY NEEDS",
+    "field": "Email",
+    "query": "SKY SELLER - DAILY NEEDS contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sky.com/?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyscanner.co.in/",
+      "https://www.sky.com/tv?msockid=39f37575747d63a9241a62b1757762a9",
+      "https://www.skyairline.com/"
+    ],
+    "timestamp": "2026-08-29T10:10:01.103764",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "category": "Garden Outdoor Furniture",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Outliving Outdoor Furniture",
+      "database_id": 175,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915269945468",
+      "email": "devokoindia@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://devoko.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

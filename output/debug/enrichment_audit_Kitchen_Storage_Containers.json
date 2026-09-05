@@ -1,0 +1,1447 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0H6FXYJF5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T17:41:40.270514"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T17:41:41.929956",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-18T17:41:43.920662"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:41:44.319457"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:41:44.342829"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:41:44.342846"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:41:44.342851"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:41:44.342856"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T17:41:48.976544",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=2279664dfba41e7f81d50cc9b7bf1142&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T17:42:06.243464",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.scribd.com/document/1067657484/Invoice",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd"
+    ],
+    "timestamp": "2026-08-18T17:42:09.710274",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.scribd.com/document/1067657484/Invoice",
+      "https://www.indiaratings.co.in/pressrelease/76876"
+    ],
+    "timestamp": "2026-08-18T17:42:26.107928",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://cleartax.in/gst-number-search/",
+      "https://reg.gst.gov.in/registration/",
+      "https://gstverify.co.in/search/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T17:42:33.692417",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstverify.co.in/search/",
+      "https://tallysolutions.com/business-tools-templates/gstin-verification-search/"
+    ],
+    "timestamp": "2026-08-18T17:42:39.732056",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-19AALCR3173P1ZK/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-29aalcr3173p1zj/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-18T17:42:45.656949",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-18T17:42:46.205376"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.indiaratings.co.in/pressrelease/76876",
+      "https://www.marketscreener.com/insider/KRISHNAN-NANDABALAN-A2DV96/"
+    ],
+    "timestamp": "2026-08-18T17:42:48.623363",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://www.indiaratings.co.in/pressrelease/76876"
+    ],
+    "timestamp": "2026-08-18T17:42:56.915923",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indiaratings.co.in/pressrelease/69496#:~:text=REP%20was%20founded%20in%20September%202021%20by%20Siddhant,retailing%20of%20goods%20on%20the%20e-commerce%20website%2C%20Amazon.in.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://www.indiaratings.co.in/pressrelease/69496"
+    ],
+    "timestamp": "2026-08-18T17:43:05.844552",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/partner/",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd"
+    ],
+    "timestamp": "2026-08-18T17:43:08.349467",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-18T17:43:09.324828"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "Business Name",
+    "value": "GHOGHARI ENTERPRISE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35TW5XP4C4RRH&asin=B0H6XLMK8M&ref_=dp_merchant_link",
+    "timestamp": "2026-08-18T17:43:09.982089"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Website",
+    "query": "GHOGHARI ENTERPRISE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.justdial.com/Mumbai/Hussain-Enterprises-Ghoghari-Mohallah/022PXX22-XX22-240607041725-R3N7_BZDET",
+      "https://inrdeals.com/ghoghari-enterprise-spice-set-plastic-stainless-steel1-piece-at-lowest-price-in-online-india-CDSHFWZ8HYSXZAX8-offer"
+    ],
+    "timestamp": "2026-08-18T17:43:11.627502",
+    "status": "results_found"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "Website URL",
+    "value": "https://inrdeals.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://inrdeals.com/ghoghari-enterprise-spice-set-plastic-stainless-steel1-piece-at-lowest-price-in-online-india-CDSHFWZ8HYSXZAX8-offer",
+    "timestamp": "2026-08-18T17:43:15.915839"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "Phone Number",
+    "value": "+913014182026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://inrdeals.com/",
+    "timestamp": "2026-08-18T17:43:16.718866"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "Email Address",
+    "value": "contact@inrdeals.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://inrdeals.com/",
+    "timestamp": "2026-08-18T17:43:16.719749"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "GHOGHARI ENTERPRISE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://gst.jamku.app/gstin/27AHUPP2507Q1ZH",
+      "https://golegally.com/mca-company-search",
+      "https://gstverify.co.in/search/",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-08-18T17:43:23.567360",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "GHOGHARI ENTERPRISE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/search",
+      "https://cleartax.in/s/steps-to-register-private-limited-company",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx"
+    ],
+    "timestamp": "2026-08-18T17:43:30.311812",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "GHOGHARI ENTERPRISE legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ghoghari-life-science-private-limited/__WqoTsoOivtCEK43NWyn0KlOAFINTIQQ6A_6yFV-AMPY#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U20299GJ2026PTC173013%20and%20its%20current%20status%20is%20Active.",
+      "https://tracxn.com/d/legal-entities/india/ghoghari-life-science-private-limited/__WqoTsoOivtCEK43NWyn0KlOAFINTIQQ6A_6yFV-AMPY",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://gst.jamku.app/gstin/27AHUPP2507Q1ZH",
+      "https://www.falconebiz.com/company/GHOGHARI-LIFE-SCIENCE-PRIVATE-LIMITED-U20299GJ2026PTC173013"
+    ],
+    "timestamp": "2026-08-18T17:43:39.377072",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "PAN",
+    "query": "GHOGHARI ENTERPRISE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://gstverify.co.in/search/",
+      "https://www.incometaxindia.gov.in/pan",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-08-18T17:43:45.660032",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "PAN",
+    "query": "GHOGHARI ENTERPRISE PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://gst.jamku.app/gstin/27AHUPP2507Q1ZH",
+      "https://gstserver.com/gst/27AAOPP5304J1ZE/",
+      "https://www.mastersindia.co/gst-number-search-by-name-and-pan/"
+    ],
+    "timestamp": "2026-08-18T17:43:56.574549",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "GST",
+    "query": "GHOGHARI ENTERPRISE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/27AHUPP2507Q1ZH",
+      "https://reg.gst.gov.in/registration/",
+      "https://www.mastersindia.co/gst-search/?name=ghoghari-abhay-ravjibhai&gstin=24EWWPR0692R1Z8",
+      "https://www.mastersindia.co/gst-search/?name=hitesh-devjibhai-ghoghari&gstin=24APQPG7522N1ZG",
+      "https://cleartax.in/gst-number-search/"
+    ],
+    "timestamp": "2026-08-18T17:44:06.555642",
+    "status": "results_found"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "GST Number",
+    "value": "27AHUPP2507Q1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/27AHUPP2507Q1ZH",
+    "timestamp": "2026-08-18T17:44:07.312739"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Owner",
+    "query": "GHOGHARI ENTERPRISE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/GHOGHARI-LIFE-SCIENCE-PRIVATE-LIMITED-U20299GJ2026PTC173013",
+      "https://lextechsuite.com/MANISH-NATHALAL-GHOGHARI--03580455",
+      "https://mycorporateinfo.com/director/ranjanben-gordhanbhai-ghoghari-7646905",
+      "https://www.zoominfo.com/p/Piyush-Ghoghari/9305386655"
+    ],
+    "timestamp": "2026-08-18T17:44:09.189569",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Owner",
+    "query": "GHOGHARI ENTERPRISE managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/director/gopalbhai-ghoghari/01406134",
+      "https://mycorporateinfo.com/director-llp/shyambhai-narshibhai-ghoghari-8359104",
+      "https://www.filesure.in/director/ajay-rajubhai-ghoghari/10779730",
+      "https://www.planetexim.net/director/vivek-dharamshibhai-ghoghari/did/D0003561748.html"
+    ],
+    "timestamp": "2026-08-18T17:44:27.807818",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Address",
+    "query": "GHOGHARI ENTERPRISE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thecompanycheck.com/org/ghoghari-bhaveshbhai-ghanshyambhai/2d737cfb28#:~:text=Ghoghari%20Bhaveshbhai%20Ghanshyambhai%20is%20a%205%20years%206,S.V.P%20Road%20No%201%20Udhyog%20Nagar%2C%20Surat%2C%20Gujarat.",
+      "https://companies.dubleu.co/company/ghoghari-life-science-private-limited-U20299GJ2026PTC173013",
+      "https://www.falconebiz.com/company/GHOGHARI-LIFE-SCIENCE-PRIVATE-LIMITED-U20299GJ2026PTC173013",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-18T17:44:29.292288",
+    "status": "results_found"
+  },
+  {
+    "seller": "GHOGHARI ENTERPRISE",
+    "field": "Address",
+    "query": "GHOGHARI ENTERPRISE registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ghoghari-life-science-private-limited/__WqoTsoOivtCEK43NWyn0KlOAFINTIQQ6A_6yFV-AMPY#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U20299GJ2026PTC173013%20and%20its%20current%20status%20is%20Active.",
+      "https://gst.jamku.app/gstin/27AHUPP2507Q1ZH",
+      "https://piceapp.com/gst-number-search/sohilkumar-amarshibhai-ghoghari-24bampg5021n2zn/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.falconebiz.com/company/GHOGHARI-LIFE-SCIENCE-PRIVATE-LIMITED-U20299GJ2026PTC173013"
+    ],
+    "timestamp": "2026-08-18T17:44:34.359204",
+    "status": "results_found"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ghoghari-life-science-private-limited/__WqoTsoOivtCEK43NWyn0KlOAFINTIQQ6A_6yFV-AMPY#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U20299GJ2026PTC173013%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-08-18T17:44:34.694600"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ghoghari-life-science-private-limited/__WqoTsoOivtCEK43NWyn0KlOAFINTIQQ6A_6yFV-AMPY#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U20299GJ2026PTC173013%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-08-18T17:44:34.694611"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ghoghari-life-science-private-limited/__WqoTsoOivtCEK43NWyn0KlOAFINTIQQ6A_6yFV-AMPY#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U20299GJ2026PTC173013%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-08-18T17:44:34.694615"
+  },
+  {
+    "business": "GHOGHARI ENTERPRISE",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ghoghari-life-science-private-limited/__WqoTsoOivtCEK43NWyn0KlOAFINTIQQ6A_6yFV-AMPY#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U20299GJ2026PTC173013%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-08-18T17:44:34.694618"
+  },
+  {
+    "business": "HLOKNTSABR..",
+    "field": "Business Name",
+    "value": "HLOKNTSABR..",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JNPH3W5YWWKX&asin=B0H2Q95SQ9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-18T17:44:35.232059"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "Website",
+    "query": "HLOKNTSABR.. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://jharsewa.jharkhand.gov.in/",
+      "https://jharsewa.jharkhand.gov.in/loginWindow.do"
+    ],
+    "timestamp": "2026-08-18T17:44:36.694059",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "Legal Entity Name",
+    "query": "HLOKNTSABR.. company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.registerkaro.in/",
+      "https://www.registerkaro.in/company-registration",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/roc.html",
+      "https://cleartax.in/s/company-registration"
+    ],
+    "timestamp": "2026-08-18T17:44:45.624923",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "Legal Entity Name",
+    "query": "HLOKNTSABR.. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/search",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://cleartax.in/s/steps-to-register-private-limited-company"
+    ],
+    "timestamp": "2026-08-18T17:44:55.485587",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "PAN",
+    "query": "HLOKNTSABR.. PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number#:~:text=You%20can%20find%20your%20PAN%20card%20number%20by,will%20be%20displayed%20on%20the%20%27My%20Account%27%20section.",
+      "https://cleartax.in/s/how-to-know-pan-card-number",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.incometaxindia.gov.in/pan",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-18T17:45:08.210771",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "PAN",
+    "query": "HLOKNTSABR.. PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/instant-e-pan",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/verify-your-pan"
+    ],
+    "timestamp": "2026-08-18T17:45:22.046661",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "GST",
+    "query": "HLOKNTSABR.. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T17:45:27.861138",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "GST",
+    "query": "HLOKNTSABR.. GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T17:45:32.820178",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "GST",
+    "query": "HLOKNTSABR.. GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.expressgst.com/gst-number-search/#:~:text=Search%20and%20verify%20GST%20number%20online.%20Free%20GSTIN,tool%20to%20verify%20any%20GST-registered%20taxpayer%20in%20India.",
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://cleartax.in/s/gst-number-search-by-name/",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-08-18T17:45:41.367070",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "Owner",
+    "query": "HLOKNTSABR.. director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zauba.company/",
+      "https://in.marketscreener.com/quote/stock/KIRLOSKAR-BROTHERS-LIMITE-6498492/company-governance/",
+      "https://www.companyseekers.com/",
+      "https://www.registerkaro.in/trademark-search/hlokntsabr-6982537",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-18T17:45:48.211919",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "Owner",
+    "query": "HLOKNTSABR.. managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/hindustan-organic-chemicals-limited/L99999KL1960GOI082753#:~:text=It%20is%20led%20by%20directors%20including%20Yogendra%20Prasad,year%20ended%2031%20March%202025.%20Office%3A%20Kunnathunad%2C%20Kerala.",
+      "https://www.thecompanycheck.com/company/hindustan-organic-chemicals-limited/L99999KL1960GOI082753",
+      "https://in.marketscreener.com/news/hindustan-organic-chemicals-limited-announces-board-changes-ce7d5ad8d18ff62d",
+      "https://www.hoclindia.com/board-of-directors",
+      "https://www.sellerratings.com/amazon/india/hlokntsabr%3Ft%3D1780753721"
+    ],
+    "timestamp": "2026-08-18T17:45:59.409110",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "Address",
+    "query": "HLOKNTSABR.. registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/hlokntsabr%3Ft%3D1780753721",
+      "https://www.tmb.bank.in/contact",
+      "https://www.sellerratings.com/amazon/india/hlokntsabr",
+      "https://www.knowyourgst.com/gst-number-search/nanguneri-panchayat-union-33MRIN00474F1DM/",
+      "https://find-and-update.company-information.service.gov.uk/"
+    ],
+    "timestamp": "2026-08-18T17:46:27.930115",
+    "status": "results_found"
+  },
+  {
+    "seller": "HLOKNTSABR..",
+    "field": "Address",
+    "query": "HLOKNTSABR.. registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/hlokntsabr%3Ft%3D1780753721",
+      "https://www.registerkaro.in/trademark-search/hlokntsabr-6982537",
+      "https://www.sellerratings.com/amazon/india/hlokntsabr",
+      "https://gstdetails.com/get-address-using-gst/",
+      "https://www.whois.com/whois/"
+    ],
+    "timestamp": "2026-08-18T17:46:35.324733",
+    "status": "results_found"
+  },
+  {
+    "business": "RANIO ENTERPRISE",
+    "field": "Business Name",
+    "value": "RANIO ENTERPRISE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2KL0IUZR5ULCJ&asin=B0H6JTTT4K&ref_=dp_merchant_link",
+    "timestamp": "2026-08-18T17:46:35.819910"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Website",
+    "query": "RANIO ENTERPRISE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://locator.iocl.com/indane/indane-ranie-enterprises-gas-agency-madipakkam-chennai-210874/Home",
+      "https://locator.iocl.com/indane/indane-ranie-enterprises-gas-agency-madipakkam-chennai-210874/Contact-Us"
+    ],
+    "timestamp": "2026-08-18T17:46:37.228378",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "RANIO ENTERPRISE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/company-registration",
+      "https://www.mysbusiness.com/company/Ranio-Enterprise",
+      "https://udyamregistration.gov.in/Default.aspx",
+      "https://www.indiafilings.com/search",
+      "https://www.registerkaro.in/"
+    ],
+    "timestamp": "2026-08-18T17:46:42.045915",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "RANIO ENTERPRISE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.wintro.in/",
+      "https://www.wintro.in/about-us",
+      "https://www.wintro.in/contact-us",
+      "https://www.wintro.in/state",
+      "https://www.wintro.in/recently-registered-company"
+    ],
+    "timestamp": "2026-08-18T17:46:47.060311",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "RANIO ENTERPRISE legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rialto-enterprises-private-limited/__me9kSPU0Cdbd3l3R1kSmLHY_qf84Vj1WKbh2dYFb9W0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U30007TN1993PTC026288%20and%20its%20current%20status%20is%20Active.",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://jaanoindia.in/company-search/",
+      "https://tracxn.com/d/legal-entities/india/rialto-enterprises-private-limited/__me9kSPU0Cdbd3l3R1kSmLHY_qf84Vj1WKbh2dYFb9W0",
+      "https://tracxn.com/d/legal-entities/india/rani-sati-enterprises-private-limited/__lMXLYsfhL5I6JNDMu4TTcnC5prDOLfCMERn4DZsEoUY"
+    ],
+    "timestamp": "2026-08-18T17:46:54.095872",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "PAN",
+    "query": "RANIO ENTERPRISE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+      "https://gstverify.co.in/search/",
+      "https://ranienterprises.in/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.incometaxindia.gov.in/pan-verification"
+    ],
+    "timestamp": "2026-08-18T17:47:00.358149",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "PAN",
+    "query": "RANIO ENTERPRISE PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ranienterprises.in/",
+      "https://my.gstzen.in/m/taxpayers/pan/rio-enterprise/AAOFR4539H/",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://my.gstzen.in/m/taxpayers/pan/roni-enterprise/BXUPB1540G/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-08-18T17:47:09.757533",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "PAN",
+    "query": "RANIO ENTERPRISE PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://my.gstzen.in/m/taxpayers/pan/ranjana-enterprise/AJKPG4041J/",
+      "https://my.gstzen.in/m/taxpayers/pan/roni-enterprise/BXUPB1540G/",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-18T17:47:19.476703",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "GST",
+    "query": "RANIO ENTERPRISE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T17:47:21.394127",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "GST",
+    "query": "RANIO ENTERPRISE GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/rani-enterprises-33chkpj8279f1z0/",
+      "https://cleartax.in/gst-number-search/",
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/rani-enterprises-33btrpa7793r1zo/",
+      "https://cleartax.in/s/gst-number-search-by-name/"
+    ],
+    "timestamp": "2026-08-18T17:47:26.811882",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "GST",
+    "query": "RANIO ENTERPRISE GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/rani-enterprises-33btrpa7793r1zo/#:~:text=The%20GST%20number%20%28Goods%20and%20Services%20Tax%20Identification,communications%2C%20or%20by%20visiting%20the%20GST%20portal.%20%28https%3A%2F%2Fwww.gst.gov.in%29",
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-name/",
+      "https://gstverify.co.in/search/",
+      "https://services.gst.gov.in/services/searchtp"
+    ],
+    "timestamp": "2026-08-18T17:47:31.528885",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Owner",
+    "query": "RANIO ENTERPRISE director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-18T17:47:35.310935",
+    "status": "no_results"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Owner",
+    "query": "RANIO ENTERPRISE managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thecompanycheck.com/people-profile/praveen-kumar/03013180#:~:text=Praveen%20Kumar%20has%2016%20years%20in%20corporate%20governance.,in%20Technology%2C%20General%20Business.%20Contributes%20to%20corporate%20operations.",
+      "https://tracxn.com/d/legal-entities/india/ranio-engineers-private-limited/__LZnvtKQCRE3vXckit1-sEd_Ux6gs2kDVozyyOvFfsEQ",
+      "https://www.thecompanycheck.com/people-profile/praveen-kumar/03013180",
+      "https://www.companydetails.in/company/ranio-engineers-private-limited",
+      "https://www.fibre2fashion.com/interviews/industry-speak/rajoo-engineers-limited/mr-r-n-doshi/38-1"
+    ],
+    "timestamp": "2026-08-18T17:47:36.857576",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Owner",
+    "query": "RANIO ENTERPRISE founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ranio-engineers-private-limited/__LZnvtKQCRE3vXckit1-sEd_Ux6gs2kDVozyyOvFfsEQ",
+      "https://www.thecompanycheck.com/people-profile/praveen-kumar/03013180",
+      "https://www.africanleadershipmagazine.co.uk/how-south-africas-luvuyo-rani-rose-from-rag-to-riches/",
+      "https://www.thecompanycheck.com/company/ranio-engineers-private-limited/U31908HR2010PTC040393",
+      "https://falconio.ai/founder"
+    ],
+    "timestamp": "2026-08-18T17:47:47.521105",
+    "status": "results_found"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Address",
+    "query": "RANIO ENTERPRISE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://mycorporateinfo.com/business/ranio-engineers-private-limited",
+      "https://www.falconebiz.com/company/RAINI-INDUSTRIES-INDIA-PRIVATE-LIMITED-U25190TN2013PTC090329",
+      "https://www.falconebiz.com/company/RANE-MADRAS-LIMITED-L65993TN2004PLC052856",
+      "https://tracxn.com/d/legal-entities/india/renault-nissan-automotive-india-private-limited/__YNCJEXXIFyqUsLPBQthXOo1zuvMycz1P1S35QC8KPyk",
+      "https://tracxn.com/d/legal-entities/india/raini-industries-india-private-limited/__ov8klffw2XArQc3WQO_ouoR6i_s84-TRlyJjgOSghiA"
+    ],
+    "timestamp": "2026-08-18T17:47:59.867960",
+    "status": "results_found"
+  },
+  {
+    "business": "RANIO ENTERPRISE",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/renault-nissan-automotive-india-private-limited/__YNCJEXXIFyqUsLPBQthXOo1zuvMycz1P1S35QC8KPyk",
+    "timestamp": "2026-08-18T17:48:03.177478"
+  },
+  {
+    "business": "RANIO ENTERPRISE",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/renault-nissan-automotive-india-private-limited/__YNCJEXXIFyqUsLPBQthXOo1zuvMycz1P1S35QC8KPyk",
+    "timestamp": "2026-08-18T17:48:03.177505"
+  },
+  {
+    "business": "RANIO ENTERPRISE",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/renault-nissan-automotive-india-private-limited/__YNCJEXXIFyqUsLPBQthXOo1zuvMycz1P1S35QC8KPyk",
+    "timestamp": "2026-08-18T17:48:03.177516"
+  },
+  {
+    "business": "RANIO ENTERPRISE",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/renault-nissan-automotive-india-private-limited/__YNCJEXXIFyqUsLPBQthXOo1zuvMycz1P1S35QC8KPyk",
+    "timestamp": "2026-08-18T17:48:03.177525"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Phone",
+    "query": "RANIO ENTERPRISE phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://enterprise-rent-a-car.pissedconsumer.com/customer-service.html",
+      "https://www.cardekho.com/car-customer-care/renault.htm",
+      "https://ranox.in/contact-us/",
+      "https://gethuman.com/phone-number/Enterprise-Rent-A-Car",
+      "https://www.enterprise.com/en/help/contact.html?msockid=25d2f7fd6a3063481264e0446bca62a1"
+    ],
+    "timestamp": "2026-08-18T17:48:04.638278",
+    "status": "results_found"
+  },
+  {
+    "business": "RANIO ENTERPRISE",
+    "field": "Phone Number",
+    "value": "+910365375155",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://enterprise-rent-a-car.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-18T17:48:05.960467"
+  },
+  {
+    "seller": "RANIO ENTERPRISE",
+    "field": "Email",
+    "query": "RANIO ENTERPRISE email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.enterprise.com/en/car-rental/deals/email.html?msockid=25d2f7fd6a3063481264e0446bca62a1",
+      "https://rapido-india.pissedconsumer.com/customer-service.html",
+      "https://www.enterprise.com/en/help/contact.html?msockid=25d2f7fd6a3063481264e0446bca62a1",
+      "https://enterprise-rent-a-car.pissedconsumer.com/customer-service.html",
+      "https://ta.enterprise.co.uk/en/help/contact.html"
+    ],
+    "timestamp": "2026-08-18T17:48:07.893641",
+    "status": "results_found"
+  },
+  {
+    "business": "RANIO ENTERPRISE",
+    "field": "Email Address",
+    "value": "grievances@rapido.bike",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rapido-india.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-18T17:48:11.016421"
+  },
+  {
+    "business": "Freestile shop",
+    "field": "Business Name",
+    "value": "Freestile shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NOZVR06FV9LV&asin=B0H41V678R&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T17:48:11.477566"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Website",
+    "query": "Freestile shop official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://freestyleshop.com/collections/all",
+      "https://freestyleshop.com/"
+    ],
+    "timestamp": "2026-08-18T17:48:13.186637",
+    "status": "results_found"
+  },
+  {
+    "business": "Freestile shop",
+    "field": "Website URL",
+    "value": "https://freestyleshop.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://freestyleshop.com/collections/all",
+    "timestamp": "2026-08-18T17:48:19.036129"
+  },
+  {
+    "business": "Freestile shop",
+    "field": "Phone Number",
+    "value": "+910241522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://freestyleshop.com/",
+    "timestamp": "2026-08-18T17:48:21.878700"
+  },
+  {
+    "business": "Freestile shop",
+    "field": "Email Address",
+    "value": "info@freestyleshop.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://freestyleshop.com/",
+    "timestamp": "2026-08-18T17:48:21.878827"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Legal Entity Name",
+    "query": "Freestile shop company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.msmeregistration.gov.in/UdyamRegistrationExist.aspx",
+      "https://clearlycomply.org/blog/shop-establishment-registration-india/",
+      "https://www.registerkaro.in/shop-and-establishment-act-registration",
+      "https://www.indiafilings.com/learn/how-can-i-register-my-shop-and-establishment-online",
+      "https://businesssetup.in/step-by-step-guide-to-company-registration-in-india-2025/"
+    ],
+    "timestamp": "2026-08-18T17:48:30.685752",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Legal Entity Name",
+    "query": "Freestile shop Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.registerkaro.in/private-limited-company-registration#:~:text=Let\u2019s discuss the di",
+      "https://www.registerkaro.in/private-limited-company-registration#:~:text=In India, choosing t",
+      "https://www.registerkaro.in/private-limited-company-registration#:~:text=Following are the be",
+      "https://www.startupwala.com/private-limited-company-registration.html"
+    ],
+    "timestamp": "2026-08-18T17:48:38.002981",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Legal Entity Name",
+    "query": "Freestile shop legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://opencorporates.com/",
+      "https://entitycheck.com/",
+      "https://opencorporates.com/companies/search",
+      "https://search-sos.org/"
+    ],
+    "timestamp": "2026-08-18T17:48:42.027074",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "PAN",
+    "query": "Freestile shop PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.utiitsl.com/UTIITSL_NEW/home?lang=en",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://testsigma.com/free-tools/credit-card-number-generator",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-08-18T17:48:50.520353",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "PAN",
+    "query": "Freestile shop PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.freestylesa.co.za/",
+      "https://www.utiitsl.com/",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://shop.ttkprestige.com/cookware/non-stick.html",
+      "https://www.olx.in/en-in/furniture_c628/q-pan-shop"
+    ],
+    "timestamp": "2026-08-18T17:48:58.340234",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "PAN",
+    "query": "Freestile shop PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.incometaxindia.gov.in/pan-verification"
+    ],
+    "timestamp": "2026-08-18T17:49:10.308825",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "GST",
+    "query": "Freestile shop GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T17:49:11.889899",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "GST",
+    "query": "Freestile shop GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T17:49:16.571244",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "GST",
+    "query": "Freestile shop GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://cleartax.in/s/gst-number-search-by-name/",
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/freestyle-clothing-27aaeff8866h1zz/"
+    ],
+    "timestamp": "2026-08-18T17:49:27.151997",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Owner",
+    "query": "Freestile shop director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.rai.net.in/Shital-Mehta.php",
+      "https://mikeconstantiner.com/",
+      "https://smallbiztrends.com/are-you-the-ceo-owner-or-founder-choosing-the-right-title-for-your-business/",
+      "https://www.wisestamp.com/examples/founder-and-owner-email-signatures/"
+    ],
+    "timestamp": "2026-08-18T17:49:32.537477",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Owner",
+    "query": "Freestile shop managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.datanyze.com/companies/freestyleshop/108562149",
+      "https://www.cbinsights.com/company/freestyle/people",
+      "https://www.zoominfo.com/p/Wilson-Troche/1995492647",
+      "https://rocketreach.co/freestyle-brands-llc-management_b444d660fa8764fb",
+      "https://rocketreach.co/freestyle-ltd-management_b5d49d3af42e3822"
+    ],
+    "timestamp": "2026-08-18T17:49:43.534736",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Owner",
+    "query": "Freestile shop founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://freestyleshop.com/pages/our-company",
+      "https://www.datanyze.com/companies/freestyleshop/108562149",
+      "https://freestyleshop.com/",
+      "https://www.freestyle.world/",
+      "https://www.crunchbase.com/person/suzanne-linton"
+    ],
+    "timestamp": "2026-08-18T17:49:49.949605",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Address",
+    "query": "Freestile shop registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/roc.html#:~:text=Dip%20Narayan%20Chowdhury%20%28ROC%20Guwahati%20With%20Additional%20Charge,floor%2C%20BSNL%20Bhawan%2C%20Pan%20Bazar%2C%20Guwahati%20-%20781001",
+      "https://www.inspex.in/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.registrationwala.com/company-search",
+      "https://opencorpdata.com/in/"
+    ],
+    "timestamp": "2026-08-18T17:49:53.437597",
+    "status": "results_found"
+  },
+  {
+    "seller": "Freestile shop",
+    "field": "Address",
+    "query": "Freestile shop registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://freestyleclothing.in/contact",
+      "https://piceapp.com/gst-number-search/freestyle-clothing-27aaeff8866h1zz/",
+      "https://gstdetails.com/get-address-using-gst/",
+      "https://tracxn.com/d/legal-entities/india/freestyle-apparels-private-limited/__HnNDTqEda_LACUn1MlTLFMDcu7IagkpCZULEpd_ABy8",
+      "https://www.dial4trade.com/freestyle-fashions/contact-us.htm"
+    ],
+    "timestamp": "2026-08-18T17:50:07.186227",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0GWJN659S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T17:50:12.795843"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=25d2f7fd6a3063481264e0446bca62a1",
+      "https://us.etrade.com/e/t/user/login?msockid=25d2f7fd6a3063481264e0446bca62a1"
+    ],
+    "timestamp": "2026-08-18T17:50:14.253100",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=25d2f7fd6a3063481264e0446bca62a1",
+    "timestamp": "2026-08-18T17:51:14.358585"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151674015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-18T17:51:15.694619"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=25d2f7fd6a3063481264e0446bca62a1",
+      "https://us.etrade.com/l/welcome/new-account?msockid=25d2f7fd6a3063481264e0446bca62a1",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/main/customer/business-license/registration",
+      "https://etrade.gov.et/"
+    ],
+    "timestamp": "2026-08-18T17:51:24.057737",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://incometaxindia.gov.in/tax-services/online-pan-verification",
+      "https://us.etrade.com/e/t/user/login?msockid=25d2f7fd6a3063481264e0446bca62a1",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/verify-your-pan",
+      "https://www.utiitsl.com/"
+    ],
+    "timestamp": "2026-08-18T17:51:44.268670",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/e/t/user/login?msockid=25d2f7fd6a3063481264e0446bca62a1",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html",
+      "https://incometaxindia.gov.in/tax-services/instant-e-pan"
+    ],
+    "timestamp": "2026-08-18T17:51:58.599957",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T17:52:06.211732",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://fnshiftsolutions.com/gstin-search/etrade-marketing-private-limited-27AADCV4254H1Z8",
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-09AADCV4254H1Z6/",
+      "https://gst.jamku.app/gstin/29AADCV4254H1Z4",
+      "https://gst.jamku.app/gstin/06AADCV4254H1ZC"
+    ],
+    "timestamp": "2026-08-18T17:52:11.362104",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "GST Number",
+    "value": "27AADCV4254H1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-18T17:52:11.992161"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.cbinsights.com/company/etrade-financial/people",
+      "https://brandsownedby.com/who-owns-e-trade/",
+      "https://www.industrywww.marketswiki.com/wiki/William_A._Porter",
+      "https://www.washingtonpost.com/obituaries/2023/04/12/bernie-newcomb-who-created-etrade-and-distrupted-online-trading-dies-at-79/"
+    ],
+    "timestamp": "2026-08-18T17:52:14.433960",
+    "status": "results_found"
+  }
+]

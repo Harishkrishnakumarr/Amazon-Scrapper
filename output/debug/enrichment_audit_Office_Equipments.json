@@ -1,0 +1,524 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0DWFBQ8BC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T08:38:58.467213"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-08-22T08:38:59.972429",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/work-with-us/",
+    "timestamp": "2026-08-22T08:39:03.490143"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T08:39:03.963724"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T08:39:03.964406"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T08:39:09.617083",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T08:39:15.643082",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.legalentityidentifier.in/?msclkid=27ae82b42c4d1678bbcce83d3f4fde98",
+      "https://www.leikart.com/?msclkid=881035356d0a1ebe12ec5fbc7e0871dc",
+      "https://www.leikart.com/?msclkid=ce0d0aaf236e1cc55f056026306ce363",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.thecompanycheck.com/company/b/cocoblu/ypydpger8ytu8ya6v"
+    ],
+    "timestamp": "2026-08-22T08:39:42.490127",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-22T08:39:44.215548",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T08:39:54.915287",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-22T08:39:59.886139",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-27AAJCC8517E1ZL/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-22T08:40:04.533477",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+    "timestamp": "2026-08-22T08:40:04.917978"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://tracxn.com/d/companies/cocoblu/__fGCrUEk2potiHarzhxQuPBxsdJKmtnGua1DAJGli0ys",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T08:40:07.892065",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T08:40:13.076775",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-22T08:40:16.758722",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T08:40:23.677907",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-22T08:40:28.061299",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail head office address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T08:40:32.207098",
+    "status": "results_found"
+  },
+  {
+    "business": "HOMEKIT EXIM",
+    "field": "Business Name",
+    "value": "HOMEKIT EXIM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2QYF8B1CL9KPC&asin=B0CQH5N1DY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T08:40:37.236654"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "Website",
+    "query": "HOMEKIT EXIM official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html"
+    ],
+    "timestamp": "2026-08-22T08:40:39.265178",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "Legal Entity Name",
+    "query": "HOMEKIT EXIM company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bagitekno.net/windows/cara-aktivasi-windows-10.html",
+      "https://www.liputan6.com/feeds/read/5762963/cara-aktivasi-windows-10-dengan-mudah-dan-permanen",
+      "https://katadata.co.id/digital/teknologi/60f8d4931f645/5-cara-aktivasi-windows-10-dengan-mudah-dan-praktis",
+      "https://www.hariantrust.com/nasional/6000/7-cara-aktivasi-windows-10-gratis-legal-dan-mudah-dilakukan/",
+      "https://www.minitool.com/news/how-to-activate-windows-10-cmd.html"
+    ],
+    "timestamp": "2026-08-22T08:40:51.376581",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "Legal Entity Name",
+    "query": "HOMEKIT EXIM Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://eximin.net/",
+      "https://eximin.net/eximnews",
+      "https://eximin.net/events",
+      "https://eximin.net/appointments",
+      "https://eximin.net/videoGallery"
+    ],
+    "timestamp": "2026-08-22T08:41:03.817357",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "Legal Entity Name",
+    "query": "HOMEKIT EXIM legal entity",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.youtubekids.com/"
+    ],
+    "timestamp": "2026-08-22T08:41:10.578689",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "PAN",
+    "query": "HOMEKIT EXIM PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-22T08:41:26.130309",
+    "status": "no_results"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "PAN",
+    "query": "HOMEKIT EXIM PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/19771844/answers/updated",
+      "https://www.zhihu.com/question/604811435",
+      "https://www.zhihu.com/question/22852463?sort=created",
+      "https://www.zhihu.com/question/51285248",
+      "https://www.zhihu.com/question/30252609"
+    ],
+    "timestamp": "2026-08-22T08:41:27.421590",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "GST",
+    "query": "HOMEKIT EXIM GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thebulwark.com/p/did-trump-just-have-a-biden-moment",
+      "https://podscripts.co/podcasts/bulwark-takes/did-trump-just-have-a-biden-moment",
+      "https://www.dailymail.com/news/article-15935679/Joe-Biden-interrupted-shouting-hecklers-speech.html",
+      "https://www.politico.com/live-updates/2025/03/04/trump-joint-address-to-congress/trump-biden-mentions-00212915"
+    ],
+    "timestamp": "2026-08-22T08:41:44.380321",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "GST",
+    "query": "HOMEKIT EXIM GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/7f41ececab929e193c095c4f.html",
+      "https://jingyan.baidu.com/article/7908e85ceee3d5af491ad246.html",
+      "https://bbs.eeworld.com.cn/thread-1193437-1-1.html"
+    ],
+    "timestamp": "2026-08-22T08:41:54.188015",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "Owner",
+    "query": "HOMEKIT EXIM director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cbinsights.com/company/homekit-store/people",
+      "https://machash.com/appleinsider/386042/twelve-south-co-founder-andrew-green-eve-dimmer-alexa/",
+      "https://www.omekitchen.com/blogs/in-the-news/homekit-insider-podcast-interview-with-akshita-iyer-ceo-and-founder-of-ome",
+      "https://theedgemalaysia.com/node/704562",
+      "https://www.exim.gov/leadership-governance"
+    ],
+    "timestamp": "2026-08-22T08:42:10.996952",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "Owner",
+    "query": "HOMEKIT EXIM managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.forest.co.jp/",
+      "https://www.forest.co.jp/company/",
+      "https://forest-inc.jp/",
+      "https://www.forestnet.biz/",
+      "https://www.forestg.jp/"
+    ],
+    "timestamp": "2026-08-22T08:42:22.791579",
+    "status": "results_found"
+  },
+  {
+    "seller": "HOMEKIT EXIM",
+    "field": "Address",
+    "query": "HOMEKIT EXIM registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.espn.com/mma/fighter/_/id/3151289/song-yadong",
+      "https://www.chinayadong.net/bbs/new.php",
+      "https://toptip.co.kr/korean-movie-tv-drama-sites/",
+      "https://www.fmkorea.com/best/9122113943",
+      "https://wap.yandex.com/search?text=Yadongkorea&lr=21206"
+    ],
+    "timestamp": "2026-08-22T08:42:32.760101",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DX1G4ZNQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T08:42:39.932726"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1bd84d3d38da6a9c27fb5a8039496bc1",
+      "https://us.etrade.com/e/t/user/login?msockid=1bd84d3d38da6a9c27fb5a8039496bc1"
+    ],
+    "timestamp": "2026-08-22T08:42:41.312917",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=1bd84d3d38da6a9c27fb5a8039496bc1",
+    "timestamp": "2026-08-22T08:43:56.326937"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+911011131011",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-22T08:43:57.661941"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1bd84d3d38da6a9c27fb5a8039496bc1",
+      "https://us.etrade.com/e/t/user/login?msockid=1bd84d3d38da6a9c27fb5a8039496bc1",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-08-22T08:44:06.767985",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1bd84d3d38da6a9c27fb5a8039496bc1",
+      "https://us.etrade.com/e/t/user/login?msockid=1bd84d3d38da6a9c27fb5a8039496bc1",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-08-22T08:44:22.493197",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1bd84d3d38da6a9c27fb5a8039496bc1",
+      "https://us.etrade.com/e/t/user/login?msockid=1bd84d3d38da6a9c27fb5a8039496bc1"
+    ],
+    "timestamp": "2026-08-22T08:44:27.866753",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/e/t/user/login",
+      "https://us.etrade.com/e/t/user/xfr?Target=/etx/hw/accountshome?cnt=header_logon_startin_accounts",
+      "https://us.etrade.com/e/t/user/loginhelp",
+      "https://us.etrade.com/e/t/etpro/ETProLaunchPage",
+      "https://us.etrade.com/etx/trd/tradingcenter"
+    ],
+    "timestamp": "2026-08-22T08:44:39.463384",
+    "status": "results_found"
+  }
+]

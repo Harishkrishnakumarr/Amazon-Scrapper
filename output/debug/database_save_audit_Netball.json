@@ -1,0 +1,48 @@
+{
+  "category": "Netball",
+  "records_before_save": 12,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 574,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "info@onlinelegalindia.com",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "WASAN EXPORTS",
+      "database_id": 571,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "mail@wassan.org",
+      "gst": "03AAAFW2404L1ZH",
+      "pan": "AAAFW2404L",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Global Sales Corporation",
+      "database_id": 1576,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917315122639",
+      "email": "info@global.com",
+      "gst": "06BFJPT9824G1ZY",
+      "pan": "BFJPT9824G",
+      "website": "https://www.globalsalescorporation.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

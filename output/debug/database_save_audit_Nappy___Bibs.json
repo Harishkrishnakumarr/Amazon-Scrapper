@@ -1,0 +1,74 @@
+{
+  "category": "Nappy & Bibs",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1236,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Navashya Consumer Products Private Limited",
+      "database_id": 1237,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918130288566",
+      "email": "support@thecompanycheck.com",
+      "gst": "27AAGCN2148B1ZS",
+      "pan": "AAGCN2148B",
+      "website": "https://www.thecompanycheck.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GreeNeem",
+      "database_id": 1238,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919786697982",
+      "email": "info@greeneem.com",
+      "gst": "36AADCG0167A1Z6",
+      "pan": "AADCG0167A",
+      "website": "https://www.greeneem.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "WAVVA",
+      "database_id": 1239,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "Not Found",
+      "gst": "06ECVPS3612H1Z6",
+      "pan": "ECVPS3612H",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KiddyStar",
+      "database_id": 1240,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "nguyenvanbin678@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.kiddystar.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

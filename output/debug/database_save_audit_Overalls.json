@@ -1,0 +1,35 @@
+{
+  "category": "Overalls",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "CLUB TWENTY ONE",
+      "database_id": 1484,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919918002993",
+      "email": "info@acigroup.in",
+      "gst": "36AAPPL3431K2ZF",
+      "pan": "AAPPL3431K",
+      "website": "https://clubtwentyone.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1485,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "24AAJCC9783E1ZD",
+      "pan": "AAJCC9783E",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    }
+  ]
+}

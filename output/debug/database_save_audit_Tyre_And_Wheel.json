@@ -1,0 +1,48 @@
+{
+  "category": "Tyre And Wheel",
+  "records_before_save": 8,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Probecho",
+      "database_id": 871,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919211058928",
+      "email": "hello@puppiezo.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "UNIVERSAL ENTERPRISES_",
+      "database_id": 872,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919869039174",
+      "email": "greece@ueinc.us",
+      "gst": "33AETPN0159E1ZI",
+      "pan": "AETPN0159E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "INFINITE MART",
+      "database_id": 873,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "t.rahavan@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

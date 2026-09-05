@@ -1,0 +1,491 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0FFN3XCNN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T17:19:58.715929"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T17:20:00.434162",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T17:20:03.855737"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T17:20:04.741494"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T17:20:04.743661"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-32AAJCC8517E1ZU/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T17:20:09.868922",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T17:20:10.443716"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T17:20:10.443733"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T17:20:12.247609",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T17:20:13.059979"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T17:20:13.060000"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T17:20:13.060006"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T17:20:13.060011"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T17:20:16.573312"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T17:20:20.070748",
+    "status": "results_found"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "Business Name",
+    "value": "ROYALTY FAB",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AFSSADF0ILE43&asin=B0H8DZBDTS&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T17:20:26.144978"
+  },
+  {
+    "seller": "ROYALTY FAB",
+    "field": "Website",
+    "query": "ROYALTY FAB official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.royaltyfab.com/about-us",
+      "https://www.fab.com/"
+    ],
+    "timestamp": "2026-09-02T17:20:27.669991",
+    "status": "results_found"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "Website URL",
+    "value": "https://www.royaltyfab.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.royaltyfab.com/",
+    "timestamp": "2026-09-02T17:20:29.363679"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "Email Address",
+    "value": "info@royaltyfab.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.royaltyfab.com/contact",
+    "timestamp": "2026-09-02T17:20:31.019808"
+  },
+  {
+    "seller": "ROYALTY FAB",
+    "field": "Legal Entity Name",
+    "query": "ROYALTY FAB company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/tamil-nadu-factory-registration",
+      "https://www.soundexchange.com/",
+      "https://www.whois.com/whois/royaltyfabcompanyregistration.com",
+      "https://www.psrcompliance.com/company-registration"
+    ],
+    "timestamp": "2026-09-02T17:20:33.999795",
+    "status": "results_found"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "Phone Number",
+    "value": "+918796104190",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.psrcompliance.com/company-registration",
+    "timestamp": "2026-09-02T17:20:41.918641"
+  },
+  {
+    "seller": "ROYALTY FAB",
+    "field": "Legal Entity Name",
+    "query": "ROYALTY FAB Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/ROYAL-FABRICATION-PRIVATE-LIMITED-U31001WB2025PTC278993#:~:text=ROYAL%20FABRICATION%20PVT%20LTD%20company%20registration%20number%20is,number%2C%20email%2C%20website%2C%20gst%20details%20and%20more%20below.",
+      "https://www.inspex.in/",
+      "https://www.falconebiz.com/company/ROYAL-FABRICATION-PRIVATE-LIMITED-U31001WB2025PTC278993",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T17:20:43.534528",
+    "status": "results_found"
+  },
+  {
+    "seller": "ROYALTY FAB",
+    "field": "PAN",
+    "query": "ROYALTY FAB PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://www.kanakkupillai.com/learn/pan-tan-and-gstin-of-a-company-by-name-online/"
+    ],
+    "timestamp": "2026-09-02T17:20:55.404775",
+    "status": "results_found"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T17:20:57.447233"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T17:20:57.447254"
+  },
+  {
+    "seller": "ROYALTY FAB",
+    "field": "Owner",
+    "query": "ROYALTY FAB director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/fabindia/__Yagk62ZvWQOUgWwHcTvEnxM_1awQqkuX6TnCI9CmW1I",
+      "https://www.royaltyfab.com/about-us",
+      "https://www.fabindia.com/ir/board-of-directors",
+      "https://www.royaltyfab.com/"
+    ],
+    "timestamp": "2026-09-02T17:20:59.473930",
+    "status": "results_found"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/fabindia/__Yagk62ZvWQOUgWwHcTvEnxM_1awQqkuX6TnCI9CmW1I",
+    "timestamp": "2026-09-02T17:21:00.748854"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/fabindia/__Yagk62ZvWQOUgWwHcTvEnxM_1awQqkuX6TnCI9CmW1I",
+    "timestamp": "2026-09-02T17:21:00.748875"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/fabindia/__Yagk62ZvWQOUgWwHcTvEnxM_1awQqkuX6TnCI9CmW1I",
+    "timestamp": "2026-09-02T17:21:00.748880"
+  },
+  {
+    "business": "ROYALTY FAB",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/fabindia/__Yagk62ZvWQOUgWwHcTvEnxM_1awQqkuX6TnCI9CmW1I",
+    "timestamp": "2026-09-02T17:21:00.748884"
+  },
+  {
+    "seller": "ROYALTY FAB",
+    "field": "Owner",
+    "query": "ROYALTY FAB founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.inventiva.co.in/stories/john-bissell-the-man-of-fabindia/",
+      "https://www.royaltyfab.com/about-us",
+      "https://www.royaltyfab.com/"
+    ],
+    "timestamp": "2026-09-02T17:21:06.864181",
+    "status": "results_found"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "Business Name",
+    "value": "S.D.M INTERNATIONAL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A13M691G03EIYR&asin=B0H8F9BGHJ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T17:21:12.207782"
+  },
+  {
+    "seller": "S.D.M INTERNATIONAL",
+    "field": "Website",
+    "query": "S.D.M INTERNATIONAL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sdinternational.com/",
+      "https://sdinternational.com/about-us/"
+    ],
+    "timestamp": "2026-09-02T17:21:14.059402",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.D.M INTERNATIONAL",
+    "field": "Legal Entity Name",
+    "query": "S.D.M INTERNATIONAL company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.incorpx.io/international-company-registration",
+      "https://remotepeople.com/solutions/company-registration/",
+      "https://www.inspex.in/",
+      "https://www.companyregistry.org/"
+    ],
+    "timestamp": "2026-09-02T17:21:24.044522",
+    "status": "results_found"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "Email Address",
+    "value": "info@incorpx.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/international-company-registration",
+    "timestamp": "2026-09-02T17:21:25.668759"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "GST Number",
+    "value": "33ABPCS3807G1Z9",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/international-company-registration",
+    "timestamp": "2026-09-02T17:21:25.672715"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "PAN Number",
+    "value": "ABPCS3807G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/international-company-registration",
+    "timestamp": "2026-09-02T17:21:25.672741"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "Billing Address",
+    "value": "no. 1/60 ssjl vila, sri nagar, alinjivakkam, ponneri, tiruvallur, tamil nadu 600067",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/international-company-registration",
+    "timestamp": "2026-09-02T17:21:25.685716"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/international-company-registration",
+    "timestamp": "2026-09-02T17:21:25.685736"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "State",
+    "value": "Tamil Nadu",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/international-company-registration",
+    "timestamp": "2026-09-02T17:21:25.685814"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "Pincode",
+    "value": "600067",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/international-company-registration",
+    "timestamp": "2026-09-02T17:21:25.685821"
+  },
+  {
+    "business": "S.D.M INTERNATIONAL",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T17:21:29.248278"
+  },
+  {
+    "seller": "S.D.M INTERNATIONAL",
+    "field": "Legal Entity Name",
+    "query": "S.D.M INTERNATIONAL Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/s-d-international-private-limited-cin-U74900UP2008PTC036047",
+      "https://tracxn.com/d/legal-entities/india/s.d.international-private-limited/__weMQgcylyQerMVCoRhjNbTvg27SO9s6GKrI2GoHEdUM",
+      "https://www.inspex.in/",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-09-02T17:21:33.397036",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.D.M INTERNATIONAL",
+    "field": "Owner",
+    "query": "S.D.M INTERNATIONAL director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.siu.edu.in/about-us/leaderships?/leadership",
+      "https://www.symbiosisinternationalschool.net/founder-director",
+      "https://www.symbiosis.ac.in/leadership.php",
+      "https://www.coromandel.biz/company/board-of-directors/"
+    ],
+    "timestamp": "2026-09-02T17:21:40.842051",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.D.M INTERNATIONAL",
+    "field": "Owner",
+    "query": "S.D.M INTERNATIONAL founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dminternationalco.com/about-us/",
+      "https://tracxn.com/d/companies/bdminternational/__IWoJswm9w-r592w7PX_YYI-p9f7m-UuUoeRHyQKlrQ4",
+      "https://www.sdminternational.co.in/",
+      "https://tracxn.com/d/companies/b.d.m.international/__IWoJswm9w-r592w7PX_YYI-p9f7m-UuUoeRHyQKlrQ4"
+    ],
+    "timestamp": "2026-09-02T17:21:49.689289",
+    "status": "results_found"
+  }
+]

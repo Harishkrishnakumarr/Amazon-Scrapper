@@ -1,0 +1,61 @@
+{
+  "category": "Office Electronics",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 415,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "customercare@clicktechretail.in",
+      "gst": "22AAJCC9783E1ZH",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 416,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918006766856",
+      "email": "Not Found",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Seajoon",
+      "database_id": 417,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 418,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910151664015",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

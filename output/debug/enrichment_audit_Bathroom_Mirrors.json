@@ -1,0 +1,243 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0BDG4VG2G&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T19:04:17.604001"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T19:04:27.814769",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343",
+      "https://www.companydetails.in/company/clicktech-retail-private-limited"
+    ],
+    "timestamp": "2026-09-05T19:04:45.577858",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T19:05:10.010198",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T19:05:22.914760",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T19:05:26.917732",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T19:05:42.106055",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T19:06:02.406976",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "support@clicktech.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.clicktech.com/",
+    "timestamp": "2026-09-05T19:06:09.948212"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T19:06:17.189124",
+    "status": "results_found"
+  },
+  {
+    "business": "SHIVAYAN TRENDZ",
+    "field": "Business Name",
+    "value": "SHIVAYAN TRENDZ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3I01JKL7IIYVN&asin=B0HBLQ3TPV&ref_=dp_merchant_link",
+    "timestamp": "2026-09-05T19:06:17.849176"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "Website",
+    "query": "SHIVAYAN TRENDZ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://salesweb.civilview.com/Sales/SalesSearch?countyId=3",
+      "https://www.tapology.com/fightcenter/events/144343-taylor-vs-pili"
+    ],
+    "timestamp": "2026-09-05T19:06:19.171641",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "Legal Entity Name",
+    "query": "SHIVAYAN TRENDZ company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companyseekers.com/company/shivayan-trading-private-limited/U51909WB2017PTC222192",
+      "https://tracxn.com/d/legal-entities/india/trendz-information-technologies-limited/__HPtpiRtfgTX37-sSoMTwzD9-ai-NGCVSwmkvhJFeSoc",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2",
+      "https://lextechsuite.com/CR--826-2025-CO-L--SHRI-SHIVAYAN"
+    ],
+    "timestamp": "2026-09-05T19:06:30.698264",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "PAN",
+    "query": "SHIVAYAN TRENDZ PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T19:07:03.743721",
+    "status": "no_results"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "GST",
+    "query": "SHIVAYAN TRENDZ GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T19:07:14.055187",
+    "status": "no_results"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "GST",
+    "query": "SHIVAYAN TRENDZ GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-05T19:07:24.168490",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "Owner",
+    "query": "SHIVAYAN TRENDZ director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://about.youtube/",
+      "https://blog.youtube/",
+      "https://www.britannica.com/topic/YouTube"
+    ],
+    "timestamp": "2026-09-05T19:07:27.463863",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "Address",
+    "query": "SHIVAYAN TRENDZ registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.gamer.com.tw/C.php?bsn=5725&snA=2",
+      "https://forum.gamer.com.tw/C.php?bsn=4229&snA=558"
+    ],
+    "timestamp": "2026-09-05T19:07:48.191631",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "Phone",
+    "query": "SHIVAYAN TRENDZ phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T19:08:13.713526",
+    "status": "no_results"
+  },
+  {
+    "seller": "SHIVAYAN TRENDZ",
+    "field": "Phone",
+    "query": "SHIVAYAN TRENDZ contact phone",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T19:08:23.640281",
+    "status": "no_results"
+  }
+]

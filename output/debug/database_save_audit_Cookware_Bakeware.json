@@ -1,0 +1,74 @@
+{
+  "category": "Cookware Bakeware",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 258,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PotsandPans India",
+      "database_id": 259,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911345110048",
+      "email": "care@meyerindia.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Hardtrac",
+      "database_id": 260,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911001800002",
+      "email": "rac@bom3.vsnl.net.in",
+      "gst": "33AAACH1273K1ZS",
+      "pan": "Not Found",
+      "website": "https://www.hardtrac.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Stahl",
+      "database_id": 261,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912026105145",
+      "email": "dpo@stahl.com",
+      "gst": "33AACCS3208H1ZR",
+      "pan": "Not Found",
+      "website": "https://www.stahl.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Madras Retail Company",
+      "database_id": 262,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913009302025",
+      "email": "support@madrasshoppe.com",
+      "gst": "33CPLPP5218K1ZK",
+      "pan": "Not Found",
+      "website": "https://madrassuperstore.com/",
+      "status": "Verified"
+    }
+  ]
+}

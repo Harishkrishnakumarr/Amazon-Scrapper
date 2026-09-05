@@ -1,0 +1,87 @@
+{
+  "category": "Kitchen Storage Containers",
+  "records_before_save": 8,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 263,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GHOGHARI ENTERPRISE",
+      "database_id": 264,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913014182026",
+      "email": "contact@inrdeals.in",
+      "gst": "27AHUPP2507Q1ZH",
+      "pan": "Not Found",
+      "website": "https://inrdeals.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "HLOKNTSABR..",
+      "database_id": 265,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RANIO ENTERPRISE",
+      "database_id": 266,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910365375155",
+      "email": "grievances@rapido.bike",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Freestile shop",
+      "database_id": 267,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910241522026",
+      "email": "info@freestyleshop.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://freestyleshop.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 268,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910151674015",
+      "email": "Not Found",
+      "gst": "27AADCV4254H1Z8",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

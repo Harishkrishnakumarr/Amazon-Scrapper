@@ -1,0 +1,74 @@
+{
+  "category": "Navigation Devices",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ShortWell",
+      "database_id": 1005,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917602248852",
+      "email": "info@webcamtests.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shortwell.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1006,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1035,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "mswcorporatesupport@morganstanley.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ZOXOWA INDUSTRIES",
+      "database_id": 1036,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VANTERO INDIA",
+      "database_id": 1037,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "roindia@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

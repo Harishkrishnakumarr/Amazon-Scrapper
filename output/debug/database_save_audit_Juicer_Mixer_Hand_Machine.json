@@ -1,0 +1,61 @@
+{
+  "category": "Juicer Mixer Hand Machine",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "UDDHAV GOLD",
+      "database_id": 274,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916861232026",
+      "email": "ion@srmbsteel.com",
+      "gst": "27ADIPY8756G1ZQ",
+      "pan": "Not Found",
+      "website": "https://www.sellerratings.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 275,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "team@qorpiq.com",
+      "gst": "27ABCDE1234F1Z5",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kavya Boutique\u2122",
+      "database_id": 276,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913950102026",
+      "email": "kavyaboutique1@gmail.com",
+      "gst": "27AAQFK2490Q1ZF",
+      "pan": "Not Found",
+      "website": "https://www.kavyaboutique.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 277,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910151624015",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

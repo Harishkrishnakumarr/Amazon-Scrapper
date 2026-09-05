@@ -1,0 +1,35 @@
+{
+  "category": "Men'S Ethnic Shoes",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Indian Classy Wear",
+      "database_id": 1326,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917303700176",
+      "email": "customercare@houseofindya.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.houseofindya.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Fausto Luckystar",
+      "database_id": 1327,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919625703614",
+      "email": "support@fausto.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://fausto.in/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CQ4FQ2T7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T17:18:24.939328"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-08-25T17:18:33.085968",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://www.courtsofnz.govt.nz/the-courts/supreme-court/judgments-supreme",
+      "https://recordsfinder.com/court/",
+      "https://recordsfinder.com/death/"
+    ],
+    "timestamp": "2026-08-25T17:18:41.386115",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-25T17:18:58.470404",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-08-25T17:19:07.151402",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/"
+    ],
+    "timestamp": "2026-08-25T17:19:29.801667",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cricbuzz.com/",
+      "https://www.cricbuzz.com/cricket-match/live-scores/recent-matches",
+      "https://m-aws.cricbuzz.com/",
+      "https://m.cricbuzz.com/cricket-series"
+    ],
+    "timestamp": "2026-08-25T17:19:33.631134",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://docs.github.com/ja/copilot/reference/ai-models/supported-models",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models"
+    ],
+    "timestamp": "2026-08-25T17:19:41.771732",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.donanimhaber.com/adolescence-2025-netflix--160804556",
+      "https://forum.donanimhaber.com/netflix-3d--136910569",
+      "https://forum.donanimhaber.com/samsung-smart-tv-netflix-uygulamasi-baglanti-problemi-ve-cozumu--121113154",
+      "https://forum.donanimhaber.com/netflix-exxen-blutv-diger-dizi-film-canli-tv-mac-uygulamasi--148030808"
+    ],
+    "timestamp": "2026-08-25T17:19:51.323003",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-25T17:20:05.151216",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/"
+    ],
+    "timestamp": "2026-08-25T17:20:12.455340",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-25T17:20:14.675594"
+  },
+  {
+    "business": "PHBrands",
+    "field": "Business Name",
+    "value": "PHBrands",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2PN1O7TPISQR7&asin=B0DWXKZK8B&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T17:20:18.393403"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Website",
+    "query": "PHBrands official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.playsport.cc/livescore/2",
+      "https://sportify.tw/zh-TW/npb"
+    ],
+    "timestamp": "2026-08-25T17:20:23.887166",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Legal Entity Name",
+    "query": "PHBrands company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://entitysearch.us/",
+      "https://registry-lookup.com/",
+      "https://phbrands.net/",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-25T17:20:37.852641",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Legal Entity Name",
+    "query": "PHBrands Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.redbus.in/",
+      "https://www.redbus.in/bus-tickets",
+      "https://www.redbus.com/online-tickets/bus-ticket-booking",
+      "https://www.redbus.com/"
+    ],
+    "timestamp": "2026-08-25T17:20:49.572090",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "PAN",
+    "query": "PHBrands PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T17:20:54.756641",
+    "status": "no_results"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "PAN",
+    "query": "PHBrands PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.midea.com/ph/news/why-midea-s-chione-high-wall-inverter-is-the-future-of-ai-air-conditioning",
+      "https://www.midea.com/id-en/small-appliances/air-treatment/air-purifier/midea-air-purifier-kj300g-a1s.kj300g-a1s",
+      "https://www.midea.com.ua/en/service/technology/ionizer",
+      "https://mideaphilippines.myshopify.com/products/media-genesis-pro-high-wall-inverter-r32-1-0-hp"
+    ],
+    "timestamp": "2026-08-25T17:20:57.072904",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "GST",
+    "query": "PHBrands GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-25T17:21:14.823342",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "GST",
+    "query": "PHBrands GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ask.libreoffice.org/t/libreoffice24-8/118771",
+      "https://ask.libreoffice.org/t/remote-files-google-drive-error-the-specified-device-is-invalid/37098",
+      "https://forum.openoffice.org/fr/forum/viewtopic.php?t=67760",
+      "https://ask.libreoffice.org/t/want-to-print-10-envelopes/53159"
+    ],
+    "timestamp": "2026-08-25T17:21:20.452768",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Owner",
+    "query": "PHBrands director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://theorg.com/org/phm-brands/org-chart/john-mason",
+      "https://phbrands.net/",
+      "https://www.biospace.com/gina-steffens-takes-the-helm-as-new-ceo-of-phm-brands",
+      "https://www.sellerratings.com/amazon/india/phbrands"
+    ],
+    "timestamp": "2026-08-25T17:21:30.762350",
+    "status": "results_found"
+  },
+  {
+    "business": "PHBrands",
+    "field": "Email Address",
+    "value": "357533@email4pr.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.biospace.com/gina-steffens-takes-the-helm-as-new-ceo-of-phm-brands",
+    "timestamp": "2026-08-25T17:21:43.438217"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Address",
+    "query": "PHBrands registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mgtv.com/",
+      "https://www.mgtv.com/app/?_source_=A",
+      "https://www.mgtv.com/?_=_",
+      "https://www.mgtv.com/?_source_=B"
+    ],
+    "timestamp": "2026-08-25T17:21:47.048280",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Phone",
+    "query": "PHBrands phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/phbrands",
+      "https://phbrands.net/",
+      "https://fullbeauty.pissedconsumer.com/customer-service.html",
+      "https://philips.pissedconsumer.com/customer-service.html"
+    ],
+    "timestamp": "2026-08-25T17:22:14.822178",
+    "status": "results_found"
+  },
+  {
+    "business": "UTTRAKHAND ENTERPRISES",
+    "field": "Business Name",
+    "value": "UTTRAKHAND ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VQJPE09BIDZP&asin=B0HBKR51FV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-25T17:22:23.206328"
+  },
+  {
+    "seller": "UTTRAKHAND ENTERPRISES",
+    "field": "Website",
+    "query": "UTTRAKHAND ENTERPRISES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://uttarakhandtrip.com/uttarakhand-popular-destinations",
+      "https://www.tripadvisor.in/Attractions-g297686-Activities-Uttarakhand.html"
+    ],
+    "timestamp": "2026-08-25T17:22:24.980146",
+    "status": "results_found"
+  },
+  {
+    "seller": "UTTRAKHAND ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "UTTRAKHAND ENTERPRISES company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://uttarakhandtrip.com/uttarakhand-popular-destinations"
+    ],
+    "timestamp": "2026-08-25T17:22:34.888475",
+    "status": "results_found"
+  },
+  {
+    "seller": "UTTRAKHAND ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "UTTRAKHAND ENTERPRISES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://uttarakhandtrip.com/uttarakhand-popular-destinations",
+      "https://www.tripadvisor.in/Attractions-g297686-Activities-Uttarakhand.html",
+      "https://www.britannica.com/place/Uttarakhand",
+      "https://uttarakhandtourism.net/"
+    ],
+    "timestamp": "2026-08-25T17:23:45.529447",
+    "status": "results_found"
+  },
+  {
+    "seller": "UTTRAKHAND ENTERPRISES",
+    "field": "PAN",
+    "query": "UTTRAKHAND ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://uttarakhandtrip.com/uttarakhand-popular-destinations",
+      "https://www.tripadvisor.in/Attractions-g297686-Activities-Uttarakhand.html",
+      "https://www.britannica.com/place/Uttarakhand",
+      "https://uttarakhandtourism.net/"
+    ],
+    "timestamp": "2026-08-25T17:23:47.692627",
+    "status": "results_found"
+  },
+  {
+    "seller": "UTTRAKHAND ENTERPRISES",
+    "field": "GST",
+    "query": "UTTRAKHAND ENTERPRISES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://uttarakhandtrip.com/uttarakhand-popular-destinations",
+      "https://www.tripadvisor.in/Attractions-g297686-Activities-Uttarakhand.html",
+      "https://www.britannica.com/place/Uttarakhand",
+      "https://uttarakhandtourism.net/"
+    ],
+    "timestamp": "2026-08-25T17:24:05.513326",
+    "status": "results_found"
+  },
+  {
+    "business": "UTTRAKHAND ENTERPRISES",
+    "field": "Email Address",
+    "value": "info@uttarakhandtrip.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://uttarakhandtrip.com/uttarakhand-popular-destinations",
+    "timestamp": "2026-08-25T17:24:10.099049"
+  },
+  {
+    "seller": "UTTRAKHAND ENTERPRISES",
+    "field": "Owner",
+    "query": "UTTRAKHAND ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://uttarakhandtrip.com/uttarakhand-popular-destinations",
+      "https://www.tripadvisor.in/Attractions-g297686-Activities-Uttarakhand.html",
+      "https://www.britannica.com/place/Uttarakhand",
+      "https://uttarakhandtourism.net/"
+    ],
+    "timestamp": "2026-08-25T17:24:20.616986",
+    "status": "results_found"
+  },
+  {
+    "business": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "HYPERIONFLICK PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1KV9RP6YLX5HV&asin=B0DTYBWG4S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T17:24:27.357185"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Website",
+    "query": "HYPERIONFLICK PRIVATE LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://fereple.com/writers-apc/emphasis-symbols/",
+      "https://kiji-sniper.com/blog/emphasis/"
+    ],
+    "timestamp": "2026-08-25T17:24:29.290117",
+    "status": "results_found"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "HYPERIONFLICK PRIVATE LIMITED company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T17:24:42.798224",
+    "status": "no_results"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "HYPERIONFLICK PRIVATE LIMITED Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.instafinancials.com/company/hyperionflick-private-limited-U46909KA2024PTC189324/index.html",
+      "https://tracxn.com/d/legal-entities/india/hyperionflick-private-limited/__3L3Rp9kdLPIn1BVmZXTIxb8xrChi09JkWRIa9jYGPsY",
+      "https://www.companydetails.in/company/hyperionflick-private-limited",
+      "https://www.falconebiz.com/company/HYPERIONFLICK-PRIVATE-LIMITED-U46909KA2024PTC189324"
+    ],
+    "timestamp": "2026-08-25T17:24:51.800564",
+    "status": "results_found"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "HYPERIONFLICK PRIVATE LIMITED PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T17:25:25.389497",
+    "status": "no_results"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "GST",
+    "query": "HYPERIONFLICK PRIVATE LIMITED GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.docusign.com/pt-br/gerador-de-assinatura?msockid=2d0f34def47d6493296a231ef5f66510",
+      "https://www.ilovepdf.com/pt/assinar-pdf",
+      "https://www.autenticacao.gov.pt/assinatura-digital/assinatura-digital-qualificada",
+      "https://smallpdf.com/pt/assinar-pdf"
+    ],
+    "timestamp": "2026-08-25T17:25:31.267362",
+    "status": "results_found"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "HYPERIONFLICK PRIVATE LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.eki-net.com/",
+      "https://apps.apple.com/jp/app/%E3%81%88%E3%81%8D%E3%81%AD%E3%81%A3%E3%81%A8%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA-%E6%96%B0%E5%B9%B9%E7%B7%9A-%E7%89%B9%E6%80%A5%E3%81%AE%E4%BA%88%E7%B4%84/id1484923959",
+      "https://ogktravel.com/ekinet/",
+      "https://ekitan.com/transit/article/shinkansen/tips/about_ekinet"
+    ],
+    "timestamp": "2026-08-25T17:25:47.156836",
+    "status": "results_found"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Address",
+    "query": "HYPERIONFLICK PRIVATE LIMITED registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hattaresorts.org/",
+      "https://www.visithatta.com/en/stay",
+      "https://www.booking.com/hotel/ae/damani-lodges.html?msockid=2d0f34def47d6493296a231ef5f66510",
+      "https://www.tripadvisor.com.mx/Hotel_Review-g736302-d34430651-Reviews-Hatta_Resorts-Hatta_Emirate_of_Dubai.html"
+    ],
+    "timestamp": "2026-08-25T17:26:01.972600",
+    "status": "results_found"
+  },
+  {
+    "business": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "eng.raedadnan@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.hattaresorts.org/",
+    "timestamp": "2026-08-25T17:26:04.567209"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Address",
+    "query": "HYPERIONFLICK PRIVATE LIMITED registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/hyperionflick-private-limited/__3L3Rp9kdLPIn1BVmZXTIxb8xrChi09JkWRIa9jYGPsY",
+      "https://www.instafinancials.com/company/hyperionflick-private-limited-U46909KA2024PTC189324/index.html",
+      "https://www.companydetails.in/company/hyperionflick-private-limited",
+      "https://www.falconebiz.com/company/HYPERIONFLICK-PRIVATE-LIMITED-U46909KA2024PTC189324"
+    ],
+    "timestamp": "2026-08-25T17:26:13.497328",
+    "status": "results_found"
+  },
+  {
+    "business": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hyperionflick-private-limited/__3L3Rp9kdLPIn1BVmZXTIxb8xrChi09JkWRIa9jYGPsY",
+    "timestamp": "2026-08-25T17:26:14.789116"
+  },
+  {
+    "business": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hyperionflick-private-limited/__3L3Rp9kdLPIn1BVmZXTIxb8xrChi09JkWRIa9jYGPsY",
+    "timestamp": "2026-08-25T17:26:14.789132"
+  },
+  {
+    "business": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hyperionflick-private-limited/__3L3Rp9kdLPIn1BVmZXTIxb8xrChi09JkWRIa9jYGPsY",
+    "timestamp": "2026-08-25T17:26:14.789136"
+  },
+  {
+    "business": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hyperionflick-private-limited/__3L3Rp9kdLPIn1BVmZXTIxb8xrChi09JkWRIa9jYGPsY",
+    "timestamp": "2026-08-25T17:26:14.789140"
+  },
+  {
+    "seller": "HYPERIONFLICK PRIVATE LIMITED",
+    "field": "Phone",
+    "query": "HYPERIONFLICK PRIVATE LIMITED phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.douyin.com/",
+      "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3",
+      "https://live.douyin.com/",
+      "https://creator.douyin.com/"
+    ],
+    "timestamp": "2026-08-25T17:26:16.616700",
+    "status": "results_found"
+  }
+]

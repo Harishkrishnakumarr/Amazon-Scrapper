@@ -1,0 +1,87 @@
+{
+  "category": "Wooden Supplies",
+  "records_before_save": 8,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "INDIKONB STORE",
+      "database_id": 1252,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "paint.net@hotmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "WRIGHT WOOD ENTERPRISES",
+      "database_id": 1253,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916360127635",
+      "email": "info@wrightresearch.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "AccuPrints Gurgaon",
+      "database_id": 1254,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919625197077",
+      "email": "mail@accuprints.in",
+      "gst": "06AURPS1867J1ZV",
+      "pan": "AURPS1867J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AANIYA SANIYA ENTERPRISES",
+      "database_id": 1255,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919073339639",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SPZ LIMITED",
+      "database_id": 1256,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@spowerz.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "nCore ART",
+      "database_id": 1257,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Needs Review"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=9387779262&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:23:38.616050"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-08-21T17:23:40.442667",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T17:23:46.178366"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T17:23:47.530636"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T17:23:47.532427"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U52399DL2021PLC388574%20and%20its%20current%20status%20is%20Active.",
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-21T17:23:55.481843",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.thecompanycheck.com/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-21T17:24:04.161544",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstserver.com/gst/27AAJCC8517E1ZL/",
+      "https://gstserver.com/gst/37AAJCC8517E1ZK/",
+      "https://gst.unifers.ai/gst/08AAJCC8517E1ZL/cocoblu-retail-limited",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-27AAJCC8517E1ZL/",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-21T17:24:16.180705",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/27AAJCC8517E1ZL/",
+    "timestamp": "2026-08-21T17:24:17.874479"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-27AAJCC8517E1ZL/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-21T17:24:20.611345",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+    "timestamp": "2026-08-21T17:24:21.749909"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://www.indiafashionforum.in/team/mouli-venkataraman/"
+    ],
+    "timestamp": "2026-08-21T17:24:25.063512",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/wp-content/uploads/2024/08/notice-of-agm_cocoblu.pdf"
+    ],
+    "timestamp": "2026-08-21T17:24:36.055218",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-21T17:24:42.342815",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/contact-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://contactout.com/company/Cocoblu-Retail-19325",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-21T17:24:44.078792",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:24:46.344995"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:24:46.345025"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:24:46.345033"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:24:46.345049"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "Business Name",
+    "value": "Repro Books-On-Demand",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15DBATYR506U3&asin=9390166268&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:24:47.487178"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Website",
+    "query": "Repro Books-On-Demand official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.reprobooks.in/",
+      "https://www.reprobooks.in/about-us/"
+    ],
+    "timestamp": "2026-08-21T17:24:49.565366",
+    "status": "results_found"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "Website URL",
+    "value": "https://www.reprobooks.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.reprobooks.in/",
+    "timestamp": "2026-08-21T17:25:17.492135"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "Phone Number",
+    "value": "+918002000000",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.reprobooks.in/",
+    "timestamp": "2026-08-21T17:25:19.166842"
+  },
+  {
+    "business": "Repro Books-On-Demand",
+    "field": "Email Address",
+    "value": "info@reproindialtd.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.reprobooks.in/contact",
+    "timestamp": "2026-08-21T17:25:27.673489"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Legal Entity Name",
+    "query": "Repro Books-On-Demand company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reprobooks.in/",
+      "https://www.reprobooks.in/about-us/",
+      "https://www.reprobooks.in/publishers/",
+      "https://www.reprobooks.in/educators/",
+      "https://www.reprobooks.in/corporate-governance/"
+    ],
+    "timestamp": "2026-08-21T17:25:36.329686",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Legal Entity Name",
+    "query": "Repro Books-On-Demand Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reproindialtd.com/",
+      "https://www.reproindialtd.com/about-repro/overview",
+      "https://www.screener.in/company/REPRO/consolidated/",
+      "https://www.reprobooks.in/",
+      "https://www.moneycontrol.com/india/stockpricequote/printingstationery/reproindia/RI35"
+    ],
+    "timestamp": "2026-08-21T17:25:49.887697",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "PAN",
+    "query": "Repro Books-On-Demand PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reproindialtd.com/",
+      "https://www.reproindialtd.com/about-repro/overview",
+      "https://www.screener.in/company/REPRO/consolidated/",
+      "https://www.reprobooks.in/",
+      "https://www.moneycontrol.com/india/stockpricequote/printingstationery/reproindia/RI35"
+    ],
+    "timestamp": "2026-08-21T17:25:57.733348",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "GST",
+    "query": "Repro Books-On-Demand GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reproindialtd.com/",
+      "https://www.reproindialtd.com/about-repro/overview",
+      "https://www.screener.in/company/REPRO/consolidated/",
+      "https://www.reprobooks.in/",
+      "https://www.moneycontrol.com/india/stockpricequote/printingstationery/reproindia/RI35"
+    ],
+    "timestamp": "2026-08-21T17:26:21.246872",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "GST",
+    "query": "Repro Books-On-Demand GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reproindialtd.com/",
+      "https://www.reproindialtd.com/about-repro/overview",
+      "https://www.screener.in/company/REPRO/consolidated/",
+      "https://www.reprobooks.in/",
+      "https://www.moneycontrol.com/india/stockpricequote/printingstationery/reproindia/RI35"
+    ],
+    "timestamp": "2026-08-21T17:26:39.223908",
+    "status": "results_found"
+  },
+  {
+    "seller": "Repro Books-On-Demand",
+    "field": "Owner",
+    "query": "Repro Books-On-Demand director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reproindialtd.com/",
+      "https://www.reproindialtd.com/about-repro/overview",
+      "https://www.screener.in/company/REPRO/consolidated/",
+      "https://www.reprobooks.in/",
+      "https://www.moneycontrol.com/india/stockpricequote/printingstationery/reproindia/RI35"
+    ],
+    "timestamp": "2026-08-21T17:26:40.511851",
+    "status": "results_found"
+  }
+]

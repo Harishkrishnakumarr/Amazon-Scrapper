@@ -1,0 +1,100 @@
+{
+  "category": "Kitchen Sinks",
+  "records_before_save": 7,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1268,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "raj@how2shout.com",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "AAJCC9783E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shri Vijay Steel Industries",
+      "database_id": 1269,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918235302758",
+      "email": "online@maavaishnodevi.net",
+      "gst": "08QCLPS3946E1ZT",
+      "pan": "QCLPS3946E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KRISHNA CUTLERY WORKS (CROCODILE SS KITCHEN SINK)",
+      "database_id": 1270,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917827883177",
+      "email": "krishnacutleryworks@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Happy Homes_",
+      "database_id": 1271,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.merriam-webster.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Zero to infinity store",
+      "database_id": 1272,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "sh.z2i@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Plantex India",
+      "database_id": 1273,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918043890273",
+      "email": "cs@plantex.in",
+      "gst": "24AALCP2951M1Z1",
+      "pan": "AALCP2951M",
+      "website": "https://www.plantex.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Ruhe",
+      "database_id": 1274,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919205993317",
+      "email": "support@ruheindia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.ruhe.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "category": "Pumps",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Buy Tale",
+      "database_id": 1373,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919811568568",
+      "email": "enquiry@businessdeals.in",
+      "gst": "08AMRPY9428M1ZQ",
+      "pan": "AMRPY9428M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1374,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ICONIC CREATIONS PRIVATE LIMITED",
+      "database_id": 1374,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "ntel@iconiccreation.in",
+      "gst": "07AAGCI4350J1ZI",
+      "pan": "AAGCI4350J",
+      "website": "https://iconicsonline.com/",
+      "status": "Verified"
+    }
+  ]
+}

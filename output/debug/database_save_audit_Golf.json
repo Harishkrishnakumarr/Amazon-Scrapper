@@ -1,0 +1,22 @@
+{
+  "category": "Golf",
+  "records_before_save": 8,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Golfoy-com",
+      "database_id": 1529,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "gsd@utiitsl.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://golfoy.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

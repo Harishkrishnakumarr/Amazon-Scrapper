@@ -1,0 +1,516 @@
+[
+  {
+    "business": "ASTraders",
+    "field": "Business Name",
+    "value": "ASTraders",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2Z3L1BGFAWWZY&asin=B0DJ5LL1S9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T06:58:08.900442"
+  },
+  {
+    "seller": "ASTraders",
+    "field": "Website",
+    "query": "ASTraders official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://astradersmedical.com/",
+      "https://astradersmedical.com/about/"
+    ],
+    "timestamp": "2026-08-27T06:58:19.580476",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASTraders",
+    "field": "Legal Entity Name",
+    "query": "ASTraders company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=company%20registration%20online&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=company%20registration%20online&target_name=kwd-84045335786979:loc-90&placement=&keyword_id=company%20registration%20online&msclkid=9cce78a3ee141a0e1da1122c7cdfaba8",
+      "https://hkg.databasesets.com/en/gongsimingdan/number/0019328",
+      "https://astraders.org/",
+      "https://piceapp.com/gst-number-search/astraders-29crgps3863j1z2/"
+    ],
+    "timestamp": "2026-08-27T06:58:42.367929",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASTraders",
+    "field": "PAN",
+    "query": "ASTraders PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:59:07.121031",
+    "status": "no_results"
+  },
+  {
+    "seller": "ASTraders",
+    "field": "PAN",
+    "query": "ASTraders PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:59:22.621892",
+    "status": "no_results"
+  },
+  {
+    "seller": "ASTraders",
+    "field": "GST",
+    "query": "ASTraders GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:59:43.783838",
+    "status": "no_results"
+  },
+  {
+    "seller": "ASTraders",
+    "field": "Owner",
+    "query": "ASTraders director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://astradersmedical.com/about/",
+      "https://astraders.in/",
+      "https://www.dnb.com/business-directory/company-profiles.astraders.6124e077623674edb33b5ae566a1daad.html",
+      "https://a-straders.com/about-us/"
+    ],
+    "timestamp": "2026-08-27T07:00:00.126461",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASTraders",
+    "field": "Address",
+    "query": "ASTraders registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.astraders.6124e077623674edb33b5ae566a1daad.html",
+      "https://astradersmedical.com/",
+      "https://astradersmedical.com/about/",
+      "https://astraders.in/"
+    ],
+    "timestamp": "2026-08-27T07:00:09.999914",
+    "status": "results_found"
+  },
+  {
+    "business": "MotoIndustries\u00ae",
+    "field": "Business Name",
+    "value": "MotoIndustries\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1BIQ7ZZ0FN91D&asin=B0GNMXFXNY&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:00:15.938713"
+  },
+  {
+    "seller": "MotoIndustries\u00ae",
+    "field": "Website",
+    "query": "MotoIndustries\u00ae official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://motoxindustries.com/",
+      "https://motoxindustries.com/product/300mm-rotor-and-caliper-bracket/"
+    ],
+    "timestamp": "2026-08-27T07:00:27.266064",
+    "status": "results_found"
+  },
+  {
+    "seller": "MotoIndustries\u00ae",
+    "field": "Legal Entity Name",
+    "query": "MotoIndustries\u00ae company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://entitysearch.us/",
+      "https://bisprofiles.com/fl/moto-industries-l22000123230",
+      "https://www.bizprofile.net/fl/riverview/moto-industries-llc",
+      "https://registry-lookup.com/"
+    ],
+    "timestamp": "2026-08-27T07:00:49.120233",
+    "status": "results_found"
+  },
+  {
+    "seller": "MotoIndustries\u00ae",
+    "field": "PAN",
+    "query": "MotoIndustries\u00ae PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.indiafilings.com/learn/know-your-pan-card"
+    ],
+    "timestamp": "2026-08-27T07:01:02.785374",
+    "status": "results_found"
+  },
+  {
+    "business": "MotoIndustries\u00ae",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-27T07:01:05.705587"
+  },
+  {
+    "business": "MotoIndustries\u00ae",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-27T07:01:05.728823"
+  },
+  {
+    "business": "MotoIndustries\u00ae",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-27T07:01:05.728851"
+  },
+  {
+    "seller": "MotoIndustries\u00ae",
+    "field": "Owner",
+    "query": "MotoIndustries\u00ae director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/pawan-munjal-1/",
+      "https://www.flbusinessgo.com/companies/L22000123230/",
+      "https://tracxn.com/d/companies/moto-industries/__oLUMHGrLWI61-16LdyGRE3BOx4mtY47SpuNFl51SknI",
+      "https://www.findcompany.com.tw/en/MOTO%20INDUSTRIES%20CO.,%20LTD."
+    ],
+    "timestamp": "2026-08-27T07:01:10.711595",
+    "status": "results_found"
+  },
+  {
+    "seller": "MotoIndustries\u00ae",
+    "field": "Address",
+    "query": "MotoIndustries\u00ae registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opencorporates.com/companies/us_ne/10246678",
+      "https://headquarterlocation.com/alabama/motion-industries-headquarters-corporate-office/",
+      "https://www.dandb.com/businessdirectory/motionindustriescorporateoffice-birmingham-al-1639499.html",
+      "https://www.motion.com/about-mi/support-center"
+    ],
+    "timestamp": "2026-08-27T07:01:37.786969",
+    "status": "results_found"
+  },
+  {
+    "seller": "MotoIndustries\u00ae",
+    "field": "Email",
+    "query": "MotoIndustries\u00ae email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://motoxindustries.com/contact/",
+      "https://motoxindustries.com/product-category/supermoto/wheels-supermoto/",
+      "https://motoxindustries.com/product-category/supermoto/conversion-kits/",
+      "https://motoxindustries.com/product-category/supermoto/"
+    ],
+    "timestamp": "2026-08-27T07:01:54.221114",
+    "status": "results_found"
+  },
+  {
+    "business": "VINOD TRADERS.",
+    "field": "Business Name",
+    "value": "VINOD TRADERS.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3B51J9QUYJN7C&asin=B0CW1VGXSS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:02:04.663121"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "Website",
+    "query": "VINOD TRADERS. official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://vinodtraders.in/",
+      "https://vinodcookware.com/"
+    ],
+    "timestamp": "2026-08-27T07:02:16.118323",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "Legal Entity Name",
+    "query": "VINOD TRADERS. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sciencefacts.net/normal-force.html",
+      "https://energyeducation.ca/encyclopedia/Normal_force",
+      "https://www.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force/a/what-is-normal-force",
+      "https://forceinphysics.com/normal-force/"
+    ],
+    "timestamp": "2026-08-27T07:02:32.200457",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "PAN",
+    "query": "VINOD TRADERS. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sexvid.xxx/",
+      "https://www.sexvid.xxx/p/date/",
+      "https://www.xvideos.com/tags/xxx",
+      "https://hqtube.xxx/en/popular/"
+    ],
+    "timestamp": "2026-08-27T07:02:48.153688",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "PAN",
+    "query": "VINOD TRADERS. PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/id/",
+      "https://www.crazygames.com/game/evowarsio",
+      "https://www.crazygames.com/game/veck-io"
+    ],
+    "timestamp": "2026-08-27T07:03:00.285127",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "GST",
+    "query": "VINOD TRADERS. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sekiyahifuka.com/",
+      "https://ssc8.doctorqube.com/sekiyahifuka/",
+      "https://www.sekiyahifuka.com/about",
+      "https://medley.life/institutions/60b3a66ca29b55203ebb2c1f/f_%E7%9A%AE%E8%86%9A%E7%A7%91/"
+    ],
+    "timestamp": "2026-08-27T07:03:10.662875",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "Owner",
+    "query": "VINOD TRADERS. director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://valor.globo.com/mundo/noticia/2025/08/18/de-quem-e-a-crimeia-e-qual-o-interesse-na-peninsula.ghtml"
+    ],
+    "timestamp": "2026-08-27T07:03:25.886948",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "Owner",
+    "query": "VINOD TRADERS. founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://casinoshunter.com/when-casinos-reopen-in-ontario/",
+      "https://www.casinosavenue.com/en/casinos/searchByArea/ontario-on/346?page=1",
+      "https://www.casino.org/news/canadian-gaming-official-ontario-casinos-need-clarity-on-reopening/",
+      "https://northgate60004.com/2026/05/07/casino-reopening-date-canada/"
+    ],
+    "timestamp": "2026-08-27T07:03:34.381984",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "Address",
+    "query": "VINOD TRADERS. registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:03:56.348150",
+    "status": "no_results"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "Phone",
+    "query": "VINOD TRADERS. phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:03:57.152125",
+    "status": "no_results"
+  },
+  {
+    "seller": "VINOD TRADERS.",
+    "field": "Phone",
+    "query": "VINOD TRADERS. contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://poki.com/?msockid=12f893bd4fa06e3c08a8847f4eab6f7f",
+      "https://poki.com/de?msockid=12f893bd4fa06e3c08a8847f4eab6f7f",
+      "https://poki.com/es/g/level-devil?msockid=12f893bd4fa06e3c08a8847f4eab6f7f",
+      "https://poki.com/nl?msockid=12f893bd4fa06e3c08a8847f4eab6f7f"
+    ],
+    "timestamp": "2026-08-27T07:03:59.017354",
+    "status": "results_found"
+  },
+  {
+    "business": "Trustable products india",
+    "field": "Business Name",
+    "value": "Trustable products india",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=APGXRUGSTZAVP&asin=B09QGSRWW6&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:04:05.321264"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "Website",
+    "query": "Trustable products india official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kingarthurbaking.com/learn/cookies",
+      "https://www.wikihow.life/Bake-Cookies"
+    ],
+    "timestamp": "2026-08-27T07:04:07.100699",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "Legal Entity Name",
+    "query": "Trustable products india company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:04:14.482451",
+    "status": "no_results"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "Legal Entity Name",
+    "query": "Trustable products india Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20company&target_name=kwd-83770041157869:loc-90&placement=&keyword_id=registration%20of%20company&msclkid=dbb23b02a80517817f92518d3c1eb59c",
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=company%20registration%20in%20india&utm_adgroup=1357898695889625&network=o&device=c&msclkid=7df38a16bd001777cf7ae099291b43e5&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=company%20registration%20in%20india&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.falconebiz.com/company/TRUSTABLE-FOODS-INDIA-PRIVATE-LIMITED-U15100DL2008PTC184138",
+      "https://www.instafinancials.com/company/trustable-foods-india-private-limited-U15100DL2008PTC184138/company-overview"
+    ],
+    "timestamp": "2026-08-27T07:04:19.131895",
+    "status": "results_found"
+  },
+  {
+    "business": "Trustable products india",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20company&target_name=kwd-83770041157869:loc-90&placement=&keyword_id=registration%20of%20company&msclkid=dbb23b02a80517817f92518d3c1eb59c",
+    "timestamp": "2026-08-27T07:04:21.562086"
+  },
+  {
+    "business": "Trustable products india",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20company&target_name=kwd-83770041157869:loc-90&placement=&keyword_id=registration%20of%20company&msclkid=dbb23b02a80517817f92518d3c1eb59c",
+    "timestamp": "2026-08-27T07:04:21.562851"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "PAN",
+    "query": "Trustable products india PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.rizalprovince.ph/",
+      "https://www.provinciallibrary.rizalprovince.ph/",
+      "https://www.rizalprovince.ph/pages/careers.html",
+      "https://www.provinciallibrary.rizalprovince.ph/pages/historypage3.php"
+    ],
+    "timestamp": "2026-08-27T07:04:28.345591",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "PAN",
+    "query": "Trustable products india PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/enable-or-disable-core-isolation-memory-integrity-in-windows-11.4942/"
+    ],
+    "timestamp": "2026-08-27T07:04:39.882908",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "GST",
+    "query": "Trustable products india GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tiktok.com/tag/sssssss\u00dfss",
+      "https://www.dailymotion.com/video/x8ht0ax",
+      "https://www.dailymotion.com/video/x61gyzo",
+      "https://www.tiktok.com/tag/ssssssssssssssssssssssssss"
+    ],
+    "timestamp": "2026-08-27T07:04:44.832680",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "GST",
+    "query": "Trustable products india GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://faq.ikyu.com/app/answers/detail/a_id/1109/~/yahoo%21-japan-id%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%EF%BC%9F",
+      "https://faq.ikyu.com/app/answers/detail/a_id/1330/~/%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F",
+      "https://faq.ikyu.com/app/answers/detail/a_id/556/~/yahoo%21-japan-id%E3%81%A8%E3%81%AF%EF%BC%9F",
+      "https://faq.ikyu.com/app/answers/detail/a_id/559/~/%E5%90%84%E6%8F%90%E6%90%BA%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%88yahoo%21-japan%EF%BC%8Fgoogle%EF%BC%8Ffacebook%EF%BC%8Fline%EF%BC%8Fapple%EF%BC%89%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%AF%EF%BC%9F"
+    ],
+    "timestamp": "2026-08-27T07:04:56.919137",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "Owner",
+    "query": "Trustable products india director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://asxonline.com/",
+      "https://www.news.com.au/topics/asx"
+    ],
+    "timestamp": "2026-08-27T07:05:10.233752",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trustable products india",
+    "field": "Address",
+    "query": "Trustable products india registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apple.com/mx/",
+      "https://www.apple.com/de/store",
+      "https://tv.apple.com/ca",
+      "https://tv.apple.com/mx"
+    ],
+    "timestamp": "2026-08-27T07:05:24.345914",
+    "status": "results_found"
+  }
+]

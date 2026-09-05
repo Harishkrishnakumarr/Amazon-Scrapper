@@ -1,0 +1,854 @@
+[
+  {
+    "business": "UDDHAV GOLD",
+    "field": "Business Name",
+    "value": "UDDHAV GOLD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AV85UFWROPWGG&asin=B0F9YGHHXG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-19T08:45:50.486887"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Website",
+    "query": "UDDHAV GOLD official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://homedecorlo.com/products/uddhav-gold-pure-copper-bottle-for-water-1-liter-dirt-proof-leak-proof-and-joint-less-ayurveda-and-yoga-health-benefits-water-bottle-mat-finish",
+      "https://www.sellerratings.com/amazon/india/uddhav-gold"
+    ],
+    "timestamp": "2026-08-19T08:45:52.110332",
+    "status": "results_found"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "Website URL",
+    "value": "https://www.sellerratings.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sellerratings.com/amazon/india/uddhav-gold",
+    "timestamp": "2026-08-19T08:45:58.859495"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "Phone Number",
+    "value": "+916861232026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sellerratings.com/",
+    "timestamp": "2026-08-19T08:45:59.478099"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Legal Entity Name",
+    "query": "UDDHAV GOLD company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://udyamregistration.gov.in/",
+      "https://udyamregistration.gov.in/Udyam_Verify.aspx",
+      "https://www.udyamregistration.gov.in/#",
+      "https://udyamregistration.gov.in/Udyam_Login.aspx",
+      "https://www.udyamregistration.gov.in/docs/UdyamApplication.pdf"
+    ],
+    "timestamp": "2026-08-19T08:46:03.724516",
+    "status": "results_found"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Legal Entity Name",
+    "query": "UDDHAV GOLD Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://www.udyam.ltd/blog/udyam-search-by-name",
+      "https://www.udyamregistration.gov.in/UdyamRegistration.aspx/",
+      "https://udyamregisteration.org/",
+      "https://udyam-registrations.org/"
+    ],
+    "timestamp": "2026-08-19T08:46:22.032483",
+    "status": "results_found"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "PAN",
+    "query": "UDDHAV GOLD PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://cleartax.in/s/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-08-19T08:46:23.748456",
+    "status": "results_found"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "GST",
+    "query": "UDDHAV GOLD GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-19T08:46:45.538466",
+    "status": "results_found"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "GST",
+    "query": "UDDHAV GOLD GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://gst.jamku.app/gstin/27ADIPY8756G1ZQ",
+      "https://www.gst.gov.in/",
+      "https://cleartax.in/s/gst-number-search-by-name/"
+    ],
+    "timestamp": "2026-08-19T08:46:51.456687",
+    "status": "results_found"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "GST Number",
+    "value": "27ADIPY8756G1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/27ADIPY8756G1ZQ",
+    "timestamp": "2026-08-19T08:46:53.935023"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Owner",
+    "query": "UDDHAV GOLD director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.scai.in/profile/uddhav-poddar/",
+      "https://www.griinstitute.org/realestate/member-profile/uddhav-poddar_18523",
+      "https://www.estateawards.com/uddhav.php",
+      "https://lextechsuite.com/TM--UDDHAV-GOLD--class-30--3383641",
+      "https://www.uddhavpropertiesltd.com/management"
+    ],
+    "timestamp": "2026-08-19T08:46:55.478000",
+    "status": "results_found"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Owner",
+    "query": "UDDHAV GOLD managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://in.marketscreener.com/quote/stock/DECCAN-GOLD-MINES-LIMITED-20704815/company-governance/",
+      "https://www.eurekaforbes.com/investor-relations/board-of-directors",
+      "https://www.filesure.in/company/uddhav-estates-private-limited/U70101AS2006PTC008092",
+      "https://www.cnbc.com/2026/06/25/india-rajesh-exports-investigation-accounting-irregularities-valcambi.html?msockid=3c313856f43464b73f932fecf5f065cd",
+      "https://www.man.com/uddhav-sharma"
+    ],
+    "timestamp": "2026-08-19T08:47:11.606317",
+    "status": "results_found"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Address",
+    "query": "UDDHAV GOLD registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.quickcompany.in/trademarks/4339019-uddhav-gold",
+      "https://www.sellerratings.com/amazon/india/uddhav-gold",
+      "https://www.indiafilings.com/search/uddhav-gold-tm-3383641",
+      "https://lextechsuite.com/TM--UDDHAV-GOLD--class-19--4339018",
+      "https://www.falconebiz.com/company/FATHIMUTHU-AMMA-KNITS-PRIVATE-LIMITED-U17111TN1992PTC023479"
+    ],
+    "timestamp": "2026-08-19T08:47:15.755273",
+    "status": "results_found"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Address",
+    "query": "UDDHAV GOLD registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.quickcompany.in/trademarks/4339019-uddhav-gold",
+      "https://www.indiafilings.com/search/uddhav-gold-tm-3383641",
+      "https://www.sellerratings.com/amazon/india/uddhav-gold",
+      "https://www.trademarkia.in/uddhav-gold-4339019",
+      "https://tracxn.com/d/legal-entities/india/uddhav-udyog-private-limited/__VEOkPKkfwY5zpiuTv2DfkfsQssF-PjnC7pWwHoSgyV4"
+    ],
+    "timestamp": "2026-08-19T08:47:26.204681",
+    "status": "results_found"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/uddhav-udyog-private-limited/__VEOkPKkfwY5zpiuTv2DfkfsQssF-PjnC7pWwHoSgyV4",
+    "timestamp": "2026-08-19T08:47:31.843675"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/uddhav-udyog-private-limited/__VEOkPKkfwY5zpiuTv2DfkfsQssF-PjnC7pWwHoSgyV4",
+    "timestamp": "2026-08-19T08:47:31.843738"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/uddhav-udyog-private-limited/__VEOkPKkfwY5zpiuTv2DfkfsQssF-PjnC7pWwHoSgyV4",
+    "timestamp": "2026-08-19T08:47:31.843747"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/uddhav-udyog-private-limited/__VEOkPKkfwY5zpiuTv2DfkfsQssF-PjnC7pWwHoSgyV4",
+    "timestamp": "2026-08-19T08:47:31.843837"
+  },
+  {
+    "seller": "UDDHAV GOLD",
+    "field": "Email",
+    "query": "UDDHAV GOLD email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/uddhav-gold",
+      "https://www.falconebiz.com/company/UDDHAV-UDYOG-PRIVATE-LIMITED-U27209WB2019PTC234661",
+      "https://www.quickcompany.in/trademarks/4339019-uddhav-gold",
+      "https://rocketreach.co/uddhav-khandagale-email_225099547",
+      "https://www.thangamayil.com/contact/"
+    ],
+    "timestamp": "2026-08-19T08:47:33.466507",
+    "status": "results_found"
+  },
+  {
+    "business": "UDDHAV GOLD",
+    "field": "Email Address",
+    "value": "ion@srmbsteel.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/UDDHAV-UDYOG-PRIVATE-LIMITED-U27209WB2019PTC234661",
+    "timestamp": "2026-08-19T08:47:35.220401"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B01M0GLQ4L&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-19T08:47:35.639277"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-19T08:47:37.018779",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-19T08:47:40.063262"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-19T08:47:40.448979"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-19T08:47:40.551453"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-19T08:47:40.551470"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-19T08:47:40.551475"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-19T08:47:40.551480"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-19T08:47:45.379981",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://golegally.com/mca-company-search",
+      "https://cleartax.in/s/steps-to-register-private-limited-company"
+    ],
+    "timestamp": "2026-08-19T08:47:52.556430",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM#:~:text=RETAILEZ%20PRIVATE%20LIMITED%20is%20a%20Private%20Limited%20Company,registered%20at%20Registrar%20of%20Companies%2C%20ROC%20Kolkata%20II.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd"
+    ],
+    "timestamp": "2026-08-19T08:47:59.111956",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://gstverify.co.in/search/",
+      "https://taxless.in/pan-card-validator"
+    ],
+    "timestamp": "2026-08-19T08:48:04.401468",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM#:~:text=Its%20corporate%20identification%20number%20is%20%28CIN%29%20U52602WB2021PTC248134%20and,of%20162%20employees%20as%20on%20Apr%2001%2C%202026.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-08-19T08:48:12.731635",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-19T08:48:19.040398",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-19T08:48:25.528625",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://taxclue.in/gst-number-search#:~:text=Go%20to%20taxpayersearch.gst.gov.in%20Open%20the%20official%20GST%20taxpayer,Example%3A%2027ABCDE1234F1Z5%20%28Maharashtra%29.%20Ensure%20there%20are%20no%20spaces.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-19T08:48:32.454819",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27ABCDE1234F1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxclue.in/gst-number-search#:~:text=Go%20to%20taxpayersearch.gst.gov.in%20Open%20the%20official%20GST%20taxpayer,Example%3A%2027ABCDE1234F1Z5%20%28Maharashtra%29.%20Ensure%20there%20are%20no%20spaces.",
+    "timestamp": "2026-08-19T08:48:34.800169"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indiaratings.co.in/pressrelease/76876#:~:text=REP%20was%20founded%20in%20September%202021%20by%20Siddhant,retailing%20of%20goods%20on%20the%20e-commerce%20website%2C%20Amazon.in.",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://www.indiaratings.co.in/pressrelease/76876"
+    ],
+    "timestamp": "2026-08-19T08:48:36.469277",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://www.planetexim.net/indian-company/shareholding/anav-retailez-llp/llpin/ADA-9388.html"
+    ],
+    "timestamp": "2026-08-19T08:48:43.744049",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://www.chalethotels.com/board-of-directors/neel-c-raheja/"
+    ],
+    "timestamp": "2026-08-19T08:48:49.697573",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-19T08:49:07.434032",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd official email id",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://mitva.in/contact/"
+    ],
+    "timestamp": "2026-08-19T08:49:10.813903",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "team@qorpiq.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+    "timestamp": "2026-08-19T08:49:14.191794"
+  },
+  {
+    "business": "Kavya Boutique\u2122",
+    "field": "Business Name",
+    "value": "Kavya Boutique\u2122",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3PJGHF7EPVJHL&asin=B0DVH262TF&ref_=dp_merchant_link",
+    "timestamp": "2026-08-19T08:49:14.517322"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "Website",
+    "query": "Kavya Boutique\u2122 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kavyaboutique.com/",
+      "https://kavyaboutique.com/collections/lehenga-choli"
+    ],
+    "timestamp": "2026-08-19T08:49:16.030351",
+    "status": "results_found"
+  },
+  {
+    "business": "Kavya Boutique\u2122",
+    "field": "Website URL",
+    "value": "https://www.kavyaboutique.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kavyaboutique.com/",
+    "timestamp": "2026-08-19T08:49:18.424584"
+  },
+  {
+    "business": "Kavya Boutique\u2122",
+    "field": "Phone Number",
+    "value": "+913950102026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kavyaboutique.com/",
+    "timestamp": "2026-08-19T08:49:19.767219"
+  },
+  {
+    "business": "Kavya Boutique\u2122",
+    "field": "Email Address",
+    "value": "kavyaboutique1@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kavyaboutique.com/",
+    "timestamp": "2026-08-19T08:49:19.767397"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "Legal Entity Name",
+    "query": "Kavya Boutique\u2122 company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=kavya-boutique&gstin=27AAQFK2490Q1ZF",
+      "https://www.knowyourgst.com/gst-number-search/kavya-boutique-27AAQFK2490Q1ZF/",
+      "https://kavyaboutique.com/",
+      "https://www.knowyourgst.com/gst-number-search/kavya-boutique-27AZTPJ0868R1Z9/",
+      "https://www.knowyourgst.com/gst-number-search/kavya-boutique-19ASBPS2607J1ZK/"
+    ],
+    "timestamp": "2026-08-19T08:49:28.020227",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "Legal Entity Name",
+    "query": "Kavya Boutique\u2122 Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/",
+      "https://simplysetup.com/company-search/",
+      "https://www.registerkaro.in/company/kavya-fashion-private-limited-U17291GJ2010PTC061737",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-08-19T08:49:34.426585",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "Legal Entity Name",
+    "query": "Kavya Boutique\u2122 legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kavya-by-kalyan-boutique-hotel-private-limited/__rqenUCxNSJJ3pHYmLrlc5xx-tTtPaPXTtrEtIhgFLfY#:~:text=KAVYA%20BY%20KALYAN%20BOUTIQUE%20HOTEL%20PRIVATE%20LIMITED%20is,%28CIN%29%20U55101KA2024PTC190546%20and%20its%20current%20status%20is%20Active.",
+      "https://kavyaboutique.com/",
+      "https://www.dnb.com/business-directory/company-profiles.kavya_boutique.ad48d234c2111f67c7511072a339a19a.html",
+      "https://www.knowyourgst.com/gst-number-search/kavya-boutique-27AZTPJ0868R1Z9/",
+      "https://www.mastersindia.co/gst-search/?name=kavya-boutique&gstin=27AAQFK2490Q1ZF"
+    ],
+    "timestamp": "2026-08-19T08:49:43.173192",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "PAN",
+    "query": "Kavya Boutique\u2122 PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kavyaboutique.com/",
+      "https://kavyaboutique.com/collections/lehenga-choli",
+      "https://kavyaboutique.com/account",
+      "https://kavyaboutique.com/policies/contact-information",
+      "https://kavyaboutique.com/account/login"
+    ],
+    "timestamp": "2026-08-19T08:49:49.435520",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "PAN",
+    "query": "Kavya Boutique\u2122 PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kavyaboutique.com/",
+      "https://kavyaboutique.com/collections/lehenga-choli",
+      "https://kavyaboutique.com/account",
+      "https://kavyaboutique.com/policies/contact-information",
+      "https://kavyaboutique.com/account/login"
+    ],
+    "timestamp": "2026-08-19T08:50:00.840365",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "GST",
+    "query": "Kavya Boutique\u2122 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=kavya-boutique&gstin=27AAQFK2490Q1ZF",
+      "https://www.knowyourgst.com/gst-number-search/kavya-boutique-27AAQFK2490Q1ZF/",
+      "https://www.knowyourgst.com/gst-number-search/kavya-boutique-27AZTPJ0868R1Z9/",
+      "https://gstverify.co.in/gst/kavya-fashion-accessories-24ajhpb2045e1zx/",
+      "https://reg.gst.gov.in/registration/"
+    ],
+    "timestamp": "2026-08-19T08:50:09.792218",
+    "status": "results_found"
+  },
+  {
+    "business": "Kavya Boutique\u2122",
+    "field": "GST Number",
+    "value": "27AAQFK2490Q1ZF",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kavya-boutique-27AAQFK2490Q1ZF/",
+    "timestamp": "2026-08-19T08:50:11.682978"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "Owner",
+    "query": "Kavya Boutique\u2122 director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kavyaboutique.com/",
+      "https://www.dnb.com/business-directory/company-profiles.kavya_boutique.ac302664ff952f717bc70c6f11a6b33a.html",
+      "https://www.dnb.com/business-directory/company-profiles.kavya_boutique.e90ffb2b7634866bb6b6b8c2334d73a3.html",
+      "https://kavyastore.com/pages/our-brand",
+      "https://www.mastersindia.co/gst-search/?name=kavya-boutique&gstin=27AAQFK2490Q1ZF"
+    ],
+    "timestamp": "2026-08-19T08:50:13.620112",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "Owner",
+    "query": "Kavya Boutique\u2122 managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kavyaboutique.com/",
+      "https://www.mastersindia.co/gst-search/?name=kavya-boutique&gstin=27AAQFK2490Q1ZF",
+      "https://www.dnb.com/business-directory/company-profiles.kavya_boutique.e90ffb2b7634866bb6b6b8c2334d73a3.html",
+      "https://www.dnb.com/business-directory/company-profiles.kavya_boutique.ac302664ff952f717bc70c6f11a6b33a.html"
+    ],
+    "timestamp": "2026-08-19T08:50:23.611822",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kavya Boutique\u2122",
+    "field": "Address",
+    "query": "Kavya Boutique\u2122 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.kavya_boutique.ac302664ff952f717bc70c6f11a6b33a.html",
+      "https://kavyaboutique.com/",
+      "https://kavyaboutique.com/policies/shipping-policy",
+      "https://paperli.ai/company/kavya-by-kalyan-boutique-hotel-private-limited-U55101KA2024PTC190546",
+      "https://www.dnb.com/business-directory/company-profiles.kavya_boutique.e90ffb2b7634866bb6b6b8c2334d73a3.html"
+    ],
+    "timestamp": "2026-08-19T08:50:35.320439",
+    "status": "results_found"
+  },
+  {
+    "business": "Kavya Boutique\u2122",
+    "field": "Billing Address",
+    "value": "no 2, karimanthi paschima vahini palahalli",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://paperli.ai/company/kavya-by-kalyan-boutique-hotel-private-limited-U55101KA2024PTC190546",
+    "timestamp": "2026-08-19T08:50:48.639090"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DJKTN6DM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-19T08:50:49.931940"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3c313856f43464b73f932fecf5f065cd",
+      "https://us.etrade.com/e/t/user/login?msockid=3c313856f43464b73f932fecf5f065cd"
+    ],
+    "timestamp": "2026-08-19T08:50:51.452979",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=3c313856f43464b73f932fecf5f065cd",
+    "timestamp": "2026-08-19T08:51:55.048243"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151624015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-19T08:51:56.158599"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=3c313856f43464b73f932fecf5f065cd",
+      "https://us.etrade.com/l/welcome/new-account?msockid=3c313856f43464b73f932fecf5f065cd",
+      "https://us.etrade.com/home?msockid=3c313856f43464b73f932fecf5f065cd",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/"
+    ],
+    "timestamp": "2026-08-19T08:52:09.405760",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan",
+      "https://us.etrade.com/e/t/user/login?msockid=3c313856f43464b73f932fecf5f065cd",
+      "https://incometaxindia.gov.in/tax-services/online-pan-verification",
+      "https://www.incometax.gov.in/iec/foportal/help/how-to-verify-pan",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-08-19T08:52:31.997231",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/e/t/user/login?msockid=3c313856f43464b73f932fecf5f065cd",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.utiitsl.com/UTIITSL_NEW/home?lang=en",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-08-19T08:52:45.018670",
+    "status": "results_found"
+  }
+]

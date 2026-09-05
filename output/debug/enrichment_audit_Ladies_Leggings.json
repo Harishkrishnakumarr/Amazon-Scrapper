@@ -1,0 +1,343 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B097XZQMSP&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:05:22.211181"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-15T12:05:24.886776",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T12:05:39.675661"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T12:05:41.186612"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T12:05:41.187982"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T12:05:47.659749",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-15T12:06:14.142146",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T12:06:18.732710",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T12:07:20.261080",
+    "status": "no_results"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T12:07:22.294250",
+    "status": "no_results"
+  },
+  {
+    "business": "DO IT Creation",
+    "field": "Business Name",
+    "value": "DO IT Creation",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3STNAWL21U6U9&asin=B0DQJVRVWM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T12:07:22.756316"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Website",
+    "query": "DO IT Creation official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do"
+    ],
+    "timestamp": "2026-08-15T12:07:27.949958",
+    "status": "results_found"
+  },
+  {
+    "business": "DO IT Creation",
+    "field": "Website URL",
+    "value": "https://sublearn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://sublearn.com/learn/en/vocabulary/do",
+    "timestamp": "2026-08-15T12:07:39.682638"
+  },
+  {
+    "business": "DO IT Creation",
+    "field": "Phone Number",
+    "value": "+919912992026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://sublearn.com/",
+    "timestamp": "2026-08-15T12:07:45.467972"
+  },
+  {
+    "business": "DO IT Creation",
+    "field": "Email Address",
+    "value": "support@sublearn.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://sublearn.com/terms",
+    "timestamp": "2026-08-15T12:08:01.885782"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Legal Entity Name",
+    "query": "DO IT Creation company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do"
+    ],
+    "timestamp": "2026-08-15T12:08:07.107884",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Legal Entity Name",
+    "query": "DO IT Creation Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do"
+    ],
+    "timestamp": "2026-08-15T12:08:09.217696",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Legal Entity Name",
+    "query": "DO IT Creation legal entity",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do"
+    ],
+    "timestamp": "2026-08-15T12:08:11.492979",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "PAN",
+    "query": "DO IT Creation PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do",
+      "https://www.merriam-webster.com/dictionary/do"
+    ],
+    "timestamp": "2026-08-15T12:08:15.904767",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "PAN",
+    "query": "DO IT Creation PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do",
+      "https://www.merriam-webster.com/dictionary/do",
+      "https://www.dictionary.com/browse/do",
+      "https://www.collinsdictionary.com/dictionary/english/do"
+    ],
+    "timestamp": "2026-08-15T12:08:34.237285",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "GST",
+    "query": "DO IT Creation GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/gst-registration-campaign/?utm_source=bing&Campaignid=435857922&Adgroupid=1345803795394718&Adid=84113032835647&device=c&Adposition=&physical=149586&match_type=e&network=how%20to%20apply%20gst%20online&target_name=kwd-84113699729577:loc-90&placement=&keyword_id=how%20to%20apply%20gst%20online&msclkid=0926b2ee04cb17418e24d86e0da58533&utm_source=bing&utm_medium=cpc&utm_campaign=OLI-GSTREG-APRIL22&utm_term=how%20to%20apply%20gst%20online&utm_content=gst%20registration",
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login"
+    ],
+    "timestamp": "2026-08-15T12:08:38.477308",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "GST",
+    "query": "DO IT Creation GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do",
+      "https://www.merriam-webster.com/dictionary/do",
+      "https://www.dictionary.com/browse/do"
+    ],
+    "timestamp": "2026-08-15T12:08:54.150041",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Owner",
+    "query": "DO IT Creation director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do",
+      "https://www.merriam-webster.com/dictionary/do"
+    ],
+    "timestamp": "2026-08-15T12:08:57.138869",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Owner",
+    "query": "DO IT Creation managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do",
+      "https://www.merriam-webster.com/dictionary/do"
+    ],
+    "timestamp": "2026-08-15T12:09:03.192190",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Owner",
+    "query": "DO IT Creation founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://doitcreation.com/",
+      "https://www.crunchbase.com/person/george-grima",
+      "https://www.behance.net/doitcreation"
+    ],
+    "timestamp": "2026-08-15T12:09:16.751636",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Address",
+    "query": "DO IT Creation registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do"
+    ],
+    "timestamp": "2026-08-15T12:09:18.382173",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Address",
+    "query": "DO IT Creation registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do"
+    ],
+    "timestamp": "2026-08-15T12:09:20.015152",
+    "status": "results_found"
+  },
+  {
+    "seller": "DO IT Creation",
+    "field": "Address",
+    "query": "DO IT Creation head office address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/do",
+      "https://sublearn.com/learn/en/vocabulary/do"
+    ],
+    "timestamp": "2026-08-15T12:09:21.925180",
+    "status": "results_found"
+  }
+]

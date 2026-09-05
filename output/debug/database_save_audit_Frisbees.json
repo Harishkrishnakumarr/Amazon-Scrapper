@@ -1,0 +1,61 @@
+{
+  "category": "Frisbees",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 536,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Planet of Toys",
+      "database_id": 537,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910713072026",
+      "email": "info@astrobackyard.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://astrobackyard.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "PLAYNXT & PLAYNXT Kids",
+      "database_id": 538,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Emm Emm",
+      "database_id": 539,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.emmemm.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

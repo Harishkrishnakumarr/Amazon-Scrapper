@@ -1,0 +1,386 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=8131805921&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:59:03.062078"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T16:59:06.678732",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/about-us/",
+    "timestamp": "2026-08-26T16:59:15.191007"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:59:16.692257"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:59:16.693137"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:59:29.273893",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:59:55.036893",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T17:00:20.726720",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/contact-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://bg.kompass.com/en/c/cocoblu-retail-limited/in488896/"
+    ],
+    "timestamp": "2026-08-26T17:00:37.556860",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/contact-us/",
+      "https://www.cocoblu.in/",
+      "https://contactout.com/company/Cocoblu-Retail-19325",
+      "https://aeroleads.com/c/cocoblu"
+    ],
+    "timestamp": "2026-08-26T17:00:49.930683",
+    "status": "results_found"
+  },
+  {
+    "business": "ButterflyFields",
+    "field": "Business Name",
+    "value": "ButterflyFields",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SXMI77V22VZR&asin=B0B4K2N4KR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:01:00.879520"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "Website",
+    "query": "ButterflyFields official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://about.youtube/"
+    ],
+    "timestamp": "2026-08-26T17:01:08.576372",
+    "status": "results_found"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "Legal Entity Name",
+    "query": "ButterflyFields company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T17:01:20.112573",
+    "status": "no_results"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "Legal Entity Name",
+    "query": "ButterflyFields Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.foodnetwork.com/recipes/photos/smoothie-recipes",
+      "https://www.allrecipes.com/gallery/easy-smoothie-recipes/",
+      "https://www.eatingwell.com/gallery/8043805/smoothies-to-make-forever/",
+      "https://www.acouplecooks.com/healthy-easy-smoothie-recipes/"
+    ],
+    "timestamp": "2026-08-26T17:01:23.565522",
+    "status": "results_found"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "PAN",
+    "query": "ButterflyFields PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.eulermotors.com/en/blogs/best-ev-trucks-in-india/",
+      "https://www.evradar.in/news/top-9-electric-trucks-in-india-2026-range-payload-capacity-battery-charging-comparison",
+      "https://www.cmv360.com/trucks/electric-trucks",
+      "https://trucks.tatamotors.com/blogs/tata-electric-truck-battery-and-performance-guide"
+    ],
+    "timestamp": "2026-08-26T17:01:38.592918",
+    "status": "results_found"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "GST",
+    "query": "ButterflyFields GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sverigesnationalparker.se/en/parks/abisko-national-park/visit-the-park/getting-here",
+      "https://www.sverigesnationalparker.se/en/choose-park---list/abisko-national-park/visitor-information/getting-here?The&language:en",
+      "https://maps.apple.com/place?place-id=I864FF8B28B50E5EE",
+      "https://www.abiskoadventure.com/about-us/getting-here/"
+    ],
+    "timestamp": "2026-08-26T17:01:52.380561",
+    "status": "results_found"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "Owner",
+    "query": "ButterflyFields director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/k-sharat-chandra",
+      "https://www.cbinsights.com/company/butterfly-fields/people",
+      "https://acr.iitbombay.org/awards/mr-k-sharat-chandra-2/",
+      "https://www.crunchbase.com/organization/butterfly-fields"
+    ],
+    "timestamp": "2026-08-26T17:02:16.664975",
+    "status": "results_found"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "Address",
+    "query": "ButterflyFields registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://butterflyfields.com/pages/contact-us/",
+      "https://butterflyfields.com/contact-us/",
+      "https://butterflyedufields.com/hi/pages/contact",
+      "https://butterflyedufields.com/pages/contact"
+    ],
+    "timestamp": "2026-08-26T17:02:43.558754",
+    "status": "results_found"
+  },
+  {
+    "seller": "ButterflyFields",
+    "field": "Phone",
+    "query": "ButterflyFields phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dola.com/chat/",
+      "https://dola.com/security/region-restricted?source=1",
+      "https://www.dola.live/",
+      "https://navtools.ai/tool/dola"
+    ],
+    "timestamp": "2026-08-26T17:02:52.686069",
+    "status": "results_found"
+  },
+  {
+    "business": "PICK A BOOKS",
+    "field": "Business Name",
+    "value": "PICK A BOOKS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1VXPBUEJOQM8Q&asin=8121929970&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T17:03:04.463643"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "Website",
+    "query": "PICK A BOOKS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://fcnapp.mcaindia.in/login",
+      "http://www.mca.in/"
+    ],
+    "timestamp": "2026-08-26T17:03:07.739525",
+    "status": "results_found"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "Legal Entity Name",
+    "query": "PICK A BOOKS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://slack.com/ssb/signin",
+      "https://slack.com/signin",
+      "https://slack.com/ssb/workspace-signin",
+      "https://slack.com/intl/ja-jp/signin"
+    ],
+    "timestamp": "2026-08-26T17:03:18.636802",
+    "status": "results_found"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "Legal Entity Name",
+    "query": "PICK A BOOKS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://help.fjong.com/hc/en-us/articles/360016052759-How-do-I-cancel-my-membership"
+    ],
+    "timestamp": "2026-08-26T17:03:30.996228",
+    "status": "results_found"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "PAN",
+    "query": "PICK A BOOKS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.visitdubai.com/",
+      "https://www.tripadvisor.com/Tourism-g295424-Dubai_Emirate_of_Dubai-Vacations.html",
+      "https://www.visitdubai.com/en/travel-to-dubai",
+      "https://www.expedia.com/Dubai-Emirate.d1079.Destination-Travel-Guides?msockid=331b437a924e686e1f8f54bb932169a4"
+    ],
+    "timestamp": "2026-08-26T17:03:34.682366",
+    "status": "results_found"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "GST",
+    "query": "PICK A BOOKS GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T17:03:59.061944",
+    "status": "no_results"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "GST",
+    "query": "PICK A BOOKS GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forebet.com/en/football-tips-and-predictions-for-today/predictions-1x2",
+      "https://footballpark.com/betting/tips/1x2",
+      "https://www.foresportia.com/en/free-ai-football-predictions.html",
+      "https://www.your1x2.com/football"
+    ],
+    "timestamp": "2026-08-26T17:04:18.796377",
+    "status": "results_found"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "Owner",
+    "query": "PICK A BOOKS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tiktok.com/@hollyh",
+      "https://www.tiktok.com/@hollyh/video/7641636893326724374",
+      "https://shop.tiktok.com/us/pdp/1732416655625916562",
+      "https://newsroom.tiktok.com/the-tiktok-creator-fund-is-now-live-across-europe-and-here-is-how-to-apply?lang=en-GB"
+    ],
+    "timestamp": "2026-08-26T17:04:22.960789",
+    "status": "results_found"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "Owner",
+    "query": "PICK A BOOKS founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T17:04:36.495087",
+    "status": "no_results"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "Address",
+    "query": "PICK A BOOKS registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/company-law/change-address-registered-office-books-account-papers-maintained.html",
+      "https://www.addresses.com/",
+      "https://taxguru.in/company-law/faqs-keeping-books-account-registered-office-companies-act-2013.html",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-26T17:04:42.753073",
+    "status": "results_found"
+  },
+  {
+    "seller": "PICK A BOOKS",
+    "field": "Phone",
+    "query": "PICK A BOOKS phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T17:05:05.507346",
+    "status": "no_results"
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "business": "RGR Global Solutions",
+    "field": "Business Name",
+    "value": "RGR Global Solutions",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1MGYA6G6DHS2P&asin=B0FKZZFLJJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T13:40:30.244557"
+  },
+  {
+    "seller": "RGR Global Solutions",
+    "field": "Website",
+    "query": "RGR Global Solutions official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.rgrlogistics.com/",
+      "https://www.rgrlogistics.com/about-us/"
+    ],
+    "timestamp": "2026-09-04T13:40:35.883793",
+    "status": "results_found"
+  },
+  {
+    "business": "RGR Global Solutions",
+    "field": "Website URL",
+    "value": "https://www.rgrlogistics.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.rgrlogistics.com/",
+    "timestamp": "2026-09-04T13:40:39.890161"
+  },
+  {
+    "business": "RGR Global Solutions",
+    "field": "Email Address",
+    "value": "info@rgrlogistics.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.rgrlogistics.com/",
+    "timestamp": "2026-09-04T13:40:43.290018"
+  },
+  {
+    "seller": "RGR Global Solutions",
+    "field": "Legal Entity Name",
+    "query": "RGR Global Solutions company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/RGR-GLOBAL-SOLUTIONS-36CGVPR8783E1ZE/",
+      "https://www.mastersindia.co/gst-search/?name=srujan--ramineni&gstin=36CGVPR8783E1ZE",
+      "https://gst.jamku.app/gstin/36CGVPR8783E1ZE",
+      "https://www.knowyourgst.com/gst-number-search/rgr-global-solutions-36CGVPR8783E1ZE/"
+    ],
+    "timestamp": "2026-09-04T13:41:03.724060",
+    "status": "results_found"
+  },
+  {
+    "business": "RGR Global Solutions",
+    "field": "GST Number",
+    "value": "36CGVPR8783E1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/RGR-GLOBAL-SOLUTIONS-36CGVPR8783E1ZE/",
+    "timestamp": "2026-09-04T13:41:05.714377"
+  },
+  {
+    "business": "RGR Global Solutions",
+    "field": "PAN Number",
+    "value": "CGVPR8783E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/RGR-GLOBAL-SOLUTIONS-36CGVPR8783E1ZE/",
+    "timestamp": "2026-09-04T13:41:05.714404"
+  },
+  {
+    "seller": "RGR Global Solutions",
+    "field": "Owner",
+    "query": "RGR Global Solutions director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bingquiz.com/bing-homepage-quiz/",
+      "https://bing.weeklyquiz.net/bing-homepage-quiz/",
+      "https://bingquizzes.com/bing-homepage-quiz-today/",
+      "https://bingquiz.weeklyquiz.net/"
+    ],
+    "timestamp": "2026-09-04T13:41:09.916619",
+    "status": "results_found"
+  },
+  {
+    "seller": "RGR Global Solutions",
+    "field": "Address",
+    "query": "RGR Global Solutions registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/36CGVPR8783E1ZE",
+      "https://gst.iadv.io/RGR-GLOBAL-SOLUTIONS-36CGVPR8783E1ZE/",
+      "https://www.mastersindia.co/gst-search/?name=srujan--ramineni&gstin=36CGVPR8783E1ZE",
+      "https://www.justdial.com/Hyderabad/RGR-Global-Solutions-Gandipet/040PXX40-XX40-250814061852-C4P2_BZDET"
+    ],
+    "timestamp": "2026-09-04T13:41:29.176112",
+    "status": "results_found"
+  },
+  {
+    "seller": "RGR Global Solutions",
+    "field": "Address",
+    "query": "RGR Global Solutions registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mecomactan.com/home-2023/",
+      "https://search.infobelpro.com/philippines/en/businessdetails/PH/0830048357",
+      "https://mecomactan.com/contact-us/",
+      "https://companieshouse.ph/mactan-electric-co-inc"
+    ],
+    "timestamp": "2026-09-04T13:41:44.947342",
+    "status": "results_found"
+  },
+  {
+    "seller": "RGR Global Solutions",
+    "field": "Phone",
+    "query": "RGR Global Solutions phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T13:41:46.997756",
+    "status": "no_results"
+  },
+  {
+    "seller": "RGR Global Solutions",
+    "field": "Phone",
+    "query": "RGR Global Solutions contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://rgrlogisticsusa.com/contact-us/",
+      "https://www.rgrlogistics.com/contact/",
+      "https://www.sellerratings.com/amazon/india/rgr-global-solutions",
+      "https://www.rgrlogistics.com/"
+    ],
+    "timestamp": "2026-09-04T13:41:55.206636",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Business Name",
+    "value": "STS Shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1ZJ9VB2OVIKVD&isAmazonFulfilled=0&asin=B07YNT6JBW&ref_=olp_merch_name_3",
+    "timestamp": "2026-09-04T13:42:03.939346"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Website",
+    "query": "STS Shop official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:42:06.500299",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Website URL",
+    "value": "https://www.stsshop.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.stsshop.com/",
+    "timestamp": "2026-09-04T13:42:08.581481"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Email Address",
+    "value": "info@stsshop.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.stsshop.com/",
+    "timestamp": "2026-09-04T13:42:10.785398"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:42:15.883746",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/search",
+      "http://220.156.189.33/esamudraUI/rpslSummaryList.do?method=summaryDetailsOfRPSL"
+    ],
+    "timestamp": "2026-09-04T13:42:27.045333",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "PAN",
+    "query": "STS Shop PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:42:33.767183",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "PAN",
+    "query": "STS Shop PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:42:43.212346",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "GST",
+    "query": "STS Shop GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:42:48.294737",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "GST",
+    "query": "STS Shop GST number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:42:55.212964",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:43:01.273824",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:43:04.634442",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:43:07.783019",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opencorporates.com/companies/us_tx/0804814679",
+      "https://texas-biz.com/co/sts-shop-llc",
+      "https://www.bizapedia.com/tx/sts-shop-llc.html",
+      "https://www.sellerratings.com/amazon/india/sts-shop"
+    ],
+    "timestamp": "2026-09-04T13:43:16.325682",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Phone",
+    "query": "STS Shop phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:43:26.763018",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Phone",
+    "query": "STS Shop contact phone",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/"
+    ],
+    "timestamp": "2026-09-04T13:43:32.866527",
+    "status": "results_found"
+  },
+  {
+    "business": "USA Warehouse.",
+    "field": "Business Name",
+    "value": "USA Warehouse.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2PRL1RFFZO5CK&isAmazonFulfilled=0&asin=B07YNT6JBW&ref_=olp_merch_name_10",
+    "timestamp": "2026-09-04T13:43:34.913087"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Website",
+    "query": "USA Warehouse. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.britannica.com/place/United-States"
+    ],
+    "timestamp": "2026-09-04T13:43:36.822383",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Legal Entity Name",
+    "query": "USA Warehouse. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.britannica.com/place/United-States",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T13:44:34.063742",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "PAN",
+    "query": "USA Warehouse. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.britannica.com/place/United-States",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T13:44:48.894497",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "PAN",
+    "query": "USA Warehouse. PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.britannica.com/place/United-States",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T13:45:02.416093",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "GST",
+    "query": "USA Warehouse. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.britannica.com/place/United-States",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T13:45:03.765153",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Owner",
+    "query": "USA Warehouse. director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.usawarehousing.net/about-us/",
+      "https://www.usawarehousing.net/about-us/certifications/",
+      "https://www.usawarehousing.net/about-us/faqs/",
+      "https://www.usawarehousing.net/about-us/gallery/"
+    ],
+    "timestamp": "2026-09-04T13:45:31.050661",
+    "status": "results_found"
+  }
+]

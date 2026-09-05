@@ -1,0 +1,524 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0C6TYS7Y4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T11:19:21.834127"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T11:19:23.994810",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T11:19:27.790525"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T11:19:28.829129"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T11:19:28.829742"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T11:19:34.944572",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T11:19:36.110397"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T11:19:36.110420"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T11:19:37.928036",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:19:38.907496"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:19:38.907561"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:19:38.907566"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:19:38.907570"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T11:19:45.834080"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T11:19:48.020091",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Business Name",
+    "value": "Campusactivewear",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2JTUMWXNY2SJF&asin=B0D5BD7PCQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T11:19:53.594792"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Website",
+    "query": "Campusactivewear official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.campusactivewear.com/",
+      "https://www.campusactivewear.com/our-history"
+    ],
+    "timestamp": "2026-09-02T11:19:55.103144",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Website URL",
+    "value": "https://www.campusactivewear.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.campusactivewear.in/",
+    "timestamp": "2026-09-02T11:20:02.060794"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Legal Entity Name",
+    "value": "Campus Activewear Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.campusactivewear.in/",
+    "timestamp": "2026-09-02T11:20:02.747719"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "PAN",
+    "query": "Campus Activewear Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/29AAHCA3072C1ZX/campus-activewear-limited",
+      "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+      "https://gst.unifers.ai/gst/23AAHCA3072C1Z9/campus-activewear-limited",
+      "https://www.knowyourgst.com/gst-number-search/campus-activewear-private-limited-07AAHCA3072C1Z3/"
+    ],
+    "timestamp": "2026-09-02T11:20:06.556955",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:20:27.027127"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:20:27.027151"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:20:27.027162"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:20:27.027183"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "GST",
+    "query": "Campus Activewear Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/campus-activewear-limited-27AAHCA3072C1Z1/",
+      "https://piceapp.com/gst-number-search/campus-activewear-limited-27aahca3072c1z1/",
+      "https://www.mastersindia.co/gst-search/?name=campus-activewear-private-limited&gstin=27AAHCA3072C1Z1",
+      "https://gst.jamku.app/gstin/06AAHCA3072C2Z4"
+    ],
+    "timestamp": "2026-09-02T11:20:28.916207",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/campus-activewear-limited-27aahca3072c1z1/",
+    "timestamp": "2026-09-02T11:21:31.601592"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/campus-activewear-limited-27aahca3072c1z1/",
+    "timestamp": "2026-09-02T11:21:31.603824"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "GST Number",
+    "value": "27AAHCA3072C1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/campus-activewear-limited-27aahca3072c1z1/",
+    "timestamp": "2026-09-02T11:21:31.605845"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "PAN Number",
+    "value": "AAHCA3072C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/campus-activewear-limited-27aahca3072c1z1/",
+    "timestamp": "2026-09-02T11:21:31.605870"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Owner",
+    "query": "Campus Activewear Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.campusactivewear.com/sites/default/files/2025-04/Directorsprofile.pdf",
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html",
+      "https://choiceindia.com/stocks/campus-activewear-ltd-board-of-directors",
+      "https://www.thecompanycheck.com/people-profile/hari-krishan-agarwal/00172467"
+    ],
+    "timestamp": "2026-09-02T11:21:34.230719",
+    "status": "results_found"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Owner",
+    "query": "Campusactivewear founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.campusactivewear.com/our-history",
+      "https://www.campusshoes.com/pages/about-us",
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html",
+      "https://www.campusactivewear.com/"
+    ],
+    "timestamp": "2026-09-02T11:21:47.895217",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Business Name",
+    "value": "BansalEnterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2PGHJDBLVX5DX&isAmazonFulfilled=1&asin=B0C6TYS7Y4&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-02T11:21:49.161790"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Website",
+    "query": "BansalEnterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bansalenterprises.co.in/index.php",
+      "https://www.bansalenterprises.co.in/regular-slotted.php"
+    ],
+    "timestamp": "2026-09-02T11:21:50.643109",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Website URL",
+    "value": "https://www.bansalenterprises.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bansalenterprises.com/",
+    "timestamp": "2026-09-02T11:21:54.496569"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Legal Entity Name",
+    "query": "BansalEnterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs",
+      "https://www.thecompanycheck.com/org/bansal-enterprises/4b4f033aca",
+      "https://www.falconebiz.com/company/KL-BANSAL-ENTERPRISES-PRIVATE-LIMITED-U52395CH1994PTC015450",
+      "https://www.companydetails.in/company/bansal-enterprises-pvt-ltd"
+    ],
+    "timestamp": "2026-09-02T11:22:05.631095",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs",
+    "timestamp": "2026-09-02T11:22:07.562987"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs",
+    "timestamp": "2026-09-02T11:22:07.563001"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs",
+    "timestamp": "2026-09-02T11:22:07.563006"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs",
+    "timestamp": "2026-09-02T11:22:07.563010"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Email Address",
+    "value": "kochar45@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/KL-BANSAL-ENTERPRISES-PRIVATE-LIMITED-U52395CH1994PTC015450",
+    "timestamp": "2026-09-02T11:22:11.570712"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Legal Entity Name",
+    "query": "BansalEnterprises Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://zauba.company/",
+      "https://www.registerkaro.in/company-details",
+      "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs",
+      "https://www.instafinancials.com/company/bansal-enterprises-private-limited-U74899DL1992PTC048859/company-overview"
+    ],
+    "timestamp": "2026-09-02T11:22:30.319745",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "PAN",
+    "query": "BansalEnterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/BANSAL-ENTERPRISES-03AUBPB2518F1ZH/",
+      "https://gstverify.co.in/gst/bansal-enterprises-29apcpp2089p1z3/",
+      "https://gstverify.co.in/search/",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-the-pan-card-number-of-a-company-a-step-by-step-guide"
+    ],
+    "timestamp": "2026-09-02T11:22:32.351902",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "GST Number",
+    "value": "03AUBPB2518F1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BANSAL-ENTERPRISES-03AUBPB2518F1ZH/",
+    "timestamp": "2026-09-02T11:22:33.848607"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "PAN Number",
+    "value": "AUBPB2518F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BANSAL-ENTERPRISES-03AUBPB2518F1ZH/",
+    "timestamp": "2026-09-02T11:22:33.848629"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Owner",
+    "query": "BansalEnterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://bansalenterprises.net/about.html",
+      "https://bansalgroup.in/Leadership.php",
+      "https://www.crunchbase.com/person/madhup-bansal"
+    ],
+    "timestamp": "2026-09-02T11:22:35.489850",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Owner",
+    "query": "BansalEnterprises founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://bansalenterprises.net/about.html",
+      "https://www.zoominfo.com/c/bansal-enterprises/372673372",
+      "https://www.crunchbase.com/person/mukesh-bansal"
+    ],
+    "timestamp": "2026-09-02T11:22:40.762877",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Phone",
+    "query": "BansalEnterprises phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bansalenterprises.org/contact-us.html",
+      "https://bansalgroup.com/contact/",
+      "https://bansalenterprises.co.in/heavy-duty.php",
+      "https://bansalenterprises.co.in/"
+    ],
+    "timestamp": "2026-09-02T11:22:44.400672",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Phone Number",
+    "value": "+918071793182",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.bansalenterprises.org/contact-us.html",
+    "timestamp": "2026-09-02T11:22:45.641590"
+  }
+]

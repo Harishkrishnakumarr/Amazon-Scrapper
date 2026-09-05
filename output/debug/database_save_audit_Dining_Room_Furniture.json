@@ -1,0 +1,74 @@
+{
+  "category": "Dining Room Furniture",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "KLAXON",
+      "database_id": 170,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.klaxon.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "PAAM WOOD",
+      "database_id": 171,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914520182024",
+      "email": "paamwoods@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.paamwood.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Furniture Factory Outlet",
+      "database_id": 172,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919846180055",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.furniturefactoryoutlet.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "VeLivings",
+      "database_id": 173,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913310222026",
+      "email": "velivings@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.velivings.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DEMIHEES",
+      "database_id": 174,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "category": "Vehicle Lights",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "EASYSHOP OVERSEAS",
+      "database_id": 947,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@cbinsights.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 948,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ELTRONTURBO",
+      "database_id": 949,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919953944225",
+      "email": "support@eltronturbo.com",
+      "gst": "07BAGPL0316P1ZL",
+      "pan": "BAGPL0316P",
+      "website": "https://www.eltronturbo.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FABTEC",
+      "database_id": 950,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "contact@foodvietnamese.com",
+      "gst": "33AABCI8585Q1ZT",
+      "pan": "AABCI8585Q",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

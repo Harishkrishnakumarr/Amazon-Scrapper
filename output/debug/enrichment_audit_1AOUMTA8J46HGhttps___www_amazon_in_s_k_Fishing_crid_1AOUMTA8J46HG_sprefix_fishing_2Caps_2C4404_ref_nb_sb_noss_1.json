@@ -1,0 +1,97 @@
+[
+  {
+    "business": "TASTY NiBBLES",
+    "field": "Business Name",
+    "value": "TASTY NiBBLES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AOE6YXYPPEXK6&asin=B07DNLDT1K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T13:35:12.601983"
+  },
+  {
+    "seller": "TASTY NiBBLES",
+    "field": "Website",
+    "query": "TASTY NiBBLES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tastynibbles.in/",
+      "https://www.tastynibbles.in/collections/canned-fish"
+    ],
+    "timestamp": "2026-08-24T13:35:25.726828",
+    "status": "results_found"
+  },
+  {
+    "business": "TASTY NiBBLES",
+    "field": "Website URL",
+    "value": "https://www.tastynibbles.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.tastynibbles.in/",
+    "timestamp": "2026-08-24T13:35:28.939079"
+  },
+  {
+    "business": "TASTY NiBBLES",
+    "field": "Phone Number",
+    "value": "+917000182026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.tastynibbles.in/",
+    "timestamp": "2026-08-24T13:35:30.448620"
+  },
+  {
+    "business": "TASTY NiBBLES",
+    "field": "Email Address",
+    "value": "customercare@tastynibbles.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.tastynibbles.in/",
+    "timestamp": "2026-08-24T13:35:30.485864"
+  },
+  {
+    "seller": "TASTY NiBBLES",
+    "field": "Legal Entity Name",
+    "query": "TASTY NiBBLES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tasty.co/",
+      "https://tasty.co/latest",
+      "https://apps.apple.com/in/app/tasty-recipes-cooking-videos/id1217456898",
+      "https://www.buzzfeed.com/tasty"
+    ],
+    "timestamp": "2026-08-24T13:35:45.922116",
+    "status": "results_found"
+  },
+  {
+    "seller": "TASTY NiBBLES",
+    "field": "PAN",
+    "query": "TASTY NiBBLES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tasty.co/",
+      "https://tasty.co/latest",
+      "https://apps.apple.com/in/app/tasty-recipes-cooking-videos/id1217456898",
+      "https://www.buzzfeed.com/tasty"
+    ],
+    "timestamp": "2026-08-24T13:36:20.324151",
+    "status": "results_found"
+  },
+  {
+    "seller": "TASTY NiBBLES",
+    "field": "GST",
+    "query": "TASTY NiBBLES GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-24T13:37:26.233889",
+    "status": "results_found"
+  }
+]

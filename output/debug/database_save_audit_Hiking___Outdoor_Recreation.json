@@ -1,0 +1,22 @@
+{
+  "category": "Hiking & Outdoor Recreation",
+  "records_before_save": 10,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "VIKA TEXTILES",
+      "database_id": 1559,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ka@gmail.com",
+      "gst": "33BMGPM0081E1ZH",
+      "pan": "BMGPM0081E",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

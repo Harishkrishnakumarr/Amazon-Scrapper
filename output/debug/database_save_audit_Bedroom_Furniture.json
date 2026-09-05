@@ -1,0 +1,74 @@
+{
+  "category": "Bedroom Furniture",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 165,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Wakefit Innovations Ltd",
+      "database_id": 166,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910100002026",
+      "email": "Not Found",
+      "gst": "07AABCW7791A1Z9",
+      "pan": "Not Found",
+      "website": "https://www.wakefit.co/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SLEEPYCAT",
+      "database_id": 167,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916421612026",
+      "email": "info@sleepycat.in",
+      "gst": "06AAYCS4216M1ZP",
+      "pan": "Not Found",
+      "website": "https://www.sleepycat.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "sejalenterprises",
+      "database_id": 168,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914278475187",
+      "email": "Not Found",
+      "gst": "27BCIPV5056N1ZS",
+      "pan": "DCXPS1900P",
+      "website": "https://www.sejalenterprises.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FLO Mattress",
+      "database_id": 169,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912646400072",
+      "email": "support@flomattress.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.flomattress.com/",
+      "status": "Verified"
+    }
+  ]
+}

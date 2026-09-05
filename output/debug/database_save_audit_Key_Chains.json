@@ -1,0 +1,87 @@
+{
+  "category": "Key Chains",
+  "records_before_save": 9,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SaiTech IT Private Limited (Since 2013)",
+      "database_id": 1664,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919429577309",
+      "email": "sales@saitechit.com",
+      "gst": "27AASCS7745M2ZA",
+      "pan": "AASCS7745M",
+      "website": "https://www.saitechit.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1629,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "gsd@utiitsl.com",
+      "gst": "06AADCV4254H1ZC",
+      "pan": "AADCV4254H",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "NSSP PRODUCTS",
+      "database_id": 1665,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "helpdesk@nsp.gov.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SATGURU INTERNATIONAL",
+      "database_id": 1666,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918300083111",
+      "email": "foodcourtsatguru786@gmail.com",
+      "gst": "07CUAPA7646G1ZS",
+      "pan": "CUAPA7646G",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MS LEATHER",
+      "database_id": 1667,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@gstzen.in",
+      "gst": "19BXWPM1412Q1ZN",
+      "pan": "BXWPM1412Q",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1668,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

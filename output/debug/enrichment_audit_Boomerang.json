@@ -1,0 +1,567 @@
+[
+  {
+    "business": "Girgit Toys",
+    "field": "Business Name",
+    "value": "Girgit Toys",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1H5YTQS6RYU5A&asin=B0F5MTVPTM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T11:08:14.109794"
+  },
+  {
+    "seller": "Girgit Toys",
+    "field": "Website",
+    "query": "Girgit Toys official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/",
+      "https://zhidao.baidu.com/question/21112246.html"
+    ],
+    "timestamp": "2026-08-24T11:08:19.725326",
+    "status": "results_found"
+  },
+  {
+    "business": "Girgit Toys",
+    "field": "Website URL",
+    "value": "https://www.girgittoys.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.girgittoys.com/",
+    "timestamp": "2026-08-24T11:08:27.625946"
+  },
+  {
+    "business": "Girgit Toys",
+    "field": "Phone Number",
+    "value": "+919900202518",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.girgittoys.com/",
+    "timestamp": "2026-08-24T11:08:37.634144"
+  },
+  {
+    "seller": "Girgit Toys",
+    "field": "Legal Entity Name",
+    "query": "Girgit Toys company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.60millions-mag.com/",
+      "https://www.60millions-mag.com/commerce/article/amazon-haul-la-foire-aux-produits-non-conformes-20260506/",
+      "https://www.dvd-forum.at/",
+      "https://www.dvd-forum.at/amazon-prime-day-2026-zahlreiche-spiele-und-gaming-produkte-im-angebot",
+      "https://www.60millions-mag.com/banque-assurance/article/envoyer-de-l-argent-avec-wero-comment-ca-marche-25444-20260304/"
+    ],
+    "timestamp": "2026-08-24T11:08:51.488332",
+    "status": "results_found"
+  },
+  {
+    "seller": "Girgit Toys",
+    "field": "PAN",
+    "query": "Girgit Toys PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.odakyu-sc.com/so-ss/",
+      "https://www.odakyu.jp/station/sagami_ono/",
+      "https://map.yahoo.co.jp/address?ac=14153&az=MTI",
+      "https://bono-sagamiono.jp/",
+      "https://sagami-oono.com/about/"
+    ],
+    "timestamp": "2026-08-24T11:09:14.926136",
+    "status": "results_found"
+  },
+  {
+    "seller": "Girgit Toys",
+    "field": "GST",
+    "query": "Girgit Toys GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/",
+      "https://www.google.co.in/index.html",
+      "https://translate.google.co.in/details",
+      "https://books.google.co.in/"
+    ],
+    "timestamp": "2026-08-24T11:09:37.434696",
+    "status": "results_found"
+  },
+  {
+    "seller": "Girgit Toys",
+    "field": "GST",
+    "query": "Girgit Toys GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.bmw.es/es/configurador.html",
+      "https://www.bmw.es/es/coches-bmw.html",
+      "https://www.bmw.vn/"
+    ],
+    "timestamp": "2026-08-24T11:09:53.514924",
+    "status": "results_found"
+  },
+  {
+    "seller": "Girgit Toys",
+    "field": "Owner",
+    "query": "Girgit Toys director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://rocketreach.co/niranjan-patidar-email_106553914",
+      "https://girgittoys.com/pages/our-story",
+      "https://www.poweredindia.com/biz/girgittoys"
+    ],
+    "timestamp": "2026-08-24T11:10:01.652616",
+    "status": "results_found"
+  },
+  {
+    "seller": "Girgit Toys",
+    "field": "Owner",
+    "query": "Girgit Toys managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bartekwpodrozy.pl/kosowo-co-warto-wiedziec/",
+      "https://www.national-geographic.pl/traveler/kierunki/kosowo-historia-i-zabytki-co-warto-zobaczyc-w-kosowie/",
+      "https://highaway.pl/inspiracje/kosowo-praktyczny-przewodnik/",
+      "https://trek.zone/pl/kosowo/miejsca",
+      "https://www.panstwaswiata.pl/kosowo/"
+    ],
+    "timestamp": "2026-08-24T11:10:07.921010",
+    "status": "results_found"
+  },
+  {
+    "business": "BIGKARTS CORPORATION",
+    "field": "Business Name",
+    "value": "BIGKARTS CORPORATION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28JDQLM5ZHWP4&asin=B0B21V8NVF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T11:10:21.942130"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "Website",
+    "query": "BIGKARTS CORPORATION official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/1799192525918958267.html",
+      "http://zhidao.baidu.com/"
+    ],
+    "timestamp": "2026-08-24T11:10:25.022980",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "Legal Entity Name",
+    "query": "BIGKARTS CORPORATION company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/311338929",
+      "https://www.zhihu.com/question/638772619",
+      "https://www.contabeis.com.br/noticias/44066/entenda-as-obrigacoes-acessorias-por-regime-tributario/",
+      "https://www.contabeis.com.br/noticias/61965/reclamatorias-trabalhistas-saiba-como-enviar-no-esocial/",
+      "https://www.zhihu.com/question/479825519"
+    ],
+    "timestamp": "2026-08-24T11:10:39.967962",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "Legal Entity Name",
+    "query": "BIGKARTS CORPORATION Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/thesaurus/happy",
+      "https://www.thesaurus.com/browse/happy",
+      "https://dictionary.cambridge.org/thesaurus/happy",
+      "https://www.englishgrammar.org/best-synonyms-happy/",
+      "https://synogenius.com/synonyms-of-happy/"
+    ],
+    "timestamp": "2026-08-24T11:11:02.694560",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "PAN",
+    "query": "BIGKARTS CORPORATION PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jtektthermos.com/tw/products/heating-elements/",
+      "https://heater.heat-tech.biz/tc/air-blow-heater/basic-knowledge-of-temperature-controller/20741.html",
+      "https://www.ein.com.tw/",
+      "https://shopee.tw/search?keyword=ptc%E9%99%B6%E7%93%B7%E9%9B%BB%E9%98%BB%E5%8A%A0%E7%86%B1%E5%99%A8",
+      "https://www.newton.com.tw/wiki/%E9%9B%BB%E9%98%BB%E5%8A%A0%E7%86%B1"
+    ],
+    "timestamp": "2026-08-24T11:11:04.126907",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "PAN",
+    "query": "BIGKARTS CORPORATION PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.cugroup.com/Mall/productCatalog",
+      "https://www.ugc.gov.in/",
+      "https://cugroup.com/",
+      "https://www.cushahuniversity.ac.in/",
+      "https://en.cugroup.com/About?id=e6b24b10-0ee4-4b96-b8e6-be1f989a7ed9"
+    ],
+    "timestamp": "2026-08-24T11:11:14.938062",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "GST",
+    "query": "BIGKARTS CORPORATION GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.amarujala.com/uttarakhand",
+      "https://epaper.amarujala.com/home",
+      "https://www.amarujala.com/uttarakhand/nainital",
+      "https://results.amarujala.com/",
+      "https://epaper.amarujala.com/delhi-city/20260810/01.html?format=img&ed_code=delhi-city"
+    ],
+    "timestamp": "2026-08-24T11:11:30.443326",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "GST",
+    "query": "BIGKARTS CORPORATION GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.netflix.com/au/title/81767886",
+      "https://www.netflix.com/es/title/81767886",
+      "https://www.justwatch.com/us/movie/mickey-17",
+      "https://www.imdb.com/title/tt12299608/",
+      "https://www.justwatch.com/ph/movie/mickey-17"
+    ],
+    "timestamp": "2026-08-24T11:11:39.655096",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "Owner",
+    "query": "BIGKARTS CORPORATION director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.reddit.com/r/GoogleMaps/",
+      "https://stackoverflow.com/questions/50977913/google-maps-shows-for-development-purposes-only",
+      "https://stackoverflow.com/questions/30544268/create-google-maps-links-based-on-coordinates",
+      "https://www.reddit.com/r/google/comments/ns2d35/the_difference_between_google_maps_and_waze/"
+    ],
+    "timestamp": "2026-08-24T11:11:55.399701",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "Owner",
+    "query": "BIGKARTS CORPORATION managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://finance.yahoo.co.jp/quote/3877.T",
+      "https://finance.yahoo.co.jp/quote/3880.T",
+      "https://finance.yahoo.co.jp/quote/3877.T/chart",
+      "https://finance.yahoo.co.jp/quote/3877.T/forum",
+      "https://finance.yahoo.co.jp/quote/3877.T/dividend"
+    ],
+    "timestamp": "2026-08-24T11:12:10.852802",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGKARTS CORPORATION",
+    "field": "Address",
+    "query": "BIGKARTS CORPORATION registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.bigkarts_corporation.32f228dd09dd34dead4f1fec609607e3.html",
+      "https://www.zoominfo.com/c/bigkartscom/369392328",
+      "https://www.tnrd.tn.gov.in/village_contacts.php"
+    ],
+    "timestamp": "2026-08-24T11:12:19.692217",
+    "status": "results_found"
+  },
+  {
+    "business": "YaariMall",
+    "field": "Business Name",
+    "value": "YaariMall",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JSQOJ573WJJO&asin=B0CVDR3N33&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T11:12:40.842364"
+  },
+  {
+    "seller": "YaariMall",
+    "field": "Website",
+    "query": "YaariMall official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://poki.com/en/g/temple-run-2?msockid=2484cc2c5fc362ef26e3db935ef96361",
+      "https://poki.com/en/stickman?msockid=2484cc2c5fc362ef26e3db935ef96361"
+    ],
+    "timestamp": "2026-08-24T11:12:45.551502",
+    "status": "results_found"
+  },
+  {
+    "business": "YaariMall",
+    "field": "Website URL",
+    "value": "https://poki.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://poki.com/en/g/temple-run-2?msockid=2484cc2c5fc362ef26e3db935ef96361",
+    "timestamp": "2026-08-24T11:12:54.143947"
+  },
+  {
+    "business": "YaariMall",
+    "field": "Phone Number",
+    "value": "+910306520142",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://poki.com/",
+    "timestamp": "2026-08-24T11:12:59.025241"
+  },
+  {
+    "seller": "YaariMall",
+    "field": "Legal Entity Name",
+    "query": "YaariMall company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.yaari.com/",
+      "https://www.yaari.com/faq",
+      "https://www.yaari.com/contactus",
+      "https://www.yaari.com/investor/investor-relations",
+      "https://www.yaari.com/investor/financials"
+    ],
+    "timestamp": "2026-08-24T11:13:21.809152",
+    "status": "results_found"
+  },
+  {
+    "seller": "YaariMall",
+    "field": "PAN",
+    "query": "YaariMall PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kpgesb.my/ug-piping-work-process-utilities-for-shell-ogp-project/",
+      "https://www.shell.com.my/about-us/media/2023-press-releases/shell-starts-development-of-rosmari-marjorams-onshore-plant.html",
+      "https://dayakdaily.com/samsung-engineering-wins-us680-mln-epcc-contract-from-shell-for-gas-plant-in-bintulu/",
+      "https://premier.sarawak.gov.my/web/subpage/news_view/5629",
+      "https://www.businesstoday.com.my/2022/07/13/samsung-engineering-secures-rm680-million-contract-to-build-onshore-gas-plant-in-sarawak/"
+    ],
+    "timestamp": "2026-08-24T11:13:32.324619",
+    "status": "results_found"
+  },
+  {
+    "seller": "YaariMall",
+    "field": "PAN",
+    "query": "YaariMall PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/explore",
+      "https://www.zhihu.com/question/20498753",
+      "https://www.zhihu.com/question/2049444498418177946",
+      "https://www.zhihu.com/question/2061134143195276800",
+      "https://www.zhihu.com/people/GalAster"
+    ],
+    "timestamp": "2026-08-24T11:13:48.522585",
+    "status": "results_found"
+  },
+  {
+    "seller": "YaariMall",
+    "field": "GST",
+    "query": "YaariMall GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://sa.aqar.fm/%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D8%A8%D9%8A%D8%B9/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D9%8A%D9%81/%D8%B4%D8%A7%D8%B1%D8%B9-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B5%D9%85%D8%AF-%D8%A7%D9%84%D8%A8%D8%B2%D8%A7%D8%B1-%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D9%8A%D9%81-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-3499255",
+      "https://sa.aqar.fm/%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D8%A8%D9%8A%D8%B9/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D9%8A%D9%81/%D8%B4%D8%A7%D8%B1%D8%B9-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B5%D9%85%D8%AF-%D8%A7%D9%84%D8%A8%D8%B2%D8%A7%D8%B1-%D8%AD%D9%8A-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-6007349",
+      "https://mapservice.alriyadh.gov.sa/",
+      "https://www.address.gov.sa/",
+      "https://www.absher.sa/"
+    ],
+    "timestamp": "2026-08-24T11:13:54.066751",
+    "status": "results_found"
+  },
+  {
+    "seller": "YaariMall",
+    "field": "Owner",
+    "query": "YaariMall director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/39832219/pip-not-working-in-python-installation-in-windows-10",
+      "https://stackoverflow.com/questions/57395720/how-to-enable-the-idle-command-from-windows-command-prompt",
+      "https://pt.stackoverflow.com/questions/217285/como-executar-um-programa-py-pelo-idle-do-python-no-windows",
+      "https://stackoverflow.com/questions/47865981/sqlalchemy-idle-in-transaction",
+      "https://stackoverflow.com/questions/43159488/how-do-i-open-python-idle-shell-window-in-windows-10"
+    ],
+    "timestamp": "2026-08-24T11:14:53.319766",
+    "status": "results_found"
+  },
+  {
+    "business": "S.T. TOYS",
+    "field": "Business Name",
+    "value": "S.T. TOYS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2EJ1YC4JWCEAZ&asin=B0GCSSB528&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T11:14:54.405297"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "Website",
+    "query": "S.T. TOYS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/"
+    ],
+    "timestamp": "2026-08-24T11:14:56.438010",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "Legal Entity Name",
+    "query": "S.T. TOYS company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:15:24.219663",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "Legal Entity Name",
+    "query": "S.T. TOYS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:15:39.410241",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "PAN",
+    "query": "S.T. TOYS PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:15:51.775356",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "PAN",
+    "query": "S.T. TOYS PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:16:01.624728",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "GST",
+    "query": "S.T. TOYS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:16:20.064571",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "GST",
+    "query": "S.T. TOYS GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:16:35.604106",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "Owner",
+    "query": "S.T. TOYS director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:16:41.331300",
+    "status": "results_found"
+  },
+  {
+    "seller": "S.T. TOYS",
+    "field": "Owner",
+    "query": "S.T. TOYS managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://food.wb.gov.in/",
+      "https://wb.gov.in/",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1",
+      "https://www.yourdictionary.com/s"
+    ],
+    "timestamp": "2026-08-24T11:16:55.636682",
+    "status": "results_found"
+  }
+]

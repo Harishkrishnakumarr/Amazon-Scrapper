@@ -1,0 +1,74 @@
+{
+  "category": "Vanity Units",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1689,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "AAJCC9783E",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BOBBY EXPORT",
+      "database_id": 1690,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919880355284",
+      "email": "info@bobbygroup.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "R K Enterprises (RKE)",
+      "database_id": 1691,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047642033",
+      "email": "news@wjhg.com",
+      "gst": "36DZMPR8498K1Z2",
+      "pan": "DZMPR8498K",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MECHDEL",
+      "database_id": 1692,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918048261939",
+      "email": "hello@pice.one",
+      "gst": "27CVGPM3417E2ZO",
+      "pan": "CVGPM3417E",
+      "website": "https://www.mechdel.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Plantex India",
+      "database_id": 1693,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "cs@plantex.in",
+      "gst": "24AALCP2951M1Z1",
+      "pan": "AALCP2951M",
+      "website": "https://www.plantex.in/",
+      "status": "Verified"
+    }
+  ]
+}

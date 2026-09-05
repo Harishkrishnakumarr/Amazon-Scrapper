@@ -1,0 +1,22 @@
+{
+  "category": "Mobile Phone Accessories",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 348,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    }
+  ]
+}

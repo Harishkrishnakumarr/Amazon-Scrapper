@@ -1,0 +1,22 @@
+{
+  "category": "Lips",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 327,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    }
+  ]
+}

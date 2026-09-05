@@ -1,0 +1,35 @@
+{
+  "category": "Skirts & Shorts",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Mehrang Exim",
+      "database_id": 1482,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919106443009",
+      "email": "mehrangexim@gmail.com",
+      "gst": "24AWNPJ7048J1Z5",
+      "pan": "AWNPJ7048J",
+      "website": "https://www.mehrang.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ALYNE",
+      "database_id": 1483,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "https://www.alyne.com/",
+      "status": "Verified"
+    }
+  ]
+}

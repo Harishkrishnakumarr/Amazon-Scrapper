@@ -1,0 +1,682 @@
+[
+  {
+    "business": "Amazon Retail",
+    "field": "Business Name",
+    "value": "Amazon Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARENK22K2PQRH&asin=B0FFZ6C89J&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T11:55:46.214033"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Website",
+    "query": "Amazon Retail official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:55:48.953696",
+    "status": "results_found"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "Website URL",
+    "value": "https://www.primevideo.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.primevideo.com/",
+    "timestamp": "2026-08-25T11:56:09.855585"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "Phone Number",
+    "value": "+911019962026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.primevideo.com/",
+    "timestamp": "2026-08-25T11:56:12.704878"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "Billing Address",
+    "value": "EU Seller of Record (excluding Germany, Austria, France, Italy, and Spain) and EU media service provider for Prime Video video on demand:",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.primevideo.com/terms",
+    "timestamp": "2026-08-25T11:56:21.219467"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "City",
+    "value": "Italy",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.primevideo.com/terms",
+    "timestamp": "2026-08-25T11:56:21.219487"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Legal Entity Name",
+    "query": "Amazon Retail company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:56:26.140965",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Legal Entity Name",
+    "query": "Amazon Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:56:31.313521",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Legal Entity Name",
+    "query": "Amazon Retail legal entity",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:56:35.398872",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "PAN",
+    "query": "Amazon Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:56:40.421473",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "PAN",
+    "query": "Amazon Retail PAN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:56:45.940010",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "PAN",
+    "query": "Amazon Retail PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-29AAPCA6346P2ZQ/",
+      "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-32AAPCA6346P1Z4/",
+      "https://www.indiafilings.com/search/amazon-retail-india-private-limited-cin-U52609DL2017FTC318364",
+      "https://www.dnb.com/business-directory/company-profiles.amazon_retail_india_private_limited.05273b6f796765fd3d9e164b51873ad7.html",
+      "https://www.mastersindia.co/gst-search/?name=amazon-retail-india-private-limited&gstin=29AAPCA6346P2ZQ"
+    ],
+    "timestamp": "2026-08-25T11:57:03.650953",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "GST",
+    "query": "Amazon Retail GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-37AAPCA6346P1ZU/",
+      "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-29AAPCA6346P2ZQ/",
+      "https://piceapp.com/gst-number-search/amazon-retail-india-private-limited-27aapca6346p1zv/",
+      "https://piceapp.com/gst-number-search/amazon-retail-india-private-limited-29aapca6346p1zr/",
+      "https://fnshiftsolutions.com/gstin-search/amazon-retail-india-private-limited-09AAPCA6346P1ZT"
+    ],
+    "timestamp": "2026-08-25T11:57:06.854100",
+    "status": "results_found"
+  },
+  {
+    "business": "Amazon Retail",
+    "field": "GST Number",
+    "value": "37AAPCA6346P1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/amazon-retail-india-private-limited-37AAPCA6346P1ZU/",
+    "timestamp": "2026-08-25T11:57:07.570537"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Owner",
+    "query": "Amazon Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:57:11.677776",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Owner",
+    "query": "Amazon Retail managing director",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:57:21.321689",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Owner",
+    "query": "Amazon Retail founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:57:25.998846",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Email",
+    "query": "Amazon Retail email contact address customer care",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:57:31.005953",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Email",
+    "query": "Amazon Retail official email id",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T11:57:37.892193",
+    "status": "no_results"
+  },
+  {
+    "seller": "Amazon Retail",
+    "field": "Email",
+    "query": "Amazon Retail contact email",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-25T11:57:40.022009",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B01CCL7DGS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T11:57:43.721626"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkcollections.in/"
+    ],
+    "timestamp": "2026-08-25T11:57:45.686304",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T11:58:17.061195",
+    "status": "no_results"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20ltd%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=e93429be65c811ff61af433353cb4c0e&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20ltd%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.indiafilings.com/search/rk-worldinfocom-private-limited-cin-U32204KA2008PTC046634",
+      "https://www.instafinancials.com/company/rk-worldinfocom-private-limited-U32204KA2008PTC046634/index.html",
+      "https://www.companydetails.in/company/rk-worldinfocom-private-limited"
+    ],
+    "timestamp": "2026-08-25T11:58:21.641800",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkcollections.in/",
+      "https://en.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/",
+      "https://www.rkmath.org/"
+    ],
+    "timestamp": "2026-08-25T11:58:40.894111",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://helinet.in/",
+      "https://helinet.org/",
+      "https://hal.helinet.com/login",
+      "https://rguhs.remotlog.com/",
+      "https://vins.ac.in/helinet/"
+    ],
+    "timestamp": "2026-08-25T11:59:12.293830",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkcollections.in/",
+      "https://en.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/",
+      "https://www.rkmath.org/"
+    ],
+    "timestamp": "2026-08-25T11:59:23.013816",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkxpress.in/",
+      "http://en.rkgaming.com/product/11/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-25T11:59:48.186684",
+    "status": "results_found"
+  },
+  {
+    "business": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Business Name",
+    "value": "MARACA FRUIT PROCESSING COMPANY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=APTAQA4778LWI&asin=B0BHLBDSDZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T11:59:50.615253"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Website",
+    "query": "MARACA FRUIT PROCESSING COMPANY official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/"
+    ],
+    "timestamp": "2026-08-25T11:59:52.679407",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Legal Entity Name",
+    "query": "MARACA FRUIT PROCESSING COMPANY company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:00:05.808032",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Legal Entity Name",
+    "query": "MARACA FRUIT PROCESSING COMPANY Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas"
+    ],
+    "timestamp": "2026-08-25T12:00:23.690770",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "PAN",
+    "query": "MARACA FRUIT PROCESSING COMPANY PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:00:25.408000",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "PAN",
+    "query": "MARACA FRUIT PROCESSING COMPANY PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/"
+    ],
+    "timestamp": "2026-08-25T12:00:32.768426",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "PAN",
+    "query": "MARACA FRUIT PROCESSING COMPANY PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:00:36.892809",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "GST",
+    "query": "MARACA FRUIT PROCESSING COMPANY GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:00:45.436718",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "GST",
+    "query": "MARACA FRUIT PROCESSING COMPANY GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:00:55.044065",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "GST",
+    "query": "MARACA FRUIT PROCESSING COMPANY GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:01:04.122789",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Owner",
+    "query": "MARACA FRUIT PROCESSING COMPANY director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:01:05.748747",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Owner",
+    "query": "MARACA FRUIT PROCESSING COMPANY managing director",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://maraca.in/",
+      "https://gst.unifers.ai/gst/32ABIFM1188Q1ZR/maraca-fruit-processing-company"
+    ],
+    "timestamp": "2026-08-25T12:01:21.348440",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Address",
+    "query": "MARACA FRUIT PROCESSING COMPANY registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:01:28.371909",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Address",
+    "query": "MARACA FRUIT PROCESSING COMPANY registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:01:34.360036",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Address",
+    "query": "MARACA FRUIT PROCESSING COMPANY head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:01:41.111488",
+    "status": "results_found"
+  },
+  {
+    "seller": "MARACA FRUIT PROCESSING COMPANY",
+    "field": "Phone",
+    "query": "MARACA FRUIT PROCESSING COMPANY phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://organology.net/instrument/maracas/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-overview/",
+      "https://drumpercussioncenter.com/percussion-instruments/maracas-history/",
+      "https://www.masterclass.com/articles/guide-to-maracas",
+      "https://maraca.in/"
+    ],
+    "timestamp": "2026-08-25T12:01:46.423844",
+    "status": "results_found"
+  },
+  {
+    "business": "SachdevaEnterprises1",
+    "field": "Business Name",
+    "value": "SachdevaEnterprises1",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AS0TY3LN5YBCY&asin=B06Y6323VB&ref_=dp_merchant_link",
+    "timestamp": "2026-08-25T12:02:02.371345"
+  },
+  {
+    "seller": "SachdevaEnterprises1",
+    "field": "Website",
+    "query": "SachdevaEnterprises1 official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://nrega.nic.in/netnrega/homest.aspx?state_code=07&state_name=DADRA%20&%20NAGAR%20HAVELI"
+    ],
+    "timestamp": "2026-08-25T12:02:03.596835",
+    "status": "results_found"
+  },
+  {
+    "seller": "SachdevaEnterprises1",
+    "field": "Legal Entity Name",
+    "query": "SachdevaEnterprises1 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044",
+      "https://www.zhihu.com/question/382486986"
+    ],
+    "timestamp": "2026-08-25T12:02:08.548594",
+    "status": "results_found"
+  },
+  {
+    "seller": "SachdevaEnterprises1",
+    "field": "PAN",
+    "query": "SachdevaEnterprises1 PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.zhihu.com/question/2058849029027632241"
+    ],
+    "timestamp": "2026-08-25T12:02:29.788825",
+    "status": "results_found"
+  },
+  {
+    "seller": "SachdevaEnterprises1",
+    "field": "GST",
+    "query": "SachdevaEnterprises1 GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/gst/sachdeva-enterprises-07gfdps6738k1zq/",
+      "https://piceapp.com/gst-number-search/sachdeva-enterprises-07ddwps4736m1zg/",
+      "https://piceapp.com/gst-number-search/sachdeva-enterprises-07gfdps6738k1zq/",
+      "https://www.knowyourgst.com/gst-number-search/sachdeva-enterprises-07GFDPS6738K1ZQ/",
+      "https://www.mastersindia.co/gst-search/?name=sachdeva-enterprises&gstin=07ADVFS4437R1ZX"
+    ],
+    "timestamp": "2026-08-25T12:02:56.387809",
+    "status": "results_found"
+  },
+  {
+    "seller": "SachdevaEnterprises1",
+    "field": "Owner",
+    "query": "SachdevaEnterprises1 director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.restrate.se/restaurant/pizzeria-galejan-orebro",
+      "https://www.ratsit.se/850402SSFZ00001-Pizzeria_Galejan",
+      "https://trakten.hk-r.se/pizzeria-gelejan---160589",
+      "https://restaurangmenyn.se/orebro/centrum-stortorget/pizzeria-galejan/13397",
+      "https://wanderboat.ai/restaurants/sweden/%C3%B6rebro-kommun/pizzeria-galejan/atSzkOSbRDakvYIf1Oi-wQ"
+    ],
+    "timestamp": "2026-08-25T12:03:48.608336",
+    "status": "results_found"
+  },
+  {
+    "seller": "SachdevaEnterprises1",
+    "field": "Address",
+    "query": "SachdevaEnterprises1 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11201439791",
+      "https://zhidao.baidu.com/question/584506097.html",
+      "https://zhidao.baidu.com/question/181286232024890084.html",
+      "https://www.zhihu.com/question/36359704",
+      "https://www.zhihu.com/question/273910441"
+    ],
+    "timestamp": "2026-08-25T12:03:51.591088",
+    "status": "results_found"
+  }
+]

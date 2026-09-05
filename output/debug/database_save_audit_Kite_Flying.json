@@ -1,0 +1,61 @@
+{
+  "category": "Kite Flying",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Ruhani Toys & Gift Gallery",
+      "database_id": 563,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Omkareshwar Traders",
+      "database_id": 564,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918989998686",
+      "email": "shriomkareshwar@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shriomkareshwar.org/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VERMANI FOODIES",
+      "database_id": 565,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "HAPPY CHEEKS PRIVATE LIMITED",
+      "database_id": 566,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

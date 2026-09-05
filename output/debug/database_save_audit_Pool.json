@@ -1,0 +1,61 @@
+{
+  "category": "Pool",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 578,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916825110011",
+      "email": "sales@volza.com",
+      "gst": "27AACFK0693D1ZJ",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 579,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910111642011",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MODGEN.",
+      "database_id": 580,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.modgen.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Staunch India Inc.",
+      "database_id": 581,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914909092026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.merriam-webster.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

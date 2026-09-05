@@ -1,0 +1,74 @@
+{
+  "category": "Make Up Brushes Tools",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 328,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919501020304",
+      "email": "info@rk.world",
+      "gst": "24ABIFR2700F1ZM",
+      "pan": "Not Found",
+      "website": "https://rk.world/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MAYKLEN",
+      "database_id": 329,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "WeBanga",
+      "database_id": 330,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Dressup Store.",
+      "database_id": 331,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919467352026",
+      "email": "interested@domainmarket.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.dressupstore.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ORGANIC AURA",
+      "database_id": 332,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+[
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B08D8J88X3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:23:56.351253"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kay.com/?msockid=05db4f1dc6926f1f164958d9c7946ea5",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-29T09:23:58.729113",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=05db4f1dc6926f1f164958d9c7946ea5",
+      "https://kayfashions.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/"
+    ],
+    "timestamp": "2026-08-29T09:24:10.716274",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Phone Number",
+    "value": "+919884261611",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kayfashions.in/",
+    "timestamp": "2026-08-29T09:24:13.564473"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Email Address",
+    "value": "info@kayfashions.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kayfashions.in/",
+    "timestamp": "2026-08-29T09:24:13.564574"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/23AACFK0693D2ZQ/kay-kay-overseas-corporation",
+      "https://gst.iadv.io/KAY-KAY-OVERSEAS-CORPORATION-32AACFK0693D1ZS/",
+      "https://gst.iadv.io/KAY-KAY-OVERSEAS-CORPORATION-27AACFK0693D1ZJ/",
+      "https://gst.unifers.ai/gst/30AACFK0693D1ZW/kay-kay-overseas-corporation"
+    ],
+    "timestamp": "2026-08-29T09:24:36.935700",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/kay-kay-overseas-corporation-27AACFK0693D1ZJ/",
+      "https://piceapp.com/gst-number-search/kay-kay-overseas-corporation-27aacfk0693d1zj/",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-27aacfk0693d1zj/",
+      "https://gst.jamku.app/gstin/27AACFK0693D1ZJ"
+    ],
+    "timestamp": "2026-08-29T09:25:11.012953",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=05db4f1dc6926f1f164958d9c7946ea5",
+      "https://kayfashions.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/"
+    ],
+    "timestamp": "2026-08-29T09:25:18.118360",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=05db4f1dc6926f1f164958d9c7946ea5",
+      "https://kayfashions.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/"
+    ],
+    "timestamp": "2026-08-29T09:25:35.499697",
+    "status": "results_found"
+  },
+  {
+    "business": "THE BEST TOY COMPANY",
+    "field": "Business Name",
+    "value": "THE BEST TOY COMPANY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2UWJ3IBX4F0CV&asin=B0F18MNB6C&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:25:49.095027"
+  },
+  {
+    "seller": "THE BEST TOY COMPANY",
+    "field": "Website",
+    "query": "THE BEST TOY COMPANY official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/best",
+      "https://dictionary.cambridge.org/dictionary/english/best"
+    ],
+    "timestamp": "2026-08-29T09:25:51.766929",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE BEST TOY COMPANY",
+    "field": "Legal Entity Name",
+    "query": "THE BEST TOY COMPANY company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/best",
+      "https://dictionary.cambridge.org/dictionary/english/best",
+      "https://www.bestundertaking.net/",
+      "https://bestundertaking.net/home2.aspx"
+    ],
+    "timestamp": "2026-08-29T09:26:03.181787",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE BEST TOY COMPANY",
+    "field": "Legal Entity Name",
+    "query": "THE BEST TOY COMPANY Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/best",
+      "https://dictionary.cambridge.org/dictionary/english/best",
+      "https://www.bestundertaking.net/",
+      "https://bestundertaking.net/home2.aspx"
+    ],
+    "timestamp": "2026-08-29T09:26:14.556398",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE BEST TOY COMPANY",
+    "field": "PAN",
+    "query": "THE BEST TOY COMPANY PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/best",
+      "https://dictionary.cambridge.org/dictionary/english/best",
+      "https://www.bestundertaking.net/",
+      "https://bestundertaking.net/home2.aspx"
+    ],
+    "timestamp": "2026-08-29T09:26:31.976426",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE BEST TOY COMPANY",
+    "field": "GST",
+    "query": "THE BEST TOY COMPANY GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/best",
+      "https://dictionary.cambridge.org/dictionary/english/best",
+      "https://www.bestundertaking.net/",
+      "https://bestundertaking.net/home2.aspx"
+    ],
+    "timestamp": "2026-08-29T09:27:32.221216",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE BEST TOY COMPANY",
+    "field": "Owner",
+    "query": "THE BEST TOY COMPANY director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/best",
+      "https://dictionary.cambridge.org/dictionary/english/best",
+      "https://www.bestundertaking.net/",
+      "https://bestundertaking.net/home2.aspx"
+    ],
+    "timestamp": "2026-08-29T09:27:34.085272",
+    "status": "results_found"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "Business Name",
+    "value": "Tavakkal E Commerce\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39I06RJHICJS2&asin=B0CNCY6G5K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:28:11.302825"
+  },
+  {
+    "seller": "Tavakkal E Commerce\u00ae",
+    "field": "Website",
+    "query": "Tavakkal E Commerce\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.chinacaj.net/i,16,90830,0.html",
+      "https://xueqiu.com/3831321341/305714823"
+    ],
+    "timestamp": "2026-08-29T09:28:14.030587",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tavakkal E Commerce\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Tavakkal E Commerce\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://time.is/CST",
+      "https://time.now/timezones/cst/",
+      "https://time-time.net/times/time-zones/usa-canada/current-central-time-cst.php",
+      "https://www.timeanddate.com/time/zones/cst"
+    ],
+    "timestamp": "2026-08-29T09:28:23.419275",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tavakkal E Commerce\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Tavakkal E Commerce\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hinhgaixinh.app/gai-xinh-khoe-vu/",
+      "https://thoitiet.tv/gai-khoe-num-a9131.html",
+      "https://www.sachhayonline.com/gai-xinh-vu-to-nude-a57480.html",
+      "https://heovl3x.net/tag/gai-xinh-khoe-vu/"
+    ],
+    "timestamp": "2026-08-29T09:28:34.019977",
+    "status": "results_found"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "Email Address",
+    "value": "cskh@hinhgaixinh.app",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://hinhgaixinh.app/gai-xinh-khoe-vu/",
+    "timestamp": "2026-08-29T09:28:35.318243"
+  },
+  {
+    "seller": "Tavakkal E Commerce\u00ae",
+    "field": "PAN",
+    "query": "Tavakkal E Commerce\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dowsilsealant.com.tw/",
+      "https://dowsilsealant.com.tw/ProductPage/knowledgeDetail-2F-86",
+      "https://dowsilsealant.com.tw/dowsil/about2_2-2F-1",
+      "https://dowsilsealant.com.tw/Silicone_Glass_Metal_GM_Neutral/searchDetail-2F-202"
+    ],
+    "timestamp": "2026-08-29T09:28:41.827617",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tavakkal E Commerce\u00ae",
+    "field": "PAN",
+    "query": "Tavakkal E Commerce\u00ae PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/tavakkal-e-commerce-33BELPB6973F1ZH/",
+      "https://tenderkart.in/gst-number-search/29BELPB6973F1Z6",
+      "https://piceapp.com/gst-number-search/tavakkal-e-commerce-33belpb6973f1zh/",
+      "https://www.knowyourgst.com/gst-number-search/tavakkal-e-commerce-07BELPB6973F1ZC/"
+    ],
+    "timestamp": "2026-08-29T09:28:46.917777",
+    "status": "results_found"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "GST Number",
+    "value": "33BELPB6973F1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/tavakkal-e-commerce-33BELPB6973F1ZH/",
+    "timestamp": "2026-08-29T09:28:47.638331"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "PAN Number",
+    "value": "BELPB6973F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/tavakkal-e-commerce-33BELPB6973F1ZH/",
+    "timestamp": "2026-08-29T09:28:47.638350"
+  },
+  {
+    "seller": "Tavakkal E Commerce\u00ae",
+    "field": "Owner",
+    "query": "Tavakkal E Commerce\u00ae director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/tavakkal-e-commerce-36belpb6973f1zb/",
+      "https://piceapp.com/gst-number-search/tavakkal-e-commerce-29belpb6973f1z6/",
+      "https://tenderkart.in/gst-number-search/29BELPB6973F1Z6",
+      "https://www.knowyourgst.com/gst-number-search/tavakkal-e-commerce-06BELPB6973F1ZE/"
+    ],
+    "timestamp": "2026-08-29T09:28:52.352299",
+    "status": "results_found"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/tavakkal-e-commerce-36belpb6973f1zb/",
+    "timestamp": "2026-08-29T09:28:54.635306"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/tavakkal-e-commerce-36belpb6973f1zb/",
+    "timestamp": "2026-08-29T09:28:54.644365"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/tavakkal-e-commerce-36belpb6973f1zb/",
+    "timestamp": "2026-08-29T09:28:54.644383"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/tavakkal-e-commerce-36belpb6973f1zb/",
+    "timestamp": "2026-08-29T09:28:54.644586"
+  },
+  {
+    "business": "Tavakkal E Commerce\u00ae",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/tavakkal-e-commerce-36belpb6973f1zb/",
+    "timestamp": "2026-08-29T09:28:54.644601"
+  },
+  {
+    "seller": "Tavakkal E Commerce\u00ae",
+    "field": "Owner",
+    "query": "Tavakkal E Commerce\u00ae founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.youtubekids.com/"
+    ],
+    "timestamp": "2026-08-29T09:29:02.587081",
+    "status": "results_found"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "Business Name",
+    "value": "Cubelelo\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2579AA9223CFN&asin=B09HH8CC7Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:29:05.800990"
+  },
+  {
+    "seller": "Cubelelo\u00ae",
+    "field": "Website",
+    "query": "Cubelelo\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.twitch.tv/",
+      "https://www.twitch.com/login"
+    ],
+    "timestamp": "2026-08-29T09:29:07.887356",
+    "status": "results_found"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "Website URL",
+    "value": "https://www.cubelelo.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cubelelo.in/",
+    "timestamp": "2026-08-29T09:29:16.765580"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "Email Address",
+    "value": "support@cubelelo.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cubelelo.in/",
+    "timestamp": "2026-08-29T09:29:19.420690"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "Phone Number",
+    "value": "+918349296989",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cubelelo.in/contact-us",
+    "timestamp": "2026-08-29T09:29:28.270146"
+  },
+  {
+    "seller": "Cubelelo\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Cubelelo\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.0800076666.com.tw/",
+      "https://www.0800076666.com.tw/Menu/MenuNew",
+      "https://chicken.0800076666.com.tw/FriedChicken",
+      "https://www.0800076666.com.tw/Stores/StoresLocation"
+    ],
+    "timestamp": "2026-08-29T09:29:32.848982",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cubelelo\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Cubelelo\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://artiongift.com/",
+      "https://artiongift.com/new/search/name.php",
+      "https://sseudamgift.com/",
+      "https://www.kidarigift.com/"
+    ],
+    "timestamp": "2026-08-29T09:29:46.819537",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cubelelo\u00ae",
+    "field": "PAN",
+    "query": "Cubelelo\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bluetooth.com/",
+      "https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-drivers-for-windows-10-and-windows-11.html",
+      "https://www.bluetooth.com/learn-about-bluetooth/tech-overview/",
+      "https://bluetoothexplained.com/"
+    ],
+    "timestamp": "2026-08-29T09:29:50.222497",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cubelelo\u00ae",
+    "field": "GST",
+    "query": "Cubelelo\u00ae GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/cubelelo-33aaicb3513c1zc/",
+      "https://www.knowyourgst.com/gst-number-search/cubelelo-33AAICB3513C1ZC/",
+      "https://www.knowyourgst.com/gst-number-search/cubelelo-06AAICB3513C1Z9/",
+      "https://www.knowyourgst.com/gst-number-search/cubelelo-22AAICB3513C1ZF/"
+    ],
+    "timestamp": "2026-08-29T09:30:08.347138",
+    "status": "results_found"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "GST Number",
+    "value": "33AAICB3513C1ZC",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/cubelelo-33aaicb3513c1zc/",
+    "timestamp": "2026-08-29T09:30:10.559651"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "PAN Number",
+    "value": "AAICB3513C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/cubelelo-33aaicb3513c1zc/",
+    "timestamp": "2026-08-29T09:30:10.559673"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/cubelelo-33aaicb3513c1zc/",
+    "timestamp": "2026-08-29T09:30:10.564616"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/cubelelo-33aaicb3513c1zc/",
+    "timestamp": "2026-08-29T09:30:10.564632"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/cubelelo-33aaicb3513c1zc/",
+    "timestamp": "2026-08-29T09:30:10.564639"
+  },
+  {
+    "business": "Cubelelo\u00ae",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/cubelelo-33aaicb3513c1zc/",
+    "timestamp": "2026-08-29T09:30:10.564643"
+  },
+  {
+    "seller": "Cubelelo\u00ae",
+    "field": "Owner",
+    "query": "Cubelelo\u00ae director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cubelelo/__G1VA0EE7H2VZPOqJHQLjn19aQWCTBLraF3TE68_7hOc/founders-and-board-of-directors",
+      "https://inc42.com/person/jainjainendra/",
+      "https://tracxn.com/d/people/jainendra-jain/__B93L6rBbX7EjmAPZkOZfjEfkrhhpnYcHpWH1_Qa5ElU"
+    ],
+    "timestamp": "2026-08-29T09:30:16.649301",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cubelelo\u00ae",
+    "field": "Owner",
+    "query": "Cubelelo\u00ae founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.arb6.com/%D8%A3%D8%B3%D8%B3-%D9%88%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%88%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%81/",
+      "https://uomus.edu.iq/img/lectures21/MUCLecture_2024_12646505.pdf",
+      "https://albawaabh.com/%D8%A3%D8%B3%D8%B3-%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85/",
+      "https://sedramedia.com/ar/%D9%85%D8%A8%D8%A7%D8%AF%D8%A6-%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83%D9%8A/"
+    ],
+    "timestamp": "2026-08-29T09:30:26.386099",
+    "status": "results_found"
+  }
+]

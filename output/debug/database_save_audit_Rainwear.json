@@ -1,0 +1,35 @@
+{
+  "category": "Rainwear",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+      "database_id": 1411,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919054794569",
+      "email": "citizenkolkata@gmail.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Dollar Industries Ltd.",
+      "database_id": 1412,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "investors@dollarglobal.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

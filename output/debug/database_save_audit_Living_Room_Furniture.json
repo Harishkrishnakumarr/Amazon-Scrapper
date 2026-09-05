@@ -1,0 +1,61 @@
+{
+  "category": "Living Room Furniture",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "New vansh furniture",
+      "database_id": 199,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915130222026",
+      "email": "support@mydukaan.io",
+      "gst": "09FCLPR2745M1ZR",
+      "pan": "Not Found",
+      "website": "https://mydukaan.io/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 200,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "info@retailez.co.in",
+      "gst": "29AALCR3173P1ZJ",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Featherlite Collections Bangalore",
+      "database_id": 201,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910000002026",
+      "email": "reachout@featherlitefurniture.com",
+      "gst": "29AAAFF5397H1Z3",
+      "pan": "Not Found",
+      "website": "https://featherlitefurniture.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Green Soul Ergonomics Private Limited",
+      "database_id": 202,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910800005020",
+      "email": "info@greensoul.online",
+      "gst": "Not Found",
+      "pan": "AAGCT6313C",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

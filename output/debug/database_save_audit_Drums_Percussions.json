@@ -1,0 +1,74 @@
+{
+  "category": "Drums Percussions",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 459,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "NoteKart",
+      "database_id": 460,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "VIINDER",
+      "database_id": 461,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918031178803",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.viinder.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 462,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "Not Found",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Rakshak Enterprise",
+      "database_id": 463,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910360360360",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://ad.doubleclick.net/",
+      "status": "Partially Verified"
+    }
+  ]
+}

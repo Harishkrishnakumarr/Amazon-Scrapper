@@ -1,0 +1,61 @@
+{
+  "category": "Professional Audio Systems",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 798,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "HAYDEN AUDIO",
+      "database_id": 799,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@hayden.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 800,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Corus Labs",
+      "database_id": 801,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@1mg.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.1mg.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

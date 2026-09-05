@@ -1,0 +1,123 @@
+[
+  {
+    "business": "FAMILY FOOTWEAR.",
+    "field": "Business Name",
+    "value": "FAMILY FOOTWEAR.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3T4RI3R97TPSI&asin=B0BYT95V22&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T12:00:06.788416"
+  },
+  {
+    "seller": "FAMILY FOOTWEAR.",
+    "field": "Website",
+    "query": "FAMILY FOOTWEAR. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.walkaroo.in/",
+      "https://www.walkaroo.in/collections/mens-sandals"
+    ],
+    "timestamp": "2026-09-02T12:00:08.871370",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAMILY FOOTWEAR.",
+    "field": "Legal Entity Name",
+    "query": "FAMILY FOOTWEAR. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/ss-family-footwear-enterprises-private-limited-cin-U46410DL2025PTC456771",
+      "https://tracxn.com/d/legal-entities/india/ss-family-footwear-enterprises-private-limited/__JGWozsRNkOtmkF04XVlBxlOqMI6TRD46a_8Q_KK0tKo",
+      "https://tracxn.com/d/legal-entities/india/ss-family-footwear-private-limited/__zDL5_Dy-NhdCQTVs9fw6B7-j6t9_Q6LGlF341aXhTK4",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-09-02T12:00:24.909007",
+    "status": "results_found"
+  },
+  {
+    "business": "FAMILY FOOTWEAR.",
+    "field": "Email Address",
+    "value": "ssfamilyfootwearenterprises@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/ss-family-footwear-enterprises-private-limited-cin-U46410DL2025PTC456771",
+    "timestamp": "2026-09-02T12:00:27.410444"
+  },
+  {
+    "business": "FAMILY FOOTWEAR.",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-family-footwear-enterprises-private-limited/__JGWozsRNkOtmkF04XVlBxlOqMI6TRD46a_8Q_KK0tKo",
+    "timestamp": "2026-09-02T12:00:28.940039"
+  },
+  {
+    "business": "FAMILY FOOTWEAR.",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-family-footwear-enterprises-private-limited/__JGWozsRNkOtmkF04XVlBxlOqMI6TRD46a_8Q_KK0tKo",
+    "timestamp": "2026-09-02T12:00:28.940059"
+  },
+  {
+    "business": "FAMILY FOOTWEAR.",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-family-footwear-enterprises-private-limited/__JGWozsRNkOtmkF04XVlBxlOqMI6TRD46a_8Q_KK0tKo",
+    "timestamp": "2026-09-02T12:00:28.940064"
+  },
+  {
+    "business": "FAMILY FOOTWEAR.",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-family-footwear-enterprises-private-limited/__JGWozsRNkOtmkF04XVlBxlOqMI6TRD46a_8Q_KK0tKo",
+    "timestamp": "2026-09-02T12:00:28.940069"
+  },
+  {
+    "seller": "FAMILY FOOTWEAR.",
+    "field": "Legal Entity Name",
+    "query": "FAMILY FOOTWEAR. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.epfguide.com/epfo-establishment-search/",
+      "https://lemreveal.com/data/india",
+      "https://www.infyner.com/mca-company-check"
+    ],
+    "timestamp": "2026-09-02T12:00:35.043578",
+    "status": "results_found"
+  },
+  {
+    "business": "FAMILY FOOTWEAR.",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T12:00:35.967186"
+  },
+  {
+    "seller": "FAMILY FOOTWEAR.",
+    "field": "PAN",
+    "query": "FAMILY FOOTWEAR. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://quicko.com/tools/verify-pan-details",
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-09-02T12:00:43.641418",
+    "status": "results_found"
+  }
+]

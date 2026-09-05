@@ -1,0 +1,707 @@
+[
+  {
+    "business": "SSNBooks",
+    "field": "Business Name",
+    "value": "SSNBooks",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/details/?seller=A3UD0B76WP6UEU&sshmPath=shipping-rates",
+    "timestamp": "2026-09-04T13:49:53.148892"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Website",
+    "query": "SSNBooks official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.dell.com/support/home/en-us?app=drivers&msockid=06846260689b6b2829c775aa69826a78",
+      "https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=8dgg4&msockid=06846260689b6b2829c775aa69826a78"
+    ],
+    "timestamp": "2026-09-04T13:49:55.311933",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Legal Entity Name",
+    "query": "SSNBooks company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T13:50:13.937687",
+    "status": "no_results"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Legal Entity Name",
+    "query": "SSNBooks Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T13:50:22.547601",
+    "status": "no_results"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "PAN",
+    "query": "SSNBooks PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T13:50:28.694358",
+    "status": "results_found"
+  },
+  {
+    "business": "SSNBooks",
+    "field": "Email Address",
+    "value": "gsd@utiitsl.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T13:50:35.239507"
+  },
+  {
+    "business": "SSNBooks",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T13:50:35.250032"
+  },
+  {
+    "business": "SSNBooks",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T13:50:35.250050"
+  },
+  {
+    "business": "SSNBooks",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T13:50:35.250065"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "PAN",
+    "query": "SSNBooks PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://forum.xda-developers.com/apps/magisk/module-nanomod-5-0-20170405-microg-t3584928"
+    ],
+    "timestamp": "2026-09-04T13:50:38.966217",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "GST",
+    "query": "SSNBooks GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S60-S69/S63/S63.6-/S63.601A",
+      "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S60-S69/S63/S63.6-/S63.641A",
+      "https://codes.sprypt.com/code/diagnoses/right-thumb-sprain",
+      "https://www.findacode.com/icd-10-cm/s63.601a-unspecified-sprain-right-thumb-initial-icd10cm-code.html"
+    ],
+    "timestamp": "2026-09-04T13:50:40.753877",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Owner",
+    "query": "SSNBooks director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T13:51:04.915014",
+    "status": "no_results"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Owner",
+    "query": "SSNBooks founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.librarything.com/work/114193/t/SSN",
+      "https://www.penguinrandomhouse.com/books/290057/tom-clancy-ssn-by-tom-clancy/",
+      "https://penguinrandomhousehighereducation.com/book/?isbn=9781101002414",
+      "https://ssnbooks.substack.com/about"
+    ],
+    "timestamp": "2026-09-04T13:51:16.292976",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Phone",
+    "query": "SSNBooks phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.energymadeeasy.gov.au/",
+      "https://www.service.nsw.gov.au/referral/compare-energy-plans-with-energy-made-easy",
+      "https://www.energy.gov.au/households/find-the-best-energy-deal",
+      "https://www.energymadeeasy.gov.au/plans/compare"
+    ],
+    "timestamp": "2026-09-04T13:51:18.148249",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Phone",
+    "query": "SSNBooks contact phone",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T13:51:41.872135",
+    "status": "no_results"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0F5P34QNX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T13:51:42.811720"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-04T13:51:50.782554",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909812&utm_medium=ad&utm_content=&utm_term=private%20limited%20company%20registration%20in%20india&utm_adgroup=1353501333030789&network=o&device=c&msclkid=a964a9c5c3ac16281437c35fbc15fc76&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20High%20CPC%20-%202023-G20658903333%20bing&utm_term=private%20limited%20company%20registration%20in%20india&utm_content=SP%20%20-%20PVT%20-%20HCPC",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=private%20limited%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=private%20limited%20registration&target_name=kwd-83769913535107:loc-90&placement=&keyword_id=private%20limited%20registration&msclkid=30c596d01fbb198f9dbafc4a6002e8b9",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-04T13:51:59.859438",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909812&utm_medium=ad&utm_content=&utm_term=private%20limited%20company%20registration%20in%20india&utm_adgroup=1353501333030789&network=o&device=c&msclkid=a964a9c5c3ac16281437c35fbc15fc76&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20High%20CPC%20-%202023-G20658903333%20bing&utm_term=private%20limited%20company%20registration%20in%20india&utm_content=SP%20%20-%20PVT%20-%20HCPC",
+    "timestamp": "2026-09-04T13:52:03.666264"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=private%20limited%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=private%20limited%20registration&target_name=kwd-83769913535107:loc-90&placement=&keyword_id=private%20limited%20registration&msclkid=30c596d01fbb198f9dbafc4a6002e8b9",
+    "timestamp": "2026-09-04T13:52:07.628501"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T13:52:11.342585"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T13:52:11.342610"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T13:52:11.342617"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T13:52:11.342621"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-38299350-impossible-de-me-connecter-a-canva-avec-mail-outlook",
+      "https://forums.commentcamarche.net/forum/affich-38299352-impossible-de-recevoir-le-code-verif-canva",
+      "https://forums.commentcamarche.net/forum/affich-37536445-canva-document-termine-et-apres"
+    ],
+    "timestamp": "2026-09-04T13:52:16.394094",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.easepdf.com/es/topics/save-word-as-pdf.html",
+      "https://www.easepdf.com/cn/topics/convert-pdf-to-word-free.html",
+      "https://www.easepdf.com/ar/topics/save-word-as-pdf.html",
+      "https://www.easepdf.com/ja/pdf-to-word/"
+    ],
+    "timestamp": "2026-09-04T13:52:26.980694",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/"
+    ],
+    "timestamp": "2026-09-04T13:52:34.350823",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-09-04T13:52:37.127419"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-09-04T13:52:37.127453"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.affluense.ai/profile/aparesh-agarwal-retailez-private-limited-16c092",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-04T13:52:42.467941",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.bookmyshow.com/explore/events-today",
+      "https://allevents.in/",
+      "https://in.bookmyshow.com/patna/venue-list",
+      "https://happeningnext.com/"
+    ],
+    "timestamp": "2026-09-04T13:52:49.549036",
+    "status": "results_found"
+  },
+  {
+    "business": "Sunrise Book store",
+    "field": "Business Name",
+    "value": "Sunrise Book store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AAEHXJUTUR97E&isAmazonFulfilled=0&asin=0553275593&ref_=olp_merch_name_4",
+    "timestamp": "2026-09-04T13:52:59.403201"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Website",
+    "query": "Sunrise Book store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588"
+    ],
+    "timestamp": "2026-09-04T13:53:02.006377",
+    "status": "results_found"
+  },
+  {
+    "business": "Sunrise Book store",
+    "field": "Website URL",
+    "value": "https://www.sunrisebookstore.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sunrisebookstore.com/",
+    "timestamp": "2026-09-04T13:53:05.944884"
+  },
+  {
+    "business": "Sunrise Book store",
+    "field": "Email Address",
+    "value": "sunrisebooks.shine@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sunrisebookstore.com/",
+    "timestamp": "2026-09-04T13:53:08.366614"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Legal Entity Name",
+    "query": "Sunrise Book store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:53:19.929292",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "PAN",
+    "query": "Sunrise Book store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:53:39.193776",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "GST",
+    "query": "Sunrise Book store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:53:52.966857",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "GST",
+    "query": "Sunrise Book store GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:54:04.654617",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Owner",
+    "query": "Sunrise Book store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:54:10.801060",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Owner",
+    "query": "Sunrise Book store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:54:24.728853",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Address",
+    "query": "Sunrise Book store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:54:27.382749",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Address",
+    "query": "Sunrise Book store registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:54:42.951245",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Phone",
+    "query": "Sunrise Book store phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:54:44.548996",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sunrise Book store",
+    "field": "Phone",
+    "query": "Sunrise Book store contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/sun/",
+      "https://www.timeanddate.com/astronomy/@12684588",
+      "https://sunrise-sunset.org/in/himayatnagar",
+      "https://sunrise.am/countries/india/"
+    ],
+    "timestamp": "2026-09-04T13:54:55.863383",
+    "status": "results_found"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "Business Name",
+    "value": "Peacockbooks",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2ILJE07BPEH0H&isAmazonFulfilled=0&asin=0874771013&ref_=olp_merch_name_5",
+    "timestamp": "2026-09-04T13:55:01.434184"
+  },
+  {
+    "business": "Peacockbooks",
+    "field": "Phone Number",
+    "value": "+919414952544",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2ILJE07BPEH0H&isAmazonFulfilled=0&asin=0874771013&ref_=olp_merch_name_5",
+    "timestamp": "2026-09-04T13:55:01.434214"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Website",
+    "query": "Peacockbooks official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.canva.com/ko_kr/draw/?msockid=06846260689b6b2829c775aa69826a78",
+      "https://ko.wikihow.com/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-%EA%B7%B8%EB%A6%BC%ED%8C%90-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95"
+    ],
+    "timestamp": "2026-09-04T13:55:05.016783",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Legal Entity Name",
+    "query": "Peacockbooks company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/org/peacock-books/293ebe4cdd",
+      "https://find-and-update.company-information.service.gov.uk/company/10642613/filing-history",
+      "https://find-and-update.company-information.service.gov.uk/company/10642613",
+      "https://www.knowyourgst.com/gst-number-search/peacock-books-international-07BLBPP0649B1ZG/"
+    ],
+    "timestamp": "2026-09-04T13:55:27.318355",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "PAN",
+    "query": "Peacockbooks PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "http://peacockbooks.in/",
+      "https://peacockbooks.com/pages/contact",
+      "https://peacockbooks.com/"
+    ],
+    "timestamp": "2026-09-04T13:55:41.400902",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "PAN",
+    "query": "Peacockbooks PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://manaui.com/how-to-make-simple-cook-island-style-ika-mata/",
+      "https://www.196flavors.com/cook-islands-ika-mata/",
+      "https://pacificislandrecipe.com/ika-mata/",
+      "https://recipebuster.com/recipe/how-to-prepare-the-cook-islands-famous-ika-mata-dish/"
+    ],
+    "timestamp": "2026-09-04T13:55:49.121407",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "GST",
+    "query": "Peacockbooks GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/",
+      "https://www.streetinsider.com/",
+      "https://recordsfinder.com/arrest/"
+    ],
+    "timestamp": "2026-09-04T13:55:50.697316",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "GST",
+    "query": "Peacockbooks GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kaskus.co.id/post/64a408fc26416c27216aad88",
+      "https://m.kaskus.co.id/thread/000000000000000017014967/nonton-bokep--sakit-jiwa",
+      "https://m.kaskus.co.id/thread/5937d3f096bde6e3588b456b/kembaran-artis-indonesia-yang-mirip-dengan-bintang-jav/",
+      "https://www.kaskus.co.id/thread/67c023fb03f4fd95f6004db0/kasus-viral-ibu-guru-salsa-fakta-klarifikasi-dan-implikasi-hukum"
+    ],
+    "timestamp": "2026-09-04T13:56:06.058159",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Owner",
+    "query": "Peacockbooks director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://discussionschinese.apple.com/thread/250113158",
+      "https://discussionschinese.apple.com/thread/94473"
+    ],
+    "timestamp": "2026-09-04T13:56:08.212762",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Owner",
+    "query": "Peacockbooks founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tankmate.co.nz/",
+      "https://tankmate.co.nz/products/tankmate-r3-tank-level-sensor-wifi",
+      "https://tankmate.co.nz/collections/all",
+      "https://tankmate.co.nz/products/tankmate-r3-tank-level-sensor-lte"
+    ],
+    "timestamp": "2026-09-04T13:56:17.541637",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Address",
+    "query": "Peacockbooks registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ja.hwlibre.com/tm1637/",
+      "https://www.ekit-tech.com/?p=7601",
+      "https://akizukidenshi.com/catalog/g/g113224/",
+      "https://www.denshi.club/cookbook/output/led/7seg/7led74-tm1637.html"
+    ],
+    "timestamp": "2026-09-04T13:56:23.892555",
+    "status": "results_found"
+  },
+  {
+    "seller": "Peacockbooks",
+    "field": "Email",
+    "query": "Peacockbooks email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kbb.com/toyota/camry/2019/?msockid=06846260689b6b2829c775aa69826a78",
+      "https://www.autotrader.com/cars-for-sale/2019/toyota/camry?msockid=06846260689b6b2829c775aa69826a78",
+      "https://www.truecar.com/used-cars-for-sale/listings/toyota/camry/year-2019/location-seattle-wa/",
+      "https://www.carvana.com/cars/2019-toyota-camry?msockid=06846260689b6b2829c775aa69826a78"
+    ],
+    "timestamp": "2026-09-04T13:56:44.664866",
+    "status": "results_found"
+  }
+]

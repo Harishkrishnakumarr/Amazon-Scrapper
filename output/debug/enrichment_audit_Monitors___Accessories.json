@@ -1,0 +1,910 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0BSLRB8NJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:52:13.160896"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T13:52:16.141688",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T13:52:18.517793"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T13:52:19.557048"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:52:25.457237",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T13:52:30.067839"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:52:31.524689",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:52:39.300620",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:52:46.065593",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:52:53.124925",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:52:58.702784",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:53:08.761665",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:53:17.509015",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:53:18.938893",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:53:25.018265",
+    "status": "results_found"
+  },
+  {
+    "business": "Infomatica Store",
+    "field": "Business Name",
+    "value": "Infomatica Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3T6O14S5QBS2L&asin=B09GMF2PY5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:53:29.314223"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Website",
+    "query": "Infomatica Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/"
+    ],
+    "timestamp": "2026-08-26T13:53:30.943760",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Legal Entity Name",
+    "query": "Infomatica Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:53:40.706890",
+    "status": "results_found"
+  },
+  {
+    "business": "Infomatica Store",
+    "field": "Billing Address",
+    "value": "a-143, 6th floor, sovereign corporate tower, sector- 136, noida, uttar pradesh (201305)",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+    "timestamp": "2026-08-26T13:53:45.967766"
+  },
+  {
+    "business": "Infomatica Store",
+    "field": "City",
+    "value": "uttar pradesh ()",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+    "timestamp": "2026-08-26T13:53:45.967789"
+  },
+  {
+    "business": "Infomatica Store",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+    "timestamp": "2026-08-26T13:53:45.967795"
+  },
+  {
+    "business": "Infomatica Store",
+    "field": "Pincode",
+    "value": "201305",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+    "timestamp": "2026-08-26T13:53:45.967799"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Legal Entity Name",
+    "query": "Infomatica Store Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:53:52.771805",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "PAN",
+    "query": "Infomatica Store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:53:58.375093",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "PAN",
+    "query": "Infomatica Store PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:54:08.495049",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "GST",
+    "query": "Infomatica Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:54:13.419748",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "GST",
+    "query": "Infomatica Store GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:54:24.662074",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Owner",
+    "query": "Infomatica Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:54:29.244988",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Owner",
+    "query": "Infomatica Store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:54:37.902714",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Phone",
+    "query": "Infomatica Store phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html"
+    ],
+    "timestamp": "2026-08-26T13:54:44.918048",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Phone",
+    "query": "Infomatica Store contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:54:55.832297",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Email",
+    "query": "Infomatica Store email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:55:01.361056",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infomatica Store",
+    "field": "Email",
+    "query": "Infomatica Store contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.informatica.com/",
+      "https://www.geeksforgeeks.org/dbms/introduction-to-informatica/",
+      "https://www.informatica.com/platform.html",
+      "https://www.guru99.com/introduction-informatica.html"
+    ],
+    "timestamp": "2026-08-26T13:55:11.364456",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuTrust",
+    "field": "Business Name",
+    "value": "AccuTrust",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ASHYJV5V2HXAH&asin=B0G2RXZNTW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:55:16.248158"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "Website",
+    "query": "AccuTrust official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909"
+    ],
+    "timestamp": "2026-08-26T13:55:17.660505",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuTrust",
+    "field": "Website URL",
+    "value": "https://www.1mg.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.1mg.com/drugs/acotrust-tablet-337909",
+    "timestamp": "2026-08-26T13:55:41.881296"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "Legal Entity Name",
+    "query": "AccuTrust company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/",
+      "https://accutrustfinancial.com/"
+    ],
+    "timestamp": "2026-08-26T13:55:52.641556",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuTrust",
+    "field": "Phone Number",
+    "value": "+919496799590",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.accutrust.in/",
+    "timestamp": "2026-08-26T13:55:53.200764"
+  },
+  {
+    "business": "AccuTrust",
+    "field": "Email Address",
+    "value": "consult@accutrust.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.accutrust.in/",
+    "timestamp": "2026-08-26T13:55:53.200950"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "Legal Entity Name",
+    "query": "AccuTrust Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/",
+      "https://accutrustfinancial.com/"
+    ],
+    "timestamp": "2026-08-26T13:56:03.368147",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "PAN",
+    "query": "AccuTrust PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/",
+      "https://accutrustfinancial.com/"
+    ],
+    "timestamp": "2026-08-26T13:56:07.800463",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "PAN",
+    "query": "AccuTrust PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/",
+      "https://accutrustfinancial.com/"
+    ],
+    "timestamp": "2026-08-26T13:56:21.251002",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "GST",
+    "query": "AccuTrust GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/",
+      "https://accutrustfinancial.com/"
+    ],
+    "timestamp": "2026-08-26T13:56:22.833662",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "Owner",
+    "query": "AccuTrust director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/",
+      "https://accutrustfinancial.com/"
+    ],
+    "timestamp": "2026-08-26T13:56:41.453067",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "Address",
+    "query": "AccuTrust registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/",
+      "https://accutrustfinancial.com/"
+    ],
+    "timestamp": "2026-08-26T13:57:02.225948",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuTrust",
+    "field": "Address",
+    "query": "AccuTrust registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.accutrust.in/",
+      "https://www.1mg.com/drugs/acotrust-tablet-337909",
+      "https://accutrustdiagnostics.in/"
+    ],
+    "timestamp": "2026-08-26T13:57:12.873650",
+    "status": "results_found"
+  },
+  {
+    "business": "xtronicsapp",
+    "field": "Business Name",
+    "value": "xtronicsapp",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARTB0UJSIZQT0&asin=B0DCW28VCS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:57:13.729998"
+  },
+  {
+    "seller": "xtronicsapp",
+    "field": "Website",
+    "query": "xtronicsapp official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.theserverside.com/answer/What-are-some-of-the-disadvantages-of-microservices",
+      "https://www.theserverside.com/tip/How-the-back-ends-for-front-ends-pattern-works"
+    ],
+    "timestamp": "2026-08-26T13:57:16.449960",
+    "status": "results_found"
+  },
+  {
+    "seller": "xtronicsapp",
+    "field": "Legal Entity Name",
+    "query": "xtronicsapp company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.quickcompany.in/trademarks/6447765-xtronicsapp",
+      "https://xtronicsapp.com/",
+      "https://xtronicsapp.com/about-us/",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-26T13:57:35.948434",
+    "status": "results_found"
+  },
+  {
+    "seller": "xtronicsapp",
+    "field": "PAN",
+    "query": "xtronicsapp PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://xtronicsapp.com/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T13:57:46.843799",
+    "status": "results_found"
+  },
+  {
+    "business": "xtronicsapp",
+    "field": "Phone Number",
+    "value": "+919945518340",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://xtronicsapp.com/",
+    "timestamp": "2026-08-26T13:57:50.793874"
+  },
+  {
+    "business": "xtronicsapp",
+    "field": "Email Address",
+    "value": "xtronicsapps@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://xtronicsapp.com/",
+    "timestamp": "2026-08-26T13:57:50.796832"
+  },
+  {
+    "seller": "xtronicsapp",
+    "field": "PAN",
+    "query": "xtronicsapp PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738"
+    ],
+    "timestamp": "2026-08-26T13:57:54.694880",
+    "status": "results_found"
+  },
+  {
+    "seller": "xtronicsapp",
+    "field": "GST",
+    "query": "xtronicsapp GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Online%20brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Online%20brand%20registration&target_name=kwd-83976071688703:loc-90&placement=&keyword_id=Online%20brand%20registration&msclkid=be578ca96733128611d0e627c4a06dd9",
+      "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Online%20brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Online%20brand%20registration&target_name=kwd-83976071688703:loc-90&placement=&keyword_id=Online%20brand%20registration&msclkid=ba36077aaf8d16103fd86df40c1eb309"
+    ],
+    "timestamp": "2026-08-26T13:58:03.946991",
+    "status": "results_found"
+  },
+  {
+    "seller": "xtronicsapp",
+    "field": "GST",
+    "query": "xtronicsapp GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://xtronicsapp.com/",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/",
+      "https://taxgst.in/gst-number-verification/"
+    ],
+    "timestamp": "2026-08-26T13:58:09.714121",
+    "status": "results_found"
+  },
+  {
+    "seller": "xtronicsapp",
+    "field": "Owner",
+    "query": "xtronicsapp director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://xtronicsapp.com/about-us/",
+      "https://trademarking.in/details/Xtronicsapp-6447765.html",
+      "https://apptronik.com/company/leadership",
+      "https://exa.ai/websets/directory/apptronik-executives"
+    ],
+    "timestamp": "2026-08-26T13:58:19.770077",
+    "status": "results_found"
+  },
+  {
+    "business": "X4Cart",
+    "field": "Business Name",
+    "value": "X4Cart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1V7ZM32AEQ8C&asin=B0FH2Z8K6X&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:59:47.504318"
+  },
+  {
+    "seller": "X4Cart",
+    "field": "Website",
+    "query": "X4Cart official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.xcaret.com/en/parks-and-tours/xplor-fuego-admission/?msclkid=293ffb4dd9e51aec8a8d91c37a1a8310&utm_source=bing&utm_medium=cpc&utm_campaign=mx-3-con-local-xpf&utm_term=xplor%20cancun&utm_content=xplor%20fuego%20-%20english",
+      "https://xcaret-park-tickets.cancuntickets.com/?ci=2&cm=555850946_1306221122410458_c_o_visit%20xcaret%20park_p_{extensionid}&msclkid=ea8706b4fb83175e4cfa6c3a587c9301&utm_source=bing&utm_medium=cpc&utm_campaign=Cancun%20-%20Xcaret%20Park%20-%20English%20-%20All%20-%20Search%20-%20All%20-%20All%20-%20cid2445&utm_term=visit%20xcaret%20park&utm_content=Tickets%20-%20Broad%20-%20English%20-%20All"
+    ],
+    "timestamp": "2026-08-26T13:59:52.386360",
+    "status": "results_found"
+  },
+  {
+    "seller": "X4Cart",
+    "field": "Legal Entity Name",
+    "query": "X4Cart company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.disneyplus.com/browse/entity-fd685b3a-8542-47cb-baf0-f626c110d5bb?msockid=2af245ecccd262c7281c522dcd7a6341",
+      "https://www.justwatch.com/au/tv-show/full-house",
+      "https://www.justwatch.com/us/tv-show/full-house",
+      "https://www.primevideo.com/detail/0MHCU4JTU9GL628F4A81ZGHW7M/"
+    ],
+    "timestamp": "2026-08-26T14:00:06.917524",
+    "status": "results_found"
+  },
+  {
+    "seller": "X4Cart",
+    "field": "Legal Entity Name",
+    "query": "X4Cart Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/67471-empty-recycle-bin-windows-10-a.html",
+      "https://www.tenforums.com/performance-maintenance/160422-recycle-bin-folder.html",
+      "https://forums.commentcamarche.net/forum/affich-30213681-probleme-recycle-bin",
+      "https://forums.commentcamarche.net/forum/affich-10671128-supprimer-fichiers-dans-c-recycle-bin"
+    ],
+    "timestamp": "2026-08-26T14:00:14.241134",
+    "status": "results_found"
+  },
+  {
+    "seller": "X4Cart",
+    "field": "PAN",
+    "query": "X4Cart PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://search.google/",
+      "https://search.google/intl/en-IN/"
+    ],
+    "timestamp": "2026-08-26T14:00:21.823377",
+    "status": "results_found"
+  },
+  {
+    "seller": "X4Cart",
+    "field": "PAN",
+    "query": "X4Cart PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-26T14:00:29.277906",
+    "status": "results_found"
+  },
+  {
+    "seller": "X4Cart",
+    "field": "GST",
+    "query": "X4Cart GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+      "https://www.knowyourgst.com/gst-number-search/x4cart-23BSZPK3016J1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/x4cart-06BSZPK3016J1ZD/",
+      "https://www.falconebiz.com/gst/GST-NUMBER-OF-X4CART-INDIA-PRIVATE-LIMITED-U46205MP2022PTC063814"
+    ],
+    "timestamp": "2026-08-26T14:00:33.748175",
+    "status": "results_found"
+  },
+  {
+    "business": "X4Cart",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.757812"
+  },
+  {
+    "business": "X4Cart",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.758395"
+  },
+  {
+    "business": "X4Cart",
+    "field": "GST Number",
+    "value": "23BSZPK3016J1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.759496"
+  },
+  {
+    "business": "X4Cart",
+    "field": "PAN Number",
+    "value": "BSZPK3016J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.759511"
+  },
+  {
+    "business": "X4Cart",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.766542"
+  },
+  {
+    "business": "X4Cart",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.766558"
+  },
+  {
+    "business": "X4Cart",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.766562"
+  },
+  {
+    "business": "X4Cart",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/x4cart-23bszpk3016j1zh/",
+    "timestamp": "2026-08-26T14:00:36.766566"
+  },
+  {
+    "seller": "X4Cart",
+    "field": "Owner",
+    "query": "X4Cart director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.datanyze.com/companies/x4cart/556439198",
+      "https://www.indiafilings.com/search/anchal-kesharwani-din-09825528",
+      "https://www.thecompanycheck.com/people/x4cart-india/U46205MP2022PTC063814",
+      "https://tracxn.com/d/legal-entities/india/x4cart-india-private-limited/__GRNP63ZGd7kkyiLJ73-zObCOvwSNSIX-_0Poff4kg0Q"
+    ],
+    "timestamp": "2026-08-26T14:00:42.664991",
+    "status": "results_found"
+  }
+]

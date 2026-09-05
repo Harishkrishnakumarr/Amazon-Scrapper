@@ -1,0 +1,61 @@
+{
+  "category": "Car Tyres & Rims",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "LOVMOTO",
+      "database_id": 989,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "121@taxlegit.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VALORACE INDIA PRIVATE LIMITED",
+      "database_id": 990,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916305014334",
+      "email": "team@qorpiq.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://qorpiq.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Elyssion Designs",
+      "database_id": 1021,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918009378426",
+      "email": "Not Found",
+      "gst": "06AAFCE1472L1ZK",
+      "pan": "AAFCE1472L",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+      "database_id": 1022,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ffice07@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

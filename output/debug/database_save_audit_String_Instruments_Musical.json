@@ -1,0 +1,74 @@
+{
+  "category": "String Instruments Musical",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 442,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "NoteKart",
+      "database_id": 443,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911202612026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.notekart.co.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KHUSHWANI-ENTERPRISE",
+      "database_id": 444,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911017840051",
+      "email": "Not Found",
+      "gst": "07EQYPK6121E1ZK",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Musee Musical Since 1842",
+      "database_id": 445,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912646612027",
+      "email": "Not Found",
+      "gst": "29AAAPH6817L1ZG",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "CHENNAI MUSICALS",
+      "database_id": 446,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919600142602",
+      "email": "support@chennaimusicals.com",
+      "gst": "33BHJPK6769D1Z6",
+      "pan": "Not Found",
+      "website": "https://www.chennaimusicals.com/",
+      "status": "Verified"
+    }
+  ]
+}

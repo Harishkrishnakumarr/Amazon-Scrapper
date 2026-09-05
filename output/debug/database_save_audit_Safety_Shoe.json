@@ -1,0 +1,74 @@
+{
+  "category": "Safety Shoe",
+  "records_before_save": 10,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1343,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918239685690",
+      "email": "support@taxadda.com",
+      "gst": "24AAJCC9783E1ZD",
+      "pan": "AAJCC9783E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Trident Safety LLP",
+      "database_id": 1344,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "sales@tridentsafety.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tridentsafety.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SIDDHII ENTERPRISES",
+      "database_id": 1344,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tridentsafety.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Excellent Engineering Enterprises.",
+      "database_id": 1345,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919994056651",
+      "email": "excellenteng@gmail.com",
+      "gst": "33AEDPY3829A1ZO",
+      "pan": "AEDPY3829A",
+      "website": "https://excellenteng.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "3GSAFETECH",
+      "database_id": 1346,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "08AETPA7295J1ZU",
+      "pan": "AETPA7295J",
+      "website": "https://www.tradeindia.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

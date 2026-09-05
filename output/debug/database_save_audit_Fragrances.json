@@ -1,0 +1,74 @@
+{
+  "category": "Fragrances",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 303,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "infogrp@indiaratings.co.in",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "HMT COSMETICS",
+      "database_id": 304,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910132970732",
+      "email": "info@hmtwatches.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Perfume Wiz\u2122",
+      "database_id": 305,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911500002026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.perfumenetwork.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BLACKYARD PARIS",
+      "database_id": 306,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914000532026",
+      "email": "blackyardparis@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.blackyardparis.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "C K Fashions",
+      "database_id": 307,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916854452024",
+      "email": "sales@gkfashionsindia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

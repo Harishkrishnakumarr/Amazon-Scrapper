@@ -1,0 +1,315 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AXOGFIT0PZZ7G&isAmazonFulfilled=1&asin=B016F79C78&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-03T15:53:11.406770"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.su.edu.om/ar/",
+      "https://www.su.edu.om/ar/student-gateway-ar/"
+    ],
+    "timestamp": "2026-09-03T15:53:13.814302",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-03T15:53:22.298297",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T15:53:23.924574"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T15:53:23.924620"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T15:53:23.924628"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T15:53:23.924634"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-03T15:53:27.702026"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=5da18a9655b21ffecf01e00f1f04b7e1&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=ee6d6ee3a1d4134e7d8e047aeb627a2a",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-03T15:53:36.380980",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-03T15:53:38.348188",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-03T15:53:42.037321"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-03T15:53:42.037365"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-03T15:53:45.081080",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/",
+      "https://desktop.github.com/download/",
+      "https://github.com/features/copilot"
+    ],
+    "timestamp": "2026-09-03T15:53:52.290131",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://game8.co/games/Persona-3-Reload/archives/471519",
+      "https://www.escapistmagazine.com/how-to-get-use-fallen-angel-wing-in-persona-3-reload/",
+      "https://dotesports.com/persona/news/how-to-get-fallen-angel-wing-in-persona-3-reload",
+      "https://www.playstationtrophies.org/game/persona-3-reload/guide/all-persona-items-and-legendary-weapons"
+    ],
+    "timestamp": "2026-09-03T15:54:02.810572",
+    "status": "results_found"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "Business Name",
+    "value": "Rey's Sparkle Pvt. Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2T6C6XJD99A72&asin=B06XJS9Y3K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-03T15:54:17.757457"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Website",
+    "query": "Rey's Sparkle Pvt. Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bmwpartsdeal.com/parts/bmw-set_oil_sump_oil_filter_auto_transm-24118612901.html",
+      "https://www.ecstuning.com/b-zf-parts/automatic-transmission-oil-pan-with-transmission-filter/24118612901~zf/?msockid=25e7db55ecbc69081e7fcc9ced6468ea"
+    ],
+    "timestamp": "2026-09-03T15:54:20.579029",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Legal Entity Name",
+    "query": "Rey's Sparkle Pvt. Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mihoyo.com/",
+      "https://launcher.mihoyo.com/",
+      "https://www.miyoushe.com/ys/",
+      "https://www.hoyoverse.com/zh-cn/"
+    ],
+    "timestamp": "2026-09-03T15:54:29.730921",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "PAN",
+    "query": "Rey's Sparkle Pvt. Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gstverify.co.in/search/",
+      "https://www.kanakkupillai.com/learn/pan-tan-and-gstin-of-a-company-by-name-online/",
+      "https://tracxn.com/d/legal-entities/india/reys-sparkle-private-limited/__zKG0GPB1XsDAN0-BCQHUB5PtLxrlmgYRfL0T3Mlh4Gw"
+    ],
+    "timestamp": "2026-09-03T15:54:48.298219",
+    "status": "results_found"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-03T15:54:51.215873"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-03T15:54:51.216958"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-03T15:54:51.216972"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Owner",
+    "query": "Rey's Sparkle Pvt. Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.google.co.in/",
+      "https://search.google/",
+      "https://ai.google/",
+      "https://about.google/company-info/"
+    ],
+    "timestamp": "2026-09-03T15:54:53.924953",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Owner",
+    "query": "Rey's Sparkle Pvt. Ltd founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "http://world-books.net/pr.jsp",
+      "https://worldbks.com/cn/",
+      "https://www.worldscientific.com/page/about/corporate-profile"
+    ],
+    "timestamp": "2026-09-03T15:55:08.362884",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Address",
+    "query": "Rey's Sparkle Pvt. Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ettoday.net/news/20260513/3165284.htm",
+      "https://uptogo.com.tw/%e6%ad%b7%e5%8f%b2/%e4%ba%ba%e7%89%a9%e5%82%b3%e8%a8%98/%e8%94%a3%e8%90%ac%e5%ae%89%e7%9c%9f%e7%9a%84%e6%98%af%e8%94%a3%e5%ae%b6%e4%ba%ba%e5%97%8e%ef%bc%9f/",
+      "https://www.gov.taipei/News_Content_Leader.aspx?n=5A0C91ADEE6E7C46&sms=7CAF6BD4D3E48630&s=5C77853F1AB78232",
+      "https://uptogo.com.tw/%E6%AD%B7%E5%8F%B2/%E4%BA%BA%E7%89%A9%E5%82%B3%E8%A8%98/%E8%94%A3%E8%90%AC%E5%AE%89%E5%AD%B8%E7%B6%93%E6%AD%B7%EF%BC%9F/"
+    ],
+    "timestamp": "2026-09-03T15:55:09.607071",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Email",
+    "query": "Rey's Sparkle Pvt. Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://note.com/mushizukan_note/n/na17defa50594",
+      "https://dic.pixiv.net/a/%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%E3%82%B4%E3%82%AD%E3%83%96%E3%83%AA%E3%83%90%E3%83%81",
+      "https://note.com/major_sedum5538/n/n9ce7f1eee684",
+      "https://konchumushi.com/4116/"
+    ],
+    "timestamp": "2026-09-03T15:55:26.415860",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "business": "WH Supply Co.",
+    "field": "Business Name",
+    "value": "WH Supply Co.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A16V3KU3O20ULF&asin=B0GWJ1W77L&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:27:57.981415"
+  },
+  {
+    "seller": "WH Supply Co.",
+    "field": "Website",
+    "query": "WH Supply Co. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://whsupply.se/",
+      "https://www.wh.com/en_global"
+    ],
+    "timestamp": "2026-09-02T20:28:00.034618",
+    "status": "results_found"
+  },
+  {
+    "seller": "WH Supply Co.",
+    "field": "Legal Entity Name",
+    "query": "WH Supply Co. company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.quickcompany.in/company",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T20:28:06.181702",
+    "status": "results_found"
+  },
+  {
+    "business": "WH Supply Co.",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:28:06.688666"
+  },
+  {
+    "business": "WH Supply Co.",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:28:06.688836"
+  },
+  {
+    "seller": "WH Supply Co.",
+    "field": "Legal Entity Name",
+    "query": "WH Supply Co. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://zauba.company/",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.quickcompany.in/company"
+    ],
+    "timestamp": "2026-09-02T20:28:12.330676",
+    "status": "results_found"
+  },
+  {
+    "seller": "WH Supply Co.",
+    "field": "PAN",
+    "query": "WH Supply Co. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gstverify.co.in/search/",
+      "https://www.kanakkupillai.com/learn/pan-tan-and-gstin-of-a-company-by-name-online/"
+    ],
+    "timestamp": "2026-09-02T20:28:17.633877",
+    "status": "results_found"
+  },
+  {
+    "business": "WH Supply Co.",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+    "timestamp": "2026-09-02T20:28:19.955544"
+  },
+  {
+    "business": "WH Supply Co.",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+    "timestamp": "2026-09-02T20:28:19.955557"
+  },
+  {
+    "seller": "WH Supply Co.",
+    "field": "Owner",
+    "query": "WH Supply Co. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.wintro.in/",
+      "https://www.companydetails.in/",
+      "https://companydata.com/business-owner-search/"
+    ],
+    "timestamp": "2026-09-02T20:28:21.278508",
+    "status": "results_found"
+  },
+  {
+    "seller": "WH Supply Co.",
+    "field": "Address",
+    "query": "WH Supply Co. registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/11909373",
+      "https://www.inspex.in/",
+      "https://entitysearch.us/",
+      "https://find-and-update.company-information.service.gov.uk/"
+    ],
+    "timestamp": "2026-09-02T20:28:56.957250",
+    "status": "results_found"
+  },
+  {
+    "seller": "WH Supply Co.",
+    "field": "Address",
+    "query": "WH Supply Co. registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/11909373",
+      "https://www.hkgbusiness.com/en/company/Wh-Supply-Limited",
+      "https://entitysearch.us/",
+      "https://www.ltddir.com/companies/often-fall-limited/"
+    ],
+    "timestamp": "2026-09-02T20:29:04.290389",
+    "status": "results_found"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "Business Name",
+    "value": "GOPAL.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1D3PUH0ATU3WA&asin=B0H7N2P192&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:29:08.809496"
+  },
+  {
+    "seller": "GOPAL.",
+    "field": "Website",
+    "query": "GOPAL. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.gopalnamkeen.com/",
+      "https://www.gopalnamkeen.com/board-of-directors"
+    ],
+    "timestamp": "2026-09-02T20:29:10.156657",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOPAL.",
+    "field": "Legal Entity Name",
+    "query": "GOPAL. company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:29:18.278600",
+    "status": "no_results"
+  },
+  {
+    "seller": "GOPAL.",
+    "field": "Legal Entity Name",
+    "query": "GOPAL. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/HOTEL-GOPAL-PRIVATE-LIMITED-U55101TN2022PTC152734",
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.gopalcorp.com/"
+    ],
+    "timestamp": "2026-09-02T20:29:19.785441",
+    "status": "results_found"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "Email Address",
+    "value": "i.anuganeshan13@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/HOTEL-GOPAL-PRIVATE-LIMITED-U55101TN2022PTC152734",
+    "timestamp": "2026-09-02T20:29:20.519792"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:29:20.748611"
+  },
+  {
+    "seller": "GOPAL.",
+    "field": "PAN",
+    "query": "GOPAL. PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T20:29:25.472773",
+    "status": "results_found"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T20:29:26.859987"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T20:29:26.860001"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T20:29:26.860005"
+  },
+  {
+    "seller": "GOPAL.",
+    "field": "PAN",
+    "query": "GOPAL. PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://my.gstzen.in/m/taxpayers/pan/ms-gopal-prasad-sah/AVWPS7693C/",
+      "https://www.falconebiz.com/director/11815925/GOPAL-SINGH",
+      "https://www.infyner.com/people-profile/gopal-das/00567828"
+    ],
+    "timestamp": "2026-09-02T20:29:28.818172",
+    "status": "results_found"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "GST Number",
+    "value": "20AVWPS7693C1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/ms-gopal-prasad-sah/AVWPS7693C/",
+    "timestamp": "2026-09-02T20:29:30.020267"
+  },
+  {
+    "business": "GOPAL.",
+    "field": "PAN Number",
+    "value": "AVWPS7693C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/ms-gopal-prasad-sah/AVWPS7693C/",
+    "timestamp": "2026-09-02T20:29:30.020277"
+  },
+  {
+    "seller": "GOPAL.",
+    "field": "Owner",
+    "query": "GOPAL. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gopalnamkeen.com/company#:~:text=Bipinbhai%20Vithalbhai%20Hadvani%20is%20the%20Founder%2C%20Chairman%2C%20and,Gopal%20Snacks%20emerge%20as%20India%E2%80%99s%20largest%20Gathiya%20manufacturer.",
+      "https://www.gopalnamkeen.com/board-of-directors",
+      "https://www.gopalnamkeen.com/company",
+      "https://www.stocklens.co.in/company/gopal-snacks"
+    ],
+    "timestamp": "2026-09-02T20:29:31.334413",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOPAL.",
+    "field": "Owner",
+    "query": "GOPAL. founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.gopalnamkeen.com/about-us",
+      "https://www.gopalnamkeen.com/board-of-directors",
+      "https://www.werisebyliftingothers.in/2024/08/biography-of-krishna-gopal-co-founder.html"
+    ],
+    "timestamp": "2026-09-02T20:29:35.340230",
+    "status": "results_found"
+  },
+  {
+    "business": "Saarya Purvansh Creations",
+    "field": "Business Name",
+    "value": "Saarya Purvansh Creations",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ULCWS1AAOXVL&asin=B0HCPKP33S&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:29:38.158136"
+  },
+  {
+    "seller": "Saarya Purvansh Creations",
+    "field": "Website",
+    "query": "Saarya Purvansh Creations official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://saarya.in/",
+      "https://saaryaonline.com/collections/all"
+    ],
+    "timestamp": "2026-09-02T20:29:39.818925",
+    "status": "results_found"
+  },
+  {
+    "seller": "Saarya Purvansh Creations",
+    "field": "Legal Entity Name",
+    "query": "Saarya Purvansh Creations company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://mcalookup.in/"
+    ],
+    "timestamp": "2026-09-02T20:29:45.349176",
+    "status": "results_found"
+  },
+  {
+    "business": "Saarya Purvansh Creations",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:29:45.765818"
+  },
+  {
+    "business": "Saarya Purvansh Creations",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:29:45.765927"
+  },
+  {
+    "seller": "Saarya Purvansh Creations",
+    "field": "Legal Entity Name",
+    "query": "Saarya Purvansh Creations Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-02T20:29:48.329570",
+    "status": "results_found"
+  },
+  {
+    "business": "Saarya Purvansh Creations",
+    "field": "Billing Address",
+    "value": "the company must have a registered office (commercial, residential, or virtual office) for receiving official correspondence. address proof and the pr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-02T20:29:51.175044"
+  },
+  {
+    "business": "Saarya Purvansh Creations",
+    "field": "City",
+    "value": "residential",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-02T20:29:51.175057"
+  },
+  {
+    "seller": "Saarya Purvansh Creations",
+    "field": "PAN",
+    "query": "Saarya Purvansh Creations PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gstverify.co.in/search/",
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-for-a-name-using-a-pan-number-a-step-by-step-guide"
+    ],
+    "timestamp": "2026-09-02T20:29:54.102945",
+    "status": "results_found"
+  },
+  {
+    "seller": "Saarya Purvansh Creations",
+    "field": "PAN",
+    "query": "Saarya Purvansh Creations PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-09-02T20:29:57.616246",
+    "status": "results_found"
+  },
+  {
+    "business": "Saarya Purvansh Creations",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:29:58.972750"
+  },
+  {
+    "business": "Saarya Purvansh Creations",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:29:58.972768"
+  },
+  {
+    "seller": "Saarya Purvansh Creations",
+    "field": "Owner",
+    "query": "Saarya Purvansh Creations director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-details/directors/raghav-9501640",
+      "https://www.registerkaro.in/company/saarya-lifestyle-private-limited-U18100DL2022PTC393688",
+      "https://www.thecompanycheck.com/company/saarya-lifestyle-private-limited/U18100DL2022PTC393688",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T20:30:00.779448",
+    "status": "results_found"
+  },
+  {
+    "seller": "Saarya Purvansh Creations",
+    "field": "Owner",
+    "query": "Saarya Purvansh Creations founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.karostartup.com/article/digangana-suryavanshi-co-founded-glamirk-sells-over-96000-products-within-a-week-of-launch",
+      "http://saarya.in/"
+    ],
+    "timestamp": "2026-09-02T20:30:08.136363",
+    "status": "results_found"
+  },
+  {
+    "business": "SERAH",
+    "field": "Business Name",
+    "value": "SERAH",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1XIMIMRW5W9B6&asin=B0GQPSF2Q5&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:30:09.550004"
+  },
+  {
+    "seller": "SERAH",
+    "field": "Website",
+    "query": "SERAH official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.serah.in/",
+      "https://serah.site/"
+    ],
+    "timestamp": "2026-09-02T20:30:11.061074",
+    "status": "results_found"
+  },
+  {
+    "business": "SERAH",
+    "field": "Website URL",
+    "value": "https://www.serah.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.serah.com/",
+    "timestamp": "2026-09-02T20:30:13.563792"
+  },
+  {
+    "seller": "SERAH",
+    "field": "Legal Entity Name",
+    "query": "SERAH company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/SERAH-TRAVEL-AND-TOURS-PRIVATE-LIMITED-U79110KL2025PTC093895#:~:text=SERAH%20TRAVEL%20AND%20TOURS%20PVT%20LTD%20company%20registration,number%2C%20email%2C%20website%2C%20gst%20details%20and%20more%20below.",
+      "https://www.falconebiz.com/company/SERAH-TRAVEL-AND-TOURS-PRIVATE-LIMITED-U79110KL2025PTC093895",
+      "https://www.quickcompany.in/company",
+      "https://piceapp.com/gst-number-search/serah-enterprises-33lwups6788j1z2/"
+    ],
+    "timestamp": "2026-09-02T20:30:18.039615",
+    "status": "results_found"
+  },
+  {
+    "business": "SERAH",
+    "field": "Email Address",
+    "value": "rt@serahtravel.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/SERAH-TRAVEL-AND-TOURS-PRIVATE-LIMITED-U79110KL2025PTC093895#:~:text=SERAH%20TRAVEL%20AND%20TOURS%20PVT%20LTD%20company%20registration,number%2C%20email%2C%20website%2C%20gst%20details%20and%20more%20below.",
+    "timestamp": "2026-09-02T20:30:18.534287"
+  },
+  {
+    "seller": "SERAH",
+    "field": "Legal Entity Name",
+    "query": "SERAH Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.setindiabiz.com/company-registration",
+      "https://www.quickcompany.in/company"
+    ],
+    "timestamp": "2026-09-02T20:30:21.308583",
+    "status": "results_found"
+  },
+  {
+    "business": "SERAH",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:30:21.557915"
+  },
+  {
+    "seller": "SERAH",
+    "field": "PAN",
+    "query": "SERAH PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html"
+    ],
+    "timestamp": "2026-09-02T20:30:25.252823",
+    "status": "results_found"
+  },
+  {
+    "seller": "SERAH",
+    "field": "PAN",
+    "query": "SERAH PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-for-a-name-using-a-pan-number-a-step-by-step-guide",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-09-02T20:30:27.798937",
+    "status": "results_found"
+  },
+  {
+    "business": "SERAH",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:30:29.104603"
+  },
+  {
+    "business": "SERAH",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:30:29.104620"
+  },
+  {
+    "seller": "SERAH",
+    "field": "Owner",
+    "query": "SERAH director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.werisebyliftingothers.in/2025/03/biography-of-serah-kuttukaran-john.html#:~:text=Serah%20%28Kuttukaran%29%20John%2C%20an%20entrepreneur%2C%20musician%2C%20and%20educator%2C,career%20to%20transforming%20the%20way%20children%20learn%20music.",
+      "https://www.werisebyliftingothers.in/2025/03/biography-of-serah-kuttukaran-john.html",
+      "https://www.mdniche.com/media_room_detail/5340",
+      "https://primeinsights.in/music-pandit/"
+    ],
+    "timestamp": "2026-09-02T20:30:30.374898",
+    "status": "results_found"
+  },
+  {
+    "seller": "SERAH",
+    "field": "Owner",
+    "query": "SERAH founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.werisebyliftingothers.in/2025/03/biography-of-serah-kuttukaran-john.html#:~:text=Serah%20%28Kuttukaran%29%20John%2C%20an%20entrepreneur%2C%20musician%2C%20and%20educator%2C,career%20to%20transforming%20the%20way%20children%20learn%20music.",
+      "https://www.werisebyliftingothers.in/2025/03/biography-of-serah-kuttukaran-john.html",
+      "https://www.musicpandit.com/about-us/serah-john/",
+      "https://www.brilliantread.com/interview-with-serah-john-entrepreneur-founder-and-ceo-at-music-pandit/"
+    ],
+    "timestamp": "2026-09-02T20:30:36.076949",
+    "status": "results_found"
+  },
+  {
+    "seller": "SERAH",
+    "field": "Address",
+    "query": "SERAH registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.serah.in/contact-us",
+      "https://www.falconebiz.com/company/SERAH-SOLUTIONS-PRIVATE-LIMITED-U74900TG2015PTC099642",
+      "https://www.serah.in/about-us",
+      "https://piceapp.com/gst-number-search/serah-enterprises-33lwups6788j1z2/"
+    ],
+    "timestamp": "2026-09-02T20:30:41.172853",
+    "status": "results_found"
+  },
+  {
+    "seller": "SERAH",
+    "field": "Address",
+    "query": "SERAH registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.serah.in/about-us",
+      "https://www.serah.in/contact-us",
+      "https://piceapp.com/gst-number-search/serah-enterprises-33lwups6788j1z2/",
+      "https://serahindia.com/"
+    ],
+    "timestamp": "2026-09-02T20:30:46.231664",
+    "status": "results_found"
+  },
+  {
+    "business": "SERAH",
+    "field": "Billing Address",
+    "value": "688/284, mth road, avadi, tamil nadu, tiruvallur, 600054",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://serahindia.com/",
+    "timestamp": "2026-09-02T20:30:48.882318"
+  },
+  {
+    "business": "SERAH",
+    "field": "City",
+    "value": "tiruvallur",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://serahindia.com/",
+    "timestamp": "2026-09-02T20:30:48.882331"
+  },
+  {
+    "business": "SERAH",
+    "field": "State",
+    "value": "Tamil Nadu",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://serahindia.com/",
+    "timestamp": "2026-09-02T20:30:48.882334"
+  },
+  {
+    "business": "SERAH",
+    "field": "Pincode",
+    "value": "600054",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://serahindia.com/",
+    "timestamp": "2026-09-02T20:30:48.882337"
+  }
+]

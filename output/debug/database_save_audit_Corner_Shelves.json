@@ -1,0 +1,74 @@
+{
+  "category": "Corner Shelves",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Dime Retails",
+      "database_id": 1677,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "sumituttam@gmail.com",
+      "gst": "33AIKPC2252Q1Z6",
+      "pan": "AIKPC2252Q",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Elcom Handicrafts",
+      "database_id": 1678,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918881069069",
+      "email": "mails@epch.com",
+      "gst": "03AAACE0251G1ZF",
+      "pan": "AAACE0251G",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Walia trader",
+      "database_id": 1679,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918091908990",
+      "email": "info@waliawipers.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://waliawipers.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1680,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DURASO DESIGNS\u2122",
+      "database_id": 1681,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@cbinsights.com",
+      "gst": "06ADIPV9406G1Z8",
+      "pan": "ADIPV9406G",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

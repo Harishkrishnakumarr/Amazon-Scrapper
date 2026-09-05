@@ -1,0 +1,48 @@
+{
+  "category": "Men'S Sandals & Floaters",
+  "records_before_save": 6,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1323,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "AAJCC8517E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Viraj Ent",
+      "database_id": 1324,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918065846249",
+      "email": "care@hexahealth.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://www.hexahealth.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "APPOO TRADING",
+      "database_id": 1325,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "gsd@utiitsl.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.falconebiz.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

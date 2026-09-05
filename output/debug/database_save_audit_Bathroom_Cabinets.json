@@ -1,0 +1,35 @@
+{
+  "category": "Bathroom Cabinets",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1671,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "CIPLA PLAST",
+      "database_id": 1672,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919319459510",
+      "email": "info@companyvakil.com",
+      "gst": "27AAACC1450B1ZE",
+      "pan": "AAACC1450B",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0F6CQT371&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T14:21:30.579958"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T14:21:32.465516",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T14:21:36.294142"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T14:21:37.163048"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T14:21:37.163562"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T14:21:43.058820",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T14:21:44.142784"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T14:21:44.142813"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T14:21:46.435017",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T14:21:47.299497"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T14:21:47.299521"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T14:21:47.299527"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T14:21:47.299531"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T14:21:51.619866"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T14:21:54.305146",
+    "status": "results_found"
+  },
+  {
+    "business": "Blissclub",
+    "field": "Business Name",
+    "value": "Blissclub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A39QNOEBS0SIA0&isAmazonFulfilled=0&asin=B0F6CQT371&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T14:21:59.512916"
+  },
+  {
+    "seller": "Blissclub",
+    "field": "Website",
+    "query": "Blissclub official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://blissclub.com/",
+      "https://blissclub.com/pages/activewear"
+    ],
+    "timestamp": "2026-09-02T14:22:01.115744",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blissclub",
+    "field": "Legal Entity Name",
+    "query": "Blissclub company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/blissclub-fitness-private-limited/__DpnJ1La4Sitz0PAyCo_A2KUeSVbWpcHlMkOrPembk_c",
+      "https://www.companydetails.in/company/blissclub-fitness-private-limited",
+      "https://www.falconebiz.com/company/BLISSCLUB-FITNESS-PRIVATE-LIMITED-U52520KA2020PTC133220",
+      "https://www.indiafilings.com/search/blissclub-fitness-private-limited-cin-U52520KA2020PTC133220"
+    ],
+    "timestamp": "2026-09-02T14:22:20.777254",
+    "status": "results_found"
+  },
+  {
+    "business": "Blissclub",
+    "field": "GST Number",
+    "value": "29AAICB9521C1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/blissclub-fitness-private-limited/__DpnJ1La4Sitz0PAyCo_A2KUeSVbWpcHlMkOrPembk_c",
+    "timestamp": "2026-09-02T14:22:23.487834"
+  },
+  {
+    "business": "Blissclub",
+    "field": "PAN Number",
+    "value": "AAICB9521C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/blissclub-fitness-private-limited/__DpnJ1La4Sitz0PAyCo_A2KUeSVbWpcHlMkOrPembk_c",
+    "timestamp": "2026-09-02T14:22:23.487861"
+  },
+  {
+    "business": "Blissclub",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/blissclub-fitness-private-limited/__DpnJ1La4Sitz0PAyCo_A2KUeSVbWpcHlMkOrPembk_c",
+    "timestamp": "2026-09-02T14:22:23.510738"
+  },
+  {
+    "business": "Blissclub",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/blissclub-fitness-private-limited/__DpnJ1La4Sitz0PAyCo_A2KUeSVbWpcHlMkOrPembk_c",
+    "timestamp": "2026-09-02T14:22:23.510812"
+  },
+  {
+    "business": "Blissclub",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/blissclub-fitness-private-limited/__DpnJ1La4Sitz0PAyCo_A2KUeSVbWpcHlMkOrPembk_c",
+    "timestamp": "2026-09-02T14:22:23.510844"
+  },
+  {
+    "business": "Blissclub",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/blissclub-fitness-private-limited/__DpnJ1La4Sitz0PAyCo_A2KUeSVbWpcHlMkOrPembk_c",
+    "timestamp": "2026-09-02T14:22:23.510865"
+  },
+  {
+    "seller": "Blissclub",
+    "field": "Owner",
+    "query": "Blissclub director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thefoundernation.com/minu-margeret-blissclub-founder-story/#:~:text=Minu%20Margeret%20is%20the%20founder%20and%20CEO%20of,find%20workout%20clothing%20that%20actually%20fit%20her%20own.",
+      "https://www.sagalnews.com/wiki/minu-margeret/",
+      "https://blissclub.com/pages/our-story",
+      "https://www.d2cindia.in/minu.php"
+    ],
+    "timestamp": "2026-09-02T14:22:43.264592",
+    "status": "results_found"
+  },
+  {
+    "business": "Blissclub",
+    "field": "Email Address",
+    "value": "hi@myblissclub.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blissclub.com/pages/our-story",
+    "timestamp": "2026-09-02T14:22:53.487336"
+  },
+  {
+    "seller": "Blissclub",
+    "field": "Phone",
+    "query": "Blissclub phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blissclub.com/pages/reach-us-mobileapp",
+      "https://www.indiacustomercare.com/bliss-club-customer-care-no",
+      "https://blissclub.com/pages/eoss-july",
+      "https://www.zoominfo.com/c/blissclub/545882245"
+    ],
+    "timestamp": "2026-09-02T14:22:58.585420",
+    "status": "results_found"
+  },
+  {
+    "business": "Blissclub",
+    "field": "Phone Number",
+    "value": "+919900001845",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blissclub.com/pages/reach-us-mobileapp",
+    "timestamp": "2026-09-02T14:23:01.497632"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "Business Name",
+    "value": "A.P. ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AKUYA9TL48E5J&asin=B09ZY9K3GW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T14:23:02.216767"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Website",
+    "query": "A.P. ENTERPRISES official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T14:23:18.649484",
+    "status": "no_results"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "A.P. ENTERPRISES company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686895x1273236128138508x506213434&adid=&device=c&location=258438&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686895&hsa_kw=how%20to%20register%20a%20company%20in%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=b030ebe1736d13092105817697707dd7&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=how%20to%20register%20a%20company%20in%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://www.thecompanycheck.com/org/ap-enterprises/a50f4a4aaf",
+      "https://piceapp.com/gst-number-search/apenterprises-29abipa8132a1z4/",
+      "https://www.knowyourgst.com/gst-number-search/apenterprises-27BSUPG8805L1ZZ/"
+    ],
+    "timestamp": "2026-09-02T14:23:37.886620",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "PAN",
+    "query": "A.P. ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://my.gstzen.in/m/taxpayers/pan/ap-enterprises/ADAPE0809N/#:~:text=AP%20ENTERPRISES%20is%20a%20business%20with,a%20PAN%20number%20of%20ADAPE0809N.%20%E2%96%AA%20Manipur",
+      "https://my.gstzen.in/m/taxpayers/pan/ap-enterprises/ADAPE0809N/",
+      "https://my.gstzen.in/m/taxpayers/a-p-enterprises/27BCAPP8353E1ZJ/",
+      "https://gstserver.com/gst/27AAABA3834G1Z0/"
+    ],
+    "timestamp": "2026-09-02T14:23:40.697601",
+    "status": "results_found"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "Email Address",
+    "value": "support@gstzen.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/ap-enterprises/ADAPE0809N/#:~:text=AP%20ENTERPRISES%20is%20a%20business%20with,a%20PAN%20number%20of%20ADAPE0809N.%20%E2%96%AA%20Manipur",
+    "timestamp": "2026-09-02T14:23:43.707018"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "GST Number",
+    "value": "14ADAPE0809N1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/ap-enterprises/ADAPE0809N/#:~:text=AP%20ENTERPRISES%20is%20a%20business%20with,a%20PAN%20number%20of%20ADAPE0809N.%20%E2%96%AA%20Manipur",
+    "timestamp": "2026-09-02T14:23:43.707204"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "PAN Number",
+    "value": "ADAPE0809N",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/ap-enterprises/ADAPE0809N/#:~:text=AP%20ENTERPRISES%20is%20a%20business%20with,a%20PAN%20number%20of%20ADAPE0809N.%20%E2%96%AA%20Manipur",
+    "timestamp": "2026-09-02T14:23:43.707213"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Owner",
+    "query": "A.P. ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apenterprisesindia.in/about-us.htm",
+      "https://theorg.com/org/ap-enterprises/org-chart/abhishek-pandey",
+      "http://apenterprises.org/",
+      "https://www.thecompanycheck.com/company/a-p-enterprises-private-limited/U22012CH1993PTC012939"
+    ],
+    "timestamp": "2026-09-02T14:23:46.431287",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Owner",
+    "query": "A.P. ENTERPRISES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://apenterprises.org/#:~:text=A%20P%20Enterprises%20is%20an%20Indian%20Organization%2C%20established,and%20Hospital%20Laboratory%20Goods%20%28Machinery%20and%20related%20products%29.",
+      "http://apenterprises.org/",
+      "https://www.apenterprisesindia.in/about-us.htm",
+      "https://www.crunchbase.com/person/alan-weintraub-85e1"
+    ],
+    "timestamp": "2026-09-02T14:24:00.790404",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Address",
+    "query": "A.P. ENTERPRISES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/a-p-enterprises-private-limited/__JZN8jJ_XEI4YbefIz9dkeK0M4V_X3u55TnckEQHH5y0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U22012CH1993PTC012939%20and%20its%20current%20status%20is%20Active.",
+      "https://tracxn.com/d/legal-entities/india/a-p-enterprises-private-limited/__JZN8jJ_XEI4YbefIz9dkeK0M4V_X3u55TnckEQHH5y0",
+      "https://www.insiderbiz.in/company-map/A-P-ENTERPRISES-PRIVATE-LIMITED",
+      "https://www.indiafilings.com/search/a-p-enterprises-private-limited-cin-U22012CH1993PTC012939"
+    ],
+    "timestamp": "2026-09-02T14:24:02.309187",
+    "status": "results_found"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-p-enterprises-private-limited/__JZN8jJ_XEI4YbefIz9dkeK0M4V_X3u55TnckEQHH5y0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U22012CH1993PTC012939%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T14:24:03.805725"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-p-enterprises-private-limited/__JZN8jJ_XEI4YbefIz9dkeK0M4V_X3u55TnckEQHH5y0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U22012CH1993PTC012939%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T14:24:03.805737"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-p-enterprises-private-limited/__JZN8jJ_XEI4YbefIz9dkeK0M4V_X3u55TnckEQHH5y0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U22012CH1993PTC012939%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T14:24:03.805740"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-p-enterprises-private-limited/__JZN8jJ_XEI4YbefIz9dkeK0M4V_X3u55TnckEQHH5y0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U22012CH1993PTC012939%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T14:24:03.805743"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Phone",
+    "query": "A.P. ENTERPRISES phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ap-enterprises.co.in/contact.html",
+      "https://www.justdial.com/Mumbai/Ap-Enterprises-Suvidha-Hospital-Lane-Goregaon-West/022PXX22-XX22-180419180555-S3B1_BZDET",
+      "https://www.sulekha.com/ap-enterprises--mumbai-contact-address",
+      "https://www.sulekha.com/ap-enterprises-kandivali-east-mumbai-contact-address"
+    ],
+    "timestamp": "2026-09-02T14:24:05.945109",
+    "status": "results_found"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "Phone Number",
+    "value": "+918097241297",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ap-enterprises.co.in/contact.html",
+    "timestamp": "2026-09-02T14:24:07.106959"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "category": "Women'S Heels",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "JM LOOKS",
+      "database_id": 1349,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918178788820",
+      "email": "support@jmlooks.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://jmlooks.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1350,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "H S GROUPS 2.0",
+      "database_id": 1351,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "accounts@vauditors.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

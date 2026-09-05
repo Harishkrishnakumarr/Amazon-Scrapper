@@ -1,0 +1,87 @@
+{
+  "category": "Vehicle Gifts & Merchandise",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Mirana Innovations Private Limited",
+      "database_id": 1023,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "sumedha.kawade@gmail.com",
+      "gst": "Not Found",
+      "pan": "CWXPS7278F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AALAA",
+      "database_id": 991,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://aalaa.biz/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SRAROM ESALES",
+      "database_id": 1024,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "dhouston@cpan.org",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BLUEMARK PROMOTIONS LLP",
+      "database_id": 994,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918888842745",
+      "email": "sachin11170@gmail.com",
+      "gst": "27ABBFB5286F1ZG",
+      "pan": "ABBFB5286F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VALUECONNECT PRIVATE LIMITED",
+      "database_id": 991,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "halchemy2047@gmail.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://aalaa.biz/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Plan To Gift",
+      "database_id": 1025,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918796252533",
+      "email": "support@taxfilingguru.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://plancompare.in/",
+      "status": "Verified"
+    }
+  ]
+}

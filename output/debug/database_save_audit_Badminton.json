@@ -1,0 +1,48 @@
+{
+  "category": "Badminton",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 422,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918917310146",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Padmawati Sports",
+      "database_id": 423,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911320132026",
+      "email": "care@pharmeasy.in",
+      "gst": "07ALRPK8525C1ZX",
+      "pan": "ALRPK8525C",
+      "website": "https://www.padmawatisports.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AMAR SPORTS VILLA",
+      "database_id": 424,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911827442026",
+      "email": "amarsports_nagpur@yahoo.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

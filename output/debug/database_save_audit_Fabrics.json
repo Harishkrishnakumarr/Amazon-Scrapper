@@ -1,0 +1,48 @@
+{
+  "category": "Fabrics",
+  "records_before_save": 8,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "KRISHNAM TRENDS",
+      "database_id": 1430,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "satyalakshmistp@gmail.comnovember",
+      "gst": "08BFBPP9708M1ZU",
+      "pan": "BFBPP9708M",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Sun Fashion And Lifestyle",
+      "database_id": 1547,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917601012345",
+      "email": "shionllp@gmail.com",
+      "gst": "27AZGPD1287P1ZX",
+      "pan": "AZGPD1287P",
+      "website": "https://www.sunfashionandlifestyle.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GJV MART",
+      "database_id": 1548,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "gjumadmission@gmail.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

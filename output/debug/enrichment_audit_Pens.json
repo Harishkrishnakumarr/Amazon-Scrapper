@@ -1,0 +1,403 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0D5B62B83&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T18:03:12.679542"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-08-21T18:03:14.315626",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/work-with-us/",
+    "timestamp": "2026-08-21T18:03:18.031002"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T18:03:18.569472"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T18:03:18.570723"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-21T18:03:23.758957",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.thecompanycheck.com/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-21T18:03:34.767727",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/09AAJCC8517E1ZJ/cocoblu-retail-limited",
+      "https://gst.unifers.ai/gst/08AAJCC8517E1ZL/cocoblu-retail-limited",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://gstserver.com/gst/27AAJCC8517E1ZL/"
+    ],
+    "timestamp": "2026-08-21T18:03:52.888862",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-21T18:04:35.187550",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+    "timestamp": "2026-08-21T18:04:35.640095"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-21T18:04:39.232334",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-21T18:04:46.715968",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/contact-us/",
+      "https://contactout.com/company/Cocoblu-Retail-19325",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-21T18:04:57.323860",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-21T18:05:02.805181",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail head office address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-21T18:05:07.094785",
+    "status": "results_found"
+  },
+  {
+    "business": "DOMS INDUSTRIES LIMITED",
+    "field": "Business Name",
+    "value": "DOMS INDUSTRIES LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJC60RGNRIP2B&asin=B0CRL58RC1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T18:05:10.081963"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "Website",
+    "query": "DOMS INDUSTRIES LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/"
+    ],
+    "timestamp": "2026-08-21T18:05:11.395984",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "Legal Entity Name",
+    "query": "DOMS INDUSTRIES LIMITED company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/doms-industries-limited/__ov032VoZ8rVISHkeDPJx_ij_vDYgma_KYBPWTIlv2Cc",
+      "https://domsindia.com/",
+      "https://chemdmart.com/company-profile/doms-industries-pvt-ltd",
+      "https://www.falconebiz.com/company/DOMS-INDUSTRIES-LIMITED-L36991GJ2006PLC049275",
+      "https://www.instafinancials.com/company/doms-industries-limited-U36991GJ2006PLC049275"
+    ],
+    "timestamp": "2026-08-21T18:05:33.071042",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "Legal Entity Name",
+    "query": "DOMS INDUSTRIES LIMITED Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/",
+      "https://www.healthline.com/health/doms",
+      "https://my.clevelandclinic.org/health/diseases/delayed-onset-muscle-soreness",
+      "https://www.sports-injury-physio.com/post/doms-treatments-what-works-and-what-doesn-t"
+    ],
+    "timestamp": "2026-08-21T18:05:43.125465",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "PAN",
+    "query": "DOMS INDUSTRIES LIMITED PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/"
+    ],
+    "timestamp": "2026-08-21T18:05:54.193848",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "PAN",
+    "query": "DOMS INDUSTRIES LIMITED PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/",
+      "https://www.healthline.com/health/doms"
+    ],
+    "timestamp": "2026-08-21T18:06:02.643687",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "PAN",
+    "query": "DOMS INDUSTRIES LIMITED PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/",
+      "https://www.healthline.com/health/doms",
+      "https://my.clevelandclinic.org/health/diseases/delayed-onset-muscle-soreness"
+    ],
+    "timestamp": "2026-08-21T18:06:11.452742",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "GST",
+    "query": "DOMS INDUSTRIES LIMITED GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/"
+    ],
+    "timestamp": "2026-08-21T18:06:13.196118",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "GST",
+    "query": "DOMS INDUSTRIES LIMITED GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/",
+      "https://www.healthline.com/health/doms",
+      "https://my.clevelandclinic.org/health/diseases/delayed-onset-muscle-soreness",
+      "https://www.sports-injury-physio.com/post/doms-treatments-what-works-and-what-doesn-t"
+    ],
+    "timestamp": "2026-08-21T18:06:23.150149",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "Owner",
+    "query": "DOMS INDUSTRIES LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/",
+      "https://www.healthline.com/health/doms",
+      "https://my.clevelandclinic.org/health/diseases/delayed-onset-muscle-soreness"
+    ],
+    "timestamp": "2026-08-21T18:06:34.312198",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "Owner",
+    "query": "DOMS INDUSTRIES LIMITED managing director",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/"
+    ],
+    "timestamp": "2026-08-21T18:06:44.608911",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "Address",
+    "query": "DOMS INDUSTRIES LIMITED registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://domsindia.com/",
+      "https://domsindia.com/shop/",
+      "https://www.healthline.com/health/doms",
+      "https://my.clevelandclinic.org/health/diseases/delayed-onset-muscle-soreness",
+      "https://www.sports-injury-physio.com/post/doms-treatments-what-works-and-what-doesn-t"
+    ],
+    "timestamp": "2026-08-21T18:06:58.126330",
+    "status": "results_found"
+  },
+  {
+    "business": "DOMS INDUSTRIES LIMITED",
+    "field": "Billing Address",
+    "value": "61 bridge street, kington, hr5 3dj, uk",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sports-injury-physio.com/post/doms-treatments-what-works-and-what-doesn-t",
+    "timestamp": "2026-08-21T18:07:08.651461"
+  },
+  {
+    "business": "DOMS INDUSTRIES LIMITED",
+    "field": "City",
+    "value": "uk",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sports-injury-physio.com/post/doms-treatments-what-works-and-what-doesn-t",
+    "timestamp": "2026-08-21T18:07:08.651479"
+  },
+  {
+    "seller": "DOMS INDUSTRIES LIMITED",
+    "field": "Phone",
+    "query": "DOMS INDUSTRIES LIMITED phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://domsindia.com/contact-us/",
+      "https://domsindia.com/contact-for-investor-grievance/",
+      "https://www.indiacustomercare.com/doms-stationery-contact-no",
+      "https://www.volza.com/company-profile/doms-industries-ltd-85526157/contacts/",
+      "https://www.goodreturns.in/company/doms-industries/profile.html"
+    ],
+    "timestamp": "2026-08-21T18:07:13.100160",
+    "status": "results_found"
+  }
+]

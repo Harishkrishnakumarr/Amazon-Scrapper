@@ -1,0 +1,61 @@
+{
+  "category": "Foot Mats",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 868,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919387399500",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "AutoClow",
+      "database_id": 869,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@autoflow.com",
+      "gst": "07FCRPK3481F1Z8",
+      "pan": "FCRPK3481F",
+      "website": "https://www.geeksforgeeks.org/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Humus & Hue",
+      "database_id": 869,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@cbinsights.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.geeksforgeeks.org/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Continental Auto",
+      "database_id": 870,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@gstserver.com",
+      "gst": "06AAKCS9578C1ZX",
+      "pan": "AAKCS9578C",
+      "website": "https://www.continental.com/",
+      "status": "Verified"
+    }
+  ]
+}

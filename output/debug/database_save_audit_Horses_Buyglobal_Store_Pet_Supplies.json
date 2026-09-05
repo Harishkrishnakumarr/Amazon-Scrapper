@@ -1,0 +1,74 @@
+{
+  "category": "Horses Buyglobal Store Pet Supplies",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "JSSDN",
+      "database_id": 361,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912667302026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "shop_worldwide",
+      "database_id": 362,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912471002025",
+      "email": "info@shopworldwide.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shopworldwide.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TheGlobalGenie",
+      "database_id": 363,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SKSB IMPORT",
+      "database_id": 364,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916807436366",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Global Klamp",
+      "database_id": 365,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910181312026",
+      "email": "info@globaltree.in",
+      "gst": "27AAUFK8597Q1ZR",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,859 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0BDG4VG2G&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T13:57:37.850600"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://robolibrary.org/wikis/attack-on-titan-revolution/skill-trees",
+      "https://itemlevel.net/aot-revolution-complete-skill-tree-guide/"
+    ],
+    "timestamp": "2026-08-29T13:57:39.602130",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bingquiz.com/bing-news-quiz/",
+      "https://bingquizzes.com/bing-news-quiz/",
+      "https://bing.weeklyquiz.net/bing-news-quiz/",
+      "https://weeklyquiz.net/bing-news-quiz/"
+    ],
+    "timestamp": "2026-08-29T13:57:50.456628",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.soul-source.co.uk/forums/",
+      "https://www.australia-shoppings.com/stores/kmart/western-australia",
+      "https://www.australia-shoppings.com/stores/kmart/victoria",
+      "https://www.soul-source.co.uk/forums/topic/144420-did-you-go-to-jazz-funk-nights/"
+    ],
+    "timestamp": "2026-08-29T13:58:00.790267",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "38 albany hwy, albany wa 6330, australia",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.australia-shoppings.com/stores/kmart/western-australia",
+    "timestamp": "2026-08-29T13:58:03.314782"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "australia",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.australia-shoppings.com/stores/kmart/western-australia",
+    "timestamp": "2026-08-29T13:58:03.314794"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.taxnotes.com/research/federal/court-documents/court-opinions-and-orders/united-states-v-sullivan/1ktjd"
+    ],
+    "timestamp": "2026-08-29T13:58:05.804919",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dell.com/support/kbdoc/ko-kr/000123570/%EB%B0%94%EB%A1%9C-%EA%B0%80%EA%B8%B0-%EB%B0%8F-cmd-%EB%AA%85%EB%A0%B9%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-windows-10-%EB%B0%8F-11%EC%97%90%EC%84%9C-%EC%9E%A5%EC%B9%98-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%97%90-%EC%95%A1%EC%84%B8%EC%8A%A4?msockid=313833a125a06a820a51246524ad6bfe",
+      "https://quasarzone.com/bbs/qf_net/views/94618",
+      "https://quasarzone.com/bbs/qf_cmr/views/1807969",
+      "https://www.dell.com/support/kbdoc/ko-kr/000191990/internal-mic-can-not-be-selected-or-missing?msockid=313833a125a06a820a51246524ad6bfe"
+    ],
+    "timestamp": "2026-08-29T13:58:07.739966",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-29aajcc9783e1z3/",
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-29aajcc9783e1z3/",
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-27AAJCC9783E1Z7/"
+    ],
+    "timestamp": "2026-08-29T13:58:30.556807",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "GST Number",
+    "value": "33AAJCC9783E1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-29T13:58:44.424103"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "PAN Number",
+    "value": "AAJCC9783E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-29T13:58:44.424118"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://openai.com/zh-Hans-CN/gpt-5/",
+      "https://openai.com/ko-KR/codex/",
+      "https://platform.openai.com/playground",
+      "https://platform.openai.com/onboarding?app=chat&callbackHost=chatgpt.com"
+    ],
+    "timestamp": "2026-08-29T13:58:46.252695",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/validation",
+      "https://dictionary.cambridge.org/dictionary/english/validation",
+      "https://dictionary.cambridge.org/us/dictionary/english/validation",
+      "https://www.geeksforgeeks.org/software-engineering/differences-between-verification-and-validation/"
+    ],
+    "timestamp": "2026-08-29T13:58:56.918629",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gptoil.com/",
+      "https://www.gptoil.com/Download_d/3894614.html",
+      "https://www.gptoil.com/aboutus.html",
+      "https://www.gptoil.com/Productd/954402083756810240.html"
+    ],
+    "timestamp": "2026-08-29T13:59:01.827673",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "gpt@gptoil.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gptoil.com/",
+    "timestamp": "2026-08-29T13:59:06.621699"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://bbs.csdn.net/topics/310029001",
+      "https://bbs.csdn.net/topics/320196144"
+    ],
+    "timestamp": "2026-08-29T13:59:10.761560",
+    "status": "results_found"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Business Name",
+    "value": "Gloxy Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AYRALURHHBHEF&asin=B09FJNRMWX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T13:59:15.693843"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Website",
+    "query": "Gloxy Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://french.kwiziq.com/questions/view/je-suis-vs-j-ai",
+      "https://french.kwiziq.com/questions/view/j-etais-v-j-ai-ete"
+    ],
+    "timestamp": "2026-08-29T13:59:17.141550",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Legal Entity Name",
+    "query": "Gloxy Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.propertyguru.com.my/condo/epic-residence-7991",
+      "https://www.propertyguru.com.my/property-for-sale/p/epic-residences-jalan-suria-muafakat-taman-suria-muafakat-81200-johor-bahru",
+      "https://www.iproperty.com.my/condo/epic-residence-7991?msockid=313833a125a06a820a51246524ad6bfe",
+      "https://www.iproperty.com.my/property/johor-bahru/epic-residence/sale-501599500/?msockid=313833a125a06a820a51246524ad6bfe"
+    ],
+    "timestamp": "2026-08-29T13:59:22.242296",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "PAN",
+    "query": "Gloxy Store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://estudyando.com/contabilidad-de-costos-historicos/",
+      "https://economipedia.com/definiciones/costos-historicos.html",
+      "https://contabilidadfinanzas.com/contabilidad-de-costos/costos-historicos/",
+      "https://www.studocu.com/es-mx/document/tecnologico-nacional-de-mexico/costos-y-presupuestos/costos-historicos-por-ordenes-y-por-procesos/111087702"
+    ],
+    "timestamp": "2026-08-29T13:59:37.689386",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "PAN",
+    "query": "Gloxy Store PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/gloxy-enterprise-33AAYFG9972F1ZO/",
+      "https://fnshiftsolutions.com/gstin-search/gloxy-enterprise-21AAYFG9972F1ZT",
+      "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/"
+    ],
+    "timestamp": "2026-08-29T13:59:47.423791",
+    "status": "results_found"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T13:59:48.076525"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T13:59:48.076538"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Owner",
+    "query": "Gloxy Store director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gloxy.in/pages/about-us-1",
+      "https://gloxy.in/pages/about-us",
+      "https://fnshiftsolutions.com/gstin-search/gloxy-enterprise-06AAYFG9972F1ZL"
+    ],
+    "timestamp": "2026-08-29T13:59:51.581279",
+    "status": "results_found"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Phone Number",
+    "value": "+919129198298",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gloxy.in/pages/about-us",
+    "timestamp": "2026-08-29T13:59:58.849534"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Email Address",
+    "value": "help@gloxy.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gloxy.in/pages/about-us",
+    "timestamp": "2026-08-29T13:59:58.849743"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Owner",
+    "query": "Gloxy Store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://communities.apple.com/pt/thread/254871703",
+      "https://communities.apple.com/fr/docs/DOC-250004007",
+      "https://forum.lowyat.net/AppleByte",
+      "https://communities.apple.com/de/thread/250889733"
+    ],
+    "timestamp": "2026-08-29T14:00:01.824240",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Address",
+    "query": "Gloxy Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://note.com/inumohasireba/n/ndf7e615e2d12",
+      "https://home.ginza.kokosil.net/ja/archives/111646",
+      "https://note.com/haru1069/n/n7ec8ca4915e3",
+      "https://l-tike.com/event/mevent/?mid=792384"
+    ],
+    "timestamp": "2026-08-29T14:00:06.764933",
+    "status": "results_found"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Business Name",
+    "value": "Plantex India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K4UVV7PEP9L5&asin=B0G6TD4M6L&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T14:00:21.971064"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Website",
+    "query": "Plantex India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products"
+    ],
+    "timestamp": "2026-08-29T14:00:24.054601",
+    "status": "results_found"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Website URL",
+    "value": "https://www.plantex.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.plantex.in/collections/all-products",
+    "timestamp": "2026-08-29T14:00:35.402278"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Email Address",
+    "value": "cs@plantex.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.plantex.in/",
+    "timestamp": "2026-08-29T14:00:39.622388"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Legal Entity Name",
+    "query": "Plantex India company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products",
+      "https://www.plantexecommerce.com/",
+      "https://www.nykaa.com/brands/plantex/c/61944"
+    ],
+    "timestamp": "2026-08-29T14:00:48.104468",
+    "status": "results_found"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Phone Number",
+    "value": "+918043890273",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.plantexecommerce.com/",
+    "timestamp": "2026-08-29T14:00:54.097267"
+  },
+  {
+    "business": "Plantex India",
+    "field": "GST Number",
+    "value": "24AALCP2951M1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.plantexecommerce.com/",
+    "timestamp": "2026-08-29T14:00:54.097770"
+  },
+  {
+    "business": "Plantex India",
+    "field": "PAN Number",
+    "value": "AALCP2951M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.plantexecommerce.com/",
+    "timestamp": "2026-08-29T14:00:54.097781"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Legal Entity Name",
+    "query": "Plantex India Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products",
+      "https://www.plantexecommerce.com/",
+      "https://www.nykaa.com/brands/plantex/c/61944"
+    ],
+    "timestamp": "2026-08-29T14:00:59.924242",
+    "status": "results_found"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Owner",
+    "query": "Plantex India director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products",
+      "https://www.plantexecommerce.com/",
+      "https://www.nykaa.com/brands/plantex/c/61944"
+    ],
+    "timestamp": "2026-08-29T14:01:04.557880",
+    "status": "results_found"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Address",
+    "query": "Plantex India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products",
+      "https://www.plantexecommerce.com/",
+      "https://www.nykaa.com/brands/plantex/c/61944"
+    ],
+    "timestamp": "2026-08-29T14:01:20.843351",
+    "status": "results_found"
+  },
+  {
+    "business": "ACUTAS STORE",
+    "field": "Business Name",
+    "value": "ACUTAS STORE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2H5L6UVEN1ZZ1&asin=B0G4RNDJF6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T14:01:34.933862"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "Website",
+    "query": "ACUTAS STORE official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://acutas.store/",
+      "https://acutastore.in/"
+    ],
+    "timestamp": "2026-08-29T14:01:40.768821",
+    "status": "results_found"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "Legal Entity Name",
+    "query": "ACUTAS STORE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.guishuji.com/writer/3234/",
+      "https://www.pilisf.com/author/%E6%9F%B4%E9%B8%A1%E8%9B%8B",
+      "https://www.tmwk.cc/modules/article/authorarticle.php?author=%B2%F1%BC%A6%B5%B0",
+      "https://www.luoxia123.com/chaijidan/"
+    ],
+    "timestamp": "2026-08-29T14:01:46.029630",
+    "status": "results_found"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "Legal Entity Name",
+    "query": "ACUTAS STORE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445"
+    ],
+    "timestamp": "2026-08-29T14:01:53.263354",
+    "status": "results_found"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "PAN",
+    "query": "ACUTAS STORE PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://my.trip.com/hotels/kuala-terengganu-hotel-detail-28786494/hotel-sri-tanjung/",
+      "https://www.tripadvisor.com/Hotel_Review-g298320-d3411478-Reviews-Hotel_Sri_Tanjung-Kuala_Terengganu_Terengganu.html",
+      "https://www.trip.com/hotels/kuala-terengganu-hotel-detail-28786494/hotel-sri-tanjung/",
+      "https://www.tripadvisor.com.my/Hotel_Review-g298320-d3411478-Reviews-Hotel_Sri_Tanjung-Kuala_Terengganu_Terengganu.html"
+    ],
+    "timestamp": "2026-08-29T14:01:57.982569",
+    "status": "results_found"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "PAN",
+    "query": "ACUTAS STORE PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://acutas.in/",
+      "https://acutas.in/brands-we-manage/",
+      "https://acutas.in/about-us/",
+      "https://acutas.in/our-team/"
+    ],
+    "timestamp": "2026-08-29T14:02:06.262294",
+    "status": "results_found"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "GST",
+    "query": "ACUTAS STORE GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=acutas-online-private-limited&gstin=29AAXCA0860G1ZB",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-29T14:02:20.187551",
+    "status": "results_found"
+  },
+  {
+    "business": "ACUTAS STORE",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T14:02:24.077154"
+  },
+  {
+    "business": "ACUTAS STORE",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T14:02:24.077177"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "Owner",
+    "query": "ACUTAS STORE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://namu.wiki/w/%EB%B0%B0%ED%8B%80%ED%95%84%EB%93%9C%206",
+      "https://www.ea.com/ko/games/battlefield/battlefield-6",
+      "https://www.ea.com/games/battlefield/battlefield-6",
+      "https://store.steampowered.com/app/2807960/Battlefield_6/?l=koreana"
+    ],
+    "timestamp": "2026-08-29T14:02:25.988975",
+    "status": "results_found"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "Address",
+    "query": "ACUTAS STORE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365-0.html",
+      "https://caselaw.findlaw.com/court/la-court-of-appeal/116769896.html",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365.html",
+      "https://www.judiciary.gov.sg/judgments/judgments-case-summaries"
+    ],
+    "timestamp": "2026-08-29T14:02:42.857100",
+    "status": "results_found"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "Address",
+    "query": "ACUTAS STORE registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://unicourt.com/courts/federal",
+      "https://pacer.uscourts.gov/find-case/court-opinions",
+      "https://recordsfinder.com/judgment/"
+    ],
+    "timestamp": "2026-08-29T14:02:46.615692",
+    "status": "results_found"
+  },
+  {
+    "business": "ACUTAS STORE",
+    "field": "Email Address",
+    "value": "pacer@psc.uscourts.gov",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://pacer.uscourts.gov/find-case/court-opinions",
+    "timestamp": "2026-08-29T14:02:56.368080"
+  },
+  {
+    "seller": "ACUTAS STORE",
+    "field": "Phone",
+    "query": "ACUTAS STORE phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://acutaas.com/contact-us",
+      "https://acutastore.in/",
+      "https://www.sellerratings.com/amazon/india/acutas-store",
+      "https://acutas.in/"
+    ],
+    "timestamp": "2026-08-29T14:03:02.701051",
+    "status": "results_found"
+  },
+  {
+    "business": "ACUTAS STORE",
+    "field": "Phone Number",
+    "value": "+917573015366",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://acutaas.com/contact-us",
+    "timestamp": "2026-08-29T14:03:03.917587"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Business Name",
+    "value": "Adarsh Ent",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A4MF2QGKZV82C&asin=B07VH3PGSH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T14:03:04.618498"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Website",
+    "query": "Adarsh Ent official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/"
+    ],
+    "timestamp": "2026-08-29T14:03:05.905899",
+    "status": "results_found"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Website URL",
+    "value": "https://www.adarshdevelopers.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.adarshdevelopers.com/",
+    "timestamp": "2026-08-29T14:03:10.469451"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Phone Number",
+    "value": "+916364921355",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.adarshdevelopers.com/",
+    "timestamp": "2026-08-29T14:03:11.930975"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Email Address",
+    "value": "sales@adarshdevelopers.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.adarshdevelopers.com/",
+    "timestamp": "2026-08-29T14:03:11.931161"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Legal Entity Name",
+    "query": "Adarsh Ent company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:03:26.931108",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Legal Entity Name",
+    "query": "Adarsh Ent Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/"
+    ],
+    "timestamp": "2026-08-29T14:03:34.273131",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "PAN",
+    "query": "Adarsh Ent PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:03:38.737133",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "PAN",
+    "query": "Adarsh Ent PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:03:44.667277",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "GST",
+    "query": "Adarsh Ent GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:03:51.808024",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "GST",
+    "query": "Adarsh Ent GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:04:03.187790",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Owner",
+    "query": "Adarsh Ent director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:04:06.291569",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Owner",
+    "query": "Adarsh Ent founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:04:11.696822",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Address",
+    "query": "Adarsh Ent registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/",
+      "https://www.justwatch.com/in/tv-show/adarsh-baal-vidyalaya",
+      "https://www.adarshdevelopers.com/project/residential/"
+    ],
+    "timestamp": "2026-08-29T14:04:17.421982",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Address",
+    "query": "Adarsh Ent registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://adarsh.ac.in/"
+    ],
+    "timestamp": "2026-08-29T14:04:30.459352",
+    "status": "results_found"
+  }
+]

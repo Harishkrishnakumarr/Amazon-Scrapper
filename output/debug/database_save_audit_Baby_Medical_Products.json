@@ -1,0 +1,61 @@
+{
+  "category": "Baby Medical Products",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1216,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "29AAECR0564M2ZY",
+      "pan": "AAECR0564M",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "FEXMY",
+      "database_id": 1217,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@fexmy.com",
+      "gst": "33AABCU7650C1ZM",
+      "pan": "AABCU7650C",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "AOXITO",
+      "database_id": 1218,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "AccuTrust",
+      "database_id": 1219,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919496799590",
+      "email": "consult@accutrust.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.accutrust.in/",
+      "status": "Verified"
+    }
+  ]
+}

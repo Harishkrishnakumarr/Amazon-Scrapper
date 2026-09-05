@@ -1,0 +1,158 @@
+[
+  {
+    "business": "Famous Quality\u00ae",
+    "field": "Business Name",
+    "value": "Famous Quality\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2L18ZUTP5K02&asin=B07PYF4LB5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T12:49:46.436391"
+  },
+  {
+    "seller": "Famous Quality\u00ae",
+    "field": "Website",
+    "query": "Famous Quality\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.famousbirthdays.com/",
+      "https://www.famousbirthdays.com/most-popular-people.html"
+    ],
+    "timestamp": "2026-08-24T12:49:48.675269",
+    "status": "results_found"
+  },
+  {
+    "business": "Famous Quality\u00ae",
+    "field": "Website URL",
+    "value": "https://www.famousbirthdays.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.famousbirthdays.com/most-popular-people.html",
+    "timestamp": "2026-08-24T12:50:43.439719"
+  },
+  {
+    "business": "Famous Quality\u00ae",
+    "field": "Phone Number",
+    "value": "+913399373537",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.famousbirthdays.com/",
+    "timestamp": "2026-08-24T12:50:43.917455"
+  },
+  {
+    "seller": "Famous Quality\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Famous Quality\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.famousbirthdays.com/",
+      "https://www.famousbirthdays.com/most-popular-people.html",
+      "https://www.imdb.com/list/ls599651467/"
+    ],
+    "timestamp": "2026-08-24T12:50:53.089528",
+    "status": "results_found"
+  },
+  {
+    "seller": "Famous Quality\u00ae",
+    "field": "PAN",
+    "query": "Famous Quality\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.famousbirthdays.com/",
+      "https://www.famousbirthdays.com/most-popular-people.html",
+      "https://www.imdb.com/list/ls599651467/",
+      "https://dictionary.cambridge.org/dictionary/english/famous",
+      "https://www.merriam-webster.com/dictionary/famous"
+    ],
+    "timestamp": "2026-08-24T12:51:17.966904",
+    "status": "results_found"
+  },
+  {
+    "seller": "Famous Quality\u00ae",
+    "field": "GST",
+    "query": "Famous Quality\u00ae GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/famous-quality-24bfppg6104l1zd/",
+      "https://www.knowyourgst.com/gst-number-search/famous-quality-24BFPPG6104L1ZD/",
+      "https://www.knowyourgst.com/gst-number-search/famous-quality-27BFPPG6104L1Z7/",
+      "https://gst.unifers.ai/gst/07AAECF2785N1Z4/famous-quality-india-private-limited",
+      "https://www.mastersindia.co/gst-search/?name=famous-quality-india-private-limited&gstin=07AAECF2785N1Z4"
+    ],
+    "timestamp": "2026-08-24T12:52:29.108455",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0FM8C5DGT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T12:52:35.385701"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kay.com/?msockid=25d8b180458963ff019da63f44ed62fc",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-24T12:52:45.735259",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=25d8b180458963ff019da63f44ed62fc",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/",
+      "https://kaystore.in/"
+    ],
+    "timestamp": "2026-08-24T12:53:30.528962",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=25d8b180458963ff019da63f44ed62fc",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/",
+      "https://kaystore.in/"
+    ],
+    "timestamp": "2026-08-24T12:53:52.291429",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/kay-kay-overseas-corporation-27AACFK0693D1ZJ/",
+      "https://piceapp.com/gst-number-search/kay-kay-overseas-corporation-27aacfk0693d1zj/",
+      "https://gst.jamku.app/gstin/27AACFK0693D1ZJ",
+      "https://gst.unifers.ai/gst/36AACFK0693D2ZJ/kay-kay-overseas-corporation",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-06aacfk0693d1zn/"
+    ],
+    "timestamp": "2026-08-24T12:56:01.939573",
+    "status": "results_found"
+  }
+]

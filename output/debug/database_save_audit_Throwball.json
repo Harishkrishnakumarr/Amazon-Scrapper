@@ -1,0 +1,61 @@
+{
+  "category": "Throwball",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 614,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912020122026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SPARTAN SPORTS CORP",
+      "database_id": 615,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914158952026",
+      "email": "sales@spartansports.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://spartansports.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Rey's Sparkle Pvt. Ltd",
+      "database_id": 616,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Sporting Syndicate Pvt Ltd.",
+      "database_id": 617,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

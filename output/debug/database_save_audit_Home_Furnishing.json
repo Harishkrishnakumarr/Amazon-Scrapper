@@ -1,0 +1,61 @@
+{
+  "category": "Home Furnishing",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Heybey Traders",
+      "database_id": 1055,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "vishnu.solanki89@gmail.com",
+      "gst": "06FNWPK8099F1Z2",
+      "pan": "FNWPK8099F",
+      "website": "https://heytraders.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "LD ENTERPRISE Hub",
+      "database_id": 1056,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@ldplayer.net",
+      "gst": "33CAUPD5785R1ZO",
+      "pan": "CAUPD5785R",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "GOOD LIFE BRANDS",
+      "database_id": 1057,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "27AAFCG6407K1ZF",
+      "pan": "AAFCG6407K",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Crosscut Lamps",
+      "database_id": 1058,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

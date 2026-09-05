@@ -1,0 +1,74 @@
+{
+  "category": "Monitors & Accessories",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 741,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Infomatica Store",
+      "database_id": 742,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AccuTrust",
+      "database_id": 743,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919496799590",
+      "email": "consult@accutrust.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.1mg.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "xtronicsapp",
+      "database_id": 744,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919945518340",
+      "email": "xtronicsapps@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "X4Cart",
+      "database_id": 745,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "23BSZPK3016J1ZH",
+      "pan": "BSZPK3016J",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

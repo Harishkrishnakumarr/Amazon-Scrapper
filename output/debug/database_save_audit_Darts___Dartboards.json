@@ -1,0 +1,35 @@
+{
+  "category": "Darts & Dartboards",
+  "records_before_save": 8,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Famous Quality\u00ae",
+      "database_id": 522,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913399373537",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.famousbirthdays.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 523,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

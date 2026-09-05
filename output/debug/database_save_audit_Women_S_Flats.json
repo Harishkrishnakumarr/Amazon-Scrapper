@@ -1,0 +1,35 @@
+{
+  "category": "Women'S Flats",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AnKaHu Enterprises",
+      "database_id": 1347,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FashionVillage20",
+      "database_id": 1348,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918866340881",
+      "email": "shivaayenterprise98@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://fashionville.in/",
+      "status": "Verified"
+    }
+  ]
+}

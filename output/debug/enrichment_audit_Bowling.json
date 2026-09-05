@@ -1,0 +1,481 @@
+[
+  {
+    "business": "Trinkets And More",
+    "field": "Business Name",
+    "value": "Trinkets And More",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A11TWMZZX8260B&asin=B06Y1NH8NC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T11:48:59.743407"
+  },
+  {
+    "seller": "Trinkets And More",
+    "field": "Website",
+    "query": "Trinkets And More official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://trinketsandmore.shop/",
+      "https://www.weartrinkets.com/"
+    ],
+    "timestamp": "2026-09-04T11:49:03.025047",
+    "status": "results_found"
+  },
+  {
+    "business": "Trinkets And More",
+    "field": "Website URL",
+    "value": "https://www.weartrinkets.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.weartrinkets.com/",
+    "timestamp": "2026-09-04T11:49:14.173677"
+  },
+  {
+    "seller": "Trinkets And More",
+    "field": "Legal Entity Name",
+    "query": "Trinkets And More company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cscqc.edu.ph/",
+      "http://cscqcph.com/",
+      "https://coursefinder.ph/universities/college-of-st-catherine-quezon-city",
+      "https://www.cscqc.edu.ph/about.html"
+    ],
+    "timestamp": "2026-09-04T11:49:24.507216",
+    "status": "results_found"
+  },
+  {
+    "business": "Trinkets And More",
+    "field": "Email Address",
+    "value": "admissions@cscqc.edu.ph",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cscqc.edu.ph/",
+    "timestamp": "2026-09-04T11:49:26.473090"
+  },
+  {
+    "seller": "Trinkets And More",
+    "field": "Legal Entity Name",
+    "query": "Trinkets And More Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/search/trinkets-institute-of-technology-private-limited-cin-U80904MH2016PTC285900"
+    ],
+    "timestamp": "2026-09-04T11:49:33.919504",
+    "status": "results_found"
+  },
+  {
+    "business": "Trinkets And More",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-04T11:49:37.458462"
+  },
+  {
+    "business": "Trinkets And More",
+    "field": "Billing Address",
+    "value": "the company must have a registered office (commercial, residential, or virtual office) for receiving official correspondence. address proof and the pr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-04T11:49:37.470052"
+  },
+  {
+    "business": "Trinkets And More",
+    "field": "City",
+    "value": "residential",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-04T11:49:37.470070"
+  },
+  {
+    "seller": "Trinkets And More",
+    "field": "PAN",
+    "query": "Trinkets And More PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T11:49:40.105196",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trinkets And More",
+    "field": "PAN",
+    "query": "Trinkets And More PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstserver.com/gst/27AAMFT5986G1ZG/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-09-04T11:49:53.428530",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trinkets And More",
+    "field": "GST",
+    "query": "Trinkets And More GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ca360pro.com/gst-registration-online/",
+      "https://www.registerkaro.in/gst-registration"
+    ],
+    "timestamp": "2026-09-04T11:49:57.487819",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trinkets And More",
+    "field": "Owner",
+    "query": "Trinkets And More director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lalastrinketsandmore.com/introduction",
+      "https://www.signalhire.com/companies/trinkets-more",
+      "https://www.forbes.com/profile/bernard-arnault/",
+      "https://www.crunchbase.com/organization/trinket/profiles_and_contacts"
+    ],
+    "timestamp": "2026-09-04T11:50:30.579822",
+    "status": "results_found"
+  },
+  {
+    "business": "Evergreen Ent",
+    "field": "Business Name",
+    "value": "Evergreen Ent",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3I76YE7BXCX4B&asin=B07YCDDL55&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T11:50:45.995451"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Website",
+    "query": "Evergreen Ent official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://evergreenpublications.in/",
+      "https://www.evergreenent.com/latest-releases"
+    ],
+    "timestamp": "2026-09-04T11:50:51.058000",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Legal Entity Name",
+    "query": "Evergreen Ent company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shipmentlink.com/tam1/jsp/TAM1_RegisterDispatcher.jsp",
+      "https://www.falconebiz.com/company/EVERGREEN-ENTERPRISES-PRIVATE-LIMITED-U74110TN1999PTC042108",
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-09-04T11:51:30.652102",
+    "status": "results_found"
+  },
+  {
+    "business": "Evergreen Ent",
+    "field": "Email Address",
+    "value": "reennila@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/EVERGREEN-ENTERPRISES-PRIVATE-LIMITED-U74110TN1999PTC042108",
+    "timestamp": "2026-09-04T11:51:35.795805"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "PAN",
+    "query": "Evergreen Ent PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.evergreen-marine.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp"
+    ],
+    "timestamp": "2026-09-04T11:51:43.958369",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "PAN",
+    "query": "Evergreen Ent PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.evergreen-marine.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp"
+    ],
+    "timestamp": "2026-09-04T11:51:58.624234",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "GST",
+    "query": "Evergreen Ent GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.evergreen-marine.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp"
+    ],
+    "timestamp": "2026-09-04T11:52:00.538808",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "GST",
+    "query": "Evergreen Ent GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.evergreen-marine.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp"
+    ],
+    "timestamp": "2026-09-04T11:52:11.671292",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Owner",
+    "query": "Evergreen Ent director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.evergreenent.com/team",
+      "https://tracxn.com/d/companies/evergreenent/__5tHcNTOgg28gHx8lduBU6W7BNLOPlyz0WKkFlc6II0Y",
+      "https://www.forbes.com/profile/chang-kuo-hua/",
+      "https://www.evergreen-marine.com/emc/governance/jsp/EMC_BoardOfDirector.jsp"
+    ],
+    "timestamp": "2026-09-04T11:52:15.337917",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Owner",
+    "query": "Evergreen Ent founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.evergreen-marine.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp"
+    ],
+    "timestamp": "2026-09-04T11:52:30.561040",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Address",
+    "query": "Evergreen Ent registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.evergreen-line.com/officesagents/jsp/OFCAG_CountryInfo.jsp?countryCode=IN",
+      "https://www.dnb.com/business-directory/company-profiles.evergreen_enteprises.8663b6e539d4e9bee2f5e6f81c5d4c0a.html",
+      "https://www.falconebiz.com/company/EVERGREEN-SHIPPING-AGENCY-INDIA-PRIVATE-LIMITED-U63012MH2004PTC143923",
+      "https://www.insiderbiz.in/company-map/EVERGREEN-SHIPPING-AGENCY-INDIA-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-09-04T11:52:32.462614",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Address",
+    "query": "Evergreen Ent registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://doctor.webmd.com/practice/evergreen-health-ear-nose-and-throat-029f2b19-8305-e511-b35d-001f29e3eb44",
+      "https://www.chamberofcommerce.com/business-directory/washington/kirkland/otolaryngology-clinic/2007947777-evergreenhealth-ear-nose-throat-care",
+      "https://npidb.org/organizations/allopathic_osteopathic_physicians/otolaryngology_207y00000x/1982622817.aspx",
+      "https://npiprofile.com/npi/1982622817"
+    ],
+    "timestamp": "2026-09-04T11:52:46.879921",
+    "status": "results_found"
+  },
+  {
+    "business": "CRAFTS INDIA EMPORIUM",
+    "field": "Business Name",
+    "value": "CRAFTS INDIA EMPORIUM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OB460583OJUO&asin=B06XZXBH9T&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T11:52:47.881021"
+  },
+  {
+    "business": "CRAFTS INDIA EMPORIUM",
+    "field": "Phone Number",
+    "value": "+919980232309",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OB460583OJUO&asin=B06XZXBH9T&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T11:52:47.881051"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "Website",
+    "query": "CRAFTS INDIA EMPORIUM official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shoponline.cottageemporium.in/",
+      "https://indiacraftsemporium.com/"
+    ],
+    "timestamp": "2026-09-04T11:52:50.680280",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "Legal Entity Name",
+    "query": "CRAFTS INDIA EMPORIUM company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://onelittleproject.com/",
+      "https://www.goodhousekeeping.com/travel/hobbies-and-activities/g32336151/adult-craft-ideas/",
+      "https://modpodgerocksblog.com/crafts-to-do-at-home/",
+      "https://onelittleproject.com/category/crafts/"
+    ],
+    "timestamp": "2026-09-04T11:52:58.779802",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "PAN",
+    "query": "CRAFTS INDIA EMPORIUM PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://indiacraftsemporium.com/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T11:53:15.179379",
+    "status": "results_found"
+  },
+  {
+    "business": "CRAFTS INDIA EMPORIUM",
+    "field": "Email Address",
+    "value": "indiacraftemporium@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://indiacraftsemporium.com/",
+    "timestamp": "2026-09-04T11:53:18.859692"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "PAN",
+    "query": "CRAFTS INDIA EMPORIUM PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/INDIAN-HANDICRAFTS-EMPORIUM-07AAAFI0067M2ZD/",
+      "https://gstserver.com/gst/34AMXPB3489P1Z5/",
+      "https://www.microvistatech.com/gstin-search/indian-handicrafts-emporium-07aaafi0067m2zd",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-04T11:53:22.209368",
+    "status": "results_found"
+  },
+  {
+    "business": "CRAFTS INDIA EMPORIUM",
+    "field": "GST Number",
+    "value": "07AAAFI0067M2ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/INDIAN-HANDICRAFTS-EMPORIUM-07AAAFI0067M2ZD/",
+    "timestamp": "2026-09-04T11:53:23.419035"
+  },
+  {
+    "business": "CRAFTS INDIA EMPORIUM",
+    "field": "PAN Number",
+    "value": "AAAFI0067M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/INDIAN-HANDICRAFTS-EMPORIUM-07AAAFI0067M2ZD/",
+    "timestamp": "2026-09-04T11:53:23.419054"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "Owner",
+    "query": "CRAFTS INDIA EMPORIUM director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dial4trade.com/india-crafts-emporium/contact-us.htm",
+      "https://indiacraftsemporium.com/about-4",
+      "https://cauverycrafts.com/",
+      "https://shoponline.cottageemporium.in/about-us"
+    ],
+    "timestamp": "2026-09-04T11:53:25.371895",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "Owner",
+    "query": "CRAFTS INDIA EMPORIUM founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://onelittleproject.com/",
+      "https://www.goodhousekeeping.com/travel/hobbies-and-activities/g32336151/adult-craft-ideas/",
+      "https://modpodgerocksblog.com/crafts-to-do-at-home/",
+      "https://onelittleproject.com/category/crafts/"
+    ],
+    "timestamp": "2026-09-04T11:53:33.922914",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "Address",
+    "query": "CRAFTS INDIA EMPORIUM registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://crafts-india.com/contact-us/",
+      "https://craftsindia.asia/contact/",
+      "http://craftsindia.in/contact.html",
+      "https://indiacraftsemporium.com/contact-8"
+    ],
+    "timestamp": "2026-09-04T11:53:42.727455",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTS INDIA EMPORIUM",
+    "field": "Address",
+    "query": "CRAFTS INDIA EMPORIUM registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://onelittleproject.com/",
+      "https://www.goodhousekeeping.com/travel/hobbies-and-activities/g32336151/adult-craft-ideas/",
+      "https://modpodgerocksblog.com/crafts-to-do-at-home/",
+      "https://onelittleproject.com/category/crafts/"
+    ],
+    "timestamp": "2026-09-04T11:53:56.192827",
+    "status": "results_found"
+  }
+]

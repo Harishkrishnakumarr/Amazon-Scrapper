@@ -1,0 +1,776 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B089QLVCY5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:33:46.655111"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "https://us.etrade.com/e/t/user/login?msockid=2ea368ab1e1662eb04a67f691f756339"
+    ],
+    "timestamp": "2026-08-27T05:33:50.455952",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+    "timestamp": "2026-08-27T05:34:23.373965"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "https://us.etrade.com/e/t/user/login?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:34:31.617881",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-27T05:34:43.619581"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "https://us.etrade.com/e/t/user/login?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:34:45.185986",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "https://us.etrade.com/e/t/user/login?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:34:53.135895",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "https://us.etrade.com/e/t/user/login?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:35:09.064309",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "https://us.etrade.com/e/t/user/login?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:35:20.549066",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/etrade-financial/people",
+      "https://www.forbes.com/profile/j-joe-ricketts/",
+      "https://brandsownedby.com/who-owns-e-trade/",
+      "https://everything.explained.today/E%2ATrade_Financial_Corp./"
+    ],
+    "timestamp": "2026-08-27T05:35:28.454199",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2ea368ab1e1662eb04a67f691f756339",
+      "https://us.etrade.com/e/t/user/login?msockid=2ea368ab1e1662eb04a67f691f756339"
+    ],
+    "timestamp": "2026-08-27T05:35:43.084563",
+    "status": "results_found"
+  },
+  {
+    "business": "Cloud Premium",
+    "field": "Business Name",
+    "value": "Cloud Premium",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3B9KC7XM6QFF2&asin=B08P71DKH3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:35:49.151163"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "Website",
+    "query": "Cloud Premium official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ad.doubleclick.net/searchads/link/click?lid=43700082716552594&ds_s_kwgid=58700008961673599&ds_a_cid=983964408&ds_a_caid=23082561056&ds_a_agid=186075770563&ds_a_lid=kwd-24125920084&&ds_e_adid=71949573535335&ds_e_target_id=kwd-71950132199433:loc-90&&ds_e_network=o&ds_url_v=2&ds_dest_url=https://cloud.google.com/free?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713664-GCP-DR-APAC-IN-en-Bing-SKWS-PHR-GenericCloud&utm_content=c-Hybrid+%7C+SKWS+-+BRO+%7C+Txt+-+Generic+Cloud+-+Cloud+Generic+-+Cloud+Generic+-+IN_en-24125920084&utm_term=cloud%20account&gclid=d701d247aec913c06257b8c8d1a808fa&gclsrc=3p.ds&&msclkid=d701d247aec913c06257b8c8d1a808fa",
+      "https://www.adobe.com/creativecloud.html"
+    ],
+    "timestamp": "2026-08-27T05:35:52.294478",
+    "status": "results_found"
+  },
+  {
+    "business": "Cloud Premium",
+    "field": "Website URL",
+    "value": "https://ad.doubleclick.net/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://ad.doubleclick.net/searchads/link/click?lid=43700082716552594&ds_s_kwgid=58700008961673599&ds_a_cid=983964408&ds_a_caid=23082561056&ds_a_agid=186075770563&ds_a_lid=kwd-24125920084&&ds_e_adid=71949573535335&ds_e_target_id=kwd-71950132199433:loc-90&&ds_e_network=o&ds_url_v=2&ds_dest_url=https://cloud.google.com/free?utm_source=bing&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713664-GCP-DR-APAC-IN-en-Bing-SKWS-PHR-GenericCloud&utm_content=c-Hybrid+%7C+SKWS+-+BRO+%7C+Txt+-+Generic+Cloud+-+Cloud+Generic+-+Cloud+Generic+-+IN_en-24125920084&utm_term=cloud%20account&gclid=d701d247aec913c06257b8c8d1a808fa&gclsrc=3p.ds&&msclkid=d701d247aec913c06257b8c8d1a808fa",
+    "timestamp": "2026-08-27T05:37:12.967552"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "Legal Entity Name",
+    "query": "Cloud Premium company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/",
+      "https://www.icloud.com/iclouddrive"
+    ],
+    "timestamp": "2026-08-27T05:37:28.561296",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "Legal Entity Name",
+    "query": "Cloud Premium Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/",
+      "https://www.icloud.com/iclouddrive"
+    ],
+    "timestamp": "2026-08-27T05:37:37.031726",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "PAN",
+    "query": "Cloud Premium PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/"
+    ],
+    "timestamp": "2026-08-27T05:37:41.984463",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "PAN",
+    "query": "Cloud Premium PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/",
+      "https://www.icloud.com/iclouddrive"
+    ],
+    "timestamp": "2026-08-27T05:37:47.082562",
+    "status": "results_found"
+  },
+  {
+    "business": "VINSU",
+    "field": "Business Name",
+    "value": "VINSU",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3BWYNPYBPT1L8&asin=B0DBVX25GL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:37:51.147753"
+  },
+  {
+    "seller": "VINSU",
+    "field": "Website",
+    "query": "VINSU official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shop.coolbreezebeverages.com/collections/flavored-bag-in-boxes",
+      "https://www.walmart.com/ip/Coke-Classic-Soda-Syrup-2-5-Gallon-Bag-in-Box-BIB/212674601"
+    ],
+    "timestamp": "2026-08-27T05:37:54.398251",
+    "status": "results_found"
+  },
+  {
+    "business": "VINSU",
+    "field": "Website URL",
+    "value": "https://www.vinsu.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vinsu.com/",
+    "timestamp": "2026-08-27T05:37:57.072889"
+  },
+  {
+    "seller": "VINSU",
+    "field": "Legal Entity Name",
+    "query": "VINSU company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kaskus.co.id/thread/65a109821532ca2dfe3f3ada/viral-video-sprei-mu-link-tersebar-di-tiktok-sampai-twitter-apa-isinya",
+      "https://www.kaskus.co.id/post/64a408fc26416c27216aad88"
+    ],
+    "timestamp": "2026-08-27T05:38:05.052934",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINSU",
+    "field": "Legal Entity Name",
+    "query": "VINSU Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=b4d1b4ba0e10130b2ce7de3571e142bc&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.falconebiz.com/company/VINSU-TRADING-EXIM-PRIVATE-LIMITED-U51909TG2018PTC128860",
+      "https://www.instafinancials.com/company/vinsu-trading-exim-private-limited-U51909TG2018PTC128860",
+      "https://www.companydetails.in/company/vinsu-trading-exim-private-limited"
+    ],
+    "timestamp": "2026-08-27T05:38:16.762496",
+    "status": "results_found"
+  },
+  {
+    "business": "VINSU",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=b4d1b4ba0e10130b2ce7de3571e142bc&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-27T05:38:19.053991"
+  },
+  {
+    "seller": "VINSU",
+    "field": "PAN",
+    "query": "VINSU PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mydpboss.com/",
+      "https://satta-matkaz.com/",
+      "https://mydpboss.in/",
+      "https://sattamatkadpbosss.net/"
+    ],
+    "timestamp": "2026-08-27T05:38:23.778407",
+    "status": "results_found"
+  },
+  {
+    "business": "VINSU",
+    "field": "Email Address",
+    "value": "nagpur0101@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://mydpboss.com/",
+    "timestamp": "2026-08-27T05:38:25.760021"
+  },
+  {
+    "seller": "VINSU",
+    "field": "PAN",
+    "query": "VINSU PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/vindicate",
+      "https://dictionary.cambridge.org/us/dictionary/english/vindicate",
+      "https://englishwordchamps.com/vindicate-meaning-and-examples/",
+      "https://dictionary.cambridge.org/dictionary/english/vindicate?q=vindicated"
+    ],
+    "timestamp": "2026-08-27T05:38:31.459841",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINSU",
+    "field": "GST",
+    "query": "VINSU GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login",
+      "https://docs.github.com/en/copilot/reference/ai-models/model-hosting",
+      "https://docs.github.com/en/copilot/concepts/models/auto-model-selection"
+    ],
+    "timestamp": "2026-08-27T05:38:36.160461",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINSU",
+    "field": "GST",
+    "query": "VINSU GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/vinsu-24NAPPS1563C1ZD/",
+      "https://www.knowyourgst.com/gst-number-search/vinsu-international-07AABFV6747J1ZR/",
+      "https://www.falconebiz.com/company/VINSU-TRADING-EXIM-PRIVATE-LIMITED-U51909TG2018PTC128860",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-27T05:38:43.143783",
+    "status": "results_found"
+  },
+  {
+    "business": "VINSU",
+    "field": "GST Number",
+    "value": "24NAPPS1563C1ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/vinsu-24NAPPS1563C1ZD/",
+    "timestamp": "2026-08-27T05:38:43.580834"
+  },
+  {
+    "business": "VINSU",
+    "field": "PAN Number",
+    "value": "NAPPS1563C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/vinsu-24NAPPS1563C1ZD/",
+    "timestamp": "2026-08-27T05:38:43.580845"
+  },
+  {
+    "seller": "VINSU",
+    "field": "Owner",
+    "query": "VINSU director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-27T05:38:44.860103",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINSU",
+    "field": "Owner",
+    "query": "VINSU founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/50977913/google-maps-shows-for-development-purposes-only",
+      "https://stackoverflow.com/questions/35288250/google-maps-javascript-api-referernotallowedmaperror"
+    ],
+    "timestamp": "2026-08-27T05:38:48.742111",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINSU",
+    "field": "Address",
+    "query": "VINSU registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.astrologyanswers.com/horoscopes/",
+      "https://www.astrologyanswers.com/",
+      "https://bbs.huaweicloud.com/blogs/455174",
+      "https://bbs.huaweicloud.com/blogs/453371"
+    ],
+    "timestamp": "2026-08-27T05:38:50.334662",
+    "status": "results_found"
+  },
+  {
+    "business": "KRISHNA.COLLECTION",
+    "field": "Business Name",
+    "value": "KRISHNA.COLLECTION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2I97QJRJO7KAZ&asin=B0FFZFMT4Q&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:39:07.260968"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "Website",
+    "query": "KRISHNA.COLLECTION official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.carsales.com.au/",
+      "https://www.carsales.com.au/cars/used/"
+    ],
+    "timestamp": "2026-08-27T05:39:08.962098",
+    "status": "results_found"
+  },
+  {
+    "business": "KRISHNA.COLLECTION",
+    "field": "Website URL",
+    "value": "https://www.krishnacollection.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.krishnacollection.com/",
+    "timestamp": "2026-08-27T05:39:11.480697"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "Legal Entity Name",
+    "query": "KRISHNA.COLLECTION company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/org/krishna-collection/f7cbc1559a",
+      "https://find-and-update.company-information.service.gov.uk/company/14975356",
+      "https://www.thecompanycheck.com/org/krishna-collection/38fafd147a",
+      "https://www.dnb.com/business-directory/company-profiles.krishna_collection.7836cc1320a5d6154f7435e82f26e8cc.html"
+    ],
+    "timestamp": "2026-08-27T05:39:21.473307",
+    "status": "results_found"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "Legal Entity Name",
+    "query": "KRISHNA.COLLECTION Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.whatsapp.com/?lang=ko",
+      "https://www.whatsapp.com/",
+      "https://web.whatsapp.com/",
+      "https://wa.me/"
+    ],
+    "timestamp": "2026-08-27T05:39:31.065583",
+    "status": "results_found"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "PAN",
+    "query": "KRISHNA.COLLECTION PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://www.goodreturns.in/pan-card-office-and-centres-in-krishna-c87.html"
+    ],
+    "timestamp": "2026-08-27T05:39:38.060372",
+    "status": "results_found"
+  },
+  {
+    "business": "KRISHNA.COLLECTION",
+    "field": "Phone Number",
+    "value": "+919848646702",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.goodreturns.in/pan-card-office-and-centres-in-krishna-c87.html",
+    "timestamp": "2026-08-27T05:39:41.868412"
+  },
+  {
+    "business": "KRISHNA.COLLECTION",
+    "field": "Email Address",
+    "value": "rahuluda@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.goodreturns.in/pan-card-office-and-centres-in-krishna-c87.html",
+    "timestamp": "2026-08-27T05:39:41.869080"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "PAN",
+    "query": "KRISHNA.COLLECTION PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/krishna-collection-27EAXPK8746J1ZM/",
+      "https://www.thecompanycheck.com/org/krishna-collection/38fafd147a",
+      "https://www.dnb.com/business-directory/company-profiles.krishna_collection.6f4dc3bfe5cfd83e40955b69c8ff3df9.html",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-27T05:39:45.033881",
+    "status": "results_found"
+  },
+  {
+    "business": "KRISHNA.COLLECTION",
+    "field": "GST Number",
+    "value": "27EAXPK8746J1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/krishna-collection-27EAXPK8746J1ZM/",
+    "timestamp": "2026-08-27T05:39:45.519780"
+  },
+  {
+    "business": "KRISHNA.COLLECTION",
+    "field": "PAN Number",
+    "value": "EAXPK8746J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/krishna-collection-27EAXPK8746J1ZM/",
+    "timestamp": "2026-08-27T05:39:45.519797"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "Owner",
+    "query": "KRISHNA.COLLECTION director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.thecompanycheck.com/org/krishna-collection/38fafd147a",
+      "https://gjepc.org/solitaire/powering-indias-diamond-dreams-ghanshyambhai-dholakia-on-the-kisna-effect/",
+      "https://piceapp.com/gst-number-search/krishna-collection-07bhdpb7102d1z3/"
+    ],
+    "timestamp": "2026-08-27T05:39:48.755206",
+    "status": "results_found"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "Owner",
+    "query": "KRISHNA.COLLECTION founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.calculator.com/",
+      "https://www.calculator.net/basic-calculator.html"
+    ],
+    "timestamp": "2026-08-27T05:39:52.536512",
+    "status": "results_found"
+  },
+  {
+    "seller": "KRISHNA.COLLECTION",
+    "field": "Address",
+    "query": "KRISHNA.COLLECTION registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://krishnacollectiononline.com/contact-us/",
+      "https://www.thecompanycheck.com/org/krishna-collection/f7cbc1559a",
+      "https://www.dnb.com/business-directory/company-profiles.krishna_collection.6f4dc3bfe5cfd83e40955b69c8ff3df9.html",
+      "https://www.thecompanycheck.com/org/krishna-collection/38fafd147a"
+    ],
+    "timestamp": "2026-08-27T05:40:01.281800",
+    "status": "results_found"
+  },
+  {
+    "business": "ARLOOK ENTERPRISES",
+    "field": "Business Name",
+    "value": "ARLOOK ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A6HRIGFRX52OH&asin=B097LKVDVP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:40:32.012820"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "Website",
+    "query": "ARLOOK ENTERPRISES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.funtrivia.com/quizzes/television/index.html",
+      "https://www.funtrivia.com/trivia-quiz/Geography/The-Canary-Islands-288332.html"
+    ],
+    "timestamp": "2026-08-27T05:40:33.380970",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "ARLOOK ENTERPRISES company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cnn.com/2026/07/29/politics/us-weapons-stockpiles-dwindle-iran-war",
+      "https://www.thedailybeast.com/trumps-war-with-iran-has-almost-entirely-depleted-us-missile-stockpiles/",
+      "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html"
+    ],
+    "timestamp": "2026-08-27T05:40:42.201569",
+    "status": "results_found"
+  },
+  {
+    "business": "ARLOOK ENTERPRISES",
+    "field": "Email Address",
+    "value": "will.neal@thedailybeast.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.thedailybeast.com/trumps-war-with-iran-has-almost-entirely-depleted-us-missile-stockpiles/",
+    "timestamp": "2026-08-27T05:40:47.960467"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "ARLOOK ENTERPRISES Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=a26a7b4a2c821b2909fe11c5ac0fdbe1",
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.arlookgroup.com/"
+    ],
+    "timestamp": "2026-08-27T05:40:52.539405",
+    "status": "results_found"
+  },
+  {
+    "business": "ARLOOK ENTERPRISES",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=a26a7b4a2c821b2909fe11c5ac0fdbe1",
+    "timestamp": "2026-08-27T05:40:53.344930"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "PAN",
+    "query": "ARLOOK ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.weareteachers.com/basketball-jokes/"
+    ],
+    "timestamp": "2026-08-27T05:40:58.581557",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "PAN",
+    "query": "ARLOOK ENTERPRISES PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.dsp.golf/shioji-chihiro"
+    ],
+    "timestamp": "2026-08-27T05:41:03.931538",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "GST",
+    "query": "ARLOOK ENTERPRISES GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-08-27T05:41:10.116168",
+    "status": "results_found"
+  },
+  {
+    "business": "ARLOOK ENTERPRISES",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T05:41:10.832988"
+  },
+  {
+    "business": "ARLOOK ENTERPRISES",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T05:41:10.833005"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "Owner",
+    "query": "ARLOOK ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://zexy.net/contents/lovenews/article.php?d=20250613",
+      "https://starwalk.space/ja/news/full-moon-august"
+    ],
+    "timestamp": "2026-08-27T05:41:12.259327",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "Owner",
+    "query": "ARLOOK ENTERPRISES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thsrc.com.tw/",
+      "https://irs.thsrc.com.tw/IMINT/?locale=tw",
+      "https://ptis.thsrc.com.tw/ptis/",
+      "https://en.thsrc.com.tw/"
+    ],
+    "timestamp": "2026-08-27T05:41:16.673440",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "Address",
+    "query": "ARLOOK ENTERPRISES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.walmart.com/store-finder",
+      "https://www.walmart.com/",
+      "https://www.walmart.com/store-directory/[state]/store-finder",
+      "https://corporate.walmart.com/askwalmart/how-do-i-find-information-about-my-local-stores"
+    ],
+    "timestamp": "2026-08-27T05:41:32.370208",
+    "status": "results_found"
+  },
+  {
+    "seller": "ARLOOK ENTERPRISES",
+    "field": "Address",
+    "query": "ARLOOK ENTERPRISES registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://pcbang.hangame.com/",
+      "https://pcbang.hangame.com/popupRegister.nhn?m=waitingPcBang",
+      "http://pcbang.hangame.com/billing.nhn?pos=BillProductManage&pdtCode=K_TCOIN",
+      "https://pcbang.hangame.com/popup/credit_detail.jsp"
+    ],
+    "timestamp": "2026-08-27T05:41:44.708259",
+    "status": "results_found"
+  }
+]

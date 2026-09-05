@@ -1,0 +1,74 @@
+{
+  "category": "Men'S Sports Shoes",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Asian Shoes",
+      "database_id": 1316,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919996027231",
+      "email": "info@asianfootwears.com",
+      "gst": "33AANFA7619J1Z8",
+      "pan": "AANFA7619J",
+      "website": "https://www.asianfootwears.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1317,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BansalEnterprises",
+      "database_id": 1318,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.bansalenterprises.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Viraj Ent",
+      "database_id": 1317,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@medsynapse.app",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "STS ENTERPRISES",
+      "database_id": 1319,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917908669976",
+      "email": "info@sts-enterprise.com",
+      "gst": "36AAHFS8930Q1ZC",
+      "pan": "AAHFS8930Q",
+      "website": "https://www.sts-enterprise.com/",
+      "status": "Verified"
+    }
+  ]
+}

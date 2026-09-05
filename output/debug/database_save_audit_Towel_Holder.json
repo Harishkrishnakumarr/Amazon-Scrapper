@@ -1,0 +1,35 @@
+{
+  "category": "Towel Holder",
+  "records_before_save": 5,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1682,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "AAJCC9783E",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AMZ-Global",
+      "database_id": 1683,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@easydigitalfiling.com",
+      "gst": "29AAWFA1910B1ZN",
+      "pan": "AAWFA1910B",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "category": "Study Home Office Furniture",
+  "records_before_save": 7,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Wakefit Innovations Ltd",
+      "database_id": 222,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910100002026",
+      "email": "support@wakefit.co",
+      "gst": "29AABCW7791A1Z3",
+      "pan": "Not Found",
+      "website": "https://www.wakefit.co/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 223,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910111682011",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "D Mart Shop",
+      "database_id": 224,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913340050069",
+      "email": "Not Found",
+      "gst": "27AACCA8432H2ZP",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "The Sleep Company",
+      "database_id": 225,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912019333446",
+      "email": "care@thesleepcompany.in",
+      "gst": "30AAICC4845L1ZL",
+      "pan": "AAICC4845L",
+      "website": "https://www.thesleepcompany.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

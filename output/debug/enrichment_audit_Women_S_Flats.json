@@ -1,0 +1,309 @@
+[
+  {
+    "business": "AnKaHu Enterprises",
+    "field": "Business Name",
+    "value": "AnKaHu Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GNHPRV2K36HW&asin=B0FMYM1TGL&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T10:57:34.111637"
+  },
+  {
+    "seller": "AnKaHu Enterprises",
+    "field": "Website",
+    "query": "AnKaHu Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://bakahu.in/",
+      "https://www.adanienterprises.com/"
+    ],
+    "timestamp": "2026-09-02T10:57:38.557518",
+    "status": "results_found"
+  },
+  {
+    "seller": "AnKaHu Enterprises",
+    "field": "Legal Entity Name",
+    "query": "AnKaHu Enterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamsearch.com/",
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://mcalookup.in/"
+    ],
+    "timestamp": "2026-09-02T10:57:50.141010",
+    "status": "results_found"
+  },
+  {
+    "business": "AnKaHu Enterprises",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T10:57:52.692650"
+  },
+  {
+    "business": "AnKaHu Enterprises",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T10:57:52.692935"
+  },
+  {
+    "seller": "AnKaHu Enterprises",
+    "field": "Legal Entity Name",
+    "query": "AnKaHu Enterprises Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregistration.org.in/blog/what-is-udyam-registration/",
+      "https://udyamregistrationform.com/nic-code-list-for-services/",
+      "https://udyamregistrationform.com/date-of-incorporation-in-udyam-registration/",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T10:58:01.257575",
+    "status": "results_found"
+  },
+  {
+    "seller": "AnKaHu Enterprises",
+    "field": "PAN",
+    "query": "AnKaHu Enterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan",
+      "https://gstpan.com/",
+      "https://gstverify.co.in/search/",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T10:58:08.956263",
+    "status": "results_found"
+  },
+  {
+    "business": "AnKaHu Enterprises",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T10:58:16.261372"
+  },
+  {
+    "business": "AnKaHu Enterprises",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T10:58:16.261391"
+  },
+  {
+    "seller": "AnKaHu Enterprises",
+    "field": "Owner",
+    "query": "AnKaHu Enterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://zauba.company/",
+      "https://ankahu.com/elm-about-us/",
+      "https://www.companyseekers.com/",
+      "https://www.instafinancials.com/company/anka-enterprises-private-limited-U51311KA2002PTC030920/company-overview"
+    ],
+    "timestamp": "2026-09-02T10:58:19.554912",
+    "status": "results_found"
+  },
+  {
+    "seller": "AnKaHu Enterprises",
+    "field": "Address",
+    "query": "AnKaHu Enterprises registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adanienterprises.com/contact-us#:~:text=Aravalli%2C%20Shantigram%2C%20Near%20Vaishnodevi%20Circle%2C,S%20G%20Highway%2C%20Ahmedabad-382421%2C%20Gujarat%2C%20India.",
+      "https://ankahu.com/elm-contact-us/",
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T10:58:34.570569",
+    "status": "results_found"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Business Name",
+    "value": "FashionVillage20",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP7ZVF4R&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T10:58:56.945548"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Website",
+    "query": "FashionVillage20 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fashionvilla.in/",
+      "https://fashionville.in/"
+    ],
+    "timestamp": "2026-09-02T10:59:00.487606",
+    "status": "results_found"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Website URL",
+    "value": "https://fashionville.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://fashionville.in/",
+    "timestamp": "2026-09-02T10:59:07.737504"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Phone Number",
+    "value": "+918866340881",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fashionville.in/",
+    "timestamp": "2026-09-02T10:59:09.532838"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Email Address",
+    "value": "shivaayenterprise98@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fashionville.in/",
+    "timestamp": "2026-09-02T10:59:09.532958"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Billing Address",
+    "value": "G-55 THE PALLADIUM MALL YOGICHOWK BESIDES ANUPAM BUSINESS HUB, Gujarat, Surat, 395010",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fashionville.in/",
+    "timestamp": "2026-09-02T10:59:09.536410"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "City",
+    "value": "Surat",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fashionville.in/",
+    "timestamp": "2026-09-02T10:59:09.536429"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "State",
+    "value": "Gujarat",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fashionville.in/",
+    "timestamp": "2026-09-02T10:59:09.536435"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Pincode",
+    "value": "395010",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fashionville.in/",
+    "timestamp": "2026-09-02T10:59:09.536440"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Legal Entity Name",
+    "query": "FashionVillage20 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/check-company-name-availability",
+      "https://zauba.company/",
+      "https://www.registerkaro.in/"
+    ],
+    "timestamp": "2026-09-02T10:59:17.520028",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "PAN",
+    "query": "FashionVillage20 PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide#:~:text=The%20first%20step%20is%20to%20visit%20the%20official,including%20retrieving%20your%20PAN%20card%20number%20by%20name.",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.setindiabiz.com/blog/know-pan-number-by-name-dob-online"
+    ],
+    "timestamp": "2026-09-02T10:59:33.324857",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "PAN",
+    "query": "FashionVillage20 PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide#:~:text=The%20first%20step%20is%20to%20visit%20the%20official,including%20retrieving%20your%20PAN%20card%20number%20by%20name.",
+      "https://taxguru.in/income-tax/searching-pan-number-details.html",
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-information-using-pan-number-a-complete-guide",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide"
+    ],
+    "timestamp": "2026-09-02T10:59:48.917614",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "GST",
+    "query": "FashionVillage20 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://gstverify.co.in/search/",
+      "https://gstregistration.org/"
+    ],
+    "timestamp": "2026-09-02T10:59:53.061943",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "GST",
+    "query": "FashionVillage20 GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/gst-number-search",
+      "https://gstverify.co.in/search/",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-02T11:00:05.754108",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Owner",
+    "query": "FashionVillage20 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/sumant-kasliwal",
+      "https://www.fibre2fashion.com/interviews/face2face/20dresses/sumant-kasliwal/1359-1/",
+      "https://inc42.com/company/20dresses/people/",
+      "https://www.fibre2fashion.com/interviews/sourcing-talk/zensar-technologies/ganesh-natarajan/1104-1"
+    ],
+    "timestamp": "2026-09-02T11:00:07.539897",
+    "status": "results_found"
+  }
+]

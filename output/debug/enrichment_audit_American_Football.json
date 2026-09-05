@@ -1,0 +1,1100 @@
+[
+  {
+    "business": "Futabatech",
+    "field": "Business Name",
+    "value": "Futabatech",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JF4IV2S2QIFE&asin=B0G34MJHNR&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T19:22:59.543946"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "Website",
+    "query": "Futabatech official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://futabatech.com/",
+      "https://www.futaba.com/"
+    ],
+    "timestamp": "2026-09-04T19:23:04.846707",
+    "status": "results_found"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "Legal Entity Name",
+    "query": "Futabatech company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/futaba-tech-private-limited/__1LNXSD_xqJf9o7hGsJAGfXTwbRwJOHBmaEcSDEjNGz4",
+      "https://www.falconebiz.com/company/FUTABA-TECH-PRIVATE-LIMITED-U74930TG2015PTC098302",
+      "https://www.companydetails.in/company/futaba-tech-private-limited",
+      "https://www.thecompanycheck.com/company/futaba-tech-private-limited/U74930TG2015PTC098302"
+    ],
+    "timestamp": "2026-09-04T19:23:12.303109",
+    "status": "results_found"
+  },
+  {
+    "business": "Futabatech",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/futaba-tech-private-limited/__1LNXSD_xqJf9o7hGsJAGfXTwbRwJOHBmaEcSDEjNGz4",
+    "timestamp": "2026-09-04T19:23:13.481665"
+  },
+  {
+    "business": "Futabatech",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/futaba-tech-private-limited/__1LNXSD_xqJf9o7hGsJAGfXTwbRwJOHBmaEcSDEjNGz4",
+    "timestamp": "2026-09-04T19:23:13.481680"
+  },
+  {
+    "business": "Futabatech",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/futaba-tech-private-limited/__1LNXSD_xqJf9o7hGsJAGfXTwbRwJOHBmaEcSDEjNGz4",
+    "timestamp": "2026-09-04T19:23:13.481685"
+  },
+  {
+    "business": "Futabatech",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/futaba-tech-private-limited/__1LNXSD_xqJf9o7hGsJAGfXTwbRwJOHBmaEcSDEjNGz4",
+    "timestamp": "2026-09-04T19:23:13.481690"
+  },
+  {
+    "business": "Futabatech",
+    "field": "Email Address",
+    "value": "atech@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/FUTABA-TECH-PRIVATE-LIMITED-U74930TG2015PTC098302",
+    "timestamp": "2026-09-04T19:23:14.649841"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "Legal Entity Name",
+    "query": "Futabatech Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T19:23:17.803713",
+    "status": "no_results"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "PAN",
+    "query": "Futabatech PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T19:23:20.369061",
+    "status": "results_found"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "PAN",
+    "query": "Futabatech PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://futabatech.com/",
+      "https://gstverify.co.in/search/",
+      "https://gstserver.com/gst/24AADCF0299A1Z3/"
+    ],
+    "timestamp": "2026-09-04T19:23:25.937385",
+    "status": "results_found"
+  },
+  {
+    "business": "Futabatech",
+    "field": "GST Number",
+    "value": "24AADCF0299A1Z3",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/24AADCF0299A1Z3/",
+    "timestamp": "2026-09-04T19:23:28.056336"
+  },
+  {
+    "business": "Futabatech",
+    "field": "PAN Number",
+    "value": "AADCF0299A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/24AADCF0299A1Z3/",
+    "timestamp": "2026-09-04T19:23:28.056345"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "Owner",
+    "query": "Futabatech director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/FUTABA-TECH-PRIVATE-LIMITED-U74930TG2015PTC098302",
+      "https://www.indiafilings.com/search/futaba-tech-private-limited-cin-U74930TG2015PTC098302",
+      "https://tracxn.com/d/legal-entities/india/futaba-tech-private-limited/__1LNXSD_xqJf9o7hGsJAGfXTwbRwJOHBmaEcSDEjNGz4",
+      "https://www.thecompanycheck.com/company/futaba-tech-private-limited/U74930TG2015PTC098302"
+    ],
+    "timestamp": "2026-09-04T19:23:30.428118",
+    "status": "results_found"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "Owner",
+    "query": "Futabatech founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.futaba.com/corporate/company_profile/",
+      "https://www.futaba.com/corporate/company_i/history/",
+      "https://stockanalysis.com/quote/tyo/6986/company/",
+      "http://www.futaba-corp.com/en/company.html"
+    ],
+    "timestamp": "2026-09-04T19:23:36.825349",
+    "status": "results_found"
+  },
+  {
+    "seller": "Futabatech",
+    "field": "Phone",
+    "query": "Futabatech phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.futaba.com/cust_serv/contact/",
+      "https://www.futaba.com/cust_serv/",
+      "https://futabausa.com/contactus/",
+      "https://futabairc.com/customer-support/"
+    ],
+    "timestamp": "2026-09-04T19:23:48.568099",
+    "status": "results_found"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Business Name",
+    "value": "SKSB IMPORT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YZ9MMK17G6RH&asin=B0012SNLJG&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T19:24:01.654829"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Website",
+    "query": "SKSB IMPORT official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resource/home.aspx"
+    ],
+    "timestamp": "2026-09-04T19:24:04.123534",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Legal Entity Name",
+    "query": "SKSB IMPORT company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://www.sksb.in/",
+      "https://www.europages.co.uk/companies/sksb-import-private-limited-registration.html",
+      "https://www.sellerratings.com/amazon/india/sksb-import"
+    ],
+    "timestamp": "2026-09-04T19:24:09.806344",
+    "status": "results_found"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Phone Number",
+    "value": "+919773697785",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.in/resource/Services/Business_Setup.aspx",
+    "timestamp": "2026-09-04T19:24:10.422255"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Email Address",
+    "value": "info@sksb.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.in/resource/Services/Business_Setup.aspx",
+    "timestamp": "2026-09-04T19:24:10.422320"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Legal Entity Name",
+    "query": "SKSB IMPORT Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T19:24:15.806878",
+    "status": "no_results"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "PAN",
+    "query": "SKSB IMPORT PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.sksb.in/",
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-09-04T19:24:18.805098",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "PAN",
+    "query": "SKSB IMPORT PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resource/home.aspx",
+      "https://sksb.co.in/",
+      "https://sksb.co.in/collection/all-products"
+    ],
+    "timestamp": "2026-09-04T19:24:24.144491",
+    "status": "results_found"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Billing Address",
+    "value": "plot 120, sector one, vaishali, uttar pradesh, ghaziabad, 201010",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.co.in/",
+    "timestamp": "2026-09-04T19:24:26.252753"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "City",
+    "value": "ghaziabad",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.co.in/",
+    "timestamp": "2026-09-04T19:24:26.252768"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.co.in/",
+    "timestamp": "2026-09-04T19:24:26.252773"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Pincode",
+    "value": "201010",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sksb.co.in/",
+    "timestamp": "2026-09-04T19:24:26.252777"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "GST",
+    "query": "SKSB IMPORT GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resource/home.aspx",
+      "https://sksb.co.in/",
+      "https://sksb.co.in/collection/all-products"
+    ],
+    "timestamp": "2026-09-04T19:24:29.074322",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "GST",
+    "query": "SKSB IMPORT GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resource/home.aspx",
+      "https://sksb.co.in/",
+      "https://sksb.co.in/collection/all-products"
+    ],
+    "timestamp": "2026-09-04T19:24:32.894090",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Owner",
+    "query": "SKSB IMPORT director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resource/home.aspx",
+      "https://sksb.co.in/",
+      "https://sksb.co.in/collection/all-products"
+    ],
+    "timestamp": "2026-09-04T19:24:37.715733",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Owner",
+    "query": "SKSB IMPORT founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://sksb.in/resource/home.aspx",
+      "https://sksb.co.in/",
+      "https://sksb.co.in/collection/all-products"
+    ],
+    "timestamp": "2026-09-04T19:24:44.029003",
+    "status": "results_found"
+  },
+  {
+    "business": "USA Warehouse.",
+    "field": "Business Name",
+    "value": "USA Warehouse.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2PRL1RFFZO5CK&isAmazonFulfilled=0&asin=B0012SNLJG&ref_=olp_merch_name_3",
+    "timestamp": "2026-09-04T19:24:48.109277"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Website",
+    "query": "USA Warehouse. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us"
+    ],
+    "timestamp": "2026-09-04T19:24:50.158629",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Legal Entity Name",
+    "query": "USA Warehouse. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:25:40.222039",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Legal Entity Name",
+    "query": "USA Warehouse. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:25:46.341912",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "PAN",
+    "query": "USA Warehouse. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:25:53.395801",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "PAN",
+    "query": "USA Warehouse. PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.usapan.com/",
+      "https://www.usapan.com/bakeware",
+      "https://www.usapan.com/bakeware-ceramic-nonstick-bakeware",
+      "https://www.usapan.com/bakeware-specialty-cake-molds"
+    ],
+    "timestamp": "2026-09-04T19:26:02.042575",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "GST",
+    "query": "USA Warehouse. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us"
+    ],
+    "timestamp": "2026-09-04T19:26:11.886893",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "GST",
+    "query": "USA Warehouse. GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:26:16.573887",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Owner",
+    "query": "USA Warehouse. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:26:24.832155",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Owner",
+    "query": "USA Warehouse. founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:26:31.878669",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Address",
+    "query": "USA Warehouse. registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:26:39.873975",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Address",
+    "query": "USA Warehouse. registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.state.gov/",
+      "https://www.usa.gov/about-the-us",
+      "https://www.usatoday.com/",
+      "https://www.usa.gov/"
+    ],
+    "timestamp": "2026-09-04T19:26:45.991806",
+    "status": "results_found"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Business Name",
+    "value": "TheGlobalGenie",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1BE4CFIAAE12Y&isAmazonFulfilled=0&asin=B0012SNLJG&ref_=olp_merch_name_5",
+    "timestamp": "2026-09-04T19:26:48.965948"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Website",
+    "query": "TheGlobalGenie official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.theglobalgenie.com/",
+      "https://www.theglobalgenie.com/about-us"
+    ],
+    "timestamp": "2026-09-04T19:26:51.882583",
+    "status": "results_found"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Website URL",
+    "value": "https://www.theglobalgenie.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.theglobalgenie.com/about-us",
+    "timestamp": "2026-09-04T19:26:56.634137"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Phone Number",
+    "value": "+919653498993",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.theglobalgenie.com/",
+    "timestamp": "2026-09-04T19:26:57.615903"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Email Address",
+    "value": "cs@theglobalgenie.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.theglobalgenie.com/",
+    "timestamp": "2026-09-04T19:26:57.615986"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Legal Entity Name",
+    "value": "TheGlobalGenie Ecommerce Private Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.theglobalgenie.com/about-us",
+    "timestamp": "2026-09-04T19:27:00.046603"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Billing Address",
+    "value": "TheGlobalGenie Ecommerce Private Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.theglobalgenie.com/about-us",
+    "timestamp": "2026-09-04T19:27:00.049480"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "PAN",
+    "query": "TheGlobalGenie Ecommerce Private Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.outlook.com/owa/cridf.iledefrance.fr",
+      "https://outlook.com/owa/Office365.com",
+      "https://outlook.com/owa/minerd.gob.do",
+      "https://nam02.safelinks.protection.outlook.com/apple-app-site-association"
+    ],
+    "timestamp": "2026-09-04T19:27:04.638225",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "PAN",
+    "query": "TheGlobalGenie PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theglobalgenie.com/",
+      "https://www.theglobalgenie.com/contact-us",
+      "https://mumbai.cataloxy.in/firms/theglobalgenie.com.htm",
+      "https://www.vcsdata.com/company/the-global-genie/148217.html"
+    ],
+    "timestamp": "2026-09-04T19:27:12.189403",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "GST",
+    "query": "TheGlobalGenie Ecommerce Private Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/"
+    ],
+    "timestamp": "2026-09-04T19:27:20.276405",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "GST",
+    "query": "TheGlobalGenie GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/THEGLOBALGENIE-ECOMMERCE-PRIVATE-LIMITED-U47912MH2012PTC234664",
+      "https://www.theglobalgenie.com/",
+      "https://www.theglobalgenie.com/track-order",
+      "https://listsbiz.com/directory/company/the-global-genie/"
+    ],
+    "timestamp": "2026-09-04T19:27:32.675383",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Owner",
+    "query": "TheGlobalGenie Ecommerce Private Limited director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/theglobalgenie-ecommerce-private-limited/__n8oZDmTWKBwD6dfRRTI3LF1VivX_ukufMN4eO8-qbEE",
+      "https://www.falconebiz.com/company/THEGLOBALGENIE-ECOMMERCE-PRIVATE-LIMITED-U47912MH2012PTC234664",
+      "https://www.thecompanycheck.com/company/theglobalgenie-ecommerce-private-limited/U47912MH2012PTC234664",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-04T19:27:38.106649",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Owner",
+    "query": "TheGlobalGenie founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/theglobalgenie-ecommerce-private-limited/__n8oZDmTWKBwD6dfRRTI3LF1VivX_ukufMN4eO8-qbEE",
+      "https://www.theglobalgenie.com/about-us",
+      "https://www.falconebiz.com/company/THEGLOBALGENIE-ECOMMERCE-PRIVATE-LIMITED-U47912MH2012PTC234664",
+      "https://www.theglobalgenie.com/"
+    ],
+    "timestamp": "2026-09-04T19:27:46.986702",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Business Name",
+    "value": "Infinitikart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2BWJVKSWP7TR2&isAmazonFulfilled=0&asin=B0012SNLJG&ref_=olp_merch_name_8",
+    "timestamp": "2026-09-04T19:27:50.642182"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Website",
+    "query": "Infinitikart official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.musixmatch.com/lyrics/Panbers/Salahkah-Aku",
+      "https://www.smule.com/song/panbers-salahkah-aku-karaoke-lyrics/8987016_8987016/arrangement"
+    ],
+    "timestamp": "2026-09-04T19:27:52.200351",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Legal Entity Name",
+    "query": "Infinitikart company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-09-04T19:28:02.504175",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Legal Entity Name",
+    "query": "Infinitikart Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.google.gp/?hl=zh-TW"
+    ],
+    "timestamp": "2026-09-04T19:28:07.494345",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "PAN",
+    "query": "Infinitikart PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zybang.com/download/",
+      "https://www.zybang.com/windows/download/"
+    ],
+    "timestamp": "2026-09-04T19:28:15.236376",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Email Address",
+    "value": "service@zuoyebang.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.zybang.com/windows/download/",
+    "timestamp": "2026-09-04T19:28:22.695717"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "PAN",
+    "query": "Infinitikart PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nst.com.my/news/nation/2025/10/1300984/updated-teen-made-rm76000-9-months-selling-child-porn-videos-online-igp",
+      "https://www.thestar.com.my/news/nation/2022/09/05/online-child-porn-on-the-rise",
+      "https://www.malaymail.com/news/malaysia/2024/01/08/make-no-mistake-downloading-and-viewing-child-porn-is-a-crime-in-malaysia-heres-what-the-numbers-tell-us/108340",
+      "https://www.channelnewsasia.com/asia/johor-malaysia-child-abuse-paedophile-ring-5323881"
+    ],
+    "timestamp": "2026-09-04T19:28:24.477889",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Phone Number",
+    "value": "+916101000449",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.nst.com.my/news/nation/2025/10/1300984/updated-teen-made-rm76000-9-months-selling-child-porn-videos-online-igp",
+    "timestamp": "2026-09-04T19:28:26.076565"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "GST",
+    "query": "Infinitikart GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-04T19:28:35.846355",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "GST",
+    "query": "Infinitikart GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/infinitekart-33BZJPP0484J1Z3/",
+      "https://www.knowyourgst.com/gst-number-search/infiniti-retail-limited-33AACCV1726H1ZL/",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-09-04T19:28:38.872032",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "GST Number",
+    "value": "33BZJPP0484J1Z3",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/infinitekart-33BZJPP0484J1Z3/",
+    "timestamp": "2026-09-04T19:28:39.596464"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "PAN Number",
+    "value": "BZJPP0484J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/infinitekart-33BZJPP0484J1Z3/",
+    "timestamp": "2026-09-04T19:28:39.596486"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Owner",
+    "query": "Infinitikart director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://quran.com/al-qariah",
+      "https://quran.com/ms/al-qariah",
+      "https://surah.online/al-qariah",
+      "https://akumuslim.asia/surah-al-qariah-rumi/"
+    ],
+    "timestamp": "2026-09-04T19:28:41.052090",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Owner",
+    "query": "Infinitikart founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-09-04T19:28:50.927716",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Address",
+    "query": "Infinitikart registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.ladygaga.com/",
+      "https://www.britannica.com/biography/Lady-Gaga",
+      "https://www.ladygaga.com/us-en/live"
+    ],
+    "timestamp": "2026-09-04T19:28:56.506590",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Address",
+    "query": "Infinitikart registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://japan-toy-museum.org/archives/6329",
+      "https://hitopedia.net/%e8%b2%9d%e5%90%88%e3%81%9b/",
+      "https://japan-toy-museum.org/archives/exhibition/event/%e6%98%a5%e3%81%ae%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%ef%bc%8a%e3%81%9d%e3%81%ae%ef%bc%91%e3%80%8c%e8%b2%9d%e5%90%88%e3%82%8f%e3%81%9b%e3%80%8d",
+      "https://hatsumeihakken.com/kaiawaserule/"
+    ],
+    "timestamp": "2026-09-04T19:29:06.604925",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Business Name",
+    "value": "STS Shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1ZJ9VB2OVIKVD&isAmazonFulfilled=0&asin=B0012SNLJG&ref_=olp_merch_name_9",
+    "timestamp": "2026-09-04T19:29:10.131212"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Website",
+    "query": "STS Shop official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://stsranchwear.com/",
+      "https://stsranchwear.com/collections/accessories"
+    ],
+    "timestamp": "2026-09-04T19:29:12.594054",
+    "status": "results_found"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Website URL",
+    "value": "https://www.stsshop.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.stsshop.com/",
+    "timestamp": "2026-09-04T19:29:14.268857"
+  },
+  {
+    "business": "STS Shop",
+    "field": "Email Address",
+    "value": "info@stsshop.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.stsshop.com/",
+    "timestamp": "2026-09-04T19:29:14.991268"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.streamlinedsalestax.org/for-businesses/sales-tax-registration-sstrs",
+      "https://www.indiafilings.com/learn/how-can-i-register-my-shop-and-establishment-online",
+      "https://secretaryofstate.com/",
+      "https://www.sts.org/"
+    ],
+    "timestamp": "2026-09-04T19:29:19.592837",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Legal Entity Name",
+    "query": "STS Shop Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:29:32.483756",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "PAN",
+    "query": "STS Shop PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:29:34.156978",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "PAN",
+    "query": "STS Shop PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:29:38.566535",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "GST",
+    "query": "STS Shop GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:29:41.979490",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "GST",
+    "query": "STS Shop GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:29:50.963261",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:29:54.897218",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Owner",
+    "query": "STS Shop founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:29:58.549299",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:30:02.709589",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Address",
+    "query": "STS Shop registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/"
+    ],
+    "timestamp": "2026-09-04T19:30:07.660831",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Phone",
+    "query": "STS Shop phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:30:11.528397",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS Shop",
+    "field": "Phone",
+    "query": "STS Shop contact phone",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.latestsarkariyojana.com/sts-login-karnataka-portal/",
+      "https://sts.co.in/",
+      "https://acronyms.thefreedictionary.com/STS"
+    ],
+    "timestamp": "2026-09-04T19:30:17.460225",
+    "status": "results_found"
+  }
+]

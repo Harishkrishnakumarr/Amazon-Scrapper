@@ -1,0 +1,379 @@
+[
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "Business Name",
+    "value": "CLUB TWENTY ONE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NBTRZMM4OBF5&asin=B0FB9LK6CG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T21:22:52.378493"
+  },
+  {
+    "seller": "CLUB TWENTY ONE",
+    "field": "Website",
+    "query": "CLUB TWENTY ONE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clubtwentyone.in/",
+      "https://clubtwentyone.in/pages/about-us"
+    ],
+    "timestamp": "2026-09-02T21:22:54.213458",
+    "status": "results_found"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "Website URL",
+    "value": "https://clubtwentyone.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clubtwentyone.in/",
+    "timestamp": "2026-09-02T21:23:01.829587"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "Phone Number",
+    "value": "+919918002993",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clubtwentyone.in/",
+    "timestamp": "2026-09-02T21:23:02.424249"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "Email Address",
+    "value": "info@acigroup.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clubtwentyone.in/",
+    "timestamp": "2026-09-02T21:23:02.424502"
+  },
+  {
+    "seller": "CLUB TWENTY ONE",
+    "field": "Legal Entity Name",
+    "query": "CLUB TWENTY ONE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/club-twenty-one-safety-private-limited/__2XcAVgaI2IIhlfIHz4mvLnESz_zv28UPQnvHSEzDFgw#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U32902UP2024PTC203038%20and%20its%20current%20status%20is%20Active.",
+      "https://www.indiafilings.com/search/club-twenty-one-safety-private-limited-cin-U32902UP2024PTC203038",
+      "https://clubtwentyone.in/",
+      "https://cin.iadv.io/CLUB-TWENTY-ONE-SAFETY-PRIVATE-LIMITED-U32902UP2024PTC203038/"
+    ],
+    "timestamp": "2026-09-02T21:23:07.287142",
+    "status": "results_found"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/club-twenty-one-safety-private-limited/__2XcAVgaI2IIhlfIHz4mvLnESz_zv28UPQnvHSEzDFgw#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U32902UP2024PTC203038%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T21:23:08.862420"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/club-twenty-one-safety-private-limited/__2XcAVgaI2IIhlfIHz4mvLnESz_zv28UPQnvHSEzDFgw#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U32902UP2024PTC203038%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T21:23:08.862428"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/club-twenty-one-safety-private-limited/__2XcAVgaI2IIhlfIHz4mvLnESz_zv28UPQnvHSEzDFgw#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U32902UP2024PTC203038%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T21:23:08.862431"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/club-twenty-one-safety-private-limited/__2XcAVgaI2IIhlfIHz4mvLnESz_zv28UPQnvHSEzDFgw#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U32902UP2024PTC203038%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T21:23:08.862433"
+  },
+  {
+    "seller": "CLUB TWENTY ONE",
+    "field": "Legal Entity Name",
+    "query": "CLUB TWENTY ONE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/club-twenty-one-safety-private-limited-cin-U32902UP2024PTC203038",
+      "https://cin.iadv.io/CLUB-TWENTY-ONE-SAFETY-PRIVATE-LIMITED-U32902UP2024PTC203038/",
+      "https://www.falconebiz.com/company/CLUB-TWENTY-ONE-SAFETY-PRIVATE-LIMITED-U32902UP2024PTC203038",
+      "https://www.companydetails.in/company/club-twenty-one-safety-private-limited"
+    ],
+    "timestamp": "2026-09-02T21:23:14.301043",
+    "status": "results_found"
+  },
+  {
+    "seller": "CLUB TWENTY ONE",
+    "field": "PAN",
+    "query": "CLUB TWENTY ONE PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://clubtwentyone.in/pages/track-order",
+      "https://clubtwentyone.in/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://clubtwentyone.org/"
+    ],
+    "timestamp": "2026-09-02T21:23:21.469525",
+    "status": "results_found"
+  },
+  {
+    "seller": "CLUB TWENTY ONE",
+    "field": "PAN",
+    "query": "CLUB TWENTY ONE PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/club-twenty-one-36AAPPL3431K2ZF/",
+      "https://clubtwentyone.in/pages/about-club-twenty-one",
+      "https://clubtwentyone.in/",
+      "https://tracxn.com/d/legal-entities/india/club-twenty-one-safety-private-limited/__2XcAVgaI2IIhlfIHz4mvLnESz_zv28UPQnvHSEzDFgw"
+    ],
+    "timestamp": "2026-09-02T21:23:31.413152",
+    "status": "results_found"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "GST Number",
+    "value": "36AAPPL3431K2ZF",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/club-twenty-one-36AAPPL3431K2ZF/",
+    "timestamp": "2026-09-02T21:23:34.393695"
+  },
+  {
+    "business": "CLUB TWENTY ONE",
+    "field": "PAN Number",
+    "value": "AAPPL3431K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/club-twenty-one-36AAPPL3431K2ZF/",
+    "timestamp": "2026-09-02T21:23:34.393704"
+  },
+  {
+    "seller": "CLUB TWENTY ONE",
+    "field": "Owner",
+    "query": "CLUB TWENTY ONE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://club21.com/#:~:text=Club21%20is%20a%20Singapore-based%20luxury%20fashion%20curator%20founded,regional%20assortments%2C%20livestream%20commerce%2C%20and%20seamless%20omni-channel%20experiences.",
+      "https://clubtwentyone.in/pages/about-club-twenty-one",
+      "https://club21.com/",
+      "https://mycorporateinfo.com/business/club-twenty-one-safety-private-limited"
+    ],
+    "timestamp": "2026-09-02T21:23:35.809563",
+    "status": "results_found"
+  },
+  {
+    "seller": "CLUB TWENTY ONE",
+    "field": "Owner",
+    "query": "CLUB TWENTY ONE founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://club21.com/#:~:text=Club21%20is%20a%20Singapore-based%20luxury%20fashion%20curator%20founded,regional%20assortments%2C%20livestream%20commerce%2C%20and%20seamless%20omni-channel%20experiences.",
+      "https://clubtwentyone.in/pages/about-club-twenty-one",
+      "https://clubtwentyone.in/pages/about-us",
+      "https://club21.com/"
+    ],
+    "timestamp": "2026-09-02T21:23:45.976971",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B09MFSMZ32&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T21:23:49.637483"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-09-02T21:23:51.229254",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-09-02T21:23:53.747886"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-09-02T21:23:54.308024"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.falconebiz.com/company/CLICKTECH-RETAIL-PRIVATE-LIMITED-U52500WB2021PTC250343",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-09-02T21:23:58.186327",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T21:23:58.875065"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T21:23:58.875075"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T21:23:58.875078"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T21:23:58.875080"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-24AAJCC9783E1ZD",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-09-02T21:24:04.465826",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "GST Number",
+    "value": "24AAJCC9783E1ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-24AAJCC9783E1ZD",
+    "timestamp": "2026-09-02T21:24:06.238781"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "PAN Number",
+    "value": "AAJCC9783E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-24AAJCC9783E1ZD",
+    "timestamp": "2026-09-02T21:24:06.238790"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.masterdata.in/company/clicktech_retail_private_limited/U52500WB2021PTC250343",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ"
+    ],
+    "timestamp": "2026-09-02T21:24:08.144918",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-09-02T21:24:12.000879",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/contact-us/",
+      "https://clicktech.co.in/contact-us",
+      "https://clicktechindia.com/contact/",
+      "https://contactout.com/company/Clicktech-Retail-Private-Ltd-79151"
+    ],
+    "timestamp": "2026-09-02T21:24:15.995542",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNB36FEE8AB312B0A3&market=en-IN&src=SERPIC",
+      "https://clicktechretail.in/contact-us/",
+      "https://clicktechindia.com/contact/",
+      "https://clicktech.co.in/contact-us"
+    ],
+    "timestamp": "2026-09-02T21:24:22.523928",
+    "status": "results_found"
+  }
+]

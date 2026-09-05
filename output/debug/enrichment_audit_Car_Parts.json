@@ -1,0 +1,1619 @@
+[
+  {
+    "business": "car.n.more",
+    "field": "Business Name",
+    "value": "car.n.more",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A264VFL6T8XJDB&asin=B083SPLJZD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T22:46:18.905186"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Website",
+    "query": "car.n.more official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/"
+    ],
+    "timestamp": "2026-08-27T22:46:21.332627",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Legal Entity Name",
+    "query": "car.n.more company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/",
+      "https://www.carwale.com/used/pune/",
+      "https://www.cardekho.com/used-cars%2Bin%2Bpune"
+    ],
+    "timestamp": "2026-08-27T22:46:44.728262",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "PAN",
+    "query": "car.n.more PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/",
+      "https://www.carwale.com/used/pune/",
+      "https://www.cardekho.com/used-cars%2Bin%2Bpune"
+    ],
+    "timestamp": "2026-08-27T22:47:01.813206",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "PAN",
+    "query": "car.n.more PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/",
+      "https://www.carwale.com/used/pune/",
+      "https://www.cardekho.com/used-cars%2Bin%2Bpune"
+    ],
+    "timestamp": "2026-08-27T22:47:06.230706",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "GST",
+    "query": "car.n.more GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:47:12.212704",
+    "status": "no_results"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "GST",
+    "query": "car.n.more GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-08-27T22:47:15.459614",
+    "status": "results_found"
+  },
+  {
+    "business": "car.n.more",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T22:47:16.168115"
+  },
+  {
+    "business": "car.n.more",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T22:47:16.168133"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Owner",
+    "query": "car.n.more director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/",
+      "https://www.carwale.com/used/pune/",
+      "https://www.cardekho.com/used-cars%2Bin%2Bpune"
+    ],
+    "timestamp": "2026-08-27T22:47:17.634449",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Owner",
+    "query": "car.n.more founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.buzzfile.com/business/Cars-N!-More-920-429-9181",
+      "https://start.cortera.com/company/research/l3q3mzr7l/cars-n-more-inc/",
+      "https://pitchbook.com/profiles/company/285969-88",
+      "https://start.cortera.com/company/research/k5r7ouo4m/cars-n-more/"
+    ],
+    "timestamp": "2026-08-27T22:47:24.289011",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Address",
+    "query": "car.n.more registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/",
+      "https://www.carwale.com/used/pune/",
+      "https://www.cardekho.com/used-cars%2Bin%2Bpune"
+    ],
+    "timestamp": "2026-08-27T22:47:30.648256",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Address",
+    "query": "car.n.more registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/",
+      "https://www.carwale.com/used/pune/",
+      "https://www.cardekho.com/used-cars%2Bin%2Bpune"
+    ],
+    "timestamp": "2026-08-27T22:47:35.270381",
+    "status": "results_found"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Phone",
+    "query": "car.n.more phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carvana.com/help/",
+      "https://www.carvana.com/help/purchasing-a-car/what-is-proof-of-insurance-and-how-does-it-affect-registration",
+      "https://www.carvana.com/help/pickup-and-delivery",
+      "https://www.carvana.com/help/purchasing-a-car/what-are-the-drivers-license-requirements-for-my-purchase-and-registration"
+    ],
+    "timestamp": "2026-08-27T22:47:42.465669",
+    "status": "results_found"
+  },
+  {
+    "business": "car.n.more",
+    "field": "Email Address",
+    "value": "partnerships@carvana.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.carvana.com/help/",
+    "timestamp": "2026-08-27T22:47:43.589748"
+  },
+  {
+    "seller": "car.n.more",
+    "field": "Phone",
+    "query": "car.n.more contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carwale.com/",
+      "https://www.cardekho.com/",
+      "https://www.carwale.com/used/pune/",
+      "https://www.cardekho.com/used-cars%2Bin%2Bpune"
+    ],
+    "timestamp": "2026-08-27T22:47:47.318560",
+    "status": "results_found"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "Business Name",
+    "value": "Raghuveer Group",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A24KT6YFYQNUO2&asin=B0FF4LFCJC&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:47:54.974680"
+  },
+  {
+    "seller": "Raghuveer Group",
+    "field": "Website",
+    "query": "Raghuveer Group official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:48:02.759780",
+    "status": "no_results"
+  },
+  {
+    "seller": "Raghuveer Group",
+    "field": "Legal Entity Name",
+    "query": "Raghuveer Group company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://tracxn.com/d/legal-entities/india/raghuveer-enterprise-india-private-limited/__J9Cf_CAq3qTkAijgPoQG_QxVjz9W8QOxEEcuQcbnpTo",
+      "https://www.instafinancials.com/company/raghuveer-enterprise-india-private-limited-U74900TG2013PTC085331/company-overview",
+      "https://tracxn.com/d/legal-entities/india/raghuveer-consultancy-india-private-limited/__O9kZq3LTtuGm-jq6CunxIKsmxCJuznSXuLE2cvZEcRk"
+    ],
+    "timestamp": "2026-08-27T22:48:05.750980",
+    "status": "results_found"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raghuveer-enterprise-india-private-limited/__J9Cf_CAq3qTkAijgPoQG_QxVjz9W8QOxEEcuQcbnpTo",
+    "timestamp": "2026-08-27T22:48:07.053550"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raghuveer-enterprise-india-private-limited/__J9Cf_CAq3qTkAijgPoQG_QxVjz9W8QOxEEcuQcbnpTo",
+    "timestamp": "2026-08-27T22:48:07.053564"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raghuveer-enterprise-india-private-limited/__J9Cf_CAq3qTkAijgPoQG_QxVjz9W8QOxEEcuQcbnpTo",
+    "timestamp": "2026-08-27T22:48:07.053732"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raghuveer-enterprise-india-private-limited/__J9Cf_CAq3qTkAijgPoQG_QxVjz9W8QOxEEcuQcbnpTo",
+    "timestamp": "2026-08-27T22:48:07.053743"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "Email Address",
+    "value": "vishnuvarjhalajyoti@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/company/raghuveer-enterprise-india-private-limited-U74900TG2013PTC085331/company-overview",
+    "timestamp": "2026-08-27T22:48:07.701969"
+  },
+  {
+    "seller": "Raghuveer Group",
+    "field": "Legal Entity Name",
+    "query": "Raghuveer Group Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.knowyourgst.com/gst-number-search/raghuveer-consultancy-india-private-limited-24AANCR1392Q1ZO/",
+      "https://golegally.com/mca-company-llp-search"
+    ],
+    "timestamp": "2026-08-27T22:48:11.707712",
+    "status": "results_found"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-details",
+    "timestamp": "2026-08-27T22:48:12.478833"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "GST Number",
+    "value": "24AANCR1392Q1ZO",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/raghuveer-consultancy-india-private-limited-24AANCR1392Q1ZO/",
+    "timestamp": "2026-08-27T22:48:13.068253"
+  },
+  {
+    "business": "Raghuveer Group",
+    "field": "PAN Number",
+    "value": "AANCR1392Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/raghuveer-consultancy-india-private-limited-24AANCR1392Q1ZO/",
+    "timestamp": "2026-08-27T22:48:13.068269"
+  },
+  {
+    "seller": "Raghuveer Group",
+    "field": "Owner",
+    "query": "Raghuveer Group director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kasaar.in/",
+      "https://www.hotstar.com/in/shows/the-legend-of-korra/1971003393",
+      "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+      "https://koorraa.com/"
+    ],
+    "timestamp": "2026-08-27T22:48:15.628273",
+    "status": "results_found"
+  },
+  {
+    "seller": "Raghuveer Group",
+    "field": "Owner",
+    "query": "Raghuveer Group founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:48:30.485398",
+    "status": "no_results"
+  },
+  {
+    "business": "XEWOi",
+    "field": "Business Name",
+    "value": "XEWOi",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3K6HJS8XLAJY7&asin=B0H1HPQ278&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:48:30.822385"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "Website",
+    "query": "XEWOi official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/68462398/python-request-login-to-instagram",
+      "https://stackoverflow.com/questions/16496511/how-to-get-an-instagram-access-token"
+    ],
+    "timestamp": "2026-08-27T22:48:32.520558",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "Legal Entity Name",
+    "query": "XEWOi company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forum.duolingo.com/dog-bed-mats/b?ie=UTF8&node=3024178011",
+      "https://www.thestudentroom.co.uk/showthread.php?t=6379800",
+      "https://www.thestudentroom.co.uk/showthread.php?t=7422961",
+      "https://forum.duolingo.com/comment/7789927/Basic-Filipino-Tagalog-3-Adjectives-1-with-Exercises"
+    ],
+    "timestamp": "2026-08-27T22:48:35.763295",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "Legal Entity Name",
+    "query": "XEWOi Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=81b52c4f043a1870246146df754fbc04&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india"
+    ],
+    "timestamp": "2026-08-27T22:48:43.225694",
+    "status": "results_found"
+  },
+  {
+    "business": "XEWOi",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=81b52c4f043a1870246146df754fbc04&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-27T22:48:43.735006"
+  },
+  {
+    "business": "XEWOi",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-27T22:48:44.407039"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "PAN",
+    "query": "XEWOi PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apple.com/jp/iphone/compare/?modelList=iphone-17e,iphone-16e,iphone-17",
+      "https://www.reyuu-japan.com/mobile/iphone17e-iphone16e-comparison/",
+      "https://reniphone.com/iphone-16e-17e-18e-comparison-2026/",
+      "https://www.apple.com/jp/iphone/compare/?modelList=iphone-17e,iphone-17,iphone-16e"
+    ],
+    "timestamp": "2026-08-27T22:48:49.898755",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "PAN",
+    "query": "XEWOi PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-27T22:49:03.240847",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "GST",
+    "query": "XEWOi GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-08-27T22:49:05.660713",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "GST",
+    "query": "XEWOi GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-08-27T22:49:14.409346",
+    "status": "results_found"
+  },
+  {
+    "business": "XEWOi",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T22:49:15.281934"
+  },
+  {
+    "business": "XEWOi",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T22:49:15.281945"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "Owner",
+    "query": "XEWOi director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.afr.com/work-and-careers/leaders/how-this-39-year-old-deloitte-partner-turned-ceo-is-bracing-for-the-ai-apocalypse-20260304-p5o7kl",
+      "https://www.xero.com/us/about/team/",
+      "https://noteworthy.co.nz/people/rod-drury/"
+    ],
+    "timestamp": "2026-08-27T22:49:18.875721",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "Owner",
+    "query": "XEWOi founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tabelog.com/keywords/%E7%82%AD%E7%81%AB%E7%84%BC%E8%82%89/kwdLst/?msockid=08df868e9e696d9019b5914c9f126c40",
+      "https://tabelog.com/tokyo/A1302/A130201/13030664/?msockid=08df868e9e696d9019b5914c9f126c40"
+    ],
+    "timestamp": "2026-08-27T22:49:25.730560",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "Address",
+    "query": "XEWOi registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.calculator.com/",
+      "https://www.calculator.net/basic-calculator.html",
+      "https://solvecalc.net/",
+      "https://okcalc.com/en/"
+    ],
+    "timestamp": "2026-08-27T22:49:31.541775",
+    "status": "results_found"
+  },
+  {
+    "seller": "XEWOi",
+    "field": "Address",
+    "query": "XEWOi registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.arounddeal.com/p/claudia-christian/p7kqlmdagv",
+      "https://www.corporationwiki.com/p/3husz7/claudia-christian"
+    ],
+    "timestamp": "2026-08-27T22:49:41.793439",
+    "status": "results_found"
+  },
+  {
+    "business": "All Parts Source International",
+    "field": "Business Name",
+    "value": "All Parts Source International",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A27VVIMH91VNVK&asin=B097BZ7V9Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T22:49:45.536003"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Website",
+    "query": "All Parts Source International official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all"
+    ],
+    "timestamp": "2026-08-27T22:49:47.354348",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Legal Entity Name",
+    "query": "All Parts Source International company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:49:50.432004",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Legal Entity Name",
+    "query": "All Parts Source International Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all"
+    ],
+    "timestamp": "2026-08-27T22:49:55.577765",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "PAN",
+    "query": "All Parts Source International PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:49:57.370163",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "PAN",
+    "query": "All Parts Source International PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:00.081192",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "GST",
+    "query": "All Parts Source International GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all"
+    ],
+    "timestamp": "2026-08-27T22:50:02.897578",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "GST",
+    "query": "All Parts Source International GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:04.663261",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Owner",
+    "query": "All Parts Source International director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.all_parts_source_international.447adb27a4f824473bd198aafcfe90a7.html",
+      "https://rocketreach.co/shivangi-bajaj-email_31586283",
+      "https://trademarks.justia.com/owners/all-parts-source-international-6813922/",
+      "https://gst.unifers.ai/gst/07ABTFA8512B1ZI/all-parts-source-international"
+    ],
+    "timestamp": "2026-08-27T22:50:09.114657",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Owner",
+    "query": "All Parts Source International founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:32.326785",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Address",
+    "query": "All Parts Source International registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:33.794631",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Address",
+    "query": "All Parts Source International registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:36.455262",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Phone",
+    "query": "All Parts Source International phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:39.292246",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Phone",
+    "query": "All Parts Source International contact phone",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all"
+    ],
+    "timestamp": "2026-08-27T22:50:41.863560",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Email",
+    "query": "All Parts Source International email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:43.597352",
+    "status": "results_found"
+  },
+  {
+    "seller": "All Parts Source International",
+    "field": "Email",
+    "query": "All Parts Source International contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/all",
+      "https://www.merriam-webster.com/dictionary/all",
+      "https://dictionary.cambridge.org/us/dictionary/english/all",
+      "https://www.thefreedictionary.com/all"
+    ],
+    "timestamp": "2026-08-27T22:50:46.471765",
+    "status": "results_found"
+  },
+  {
+    "business": "VINAYAK AUTO INDUSTRIES",
+    "field": "Business Name",
+    "value": "VINAYAK AUTO INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AU2LSL1OH0VF9&asin=B0HCZRDPP5&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:50:47.867720"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "Website",
+    "query": "VINAYAK AUTO INDUSTRIES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.vinayakautomotive.in/about.php",
+      "https://www.vinayakautomotive.in/"
+    ],
+    "timestamp": "2026-08-27T22:50:50.986472",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "VINAYAK AUTO INDUSTRIES company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/vinayak-automotive-industries-private-limited-cin-U29109HR2024PTC119912",
+      "https://www.companydetails.in/company/vinayak-automotive-industries-private-limited",
+      "https://tracxn.com/d/legal-entities/india/vinayak-automotive-industries-private-limited/__0afORJAD1dE9HbLdl_A6xUJsA4ulTJ6xv9yPK_DBj28",
+      "https://www.falconebiz.com/company/VINAYAK-AUTOMOTIVE-INDUSTRIES-PRIVATE-LIMITED-U29109HR2024PTC119912"
+    ],
+    "timestamp": "2026-08-27T22:50:56.521910",
+    "status": "results_found"
+  },
+  {
+    "business": "VINAYAK AUTO INDUSTRIES",
+    "field": "Email Address",
+    "value": "vinakyakautomotive.fbd@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/vinayak-automotive-industries-private-limited-cin-U29109HR2024PTC119912",
+    "timestamp": "2026-08-27T22:50:57.378971"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "PAN",
+    "query": "VINAYAK AUTO INDUSTRIES PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.mpanchang.com/Vrats/vinayaka-chaturthi/"
+    ],
+    "timestamp": "2026-08-27T22:51:16.247182",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "PAN",
+    "query": "VINAYAK AUTO INDUSTRIES PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mpanchang.com/Vrats/vinayaka-chaturthi/",
+      "https://vinayakingredients.com/",
+      "https://myoksha.com/ashtavinayak-temples/",
+      "https://www.siddhivinayak.org/"
+    ],
+    "timestamp": "2026-08-27T22:51:23.185773",
+    "status": "results_found"
+  },
+  {
+    "business": "VINAYAK AUTO INDUSTRIES",
+    "field": "Phone Number",
+    "value": "+919167676662",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://vinayakingredients.com/",
+    "timestamp": "2026-08-27T22:51:28.218340"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "GST",
+    "query": "VINAYAK AUTO INDUSTRIES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mpanchang.com/Vrats/vinayaka-chaturthi/",
+      "https://vinayakingredients.com/",
+      "https://myoksha.com/ashtavinayak-temples/",
+      "https://www.siddhivinayak.org/"
+    ],
+    "timestamp": "2026-08-27T22:51:34.017469",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "GST",
+    "query": "VINAYAK AUTO INDUSTRIES GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mpanchang.com/Vrats/vinayaka-chaturthi/",
+      "https://vinayakingredients.com/",
+      "https://myoksha.com/ashtavinayak-temples/",
+      "https://www.siddhivinayak.org/"
+    ],
+    "timestamp": "2026-08-27T22:51:43.838128",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "Owner",
+    "query": "VINAYAK AUTO INDUSTRIES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mpanchang.com/Vrats/vinayaka-chaturthi/",
+      "https://vinayakingredients.com/",
+      "https://myoksha.com/ashtavinayak-temples/",
+      "https://www.siddhivinayak.org/"
+    ],
+    "timestamp": "2026-08-27T22:51:49.300232",
+    "status": "results_found"
+  },
+  {
+    "seller": "VINAYAK AUTO INDUSTRIES",
+    "field": "Owner",
+    "query": "VINAYAK AUTO INDUSTRIES founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vinayakautomotive.in/about.php",
+      "https://www.vinayakautomotive.in/",
+      "https://deepenrich.com/company/a193/vinayak-automotive-industries-00118zpht",
+      "https://www.companydetails.in/company/vinayak-automotive-industries-private-limited"
+    ],
+    "timestamp": "2026-08-27T22:52:01.149024",
+    "status": "results_found"
+  },
+  {
+    "business": "VINAYAK AUTO INDUSTRIES",
+    "field": "Billing Address",
+    "value": "plot no. e-03 fit sector 57 faridabad 121004",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.vinayakautomotive.in/about.php",
+    "timestamp": "2026-08-27T22:52:01.834409"
+  },
+  {
+    "business": "VINAYAK AUTO INDUSTRIES",
+    "field": "Pincode",
+    "value": "121004",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.vinayakautomotive.in/about.php",
+    "timestamp": "2026-08-27T22:52:01.834425"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "Business Name",
+    "value": "Kosliya Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CGVNF0AP69X8&asin=B0GZ3P9LW3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:52:03.669180"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Website",
+    "query": "Kosliya Hub official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://speedtest.mybroadband.co.za/",
+      "https://mybroadband.co.za/news/broadcasting/278003-what-internet-speed-you-need-for-watching-netflix-in-south-africa.html"
+    ],
+    "timestamp": "2026-08-27T22:52:04.877664",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Hub company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877",
+      "https://www.falconebiz.com/LLP/KOSLIYA-ENTERPRISE-LLP-ABC-2877",
+      "https://piceapp.com/gst-number-search/kosliya-enterprise-llp-06aazfk3136g1z2/"
+    ],
+    "timestamp": "2026-08-27T22:52:10.610943",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-27T22:52:11.661030"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-27T22:52:11.661043"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-27T22:52:11.661048"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-27T22:52:11.661051"
+  },
+  {
+    "business": "Kosliya Hub",
+    "field": "Email Address",
+    "value": "ffice07@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/LLP/KOSLIYA-ENTERPRISE-LLP-ABC-2877",
+    "timestamp": "2026-08-27T22:52:13.826986"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Hub Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://zauba.company/",
+      "https://www.indiafilings.com/startup",
+      "https://www.setindiabiz.com/company-registration"
+    ],
+    "timestamp": "2026-08-27T22:52:18.895416",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "PAN",
+    "query": "Kosliya Hub PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://xhamster19.com/categories/indian",
+      "https://xhamster3.com/best/weekly",
+      "https://in-xhamster.com/",
+      "https://xhamster.desi/best/daily"
+    ],
+    "timestamp": "2026-08-27T22:52:25.353832",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "PAN",
+    "query": "Kosliya Hub PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thestudentroom.co.uk/",
+      "https://forums.digitalspy.com/categories/strictly-come-dancing",
+      "https://forums.digitalspy.com/categories/soaps",
+      "https://www.dcurbanmom.com/jforum/recentTopics/list.page"
+    ],
+    "timestamp": "2026-08-27T22:52:40.517205",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "GST",
+    "query": "Kosliya Hub GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.ladygaga.com/"
+    ],
+    "timestamp": "2026-08-27T22:52:42.202068",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "GST",
+    "query": "Kosliya Hub GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/3961217/how-do-i-format-xml-in-notepad",
+      "https://stackoverflow.com/questions/11003761/notepad-add-to-every-line",
+      "https://pt.stackoverflow.com/questions/167758/onde-fica-plugin-manager-do-notepad",
+      "https://stackoverflow.com/questions/37742519/notepad-wildcard"
+    ],
+    "timestamp": "2026-08-27T22:52:46.903218",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Owner",
+    "query": "Kosliya Hub director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://hubpower.com/board-of-directors/"
+    ],
+    "timestamp": "2026-08-27T22:52:51.981442",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Owner",
+    "query": "Kosliya Hub founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-25637287-comment-faire-pour-telecharger-des-videos-sur-n-importe-quel-site",
+      "https://forums.commentcamarche.net/forum/affich-36202161-me-desabonner-de-xhamster"
+    ],
+    "timestamp": "2026-08-27T22:52:59.397315",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Phone",
+    "query": "Kosliya Hub phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.yelp.com/search?find_desc=Restaurants&find_loc=H%C3%B6fe+District%2C+Schwyz&msockid=08df868e9e696d9019b5914c9f126c40",
+      "https://www.suissegourmet.ch/schwyz/hoefe/hoefe/"
+    ],
+    "timestamp": "2026-08-27T22:53:03.269840",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Hub",
+    "field": "Phone",
+    "query": "Kosliya Hub contact phone",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/kosliya-e-shop",
+      "https://www.koslita.eu/en/contactus"
+    ],
+    "timestamp": "2026-08-27T22:53:07.810503",
+    "status": "results_found"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "Business Name",
+    "value": "LRD Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2B9XQMJ2ULYNS&asin=B0H2DM7Y7F&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:53:13.817574"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Website",
+    "query": "LRD Hub official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html"
+    ],
+    "timestamp": "2026-08-27T22:53:15.504656",
+    "status": "results_found"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Legal Entity Name",
+    "query": "LRD Hub company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.police.vic.gov.au/register-licence-registration-and-permit-holders",
+      "https://www.aibidia.com/blog/aibidia-guide-to-limited-risk-distributors",
+      "https://www.marugujarat.in/category/lrd/",
+      "https://lrdholdings.com/"
+    ],
+    "timestamp": "2026-08-27T22:53:19.702874",
+    "status": "results_found"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "Email Address",
+    "value": "marugujarat.in@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.marugujarat.in/category/lrd/",
+    "timestamp": "2026-08-27T22:53:24.703548"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Legal Entity Name",
+    "query": "LRD Hub Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://terkarcapital.com/what-is-lrd-loan/",
+      "https://www.bajajfinserv.in/lease-rental-discounting",
+      "https://www.adityabirlacapital.com/abc-of-money/lease-rental-discounting-lrd"
+    ],
+    "timestamp": "2026-08-27T22:53:29.369722",
+    "status": "results_found"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "Phone Number",
+    "value": "+917414973455",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://terkarcapital.com/what-is-lrd-loan/",
+    "timestamp": "2026-08-27T22:53:33.170338"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "GST Number",
+    "value": "27AFHPT0177K1Z0",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://terkarcapital.com/what-is-lrd-loan/",
+    "timestamp": "2026-08-27T22:53:33.170814"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "PAN Number",
+    "value": "AFHPT0177K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://terkarcapital.com/what-is-lrd-loan/",
+    "timestamp": "2026-08-27T22:53:33.170825"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Owner",
+    "query": "LRD Hub director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://terkarcapital.com/what-is-lrd-loan/",
+      "https://www.bajajfinserv.in/lease-rental-discounting",
+      "https://www.adityabirlacapital.com/abc-of-money/lease-rental-discounting-lrd"
+    ],
+    "timestamp": "2026-08-27T22:53:34.863291",
+    "status": "results_found"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "Billing Address",
+    "value": "aditya birla capital digital, one world center, tower 1, jupiter mills compound, 841 senapati bapat marg, elphinstone road delisle road, mumbai maharas",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.adityabirlacapital.com/abc-of-money/lease-rental-discounting-lrd",
+    "timestamp": "2026-08-27T22:53:39.142754"
+  },
+  {
+    "business": "LRD Hub",
+    "field": "City",
+    "value": "mumbai maharas",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.adityabirlacapital.com/abc-of-money/lease-rental-discounting-lrd",
+    "timestamp": "2026-08-27T22:53:39.142770"
+  },
+  {
+    "seller": "LRD Hub",
+    "field": "Owner",
+    "query": "LRD Hub founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kotak.bank.in/en/stories-in-focus/loans/home-loan/lease-rental-discounting-lrd-meaning-benefits.html",
+      "https://terkarcapital.com/what-is-lrd-loan/",
+      "https://www.bajajfinserv.in/lease-rental-discounting",
+      "https://www.adityabirlacapital.com/abc-of-money/lease-rental-discounting-lrd"
+    ],
+    "timestamp": "2026-08-27T22:53:40.681147",
+    "status": "results_found"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "Business Name",
+    "value": "RATNAM TYRE TOOLS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ABLGVZNUIRQ3J&asin=B0FQP9TKT2&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:53:45.561263"
+  },
+  {
+    "seller": "RATNAM TYRE TOOLS",
+    "field": "Website",
+    "query": "RATNAM TYRE TOOLS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://rotarysolutions.com/wheel-service/wheel-service-equipment-tire-changers/?utm_term=tyre%20changer&utm_campaign=Wheel+Services+-+WFX&utm_source=bing&utm_medium=ppc&hsa_acc=4541043130&hsa_cam=20312801661&hsa_grp=1186374763647901&hsa_ad=&hsa_src=o&hsa_tgt=kwd-74148705577030:loc-90&hsa_kw=tyre%20changer&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=e6d132108e20126d71645880fc870cce",
+      "https://www.kentool.com/"
+    ],
+    "timestamp": "2026-08-27T22:53:48.895796",
+    "status": "results_found"
+  },
+  {
+    "seller": "RATNAM TYRE TOOLS",
+    "field": "Legal Entity Name",
+    "query": "RATNAM TYRE TOOLS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://id.scribd.com/document/730002005/PANDUAN-PEMOTONGAN-PAJAK-BOSDA-INKLUSI-2024",
+      "https://www.pajak.go.id/id/artikel/mengklasifikasikan-belanja-makan-minum-bendahara-pemerintah",
+      "https://id.scribd.com/document/856433816/Pembayaran-Pajak-Belanja-Bos",
+      "https://id.scribd.com/document/827000252/Mengklasifikasikan-Belanja-Makan-Minum-Bendahara-Pemerintah-Direktorat-Jenderal-Pajak"
+    ],
+    "timestamp": "2026-08-27T22:53:56.679366",
+    "status": "results_found"
+  },
+  {
+    "seller": "RATNAM TYRE TOOLS",
+    "field": "PAN",
+    "query": "RATNAM TYRE TOOLS PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.falconebiz.com/director/11398331/MANAS-MODI"
+    ],
+    "timestamp": "2026-08-27T22:54:15.017463",
+    "status": "results_found"
+  },
+  {
+    "seller": "RATNAM TYRE TOOLS",
+    "field": "PAN",
+    "query": "RATNAM TYRE TOOLS PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:54:19.512283",
+    "status": "no_results"
+  },
+  {
+    "seller": "RATNAM TYRE TOOLS",
+    "field": "GST",
+    "query": "RATNAM TYRE TOOLS GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://tallysolutions.com/business-tools-templates/company-name-to-gstin/"
+    ],
+    "timestamp": "2026-08-27T22:54:22.827782",
+    "status": "results_found"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T22:54:23.513225"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T22:54:23.513239"
+  },
+  {
+    "seller": "RATNAM TYRE TOOLS",
+    "field": "Owner",
+    "query": "RATNAM TYRE TOOLS director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.planetexim.net/indian-company/directors/ratnam-tyres-private-limited/cin/U47990MP2025PTC080188.html",
+      "https://qorpiq.com/company/ratnam-tyres-private-limited/U47990MP2025PTC080188",
+      "https://compfilings.com/company/RATNAM-TYRES-PRIVATE-LIMITED-U47990MP2025PTC080188",
+      "https://www.registerkaro.in/company/ratnam-tyres-private-limited-U47990MP2025PTC080188"
+    ],
+    "timestamp": "2026-08-27T22:54:26.199093",
+    "status": "results_found"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "Email Address",
+    "value": "team@qorpiq.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/ratnam-tyres-private-limited/U47990MP2025PTC080188",
+    "timestamp": "2026-08-27T22:54:28.082353"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "Billing Address",
+    "value": "survey no. 2782/min-3, garoth, shamgarh road, garoth, garoth, mandsaur, madhya pradesh, 458880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/ratnam-tyres-private-limited/U47990MP2025PTC080188",
+    "timestamp": "2026-08-27T22:54:28.084707"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/ratnam-tyres-private-limited/U47990MP2025PTC080188",
+    "timestamp": "2026-08-27T22:54:28.084722"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "State",
+    "value": "Madhya Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/ratnam-tyres-private-limited/U47990MP2025PTC080188",
+    "timestamp": "2026-08-27T22:54:28.084730"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "Pincode",
+    "value": "458880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/ratnam-tyres-private-limited/U47990MP2025PTC080188",
+    "timestamp": "2026-08-27T22:54:28.084737"
+  },
+  {
+    "business": "RATNAM TYRE TOOLS",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/ratnam-tyres-private-limited-U47990MP2025PTC080188",
+    "timestamp": "2026-08-27T22:54:32.386002"
+  },
+  {
+    "seller": "RATNAM TYRE TOOLS",
+    "field": "Owner",
+    "query": "RATNAM TYRE TOOLS founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:54:33.016759",
+    "status": "no_results"
+  },
+  {
+    "business": "FABBAY",
+    "field": "Business Name",
+    "value": "FABBAY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1M9ZDCGRWP9K7&asin=B0GV9YV6XP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:54:33.491895"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Website",
+    "query": "FABBAY official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:54:34.400571",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Legal Entity Name",
+    "query": "FABBAY company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hkcorporationsearch.com/companies/3331994/",
+      "https://www.ltddir.com/companies/fabbay-co-limited/",
+      "https://coltd.hk/company-75850002-details.htm",
+      "https://www.companydetails.in/company/fabbay-exports-private-limited"
+    ],
+    "timestamp": "2026-08-27T22:54:38.188646",
+    "status": "results_found"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Legal Entity Name",
+    "query": "FABBAY Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:36.153729",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "PAN",
+    "query": "FABBAY PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-27T22:55:38.198855",
+    "status": "results_found"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "PAN",
+    "query": "FABBAY PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:40.138200",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "GST",
+    "query": "FABBAY GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:40.801709",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "GST",
+    "query": "FABBAY GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:41.394334",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Owner",
+    "query": "FABBAY director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/noubar-afeyan/",
+      "https://www.dnb.com/business-directory/company-profiles.fabbay_limited.5bea6ea65aace50660fe16f4ad28155b.html",
+      "https://www.trademarkia.com/fabbay-98868133",
+      "https://www.forbes.com/profile/richard-saghian/"
+    ],
+    "timestamp": "2026-08-27T22:55:43.376606",
+    "status": "results_found"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Owner",
+    "query": "FABBAY founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:52.485211",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Address",
+    "query": "FABBAY registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:53.320446",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Address",
+    "query": "FABBAY registered address",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:54.038099",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Phone",
+    "query": "FABBAY phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:54.801800",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Phone",
+    "query": "FABBAY contact phone",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:55.549713",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Email",
+    "query": "FABBAY email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:56.301734",
+    "status": "no_results"
+  },
+  {
+    "seller": "FABBAY",
+    "field": "Email",
+    "query": "FABBAY contact email",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:55:57.071351",
+    "status": "no_results"
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "category": "Unstitched Fabrics",
+  "records_before_save": 8,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "TheStitchless",
+      "database_id": 1410,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@the-qrcode-generator.com",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "https://www.drugs.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Sun Fashion And Lifestyle",
+      "database_id": 1545,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917601012345",
+      "email": "support@swyftlegal.com",
+      "gst": "27AZGPD1287P1ZX",
+      "pan": "AZGPD1287P",
+      "website": "https://www.sunfashionandlifestyle.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Nekst Ecom",
+      "database_id": 1442,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916819600642",
+      "email": "info@saginfotech.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.nekst.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SHRI SANT CLOTH HOUSE",
+      "database_id": 1637,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919083284529",
+      "email": "srims@setgoi.com",
+      "gst": "06AMYPK8872G1Z8",
+      "pan": "AMYPK8872G",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1443,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "rel@rattanindia.com",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.rattanindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SUIT FIT",
+      "database_id": 1552,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918071811173",
+      "email": "gsd@utiitsl.com",
+      "gst": "33AABCU7650C1ZM",
+      "pan": "AABCU7650C",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Bhakare",
+      "database_id": 1642,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@osiprestaurant.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

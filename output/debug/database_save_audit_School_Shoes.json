@@ -1,0 +1,48 @@
+{
+  "category": "School Shoes",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1342,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Liberty Shoes Ltd",
+      "database_id": 3,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27ABCDE1234F1Z5",
+      "pan": "ABCDE1234F",
+      "website": "https://www.libertyshoesonline.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Campusactivewear",
+      "database_id": 1,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919667706012",
+      "email": "compliance@campusshoes.com",
+      "gst": "27AAHCA3072C1Z1",
+      "pan": "AAHCA3072C",
+      "website": "https://www.campusactivewear.in/",
+      "status": "Verified"
+    }
+  ]
+}

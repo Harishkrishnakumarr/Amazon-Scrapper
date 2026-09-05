@@ -1,0 +1,35 @@
+{
+  "category": "Basketball",
+  "records_before_save": 13,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1493,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "info@retailez.co.in",
+      "gst": "18AALCR3173P1ZM",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Global Sales Corporation",
+      "database_id": 1494,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917315122639",
+      "email": "info@hco.com",
+      "gst": "06AGUPN9578J1ZA",
+      "pan": "AGUPN9578J",
+      "website": "https://www.globalsalescorporation.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

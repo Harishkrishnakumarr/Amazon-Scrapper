@@ -1,0 +1,74 @@
+{
+  "category": "Vehicle Cleaners",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Softspun",
+      "database_id": 882,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919810009265",
+      "email": "info@softspun.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.softspun.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ShineXPro",
+      "database_id": 883,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@shinexpro.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shinexpro.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AARVISHI ENTERPRISE",
+      "database_id": 884,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 885,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "JENSI ENTERPRISE \u2b50\u2b50\u2b50\u2b50\u2b50",
+      "database_id": 884,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "24BCIPS4987B1ZC",
+      "pan": "BCIPS4987B",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

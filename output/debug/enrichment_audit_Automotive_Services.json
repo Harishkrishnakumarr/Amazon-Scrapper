@@ -1,0 +1,692 @@
+[
+  {
+    "business": "GLOBAL MART ECOM",
+    "field": "Business Name",
+    "value": "GLOBAL MART ECOM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A684ORZ4XJRYP&asin=B0H7JJ7MRY&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T09:23:02.306286"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "Website",
+    "query": "GLOBAL MART ECOM official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://globalmartusa.com/",
+      "https://globalmartwholesale.com/"
+    ],
+    "timestamp": "2026-08-27T09:23:07.196338",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "Legal Entity Name",
+    "query": "GLOBAL MART ECOM company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brainly.in/question/25345599",
+      "https://brainly.in/question/27842699",
+      "https://brainly.in/question/24230052",
+      "https://brainly.in/question/57915698"
+    ],
+    "timestamp": "2026-08-27T09:23:18.062593",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "Legal Entity Name",
+    "query": "GLOBAL MART ECOM Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ptt.cc/bbs/KoreaStar/M.1779427460.A.F6B.html",
+      "https://www.ptt.cc/bbs/MayDay/M.1606897686.A.68E.html",
+      "https://verywed.com/forum/expexch/3243762.html",
+      "https://verywed.com/forum/expexch/2469591.html"
+    ],
+    "timestamp": "2026-08-27T09:23:23.333294",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "PAN",
+    "query": "GLOBAL MART ECOM PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://razorpay.com/gst-number-search/pan/"
+    ],
+    "timestamp": "2026-08-27T09:23:53.328417",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "GST",
+    "query": "GLOBAL MART ECOM GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.calculatorsoup.com/calculators/math/math.php",
+      "https://www.calculator.io/integer-calculator/",
+      "https://www.calculator.net/math-calculator.html",
+      "https://calculator-online.net/ar/"
+    ],
+    "timestamp": "2026-08-27T09:23:56.698853",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "GST",
+    "query": "GLOBAL MART ECOM GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nps.gov/wamo/index.htm",
+      "https://www.britannica.com/topic/Washington-Monument-Washington-DC",
+      "https://www.nps.gov/wamo/planyourvisit/index.htm",
+      "https://washington.org/dc-guide-to/washington-monument"
+    ],
+    "timestamp": "2026-08-27T09:24:08.832415",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "Owner",
+    "query": "GLOBAL MART ECOM director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:24:15.201485",
+    "status": "no_results"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "Owner",
+    "query": "GLOBAL MART ECOM founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://rocketreach.co/salman-lakhani-email_105992630",
+      "https://www.indiafilings.com/search/global-mart-ecommerce-llp-ACP-9237",
+      "https://www.ecomgroup.com/",
+      "https://theorg.com/org/global-ecom-partners/org-chart/chris-lo-verde"
+    ],
+    "timestamp": "2026-08-27T09:24:18.421942",
+    "status": "results_found"
+  },
+  {
+    "business": "GLOBAL MART ECOM",
+    "field": "Email Address",
+    "value": "ajay.faujdar@shopperr.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/global-mart-ecommerce-llp-ACP-9237",
+    "timestamp": "2026-08-27T09:24:20.648511"
+  },
+  {
+    "business": "GLOBAL MART ECOM",
+    "field": "Billing Address",
+    "value": "ajay.faujdar@shopperr.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/global-mart-ecommerce-llp-ACP-9237",
+    "timestamp": "2026-08-27T09:24:20.656296"
+  },
+  {
+    "business": "GLOBAL MART ECOM",
+    "field": "City",
+    "value": "ajay.faujdar@shopperr.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/global-mart-ecommerce-llp-ACP-9237",
+    "timestamp": "2026-08-27T09:24:20.656312"
+  },
+  {
+    "seller": "GLOBAL MART ECOM",
+    "field": "Phone",
+    "query": "GLOBAL MART ECOM phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kompas.com/stori/read/2023/12/11/180000879/arca-ganesha-peninggalan-kerajaan-kediri",
+      "https://www.detik.com/jogja/budaya/d-7414536/mengenal-arca-ganesha-lengkap-dengan-makna-filosofinya",
+      "https://kumparan.com/jejaksejarah/sejarah-dan-makna-arca-ganesha-di-indonesia-27813kjbGKQ",
+      "https://sejarah.unpkediri.ac.id/arca-ganesha/"
+    ],
+    "timestamp": "2026-08-27T09:24:41.864853",
+    "status": "results_found"
+  },
+  {
+    "business": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Business Name",
+    "value": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3Q8QQRPV84YIJ&asin=B0H8XTTKTQ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T09:24:46.735866"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Website",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bbs.ruliweb.com/"
+    ],
+    "timestamp": "2026-08-27T09:24:50.772253",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Legal Entity Name",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.createprintables.com/",
+      "https://www.createprintables.com/name-tracing-worksheet-practice/",
+      "https://worksheetprints.com/worksheet-generator/tracing/name-tracing",
+      "https://www.canva.com/create/worksheets/?msockid=0894fbd0a919672415c4ec12a8216610"
+    ],
+    "timestamp": "2026-08-27T09:24:59.431943",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "PAN",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+      "https://www.falconebiz.com/LLP/SUDHIRYADAV-DECO-WORLD-FURNISHINGS-LLP-ABC-3018",
+      "https://www.filesure.in/company/sudhiryadav-deco-world-furnishings-llp/ABC-3018?tab=about",
+      "https://www.thecompanycheck.com/company/sudhiryadav-deco-world-furnishings-llp/ABC-3018"
+    ],
+    "timestamp": "2026-08-27T09:25:42.099476",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "GST",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:25:58.963927",
+    "status": "no_results"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Owner",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:26:18.848146",
+    "status": "no_results"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Address",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+      "https://www.falconebiz.com/LLP/SUDHIRYADAV-DECO-WORLD-FURNISHINGS-LLP-ABC-3018",
+      "https://www.thecompanycheck.com/company/sudhiryadav-deco-world-furnishings-llp/ABC-3018",
+      "https://www.filesure.in/company/sudhiryadav-deco-world-furnishings-llp/ABC-3018?tab=about"
+    ],
+    "timestamp": "2026-08-27T09:26:42.498179",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Phone",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:26:59.339442",
+    "status": "no_results"
+  },
+  {
+    "business": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Business Name",
+    "value": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ALJ3KQ7RXBB2L&asin=B0GFNHWMKS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T09:27:11.784365"
+  },
+  {
+    "seller": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Website",
+    "query": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50 official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:27:25.189212",
+    "status": "no_results"
+  },
+  {
+    "seller": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Legal Entity Name",
+    "query": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50 company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:28:21.250212",
+    "status": "no_results"
+  },
+  {
+    "seller": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50 PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-08-27T09:28:30.775610",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50 PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://210.140.79.20/",
+      "https://www.care-mado.com/search/Houkatsu/kantou/tokyoto/kodairashi.html"
+    ],
+    "timestamp": "2026-08-27T09:28:35.140709",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST",
+    "query": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50 GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://globaltaxmanindia.com/services/gst-registration",
+      "https://www.knowyourgst.com/gst-number-search/global-mart-shopping-private-limited-27AAJCG2639P1ZZ/",
+      "https://smartmudra360.com/gst-registration/"
+    ],
+    "timestamp": "2026-08-27T09:28:43.093829",
+    "status": "results_found"
+  },
+  {
+    "business": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST Number",
+    "value": "27AAJCG2639P1ZZ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/global-mart-shopping-private-limited-27AAJCG2639P1ZZ/",
+    "timestamp": "2026-08-27T09:28:51.329006"
+  },
+  {
+    "business": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN Number",
+    "value": "AAJCG2639P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/global-mart-shopping-private-limited-27AAJCG2639P1ZZ/",
+    "timestamp": "2026-08-27T09:28:51.329037"
+  },
+  {
+    "seller": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-38299350-impossible-de-me-connecter-a-canva-avec-mail-outlook",
+      "https://forums.commentcamarche.net/forum/affich-37536445-canva-document-termine-et-apres",
+      "https://forums.commentcamarche.net/forum/affich-37385953-probleme-pour-vectoriser-un-logo-degrade"
+    ],
+    "timestamp": "2026-08-27T09:28:53.683873",
+    "status": "results_found"
+  },
+  {
+    "business": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Phone Number",
+    "value": "+917174142663",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+    "timestamp": "2026-08-27T09:28:55.318887"
+  },
+  {
+    "seller": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50 founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://globalmartusa.com/",
+      "https://tracxn.com/d/companies/globalmart/__2A7UX1g4lo_LazOrm1uI3S29B02txFf6Z39MSHUGCEQ",
+      "https://globalmart.co.in/",
+      "https://www.bloomberg.com/profile/company/6677596Z:US"
+    ],
+    "timestamp": "2026-08-27T09:29:09.696391",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Business Name",
+    "value": "Cart2Globe",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A324FKG9CG7HUT&asin=B07XSJ2N3K&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T09:29:13.392326"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Website",
+    "query": "Cart2Globe official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe"
+    ],
+    "timestamp": "2026-08-27T09:29:15.515607",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Website URL",
+    "value": "https://www.cart2india.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cart2india.com/",
+    "timestamp": "2026-08-27T09:29:18.875836"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Legal Entity Name",
+    "query": "Cart2Globe company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:29:23.031158",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Email Address",
+    "value": "wecare@cart2india.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cart2india.com/page/contact-us",
+    "timestamp": "2026-08-27T09:29:27.832238"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Legal Entity Name",
+    "query": "Cart2Globe Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:29:31.212404",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "PAN",
+    "query": "Cart2Globe PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:29:41.804441",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "PAN",
+    "query": "Cart2Globe PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:29:52.627267",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "GST",
+    "query": "Cart2Globe GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:29:57.092217",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "GST",
+    "query": "Cart2Globe GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:30:11.762050",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Owner",
+    "query": "Cart2Globe director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:30:13.873769",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Owner",
+    "query": "Cart2Globe founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:30:23.944496",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Address",
+    "query": "Cart2Globe registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:30:31.183421",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Address",
+    "query": "Cart2Globe registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://www.cart2india.com/page/contact-us",
+      "https://www.companydetails.in/company/cart-2-india-online-retail-privatelimited"
+    ],
+    "timestamp": "2026-08-27T09:30:50.414279",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Phone",
+    "query": "Cart2Globe phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:30:52.691738",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Phone",
+    "query": "Cart2Globe contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cart2india.com/",
+      "https://www.sellerratings.com/amazon/india/cart2globe",
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/page/contact-us"
+    ],
+    "timestamp": "2026-08-27T09:31:00.871571",
+    "status": "results_found"
+  },
+  {
+    "business": "BUNCH OF GOODS",
+    "field": "Business Name",
+    "value": "BUNCH OF GOODS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2QSP1UFZC8LEM&asin=B00UDG4MPK&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T09:31:06.433904"
+  },
+  {
+    "seller": "BUNCH OF GOODS",
+    "field": "Website",
+    "query": "BUNCH OF GOODS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://shop.abunchofstuff.com/",
+      "https://shop.abunchofstuff.com/collections/prints"
+    ],
+    "timestamp": "2026-08-27T09:31:14.069413",
+    "status": "results_found"
+  },
+  {
+    "seller": "BUNCH OF GOODS",
+    "field": "Legal Entity Name",
+    "query": "BUNCH OF GOODS company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://faq.ikyu.com/app/answers/detail/a_id/1109/~/yahoo%21-japan-id%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%EF%BC%9F",
+      "https://faq.ikyu.com/app/answers/detail/a_id/556/~/yahoo%21-japan-id%E3%81%A8%E3%81%AF%EF%BC%9F"
+    ],
+    "timestamp": "2026-08-27T09:31:23.168133",
+    "status": "results_found"
+  },
+  {
+    "seller": "BUNCH OF GOODS",
+    "field": "Legal Entity Name",
+    "query": "BUNCH OF GOODS Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:31:45.527603",
+    "status": "no_results"
+  },
+  {
+    "seller": "BUNCH OF GOODS",
+    "field": "PAN",
+    "query": "BUNCH OF GOODS PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-27T09:31:56.891681",
+    "status": "results_found"
+  },
+  {
+    "seller": "BUNCH OF GOODS",
+    "field": "GST",
+    "query": "BUNCH OF GOODS GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:32:24.927789",
+    "status": "no_results"
+  },
+  {
+    "seller": "BUNCH OF GOODS",
+    "field": "Owner",
+    "query": "BUNCH OF GOODS director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:33:02.013858",
+    "status": "no_results"
+  },
+  {
+    "seller": "BUNCH OF GOODS",
+    "field": "Address",
+    "query": "BUNCH OF GOODS registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:33:15.785461",
+    "status": "no_results"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "category": "Windchimes & Dream Catchers",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Geeta Narayan mart",
+      "database_id": 1090,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919876543210",
+      "email": "service@geetahair.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MeherCollection",
+      "database_id": 1091,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "admin@learnmodernpython.com",
+      "gst": "27BNJPM6885L1Z2",
+      "pan": "BNJPM6885L",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "THE URBAN ARTISTIC",
+      "database_id": 1092,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Needs Review"
+    },
+    {
+      "business_name": "Artwork by Jyotsna",
+      "database_id": 1093,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919933570112",
+      "email": "hugo002@yiyinggroup.com",
+      "gst": "27BWIPS9166A1Z6",
+      "pan": "BWIPS9166A",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

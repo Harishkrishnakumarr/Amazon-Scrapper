@@ -1,0 +1,48 @@
+{
+  "category": "Jeans",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1377,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "kotty lifestyle pvt ltd",
+      "database_id": 1378,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "21@gmail.com",
+      "gst": "27AAGCK0951K1ZD",
+      "pan": "AAGCK0951K",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ADITYA BIRLA LIFESTYLE BRANDS LIMITED",
+      "database_id": 1379,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919892691696",
+      "email": "v.agrawal@abfrl.adityabirla.com",
+      "gst": "07ABACA5076G1ZS",
+      "pan": "ABACA5076G",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

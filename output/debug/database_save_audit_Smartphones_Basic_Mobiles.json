@@ -1,0 +1,74 @@
+{
+  "category": "Smartphones Basic Mobiles",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Dawntech Etel!",
+      "database_id": 343,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915584214909",
+      "email": "legal@dawntech.dev",
+      "gst": "23AAMCM3175B1ZQ",
+      "pan": "Not Found",
+      "website": "https://dawntech.dev/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MonsoonTreasureSALE",
+      "database_id": 344,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910611232026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.sellerratings.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "AmazCart",
+      "database_id": 345,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "NexGen Firm",
+      "database_id": 346,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Whitepine Mobitech Private Limited",
+      "database_id": 347,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

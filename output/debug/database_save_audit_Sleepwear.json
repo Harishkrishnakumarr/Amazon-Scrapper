@@ -1,0 +1,61 @@
+{
+  "category": "Sleepwear",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1388,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DEVCHARAN RETAIL CONCEPTS",
+      "database_id": 1389,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919958793238",
+      "email": "info@startupcaservices.com",
+      "gst": "27AARFD3737C1ZE",
+      "pan": "AARFD3737C",
+      "website": "https://www.thecompanycheck.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SoSh\u00ae Hub",
+      "database_id": 1390,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919460093299",
+      "email": "soshhub@gmail.com",
+      "gst": "24EUEPS8164M1ZW",
+      "pan": "EUEPS8164M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AARYAN FAB",
+      "database_id": 1391,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "info@gstserver.com",
+      "gst": "24ANVPD6370Q1Z8",
+      "pan": "ANVPD6370Q",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

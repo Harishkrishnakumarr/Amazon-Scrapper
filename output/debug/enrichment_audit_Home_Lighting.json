@@ -1,0 +1,362 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0BDDSB9QS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T11:54:38.393822"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/home/welcome-back?msockid=32e44d6b75f361e8108b5aa874bc60d3"
+    ],
+    "timestamp": "2026-08-28T11:54:42.707097",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+    "timestamp": "2026-08-28T11:54:52.655142"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/l/welcome/new-account?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3"
+    ],
+    "timestamp": "2026-08-28T11:55:06.639630",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/what-we-offer/our-accounts/brokerage-account?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/forms-applications?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://registerease.in/services/private-limited-company-registration",
+      "https://www.startupwala.com/private-limited-company-registration.html"
+    ],
+    "timestamp": "2026-08-28T11:55:19.444081",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/e/t/user/login?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T11:55:21.375013",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/e/t/user/login?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T11:55:43.526504",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/e/t/user/login?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T11:56:00.109324",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-28T11:56:14.336876"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/e/t/user/login?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T11:56:18.328737",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Phone",
+    "query": "ETrade Online phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://us.etrade.com/e/t/user/login?msockid=32e44d6b75f361e8108b5aa874bc60d3",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T11:56:36.576452",
+    "status": "results_found"
+  },
+  {
+    "business": "VRCT",
+    "field": "Business Name",
+    "value": "VRCT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2I893KHURMKXH&asin=B081264YHW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T11:56:39.128369"
+  },
+  {
+    "seller": "VRCT",
+    "field": "Website",
+    "query": "VRCT official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://www.vrchat.com/home/download",
+      "https://vrchat.com/"
+    ],
+    "timestamp": "2026-08-28T11:56:46.256421",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRCT",
+    "field": "Legal Entity Name",
+    "query": "VRCT company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://dod.teams.microsoft.us/convene/",
+      "https://teams.cloud.microsoft/convene/worker/",
+      "https://teams.live.com/v2/?v=.jlw&launchType=web&deeplinkId=f2e3315b-f8a9-40d8-af72-88bf7a84ca36&tenantId=9188040d-6c67-4c5b-b112-36a304b66dad"
+    ],
+    "timestamp": "2026-08-28T11:57:50.089233",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRCT",
+    "field": "PAN",
+    "query": "VRCT PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/ja-JP/",
+      "https://openai.com/ja-JP/",
+      "https://apps.apple.com/jp/app/chatgpt/id6448311069"
+    ],
+    "timestamp": "2026-08-28T11:57:58.867435",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRCT",
+    "field": "GST",
+    "query": "VRCT GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://help.monotaro.com/app/answers/detail/a_id/32/~/%E3%81%94%E8%BF%94%E5%93%81%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+      "https://help.monotaro.com/app/answers/detail/a_id/31/~/%E8%AB%8B%E6%B1%82%E6%9B%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+      "https://bbs.kakaku.com/bbs/-/SortID=25484892/",
+      "https://help.monotaro.com/app/answers/detail/a_id/170/~/%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B%E3%83%BB%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B%E5%8F%97%E4%BB%98%E6%99%82%E9%96%93%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6"
+    ],
+    "timestamp": "2026-08-28T11:58:19.750441",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRCT",
+    "field": "Owner",
+    "query": "VRCT director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://vrct.org/trust/",
+      "https://vrct.org/our-trustee/",
+      "https://github.com/misyaguziya/VRCT",
+      "https://www.thecompanycheck.com/company/vrct-india-private-limited/U47590DL2025PTC449905"
+    ],
+    "timestamp": "2026-08-28T11:58:39.939725",
+    "status": "results_found"
+  },
+  {
+    "business": "Jevascot Retail",
+    "field": "Business Name",
+    "value": "Jevascot Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2F6R90TVPFYNY&asin=B0H7MZCP7Q&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T11:58:41.393113"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "Website",
+    "query": "Jevascot Retail official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T11:58:48.289516",
+    "status": "no_results"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "Legal Entity Name",
+    "query": "Jevascot Retail company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orcjamaica.com/?AspxAutoDetectCookieSupport=1",
+      "https://www.orcjamaica.com/Forms.aspx",
+      "https://www.orcjamaica.com/ContactUs.aspx",
+      "https://www.orcjamaica.com/Help.aspx"
+    ],
+    "timestamp": "2026-08-28T11:58:59.357701",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "PAN",
+    "query": "Jevascot Retail PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T11:59:21.655867",
+    "status": "no_results"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "PAN",
+    "query": "Jevascot Retail PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://docs.github.com/en/copilot/how-tos/use-ai-models/change-the-chat-model"
+    ],
+    "timestamp": "2026-08-28T11:59:24.967311",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "GST",
+    "query": "Jevascot Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-08-28T11:59:30.790389",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "GST",
+    "query": "Jevascot Retail GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ted.com/playlists/171/the_most_popular_ted_talks_of_all_time",
+      "https://www.ted.com/playlists/180/the_10_most_popular_tedx_talks",
+      "https://www.prestigeonline.com/th/people/top-10-ted-talks-of-all-time/",
+      "https://yoodli.ai/blog/the-10-best-ted-talks-of-all-time"
+    ],
+    "timestamp": "2026-08-28T11:59:41.775313",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "Owner",
+    "query": "Jevascot Retail director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://v2retail.com/board-of-directors/",
+      "https://www.dfiretailgroup.com/en/about-us/our-leadership/",
+      "https://corp.7-eleven.com/corp/our-leadership"
+    ],
+    "timestamp": "2026-08-28T11:59:52.443760",
+    "status": "results_found"
+  },
+  {
+    "business": "Jevascot Retail",
+    "field": "Phone Number",
+    "value": "+918130907705",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://v2retail.com/board-of-directors/",
+    "timestamp": "2026-08-28T11:59:57.344968"
+  },
+  {
+    "business": "Jevascot Retail",
+    "field": "Email Address",
+    "value": "customercare@v2kart.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://v2retail.com/board-of-directors/",
+    "timestamp": "2026-08-28T11:59:57.345124"
+  },
+  {
+    "seller": "Jevascot Retail",
+    "field": "Address",
+    "query": "Jevascot Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.easepdf.com/cn/topics/pdf-split-merge-tools.html",
+      "https://www.easepdf.com/tw/word-to-pdf/"
+    ],
+    "timestamp": "2026-08-28T12:00:14.409093",
+    "status": "results_found"
+  }
+]

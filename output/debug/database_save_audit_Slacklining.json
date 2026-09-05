@@ -1,0 +1,74 @@
+{
+  "category": "Slacklining",
+  "records_before_save": 10,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "JIC LASHING AND LIFTING",
+      "database_id": 597,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912022202026",
+      "email": "komal.joshi@jecrcu.edu.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ShopFlix123",
+      "database_id": 598,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BEYOND RETAIL",
+      "database_id": 599,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "G Mart Global",
+      "database_id": 600,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912473535200",
+      "email": "support@gmart.com",
+      "gst": "32AABCG0087F1Z3",
+      "pan": "Not Found",
+      "website": "https://www.gmartglobal.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Overseas_shop",
+      "database_id": 601,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913674442026",
+      "email": "info@overseaslogistic.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://overseaslogistic.com/",
+      "status": "Verified"
+    }
+  ]
+}

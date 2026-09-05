@@ -1,0 +1,1319 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0D6YSC71D&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T19:59:10.250905"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T19:59:12.272599",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/work-with-us/",
+    "timestamp": "2026-09-02T19:59:15.330117"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T19:59:15.920904"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T19:59:15.921306"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-32AAJCC8517E1ZU/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.unifers.ai/gst/03AAJCC8517E1ZV/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-09-02T19:59:20.474287",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T19:59:21.010838"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T19:59:21.010860"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T19:59:22.522925",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:59:23.336769"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:59:23.336786"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:59:23.336792"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T19:59:23.336797"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T19:59:27.221942"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T19:59:29.935979",
+    "status": "results_found"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "Business Name",
+    "value": "Vihaan Inc",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3GPQGCPJQB91E&asin=B0GFD5R35T&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T19:59:33.026338"
+  },
+  {
+    "seller": "Vihaan Inc",
+    "field": "Website",
+    "query": "Vihaan Inc official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.vihaaninternational.com/",
+      "https://vihaangroupindia.com/"
+    ],
+    "timestamp": "2026-09-02T19:59:34.802447",
+    "status": "results_found"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "Website URL",
+    "value": "https://www.vihaaninc.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vihaaninc.com/",
+    "timestamp": "2026-09-02T19:59:36.035323"
+  },
+  {
+    "seller": "Vihaan Inc",
+    "field": "Legal Entity Name",
+    "query": "Vihaan Inc company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/vihaan-technologies-private-limited/__Le_rWtsp0yAhU3QfVNB86DphFSvjPCjjvLfZwY7JW5c#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U29219DL2013PTC248696%20and%20its%20current%20status%20is%20Active.",
+      "https://www.info-clipper.com/en/company/india/vihaan-inc.inde5jtqn.html",
+      "https://www.inspex.in/",
+      "https://www.dnb.com/business-directory/company-profiles.vihaan_inc.467a8d42661bf98a26198a3f4f4e4ced.html"
+    ],
+    "timestamp": "2026-09-02T19:59:39.956478",
+    "status": "results_found"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vihaan-technologies-private-limited/__Le_rWtsp0yAhU3QfVNB86DphFSvjPCjjvLfZwY7JW5c#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U29219DL2013PTC248696%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T19:59:41.125783"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vihaan-technologies-private-limited/__Le_rWtsp0yAhU3QfVNB86DphFSvjPCjjvLfZwY7JW5c#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U29219DL2013PTC248696%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T19:59:41.125798"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vihaan-technologies-private-limited/__Le_rWtsp0yAhU3QfVNB86DphFSvjPCjjvLfZwY7JW5c#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U29219DL2013PTC248696%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T19:59:41.125803"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vihaan-technologies-private-limited/__Le_rWtsp0yAhU3QfVNB86DphFSvjPCjjvLfZwY7JW5c#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U29219DL2013PTC248696%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T19:59:41.125807"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T19:59:45.906703"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T19:59:45.906928"
+  },
+  {
+    "seller": "Vihaan Inc",
+    "field": "Legal Entity Name",
+    "query": "Vihaan Inc Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.info-clipper.com/en/company/india/vihaan-inc.inde5jtqn.html",
+      "https://www.falconebiz.com/company/VIHAAN-INDUSTRIES-PRIVATE-LIMITED-U42900BR2025PTC079829",
+      "https://www.inspex.in/",
+      "https://tracxn.com/d/legal-entities/india/vihaan-direct-selling-india-private-limited/__iGHXvVQ_j_H5sevJ0su8mmgJpJOxGxarNtUWHJ7g14I"
+    ],
+    "timestamp": "2026-09-02T19:59:48.524926",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vihaan Inc",
+    "field": "PAN",
+    "query": "Vihaan Inc PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/vihaan-inc-33AUQPS0841K1Z9/",
+      "https://gstverify.co.in/search/",
+      "https://gstserver.com/gst/24AANFV1649P1ZG/",
+      "https://www.exportersindia.com/volex-new-delhi/about-us.htm"
+    ],
+    "timestamp": "2026-09-02T19:59:54.030049",
+    "status": "results_found"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "GST Number",
+    "value": "24AANFV1649P1ZG",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/24AANFV1649P1ZG/",
+    "timestamp": "2026-09-02T20:00:02.914482"
+  },
+  {
+    "business": "Vihaan Inc",
+    "field": "PAN Number",
+    "value": "AANFV1649P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/24AANFV1649P1ZG/",
+    "timestamp": "2026-09-02T20:00:02.914499"
+  },
+  {
+    "seller": "Vihaan Inc",
+    "field": "Owner",
+    "query": "Vihaan Inc director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/vihaannetworks/__4v_AANhdOdMx6y5b6DWP6Z609SKo4XjBvQQzZQ_TnSg",
+      "https://theorg.com/org/vihaan-networks-limited/teams/leadership-team",
+      "https://theorg.com/org/vihaan-networks-limited",
+      "https://www.vnl.in/board-members/"
+    ],
+    "timestamp": "2026-09-02T20:00:04.505439",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vihaan Inc",
+    "field": "Owner",
+    "query": "Vihaan Inc founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://inc42.com/company/vihaan-electrix/people/",
+      "https://pitchbook.com/profiles/company/571071-61",
+      "https://tracxn.com/d/legal-entities/india/vihaan-networks-private-limited/__SnEctJGYAJ9zwPxFOJCtydUtFLUXDJx465z9wq59rqw",
+      "https://www.dnb.com/business-directory/company-profiles.vihaan_inc.f9f5f10197654b0e5845e8ac09bb5a25.html"
+    ],
+    "timestamp": "2026-09-02T20:00:13.732247",
+    "status": "results_found"
+  },
+  {
+    "business": "BONUM SALES GROUP",
+    "field": "Business Name",
+    "value": "BONUM SALES GROUP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ABF1XPRL4Y8C5&asin=B0CTXPCWLL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:00:19.628088"
+  },
+  {
+    "seller": "BONUM SALES GROUP",
+    "field": "Website",
+    "query": "BONUM SALES GROUP official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.europages.co.uk/companies/bonum-sales-group-official-website.html",
+      "https://www.bonum.in/index.php"
+    ],
+    "timestamp": "2026-09-02T20:00:20.877582",
+    "status": "results_found"
+  },
+  {
+    "seller": "BONUM SALES GROUP",
+    "field": "Legal Entity Name",
+    "query": "BONUM SALES GROUP company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.indiafilings.com/search",
+      "https://gst.iadv.io/M-S-BONUM-SALES-AND-SERVICES-09BBDPD4691R1Z0/"
+    ],
+    "timestamp": "2026-09-02T20:00:28.214192",
+    "status": "results_found"
+  },
+  {
+    "business": "BONUM SALES GROUP",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:00:28.605012"
+  },
+  {
+    "business": "BONUM SALES GROUP",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:00:28.605362"
+  },
+  {
+    "business": "BONUM SALES GROUP",
+    "field": "GST Number",
+    "value": "09BBDPD4691R1Z0",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/M-S-BONUM-SALES-AND-SERVICES-09BBDPD4691R1Z0/",
+    "timestamp": "2026-09-02T20:00:32.170268"
+  },
+  {
+    "business": "BONUM SALES GROUP",
+    "field": "PAN Number",
+    "value": "BBDPD4691R",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/M-S-BONUM-SALES-AND-SERVICES-09BBDPD4691R1Z0/",
+    "timestamp": "2026-09-02T20:00:32.170281"
+  },
+  {
+    "seller": "BONUM SALES GROUP",
+    "field": "Legal Entity Name",
+    "query": "BONUM SALES GROUP Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-09-02T20:00:33.546923",
+    "status": "results_found"
+  },
+  {
+    "seller": "BONUM SALES GROUP",
+    "field": "Owner",
+    "query": "BONUM SALES GROUP director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bonumgroup.com/en/the-group/",
+      "https://www.cbinsights.com/company/bonum-group/people",
+      "https://bonumgroups.com/team",
+      "https://www.cbinsights.com/company/bonum-2/people"
+    ],
+    "timestamp": "2026-09-02T20:00:39.176103",
+    "status": "results_found"
+  },
+  {
+    "seller": "BONUM SALES GROUP",
+    "field": "Owner",
+    "query": "BONUM SALES GROUP founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bonumgroup.com/en/the-group/",
+      "https://bonumgroup.com/en/home/",
+      "https://pitchbook.com/profiles/company/544618-90",
+      "https://www.cbinsights.com/company/bonum-group/people"
+    ],
+    "timestamp": "2026-09-02T20:00:51.833599",
+    "status": "results_found"
+  },
+  {
+    "seller": "BONUM SALES GROUP",
+    "field": "Address",
+    "query": "BONUM SALES GROUP registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/13025895",
+      "https://www.justdial.com/Bhubaneshwar/Bonum-Group-Head-Office-Meherpalli-Ps-Laxmi-Sagar-Near-Ram-Lila-Maidan-Jharapada/0674PX674-X674-210603181719-D6L1_BZDET/products",
+      "https://bonumgroups.com/contact",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T20:00:58.497155",
+    "status": "results_found"
+  },
+  {
+    "seller": "BONUM SALES GROUP",
+    "field": "Address",
+    "query": "BONUM SALES GROUP registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/13025895",
+      "https://find-and-update.company-information.service.gov.uk/company/16940184",
+      "https://b2bhint.com/en/company/gb/bonum-group-ltd--13025895",
+      "https://www.verif.com/en/company/BONUM-GROUP-68d9c18412992303382e8ca8/"
+    ],
+    "timestamp": "2026-09-02T20:01:04.701609",
+    "status": "results_found"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "Business Name",
+    "value": "Kuchipoo",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3Q7PLOL3ZCW9T&asin=B0FJFB3GMG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:01:08.275207"
+  },
+  {
+    "seller": "Kuchipoo",
+    "field": "Website",
+    "query": "Kuchipoo official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kuchipoo.in/",
+      "https://kuchipoo.in/pages/contact"
+    ],
+    "timestamp": "2026-09-02T20:01:09.493258",
+    "status": "results_found"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "Website URL",
+    "value": "https://kuchipoo.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://kuchipoo.in/",
+    "timestamp": "2026-09-02T20:01:12.267458"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "GST Number",
+    "value": "06ABAFV0462G1ZF",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://kuchipoo.in/",
+    "timestamp": "2026-09-02T20:01:13.392395"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "PAN Number",
+    "value": "ABAFV0462G",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://kuchipoo.in/",
+    "timestamp": "2026-09-02T20:01:13.392417"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "Billing Address",
+    "value": "Plot No. 44, Sector 29, Part 2 Industrial Area, Near Dainik Bhaskar, Panipat-132103",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://kuchipoo.in/",
+    "timestamp": "2026-09-02T20:01:13.394583"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "City",
+    "value": "Panipat",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://kuchipoo.in/",
+    "timestamp": "2026-09-02T20:01:13.394599"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "Pincode",
+    "value": "132103",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://kuchipoo.in/",
+    "timestamp": "2026-09-02T20:01:13.394604"
+  },
+  {
+    "seller": "Kuchipoo",
+    "field": "Legal Entity Name",
+    "query": "Kuchipoo company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kuchipoo.in/pages/kp-account",
+      "https://www.quickcompany.in/trademarks/3697376-kuchipoo",
+      "https://kuchipoo.in/pages/about-us",
+      "https://www.indiafilings.com/search/kuchipoo-tm-3697375"
+    ],
+    "timestamp": "2026-09-02T20:01:18.624394",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kuchipoo",
+    "field": "Legal Entity Name",
+    "query": "Kuchipoo Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://npifund.com/article/steps-to-check-company-registration-status-on-mca",
+      "https://epfoin.com/employers/registration/"
+    ],
+    "timestamp": "2026-09-02T20:01:24.160117",
+    "status": "results_found"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:01:24.811923"
+  },
+  {
+    "business": "Kuchipoo",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:01:24.812135"
+  },
+  {
+    "seller": "Kuchipoo",
+    "field": "Owner",
+    "query": "Kuchipoo director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kuchipoo.in/pages/about-us",
+      "https://kuchipoo.in/",
+      "https://kuchipoo.in/pages/contact",
+      "https://en.everybodywiki.com/Kuchipoo"
+    ],
+    "timestamp": "2026-09-02T20:01:31.264140",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kuchipoo",
+    "field": "Owner",
+    "query": "Kuchipoo founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://kuchipoo.in/pages/about-us",
+      "https://kuchipoo.in/",
+      "https://kuchipoo.shop/about",
+      "https://en.everybodywiki.com/Kuchipoo"
+    ],
+    "timestamp": "2026-09-02T20:01:59.774861",
+    "status": "results_found"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Business Name",
+    "value": "Excel India Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3J9LOQ9AST9EC&asin=B07ZBMFTHX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:02:00.178257"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Website",
+    "query": "Excel India Online official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://excel.cloud.microsoft/new/?wdOrigin=new.apphome.excel"
+    ],
+    "timestamp": "2026-09-02T20:02:01.992937",
+    "status": "results_found"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Website URL",
+    "value": "https://www.excelindiaonline.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.excelindiaonline.in/",
+    "timestamp": "2026-09-02T20:02:05.840407"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Email Address",
+    "value": "excelindiaweb123@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.excelindiaonline.in/",
+    "timestamp": "2026-09-02T20:02:06.683463"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Legal Entity Name",
+    "query": "Excel India Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.webonlineca.com/",
+      "https://taxque.in/blog/online-company-registration-india-step-by-step",
+      "https://legalsuvidha.com/blog/step-by-step-guide-to-registering-a-private-limited-company-pvt-ltd-in-india",
+      "https://e-startupindia.com/"
+    ],
+    "timestamp": "2026-09-02T20:02:12.985809",
+    "status": "results_found"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Phone Number",
+    "value": "+917413826826",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.webonlineca.com/",
+    "timestamp": "2026-09-02T20:02:16.842398"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Legal Entity Name",
+    "query": "Excel India Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregistration.org.in/blog/what-is-udyam-registration/",
+      "https://udyamregistrationform.com/nic-code-list-for-services/",
+      "https://udyamregistrationform.com/date-of-incorporation-in-udyam-registration/",
+      "https://www.kanakkupillai.com/"
+    ],
+    "timestamp": "2026-09-02T20:02:27.728198",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "PAN",
+    "query": "Excel India Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/",
+      "https://nikash.in/bulk-pan-validation-tool/",
+      "https://www.indiafilings.com/learn/download-epan-card",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T20:02:29.237373",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "PAN",
+    "query": "Excel India Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nikash.in/bulk-pan-validation-tool/",
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://www.caclubindia.com/forum/excel-query-regarding-pan-no-593276.asp"
+    ],
+    "timestamp": "2026-09-02T20:02:36.399706",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "GST",
+    "query": "Excel India Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://gstextract.com/gstin-details",
+      "https://taxque.in/blog/gst-registration-online-india",
+      "https://ksmg.co/insights/goods-services-tax/gst-registration"
+    ],
+    "timestamp": "2026-09-02T20:02:47.304293",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "GST",
+    "query": "Excel India Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://vroxlabs.com/free-invoice-generator",
+      "https://gstextract.com/gstin-details",
+      "https://gstverify.co.in/search/",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T20:02:58.646315",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Owner",
+    "query": "Excel India Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.financecharts.com/stocks/EXLS/profile",
+      "https://in.investing.com/equities/excel-industries-ltd-company-profile",
+      "https://www.bloomberg.com/quote/EXL:IN",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T20:03:02.816956",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Owner",
+    "query": "Excel India Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cinebuster.in/every-story-was-unique-excel-entertainment-co-founder-ritesh-sidhwani-reflects-on-25-years-from-dil-chahta-hai-to-don/",
+      "https://www.bloomberg.com/quote/EXL:IN",
+      "https://tracxn.com/d/legal-entities/india/exela-technologies-india-private-limited/__bNkFIM5MC5KvJ0saBq0exloLjENfXzfaTNmitVP7fIk",
+      "https://www.forbes.com/profile/charles-simonyi/"
+    ],
+    "timestamp": "2026-09-02T20:03:10.988573",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Address",
+    "query": "Excel India Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.dnb.com/business-directory/company-profiles/excel-polymer-industries.ce8508b72ccab6bcecc9e313527d6034",
+      "https://in.investing.com/equities/excel-industries-ltd-company-profile",
+      "https://in.worldorgs.com/catalog/pune/accountant/exl-service-hadapsar"
+    ],
+    "timestamp": "2026-09-02T20:03:18.372480",
+    "status": "results_found"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Billing Address",
+    "value": "tower 1, wing a & b, cybercity, magarpatta, hadapsar, pune, maharashtra 411013",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/pune/accountant/exl-service-hadapsar",
+    "timestamp": "2026-09-02T20:03:26.569947"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "City",
+    "value": "pune",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/pune/accountant/exl-service-hadapsar",
+    "timestamp": "2026-09-02T20:03:26.569963"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/pune/accountant/exl-service-hadapsar",
+    "timestamp": "2026-09-02T20:03:26.569967"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Pincode",
+    "value": "411013",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/pune/accountant/exl-service-hadapsar",
+    "timestamp": "2026-09-02T20:03:26.569970"
+  },
+  {
+    "business": "KiCO",
+    "field": "Business Name",
+    "value": "KiCO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A22WLJU95JX71A&asin=B0GWXRMN4W&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:03:26.788392"
+  },
+  {
+    "seller": "KiCO",
+    "field": "Website",
+    "query": "KiCO official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kitco.com/",
+      "https://www.kitco.com/price/precious-metals"
+    ],
+    "timestamp": "2026-09-02T20:03:28.188148",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiCO",
+    "field": "Legal Entity Name",
+    "query": "KiCO company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-registration",
+      "https://www.registerkaro.in/",
+      "https://www.businessoutreach.in/how-to-register-company-india/",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-09-02T20:03:35.321005",
+    "status": "results_found"
+  },
+  {
+    "business": "KiCO",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T20:03:38.202939"
+  },
+  {
+    "business": "KiCO",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T20:03:38.214613"
+  },
+  {
+    "seller": "KiCO",
+    "field": "Legal Entity Name",
+    "query": "KiCO Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.instafinancials.com/company/kico-educational-private-limited-U74999DL2018PTC330633",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.instafinancials.com/company/kico-learning-private-limited-U74999DL2021PTC391723/company-overview",
+      "https://www.falconebiz.com/company/KICO-EDUCATIONAL-PRIVATE-LIMITED-U74999DL2018PTC330633"
+    ],
+    "timestamp": "2026-09-02T20:03:46.970651",
+    "status": "results_found"
+  },
+  {
+    "business": "KiCO",
+    "field": "Email Address",
+    "value": "csyugesh@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/company/kico-educational-private-limited-U74999DL2018PTC330633",
+    "timestamp": "2026-09-02T20:03:47.981705"
+  },
+  {
+    "seller": "KiCO",
+    "field": "PAN",
+    "query": "KiCO PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-details-by-number-a-complete-guide",
+      "https://blog.pancardonlineindia.com/index.php/how-to-check-pan-card-details-with-your-name-a-step-by-step-guide"
+    ],
+    "timestamp": "2026-09-02T20:03:50.369886",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiCO",
+    "field": "PAN",
+    "query": "KiCO PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://quicko.com/tools/verify-pan-details",
+      "https://www.ckycindia.in/"
+    ],
+    "timestamp": "2026-09-02T20:03:55.815892",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiCO",
+    "field": "GST",
+    "query": "KiCO GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://gst.unifers.ai/gst/32AAIFK9512H1ZE/kico-business-corporation",
+      "https://fnshiftsolutions.com/gstin-search/kico-steel-llp-27AAVFK3754G1ZU",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T20:03:58.799293",
+    "status": "results_found"
+  },
+  {
+    "business": "KiCO",
+    "field": "GST Number",
+    "value": "27AAVFK3754G1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/kico-steel-llp-27AAVFK3754G1ZU",
+    "timestamp": "2026-09-02T20:04:21.586299"
+  },
+  {
+    "business": "KiCO",
+    "field": "PAN Number",
+    "value": "AAVFK3754G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/kico-steel-llp-27AAVFK3754G1ZU",
+    "timestamp": "2026-09-02T20:04:21.586315"
+  },
+  {
+    "seller": "KiCO",
+    "field": "Owner",
+    "query": "KiCO director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/kico/__W2nOPdTBOKTOtcE09KR2MyExgasspKc_AJp8A7RG9yY",
+      "https://www.cbinsights.com/company/kico/people",
+      "https://en.wikiflux.org/wiki/index.php/Gunjan_Chowdhary",
+      "https://tracxn.com/d/companies/kitco/__gdDw5b9uPQTUzcjgawyimSxD9yc9X5bTk6_Dm2VL-qQ"
+    ],
+    "timestamp": "2026-09-02T20:04:23.091870",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiCO",
+    "field": "Owner",
+    "query": "KiCO founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/kico/__W2nOPdTBOKTOtcE09KR2MyExgasspKc_AJp8A7RG9yY",
+      "https://www.architectandinteriorsindia.com/projects/inside-indias-first-sneaker-retail-cocktail-bar-now-open-in-mumbai",
+      "https://www.cbinsights.com/company/kico/people",
+      "https://en.wikiflux.org/wiki/index.php/Gunjan_Chowdhary"
+    ],
+    "timestamp": "2026-09-02T20:04:30.057293",
+    "status": "results_found"
+  },
+  {
+    "business": "JMD Enterprises",
+    "field": "Business Name",
+    "value": "JMD Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A164K7T8WC0RAA&asin=B0GZHVLZ48&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:04:34.740594"
+  },
+  {
+    "seller": "JMD Enterprises",
+    "field": "Website",
+    "query": "JMD Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.jmdmedal.com/",
+      "https://www.jmdmedal.com/bronze-medal.html"
+    ],
+    "timestamp": "2026-09-02T20:04:36.279847",
+    "status": "results_found"
+  },
+  {
+    "business": "JMD Enterprises",
+    "field": "Website URL",
+    "value": "https://www.jmdenterprises.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.jmdenterprises.in/",
+    "timestamp": "2026-09-02T20:04:39.553842"
+  },
+  {
+    "seller": "JMD Enterprises",
+    "field": "Legal Entity Name",
+    "query": "JMD Enterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregisteration.org/blog/print-download-udyam-certificate",
+      "https://udyamregistrationform.com/correction-in-udyog-aadhar/",
+      "https://legaldocs.co.in/udyam-registration/download-and-print-udyam-registration-certificate",
+      "https://udyam-registrations.org/"
+    ],
+    "timestamp": "2026-09-02T20:04:43.515337",
+    "status": "results_found"
+  },
+  {
+    "business": "JMD Enterprises",
+    "field": "Phone Number",
+    "value": "+919334419203",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://udyamregisteration.org/blog/print-download-udyam-certificate",
+    "timestamp": "2026-09-02T20:04:48.390978"
+  },
+  {
+    "business": "JMD Enterprises",
+    "field": "Email Address",
+    "value": "ordermsme@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://udyamregisteration.org/blog/print-download-udyam-certificate",
+    "timestamp": "2026-09-02T20:04:48.391098"
+  },
+  {
+    "business": "JMD Enterprises",
+    "field": "Billing Address",
+    "value": "enter applicant's complete office address with state, district and pincode. \u0930\u093e\u091c\u094d\u092f, \u091c\u093f\u0932\u0947 \u0914\u0930 \u092a\u093f\u0928\u0915\u094b\u0921 \u0915\u0947 \u0938\u093e\u0925 \u0906\u0935\u0947\u0926\u0915 \u0915\u093e \u092a\u0942\u0930\u093e \u092a\u094d\u0932\u093e\u0902\u091f \u0915\u093e \u092a\u0924\u093e \u0926\u0930\u094d\u091c \u0915\u0930\u0947\u0902\u0964\u0924\u093e \u0939\u0948\u0964",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://udyam-registrations.org/",
+    "timestamp": "2026-09-02T20:04:54.744453"
+  },
+  {
+    "seller": "JMD Enterprises",
+    "field": "Legal Entity Name",
+    "query": "JMD Enterprises Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregistration.org.in/blog/what-is-udyam-registration/",
+      "https://udyamregistrationform.com/nic-code-list-for-services/",
+      "https://udyamregistrationform.com/date-of-incorporation-in-udyam-registration/",
+      "https://www.nseindia.com/companies-listing/corporate-filings-directory"
+    ],
+    "timestamp": "2026-09-02T20:04:56.163325",
+    "status": "results_found"
+  },
+  {
+    "seller": "JMD Enterprises",
+    "field": "PAN",
+    "query": "JMD Enterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstpan.com/",
+      "https://gstpan.com/new-gstin",
+      "https://gstpan.com/gst-calculator",
+      "https://gstpan.com/recently-added-gstin"
+    ],
+    "timestamp": "2026-09-02T20:04:59.588871",
+    "status": "results_found"
+  },
+  {
+    "business": "JMD Enterprises",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T20:05:01.004142"
+  },
+  {
+    "business": "JMD Enterprises",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T20:05:01.004152"
+  },
+  {
+    "seller": "JMD Enterprises",
+    "field": "Owner",
+    "query": "JMD Enterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.stockfin.ai/news/511092/2026-09-01/board-meeting",
+      "https://qorpiq.com/company/jmd-limited/U68100DL1989PLC038093",
+      "https://www.screener.in/company/511092/",
+      "https://scanx.trade/stock-news/jmdvl-ltd"
+    ],
+    "timestamp": "2026-09-02T20:05:02.205832",
+    "status": "results_found"
+  },
+  {
+    "seller": "JMD Enterprises",
+    "field": "Owner",
+    "query": "JMD Enterprises founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/company/jmd-limited/U68100DL1989PLC038093",
+      "https://www.screener.in/company/511092/",
+      "https://www.dnb.com/business-directory/company-profiles/jmd-enterprises.53eece87dc9dc965c2f38ce11a27d1d6",
+      "https://www.jmdmedal.com/"
+    ],
+    "timestamp": "2026-09-02T20:05:12.950545",
+    "status": "results_found"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "Business Name",
+    "value": "A K HOUSE.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3LQGEYFCKJ2GT&asin=B0G4BVJK6F&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:05:17.088572"
+  },
+  {
+    "seller": "A K HOUSE.",
+    "field": "Website",
+    "query": "A K HOUSE. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ak-services.co.in/",
+      "https://www.ak-services.co.in/key-services/"
+    ],
+    "timestamp": "2026-09-02T20:05:18.745980",
+    "status": "results_found"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "Website URL",
+    "value": "https://www.akhouse.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.akhouse.com/",
+    "timestamp": "2026-09-02T20:05:21.624180"
+  },
+  {
+    "seller": "A K HOUSE.",
+    "field": "Legal Entity Name",
+    "query": "A K HOUSE. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gov.uk/government/organisations/companies-house",
+      "https://www.gov.uk/government/organisations/companies-house#:~:text=Upload a document to",
+      "https://www.gov.uk/government/organisations/companies-house#:~:text=\u2022Companies House: gu",
+      "https://www.gov.uk/government/organisations/companies-house#:~:text=We incorporate and d"
+    ],
+    "timestamp": "2026-09-02T20:05:29.516689",
+    "status": "results_found"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "Email Address",
+    "value": "unedygymraeg@companieshouse.gov.uk",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gov.uk/government/organisations/companies-house",
+    "timestamp": "2026-09-02T20:05:30.016035"
+  },
+  {
+    "seller": "A K HOUSE.",
+    "field": "Legal Entity Name",
+    "query": "A K HOUSE. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.instafinancials.com/company/a-k-house-private-limited-U70109WB1953PTC021083/company-overview",
+      "https://www.inspex.in/",
+      "https://www.filesure.in/company/a-k-house-private-limited/U70109WB1953PTC021083",
+      "https://tracxn.com/d/legal-entities/india/a-k-house-private-limited/__Z-dxwICJIbht523yKG0woyvio3OIVy4x4XYmz19iBeo"
+    ],
+    "timestamp": "2026-09-02T20:05:31.475364",
+    "status": "results_found"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:05:33.492116"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-k-house-private-limited/__Z-dxwICJIbht523yKG0woyvio3OIVy4x4XYmz19iBeo",
+    "timestamp": "2026-09-02T20:05:34.922606"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-k-house-private-limited/__Z-dxwICJIbht523yKG0woyvio3OIVy4x4XYmz19iBeo",
+    "timestamp": "2026-09-02T20:05:34.922617"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-k-house-private-limited/__Z-dxwICJIbht523yKG0woyvio3OIVy4x4XYmz19iBeo",
+    "timestamp": "2026-09-02T20:05:34.922620"
+  },
+  {
+    "business": "A K HOUSE.",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/a-k-house-private-limited/__Z-dxwICJIbht523yKG0woyvio3OIVy4x4XYmz19iBeo",
+    "timestamp": "2026-09-02T20:05:34.922623"
+  },
+  {
+    "seller": "A K HOUSE.",
+    "field": "PAN",
+    "query": "A K HOUSE. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.wishfin.com/pan-card/pan-card-details-4799/",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp"
+    ],
+    "timestamp": "2026-09-02T20:05:37.002159",
+    "status": "results_found"
+  },
+  {
+    "seller": "A K HOUSE.",
+    "field": "PAN",
+    "query": "A K HOUSE. PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:12:39.949024",
+    "status": "no_results"
+  }
+]

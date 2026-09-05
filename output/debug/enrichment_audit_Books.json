@@ -1,0 +1,634 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=9389931843&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:29:45.628193"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-08-21T17:29:48.023767",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T17:29:52.742679"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T17:29:54.799577"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T17:29:54.800949"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U52399DL2021PLC388574%20and%20its%20current%20status%20is%20Active.",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-21T17:30:04.014756",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/",
+      "https://www.cocoblu.in/jobs/vendor-manager/",
+      "https://www.cocoblu.in/jobs/account-manager/",
+      "https://www.cocoblu.in/jobs/instock-manager/"
+    ],
+    "timestamp": "2026-08-21T17:30:14.933100",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U#:~:text=COCOBLU%20RETAIL%20LIMITED%20is%20a%20Public%20Limited%20Company,South%20West%20Delhi%2C%20New%20Delhi%2C%20Delhi%2C%20India%2C%20110016.",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/",
+      "https://www.thecompanycheck.com/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-21T17:30:22.695937",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstserver.com/gst/27AAJCC8517E1ZL/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://gst.unifers.ai/gst/03AAJCC8517E1ZV/cocoblu-retail-limited",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-08-21T17:30:24.564780",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/27AAJCC8517E1ZL/",
+    "timestamp": "2026-08-21T17:30:25.850216"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-21T17:30:27.662076",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+    "timestamp": "2026-08-21T17:30:28.431714"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.affluense.club/company/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-08-21T17:30:30.424930",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-21T17:30:37.591384",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-21T17:30:42.907081",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/contact-us/",
+      "https://contactout.com/company/Cocoblu-Retail-19325",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-21T17:30:49.532592",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:30:50.171294"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:30:50.171321"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:30:50.171326"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T17:30:50.171331"
+  },
+  {
+    "business": "BooksMyLife",
+    "field": "Business Name",
+    "value": "BooksMyLife",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35KE54UYA0NR1&asin=8119660307&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T17:30:51.048507"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Website",
+    "query": "BooksMyLife official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://booklife.com/",
+      "https://booklife.com/reviews"
+    ],
+    "timestamp": "2026-08-21T17:30:52.673844",
+    "status": "results_found"
+  },
+  {
+    "business": "BooksMyLife",
+    "field": "Website URL",
+    "value": "https://booklife.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://booklife.com/",
+    "timestamp": "2026-08-21T17:31:01.432636"
+  },
+  {
+    "business": "BooksMyLife",
+    "field": "Phone Number",
+    "value": "+911196944101",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://booklife.com/",
+    "timestamp": "2026-08-21T17:31:03.534424"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Legal Entity Name",
+    "query": "BooksMyLife company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://infratech.mybooks.ltd/company/register",
+      "https://reg.gst.gov.in/registration/",
+      "https://www.registerkaro.in/company-registration",
+      "https://www.bookmycompany.in/",
+      "https://udyamregistration.gov.in/"
+    ],
+    "timestamp": "2026-08-21T17:31:15.279588",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Legal Entity Name",
+    "query": "BooksMyLife Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.companyseekers.com/",
+      "https://www.wintro.in/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-21T17:31:25.397666",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "PAN",
+    "query": "BooksMyLife PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.utiitsl.com/",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.utiitsl.com/careers",
+      "https://www.utiitsl.com/rti",
+      "https://www.utiitsl.com/csr"
+    ],
+    "timestamp": "2026-08-21T17:31:36.432328",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "PAN",
+    "query": "BooksMyLife PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.pan.utiitsl.com/PAN/newA.html",
+      "https://www.pan.utiitsl.com/PAN/reprint.html",
+      "https://www.trackpan.utiitsl.com/PANONLINE/#forward",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/ePANCardHome"
+    ],
+    "timestamp": "2026-08-21T17:31:43.039559",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "PAN",
+    "query": "BooksMyLife PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://incometaxindia.gov.in/pan",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://www.bankbazaar.com/pan-card/pan-numbers-for-bank.html"
+    ],
+    "timestamp": "2026-08-21T17:31:49.615502",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "GST",
+    "query": "BooksMyLife GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-21T17:31:56.100333",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "GST",
+    "query": "BooksMyLife GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-21T17:32:00.767679",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "GST",
+    "query": "BooksMyLife GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-21T17:32:10.163326",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Owner",
+    "query": "BooksMyLife director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/booksmylife",
+      "https://investors.makemytrip.com/investors/governance/board-of-directors",
+      "https://www.planify.in/investors/ashish-hemrajani/",
+      "https://lk.bookmyshow.com/aboutus",
+      "https://www.crunchbase.com/person/anupam-sinhal"
+    ],
+    "timestamp": "2026-08-21T17:32:16.691136",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Owner",
+    "query": "BooksMyLife managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/MYBOOK-MYLIFE-PUBLICATIONS-PRIVATE-LIMITED-U22219UP2019PTC123048",
+      "https://www.sellerratings.com/amazon/india/booksmylife",
+      "https://www.thecompanycheck.com/company/arihant-publications-india-limited/U22122UP2004PLC028579",
+      "https://www.fpbai.org/association-member?member=B&page=4",
+      "https://bookmysales.com/about"
+    ],
+    "timestamp": "2026-08-21T17:32:29.292965",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Address",
+    "query": "BooksMyLife registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/MYBOOK-MYLIFE-PUBLICATIONS-PRIVATE-LIMITED-U22219UP2019PTC123048",
+      "https://www.inspex.in/",
+      "https://www.falconebiz.com/company/BOOKMYSHOW-LIVE-PRIVATE-LIMITED-U93090MH2018PTC312123",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/roc.html"
+    ],
+    "timestamp": "2026-08-21T17:32:38.105135",
+    "status": "results_found"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Address",
+    "query": "BooksMyLife registered address",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-21T17:32:42.131411",
+    "status": "no_results"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Address",
+    "query": "BooksMyLife head office address",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-21T17:32:43.493113",
+    "status": "no_results"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Email",
+    "query": "BooksMyLife email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-21T17:32:44.660391",
+    "status": "no_results"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Email",
+    "query": "BooksMyLife official email id",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-21T17:32:45.894216",
+    "status": "no_results"
+  },
+  {
+    "seller": "BooksMyLife",
+    "field": "Email",
+    "query": "BooksMyLife contact email",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://booksforlife.in/contact",
+      "https://www.sellerratings.com/amazon/india/booksmylife",
+      "https://mylife.pissedconsumer.com/customer-service.html",
+      "https://bookmyshow.pissedconsumer.com/customer-service.html",
+      "https://in.bookmyshow.com/contactus"
+    ],
+    "timestamp": "2026-08-21T17:32:48.514181",
+    "status": "results_found"
+  },
+  {
+    "business": "BooksMyLife",
+    "field": "Email Address",
+    "value": "info@booksforlife.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://booksforlife.in/contact",
+    "timestamp": "2026-08-21T17:32:51.495384"
+  },
+  {
+    "business": "RAVI_KUMAR",
+    "field": "Business Name",
+    "value": "RAVI_KUMAR",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SHS45BVXKUQB&asin=B0H949T14N&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T17:32:52.031169"
+  },
+  {
+    "seller": "RAVI_KUMAR",
+    "field": "Website",
+    "query": "RAVI_KUMAR official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ravirkumar.com/",
+      "https://www.jnu.ac.in/content/ravikr"
+    ],
+    "timestamp": "2026-08-21T17:32:54.181560",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVI_KUMAR",
+    "field": "Website URL",
+    "value": "https://www.jnu.ac.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.jnu.ac.in/content/ravikr",
+    "timestamp": "2026-08-21T17:34:22.789498"
+  },
+  {
+    "business": "RAVI_KUMAR",
+    "field": "Phone Number",
+    "value": "+912512612517",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.jnu.ac.in/",
+    "timestamp": "2026-08-21T17:34:24.043230"
+  },
+  {
+    "seller": "RAVI_KUMAR",
+    "field": "Legal Entity Name",
+    "query": "RAVI_KUMAR company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.registerkaro.in/company-details",
+      "https://www.falconebiz.com/director/11898111/RAVI-KUMAR",
+      "https://golegally.com/mca-company-search",
+      "https://fnshiftsolutions.com/gstin-search/ravi-kumar-092500005835TMP"
+    ],
+    "timestamp": "2026-08-21T17:34:31.445468",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVI_KUMAR",
+    "field": "Legal Entity Name",
+    "query": "RAVI_KUMAR Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/",
+      "https://www.infyner.com/people-profile/ravi-kumar/06832419",
+      "https://golegally.com/mca-company-search",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-21T17:34:38.712409",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVI_KUMAR",
+    "field": "Legal Entity Name",
+    "query": "RAVI_KUMAR legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.legalentityidentifier.in/leicert/984500B68014A45AC895/",
+      "https://github.com/abdul99929/ravi-kumar/blob/main/LICENSE",
+      "https://www.legalentityidentifier.in/leicert/984500CF78AF38D7A170/",
+      "https://lei.bloomberg.com/leis/view/335800T2Y49OJ1DFG444"
+    ],
+    "timestamp": "2026-08-21T17:34:45.813336",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVI_KUMAR",
+    "field": "PAN",
+    "query": "RAVI_KUMAR PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://my.gstzen.in/m/taxpayers/pan/ravi-kumar/CPVPK5780F/",
+      "https://cleartax.in/s/how-to-know-pan-card-number",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://my.gstzen.in/m/taxpayers/ravi-kumar/20CPVPK5780F1ZM/",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html"
+    ],
+    "timestamp": "2026-08-21T17:34:51.663576",
+    "status": "results_found"
+  }
+]

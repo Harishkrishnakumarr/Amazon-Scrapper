@@ -1,0 +1,87 @@
+{
+  "category": "Baby Girls Shoes",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "THE DDS STORE\u00ae",
+      "database_id": 69,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918003351115",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ZESTY CULTURE",
+      "database_id": 70,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914247242496",
+      "email": "info@zesty.co",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SABHYU IMPEX PRIVATE LIMITED",
+      "database_id": 71,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918606395007",
+      "email": "uimpex@gmail.com",
+      "gst": "24ABTCS3377F1ZX",
+      "pan": "Not Found",
+      "website": "https://www.babyholic.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "CANNYBRAINS TECHNOLOGIES PRIVATE LIMITED",
+      "database_id": 72,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913536032023",
+      "email": "hrd@cannybrains.net",
+      "gst": "24AAJCC6777A1ZP",
+      "pan": "AAJCC6777A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PURESOLE",
+      "database_id": 73,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913895012026",
+      "email": "krishnaketan@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TOPNTOE",
+      "database_id": 74,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913020162026",
+      "email": "Not Found",
+      "gst": "27AAGCT3988F1ZW; 06AAGCT3988F1Z0; 29AAGCT3988F1ZS; 09AAGCT3988F1ZU",
+      "pan": "AAGCT3988F",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

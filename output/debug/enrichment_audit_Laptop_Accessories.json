@@ -1,0 +1,466 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0994GP1CX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:33:20.350718"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T12:33:23.132827",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T12:33:27.337574"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T12:33:29.016022"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:33:38.687012",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T12:33:47.184026"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:33:49.902519",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:33:52.168655",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:33:58.748299",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=7f9e19b738041887ea6d7339b7ed3f60",
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://gst.jamku.app/gstin/33AAJCC9783E1ZE",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/"
+    ],
+    "timestamp": "2026-08-26T12:34:10.126509",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "GST Number",
+    "value": "33AAJCC9783E1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-26T12:34:13.483341"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "PAN Number",
+    "value": "AAJCC9783E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-26T12:34:13.483361"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T12:34:16.719714",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:34:24.776576",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:34:32.768518",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T12:34:43.827967",
+    "status": "results_found"
+  },
+  {
+    "business": "Elem Consumer Tech Pvt Ltd",
+    "field": "Business Name",
+    "value": "Elem Consumer Tech Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3MJ71518TSD34&asin=B0GPHJVL5S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:34:45.617591"
+  },
+  {
+    "seller": "Elem Consumer Tech Pvt Ltd",
+    "field": "Website",
+    "query": "Elem Consumer Tech Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://in.element14.com/",
+      "https://www.merriam-webster.com/dictionary/elem"
+    ],
+    "timestamp": "2026-08-26T12:34:46.991766",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elem Consumer Tech Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "Elem Consumer Tech Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.element14.com/",
+      "https://www.merriam-webster.com/dictionary/elem",
+      "https://elem.in/login",
+      "https://www.go4as400.com/Built-In-function-in-rpgle/functions.aspx?cid=311"
+    ],
+    "timestamp": "2026-08-26T12:34:58.616911",
+    "status": "results_found"
+  },
+  {
+    "business": "Elem Consumer Tech Pvt Ltd",
+    "field": "Billing Address",
+    "value": "d block, 11th floor, ibc knowledge park, 4/1, bannerghatta main rd, bhavani nagar, suddagunte palya, bangalore, karnataka 560029",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.element14.com/",
+    "timestamp": "2026-08-26T12:35:04.779029"
+  },
+  {
+    "business": "Elem Consumer Tech Pvt Ltd",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.element14.com/",
+    "timestamp": "2026-08-26T12:35:04.779077"
+  },
+  {
+    "business": "Elem Consumer Tech Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.element14.com/",
+    "timestamp": "2026-08-26T12:35:04.779084"
+  },
+  {
+    "business": "Elem Consumer Tech Pvt Ltd",
+    "field": "Pincode",
+    "value": "560029",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.element14.com/",
+    "timestamp": "2026-08-26T12:35:04.779088"
+  },
+  {
+    "seller": "Elem Consumer Tech Pvt Ltd",
+    "field": "PAN",
+    "query": "Elem Consumer Tech Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.element14.com/",
+      "https://www.merriam-webster.com/dictionary/elem",
+      "https://elem.in/login",
+      "https://www.go4as400.com/Built-In-function-in-rpgle/functions.aspx?cid=311"
+    ],
+    "timestamp": "2026-08-26T12:35:18.665202",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elem Consumer Tech Pvt Ltd",
+    "field": "GST",
+    "query": "Elem Consumer Tech Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.element14.com/",
+      "https://www.merriam-webster.com/dictionary/elem",
+      "https://elem.in/login",
+      "https://www.go4as400.com/Built-In-function-in-rpgle/functions.aspx?cid=311"
+    ],
+    "timestamp": "2026-08-26T12:35:36.212654",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elem Consumer Tech Pvt Ltd",
+    "field": "Owner",
+    "query": "Elem Consumer Tech Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.element14.com/",
+      "https://www.merriam-webster.com/dictionary/elem",
+      "https://elem.in/login",
+      "https://www.go4as400.com/Built-In-function-in-rpgle/functions.aspx?cid=311"
+    ],
+    "timestamp": "2026-08-26T12:35:56.050540",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elem Consumer Tech Pvt Ltd",
+    "field": "Phone",
+    "query": "Elem Consumer Tech Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.element14.com/",
+      "https://www.merriam-webster.com/dictionary/elem",
+      "https://elem.in/login",
+      "https://www.go4as400.com/Built-In-function-in-rpgle/functions.aspx?cid=311"
+    ],
+    "timestamp": "2026-08-26T12:36:13.575787",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elem Consumer Tech Pvt Ltd",
+    "field": "Email",
+    "query": "Elem Consumer Tech Pvt Ltd email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://contactout.com/company/Elem-Consumer-Tech-Pvt-Ltd-67777",
+      "https://contactout.com/company/Elem-Consumer-Tech-Pvt-Ltd-67777/headquarters",
+      "https://www.companydetails.in/company/elem-consumer-tech-private-limited",
+      "https://www.companydetails.in/company/elem-consumer-tech-private-limited/contact"
+    ],
+    "timestamp": "2026-08-26T12:36:42.865838",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0D7Z944C7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:36:50.003598"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T12:36:53.030938",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/about-us/",
+    "timestamp": "2026-08-26T12:37:00.132334"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T12:37:01.344784"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T12:37:01.345329"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:37:09.167753",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:37:29.646815",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+918338866678",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+    "timestamp": "2026-08-26T12:37:39.718690"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:37:50.083055",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:38:06.174024",
+    "status": "results_found"
+  }
+]

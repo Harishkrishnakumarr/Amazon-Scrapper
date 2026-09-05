@@ -1,0 +1,1477 @@
+[
+  {
+    "business": "serveuttam india",
+    "field": "Business Name",
+    "value": "serveuttam india",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SZBDZ05A1P39&asin=B0FG82VQTS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T23:01:28.739262"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Website",
+    "query": "serveuttam india official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://serveuttam.com/collection/all-products",
+      "https://serveuttam.com/featured/best-sellers"
+    ],
+    "timestamp": "2026-09-02T23:01:30.156803",
+    "status": "results_found"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Website URL",
+    "value": "https://serveuttam.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://serveuttam.com/featured/best-sellers",
+    "timestamp": "2026-09-02T23:01:32.376262"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Phone Number",
+    "value": "+918595270728",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-09-02T23:01:32.941814"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Email Address",
+    "value": "suppor@serveuttam.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-09-02T23:01:32.941897"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Billing Address",
+    "value": "O-43, Vani Vihar, Uttam Nagar, New Delhi 110059, Delhi, West Delhi, 110059",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-09-02T23:01:32.944207"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "City",
+    "value": "West Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-09-02T23:01:32.944219"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-09-02T23:01:32.944223"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Pincode",
+    "value": "110059",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-09-02T23:01:32.944225"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Legal Entity Name",
+    "query": "serveuttam india company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://taxslabs.com/udyam-registration/"
+    ],
+    "timestamp": "2026-09-02T23:01:35.698562",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Legal Entity Name",
+    "query": "serveuttam india Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregistration.org.in/blog/what-is-udyam-registration/",
+      "https://udyamregistrationform.com/nic-code-list-for-services/",
+      "https://udyamregistrationform.com/date-of-incorporation-in-udyam-registration/",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T23:01:38.606800",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "PAN",
+    "query": "serveuttam india PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T23:01:45.324405",
+    "status": "no_results"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "PAN",
+    "query": "serveuttam india PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tinpan.proteantech.in/",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan",
+      "https://gstpan.com/",
+      "https://www.taxaj.com/learn/pan-card-status-check-by-name-india/"
+    ],
+    "timestamp": "2026-09-02T23:01:46.972897",
+    "status": "results_found"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T23:01:52.017867"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T23:01:52.017877"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Owner",
+    "query": "serveuttam india director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trademarkia.in/serveuttam-quality-products-3816414",
+      "https://lextechsuite.com/TM--SERVEUTTAM--class-10--5023576",
+      "https://tracxn.com/d/legal-entities/india/serve-uttam-ventures-private-limited/__DXKkuf_77T3IEVje7HxQWQxHbLuHR2oQdScssB8WS1w",
+      "https://serveuttam.com/about-us"
+    ],
+    "timestamp": "2026-09-02T23:01:53.500242",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Owner",
+    "query": "serveuttam india founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/news/business/markets/biba-meena-bindra-story-from-rs-8000-loan-to-rs-800-crore-brand-pocket-money-idea-turned-into-business-14005414.html",
+      "https://www.thecompanycheck.com/company/astemo-india-private-limited/U34300HR1997PTC051757",
+      "https://in.marketscreener.com/insider/SANJEEV-BIKHCHANDANI-A080IG/",
+      "https://www.thecompanycheck.com/company/sarvottam-edtech-private-limited/U62091DL2023PTC421388"
+    ],
+    "timestamp": "2026-09-02T23:01:58.435342",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B08D8J88X3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T23:02:07.135125"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.justdial.com/Mumbai/Kay-Kay-Overseas-Corporation-Grant-Road/022P8804885_BZDET",
+      "https://www.volza.com/company-profile/kay-kay-overseas-corporation-17434838/contacts/"
+    ],
+    "timestamp": "2026-09-02T23:02:08.568132",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Website URL",
+    "value": "https://www.justdial.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.justdial.com/Mumbai/Kay-Kay-Overseas-Corporation-Grant-Road/022P8804885_BZDET",
+    "timestamp": "2026-09-02T23:02:11.433666"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Phone Number",
+    "value": "+918888888888",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.justdial.com/",
+    "timestamp": "2026-09-02T23:02:12.599174"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/kay-kay-overseas-corporation-gstin-33AACFK0693D1ZQ",
+      "https://gst.unifers.ai/gst/36AACFK0693D2ZJ/kay-kay-overseas-corporation",
+      "https://fnshiftsolutions.com/gstin-search/kay-kay-overseas-corporation-29AACFK0693D1ZF",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-27aacfk0693d1zj/"
+    ],
+    "timestamp": "2026-09-02T23:02:22.694557",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "GST Number",
+    "value": "33AACFK0693D1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/kay-kay-overseas-corporation-gstin-33AACFK0693D1ZQ",
+    "timestamp": "2026-09-02T23:02:23.967374"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "PAN Number",
+    "value": "AACFK0693D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/kay-kay-overseas-corporation-gstin-33AACFK0693D1ZQ",
+    "timestamp": "2026-09-02T23:02:23.967389"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T23:02:44.843709",
+    "status": "no_results"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+      "https://www.tatanexarc.com/company/kay-kay-overseas-utn1676kay00pvd/",
+      "https://www.thecompanycheck.com/company/b/kay-kay-overseas-corporation/760f84ca00c446e78",
+      "https://www.datanyze.com/companies/kay-kay-overseas/447782697"
+    ],
+    "timestamp": "2026-09-02T23:02:46.254952",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-09-02T23:02:46.644477"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-09-02T23:02:46.644493"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-09-02T23:02:46.644496"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-09-02T23:02:46.644499"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Email Address",
+    "value": "support@tatanexarc.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tatanexarc.com/company/kay-kay-overseas-utn1676kay00pvd/",
+    "timestamp": "2026-09-02T23:02:47.271012"
+  },
+  {
+    "business": "Coracy",
+    "field": "Business Name",
+    "value": "Coracy",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YA6FV2L425WD&asin=B0FKSBYJYZ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T23:02:49.548419"
+  },
+  {
+    "seller": "Coracy",
+    "field": "Website",
+    "query": "Coracy official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://coach.in/",
+      "https://www.coach.com/?msockid=1ac5f32af88368d818cbe4e2f92f698c"
+    ],
+    "timestamp": "2026-09-02T23:02:51.113977",
+    "status": "results_found"
+  },
+  {
+    "business": "Coracy",
+    "field": "Website URL",
+    "value": "https://www.coracy.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.coracy.com/",
+    "timestamp": "2026-09-02T23:02:54.725966"
+  },
+  {
+    "seller": "Coracy",
+    "field": "Legal Entity Name",
+    "query": "Coracy company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://corpedia.in/register-indian-company/",
+      "https://www.registerkaro.in/company-registration",
+      "https://razorpay.com/rize/company-registration/",
+      "https://corpedia.in/kickstart-your-business/private-limited-company/"
+    ],
+    "timestamp": "2026-09-02T23:03:03.956709",
+    "status": "results_found"
+  },
+  {
+    "business": "Coracy",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T23:03:10.926891"
+  },
+  {
+    "business": "Coracy",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T23:03:10.935673"
+  },
+  {
+    "business": "Coracy",
+    "field": "Email Address",
+    "value": "rize-registrations@razorpay.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://razorpay.com/rize/company-registration/",
+    "timestamp": "2026-09-02T23:03:11.989893"
+  },
+  {
+    "seller": "Coracy",
+    "field": "Legal Entity Name",
+    "query": "Coracy Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.corpe.io/private-limited-company-registration",
+      "https://corpedia.in/kickstart-your-business/private-limited-company/",
+      "https://www.meralegal.com/pvt-ltd-registration.php",
+      "https://corpmate.in/private-limited-company-registration/"
+    ],
+    "timestamp": "2026-09-02T23:03:15.322653",
+    "status": "results_found"
+  },
+  {
+    "business": "Coracy",
+    "field": "GST Number",
+    "value": "24AALCC6784H1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.corpe.io/private-limited-company-registration",
+    "timestamp": "2026-09-02T23:03:17.819033"
+  },
+  {
+    "business": "Coracy",
+    "field": "PAN Number",
+    "value": "AALCC6784H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.corpe.io/private-limited-company-registration",
+    "timestamp": "2026-09-02T23:03:17.819047"
+  },
+  {
+    "seller": "Coracy",
+    "field": "Owner",
+    "query": "Coracy director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/d-r-reddy",
+      "https://tracxn.com/d/companies/corey-organics/__gj3JSpM680xpGd6a0SZ41m6MvHMLJLstIpFcXEbEG6E",
+      "https://www.thebusinessscroll.com/swiggy-origin-country-ceo-founder-owner/",
+      "https://inc42.com/company/corpository/people/"
+    ],
+    "timestamp": "2026-09-02T23:03:19.295406",
+    "status": "results_found"
+  },
+  {
+    "seller": "Coracy",
+    "field": "Owner",
+    "query": "Coracy founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://genzstars.com/coracy-arantes/#:~:text=Cora%20Arantes%20aka%20Glam%20gran%2C%20whose%20real%20name,a%20week%20in%20Intensive%20Care%20at%20the%20Hospital.",
+      "https://www.famousbirthdays.com/people/coracy-arantes.html",
+      "https://genzstars.com/coracy-arantes/",
+      "https://www.networthlist.org/coracy-arantes-net-worth-304340"
+    ],
+    "timestamp": "2026-09-02T23:03:31.385004",
+    "status": "results_found"
+  },
+  {
+    "business": "ekrishna2911",
+    "field": "Business Name",
+    "value": "ekrishna2911",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AZ9HJ4SUBTEH&asin=B0H12KT8QH&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T23:03:33.847986"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "Website",
+    "query": "ekrishna2911 official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T23:03:37.894389",
+    "status": "no_results"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "Legal Entity Name",
+    "query": "ekrishna2911 company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686895x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686895&hsa_kw=how%20to%20register%20a%20company%20in%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=1d9e2ea429371ddfb173443c77354cea&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=how%20to%20register%20a%20company%20in%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://www.inspex.in/",
+      "https://www.quickcompany.in/company",
+      "https://companydata.com/company-registration-lookup/"
+    ],
+    "timestamp": "2026-09-02T23:03:41.238872",
+    "status": "results_found"
+  },
+  {
+    "business": "ekrishna2911",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T23:03:46.082037"
+  },
+  {
+    "business": "ekrishna2911",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T23:03:46.082177"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "Legal Entity Name",
+    "query": "ekrishna2911 Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-02T23:03:49.855814",
+    "status": "results_found"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "PAN",
+    "query": "ekrishna2911 PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T23:03:57.317457",
+    "status": "results_found"
+  },
+  {
+    "business": "ekrishna2911",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T23:03:58.833975"
+  },
+  {
+    "business": "ekrishna2911",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T23:03:58.833986"
+  },
+  {
+    "business": "ekrishna2911",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T23:03:58.833989"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "PAN",
+    "query": "ekrishna2911 PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.godigit.com/pan-card/check-pan-card-details-online"
+    ],
+    "timestamp": "2026-09-02T23:04:00.314284",
+    "status": "results_found"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "GST",
+    "query": "ekrishna2911 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T23:04:04.935369",
+    "status": "results_found"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "GST",
+    "query": "ekrishna2911 GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T23:04:09.098376",
+    "status": "no_results"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "Owner",
+    "query": "ekrishna2911 director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T23:04:09.932588",
+    "status": "no_results"
+  },
+  {
+    "seller": "ekrishna2911",
+    "field": "Owner",
+    "query": "ekrishna2911 founder",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.crunchbase.com/person/e-krishna-reddy"
+    ],
+    "timestamp": "2026-09-02T23:04:12.179101",
+    "status": "results_found"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "Business Name",
+    "value": "RKG Traders",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AW5VV5VGN6QSX&isAmazonFulfilled=0&asin=B0DDY4VPQL&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T23:04:12.601830"
+  },
+  {
+    "seller": "RKG Traders",
+    "field": "Website",
+    "query": "RKG Traders official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://zerodha.com/",
+      "https://www.rcgmarkets.com/trading/platforms"
+    ],
+    "timestamp": "2026-09-02T23:04:14.016125",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKG Traders",
+    "field": "Legal Entity Name",
+    "query": "RKG Traders company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rkg-trading-company-pvt-ltd/__wjhfrWh-vFLzOi9ecaRJ8GiZzHg3r79uEEVpRlmbN0I#:~:text=RKG%20TRADING%20COMPANY%20PVT%20LTD%20is%20a%20Private,%28CIN%29%20U51432WB1995PTC072280%20and%20its%20current%20status%20is%20Active.",
+      "https://www.falconebiz.com/company/RKG-TRADING-COMPANY-PRIVATE-LIMITED-U51432WB1995PTC072280",
+      "https://www.companydetails.in/company/rkg-trading-company-private-limited",
+      "https://www.quickcompany.in/company/rkg-trading-company-pvt-ltd"
+    ],
+    "timestamp": "2026-09-02T23:04:19.441628",
+    "status": "results_found"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rkg-trading-company-pvt-ltd/__wjhfrWh-vFLzOi9ecaRJ8GiZzHg3r79uEEVpRlmbN0I#:~:text=RKG%20TRADING%20COMPANY%20PVT%20LTD%20is%20a%20Private,%28CIN%29%20U51432WB1995PTC072280%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T23:04:20.502011"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rkg-trading-company-pvt-ltd/__wjhfrWh-vFLzOi9ecaRJ8GiZzHg3r79uEEVpRlmbN0I#:~:text=RKG%20TRADING%20COMPANY%20PVT%20LTD%20is%20a%20Private,%28CIN%29%20U51432WB1995PTC072280%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T23:04:20.502021"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rkg-trading-company-pvt-ltd/__wjhfrWh-vFLzOi9ecaRJ8GiZzHg3r79uEEVpRlmbN0I#:~:text=RKG%20TRADING%20COMPANY%20PVT%20LTD%20is%20a%20Private,%28CIN%29%20U51432WB1995PTC072280%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T23:04:20.502024"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rkg-trading-company-pvt-ltd/__wjhfrWh-vFLzOi9ecaRJ8GiZzHg3r79uEEVpRlmbN0I#:~:text=RKG%20TRADING%20COMPANY%20PVT%20LTD%20is%20a%20Private,%28CIN%29%20U51432WB1995PTC072280%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T23:04:20.502027"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "Email Address",
+    "value": "oplywood@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/RKG-TRADING-COMPANY-PRIVATE-LIMITED-U51432WB1995PTC072280",
+    "timestamp": "2026-09-02T23:04:22.100506"
+  },
+  {
+    "seller": "RKG Traders",
+    "field": "Legal Entity Name",
+    "query": "RKG Traders Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.easytax.live/s/gst-number-search",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2",
+      "https://udyamsearch.com/",
+      "https://www.indiafilings.com/check-company-name-availability"
+    ],
+    "timestamp": "2026-09-02T23:04:24.918694",
+    "status": "results_found"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "Phone Number",
+    "value": "+918130645164",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2",
+    "timestamp": "2026-09-02T23:04:26.879855"
+  },
+  {
+    "seller": "RKG Traders",
+    "field": "PAN",
+    "query": "RKG Traders PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstpan.com/",
+      "https://www.exportersindia.com/rk-traders-14574155/",
+      "https://www.inspex.in/",
+      "https://tincheck.io/india/"
+    ],
+    "timestamp": "2026-09-02T23:04:28.925055",
+    "status": "results_found"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T23:04:29.967540"
+  },
+  {
+    "business": "RKG Traders",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T23:04:29.967549"
+  },
+  {
+    "seller": "RKG Traders",
+    "field": "Owner",
+    "query": "RKG Traders director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.rkg_traders.dbd20050970113d6dae6decad321138c.html",
+      "https://www.dnb.com/business-directory/company-profiles.rkg_traders.5278992a4105e992bb1da5892986e483.html",
+      "http://rkggroups.com/main/",
+      "https://piceapp.com/gst-number-search/rkg-traders-33awqpg8845d1zc/"
+    ],
+    "timestamp": "2026-09-02T23:04:31.550491",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKG Traders",
+    "field": "Owner",
+    "query": "RKG Traders founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.rkg_traders.dbd20050970113d6dae6decad321138c.html",
+      "https://www.dnb.com/business-directory/company-profiles.rkg_traders.37c1f7846082ff5e56eea7a397432c02.html",
+      "https://www.vikatan.com/business/rkg-ghee-success-story",
+      "https://piceapp.com/gst-number-search/rkg-traders-33awqpg8845d1zc/"
+    ],
+    "timestamp": "2026-09-02T23:04:38.197968",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B07HL5RYG4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T23:04:42.333405"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T23:04:43.794772",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/work-with-us/",
+    "timestamp": "2026-09-02T23:04:46.878130"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T23:04:47.477038"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T23:04:47.477377"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-32AAJCC8517E1ZU/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T23:04:51.802323",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T23:04:52.324895"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T23:04:52.324912"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T23:04:53.762172",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T23:04:54.472202"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T23:04:54.472217"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T23:04:54.472220"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T23:04:54.472223"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T23:05:00.482802"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T23:05:03.409223",
+    "status": "results_found"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "Business Name",
+    "value": "UAPAN\u00ae Mart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2D73U8L0LJ4L3&isAmazonFulfilled=1&asin=B07HL5RYG4&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T23:05:06.135013"
+  },
+  {
+    "seller": "UAPAN\u00ae Mart",
+    "field": "Website",
+    "query": "UAPAN\u00ae Mart official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.uapanmart.com/",
+      "https://www.uapanmart.com/public/products"
+    ],
+    "timestamp": "2026-09-02T23:05:07.506665",
+    "status": "results_found"
+  },
+  {
+    "seller": "UAPAN\u00ae Mart",
+    "field": "Legal Entity Name",
+    "query": "UAPAN\u00ae Mart company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.uapanmart.com/public/signup",
+      "https://www.uapanmart.com/public/login",
+      "https://udyamsearch.com/",
+      "https://www.falconebiz.com/company/UAPAN-PRIVATE-LIMITED-U52100UP2022PTC166344"
+    ],
+    "timestamp": "2026-09-02T23:05:24.411931",
+    "status": "results_found"
+  },
+  {
+    "seller": "UAPAN\u00ae Mart",
+    "field": "PAN",
+    "query": "UAPAN\u00ae Mart PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.uapanmart.com/public/login",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://tinpan.proteantech.in/services/pan/pan-index.html"
+    ],
+    "timestamp": "2026-09-02T23:05:38.273696",
+    "status": "results_found"
+  },
+  {
+    "seller": "UAPAN\u00ae Mart",
+    "field": "PAN",
+    "query": "UAPAN\u00ae Mart PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.uapanmart.com/public/contact-us",
+      "https://www.uapanmart.com/",
+      "https://www.sellerratings.com/amazon/india/uapan-mart",
+      "https://review.uapanmart.com/"
+    ],
+    "timestamp": "2026-09-02T23:05:47.196729",
+    "status": "results_found"
+  },
+  {
+    "seller": "UAPAN\u00ae Mart",
+    "field": "GST",
+    "query": "UAPAN\u00ae Mart GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://gstverify.co.in/search/",
+      "https://www.uapanmart.com/signup",
+      "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/"
+    ],
+    "timestamp": "2026-09-02T23:05:54.754954",
+    "status": "results_found"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "Phone Number",
+    "value": "+918333024179",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+    "timestamp": "2026-09-02T23:05:56.970646"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/",
+    "timestamp": "2026-09-02T23:06:04.506135"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "GST Number",
+    "value": "09NYAPS6601C1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/",
+    "timestamp": "2026-09-02T23:06:04.506841"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "PAN Number",
+    "value": "NYAPS6601C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/",
+    "timestamp": "2026-09-02T23:06:04.506852"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/",
+    "timestamp": "2026-09-02T23:06:04.509662"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/",
+    "timestamp": "2026-09-02T23:06:04.509679"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/",
+    "timestamp": "2026-09-02T23:06:04.509683"
+  },
+  {
+    "business": "UAPAN\u00ae Mart",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/as-mart-09nyaps6601c1za/",
+    "timestamp": "2026-09-02T23:06:04.509686"
+  },
+  {
+    "seller": "UAPAN\u00ae Mart",
+    "field": "Owner",
+    "query": "UAPAN\u00ae Mart director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.uapanmart.com/",
+      "https://www.uapanmart.com/public/about-us",
+      "https://zauba.company/",
+      "https://v2retail.com/board-of-directors/"
+    ],
+    "timestamp": "2026-09-02T23:06:05.871822",
+    "status": "results_found"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "Business Name",
+    "value": "Chhabra Kreations",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2C7H0PCV2SDAE&asin=B0GBWD94DK&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T23:06:23.119139"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "Website",
+    "query": "Chhabra Kreations official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.wearechhabra.com/",
+      "https://www.ablbl.in/"
+    ],
+    "timestamp": "2026-09-02T23:06:24.759341",
+    "status": "results_found"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "Website URL",
+    "value": "https://www.wearechhabra.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.wearechhabra.com/",
+    "timestamp": "2026-09-02T23:06:28.395590"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "Legal Entity Name",
+    "query": "Chhabra Kreations company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/company/chhabra-silk-industries-private-limited/U17110GJ1985PTC008090",
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-name-check",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T23:06:36.090123",
+    "status": "results_found"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "Email Address",
+    "value": "team@qorpiq.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/chhabra-silk-industries-private-limited/U17110GJ1985PTC008090",
+    "timestamp": "2026-09-02T23:06:37.762475"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T23:06:38.201994"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "Legal Entity Name",
+    "query": "Chhabra Kreations Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://qorpiq.com/company/chhabra-silk-industries-private-limited/U17110GJ1985PTC008090"
+    ],
+    "timestamp": "2026-09-02T23:06:46.035604",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "PAN",
+    "query": "Chhabra Kreations PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://indiapost.org/pan-card-correction",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://namechange.in/advice/name-change-in-pan-card-in-india/"
+    ],
+    "timestamp": "2026-09-02T23:06:47.963312",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "GST",
+    "query": "Chhabra Kreations GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/chhabra-enterprises-27aazpc5826d1zi/",
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-02T23:07:03.115994",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "GST",
+    "query": "Chhabra Kreations GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.expressgst.com/gst-number-search/",
+      "https://gstverify.co.in/gst/chhabra-enterprises-27aazpc5826d1zi/",
+      "https://www.knowyourgst.com/gst-number-search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-02T23:07:07.508184",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "Owner",
+    "query": "Chhabra Kreations director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indianretailer.com/news/retail-india-news-agilitas-sports-appoints-rohan-chhabra-lead-apparel-design-and-creative",
+      "https://www.jayrcm.com/rcm-business-owner-and-founder",
+      "https://www.indiaindustry.biz/company-chhabra-creations-in-new-delhi-15906",
+      "https://www.griinstitute.org/realestate/member-profile/taran-chhabra_47037"
+    ],
+    "timestamp": "2026-09-02T23:07:12.878324",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chhabra Kreations",
+    "field": "Owner",
+    "query": "Chhabra Kreations founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/company/tafa-creations-llp/ACP-4436",
+      "https://www.wearechhabra.com/",
+      "https://wikibio.in/dilip-chhabria/",
+      "https://m.dailyhunt.in/news/india/english/the+tribune-epaper-thetribt/from+fashion+to+fermentation+the+story+behind+indias+new+sachetformat+kombucha+brand-newsid-n724775335"
+    ],
+    "timestamp": "2026-09-02T23:07:25.398586",
+    "status": "results_found"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "Billing Address",
+    "value": "c-1903, trivedi vue point, s k bole road, agar bazar, shivaji park (mumbai), mumbai, mumbai, maharashtra, 400028",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/tafa-creations-llp/ACP-4436",
+    "timestamp": "2026-09-02T23:07:26.568051"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/tafa-creations-llp/ACP-4436",
+    "timestamp": "2026-09-02T23:07:26.568060"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/tafa-creations-llp/ACP-4436",
+    "timestamp": "2026-09-02T23:07:26.568062"
+  },
+  {
+    "business": "Chhabra Kreations",
+    "field": "Pincode",
+    "value": "400028",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/tafa-creations-llp/ACP-4436",
+    "timestamp": "2026-09-02T23:07:26.568064"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "Business Name",
+    "value": "M/S SHOPPING MART",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJPR3N30C4PQ7&asin=B0FGY27WQW&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T23:07:27.022198"
+  },
+  {
+    "seller": "M/S SHOPPING MART",
+    "field": "Website",
+    "query": "M/S SHOPPING MART official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.marksandspencer.in/",
+      "https://www.marksandspencer.in/l/men/"
+    ],
+    "timestamp": "2026-09-02T23:07:28.429776",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/S SHOPPING MART",
+    "field": "Legal Entity Name",
+    "query": "M/S SHOPPING MART company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dmartindia.com/",
+      "https://www.dmartindia.com/feedback",
+      "https://www.dmartindia.com/investor-relationship",
+      "https://www.dmartindia.com/categories"
+    ],
+    "timestamp": "2026-09-02T23:07:32.357590",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/S SHOPPING MART",
+    "field": "Legal Entity Name",
+    "query": "M/S SHOPPING MART Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vishalmegamart.com/",
+      "https://company.vakilsearch.com/",
+      "https://www.invoizzy.in/gst-number-search",
+      "https://citymall.live/"
+    ],
+    "timestamp": "2026-09-02T23:07:34.733512",
+    "status": "results_found"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "Email Address",
+    "value": "customercare@vishalmegamart.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.vishalmegamart.com/",
+    "timestamp": "2026-09-02T23:07:35.798060"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "GST Number",
+    "value": "33AABCU7650C1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://company.vakilsearch.com/",
+    "timestamp": "2026-09-02T23:07:37.029549"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "PAN Number",
+    "value": "AABCU7650C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://company.vakilsearch.com/",
+    "timestamp": "2026-09-02T23:07:37.029573"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "Billing Address",
+    "value": "unit no. 1103 plus office, 1st floor, landmark cyber park, sector 67, badshahpur, gurgaon, haryana, 122101",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://citymall.live/",
+    "timestamp": "2026-09-02T23:07:39.192468"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "City",
+    "value": "gurgaon",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://citymall.live/",
+    "timestamp": "2026-09-02T23:07:39.192483"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://citymall.live/",
+    "timestamp": "2026-09-02T23:07:39.192486"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "Pincode",
+    "value": "122101",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://citymall.live/",
+    "timestamp": "2026-09-02T23:07:39.192492"
+  },
+  {
+    "seller": "M/S SHOPPING MART",
+    "field": "Owner",
+    "query": "M/S SHOPPING MART director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dmartindia.com/about-us",
+      "https://www.dmartindia.com/investor-relationship",
+      "https://www.dmartindia.com/categories",
+      "https://www.dmartindia.com/careers"
+    ],
+    "timestamp": "2026-09-02T23:07:40.747440",
+    "status": "results_found"
+  },
+  {
+    "seller": "M/S SHOPPING MART",
+    "field": "Owner",
+    "query": "M/S SHOPPING MART founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indianretailer.com/retailers/dmart",
+      "https://corporate.marksandspencer.com/about-us/our-history",
+      "https://www.vmart.co.in/about-us/",
+      "http://creativecommons.org/licenses/by-sa/3.0/"
+    ],
+    "timestamp": "2026-09-02T23:07:43.602517",
+    "status": "results_found"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "Phone Number",
+    "value": "+919481110869",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indianretailer.com/retailers/dmart",
+    "timestamp": "2026-09-02T23:07:45.091695"
+  },
+  {
+    "business": "M/S SHOPPING MART",
+    "field": "Owner Name",
+    "value": "radhakishan damani",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indianretailer.com/retailers/dmart",
+    "timestamp": "2026-09-02T23:07:45.093560"
+  }
+]

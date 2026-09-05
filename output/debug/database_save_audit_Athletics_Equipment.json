@@ -1,0 +1,61 @@
+{
+  "category": "Athletics Equipment",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 493,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913295122026",
+      "email": "Not Found",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DS Stores LTD",
+      "database_id": 494,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "serveuttam india",
+      "database_id": 495,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910059110059",
+      "email": "suppor@serveuttam.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://serveuttam.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "HARPAL INDUSTRIES",
+      "database_id": 496,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

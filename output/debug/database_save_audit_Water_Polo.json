@@ -1,0 +1,61 @@
+{
+  "category": "Water Polo",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 618,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912202200334",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kinder Tales",
+      "database_id": 619,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911232502026",
+      "email": "support@kindertales.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.kindertales.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "AMBIKA SPORTS WORLDWIDE",
+      "database_id": 620,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Nirmala trading",
+      "database_id": 621,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

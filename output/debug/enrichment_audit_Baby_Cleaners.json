@@ -1,0 +1,449 @@
+[
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B078FH7DVD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:13:43.083470"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-08-29T12:13:45.092305",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:13:53.564189",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "support@rkgaming.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkgamingstore.com/",
+    "timestamp": "2026-08-29T12:13:59.778341"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:14:51.541310",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:15:09.895389",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:15:37.133083",
+    "status": "results_found"
+  },
+  {
+    "business": "Windmills Naturelab Pvt Ltd",
+    "field": "Business Name",
+    "value": "Windmills Naturelab Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20J9ZBE52JBGL&asin=B08BNR8QMW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:15:44.410830"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "Website",
+    "query": "Windmills Naturelab Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill"
+    ],
+    "timestamp": "2026-08-29T12:15:47.524015",
+    "status": "results_found"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "Windmills Naturelab Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:15:57.006019",
+    "status": "results_found"
+  },
+  {
+    "business": "Windmills Naturelab Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+918712494507",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+    "timestamp": "2026-08-29T12:16:00.779644"
+  },
+  {
+    "business": "Windmills Naturelab Pvt Ltd",
+    "field": "Email Address",
+    "value": "guestrelations.hyd@total-environment.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://windmills-india.com/hyderabad-concerts/",
+    "timestamp": "2026-08-29T12:16:08.894729"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "PAN",
+    "query": "Windmills Naturelab Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:16:10.300635",
+    "status": "results_found"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "PAN",
+    "query": "Windmills Naturelab Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:16:20.691638",
+    "status": "results_found"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "GST",
+    "query": "Windmills Naturelab Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:16:27.910695",
+    "status": "results_found"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "Owner",
+    "query": "Windmills Naturelab Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:16:45.992132",
+    "status": "results_found"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "Owner",
+    "query": "Windmills Naturelab Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:16:56.094550",
+    "status": "results_found"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "Address",
+    "query": "Windmills Naturelab Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:17:00.212708",
+    "status": "results_found"
+  },
+  {
+    "seller": "Windmills Naturelab Pvt Ltd",
+    "field": "Address",
+    "query": "Windmills Naturelab Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zomato.com/hyderabad/windmills-craftworks-hitech-city",
+      "https://www.britannica.com/technology/windmill",
+      "https://windmills-india.com/hyderabad-concerts/",
+      "https://windmills-india.com/"
+    ],
+    "timestamp": "2026-08-29T12:17:07.607803",
+    "status": "results_found"
+  },
+  {
+    "business": "Tekme Consumer Private Limited",
+    "field": "Business Name",
+    "value": "Tekme Consumer Private Limited",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ZQNV78SZ7N0J&asin=B0DL39DLY9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:17:19.116313"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Website",
+    "query": "Tekme Consumer Private Limited official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thecalculatorsite.com/conversions/common/cm-to-feet-inches.php",
+      "https://www.rapidtables.com/convert//length/cm-to-feet.html"
+    ],
+    "timestamp": "2026-08-29T12:17:21.882248",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Legal Entity Name",
+    "query": "Tekme Consumer Private Limited company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/TEKME-CONSUMER-PRIVATE-LIMITED-U47912MH2025PTC452941",
+      "https://tracxn.com/d/legal-entities/india/tekme-consumer-private-limited/__S74MQIdh4XUE3pMVGHF_kT2VbfsVJ4OIMPlI87oHaFA",
+      "https://www.filesure.in/company/tekme-consumer-private-limited/U47912MH2025PTC452941?tab=about",
+      "https://www.planetexim.net/indian-company/tekme-consumer-private-limited/cin/U47912MH2025PTC452941.html"
+    ],
+    "timestamp": "2026-08-29T12:17:48.810824",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Legal Entity Name",
+    "query": "Tekme Consumer Private Limited Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.flightradar24.com/",
+      "https://forum.flightradar24.com/forum/radar-forums/flightradar24-aircraft-database",
+      "https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps",
+      "https://forum.flightradar24.com/forum/radar-forums/flightradar24-feeding-data-to-flightradar24"
+    ],
+    "timestamp": "2026-08-29T12:17:59.429621",
+    "status": "results_found"
+  },
+  {
+    "business": "Tekme Consumer Private Limited",
+    "field": "Email Address",
+    "value": "edvards@fr24.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forum.flightradar24.com/",
+    "timestamp": "2026-08-29T12:18:02.831832"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "PAN",
+    "query": "Tekme Consumer Private Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://127.gigafile.nu/privacy.php"
+    ],
+    "timestamp": "2026-08-29T12:18:04.844619",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "PAN",
+    "query": "Tekme Consumer Private Limited PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.biblegateway.com/passage/?search=1%20Corinthians%2013:4-7&version=NIV",
+      "https://www.biblegateway.com/passage/?search=1%20corinthians%2013:4-7&version=NLT",
+      "https://www.biblegateway.com/passage/?search=1%20Corinthians%2013%3A4-8&version=NIV",
+      "https://www.biblegateway.com/passage/?search=1%20corinthians%2014&version=NIV"
+    ],
+    "timestamp": "2026-08-29T12:18:08.310575",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "GST",
+    "query": "Tekme Consumer Private Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://eziro.com/info/%EA%B5%AC%EA%B8%80-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-08-29T12:18:14.066036",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "GST",
+    "query": "Tekme Consumer Private Limited GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desitales2.com/videos/category/indian-sex-mms/",
+      "https://desi49.to/categories/viral-mms",
+      "https://www.xxxindianstories.com/videos/tags/indian-sex-mms/",
+      "https://www.antarvasna3.com/videos/categories/hindi-mms/"
+    ],
+    "timestamp": "2026-08-29T12:18:18.408150",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Owner",
+    "query": "Tekme Consumer Private Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.vedadhara.com/"
+    ],
+    "timestamp": "2026-08-29T12:18:27.381473",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Owner",
+    "query": "Tekme Consumer Private Limited founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dell.com/ja-jp?msockid=0a20aeb7fba56cf82236b973fa5a6d55",
+      "https://www.dell.com/support/home/ja-jp?app=drivers&msockid=0a20aeb7fba56cf82236b973fa5a6d55",
+      "https://i.dell.com/sites/doccontent/shared-content/campaigns/ja/Documents/Dell-OptiPlex-9020.pdf",
+      "https://i.dell.com/sites/csdocuments/Learn_Docs/en/%e7%92%b0%e5%a2%83%e8%aa%8d%e8%a8%bc%e9%96%a2%e9%80%a3%e3%82%88%e3%81%8f%e3%81%82%e3%82%8b%e3%81%8a%e5%95%8f%e5%90%88%e3%81%9bfaq_aug2018.pdf"
+    ],
+    "timestamp": "2026-08-29T12:18:30.494892",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Address",
+    "query": "Tekme Consumer Private Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-29T12:18:38.864677",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Address",
+    "query": "Tekme Consumer Private Limited registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bigfooty.com/forum/",
+      "https://www.bigfooty.com/",
+      "https://www.bigfooty.com/forum/forums/western-bulldogs.20/",
+      "https://www.bigfooty.com/forum/forums/essendon.14/"
+    ],
+    "timestamp": "2026-08-29T12:18:45.534248",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tekme Consumer Private Limited",
+    "field": "Phone",
+    "query": "Tekme Consumer Private Limited phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tekme.in/about-us",
+      "https://tekme.in/pages/contact",
+      "https://www.falconebiz.com/company/TEKME-CONSUMER-PRIVATE-LIMITED-U47912MH2025PTC452941",
+      "https://tracxn.com/d/legal-entities/india/tekme-consumer-private-limited/__S74MQIdh4XUE3pMVGHF_kT2VbfsVJ4OIMPlI87oHaFA"
+    ],
+    "timestamp": "2026-08-29T12:18:53.756374",
+    "status": "results_found"
+  },
+  {
+    "business": "Tekme Consumer Private Limited",
+    "field": "Phone Number",
+    "value": "+917028535600",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tekme.in/pages/contact",
+    "timestamp": "2026-08-29T12:18:59.807991"
+  }
+]

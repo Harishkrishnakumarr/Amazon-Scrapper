@@ -1,0 +1,668 @@
+[
+  {
+    "business": "Evergreen Ent",
+    "field": "Business Name",
+    "value": "Evergreen Ent",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3I76YE7BXCX4B&asin=B07YCDDL55&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T11:21:53.492231"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Website",
+    "query": "Evergreen Ent official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do"
+    ],
+    "timestamp": "2026-08-24T11:21:56.412891",
+    "status": "results_found"
+  },
+  {
+    "business": "Evergreen Ent",
+    "field": "Website URL",
+    "value": "https://www.evergreenent.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.evergreenent.com/",
+    "timestamp": "2026-08-24T11:22:03.266786"
+  },
+  {
+    "business": "Evergreen Ent",
+    "field": "Phone Number",
+    "value": "+912624202613",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.evergreenent.com/",
+    "timestamp": "2026-08-24T11:22:04.984824"
+  },
+  {
+    "business": "Evergreen Ent",
+    "field": "Email Address",
+    "value": "info@evergreenent.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.evergreenent.com/contact",
+    "timestamp": "2026-08-24T11:22:11.250854"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Legal Entity Name",
+    "query": "Evergreen Ent company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:22:20.245173",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Legal Entity Name",
+    "query": "Evergreen Ent Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:22:33.020253",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "PAN",
+    "query": "Evergreen Ent PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:22:40.641488",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "PAN",
+    "query": "Evergreen Ent PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:22:58.302159",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "GST",
+    "query": "Evergreen Ent GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:23:05.543384",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "GST",
+    "query": "Evergreen Ent GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:23:22.819042",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Owner",
+    "query": "Evergreen Ent director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:23:25.708746",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Owner",
+    "query": "Evergreen Ent managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:23:45.426673",
+    "status": "results_found"
+  },
+  {
+    "seller": "Evergreen Ent",
+    "field": "Address",
+    "query": "Evergreen Ent registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.evergreen-line.com/",
+      "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+      "https://www.evergreen-marine.com/",
+      "https://www.evergreen-line.com/ecommerce/jsp/ECOM_eCommerce.jsp",
+      "https://www.shipmentlink.com/"
+    ],
+    "timestamp": "2026-08-24T11:23:49.229899",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0FDGLPGYV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T11:23:58.250568"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mapion.co.jp/map/japan.html",
+      "https://happylilac.net/sy-tizu.html"
+    ],
+    "timestamp": "2026-08-24T11:24:02.139206",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/index/start-using-chatgpt-instantly/",
+      "https://learn.chatgpt.com/docs/use-chatgpt"
+    ],
+    "timestamp": "2026-08-24T11:24:15.439796",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/451046222",
+      "https://www.zhihu.com/question/34117814",
+      "https://www.zhihu.com/question/480654603"
+    ],
+    "timestamp": "2026-08-24T11:24:28.293491",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/",
+      "https://chatgpt.com/auth/login"
+    ],
+    "timestamp": "2026-08-24T11:24:35.960157",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/"
+    ],
+    "timestamp": "2026-08-24T11:24:47.992087",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://learn.mindspark.in/",
+      "https://learn.mindspark.in/Student/onboard/login",
+      "https://www.mindspark.in/mindspark/login/en",
+      "https://stglearn.mindspark.in/Student/onboard/login/en",
+      "https://stglearn.mindspark.in/Student/student/home"
+    ],
+    "timestamp": "2026-08-24T11:24:52.774735",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://www.zhihu.com/question/1981700758442362643",
+      "https://docs.github.com/en/copilot/concepts/models/auto-model-selection"
+    ],
+    "timestamp": "2026-08-24T11:24:56.649728",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://support.office.live.com/f1/article/8f3d4e37-96df-434f-9533-3669ea45c6a8?authdataboundary=us&authtype=unknown&isentrypoint=false&issasfeedbackenabled=false&locale=en-us&ns=OLWACB&shownav=false&themeid=20&version=90",
+      "https://office.live.com/start/Word.aspx?culture=en-US&omextemplateclient=Word&omexsessionid=44ea1409-2ddb-491b-b0b3-bd2e677c9e7e&omexcampaignid=none&templateid=WA200001937&templatetitle=Soda%20PDF%20%E2%80%93%20Office365%20to%20PDF%20Converter%20%26%20Editor&omexsrctype=1",
+      "https://office.live.com/start/UpgradeBrowser.htm?llcc=es-ES",
+      "https://support.office.live.com/f1/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d?authdataboundary=us&authtype=unknown&isentrypoint=false&issasfeedbackenabled=false&locale=en-us&ns=OLWACB&shownav=false&themeid=20&version=90",
+      "https://support.office.live.com/f1/article/97315f48-aa5e-49d3-a4ae-a14b73daf87b?authdataboundary=us&authtype=unknown&isentrypoint=false&issasfeedbackenabled=false&locale=en-us&ns=OLWACB&shownav=false&themeid=20&version=90"
+    ],
+    "timestamp": "2026-08-24T11:25:16.172224",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.zhihu.com/question/2058849029027632241"
+    ],
+    "timestamp": "2026-08-24T11:25:18.349380",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.datanyze.com/companies/kay-kay-overseas/447782697",
+      "https://www.thecompanycheck.com/company/b/kay-kay-overseas-corporation/760f84ca00c446e78",
+      "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+      "https://www.crunchbase.com/person/sharad-khandelwal-78f2",
+      "https://www.dnb.com/business-directory/company-profiles.kay_kay_overseas_corporation.8e1bf685ceae90bd75002f077f0c930e.html"
+    ],
+    "timestamp": "2026-08-24T11:25:40.284044",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://me.sh/profile/kapil-sharma-45c78545",
+      "https://me.sh/profile/kapil-sharma-2d864fbe"
+    ],
+    "timestamp": "2026-08-24T11:25:43.298272",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tv-tokyo.co.jp/",
+      "https://www.tv-tokyo.co.jp/genre_drama/index.html",
+      "https://txbiz.tv-tokyo.co.jp/nms",
+      "https://txbiz.tv-tokyo.co.jp/txn",
+      "https://sales.tv-tokyo.co.jp/"
+    ],
+    "timestamp": "2026-08-24T11:25:48.673369",
+    "status": "results_found"
+  },
+  {
+    "business": "JAY_ENTERPRISE1",
+    "field": "Business Name",
+    "value": "JAY_ENTERPRISE1",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1U8YLZHEJMG0I&asin=B0GQMK1PYS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T11:26:05.095219"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "Website",
+    "query": "JAY_ENTERPRISE1 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/"
+    ],
+    "timestamp": "2026-08-24T11:26:07.943560",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "Legal Entity Name",
+    "query": "JAY_ENTERPRISE1 company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:26:33.801646",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "PAN",
+    "query": "JAY_ENTERPRISE1 PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:26:54.903383",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "PAN",
+    "query": "JAY_ENTERPRISE1 PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:27:15.957455",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "GST",
+    "query": "JAY_ENTERPRISE1 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:27:18.258186",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "GST",
+    "query": "JAY_ENTERPRISE1 GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:27:35.134940",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "Owner",
+    "query": "JAY_ENTERPRISE1 director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:27:43.346489",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "Owner",
+    "query": "JAY_ENTERPRISE1 managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:27:58.549249",
+    "status": "results_found"
+  },
+  {
+    "seller": "JAY_ENTERPRISE1",
+    "field": "Address",
+    "query": "JAY_ENTERPRISE1 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beneficiary.nha.gov.in/",
+      "https://dashboard.nha.gov.in/public/",
+      "https://ayushmanup.in/pages.aspx?pt=About-PMJAY-scheme",
+      "https://kprofiles.com/jay-enhypen-profile/",
+      "https://www.myscheme.gov.in/schemes/ab-pmjay"
+    ],
+    "timestamp": "2026-08-24T11:28:06.315213",
+    "status": "results_found"
+  },
+  {
+    "business": "Morya ji ki dukan",
+    "field": "Business Name",
+    "value": "Morya ji ki dukan",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NXA41GFUTH4R&asin=B0DMN696S1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T11:28:07.140493"
+  },
+  {
+    "seller": "Morya ji ki dukan",
+    "field": "Website",
+    "query": "Morya ji ki dukan official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sonyliv.com/movies/morya-1500004595",
+      "https://majhamorya.in/"
+    ],
+    "timestamp": "2026-08-24T11:28:09.400245",
+    "status": "results_found"
+  },
+  {
+    "business": "Morya ji ki dukan",
+    "field": "Website URL",
+    "value": "https://majhamorya.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://majhamorya.in/",
+    "timestamp": "2026-08-24T11:28:30.543673"
+  },
+  {
+    "business": "Morya ji ki dukan",
+    "field": "Phone Number",
+    "value": "+912533544552",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://majhamorya.in/",
+    "timestamp": "2026-08-24T11:28:32.900975"
+  },
+  {
+    "seller": "Morya ji ki dukan",
+    "field": "Legal Entity Name",
+    "query": "Morya ji ki dukan company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sonyliv.com/movies/morya-1500004595",
+      "https://majhamorya.in/",
+      "https://morya.com/",
+      "https://chinchwaddeosthan.org/moraya-gosavi/?lang=en",
+      "https://historified.in/2025/09/01/the-one-who-makes-ganpati-bappa-morya/"
+    ],
+    "timestamp": "2026-08-24T11:28:46.281722",
+    "status": "results_found"
+  },
+  {
+    "seller": "Morya ji ki dukan",
+    "field": "PAN",
+    "query": "Morya ji ki dukan PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sonyliv.com/movies/morya-1500004595",
+      "https://majhamorya.in/"
+    ],
+    "timestamp": "2026-08-24T11:29:07.704915",
+    "status": "results_found"
+  },
+  {
+    "seller": "Morya ji ki dukan",
+    "field": "PAN",
+    "query": "Morya ji ki dukan PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sonyliv.com/movies/morya-1500004595",
+      "https://majhamorya.in/",
+      "https://morya.com/",
+      "https://chinchwaddeosthan.org/moraya-gosavi/?lang=en",
+      "https://historified.in/2025/09/01/the-one-who-makes-ganpati-bappa-morya/"
+    ],
+    "timestamp": "2026-08-24T11:29:16.540030",
+    "status": "results_found"
+  },
+  {
+    "seller": "Morya ji ki dukan",
+    "field": "GST",
+    "query": "Morya ji ki dukan GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sonyliv.com/movies/morya-1500004595",
+      "https://majhamorya.in/",
+      "https://morya.com/",
+      "https://chinchwaddeosthan.org/moraya-gosavi/?lang=en",
+      "https://historified.in/2025/09/01/the-one-who-makes-ganpati-bappa-morya/"
+    ],
+    "timestamp": "2026-08-24T11:29:34.382818",
+    "status": "results_found"
+  },
+  {
+    "seller": "Morya ji ki dukan",
+    "field": "GST",
+    "query": "Morya ji ki dukan GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sonyliv.com/movies/morya-1500004595",
+      "https://majhamorya.in/",
+      "https://morya.com/",
+      "https://chinchwaddeosthan.org/moraya-gosavi/?lang=en",
+      "https://historified.in/2025/09/01/the-one-who-makes-ganpati-bappa-morya/"
+    ],
+    "timestamp": "2026-08-24T11:29:48.696057",
+    "status": "results_found"
+  },
+  {
+    "seller": "Morya ji ki dukan",
+    "field": "Owner",
+    "query": "Morya ji ki dukan director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sonyliv.com/movies/morya-1500004595",
+      "https://majhamorya.in/",
+      "https://morya.com/",
+      "https://chinchwaddeosthan.org/moraya-gosavi/?lang=en",
+      "https://historified.in/2025/09/01/the-one-who-makes-ganpati-bappa-morya/"
+    ],
+    "timestamp": "2026-08-24T11:29:55.194439",
+    "status": "results_found"
+  }
+]

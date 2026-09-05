@@ -1,0 +1,545 @@
+[
+  {
+    "business": "Jupiter Industries",
+    "field": "Business Name",
+    "value": "Jupiter Industries",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3RU09631P1ZBW&asin=B07SNX2Y3S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T09:11:47.079890"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Website",
+    "query": "Jupiter Industries official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:11:58.836127",
+    "status": "no_results"
+  },
+  {
+    "business": "Jupiter Industries",
+    "field": "Website URL",
+    "value": "https://www.jupiterindustries.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.jupiterindustries.com/",
+    "timestamp": "2026-08-26T09:12:02.345588"
+  },
+  {
+    "business": "Jupiter Industries",
+    "field": "Email Address",
+    "value": "customerservice@jupiterindustries.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.jupiterindustries.com/",
+    "timestamp": "2026-08-26T09:12:03.108178"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Legal Entity Name",
+    "query": "Jupiter Industries company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.canva.com/?msockid=03bf5c174574621d17c04bd644a863ab",
+      "https://www.canva.com/zh_tw/?msockid=03bf5c174574621d17c04bd644a863ab",
+      "https://www.canva.com/pt_pt/?msockid=03bf5c174574621d17c04bd644a863ab",
+      "https://www.canva.com/fr_ca/?msockid=03bf5c174574621d17c04bd644a863ab"
+    ],
+    "timestamp": "2026-08-26T09:12:14.207707",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "PAN",
+    "query": "Jupiter Industries PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://search.google/"
+    ],
+    "timestamp": "2026-08-26T09:12:28.054641",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "PAN",
+    "query": "Jupiter Industries PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/jupiter-industries-27agopk9852g1zt/",
+      "https://gst.iadv.io/JUPITER-INDUSTRIES-24ACHPB0120D1ZQ/",
+      "https://www.knowyourgst.com/gst-number-search/jupiter-industries-33AAAFJ9658B1ZI/",
+      "https://gst.iadv.io/JUPITER-INDUSTRIES-33AAAFJ7816R1ZX/"
+    ],
+    "timestamp": "2026-08-26T09:12:39.805702",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "GST",
+    "query": "Jupiter Industries GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://openreview.net/login",
+      "https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/DynaFront"
+    ],
+    "timestamp": "2026-08-26T09:12:44.274847",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "GST",
+    "query": "Jupiter Industries GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/2660201/what-parameters-should-i-use-in-a-google-maps-url-to-go-to-a-lat-lon",
+      "https://stackoverflow.com/questions/35288250/google-maps-javascript-api-referernotallowedmaperror"
+    ],
+    "timestamp": "2026-08-26T09:12:48.902956",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Owner",
+    "query": "Jupiter Industries director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.crunchbase.com/person/jitendra-gupta-2",
+      "https://rocketreach.co/jitendra-gupta-email_259839"
+    ],
+    "timestamp": "2026-08-26T09:12:53.255944",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Owner",
+    "query": "Jupiter Industries founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://ultradesk.eu/",
+      "https://www.leetdesk.com/de",
+      "https://www.ikea.com/de/de/cat/gaming-tische-47070/?msockid=03bf5c174574621d17c04bd644a863ab"
+    ],
+    "timestamp": "2026-08-26T09:12:55.845233",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Address",
+    "query": "Jupiter Industries registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://faq.ikyu.com/app/answers/detail/a_id/1109/~/yahoo%21-japan-id%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%EF%BC%9F",
+      "https://faq.ikyu.com/app/answers/detail/a_id/559/~/%E5%90%84%E6%8F%90%E6%90%BA%E3%82%B5%E3%82%A4%E3%83%88%EF%BC%88yahoo%21-japan%EF%BC%8Fgoogle%EF%BC%8Ffacebook%EF%BC%8Fline%EF%BC%8Fapple%EF%BC%89%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%AF%EF%BC%9F"
+    ],
+    "timestamp": "2026-08-26T09:13:09.306309",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Address",
+    "query": "Jupiter Industries registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.speedtest.net/",
+      "https://fast.com/",
+      "https://speed.cloudflare.com/",
+      "https://www.speedtest.net/run"
+    ],
+    "timestamp": "2026-08-26T09:13:27.685053",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Phone",
+    "query": "Jupiter Industries phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:13:33.757762",
+    "status": "no_results"
+  },
+  {
+    "seller": "Jupiter Industries",
+    "field": "Phone",
+    "query": "Jupiter Industries contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://jupiterindustriesinc.com/contact-us/",
+      "https://www.jupitergroups.in/contact.html",
+      "https://www.jupiter.com/about/contact-us/",
+      "https://jupiterindustriesinc.com/"
+    ],
+    "timestamp": "2026-08-26T09:13:46.518025",
+    "status": "results_found"
+  },
+  {
+    "business": "Epitome Books",
+    "field": "Business Name",
+    "value": "Epitome Books",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1B3QCSGQH41YA&asin=0415365414&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T09:13:46.979357"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "Website",
+    "query": "Epitome Books official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/epitome",
+      "https://dictionary.cambridge.org/dictionary/english/epitome"
+    ],
+    "timestamp": "2026-08-26T09:13:49.615526",
+    "status": "results_found"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "Legal Entity Name",
+    "query": "Epitome Books company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:14:19.321431",
+    "status": "no_results"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "PAN",
+    "query": "Epitome Books PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/epitome",
+      "https://dictionary.cambridge.org/dictionary/english/epitome",
+      "https://epitomegame.com/",
+      "https://epitomeindia.com/"
+    ],
+    "timestamp": "2026-08-26T09:14:22.055853",
+    "status": "results_found"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "GST",
+    "query": "Epitome Books GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/epitome",
+      "https://dictionary.cambridge.org/dictionary/english/epitome",
+      "https://epitomegame.com/",
+      "https://epitomeindia.com/"
+    ],
+    "timestamp": "2026-08-26T09:14:41.024818",
+    "status": "results_found"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "Owner",
+    "query": "Epitome Books director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/epitome",
+      "https://dictionary.cambridge.org/dictionary/english/epitome",
+      "https://epitomegame.com/",
+      "https://epitomeindia.com/"
+    ],
+    "timestamp": "2026-08-26T09:14:54.593257",
+    "status": "results_found"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "Owner",
+    "query": "Epitome Books founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://epitomepub.com/",
+      "https://testbook.com/question-answer/who-among-the-following-wrote-the-book-epitom--5cf9f480fdb8bb29cd9fef08",
+      "https://www.britannica.com/biography/Justin-Roman-historian",
+      "https://en.wikisource.org/wiki/Epitome_of_Roman_History"
+    ],
+    "timestamp": "2026-08-26T09:15:18.581752",
+    "status": "results_found"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "Address",
+    "query": "Epitome Books registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:15:41.474412",
+    "status": "no_results"
+  },
+  {
+    "seller": "Epitome Books",
+    "field": "Phone",
+    "query": "Epitome Books phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/epitome",
+      "https://dictionary.cambridge.org/dictionary/english/epitome",
+      "https://epitomegame.com/",
+      "https://epitomeindia.com/"
+    ],
+    "timestamp": "2026-08-26T09:15:45.345094",
+    "status": "results_found"
+  },
+  {
+    "business": "SSNBooks",
+    "field": "Business Name",
+    "value": "SSNBooks",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3UD0B76WP6UEU&asin=0415365406&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T09:15:48.967920"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Website",
+    "query": "SSNBooks official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:15:55.127024",
+    "status": "no_results"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Legal Entity Name",
+    "query": "SSNBooks company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ngabbs.com/",
+      "https://ngabbs.com/thread.php?fid=-7202235&nounion=1&order_by=postdatedesc&page=1",
+      "https://ngabbs.com/read.php?tid=23015479",
+      "https://ngabbs.com/read.php?tid=42713431"
+    ],
+    "timestamp": "2026-08-26T09:16:12.331501",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "PAN",
+    "query": "SSNBooks PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crazygames.com/game/buildnow-gg",
+      "https://www.crazygames.com/game/bullet-force-multiplayer",
+      "https://www.crazygames.com/c/shooting",
+      "https://www.crazygames.com/de/t/first-person-shooter"
+    ],
+    "timestamp": "2026-08-26T09:16:30.492399",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "GST",
+    "query": "SSNBooks GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:17:09.229068",
+    "status": "no_results"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Owner",
+    "query": "SSNBooks director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.chhotabheem.com/",
+      "https://www.chhotabheem.com/videos.php",
+      "https://www.greengold.tv/catalogue/chhota-bheem/",
+      "https://www.zee5.com/tv-shows/details/chhota-bheem/0-6-1894"
+    ],
+    "timestamp": "2026-08-26T09:17:23.997215",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Address",
+    "query": "SSNBooks registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://abcnews.com/video/132232243/",
+      "https://www.newportdispatch.com/2026/05/19/elderly-woman-nearly-scammed-out-of-20000-in-moreau/",
+      "https://www.devdiscourse.com/news?tag=Watch%20what%20happens%20after%20a%2076-year-old%20woman%20withdraws%20$20,000",
+      "https://article.wn.com/view/2026/04/21/WATCH_Bodycam_footage_shows_police_taking_down_alleged_scamm/"
+    ],
+    "timestamp": "2026-08-26T09:17:34.795806",
+    "status": "results_found"
+  },
+  {
+    "seller": "SSNBooks",
+    "field": "Phone",
+    "query": "SSNBooks phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:18:10.689360",
+    "status": "no_results"
+  },
+  {
+    "business": "GalaxyBook",
+    "field": "Business Name",
+    "value": "GalaxyBook",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1SCXFVZMBVKUX&asin=0873229444&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T09:18:11.130350"
+  },
+  {
+    "seller": "GalaxyBook",
+    "field": "Website",
+    "query": "GalaxyBook official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.samsung.com/in/multistore/in_corporate/prelogin/?cid=in_pd_search_bing_EPP_sustain_b2b-q1-2026_text_all_1ur-464708l&utm_source=bing&utm_medium=paid&utm_campaign=-523827562-1324914269467531-kwd-82808693420501:loc-90&utm_term=&msclkid=9549fdd3ad0b13863ee4975dcf082e77",
+      "https://www.samsung.com/us/galaxybooks/"
+    ],
+    "timestamp": "2026-08-26T09:18:21.139748",
+    "status": "results_found"
+  },
+  {
+    "business": "GalaxyBook",
+    "field": "Website URL",
+    "value": "https://www.samsung.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.samsung.com/us/galaxybooks/",
+    "timestamp": "2026-08-26T09:19:12.313168"
+  },
+  {
+    "business": "GalaxyBook",
+    "field": "Billing Address",
+    "value": "6th Floor, DLF Centre, Sansad Marg, New Delhi-110001",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.samsung.com/",
+    "timestamp": "2026-08-26T09:19:13.809638"
+  },
+  {
+    "business": "GalaxyBook",
+    "field": "City",
+    "value": "New Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.samsung.com/",
+    "timestamp": "2026-08-26T09:19:13.809654"
+  },
+  {
+    "business": "GalaxyBook",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.samsung.com/",
+    "timestamp": "2026-08-26T09:19:13.809659"
+  },
+  {
+    "business": "GalaxyBook",
+    "field": "Pincode",
+    "value": "110001",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.samsung.com/",
+    "timestamp": "2026-08-26T09:19:13.809664"
+  },
+  {
+    "seller": "GalaxyBook",
+    "field": "Legal Entity Name",
+    "query": "GalaxyBook company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.samsung.com/us/business/computing/galaxy-book/",
+      "https://www.samsung.com/us/support/register-product/",
+      "https://registry-lookup.com/",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-26T09:19:22.195757",
+    "status": "results_found"
+  },
+  {
+    "seller": "GalaxyBook",
+    "field": "Legal Entity Name",
+    "query": "GalaxyBook Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nhl.com/",
+      "https://www.nhl.com/scores",
+      "https://www.espn.com/nhl/scoreboard",
+      "https://www.espn.com/nhl/"
+    ],
+    "timestamp": "2026-08-26T09:19:33.344128",
+    "status": "results_found"
+  },
+  {
+    "seller": "GalaxyBook",
+    "field": "PAN",
+    "query": "GalaxyBook PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lifewire.com/how-to-open-command-prompt-2618089",
+      "https://blog.comodo.com/pc-security/how-to-run-cmd-as-administrator/",
+      "https://www.geeksforgeeks.org/techtips/open-the-command-prompt-in-windows/",
+      "https://www.wikihow.com/Open-the-Command-Prompt-in-Windows"
+    ],
+    "timestamp": "2026-08-26T09:19:35.696222",
+    "status": "results_found"
+  },
+  {
+    "seller": "GalaxyBook",
+    "field": "GST",
+    "query": "GalaxyBook GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.astrologyanswers.com/horoscopes/",
+      "https://www.astrologyanswers.com/",
+      "https://bbs.huaweicloud.com/blogs/455174",
+      "https://bbs.huaweicloud.com/blogs/453371"
+    ],
+    "timestamp": "2026-08-26T09:19:50.673352",
+    "status": "results_found"
+  },
+  {
+    "seller": "GalaxyBook",
+    "field": "Owner",
+    "query": "GalaxyBook director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marketscreener.com/insider/MICHAEL-NOVOGRATZ-A05UCP/",
+      "https://www.cnbc.com/video/2025/10/06/watch-cnbcs-full-interview-with-galaxy-founder-and-ceo-michael-novogratz.html",
+      "https://www.rblt.com/gelc-biography/mike-novogratz",
+      "https://uaestories.com/michael-novogratzs-dynamic-life/"
+    ],
+    "timestamp": "2026-08-26T09:20:10.238209",
+    "status": "results_found"
+  }
+]

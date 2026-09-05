@@ -1,0 +1,100 @@
+{
+  "category": "Womens Ethnic Footwear",
+  "records_before_save": 7,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 40,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH; 07AAJCC8517E1ZN; 09AAJCC8517E1ZJ; 18AAJCC8517E1ZK; 27AAJCC8517E1ZL; 06AAJCC8517E1ZP; 36AAJCC8517E1ZM; 24AAJCC8517E1ZR; 33AAJCC8517E1ZS; 19AAJCC8517E1ZI; 08AAJCC8517E1ZL; 03AAJCC8517E1ZV; 23AAJCC8517E1ZT; 10AAJCC8517E1Z0; 32AAJCC8517E1ZU; 37AAJCC8517E1ZK; 21AAJCC8517E1ZX; 04AAJCC8517E1ZT; 30AAJCC8517E1ZY; 05AAJCC8517E1ZR; 20AAJCC8517E1ZZ; 29AAJCC8517E3ZF",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Twinkle Trading",
+      "database_id": 42,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915117802026",
+      "email": "schools@twinkl.com",
+      "gst": "Not Found",
+      "pan": "AMXPD0404C",
+      "website": "https://www.twinkletrading.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Arcatron Mobility",
+      "database_id": 41,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918886152025",
+      "email": "mobility@myfrido.com",
+      "gst": "29AANCA5219P1ZZ; 27AANCA5219P1Z3; 06AANCA5219P1Z7; 19AANCA5219P1Z0; 33AANCA5219P1ZA; 36AANCA5219P1Z4; 27AANCA5219P2Z2",
+      "pan": "AANCA5219P",
+      "website": "https://mobility.myfrido.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KHADIM OFFICIAL STORE",
+      "database_id": 43,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910905012026",
+      "email": "consumercare@khadims.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MIRAYA IMPEX",
+      "database_id": 44,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917898302016",
+      "email": "naveen.pareek898@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "JM LOOKS",
+      "database_id": 45,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919299931199",
+      "email": "support@jmlooks.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.jmlooks.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SS Traders Sales",
+      "database_id": 46,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910188842024",
+      "email": "info@sstraders.xyz",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://sstraders.xyz/",
+      "status": "Verified"
+    }
+  ]
+}

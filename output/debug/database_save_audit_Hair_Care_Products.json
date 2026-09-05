@@ -1,0 +1,74 @@
+{
+  "category": "Hair Care Products",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 308,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "infogrp@indiaratings.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Square Venture",
+      "database_id": 309,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.squareventure.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SUPER COSMETICS STORE",
+      "database_id": 310,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916712422026",
+      "email": "olivia@email.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Khadi Natural Healthcare",
+      "database_id": 311,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910690930600",
+      "email": "helpdesk@khadinatural.com",
+      "gst": "06CAMPS8381L1ZS",
+      "pan": "Not Found",
+      "website": "https://www.khadinatural.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "COSMETICS WAREHOUSE",
+      "database_id": 312,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

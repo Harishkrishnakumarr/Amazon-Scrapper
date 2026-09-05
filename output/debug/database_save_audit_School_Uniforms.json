@@ -1,0 +1,48 @@
+{
+  "category": "School Uniforms",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "REAL CHOICE 01",
+      "database_id": 1413,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "info@realchoice.co.in",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "HORN Dark K",
+      "database_id": 1413,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "gsd@utiitsl.com",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Dress Emporium Pvt Ltd",
+      "database_id": 1414,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "team@qorpiq.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

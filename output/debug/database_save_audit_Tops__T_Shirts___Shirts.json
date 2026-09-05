@@ -1,0 +1,35 @@
+{
+  "category": "Tops, T-Shirts & Shirts",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Leotude Lifestyle Private Limited",
+      "database_id": 1486,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Dream Beauty Fashion",
+      "database_id": 1553,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "24AWVPK5125B1ZN",
+      "pan": "AWVPK5125B",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

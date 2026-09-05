@@ -1,0 +1,576 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B09F3RZCZW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:23:43.520731"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.interflora.co.uk/category/funeral-flowers",
+      "https://www.interflora.co.uk/category/flower-arrangements"
+    ],
+    "timestamp": "2026-08-15T12:23:50.463353",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/666699170",
+      "https://www.zhihu.com/question/45415123",
+      "https://www.zhihu.com/question/1756072013/answers/updated",
+      "https://www.zhihu.com/question/1925274238467704515",
+      "https://www.zhihu.com/question/1909342040673715830"
+    ],
+    "timestamp": "2026-08-15T12:23:57.749332",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-15T12:24:20.375987",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://playvalorant.com/",
+      "https://volantaerotech.com/",
+      "https://www.volantaerotech.com/product.html",
+      "https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E6%B2%83%E5%85%B0%E7%89%B9%E8%88%AA%E7%A9%BA%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8/63739376",
+      "https://val.qq.com/main.html?lkey=true"
+    ],
+    "timestamp": "2026-08-15T12:24:25.103903",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.britannica.com/animal/cat",
+      "https://catpedia.net/cat-breed-list/",
+      "https://cats.com/cat-Breeds",
+      "https://www.petfinder.com/search/cats-for-adoption/us/wa/seattle/",
+      "https://animalcorner.org/animals/cats/"
+    ],
+    "timestamp": "2026-08-15T12:24:43.538971",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/",
+      "https://www.whatsapp.com/download/desktop?lang=en"
+    ],
+    "timestamp": "2026-08-15T12:25:05.901565",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bbs.3dmgame.com/forum.php?mobile=no",
+      "https://zhidao.baidu.com/question/469050891439827045.html",
+      "https://bbs.3dmgame.com/forum.php?gid=441",
+      "https://www.zhihu.com/question/381828080",
+      "https://zhidao.baidu.com/question/461165385173161725.html"
+    ],
+    "timestamp": "2026-08-15T12:25:22.854478",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://helpdeskgeek.com/how-to-get-help-in-windows/",
+      "https://www.addictivetips.com/windows-tips/how-to-get-help-in-windows/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://appuals.com/how-to-get-help-in-windows/"
+    ],
+    "timestamp": "2026-08-15T12:25:39.150772",
+    "status": "results_found"
+  },
+  {
+    "business": "PAROPKAR",
+    "field": "Business Name",
+    "value": "PAROPKAR",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A40ID00BA9QEM&asin=B0CK4TYJ18&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:25:44.275211"
+  },
+  {
+    "seller": "PAROPKAR",
+    "field": "Website",
+    "query": "PAROPKAR official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/414eccf6b46a6b6b431f0a00.html",
+      "http://jingyan.baidu.com"
+    ],
+    "timestamp": "2026-08-15T12:25:47.027855",
+    "status": "results_found"
+  },
+  {
+    "seller": "PAROPKAR",
+    "field": "Legal Entity Name",
+    "query": "PAROPKAR company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=149586&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=3680584e82f7157cae1e32ce8f12f819&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=Company%20registration%20online&utm_adgroup=1357898695889625&network=o&device=c&msclkid=42a26fe977b313e4fda705697a5671bb&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=Company%20registration%20online&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.falconebiz.com/company/PAROPKAR-COMMERCIAL-PRIVATE-LIMITED-U51909WB2004PTC099960",
+      "https://www.companydetails.in/company/paropkar-commercial-private-limited",
+      "https://www.falconebiz.com/company/PAROPKAR-MANAGEMENT-CONSULTANTS-PRIVATE-LIMITED-U74140WB2010PTC142408"
+    ],
+    "timestamp": "2026-08-15T12:27:42.190827",
+    "status": "results_found"
+  },
+  {
+    "business": "selloria",
+    "field": "Business Name",
+    "value": "selloria",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1FMNVFYUQYTH7&asin=B0CFR518WH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:27:53.842588"
+  },
+  {
+    "seller": "selloria",
+    "field": "Website",
+    "query": "selloria official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.redmond.gov/386/Microsoft-Redmond-Campus-Refresh"
+    ],
+    "timestamp": "2026-08-15T12:27:56.880274",
+    "status": "results_found"
+  },
+  {
+    "business": "selloria",
+    "field": "Website URL",
+    "value": "https://selloria.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://selloria.com/",
+    "timestamp": "2026-08-15T12:28:26.743034"
+  },
+  {
+    "business": "selloria",
+    "field": "Phone Number",
+    "value": "+919700442026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://selloria.com/",
+    "timestamp": "2026-08-15T12:28:28.916574"
+  },
+  {
+    "seller": "selloria",
+    "field": "Legal Entity Name",
+    "query": "selloria company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/",
+      "https://www.google.co.in/index.html",
+      "https://translate.google.co.in/details",
+      "https://books.google.co.in/"
+    ],
+    "timestamp": "2026-08-15T12:28:45.250078",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "PAN",
+    "query": "selloria PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "http://ads.as.criteo.com/"
+    ],
+    "timestamp": "2026-08-15T12:29:05.568030",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "PAN",
+    "query": "selloria PAN",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T12:29:07.217720",
+    "status": "no_results"
+  },
+  {
+    "seller": "selloria",
+    "field": "PAN",
+    "query": "selloria PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.gamesgames.com/",
+      "https://www.gamesgames.com/games/sports?page=1",
+      "https://www.gamesgames.com/games",
+      "https://www.gamesgames.com/games/match-3?page=1",
+      "https://www.gamesgames.com/games/puzzle?page=1"
+    ],
+    "timestamp": "2026-08-15T12:29:08.408493",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "GST",
+    "query": "selloria GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://maahsho.com/mashhad/eyelash/extensions/",
+      "https://behtarino.com/p/yjpliptmfb~%D8%A7%DA%A9%D8%B3%D8%AA%D9%86%D8%B4%D9%86-%D9%85%DA%98%D9%87-%D9%81%D8%B1%DB%8C%D8%A8%D8%A7-%D9%85%D8%B4%D9%87%D8%AF",
+      "https://bestinmashhad.com/eyelash-extensions-mashhad/",
+      "https://behtarinko.ir/best-eyelash-extension-mashhad/",
+      "https://behtarino.com/r/%D8%A7%DA%A9%D8%B3%D8%AA%D9%86%D8%B4%D9%86-%D9%85%DA%98%D9%87/%D9%85%D8%B4%D9%87%D8%AF"
+    ],
+    "timestamp": "2026-08-15T12:29:14.349104",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "Owner",
+    "query": "selloria director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.selloria.in/pages/faq",
+      "https://www.selloria.in/team",
+      "https://www.salesforce.com/company/leadership/",
+      "https://www.dnb.com/business-directory/company-profiles.selloria_as.b380a94c332b02867ad5de6f529345ee.html",
+      "https://www.proff.no/selskap/selloria-as/oslo/bedriftsr%C3%A5dgivning/IF9WHK1043Z"
+    ],
+    "timestamp": "2026-08-15T12:29:48.823284",
+    "status": "results_found"
+  },
+  {
+    "business": "HEELIUM",
+    "field": "Business Name",
+    "value": "HEELIUM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GLZ1SY2QDP1E&asin=B098B64PGY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:30:03.942523"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "Website",
+    "query": "HEELIUM official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks"
+    ],
+    "timestamp": "2026-08-15T12:30:05.058008",
+    "status": "results_found"
+  },
+  {
+    "business": "HEELIUM",
+    "field": "Website URL",
+    "value": "https://www.heelium.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.heelium.com/",
+    "timestamp": "2026-08-15T12:30:16.977522"
+  },
+  {
+    "business": "HEELIUM",
+    "field": "Phone Number",
+    "value": "+910304052026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.heelium.com/",
+    "timestamp": "2026-08-15T12:30:17.210352"
+  },
+  {
+    "business": "HEELIUM",
+    "field": "Email Address",
+    "value": "hello@heelium.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.heelium.com/",
+    "timestamp": "2026-08-15T12:30:17.210477"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "Legal Entity Name",
+    "query": "HEELIUM company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:30:21.823166",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "PAN",
+    "query": "HEELIUM PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:30:49.384769",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "PAN",
+    "query": "HEELIUM PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:00.220320",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "PAN",
+    "query": "HEELIUM PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:04.680976",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "GST",
+    "query": "HEELIUM GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:07.026773",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "GST",
+    "query": "HEELIUM GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:13.097686",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "GST",
+    "query": "HEELIUM GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:22.264650",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "Owner",
+    "query": "HEELIUM director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:27.196747",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "Owner",
+    "query": "HEELIUM managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:32.254197",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "Owner",
+    "query": "HEELIUM founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:39.817588",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEELIUM",
+    "field": "Address",
+    "query": "HEELIUM registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://heelium.in/",
+      "https://heelium.in/pages/socks",
+      "https://helium.computer/"
+    ],
+    "timestamp": "2026-08-15T12:31:44.664479",
+    "status": "results_found"
+  },
+  {
+    "business": "HEELIUM",
+    "field": "Billing Address",
+    "value": "heelium sports private limited",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://heelium.in/",
+    "timestamp": "2026-08-15T12:31:45.490194"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Business Name",
+    "value": "SuperSox",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1SW84PY9R8PD9&asin=B08NXJLB18&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:31:45.955090"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "Website",
+    "query": "SuperSox official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-15T12:31:47.021226",
+    "status": "results_found"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Website URL",
+    "value": "https://www.supersox.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.supersox.com/",
+    "timestamp": "2026-08-15T12:31:55.151820"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Phone Number",
+    "value": "+917549920260",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.supersox.com/",
+    "timestamp": "2026-08-15T12:31:58.184880"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "Legal Entity Name",
+    "query": "SuperSox company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://b2bhint.com/en/company/za/supersox--B1994022212",
+      "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY",
+      "https://supersox.com/",
+      "https://secretaryofstate.com/",
+      "https://search-sos.org/"
+    ],
+    "timestamp": "2026-08-15T12:33:20.470782",
+    "status": "results_found"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "PAN",
+    "query": "SuperSox PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/change-power-plan-settings-in-windows-11.6918/"
+    ],
+    "timestamp": "2026-08-15T12:33:37.058995",
+    "status": "results_found"
+  }
+]

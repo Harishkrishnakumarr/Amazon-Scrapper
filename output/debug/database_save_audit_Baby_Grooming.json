@@ -1,0 +1,87 @@
+{
+  "category": "Baby Grooming",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1186,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@rk.world",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "https://rk.world/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KRISHNA.COLLECTION",
+      "database_id": 1187,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919848646702",
+      "email": "rahuluda@gmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.krishnacollection.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TRIPAKSHA INDUSTRIES\u00ae",
+      "database_id": 1188,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919298140160",
+      "email": "blog@copyright.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TONY STARK \u00ae",
+      "database_id": 1189,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@porntube.com",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 1190,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919884261611",
+      "email": "info@kayfashions.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SNOOGLES",
+      "database_id": 1189,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@gstextract.com",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

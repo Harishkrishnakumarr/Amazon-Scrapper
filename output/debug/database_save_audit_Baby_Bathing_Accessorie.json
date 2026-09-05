@@ -1,0 +1,61 @@
+{
+  "category": "Baby Bathing Accessorie",
+  "records_before_save": 9,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1228,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BangBangWa",
+      "database_id": 1232,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "usfeedback@desmos.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Shree_Hari_Enterprise\u00ae",
+      "database_id": 1230,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919712666666",
+      "email": "info@shreemaruti.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shreeharienterprise.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SYGA108",
+      "database_id": 1231,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919427140037",
+      "email": "connect@urbanmoney.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://forum.lowyat.net/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "category": "Trending Women Wear",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Ruhika Fab_",
+      "database_id": 124,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916608662026",
+      "email": "support@study.iitm.ac.in",
+      "gst": "37ABGFR9564B1ZX",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 125,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    }
+  ]
+}

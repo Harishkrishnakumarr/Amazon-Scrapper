@@ -1,0 +1,22 @@
+{
+  "category": "Men'S Clogs",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Hike Store",
+      "database_id": 1328,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "info@hike-footwear.com",
+      "gst": "29BEKPG1769P1ZP",
+      "pan": "BEKPG1769P",
+      "website": "https://hike-footwear.com/",
+      "status": "Verified"
+    }
+  ]
+}

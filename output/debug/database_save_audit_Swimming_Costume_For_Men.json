@@ -1,0 +1,35 @@
+{
+  "category": "Swimming Costume For Men",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "A.P. ENTERPRISES",
+      "database_id": 97,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916814592026",
+      "email": "avinash@ap-enterprises.in",
+      "gst": "Not Found",
+      "pan": "AAABA3834G",
+      "website": "https://www.apenterprises.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 98,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "info@retailez.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    }
+  ]
+}

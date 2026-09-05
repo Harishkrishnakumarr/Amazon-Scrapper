@@ -1,0 +1,570 @@
+[
+  {
+    "business": "NATSPO",
+    "field": "Business Name",
+    "value": "NATSPO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1C8TRMAH0VOJC&asin=B083SPM2FN&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T13:09:51.588496"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Website",
+    "query": "NATSPO official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.naspo.org/",
+      "https://www.naspo.org/procurement-u/"
+    ],
+    "timestamp": "2026-08-24T13:09:57.505185",
+    "status": "results_found"
+  },
+  {
+    "business": "NATSPO",
+    "field": "Website URL",
+    "value": "https://www.natspo.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.natspo.com/",
+    "timestamp": "2026-08-24T13:09:59.680014"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Legal Entity Name",
+    "query": "NATSPO company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bokeplik.com/category/bokep-indo/"
+    ],
+    "timestamp": "2026-08-24T13:10:04.951068",
+    "status": "results_found"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Legal Entity Name",
+    "query": "NATSPO Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ecinet.eci.gov.in/",
+      "https://voters.eci.gov.in/ECINET",
+      "https://www.officials.eci.gov.in/",
+      "https://ecinet.eci.gov.in/homepage/home",
+      "https://www.eci.gov.in/electoral-roll"
+    ],
+    "timestamp": "2026-08-24T13:10:10.552428",
+    "status": "results_found"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Legal Entity Name",
+    "query": "NATSPO legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.legalentityidentifier.in/?msclkid=9c8f1d9845f11f2a235f7713b0854081",
+      "https://www.legalentityidentifier.in/lei-cost/?msclkid=5b334ba112aa1b8ac546212ae7de02ef",
+      "https://www.leikart.com/?msclkid=44222b661d121cd1d1c741ede866f006",
+      "https://tracxn.com/d/legal-entities/india/natspo-industries-private-limited/__O8jJcsicWwisYOJpmr0o_w4nCYRzA8hnquOpogr7dNk",
+      "https://opencorpdata.com/lei/335800DN6Q3L6E3MN669"
+    ],
+    "timestamp": "2026-08-24T13:10:21.414558",
+    "status": "results_found"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "PAN",
+    "query": "NATSPO PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://map.baidu.com/",
+      "https://ditu.baidu.com/",
+      "https://j.map.baidu.com/-biTe",
+      "https://ditu.baidu.com/mobile/webapp/index/streetview/",
+      "https://www.earthol.com/bd/"
+    ],
+    "timestamp": "2026-08-24T13:10:24.398831",
+    "status": "results_found"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "GST",
+    "query": "NATSPO GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/",
+      "https://www.whatsapp.com/messaging"
+    ],
+    "timestamp": "2026-08-24T13:11:01.457604",
+    "status": "results_found"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Owner",
+    "query": "NATSPO director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-24T13:11:11.811991",
+    "status": "results_found"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Address",
+    "query": "NATSPO registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-24T13:11:30.914630",
+    "status": "results_found"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Address",
+    "query": "NATSPO registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/natspo-industries-private-limited/__O8jJcsicWwisYOJpmr0o_w4nCYRzA8hnquOpogr7dNk",
+      "https://www.companydetails.in/company/natspo-industries-private-limited",
+      "https://www.falconebiz.com/company/NATSPO-INDUSTRIES-PRIVATE-LIMITED-U36939UP2021PTC144356",
+      "https://www.instafinancials.com/company/natspo-industries-private-limited-U36939UP2021PTC144356/company-overview",
+      "https://opencorpdata.com/lei/335800DN6Q3L6E3MN669"
+    ],
+    "timestamp": "2026-08-24T13:11:35.352201",
+    "status": "results_found"
+  },
+  {
+    "business": "NATSPO",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/natspo-industries-private-limited/__O8jJcsicWwisYOJpmr0o_w4nCYRzA8hnquOpogr7dNk",
+    "timestamp": "2026-08-24T13:11:36.752788"
+  },
+  {
+    "business": "NATSPO",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/natspo-industries-private-limited/__O8jJcsicWwisYOJpmr0o_w4nCYRzA8hnquOpogr7dNk",
+    "timestamp": "2026-08-24T13:11:36.752803"
+  },
+  {
+    "business": "NATSPO",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/natspo-industries-private-limited/__O8jJcsicWwisYOJpmr0o_w4nCYRzA8hnquOpogr7dNk",
+    "timestamp": "2026-08-24T13:11:36.752808"
+  },
+  {
+    "business": "NATSPO",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/natspo-industries-private-limited/__O8jJcsicWwisYOJpmr0o_w4nCYRzA8hnquOpogr7dNk",
+    "timestamp": "2026-08-24T13:11:36.752811"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Phone",
+    "query": "NATSPO phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/33542416",
+      "https://www.zhihu.com/question/284641293",
+      "https://ifi.forumfree.it/?t=61396639",
+      "https://www.zhihu.com/question/41295607",
+      "https://www.zhihu.com/question/2061396862540816543"
+    ],
+    "timestamp": "2026-08-24T13:11:38.123885",
+    "status": "results_found"
+  },
+  {
+    "business": "NATSPO",
+    "field": "Phone Number",
+    "value": "+912202200334",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.zhihu.com/question/33542416",
+    "timestamp": "2026-08-24T13:11:41.600628"
+  },
+  {
+    "seller": "NATSPO",
+    "field": "Email",
+    "query": "NATSPO email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.spat4.jp/keiba/pc",
+      "https://netbank.spat4.jp/faq/FAQ.html",
+      "https://netbank.spat4.jp/nyukai/kiyaku?bnk_kbn=06&bnk_cd=0010",
+      "https://netbank.spat4.jp/faq/knb-faq-A_099.html",
+      "https://netbank.spat4.jp/nyukai/chgninsyou?bnk_kbn=06&bnk_cd=9900"
+    ],
+    "timestamp": "2026-08-24T13:11:46.080821",
+    "status": "results_found"
+  },
+  {
+    "business": "SG FIITNESS ZONE",
+    "field": "Business Name",
+    "value": "SG FIITNESS ZONE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A13UP16NHHUSOF&asin=B0DHFD7YRQ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T13:11:53.415534"
+  },
+  {
+    "seller": "SG FIITNESS ZONE",
+    "field": "Website",
+    "query": "SG FIITNESS ZONE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shop.teamsg.in/",
+      "https://www.visitsingapore.com/"
+    ],
+    "timestamp": "2026-08-24T13:11:58.544399",
+    "status": "results_found"
+  },
+  {
+    "seller": "SG FIITNESS ZONE",
+    "field": "Legal Entity Name",
+    "query": "SG FIITNESS ZONE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.teamsg.in/",
+      "https://www.visitsingapore.com/",
+      "https://www.singaporeair.com/en_UK/us/home?msockid=10b241ee697663112b54565168de62f4",
+      "https://www.britannica.com/place/Singapore",
+      "https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad"
+    ],
+    "timestamp": "2026-08-24T13:12:26.257674",
+    "status": "results_found"
+  },
+  {
+    "seller": "SG FIITNESS ZONE",
+    "field": "Legal Entity Name",
+    "query": "SG FIITNESS ZONE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.teamsg.in/",
+      "https://www.visitsingapore.com/",
+      "https://www.singaporeair.com/en_UK/us/home?msockid=10b241ee697663112b54565168de62f4",
+      "https://www.britannica.com/place/Singapore",
+      "https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad"
+    ],
+    "timestamp": "2026-08-24T13:12:41.789929",
+    "status": "results_found"
+  },
+  {
+    "seller": "SG FIITNESS ZONE",
+    "field": "PAN",
+    "query": "SG FIITNESS ZONE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.teamsg.in/",
+      "https://www.visitsingapore.com/",
+      "https://www.singaporeair.com/en_UK/us/home?msockid=10b241ee697663112b54565168de62f4",
+      "https://www.britannica.com/place/Singapore",
+      "https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad"
+    ],
+    "timestamp": "2026-08-24T13:12:55.651001",
+    "status": "results_found"
+  },
+  {
+    "seller": "SG FIITNESS ZONE",
+    "field": "GST",
+    "query": "SG FIITNESS ZONE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.teamsg.in/",
+      "https://www.visitsingapore.com/",
+      "https://www.singaporeair.com/en_UK/us/home?msockid=10b241ee697663112b54565168de62f4",
+      "https://www.britannica.com/place/Singapore",
+      "https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad"
+    ],
+    "timestamp": "2026-08-24T13:13:13.587078",
+    "status": "results_found"
+  },
+  {
+    "seller": "SG FIITNESS ZONE",
+    "field": "Owner",
+    "query": "SG FIITNESS ZONE director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.teamsg.in/",
+      "https://www.visitsingapore.com/",
+      "https://www.singaporeair.com/en_UK/us/home?msockid=10b241ee697663112b54565168de62f4",
+      "https://www.britannica.com/place/Singapore",
+      "https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad"
+    ],
+    "timestamp": "2026-08-24T13:13:31.572745",
+    "status": "results_found"
+  },
+  {
+    "seller": "SG FIITNESS ZONE",
+    "field": "Address",
+    "query": "SG FIITNESS ZONE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.teamsg.in/",
+      "https://www.visitsingapore.com/",
+      "https://www.singaporeair.com/en_UK/us/home?msockid=10b241ee697663112b54565168de62f4",
+      "https://www.britannica.com/place/Singapore",
+      "https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad"
+    ],
+    "timestamp": "2026-08-24T13:13:57.791765",
+    "status": "results_found"
+  },
+  {
+    "business": "RR Creations",
+    "field": "Business Name",
+    "value": "RR Creations",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1GL0R3HD9FRHK&asin=B0933BPRSM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T13:14:01.770269"
+  },
+  {
+    "seller": "RR Creations",
+    "field": "Website",
+    "query": "RR Creations official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.rrcreations.in/shop",
+      "https://www.rrcreations.in/about"
+    ],
+    "timestamp": "2026-08-24T13:14:11.659065",
+    "status": "results_found"
+  },
+  {
+    "business": "RR Creations",
+    "field": "Website URL",
+    "value": "https://www.rrcreations.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.rrcreations.in/shop",
+    "timestamp": "2026-08-24T13:14:44.323376"
+  },
+  {
+    "business": "RR Creations",
+    "field": "Phone Number",
+    "value": "+915623555251",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.rrcreations.in/",
+    "timestamp": "2026-08-24T13:14:46.822773"
+  },
+  {
+    "business": "RR Creations",
+    "field": "Email Address",
+    "value": "rrcreationsdhule@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.rrcreations.in/",
+    "timestamp": "2026-08-24T13:14:46.824421"
+  },
+  {
+    "seller": "RR Creations",
+    "field": "Legal Entity Name",
+    "query": "RR Creations company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/3640764/can-i-recover-a-branch-after-its-deletion-in-git",
+      "https://stackoverflow.com/questions/900992/retrieve-recover-deleted-netbeans-project",
+      "https://stackoverflow.com/questions/4235431/git-deleted-some-files-locally-how-do-i-get-them-from-a-remote-repository",
+      "https://stackoverflow.com/questions/953481/how-do-i-find-and-restore-a-deleted-file-in-a-git-repository",
+      "https://stackoverflow.com/questions/5788037/recover-from-losing-uncommitted-changes-by-git-reset-hard"
+    ],
+    "timestamp": "2026-08-24T13:15:09.329544",
+    "status": "results_found"
+  },
+  {
+    "seller": "RR Creations",
+    "field": "PAN",
+    "query": "RR Creations PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/",
+      "https://www.whatsapp.com/messaging"
+    ],
+    "timestamp": "2026-08-24T13:15:21.658729",
+    "status": "results_found"
+  },
+  {
+    "seller": "RR Creations",
+    "field": "GST",
+    "query": "RR Creations GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/526676715",
+      "https://devforum.zoom.us/c/api-and-webhooks/8",
+      "https://www.zhihu.com/question/2057479086755390337",
+      "https://devforum.zoom.us/t/start-zoom-meeting-programmatically-from-a-console-app/132883",
+      "https://devforum.zoom.us/t/restricting-participants-to-only-those-invited/102388"
+    ],
+    "timestamp": "2026-08-24T13:15:40.835348",
+    "status": "results_found"
+  },
+  {
+    "business": "Kingsmen Line\u00ae",
+    "field": "Business Name",
+    "value": "Kingsmen Line\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2XNE6MF1PX4YU&asin=B0F21Z7PPM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T13:16:13.640190"
+  },
+  {
+    "seller": "Kingsmen Line\u00ae",
+    "field": "Website",
+    "query": "Kingsmen Line\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/55795521",
+      "https://www.zhihu.com/question/279338227"
+    ],
+    "timestamp": "2026-08-24T13:16:18.389367",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kingsmen Line\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Kingsmen Line\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.arkansasonline.com/obituaries/",
+      "https://www.cpr.org/",
+      "https://www.sacbee.com/news/local/obituaries/",
+      "https://www.miningjournal.net/",
+      "https://www.nytimes.com/reviews/movies"
+    ],
+    "timestamp": "2026-08-24T13:16:42.590488",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kingsmen Line\u00ae",
+    "field": "PAN",
+    "query": "Kingsmen Line\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://medley.life/diseases/5503c3db6ef458f23885d200/",
+      "https://medley.life/diseases/54b52b1b517cef641a0041c4/",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13255981803",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10172655935",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11153217936"
+    ],
+    "timestamp": "2026-08-24T13:17:02.285635",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kingsmen Line\u00ae",
+    "field": "PAN",
+    "query": "Kingsmen Line\u00ae PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://community.tim.it/",
+      "https://www.zhihu.com/question/63863543",
+      "https://www.zhihu.com/people/tim-48-65-26",
+      "https://community.tim.it/news/come-fare-per/inviare-reclamo",
+      "https://www.zhihu.com/people/mediastorm"
+    ],
+    "timestamp": "2026-08-24T13:17:19.190153",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kingsmen Line\u00ae",
+    "field": "GST",
+    "query": "Kingsmen Line\u00ae GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/09AAECK0077C1ZT",
+      "https://services.gst.gov.in/services/quicklinks/searchtxp",
+      "https://cleartax.in/gst-number-search/",
+      "https://piceapp.com/gst-number-search/kingsmen-india-private-limited-27aaeck0077c2zu/",
+      "https://gst.jamku.app/gstin/07AAECK0077C1ZX"
+    ],
+    "timestamp": "2026-08-24T13:17:32.632969",
+    "status": "results_found"
+  },
+  {
+    "business": "Kingsmen Line\u00ae",
+    "field": "GST Number",
+    "value": "09AAECK0077C1ZT",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/09AAECK0077C1ZT",
+    "timestamp": "2026-08-24T13:17:35.855609"
+  },
+  {
+    "seller": "Kingsmen Line\u00ae",
+    "field": "Owner",
+    "query": "Kingsmen Line\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://oshiete-pc.com/windows11%e3%83%91%e3%82%b9%e3%82%ad%e3%83%bc%e3%81%ae%e8%a8%ad%e5%ae%9a%e3%81%a8%e5%89%8a%e9%99%a4%e6%96%b9%e6%b3%95%ef%bc%81%e3%83%91%e3%82%b9%e3%82%ad%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f/",
+      "https://www.4900.co.jp/smarticle/86554/",
+      "https://how-to-l.com/microsoft-passkey-setup-guide/",
+      "https://pctextbook.com/windows11-passkey/",
+      "https://www.android.com/intl/ja_jp/articles/420/"
+    ],
+    "timestamp": "2026-08-24T13:17:40.917824",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kingsmen Line\u00ae",
+    "field": "Address",
+    "query": "Kingsmen Line\u00ae registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.chamberofcommerce.com/business-directory/california/oakland/clothing-alteration-service/2026292631-kingsmen-line",
+      "https://www.yelp.com/biz/kingsmen-line-oakland",
+      "https://craft.co/kingsmen-creatives/locations",
+      "https://kx.kingsmen-int.com/connect/",
+      "https://kingsmen-int.com/contact/"
+    ],
+    "timestamp": "2026-08-24T13:18:19.985129",
+    "status": "results_found"
+  }
+]

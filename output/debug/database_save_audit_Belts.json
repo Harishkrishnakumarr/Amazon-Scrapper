@@ -1,0 +1,35 @@
+{
+  "category": "Belts",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AT Retail Corp",
+      "database_id": 1669,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918655203543",
+      "email": "sales@ithinklogistics.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.commercengine.io/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1670,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "AAJCC8517E",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

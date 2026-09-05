@@ -1,0 +1,499 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0FMDL81GS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:32:21.212259"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T17:32:23.752408",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/about-us/",
+    "timestamp": "2026-08-26T17:32:27.280471"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T17:32:28.053497"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T17:32:28.054116"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T17:32:34.634118",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T17:32:43.877687",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T17:32:49.307208",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T17:33:07.941962",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T17:33:17.057777",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T17:33:22.551920",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://www.cocoblu.in/contact-us/",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-26T17:33:40.933969",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/contact-us/",
+      "https://www.cocoblu.in/",
+      "https://contactout.com/company/Cocoblu-Retail-19325",
+      "https://aeroleads.com/c/cocoblu"
+    ],
+    "timestamp": "2026-08-26T17:33:47.032962",
+    "status": "results_found"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "Business Name",
+    "value": "Alakh Enterprise .",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1KM8TKHCGPLMY&asin=B0HCC8D3HC&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T17:33:56.979485"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "Website",
+    "query": "Alakh Enterprise . official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tripadvisor.com/Restaurants-g37835-c31-Des_Moines_Iowa.html",
+      "https://www.yelp.com/search?cflt=pizza&find_loc=des+moines%2C+ia&msockid=1d4e66fc816061ef07ee713d80ea60f3"
+    ],
+    "timestamp": "2026-08-26T17:33:59.554280",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "Legal Entity Name",
+    "query": "Alakh Enterprise . company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.azquotes.com/quote_of_the_day.html",
+      "https://www.azquotes.com/",
+      "https://ja.hinative.com/questions/6562590",
+      "https://ja.hinative.com/questions/19515539"
+    ],
+    "timestamp": "2026-08-26T17:34:04.305862",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "Legal Entity Name",
+    "query": "Alakh Enterprise . Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20pvt%20ltd%20company&target_name=kwd-83769913535125:loc-90&placement=&keyword_id=registration%20of%20pvt%20ltd%20company&msclkid=acf4e1acc1af1d4319808b22179045c8",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20pvt%20ltd%20company&target_name=kwd-83769913535125:loc-90&placement=&keyword_id=registration%20of%20pvt%20ltd%20company&msclkid=478407dd15c41925ff7a6d53c3fbe2a1",
+      "https://www.falconebiz.com/company/ALAKH-ENTERPRISES-PRIVATE-LIMITED-U68200UP2023PTC180507",
+      "https://www.instafinancials.com/company/alakh-enterprises-private-limited-U68200UP2023PTC180507"
+    ],
+    "timestamp": "2026-08-26T17:34:15.668601",
+    "status": "results_found"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20pvt%20ltd%20company&target_name=kwd-83769913535125:loc-90&placement=&keyword_id=registration%20of%20pvt%20ltd%20company&msclkid=acf4e1acc1af1d4319808b22179045c8",
+    "timestamp": "2026-08-26T17:34:19.767829"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20pvt%20ltd%20company&target_name=kwd-83769913535125:loc-90&placement=&keyword_id=registration%20of%20pvt%20ltd%20company&msclkid=acf4e1acc1af1d4319808b22179045c8",
+    "timestamp": "2026-08-26T17:34:19.792297"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "PAN",
+    "query": "Alakh Enterprise . PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T17:34:30.451934",
+    "status": "results_found"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-26T17:34:33.553283"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-26T17:34:33.553309"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "Owner",
+    "query": "Alakh Enterprise . director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/"
+    ],
+    "timestamp": "2026-08-26T17:34:36.062982",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "Owner",
+    "query": "Alakh Enterprise . founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/",
+      "https://www.google.co.in/index.html",
+      "https://trends.google.co.in/trends/"
+    ],
+    "timestamp": "2026-08-26T17:34:48.989440",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "Address",
+    "query": "Alakh Enterprise . registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-36581433-historique-de-connexion-hotmail",
+      "https://forums.commentcamarche.net/forum/affich-37924854-messagerie-hotmail-inaccessible"
+    ],
+    "timestamp": "2026-08-26T17:34:50.887090",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alakh Enterprise .",
+    "field": "Address",
+    "query": "Alakh Enterprise . registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.alakh_enterprise.f50ae4ef936ab1d4ed635bde245c0e80.html",
+      "https://piceapp.com/gst-number-search/alakh-enterprise-24bavpb9149k1z5/",
+      "https://gst.unifers.ai/gst/08ACDFA9002F1ZR/alakh-enterprises",
+      "https://www.falconebiz.com/company/ALAKH-ENTERPRISES-PRIVATE-LIMITED-U68200UP2023PTC180507"
+    ],
+    "timestamp": "2026-08-26T17:34:58.672588",
+    "status": "results_found"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/alakh-enterprise-24bavpb9149k1z5/",
+    "timestamp": "2026-08-26T17:35:02.942048"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/alakh-enterprise-24bavpb9149k1z5/",
+    "timestamp": "2026-08-26T17:35:02.942081"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/alakh-enterprise-24bavpb9149k1z5/",
+    "timestamp": "2026-08-26T17:35:02.942086"
+  },
+  {
+    "business": "Alakh Enterprise .",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/alakh-enterprise-24bavpb9149k1z5/",
+    "timestamp": "2026-08-26T17:35:02.942091"
+  },
+  {
+    "business": "Meena Enterprises9",
+    "field": "Business Name",
+    "value": "Meena Enterprises9",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1SLKMQYNMHAY9&asin=B0C8JB3G5W&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:35:04.276748"
+  },
+  {
+    "seller": "Meena Enterprises9",
+    "field": "Website",
+    "query": "Meena Enterprises9 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.lgbthealth.org.uk/lgbtq/",
+      "https://soulbly.com/lgbtq-identities-guide/"
+    ],
+    "timestamp": "2026-08-26T17:35:06.306899",
+    "status": "results_found"
+  },
+  {
+    "seller": "Meena Enterprises9",
+    "field": "Legal Entity Name",
+    "query": "Meena Enterprises9 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://microsoft-word.en.softonic.com/",
+      "https://microsoft-word.en.softonic.com/download",
+      "https://microsoft-word.en.softonic.com/android/download",
+      "https://microsoft-word.en.softonic.com/android"
+    ],
+    "timestamp": "2026-08-26T17:35:19.722750",
+    "status": "results_found"
+  },
+  {
+    "seller": "Meena Enterprises9",
+    "field": "Legal Entity Name",
+    "query": "Meena Enterprises9 Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=Company%20registration%20online&utm_adgroup=1357898695889625&network=o&device=c&msclkid=ef63b4fe050512317cabde70d395173e&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=Company%20registration%20online&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.thecompanycheck.com/org/meena-enterprises/ac106bf9e8",
+      "https://www.thecompanycheck.com/org/meena-enterprises/c9e4ef4b70",
+      "https://www.dnb.com/business-directory/company-profiles.meena_enterprises.1e4f59a6de9bd56603eb79205c405a68.html"
+    ],
+    "timestamp": "2026-08-26T17:35:36.961437",
+    "status": "results_found"
+  },
+  {
+    "seller": "Meena Enterprises9",
+    "field": "PAN",
+    "query": "Meena Enterprises9 PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://my.gstzen.in/m/taxpayers/pan/v-vijayabalaji/BABPV9075L/",
+      "https://my.gstzen.in/m/taxpayers/pan/veerasamy-vijayabalaji/ANSPV1684L/",
+      "https://gst.iadv.io/MEENA-ENTERPRISES-27AAAHD0627G1ZS/",
+      "https://gst.iadv.io/MEENA-ENTERPRISES-29ABKFM7358N1ZA/"
+    ],
+    "timestamp": "2026-08-26T17:35:44.258698",
+    "status": "results_found"
+  },
+  {
+    "business": "Meena Enterprises9",
+    "field": "Email Address",
+    "value": "support@gstzen.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/v-vijayabalaji/BABPV9075L/",
+    "timestamp": "2026-08-26T17:35:46.936480"
+  },
+  {
+    "business": "Meena Enterprises9",
+    "field": "GST Number",
+    "value": "33BABPV9075L1Z3",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/v-vijayabalaji/BABPV9075L/",
+    "timestamp": "2026-08-26T17:35:46.936560"
+  },
+  {
+    "business": "Meena Enterprises9",
+    "field": "PAN Number",
+    "value": "BABPV9075L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/v-vijayabalaji/BABPV9075L/",
+    "timestamp": "2026-08-26T17:35:46.936567"
+  },
+  {
+    "seller": "Meena Enterprises9",
+    "field": "Owner",
+    "query": "Meena Enterprises9 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.vivaldi.net/topic/113545/whatsapp.com-web-use-another-browser-browser-unsupported-for-whatsapp-web",
+      "https://forum.vivaldi.net/topic/112404/whatsapp-web-logging-out-constantly",
+      "https://forum.vivaldi.net/topic/78815/whatsapp-web-on-web-panel-became-extremely-slow",
+      "https://forum.vivaldi.net/topic/78284/web-whatsapp-keeps-crashing-after-the-last-update"
+    ],
+    "timestamp": "2026-08-26T17:35:50.304220",
+    "status": "results_found"
+  },
+  {
+    "seller": "Meena Enterprises9",
+    "field": "Address",
+    "query": "Meena Enterprises9 registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://indialei.in/detailed-information/66375338/335800ZDORIDORR4AK54/meena-enterprises/",
+      "https://www.thecompanycheck.com/org/meena-enterprises/24eb149ee7",
+      "https://www.thecompanycheck.com/org/meena-enterprises/c9e4ef4b70",
+      "https://www.dnb.com/business-directory/company-profiles.meena_enterprises.1e4f59a6de9bd56603eb79205c405a68.html"
+    ],
+    "timestamp": "2026-08-26T17:36:10.578303",
+    "status": "results_found"
+  },
+  {
+    "business": "Meena Enterprises9",
+    "field": "Phone Number",
+    "value": "+918800973322",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://indialei.in/detailed-information/66375338/335800ZDORIDORR4AK54/meena-enterprises/",
+    "timestamp": "2026-08-26T17:36:16.075270"
+  }
+]

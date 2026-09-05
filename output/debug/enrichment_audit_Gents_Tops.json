@@ -1,0 +1,29 @@
+[
+  {
+    "business": "Juari",
+    "field": "Business Name",
+    "value": "Juari",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DDIGABO605W4&asin=B0FB8X8J5B&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "search_attempts": 1
+  },
+  {
+    "business": "Juari",
+    "field": "Phone Number",
+    "value": "+912073602026",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.gadgets360.com/mobile-recharge-plans/jio-customer-care-number",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0GRZYJDJ2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "search_attempts": 1
+  }
+]

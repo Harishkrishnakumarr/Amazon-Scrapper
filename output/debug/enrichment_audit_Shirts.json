@@ -1,0 +1,315 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0HBQVNZYW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T12:37:01.029819"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T12:37:02.591257",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/work-with-us/",
+    "timestamp": "2026-09-02T12:37:06.155376"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T12:37:06.723630"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T12:37:06.724313"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T12:37:10.991071",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T12:37:11.619955"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T12:37:11.619970"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574?tab=about"
+    ],
+    "timestamp": "2026-09-02T12:37:13.159341",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:37:13.853580"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:37:13.853588"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:37:13.853591"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:37:13.853593"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T12:37:17.176611"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T12:37:19.808612",
+    "status": "results_found"
+  },
+  {
+    "business": "DEEMOON",
+    "field": "Business Name",
+    "value": "DEEMOON",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3PNUR1J9RDFI1&asin=B0HBQGP7FK&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T12:37:25.671910"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "Website",
+    "query": "DEEMOON official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.daemon-tools.cc/",
+      "https://www.daemon-tools.cc/products/dtLite"
+    ],
+    "timestamp": "2026-09-02T12:37:28.242023",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "Legal Entity Name",
+    "query": "DEEMOON company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregistration.org.in/blog/what-is-udyam-registration/",
+      "https://udyamregistrationform.com/nic-code-list-for-services/",
+      "https://udyamregistrationform.com/date-of-incorporation-in-udyam-registration/",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-09-02T12:38:14.941266",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "Legal Entity Name",
+    "query": "DEEMOON Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-09-02T12:38:21.276856",
+    "status": "results_found"
+  },
+  {
+    "business": "DEEMOON",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T12:38:23.001230"
+  },
+  {
+    "business": "DEEMOON",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T12:38:23.001452"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "PAN",
+    "query": "DEEMOON PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.desitoolkit.in/tools/government/pan-decoder",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/"
+    ],
+    "timestamp": "2026-09-02T12:38:36.236103",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "PAN",
+    "query": "DEEMOON PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/",
+      "https://tincheck.io/india/"
+    ],
+    "timestamp": "2026-09-02T12:38:47.439614",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "GST",
+    "query": "DEEMOON GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://ksmg.co/insights/goods-services-tax/gst-registration"
+    ],
+    "timestamp": "2026-09-02T12:38:51.379190",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "Owner",
+    "query": "DEEMOON director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/jamie-dimon/",
+      "https://www.investopedia.com/jamie-dimon-6361587",
+      "https://www.britannica.com/money/Jamie-Dimon",
+      "https://www.crunchbase.com/person/steve-bennett-50ff"
+    ],
+    "timestamp": "2026-09-02T12:39:08.357028",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "Owner",
+    "query": "DEEMOON founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/soumyadeep-mukherjee/#:~:text=Soumyadeep%20Mukherjee%20is%20on%20Forbes%27%202024%2030%20Under,their%20experience%2C%20their%20asset%20summary%2C%20and%20more%20here.",
+      "https://www.xerve.in/prices/b-deemoon/s-ethnic-wear/t-kurtas-and-kurtis/g-men",
+      "https://www.forbes.com/profile/soumyadeep-mukherjee/",
+      "https://tracxn.com/d/companies/deemoon.ru/__DrCRLusXxCAKrR0gnLXGcUjXLcYpJoZuqgFEWihHDxY"
+    ],
+    "timestamp": "2026-09-02T12:39:22.711012",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEMOON",
+    "field": "Address",
+    "query": "DEEMOON registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.corporateoffice.com/",
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/learn/list-of-registrar-of-company-in-india",
+      "https://businesssearch.org/headquarters/"
+    ],
+    "timestamp": "2026-09-02T12:39:24.358227",
+    "status": "results_found"
+  }
+]

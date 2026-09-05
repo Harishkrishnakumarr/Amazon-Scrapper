@@ -1,0 +1,74 @@
+{
+  "category": "Jewellery For Men",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Fashion Frill",
+      "database_id": 230,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.fashionfrill.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Bankebihari.",
+      "database_id": 231,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918481102026",
+      "email": "bankebihariinfra@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.bankebihari.co.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "XFSAFDM-IN",
+      "database_id": 232,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "VAMA FASHIONS\u2122",
+      "database_id": 233,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917624682018",
+      "email": "emailinfo@zanet.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.vamafashions.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Ansh Vibe",
+      "database_id": 234,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910202280533",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.ansh.health/",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "category": "Computers & Accessories",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 713,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "email@yourdomain.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 714,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918197583549",
+      "email": "care@cocoblu.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Tanna Enterprise.",
+      "database_id": 715,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919724014831",
+      "email": "tannatravels2004@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tannabus.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Elem Consumer Tech Pvt Ltd",
+      "database_id": 716,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Bansal Group",
+      "database_id": 717,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919056820014",
+      "email": "bansalacademy16@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://bansalacademy.com/",
+      "status": "Verified"
+    }
+  ]
+}

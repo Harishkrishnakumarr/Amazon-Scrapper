@@ -1,0 +1,530 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FK5JF6BV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T15:09:18.878730"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T15:09:22.019666",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T15:09:26.223208"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T15:09:28.239529"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:09:36.253116",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T15:09:42.497909"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:09:45.175766",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:09:50.647367",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:09:57.681399",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:10:07.878055",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:10:15.425623",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:10:23.662161",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:10:34.132984",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T15:10:37.416998",
+    "status": "results_found"
+  },
+  {
+    "business": "Universal Store Shopping",
+    "field": "Business Name",
+    "value": "Universal Store Shopping",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A25PPWK6ORBBL1&asin=B0D5822GT3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T15:10:54.809162"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "Website",
+    "query": "Universal Store Shopping official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/"
+    ],
+    "timestamp": "2026-08-26T15:10:57.701106",
+    "status": "results_found"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "Legal Entity Name",
+    "query": "Universal Store Shopping company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/",
+      "https://www.universalstudioshollywood.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T15:11:07.080676",
+    "status": "results_found"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "PAN",
+    "query": "Universal Store Shopping PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/",
+      "https://www.universalstudioshollywood.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T15:11:29.320612",
+    "status": "results_found"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "GST",
+    "query": "Universal Store Shopping GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/",
+      "https://www.universalstudioshollywood.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T15:11:46.317309",
+    "status": "results_found"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "GST",
+    "query": "Universal Store Shopping GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/",
+      "https://www.universalstudioshollywood.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T15:11:59.318112",
+    "status": "results_found"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "Owner",
+    "query": "Universal Store Shopping director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/",
+      "https://www.universalstudioshollywood.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T15:12:02.527588",
+    "status": "results_found"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "Address",
+    "query": "Universal Store Shopping registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/",
+      "https://www.universalstudioshollywood.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T15:12:25.347320",
+    "status": "results_found"
+  },
+  {
+    "seller": "Universal Store Shopping",
+    "field": "Phone",
+    "query": "Universal Store Shopping phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://www.universalpictures.com/",
+      "https://www.universalstudioshollywood.com/web/en/us?msockid=27691c9e7c6669b129500b5f7def6841",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T15:12:42.850821",
+    "status": "results_found"
+  },
+  {
+    "business": "Geeta Enterprises Store",
+    "field": "Business Name",
+    "value": "Geeta Enterprises Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A226PF1FER2Y78&asin=B0C5X4B916&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T15:13:00.472518"
+  },
+  {
+    "seller": "Geeta Enterprises Store",
+    "field": "Website",
+    "query": "Geeta Enterprises Store official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T15:13:14.042817",
+    "status": "no_results"
+  },
+  {
+    "seller": "Geeta Enterprises Store",
+    "field": "Legal Entity Name",
+    "query": "Geeta Enterprises Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bhagavadgita.com/",
+      "https://www.holy-bhagavad-gita.org/",
+      "https://www.bhagwatgeeta.net/",
+      "https://www.learngeeta.com/"
+    ],
+    "timestamp": "2026-08-26T15:13:23.217221",
+    "status": "results_found"
+  },
+  {
+    "business": "Geeta Enterprises Store",
+    "field": "Email Address",
+    "value": "info@holy-bhagavad-gita.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.holy-bhagavad-gita.org/",
+    "timestamp": "2026-08-26T15:13:32.296272"
+  },
+  {
+    "seller": "Geeta Enterprises Store",
+    "field": "PAN",
+    "query": "Geeta Enterprises Store PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T15:13:49.206183",
+    "status": "no_results"
+  },
+  {
+    "seller": "Geeta Enterprises Store",
+    "field": "PAN",
+    "query": "Geeta Enterprises Store PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/geeta-enterprises-27aaohp7465g1zk/",
+      "https://gstverify.co.in/gst/geeta-enterprises-27aggpb9966q1zi/",
+      "https://gstserver.com/gst/10AUZPS0542A1ZV/",
+      "https://www.geetaenterprises.in/"
+    ],
+    "timestamp": "2026-08-26T15:14:17.915202",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Enterprises Store",
+    "field": "GST",
+    "query": "Geeta Enterprises Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bhagavadgita.com/",
+      "https://www.holy-bhagavad-gita.org/",
+      "https://www.bhagwatgeeta.net/",
+      "https://www.learngeeta.com/"
+    ],
+    "timestamp": "2026-08-26T15:14:25.939040",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Enterprises Store",
+    "field": "Owner",
+    "query": "Geeta Enterprises Store director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T15:15:04.395267",
+    "status": "no_results"
+  },
+  {
+    "business": "atdaraz",
+    "field": "Business Name",
+    "value": "atdaraz",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2N99915ZTUKSX&asin=B0F131F5Z9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T15:15:11.183020"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "Website",
+    "query": "atdaraz official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T15:15:24.316393",
+    "status": "no_results"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "Legal Entity Name",
+    "query": "atdaraz company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://docs.github.com/en/copilot/concepts/models/auto-model-selection"
+    ],
+    "timestamp": "2026-08-26T15:15:35.809425",
+    "status": "results_found"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "PAN",
+    "query": "atdaraz PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T15:15:54.176928",
+    "status": "no_results"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "PAN",
+    "query": "atdaraz PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T15:16:24.297161",
+    "status": "no_results"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "GST",
+    "query": "atdaraz GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T15:16:34.093140",
+    "status": "no_results"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "GST",
+    "query": "atdaraz GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-26T15:16:38.000603",
+    "status": "results_found"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "Owner",
+    "query": "atdaraz director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.google.lk/index.html",
+      "https://www.google.lk/intl/si/inputtools/try/",
+      "https://trends.google.lk/trends/",
+      "https://books.google.lk/"
+    ],
+    "timestamp": "2026-08-26T15:16:47.323097",
+    "status": "results_found"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "Owner",
+    "query": "atdaraz founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.werisebyliftingothers.in/2024/07/biography-of-ali-sarfraz-co-founding.html",
+      "https://daraz.com/who-we-are/",
+      "https://www.scribd.com/document/322542888/Farees-Shah",
+      "https://www.crunchbase.com/person/farees-shah-86c6"
+    ],
+    "timestamp": "2026-08-26T15:16:57.982540",
+    "status": "results_found"
+  },
+  {
+    "seller": "atdaraz",
+    "field": "Address",
+    "query": "atdaraz registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apa.org/",
+      "https://www.apa.org/depression-guideline/patient-health-questionnaire.pdf",
+      "https://www.apa.org/pubs/databases/psycinfo/",
+      "https://www.apa.org/about/apa/equity-diversity-inclusion/language-guidelines"
+    ],
+    "timestamp": "2026-08-26T15:17:00.749318",
+    "status": "results_found"
+  }
+]

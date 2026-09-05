@@ -1,0 +1,61 @@
+{
+  "category": "Vehicle Tools",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SABMILJAYEGA",
+      "database_id": 1051,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "27AEMFS8343E1ZO",
+      "pan": "AEMFS8343E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "CREDENCE INDUSTRIAL",
+      "database_id": 1052,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918237916162",
+      "email": "info@credence.in",
+      "gst": "27AAIFC4292N1ZX",
+      "pan": "AAIFC4292N",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1053,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ORJILO\u00ae",
+      "database_id": 1054,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@example.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

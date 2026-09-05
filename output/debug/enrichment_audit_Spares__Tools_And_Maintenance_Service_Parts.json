@@ -1,0 +1,577 @@
+[
+  {
+    "business": "Ekantik Creation",
+    "field": "Business Name",
+    "value": "Ekantik Creation",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A241MW18J4CEAW&asin=B0GCXJNM8C&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:08:44.696383"
+  },
+  {
+    "seller": "Ekantik Creation",
+    "field": "Website",
+    "query": "Ekantik Creation official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ekantik.co.tz/",
+      "https://ekantik.co.tz/shop/"
+    ],
+    "timestamp": "2026-08-27T07:08:49.901866",
+    "status": "results_found"
+  },
+  {
+    "business": "Ekantik Creation",
+    "field": "Website URL",
+    "value": "https://ekantik.co.tz/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://ekantik.co.tz/",
+    "timestamp": "2026-08-27T07:08:55.466377"
+  },
+  {
+    "seller": "Ekantik Creation",
+    "field": "Legal Entity Name",
+    "query": "Ekantik Creation company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5565190"
+    ],
+    "timestamp": "2026-08-27T07:09:15.098653",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ekantik Creation",
+    "field": "PAN",
+    "query": "Ekantik Creation PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-08-27T07:09:47.786032",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ekantik Creation",
+    "field": "GST",
+    "query": "Ekantik Creation GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.asahi.com/articles/ASR6M6RH2R6DOIPE017.html?msockid=0408cf9fe1eb6fc83aa8d85de0f36e86",
+      "https://chanto.jp.net/articles/-/1002538?display=b",
+      "https://ekitan.com/transit/shinkansen"
+    ],
+    "timestamp": "2026-08-27T07:09:54.887796",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ekantik Creation",
+    "field": "Owner",
+    "query": "Ekantik Creation director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://news.ltn.com.tw/news/politics/breakingnews/5552649",
+      "https://www.cna.com.tw/news/aloc/202608260258.aspx",
+      "https://udn.com/news/story/124984/9714877",
+      "https://today.line.me/tw/v3/article/eLROBKx"
+    ],
+    "timestamp": "2026-08-27T07:10:13.700871",
+    "status": "results_found"
+  },
+  {
+    "business": "Ekantik Creation",
+    "field": "Email Address",
+    "value": "services@cna.com.tw",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cna.com.tw/news/aloc/202608260258.aspx",
+    "timestamp": "2026-08-27T07:10:30.147747"
+  },
+  {
+    "seller": "Ekantik Creation",
+    "field": "Address",
+    "query": "Ekantik Creation registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cmoney.tw/forum/stock/2601",
+      "https://www.cmoney.tw/forum/popular/buzz?tab=popular",
+      "https://www.cmoney.tw/forum/stock/2601?s=technical-analysis",
+      "https://www.cmoney.tw/forum/stock/2601?s=institutional"
+    ],
+    "timestamp": "2026-08-27T07:10:33.533985",
+    "status": "results_found"
+  },
+  {
+    "business": "Trending Retail",
+    "field": "Business Name",
+    "value": "Trending Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NNUNKAWWNGFJ&asin=B0CVBBBMSP&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T07:10:47.496831"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Website",
+    "query": "Trending Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sanrio.com/collections/kuromi",
+      "https://kuromi.co.uk/who-is-kuromi/"
+    ],
+    "timestamp": "2026-08-27T07:10:50.218906",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Legal Entity Name",
+    "query": "Trending Retail company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:11:21.600278",
+    "status": "no_results"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "PAN",
+    "query": "Trending Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pisn.kemdiktisaintek.go.id/",
+      "https://pisn.kemdiktisaintek.go.id/login",
+      "https://pisn.kemdiktisaintek.go.id/sso/login",
+      "https://lldikti13.kemdiktisaintek.go.id/2025/10/30/cek-ijazah-kuliah-secara-online-cara-verifikasi-resmi-lewat-pisn-dan-satudikti-update-2025/"
+    ],
+    "timestamp": "2026-08-27T07:11:28.250162",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "GST",
+    "query": "Trending Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/topic/democracy",
+      "https://www.britannica.com/question/What-is-democracy",
+      "https://kids.britannica.com/kids/article/democracy/352935",
+      "https://kids.britannica.com/students/article/democracy/273962"
+    ],
+    "timestamp": "2026-08-27T07:11:39.463679",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Owner",
+    "query": "Trending Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-08-27T07:11:59.654316",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Owner",
+    "query": "Trending Retail founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:12:12.771764",
+    "status": "no_results"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Address",
+    "query": "Trending Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-08-27T07:12:15.203533",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Address",
+    "query": "Trending Retail registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://s.id/",
+      "https://home.s.id/lo/id",
+      "https://home.s.id/auth/login",
+      "https://dash.s.id/dashboard/shop"
+    ],
+    "timestamp": "2026-08-27T07:12:28.552355",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Phone",
+    "query": "Trending Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://soundcloud.com/",
+      "https://soundcloud.com/discover",
+      "https://m.soundcloud.com/activate",
+      "https://soundcouch.soundcloud.com/"
+    ],
+    "timestamp": "2026-08-27T07:12:30.230969",
+    "status": "results_found"
+  },
+  {
+    "seller": "Trending Retail",
+    "field": "Phone",
+    "query": "Trending Retail contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://peopleinretailawards.com/customer-service-trends-in-retail/",
+      "https://peopleinretailawards.com/judges/",
+      "https://peopleinretailawards.com/categories/",
+      "https://peopleinretailawards.com/faqs/"
+    ],
+    "timestamp": "2026-08-27T07:12:41.053602",
+    "status": "results_found"
+  },
+  {
+    "business": "NALINISHUBHRA RETAIL",
+    "field": "Business Name",
+    "value": "NALINISHUBHRA RETAIL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3ODAPTEVH8GYN&asin=B0GKW5VCW4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:12:47.981898"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Website",
+    "query": "NALINISHUBHRA RETAIL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://solobalapan.jawapos.com/berita-utama/2608230011/link-viral-lylia-kasir-indomaret-coolmax-7-menit-ramai-dicari-netizen-waspada-jebakan-phishing",
+      "https://intrend.id/kasir-indomaret-viral-dan-video-7-menit-full-ramai-dicari-waspada-link-palsu-yang-bisa-curi-data/"
+    ],
+    "timestamp": "2026-08-27T07:12:49.567574",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Legal Entity Name",
+    "query": "NALINISHUBHRA RETAIL company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:13:08.271773",
+    "status": "no_results"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Legal Entity Name",
+    "query": "NALINISHUBHRA RETAIL Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=69a188a215b51f3fc798e22d83802e07",
+      "https://www.inspex.in/",
+      "https://www.thecompanycheck.com/company/nalinishubhra-enterprise-llp/ABC-2408",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-08-27T07:13:20.399727",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "PAN",
+    "query": "NALINISHUBHRA RETAIL PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:13:28.932567",
+    "status": "no_results"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "PAN",
+    "query": "NALINISHUBHRA RETAIL PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://irbank.net/E03555/InterestOnDepositsOEBNK",
+      "https://reisei-fudosan.com/ja/kikan/bank-133",
+      "https://www.kabutore.biz/zaimubunseki/zaimu.html?zaimukeyword=%E9%A0%90%E9%87%91%E5%88%A9%E6%81%AFimgno52&code=8336&zaimusyorui=soneki",
+      "https://www.bank-deposits.net/MusashinoBank.html"
+    ],
+    "timestamp": "2026-08-27T07:13:33.513813",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "GST",
+    "query": "NALINISHUBHRA RETAIL GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://english.stackexchange.com/questions/215008/when-was-emoji-first-used",
+      "https://english.stackexchange.com/questions/49000/what-emotions-do-3-and-s-convey",
+      "https://english.stackexchange.com/questions/597053/current-accepted-meanings-of",
+      "https://english.stackexchange.com/questions/317617/what-is-the-difference-between-emoji-and-emoticon"
+    ],
+    "timestamp": "2026-08-27T07:13:42.995746",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "GST",
+    "query": "NALINISHUBHRA RETAIL GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://namu.wiki/w/%EC%89%B0%EB%93%A4%EB%9F%AC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8",
+      "http://www.cine21.com/movie/info/?movie_id=3204",
+      "https://namu.wiki/w/%EC%98%A4%EC%8A%A4%EC%B9%B4%20%EC%89%B0%EB%93%A4%EB%9F%AC",
+      "https://tv.apple.com/kr/movie/%E1%84%89%E1%85%B1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A5-%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3/umc.cmc.53hzoo3z0ufjb6wsxgspp2jlf"
+    ],
+    "timestamp": "2026-08-27T07:13:45.702721",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Owner",
+    "query": "NALINISHUBHRA RETAIL director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/company/nalinishubhra-enterprise-llp/ABC-2408?tab=about",
+      "https://www.thecompanycheck.com/company/nalinishubhra-enterprise-llp/ABC-2408",
+      "https://www.dnb.com/business-directory/company-profiles.nalinishubhra_enterprise_llp.244d8e4f9fc0680151ef7852fa6d4c6d.html",
+      "https://www.falconebiz.com/LLP/NALINISHUBHRA-ENTERPRISE-LLP-ABC-2408"
+    ],
+    "timestamp": "2026-08-27T07:14:00.268624",
+    "status": "results_found"
+  },
+  {
+    "business": "NALINISHUBHRA RETAIL",
+    "field": "Email Address",
+    "value": "ffice07@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/LLP/NALINISHUBHRA-ENTERPRISE-LLP-ABC-2408",
+    "timestamp": "2026-08-27T07:14:05.631383"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Owner",
+    "query": "NALINISHUBHRA RETAIL founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:14:12.868506",
+    "status": "no_results"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Address",
+    "query": "NALINISHUBHRA RETAIL registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/company/nalinishubhra-enterprise-llp/ABC-2408?tab=about",
+      "https://www.thecompanycheck.com/company/nalinishubhra-enterprise-llp/ABC-2408",
+      "https://www.dnb.com/business-directory/company-profiles.nalinishubhra_enterprise_llp.244d8e4f9fc0680151ef7852fa6d4c6d.html",
+      "https://www.falconebiz.com/LLP/NALINISHUBHRA-ENTERPRISE-LLP-ABC-2408"
+    ],
+    "timestamp": "2026-08-27T07:14:25.681816",
+    "status": "results_found"
+  },
+  {
+    "seller": "NALINISHUBHRA RETAIL",
+    "field": "Phone",
+    "query": "NALINISHUBHRA RETAIL phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.pixiv.net/tags/%E3%82%A4%E3%82%B7%E3%83%84%E3%83%96%E3%83%86",
+      "https://www.pixiv.net/tags/%E3%82%A4%E3%82%B7%E3%83%84%E3%83%96%E3%83%86/illustrations"
+    ],
+    "timestamp": "2026-08-27T07:14:38.698456",
+    "status": "results_found"
+  },
+  {
+    "business": "SABMILJAYEGA",
+    "field": "Business Name",
+    "value": "SABMILJAYEGA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A51TB8OT5KPW8&asin=B0G3L97LBT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T07:14:47.609437"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Website",
+    "query": "SABMILJAYEGA official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:14:54.652969",
+    "status": "no_results"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Legal Entity Name",
+    "query": "SABMILJAYEGA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.airnewzealand.com/en-nz",
+      "https://www.airnewzealand.com/",
+      "https://www.airnewzealand.co.nz/flights/en-nz/",
+      "https://www.airnewzealand.co.nz/flights/en-nz/flights-from-new-zealand"
+    ],
+    "timestamp": "2026-08-27T07:14:59.116445",
+    "status": "results_found"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "PAN",
+    "query": "SABMILJAYEGA PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-27T07:15:17.752975",
+    "status": "results_found"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "PAN",
+    "query": "SABMILJAYEGA PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/sabmiljayega-27AEMFS8343E1ZO/",
+      "https://www.knowyourgst.com/gst-number-search/sabmiljayega-06AEMFS8343E1ZS/",
+      "https://www.applindustries.com/uploads/Amazon%20Sabmiljayega.pdf",
+      "https://piceapp.com/gst-number-search/sabmiljayega-27aemfs8343e1zo/"
+    ],
+    "timestamp": "2026-08-27T07:15:27.811967",
+    "status": "results_found"
+  },
+  {
+    "business": "SABMILJAYEGA",
+    "field": "GST Number",
+    "value": "27AEMFS8343E1ZO",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sabmiljayega-27AEMFS8343E1ZO/",
+    "timestamp": "2026-08-27T07:15:29.498423"
+  },
+  {
+    "business": "SABMILJAYEGA",
+    "field": "PAN Number",
+    "value": "AEMFS8343E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sabmiljayega-27AEMFS8343E1ZO/",
+    "timestamp": "2026-08-27T07:15:29.498442"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Owner",
+    "query": "SABMILJAYEGA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.figma.com/",
+      "https://www.figma.com/login",
+      "https://www.figma.cool/learning-paths",
+      "https://figmachina.com/guide/"
+    ],
+    "timestamp": "2026-08-27T07:15:34.210719",
+    "status": "results_found"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Address",
+    "query": "SABMILJAYEGA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gizmodo.com/download/dropbox"
+    ],
+    "timestamp": "2026-08-27T07:15:54.097421",
+    "status": "results_found"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Address",
+    "query": "SABMILJAYEGA registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/sabmiljayega-27AEMFS8343E1ZO/",
+      "https://piceapp.com/gst-number-search/sabmiljayega-27aemfs8343e1zo/",
+      "https://www.knowyourgst.com/gst-number-search/sabmiljayega-06AEMFS8343E1ZS/",
+      "https://www.applindustries.com/uploads/Amazon%20Sabmiljayega.pdf"
+    ],
+    "timestamp": "2026-08-27T07:16:19.084579",
+    "status": "results_found"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Phone",
+    "query": "SABMILJAYEGA phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:16:31.981600",
+    "status": "no_results"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Phone",
+    "query": "SABMILJAYEGA contact phone",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:16:43.184902",
+    "status": "no_results"
+  },
+  {
+    "seller": "SABMILJAYEGA",
+    "field": "Email",
+    "query": "SABMILJAYEGA email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ilovepdf.com/",
+      "https://www.ilovepdf.com/compress_pdf",
+      "https://www.ilovepdf.io/",
+      "https://lovepdf.org/"
+    ],
+    "timestamp": "2026-08-27T07:16:51.346670",
+    "status": "results_found"
+  }
+]

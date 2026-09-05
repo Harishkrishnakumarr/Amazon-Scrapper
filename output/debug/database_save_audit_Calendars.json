@@ -1,0 +1,74 @@
+{
+  "category": "Calendars",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AccuPrints Gurgaon",
+      "database_id": 386,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911970772026",
+      "email": "mail@accuprints.in",
+      "gst": "06AURPS1867J1ZV",
+      "pan": "Not Found",
+      "website": "https://accuprints.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shakti Mart Ahmednagar",
+      "database_id": 387,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "A Pixel Perfect",
+      "database_id": 388,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912115972026",
+      "email": "support@pixelperfect.co.in",
+      "gst": "27ABDHS7109G1Z1",
+      "pan": "Not Found",
+      "website": "https://pixelperfect.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SnF shop",
+      "database_id": 389,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913399002026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://snfonlinestore.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Zoozo Artz",
+      "database_id": 390,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910202650106",
+      "email": "zoozoartz@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.zoozoartz.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

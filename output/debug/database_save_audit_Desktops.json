@@ -1,0 +1,61 @@
+{
+  "category": "Desktops",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 729,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Gupta Computer Care",
+      "database_id": 730,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918081300200",
+      "email": "info@nextias.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Anantaum_Tecnico",
+      "database_id": 731,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@mycorporateinfo.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://mycorporateinfo.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Eskay Engichem",
+      "database_id": 732,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919371020676",
+      "email": "deepak@eskayengichem.com",
+      "gst": "27AABCE4991Q1ZW",
+      "pan": "AABCE4991Q",
+      "website": "https://www.eskayengichem.com/",
+      "status": "Verified"
+    }
+  ]
+}

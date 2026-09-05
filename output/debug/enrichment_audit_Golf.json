@@ -1,0 +1,123 @@
+[
+  {
+    "business": "Golfoy-com",
+    "field": "Business Name",
+    "value": "Golfoy-com",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A31Y1MPI398XEN&asin=B07DPMKYV2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T12:48:41.608553"
+  },
+  {
+    "seller": "Golfoy-com",
+    "field": "Website",
+    "query": "Golfoy-com official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://golfoy.com/",
+      "https://golfoy.com/customer/account/"
+    ],
+    "timestamp": "2026-09-04T12:48:52.243544",
+    "status": "results_found"
+  },
+  {
+    "business": "Golfoy-com",
+    "field": "Website URL",
+    "value": "https://golfoy.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://golfoy.com/",
+    "timestamp": "2026-09-04T12:48:55.998838"
+  },
+  {
+    "seller": "Golfoy-com",
+    "field": "Legal Entity Name",
+    "query": "Golfoy-com company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://golfoy.com/",
+      "https://golfoy.com/golfoy-premieres",
+      "https://golfbuyindia.com/",
+      "https://golfoy.com/clubs.html"
+    ],
+    "timestamp": "2026-09-04T12:49:12.964898",
+    "status": "results_found"
+  },
+  {
+    "seller": "Golfoy-com",
+    "field": "PAN",
+    "query": "Golfoy-com PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://golfoy.com/",
+      "https://golfoy.com/golfoy-premieres",
+      "https://golfbuyindia.com/",
+      "https://golfoy.com/clubs.html"
+    ],
+    "timestamp": "2026-09-04T12:49:30.247444",
+    "status": "results_found"
+  },
+  {
+    "seller": "Golfoy-com",
+    "field": "GST",
+    "query": "Golfoy-com GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://golfoy.com/",
+      "https://golfoy.com/golfoy-premieres",
+      "https://golfbuyindia.com/",
+      "https://golfoy.com/clubs.html"
+    ],
+    "timestamp": "2026-09-04T12:49:52.608863",
+    "status": "results_found"
+  },
+  {
+    "seller": "Golfoy-com",
+    "field": "Owner",
+    "query": "Golfoy-com director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://golfoy.com/",
+      "https://golfoy.com/golfoy-premieres",
+      "https://golfbuyindia.com/",
+      "https://golfoy.com/clubs.html"
+    ],
+    "timestamp": "2026-09-04T12:50:03.675406",
+    "status": "results_found"
+  },
+  {
+    "seller": "Golfoy-com",
+    "field": "Address",
+    "query": "Golfoy-com registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://golfoy.com/",
+      "https://golfoy.com/golfoy-premieres",
+      "https://golfbuyindia.com/",
+      "https://golfoy.com/clubs.html"
+    ],
+    "timestamp": "2026-09-04T12:50:22.874834",
+    "status": "results_found"
+  },
+  {
+    "seller": "Golfoy-com",
+    "field": "Phone",
+    "query": "Golfoy-com phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://golfoy.com/",
+      "https://golfoy.com/golfoy-premieres",
+      "https://golfbuyindia.com/",
+      "https://golfoy.com/clubs.html"
+    ],
+    "timestamp": "2026-09-04T12:50:39.475071",
+    "status": "results_found"
+  }
+]

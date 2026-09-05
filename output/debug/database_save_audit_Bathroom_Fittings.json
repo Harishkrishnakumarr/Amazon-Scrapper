@@ -1,0 +1,74 @@
+{
+  "category": "Bathroom Fittings",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1258,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "gpt@gptoil.com",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "AAJCC9783E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Gloxy Store",
+      "database_id": 1259,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919129198298",
+      "email": "help@gloxy.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Plantex India",
+      "database_id": 1260,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918043890273",
+      "email": "cs@plantex.in",
+      "gst": "24AALCP2951M1Z1",
+      "pan": "AALCP2951M",
+      "website": "https://www.plantex.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ACUTAS STORE",
+      "database_id": 1259,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917573015366",
+      "email": "pacer@psc.uscourts.gov",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Adarsh Ent",
+      "database_id": 1261,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916364921355",
+      "email": "sales@adarshdevelopers.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.adarshdevelopers.com/",
+      "status": "Verified"
+    }
+  ]
+}

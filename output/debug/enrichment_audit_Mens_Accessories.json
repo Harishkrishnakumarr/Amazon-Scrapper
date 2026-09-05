@@ -1,0 +1,694 @@
+[
+  {
+    "business": "RAVR India",
+    "field": "Business Name",
+    "value": "RAVR India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20ZUMPRRI5G7L&asin=B0DGX12XXV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T17:27:23.748199"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Website",
+    "query": "RAVR India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/53401672/stack-name-with-docker-compose",
+      "https://stackoverflow.com/questions/37705017/create-named-docker-volume-with-docker-compose"
+    ],
+    "timestamp": "2026-08-14T17:27:25.878523",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Legal Entity Name",
+    "query": "RAVR India company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q137953963",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11160845296",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13247605853",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10287477370",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14329954094"
+    ],
+    "timestamp": "2026-08-14T17:27:29.690165",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/game/uno-online",
+      "https://www.crazygames.com/it/game/uno-online",
+      "https://kids.crazygames.com/game/four-colors-monument-edition",
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/game/table-tennis-world-tour"
+    ],
+    "timestamp": "2026-08-14T17:27:54.071081",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://services.gst.gov.in/services/searchtp",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/searchIRN",
+      "https://services.gst.gov.in/services/quicklinks/searchtxp",
+      "http://services.gst.gov.in/services/searchtpbypan"
+    ],
+    "timestamp": "2026-08-14T17:28:09.991388",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "GST",
+    "query": "RAVR India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/7184793/how-to-download-a-crx-file-from-the-chrome-web-store-for-a-given-id",
+      "https://stackoverflow.com/questions/9323936/chrome-web-store",
+      "https://stackoverflow.com/questions/24577024/install-chrome-extension-form-outside-the-chrome-web-store",
+      "https://stackoverflow.com/questions/7936277/how-to-link-to-chrome-extension-like-chrome-web-store",
+      "https://stackoverflow.com/questions/14543896/where-does-chrome-store-extensions"
+    ],
+    "timestamp": "2026-08-14T17:28:12.209201",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "GST",
+    "query": "RAVR India GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://mhfr.agristack.gov.in/",
+      "https://agristack.gov.in/",
+      "https://agristack.co.in/how-to-check-your-farmer-id-online/",
+      "https://agristack.com.in/farmer-id-card-download/",
+      "https://farmerid.co/"
+    ],
+    "timestamp": "2026-08-14T17:28:18.311575",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Owner",
+    "query": "RAVR India director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://about.youtube/",
+      "https://blog.youtube/"
+    ],
+    "timestamp": "2026-08-14T17:28:35.776336",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Owner",
+    "query": "RAVR India managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/mubaraknumann/unifideck",
+      "https://github.com/BrianLima/UWPHook",
+      "https://2018.games-cn.org/",
+      "https://ggames.com.br/",
+      "https://g.ggames.com.br/files/file/3840-arc-browse/"
+    ],
+    "timestamp": "2026-08-14T17:28:45.421721",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Address",
+    "query": "RAVR India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://signup.live.com/",
+      "https://www.office.com/login"
+    ],
+    "timestamp": "2026-08-14T17:28:59.020465",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Address",
+    "query": "RAVR India registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+      "https://www.companydetails.in/company/ravr-industries-private-limited",
+      "https://mycorporateinfo.com/business/ravr-industries-private-limited",
+      "https://www.falconebiz.com/company/RAVR-INDUSTRIES-PRIVATE-LIMITED-U17299TN2022PTC154064",
+      "https://www.instafinancials.com/company/ravr-industries-private-limited/U17299TN2022PTC154064"
+    ],
+    "timestamp": "2026-08-14T17:29:08.133086",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+    "timestamp": "2026-08-14T17:29:09.424019"
+  },
+  {
+    "business": "RAVR India",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+    "timestamp": "2026-08-14T17:29:09.424040"
+  },
+  {
+    "business": "RAVR India",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+    "timestamp": "2026-08-14T17:29:09.424045"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+    "timestamp": "2026-08-14T17:29:09.424050"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Phone",
+    "query": "RAVR India phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ome.tv/",
+      "https://ome.tv/why-ometv/",
+      "https://ometv.chat/",
+      "https://ometv.chat/search",
+      "https://www.monkey.app/talk-to-strangers/ometv.html"
+    ],
+    "timestamp": "2026-08-14T17:29:10.735518",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Phone Number",
+    "value": "+916102855173",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ome.tv/",
+    "timestamp": "2026-08-14T17:29:11.277356"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Email",
+    "query": "RAVR India email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://uucms.karnataka.gov.in/Login/Index_Eng",
+      "https://uucms.karnataka.gov.in/Login/Index",
+      "https://uucms.karnataka.gov.in/",
+      "https://uucms.karnataka.gov.in/UniversityProfile/ViewUniversityProfile",
+      "https://uucms.karnataka.gov.in/Login/Collegepage"
+    ],
+    "timestamp": "2026-08-14T17:29:12.530218",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Email Address",
+    "value": "contact-uucms.helpdesk@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://uucms.karnataka.gov.in/Login/Index_Eng",
+    "timestamp": "2026-08-14T17:29:17.021464"
+  },
+  {
+    "business": "Sjeware India",
+    "field": "Business Name",
+    "value": "Sjeware India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OZUORV1ALBIH&asin=B0BZVZYXV5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T17:29:18.694911"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "Website",
+    "query": "Sjeware India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://baike.baidu.com/item/%E5%AE%8B%E5%AE%81%E5%B3%B0/22113140",
+      "https://news.qq.com/rain/a/20260401A021GX00"
+    ],
+    "timestamp": "2026-08-14T17:29:21.514752",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "Legal Entity Name",
+    "query": "Sjeware India company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-info/csr-data-summary.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/grievance-cell.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/enquire-din-status.html",
+      "https://businesssetup.in/step-by-step-guide-to-company-registration-in-india-2025/"
+    ],
+    "timestamp": "2026-08-14T17:30:10.620570",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "Legal Entity Name",
+    "query": "Sjeware India Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kousaigirl.jp/club/detail/17.html",
+      "https://clover-kougei.com/hotelList.html",
+      "https://sajittarius.co.jp/5814/",
+      "http://royal-dateclub.com/00026/",
+      "https://premium-kosai.com/interview/3389/"
+    ],
+    "timestamp": "2026-08-14T17:30:18.844306",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "PAN",
+    "query": "Sjeware India PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m365.cloud.microsoft/?omkt=en-001&source=post_page---------------------------",
+      "https://copilot.cloud.microsoft/",
+      "http://copilot.com/?msockid=2b635c3327736eea21044b8626536f84",
+      "https://m365.cloud.microsoft/create"
+    ],
+    "timestamp": "2026-08-14T17:30:27.224441",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "PAN",
+    "query": "Sjeware India PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://news.mit.edu/topic/artificial-intelligence2",
+      "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609",
+      "https://www.sciencenews.org/article/alphago-artificial-intelligence-top-science-stories-2016",
+      "https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy",
+      "https://news.mit.edu/topic/artificial-intelligence2?type=1&page=1"
+    ],
+    "timestamp": "2026-08-14T17:30:37.081736",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "GST",
+    "query": "Sjeware India GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-14T17:30:50.286853",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "GST",
+    "query": "Sjeware India GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.daangn.com/kr/",
+      "https://chat.daangn.com/",
+      "https://www.daangn.com/kr/buy-sell/?in=%EC%84%9C%EC%B4%884%EB%8F%99-366",
+      "https://business.daangn.com/",
+      "https://business.daangn.com/knowhow/knowhow-2026-TOPS-upload/vos"
+    ],
+    "timestamp": "2026-08-14T17:30:56.571878",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "Owner",
+    "query": "Sjeware India director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.resizepixel.com/"
+    ],
+    "timestamp": "2026-08-14T17:31:13.519552",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sjeware India",
+    "field": "Owner",
+    "query": "Sjeware India managing director",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.naver.com/",
+      "https://www.naver.co.kr/index.html"
+    ],
+    "timestamp": "2026-08-14T17:31:15.967268",
+    "status": "results_found"
+  },
+  {
+    "business": "selloria",
+    "field": "Business Name",
+    "value": "selloria",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1FMNVFYUQYTH7&asin=B0CFR518WH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T17:31:18.615540"
+  },
+  {
+    "seller": "selloria",
+    "field": "Website",
+    "query": "selloria official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://selloria.in/",
+      "https://www.selloria.in/collections"
+    ],
+    "timestamp": "2026-08-14T17:31:22.071300",
+    "status": "results_found"
+  },
+  {
+    "business": "selloria",
+    "field": "Website URL",
+    "value": "https://www.selloria.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.selloria.com/",
+    "timestamp": "2026-08-14T17:31:25.552314"
+  },
+  {
+    "business": "selloria",
+    "field": "Phone Number",
+    "value": "+919700442026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.selloria.com/",
+    "timestamp": "2026-08-14T17:31:27.600044"
+  },
+  {
+    "seller": "selloria",
+    "field": "Legal Entity Name",
+    "query": "selloria company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bseindia.com/",
+      "https://www.bseindia.com/sensex/code/16",
+      "https://listing.bseindia.com/home.htm",
+      "https://befs.bseindia.com/Login.aspx",
+      "https://ibbs.bseindia.com/"
+    ],
+    "timestamp": "2026-08-14T17:31:31.734781",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "PAN",
+    "query": "selloria PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.incometaxindia.gov.in/pan",
+      "https://www.trackpan.utiitsl.com/PANONLINE/forms/TrackPan/trackApp",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.psaonline.utiitsl.com/PanPSACenters/forms/applicationCenters"
+    ],
+    "timestamp": "2026-08-14T17:31:54.850203",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "GST",
+    "query": "selloria GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-14T17:32:18.505481",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "GST",
+    "query": "selloria GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kidsongs.com/",
+      "https://kidsongs.com/shop/",
+      "https://kidsongs.com/about/",
+      "https://kidsongs.com/song/daylight-train/",
+      "https://kidsongs.com/songs-babies/"
+    ],
+    "timestamp": "2026-08-14T17:32:21.939430",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "Owner",
+    "query": "selloria director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.selloria.in/pages/faq",
+      "https://selloria.in/",
+      "https://www.ashokleyland.com/in/managementteam"
+    ],
+    "timestamp": "2026-08-14T17:32:42.824646",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "Owner",
+    "query": "selloria managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/wildlife-crossings/",
+      "https://education.nationalgeographic.org/resource/wildlife-crossings/7th-grade/",
+      "https://blog.education.nationalgeographic.org/2016/05/18/monkey-bridges-for-everyone/",
+      "https://news.nationalgeographic.org/national-geographic-society-honors-15-bold-changemakers-with-2026-wayfinder-award-presented-by-kia/",
+      "https://blog.education.nationalgeographic.org/2009/11/16/andrew_turgeon-_sense_cartography/"
+    ],
+    "timestamp": "2026-08-14T17:32:48.546764",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "Owner",
+    "query": "selloria founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/38459036",
+      "https://www.zhihu.com/column/p/20922858",
+      "https://www.zhihu.com/question/328790671",
+      "https://www.zhihu.com/question/21250211",
+      "https://www.zhihu.com/question/38684795"
+    ],
+    "timestamp": "2026-08-14T17:32:58.224716",
+    "status": "results_found"
+  },
+  {
+    "seller": "selloria",
+    "field": "Address",
+    "query": "selloria registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5519991/all",
+      "https://forum.lowyat.net/topic/5566080"
+    ],
+    "timestamp": "2026-08-14T17:32:59.384562",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B09F3RZCZW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T17:33:20.333001"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-14T17:33:21.673070",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://services.gst.gov.in/services/login",
+      "https://gstsso.nic.in/",
+      "https://www.gst.gov.in/",
+      "http://services.gst.gov.in/services/newlogin",
+      "https://www.gstlogin.in/"
+    ],
+    "timestamp": "2026-08-14T17:33:28.406763",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/"
+    ],
+    "timestamp": "2026-08-14T17:33:38.211224",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://translate.google.cn/"
+    ],
+    "timestamp": "2026-08-14T17:34:00.508275",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://lp.pigg-party.com/",
+      "https://ameblo.jp/marinazzurra/entry-12954113163.html",
+      "https://piapro.jp/",
+      "https://m-apps.qoo-app.com/ja-JP/app/1314",
+      "https://note.com/modern_ferret458/n/nf17268425386"
+    ],
+    "timestamp": "2026-08-14T17:34:03.710690",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.firgelliauto.com/blogs/mechanisms/curvic-coupling",
+      "https://www.sciencedirect.com/topics/engineering/curvic-coupling",
+      "https://engineerfix.com/how-a-curvic-coupling-works-design-function-and-applications/",
+      "https://www.mdpi.com/2075-1702/11/8/822",
+      "https://www.apexprecisiongroup.com/curvic-coupling-1088912.html"
+    ],
+    "timestamp": "2026-08-14T17:34:25.638836",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://www.affluense.ai/profile/aparesh-agarwal-retailez-private-limited-16c092"
+    ],
+    "timestamp": "2026-08-14T17:35:04.478846",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-14T17:35:13.834638",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0",
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-08-14T17:35:21.266008",
+    "status": "results_found"
+  }
+]

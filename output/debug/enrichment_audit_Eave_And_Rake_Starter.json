@@ -1,0 +1,310 @@
+[
+  {
+    "business": "SHOPY GLOW",
+    "field": "Business Name",
+    "value": "SHOPY GLOW",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1G69KET40OSHJ&asin=B0HFWL8MNJ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T14:51:03.086743"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "Website",
+    "query": "SHOPY GLOW official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/"
+    ],
+    "timestamp": "2026-08-29T14:51:04.733091",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "Legal Entity Name",
+    "query": "SHOPY GLOW company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopglowsy.com/",
+      "https://www.theglowcompany.co/",
+      "https://www.shopify.com/uk",
+      "https://www.shopify.com/"
+    ],
+    "timestamp": "2026-08-29T14:51:15.676521",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "Legal Entity Name",
+    "query": "SHOPY GLOW Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/",
+      "https://www.shopsy.in/shopsy-gsm-intrigue-store"
+    ],
+    "timestamp": "2026-08-29T14:51:28.949900",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "PAN",
+    "query": "SHOPY GLOW PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/",
+      "https://www.shopsy.in/shopsy-gsm-intrigue-store"
+    ],
+    "timestamp": "2026-08-29T14:51:30.152412",
+    "status": "results_found"
+  },
+  {
+    "business": "SHOPY GLOW",
+    "field": "Email Address",
+    "value": "support@shopsy.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.shopsy.co.in/",
+    "timestamp": "2026-08-29T14:51:32.490155"
+  },
+  {
+    "business": "SHOPY GLOW",
+    "field": "Billing Address",
+    "value": "flipkart internet private limited",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.shopsy.in/shopsy-gsm-intrigue-store",
+    "timestamp": "2026-08-29T14:51:33.294532"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "PAN",
+    "query": "SHOPY GLOW PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/",
+      "https://www.shopsy.in/shopsy-gsm-intrigue-store"
+    ],
+    "timestamp": "2026-08-29T14:51:34.578323",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "GST",
+    "query": "SHOPY GLOW GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/",
+      "https://www.shopsy.in/shopsy-gsm-intrigue-store"
+    ],
+    "timestamp": "2026-08-29T14:51:43.568946",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "GST",
+    "query": "SHOPY GLOW GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/",
+      "https://www.shopsy.in/shopsy-gsm-intrigue-store"
+    ],
+    "timestamp": "2026-08-29T14:51:49.409380",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "Owner",
+    "query": "SHOPY GLOW director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/"
+    ],
+    "timestamp": "2026-08-29T14:51:55.100913",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "Owner",
+    "query": "SHOPY GLOW founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/",
+      "https://www.shopsy.in/shopsy-gsm-intrigue-store"
+    ],
+    "timestamp": "2026-08-29T14:52:00.106598",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHOPY GLOW",
+    "field": "Phone",
+    "query": "SHOPY GLOW phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shopsy.in/",
+      "https://www.shopify.com/",
+      "https://www.shopsy.co.in/",
+      "https://www.shopsy.in/shopsy-gsm-intrigue-store"
+    ],
+    "timestamp": "2026-08-29T14:52:17.474554",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B08X7BK8B5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T14:52:29.796488"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+      "https://us.etrade.com/home/welcome-back?msockid=1a0ee86727bb6f072529ffa326cf6e81"
+    ],
+    "timestamp": "2026-08-29T14:52:31.190196",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+    "timestamp": "2026-08-29T14:53:01.840085"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications",
+      "https://express.etrade.com/etx/rtao/ma/account-types/brokerage/individual",
+      "https://us.etrade.com/e/t/accounts/sccreatemsg",
+      "https://us.etrade.com/etx/mm/fundingcenter/link-account"
+    ],
+    "timestamp": "2026-08-29T14:53:13.153202",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T14:53:32.504359",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T14:53:46.920530",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+      "https://us.etrade.com/home/welcome-back?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+      "http://www.etrade.com/global.html"
+    ],
+    "timestamp": "2026-08-29T14:53:51.859664",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/j-joe-ricketts/",
+      "https://www.cbinsights.com/company/etrade-financial/people",
+      "https://brandsownedby.com/who-owns-e-trade/",
+      "https://www.marketswiki.com/wiki/William_A._Porter"
+    ],
+    "timestamp": "2026-08-29T14:54:10.569252",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "info@cbinsights.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cbinsights.com/company/etrade-financial/people",
+    "timestamp": "2026-08-29T14:54:15.843997"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+      "https://us.etrade.com/home/welcome-back?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T14:54:23.024999",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+      "https://us.etrade.com/home/welcome-back?msockid=1a0ee86727bb6f072529ffa326cf6e81",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-29T14:54:25.448047",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "business": "Black Jones",
+    "field": "Business Name",
+    "value": "Black Jones",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2RUW1561TNTQ3&asin=B0GQBHFDVW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T11:31:34.217037"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Website",
+    "query": "Black Jones official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://blackjones.in/new-arrivals/",
+      "https://www.blankandjones.com/"
+    ],
+    "timestamp": "2026-08-25T11:31:38.894691",
+    "status": "results_found"
+  },
+  {
+    "business": "Black Jones",
+    "field": "Website URL",
+    "value": "https://www.blackjones.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.blackjones.com/",
+    "timestamp": "2026-08-25T11:31:43.143680"
+  },
+  {
+    "business": "Black Jones",
+    "field": "Phone Number",
+    "value": "+919305522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.blackjones.com/",
+    "timestamp": "2026-08-25T11:31:45.113090"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Legal Entity Name",
+    "query": "Black Jones company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color"
+    ],
+    "timestamp": "2026-08-25T11:31:57.283695",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Legal Entity Name",
+    "query": "Black Jones Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color"
+    ],
+    "timestamp": "2026-08-25T11:32:05.490271",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "PAN",
+    "query": "Black Jones PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color",
+      "https://www.finestofthefine.com/post/black-everything-to-know-about-the-color-black",
+      "https://www.imdb.com/title/tt0375611/"
+    ],
+    "timestamp": "2026-08-25T11:32:24.042974",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "PAN",
+    "query": "Black Jones PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color",
+      "https://www.finestofthefine.com/post/black-everything-to-know-about-the-color-black",
+      "https://www.imdb.com/title/tt0375611/"
+    ],
+    "timestamp": "2026-08-25T11:32:42.309360",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "GST",
+    "query": "Black Jones GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color",
+      "https://www.finestofthefine.com/post/black-everything-to-know-about-the-color-black",
+      "https://www.imdb.com/title/tt0375611/"
+    ],
+    "timestamp": "2026-08-25T11:32:49.368864",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Owner",
+    "query": "Black Jones director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color",
+      "https://www.finestofthefine.com/post/black-everything-to-know-about-the-color-black",
+      "https://www.imdb.com/title/tt0375611/"
+    ],
+    "timestamp": "2026-08-25T11:33:10.193629",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Owner",
+    "query": "Black Jones managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color",
+      "https://www.finestofthefine.com/post/black-everything-to-know-about-the-color-black",
+      "https://www.imdb.com/title/tt0375611/"
+    ],
+    "timestamp": "2026-08-25T11:33:26.603224",
+    "status": "results_found"
+  },
+  {
+    "seller": "Black Jones",
+    "field": "Address",
+    "query": "Black Jones registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://creativebooster.net/blogs/colors/shades-of-black-color",
+      "https://www.colorhexa.com/000000",
+      "https://www.britannica.com/science/black-color",
+      "https://www.finestofthefine.com/post/black-everything-to-know-about-the-color-black",
+      "https://www.imdb.com/title/tt0375611/"
+    ],
+    "timestamp": "2026-08-25T11:33:27.932966",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CTQ4RSMB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T11:33:36.508641"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/469050891439827045.html",
+      "https://zhidao.baidu.com/question/12936434.html"
+    ],
+    "timestamp": "2026-08-25T11:33:38.970108",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/company-registration-online-india?utm_source=bing&campaignId=530909812&utm_medium=ad&utm_content=&utm_term=india%20private%20limited%20company%20registration&utm_adgroup=1352401813567748&network=o&device=c&msclkid=e4a08dfda9a913f07d24e77099e58d61&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20High%20CPC%20-%202023-G20658903333%20bing&utm_term=india%20private%20limited%20company%20registration&utm_content=Ad%20group%201",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://retailez.co.in/"
+    ],
+    "timestamp": "2026-08-25T11:33:58.940266",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/279338227",
+      "https://www.zhihu.com/question/21308578"
+    ],
+    "timestamp": "2026-08-25T11:34:14.777755",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/644460211",
+      "https://www.zhihu.com/question/37455757"
+    ],
+    "timestamp": "2026-08-25T11:34:17.693550",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://la4th.org/Schedule.aspx",
+      "https://dockets.justia.com/browse/state-louisiana/noscat-7",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2026/",
+      "https://dockets.justia.com/browse/state-louisiana/court-laedce/noscat-5"
+    ],
+    "timestamp": "2026-08-25T11:34:36.634214",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pdftoimage.com/",
+      "https://pdftoimage.com/pl/",
+      "https://pdftoimage.com/ja/",
+      "https://pdftoimage.com/fr/",
+      "https://pdftoimage.com/es/"
+    ],
+    "timestamp": "2026-08-25T11:34:37.904464",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.google.co.kr/index.html",
+      "https://translate.google.co.kr/",
+      "https://www.google.co.kr/imghp",
+      "https://www.naver.com/"
+    ],
+    "timestamp": "2026-08-25T11:34:47.338210",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://services.gst.gov.in/services/login",
+      "http://services.gst.gov.in/services/newlogin",
+      "https://www.gst.gov.in/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://payment.gst.gov.in/services/login"
+    ],
+    "timestamp": "2026-08-25T11:34:54.942547",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/43734147/creating-a-pdf-from-word-with-navigation-pane-in-pdf",
+      "https://stackoverflow.com/questions/8404827/creating-word-document-from-delphi-saving-as-doc-and-as-pdf",
+      "https://community.adobe.com/questions-9/pdf-document-pages-turning-yellow-1263338",
+      "https://community.adobe.com/questions-9/word-table-borders-displaying-erratically-in-pdf-1316982",
+      "https://pt.stackoverflow.com/questions/141833/vba-como-dividir-uma-mala-direta-do-word-em-v%C3%A1rios-arquivos-pdf"
+    ],
+    "timestamp": "2026-08-25T11:34:58.602521",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://info.edgeinsights.in/company/Retailez-Private-Limited/217728",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-25T11:35:15.228142",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jalan.net/yad322106/?msockid=154f7cdb516c662a111a6b1b50a0672c",
+      "https://www.jalan.net/yad322106/access/?msockid=154f7cdb516c662a111a6b1b50a0672c",
+      "http://list.jalan.net/list/v2?id=8a1ba00c6462a8bff0224adcc1c7b34f&st=03&page=4&o=1",
+      "http://list.jalan.net/list/v2?id=702ac75ca0acda3837db2a6fcae363a4&st=02&page=18&o=1",
+      "https://www.jalan.net/keyword/key0000187/240000/?msockid=154f7cdb516c662a111a6b1b50a0672c"
+    ],
+    "timestamp": "2026-08-25T11:35:22.563607",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Business Name",
+    "value": "RAVR India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20ZUMPRRI5G7L&asin=B0DGX12XXV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T11:35:37.694770"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Website",
+    "query": "RAVR India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "http://zhidao.baidu.com/"
+    ],
+    "timestamp": "2026-08-25T11:35:39.566122",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Legal Entity Name",
+    "query": "RAVR India company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_adgroup=1355700361712359&network=o&device=c&msclkid=e65cc16ee9461e28772dabe3d996cd9a&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_content=Search%20Query%20-%20LCPC",
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+      "https://www.companydetails.in/company/ravr-industries-private-limited",
+      "https://www.falconebiz.com/company/RAVR-INDUSTRIES-PRIVATE-LIMITED-U17299TN2022PTC154064",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html"
+    ],
+    "timestamp": "2026-08-25T11:36:10.298740",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-25T11:36:30.119845",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://es.investing.com/equities/microsoft-corp",
+      "https://www.marketbeat.com/stocks/NASDAQ/MSFT/news/",
+      "https://www.marketwatch.com/investing/stock/msft",
+      "https://stockanalysis.com/stocks/msft/",
+      "https://www.morningstar.com/stocks/xnas/msft/quote"
+    ],
+    "timestamp": "2026-08-25T11:36:47.245823",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "GST",
+    "query": "RAVR India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-36078047-connection-fecebook",
+      "https://es.ccm.net/aplicaciones-e-internet/redes-sociales-y-mensajeria/2892-crear-una-cuenta-de-facebook/",
+      "https://es.ccm.net/descargas/comunicacion/5426-facebook/",
+      "https://www.zdnet.fr/facebook-4000085268q.htm"
+    ],
+    "timestamp": "2026-08-25T11:37:02.831823",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "GST",
+    "query": "RAVR India GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.powerthesaurus.org/hate/antonyms",
+      "https://www.merriam-webster.com/thesaurus/hate!",
+      "https://www.synonyms.com/antonyms/hate%20",
+      "https://promova.com/antonyms-of/hate",
+      "https://englishgrammarhere.com/opposite-words/opposite-of-hate-antonyms-of-hate-meaning-and-example-sentences/"
+    ],
+    "timestamp": "2026-08-25T11:37:12.781148",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Owner",
+    "query": "RAVR India director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://my.clevelandclinic.org/health/diseases/15831-fatty-liver-disease",
+      "https://www.osmosis.org/answers/hepatic-steatosis",
+      "https://www.medicalnewstoday.com/articles/steatosis",
+      "https://www.webmd.com/fatty-liver-disease/fatty-liver-disease",
+      "https://www.healthline.com/health/fatty-liver"
+    ],
+    "timestamp": "2026-08-25T11:37:16.911120",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Owner",
+    "query": "RAVR India managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.blackmagicdesign.com/products/davinciresolve",
+      "https://www.blackmagicdesign.com/fr/products/davinciresolve/",
+      "https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_21_New_Features_Guide.pdf?_v=1776322810000",
+      "https://documents.blackmagicdesign.com/de/UserManuals/DaVinci_Resolve_19_Reference_Manual.pdf?_v=1724310010000",
+      "https://apps.cloud.blackmagicdesign.com/davinci-resolve"
+    ],
+    "timestamp": "2026-08-25T11:37:37.221380",
+    "status": "results_found"
+  }
+]

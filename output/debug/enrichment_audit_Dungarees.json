@@ -1,0 +1,1043 @@
+[
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Business Name",
+    "value": "Woven Fabric Company.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1UPKE2816G6J9&isAmazonFulfilled=1&asin=B0CL3HV33V&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T20:32:55.996373"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Website",
+    "query": "Woven Fabric Company. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wovenfabriccompany.com/",
+      "https://www.wovenfabriccompany.net/"
+    ],
+    "timestamp": "2026-09-02T20:32:57.491658",
+    "status": "results_found"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Website URL",
+    "value": "https://www.wovenfabriccompany.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.wovenfabriccompany.in/",
+    "timestamp": "2026-09-02T20:33:08.042082"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Phone Number",
+    "value": "+918045802870",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.wovenfabriccompany.in/",
+    "timestamp": "2026-09-02T20:33:08.345865"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "GST Number",
+    "value": "27AAAFW8351Q1ZF",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.wovenfabriccompany.in/",
+    "timestamp": "2026-09-02T20:33:08.346168"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "PAN Number",
+    "value": "AAAFW8351Q",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.wovenfabriccompany.in/",
+    "timestamp": "2026-09-02T20:33:08.346175"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Legal Entity Name",
+    "query": "Woven Fabric Company. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wovenfabriccompany.in/company-information.html",
+      "https://www.legalentityidentifier.in/leicert/335800DEWUWPPK1WZT13/",
+      "https://opencorpdata.com/lei/335800DEWUWPPK1WZT13",
+      "https://www.wovenfabriccompany.net/"
+    ],
+    "timestamp": "2026-09-02T20:33:17.482336",
+    "status": "results_found"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Billing Address",
+    "value": "1st floor, gala no 109 110 111 kailash commercial complex lbs marg, vikhroli west vikhroli west, mumbai, in-mh, 400083, in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800DEWUWPPK1WZT13",
+    "timestamp": "2026-09-02T20:33:22.511518"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "City",
+    "value": "in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800DEWUWPPK1WZT13",
+    "timestamp": "2026-09-02T20:33:22.511527"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Pincode",
+    "value": "400083",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800DEWUWPPK1WZT13",
+    "timestamp": "2026-09-02T20:33:22.511529"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Legal Entity Name",
+    "query": "Woven Fabric Company. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/woven-fabric-studio-private-limited-cin-U17299WB2021PTC243999",
+      "https://www.wovenfabriccompany.net/",
+      "https://www.thecompanycheck.com/org/woven-fabric-company/33afab5468",
+      "https://www.credhive.in/ind/corporate/U17299WB2021PTC243999/WOVEN%20FABRIC%20STUDIO%20PRIVATE%20LIMITED/overview"
+    ],
+    "timestamp": "2026-09-02T20:33:25.311364",
+    "status": "results_found"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Email Address",
+    "value": "ngs_1983@rediffmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/woven-fabric-studio-private-limited-cin-U17299WB2021PTC243999",
+    "timestamp": "2026-09-02T20:33:27.127405"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Owner",
+    "query": "Woven Fabric Company. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wovenfabriccompany.com/leadership/",
+      "https://wovenfabriccompany.com/leadership/thomas-olickal/",
+      "https://www.crunchbase.com/person/sanjay-agrawal-c483",
+      "https://rocketreach.co/sanjay-agrawal-email_56682016"
+    ],
+    "timestamp": "2026-09-02T20:33:31.960850",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Owner",
+    "query": "Woven Fabric Company. founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://wovenfabriccompany.com/leadership/jomon-antony/",
+      "https://wovenfabriccompany.com/about-us/",
+      "https://www.crunchbase.com/person/sanjay-agrawal-c483",
+      "https://wovenfabrics.co.in/about2.html"
+    ],
+    "timestamp": "2026-09-02T20:33:37.020427",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0CL3HV33V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:33:41.309831"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-09-02T20:33:43.092527",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-09-02T20:33:46.934639"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-09-02T20:33:47.896037"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.falconebiz.com/company/CLICKTECH-RETAIL-PRIVATE-LIMITED-U52500WB2021PTC250343",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-09-02T20:33:52.615565",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T20:33:54.298784"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T20:33:54.298796"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T20:33:54.298798"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-02T20:33:54.298800"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-24AAJCC9783E1ZD",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-09-02T20:34:00.202370",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "GST Number",
+    "value": "24AAJCC9783E1ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-24AAJCC9783E1ZD",
+    "timestamp": "2026-09-02T20:34:01.244258"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "PAN Number",
+    "value": "AAJCC9783E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-24AAJCC9783E1ZD",
+    "timestamp": "2026-09-02T20:34:01.244273"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.masterdata.in/company/clicktech_retail_private_limited/U52500WB2021PTC250343",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ"
+    ],
+    "timestamp": "2026-09-02T20:34:03.331685",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-09-02T20:34:07.340941",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/contact-us/",
+      "https://clicktech.co.in/contact-us",
+      "https://clicktechindia.com/contact/",
+      "https://contactout.com/company/Clicktech-Retail-Private-Ltd-79151"
+    ],
+    "timestamp": "2026-09-02T20:34:10.717667",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/contact-us/",
+      "https://clicktechindia.com/contact/",
+      "https://clicktech.co.in/contact-us",
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNB36FEE8AB312B0A3&market=en-IN&src=SERPIC"
+    ],
+    "timestamp": "2026-09-02T20:34:19.392677",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0H9512MKD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:34:24.238111"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T20:34:25.488077",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:34:28.502746"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:34:28.919083"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:34:28.919368"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T20:34:33.066364",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T20:34:34.451610"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T20:34:34.451618"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T20:34:35.804293",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:34:36.361602"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:34:36.361610"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:34:36.361613"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:34:36.361615"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T20:34:42.238439"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T20:34:44.747992",
+    "status": "results_found"
+  },
+  {
+    "business": "Chase Labs",
+    "field": "Business Name",
+    "value": "Chase Labs",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A4167SNGZSXIT&isAmazonFulfilled=1&asin=B0H9512MKD&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T20:34:47.051151"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "Website",
+    "query": "Chase Labs official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.meetchase.ai/",
+      "https://chase-labs.ai/about/"
+    ],
+    "timestamp": "2026-09-02T20:34:48.348097",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "Legal Entity Name",
+    "query": "Chase Labs company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:35:35.486644",
+    "status": "no_results"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "Legal Entity Name",
+    "query": "Chase Labs Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=a3587681371511d933a81c190c5b4d56&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://find-and-update.company-information.service.gov.uk/company/15205904",
+      "https://open.endole.co.uk/insight/company/15205904-chase-labs-ltd",
+      "https://find-and-update.company-information.service.gov.uk/company/15205904/filing-history"
+    ],
+    "timestamp": "2026-09-02T20:35:37.912311",
+    "status": "results_found"
+  },
+  {
+    "business": "Chase Labs",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=a3587681371511d933a81c190c5b4d56&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-09-02T20:35:40.660497"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "PAN",
+    "query": "Chase Labs PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-information-using-pan-number-a-complete-guide",
+      "https://www.chase.com/"
+    ],
+    "timestamp": "2026-09-02T20:35:44.760088",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "PAN",
+    "query": "Chase Labs PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://open.endole.co.uk/insight/company/15205904-chase-labs-ltd",
+      "https://find-and-update.company-information.service.gov.uk/company/15205904",
+      "https://www.meetchase.ai/terms",
+      "https://find-and-update.company-information.service.gov.uk/officers/TqejcBpEUqauAumgNZZsEF2OcqI/appointments"
+    ],
+    "timestamp": "2026-09-02T20:35:47.276129",
+    "status": "results_found"
+  },
+  {
+    "business": "Chase Labs",
+    "field": "Email Address",
+    "value": "team@meetchase.ai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.meetchase.ai/terms",
+    "timestamp": "2026-09-02T20:35:48.890283"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "GST",
+    "query": "Chase Labs GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://my.gstzen.in/p/gstin-search/"
+    ],
+    "timestamp": "2026-09-02T20:35:50.704264",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "GST",
+    "query": "Chase Labs GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://gstverify.co.in/search/",
+      "https://findgst.in/gstin-by-name"
+    ],
+    "timestamp": "2026-09-02T20:35:55.646524",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "Owner",
+    "query": "Chase Labs director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.meetchase.ai/about/team",
+      "https://prospeo.io/c/chaselabs",
+      "https://rocketreach.co/chaselabs-profile_b6cf9175c7822b5d",
+      "https://www.crunchbase.com/person/itay-itzhaki"
+    ],
+    "timestamp": "2026-09-02T20:36:02.112584",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "Owner",
+    "query": "Chase Labs founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.meetchase.ai/about/team",
+      "https://www.meetchase.ai/about",
+      "https://www.crunchbase.com/person/itay-itzhaki",
+      "https://www.crunchbase.com/person/omer-koren-cd86"
+    ],
+    "timestamp": "2026-09-02T20:36:06.637554",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "Address",
+    "query": "Chase Labs registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://opengovuk.com/company/15205904",
+      "https://contactout.com/company/Chase-Labs-89226/headquarters",
+      "https://open.endole.co.uk/insight/company/15205904-chase-labs-ltd",
+      "https://contactout.com/company/Chase-Labs-89226"
+    ],
+    "timestamp": "2026-09-02T20:36:25.778095",
+    "status": "results_found"
+  },
+  {
+    "seller": "Chase Labs",
+    "field": "Address",
+    "query": "Chase Labs registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://opengovuk.com/company/15205904",
+      "https://contactout.com/company/Chase-Labs-89226/headquarters",
+      "https://contactout.com/company/Chase-Labs-89226",
+      "https://bringo.co.uk/company/40509550"
+    ],
+    "timestamp": "2026-09-02T20:36:33.298302",
+    "status": "results_found"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "Business Name",
+    "value": "KiddoPanti",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3QNJP2MM3WG92&asin=B0CLK7S7KG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:36:36.731287"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "Website",
+    "query": "KiddoPanti official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kiddopanti.com/",
+      "https://kiddopanti.com/pages/franchise-enquiry"
+    ],
+    "timestamp": "2026-09-02T20:36:37.990601",
+    "status": "results_found"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "Website URL",
+    "value": "https://www.kiddopanti.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kiddopanti.in/",
+    "timestamp": "2026-09-02T20:36:44.923721"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "Phone Number",
+    "value": "+919972924523",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kiddopanti.in/",
+    "timestamp": "2026-09-02T20:36:47.547161"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "Email Address",
+    "value": "customercare@kiddopanti.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kiddopanti.in/",
+    "timestamp": "2026-09-02T20:36:47.547322"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "Legal Entity Name",
+    "query": "KiddoPanti company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.quickcompany.in/trademarks/3356759-kiddopanti-with-device",
+      "https://kiddopanti.com/",
+      "https://kiddopanti.com/pages/franchise-enquiry",
+      "https://deepenrich.com/company/5cb8/kiddopanti-0011filmx"
+    ],
+    "timestamp": "2026-09-02T20:36:59.849579",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "Legal Entity Name",
+    "query": "KiddoPanti Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kiddopanti.com/pages/faq",
+      "https://kiddopanti.com/",
+      "https://gstverify.co.in/search/",
+      "https://www.datanyze.com/companies/kiddopanti/1335143989"
+    ],
+    "timestamp": "2026-09-02T20:37:10.858591",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "PAN",
+    "query": "KiddoPanti PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-09-02T20:37:17.123226",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "PAN",
+    "query": "KiddoPanti PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kiddopanti.com/",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://taxguru.in/income-tax/searching-pan-number-details.html",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-09-02T20:37:25.785672",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "GST",
+    "query": "KiddoPanti GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://kiddopanti.com/",
+      "https://gstverify.co.in/search/",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-rule-14a-3-day-auto-approval.html"
+    ],
+    "timestamp": "2026-09-02T20:37:34.243705",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "GST",
+    "query": "KiddoPanti GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://kiddopanti.com/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-02T20:37:39.233871",
+    "status": "results_found"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "Owner",
+    "query": "KiddoPanti director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kiddopanti.com/pages/about-us",
+      "https://tracxn.com/d/companies/kiddopanti/__xaXnldAyvXPPM3eTksERSDdpbJjiIFo6iGIcYfgSSRQ",
+      "https://rocketreach.co/kiddopanti-management_b736eab6c4327c3f",
+      "https://rocketreach.co/deepali-garg-email_17628659"
+    ],
+    "timestamp": "2026-09-02T20:37:46.846941",
+    "status": "results_found"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kiddopanti/__xaXnldAyvXPPM3eTksERSDdpbJjiIFo6iGIcYfgSSRQ",
+    "timestamp": "2026-09-02T20:37:50.178079"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kiddopanti/__xaXnldAyvXPPM3eTksERSDdpbJjiIFo6iGIcYfgSSRQ",
+    "timestamp": "2026-09-02T20:37:50.178101"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kiddopanti/__xaXnldAyvXPPM3eTksERSDdpbJjiIFo6iGIcYfgSSRQ",
+    "timestamp": "2026-09-02T20:37:50.178105"
+  },
+  {
+    "business": "KiddoPanti",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kiddopanti/__xaXnldAyvXPPM3eTksERSDdpbJjiIFo6iGIcYfgSSRQ",
+    "timestamp": "2026-09-02T20:37:50.178108"
+  },
+  {
+    "seller": "KiddoPanti",
+    "field": "Owner",
+    "query": "KiddoPanti founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kiddopanti.com/pages/about-us",
+      "https://rocketreach.co/deepali-garg-email_17628659",
+      "https://kiddopanti.com/",
+      "https://tracxn.com/d/companies/kiddopanti/__xaXnldAyvXPPM3eTksERSDdpbJjiIFo6iGIcYfgSSRQ"
+    ],
+    "timestamp": "2026-09-02T20:37:52.459777",
+    "status": "results_found"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "Business Name",
+    "value": "Pants Theory Private Limited",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1ALQA7H9DZVRM&isAmazonFulfilled=0&asin=B08LKKNTMS&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T20:37:56.889919"
+  },
+  {
+    "seller": "Pants Theory Private Limited",
+    "field": "Website",
+    "query": "Pants Theory Private Limited official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://panttheory.com/",
+      "https://panttheory.com/collections/frontpage"
+    ],
+    "timestamp": "2026-09-02T20:37:58.303805",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pants Theory Private Limited",
+    "field": "Legal Entity Name",
+    "query": "Pants Theory Private Limited company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.instafinancials.com/company/pants-theory-private-limited-U51909WB2019PTC232027/company-overview",
+      "https://www.companydetails.in/company/pants-theory-private-limited",
+      "https://tracxn.com/d/legal-entities/india/pants-theory-private-limited/__pSD1hM9S4fOUGv8n5HoA-COZFW8l6ditArmP6d2iWAw",
+      "https://www.thecompanycheck.com/company/pants-theory-private-limited/U51909WB2019PTC232027"
+    ],
+    "timestamp": "2026-09-02T20:38:02.485288",
+    "status": "results_found"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "Email Address",
+    "value": "cloftlifestyle@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/company/pants-theory-private-limited-U51909WB2019PTC232027/company-overview",
+    "timestamp": "2026-09-02T20:38:03.583474"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/pants-theory-private-limited/__pSD1hM9S4fOUGv8n5HoA-COZFW8l6ditArmP6d2iWAw",
+    "timestamp": "2026-09-02T20:39:25.287947"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/pants-theory-private-limited/__pSD1hM9S4fOUGv8n5HoA-COZFW8l6ditArmP6d2iWAw",
+    "timestamp": "2026-09-02T20:39:25.287957"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/pants-theory-private-limited/__pSD1hM9S4fOUGv8n5HoA-COZFW8l6ditArmP6d2iWAw",
+    "timestamp": "2026-09-02T20:39:25.287959"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/pants-theory-private-limited/__pSD1hM9S4fOUGv8n5HoA-COZFW8l6ditArmP6d2iWAw",
+    "timestamp": "2026-09-02T20:39:25.287962"
+  },
+  {
+    "seller": "Pants Theory Private Limited",
+    "field": "PAN",
+    "query": "Pants Theory Private Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/pants-theory-private-limited/__pSD1hM9S4fOUGv8n5HoA-COZFW8l6ditArmP6d2iWAw",
+      "https://www.knowyourgst.com/gst-number-search/pants-theory-private-limited-27AAKCP5603K1Z5/",
+      "https://fnshiftsolutions.com/gstin-search/pants-theory-private-limited-27AAKCP5603K1Z5",
+      "https://www.knowyourgst.com/gst-number-search/pants-theory-private-limited-29AAKCP5603K1Z1/"
+    ],
+    "timestamp": "2026-09-02T20:39:26.778940",
+    "status": "results_found"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "GST Number",
+    "value": "27AAKCP5603K1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/pants-theory-private-limited-27AAKCP5603K1Z5/",
+    "timestamp": "2026-09-02T20:39:29.729554"
+  },
+  {
+    "business": "Pants Theory Private Limited",
+    "field": "PAN Number",
+    "value": "AAKCP5603K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/pants-theory-private-limited-27AAKCP5603K1Z5/",
+    "timestamp": "2026-09-02T20:39:29.729565"
+  },
+  {
+    "seller": "Pants Theory Private Limited",
+    "field": "Owner",
+    "query": "Pants Theory Private Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/pants-theory-private-limited/__pSD1hM9S4fOUGv8n5HoA-COZFW8l6ditArmP6d2iWAw",
+      "https://www.quickcompany.in/company/pants-theory-private-limited",
+      "https://www.emis.com/php/company-profile/IN/Pants_Theory_Private_Limited_en_9581971.html",
+      "https://www.companydetails.in/company/pants-theory-private-limited"
+    ],
+    "timestamp": "2026-09-02T20:39:31.019880",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pants Theory Private Limited",
+    "field": "Owner",
+    "query": "Pants Theory Private Limited founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:39:49.301729",
+    "status": "no_results"
+  },
+  {
+    "seller": "Pants Theory Private Limited",
+    "field": "Phone",
+    "query": "Pants Theory Private Limited phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:39:49.805415",
+    "status": "no_results"
+  },
+  {
+    "seller": "Pants Theory Private Limited",
+    "field": "Phone",
+    "query": "Pants Theory Private Limited contact phone",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:39:50.356280",
+    "status": "no_results"
+  }
+]

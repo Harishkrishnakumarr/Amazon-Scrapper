@@ -1,0 +1,434 @@
+[
+  {
+    "business": "FSN Brands",
+    "field": "Business Name",
+    "value": "FSN Brands",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2WIRL6MD57LE9&asin=B0B5MGBDHZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T17:09:17.598246"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "Website",
+    "query": "FSN Brands official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://fsn9.com/",
+      "https://www.nykaa.com/subsidiaries"
+    ],
+    "timestamp": "2026-08-20T17:09:19.234227",
+    "status": "results_found"
+  },
+  {
+    "business": "FSN Brands",
+    "field": "Website URL",
+    "value": "https://www.nykaa.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.nykaa.com/subsidiaries",
+    "timestamp": "2026-08-20T17:09:39.032468"
+  },
+  {
+    "business": "FSN Brands",
+    "field": "Phone Number",
+    "value": "+915002152520",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.nykaa.com/",
+    "timestamp": "2026-08-20T17:09:42.845477"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "Legal Entity Name",
+    "query": "FSN Brands company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.companydetails.in/company/fsn-brands-marketing-private-limited#:~:text=The%20Corporate%20Identification%20Number%20%28CIN%29%20is%20U74120MH2015PTC262096%20and,capital%20is%20%E2%82%B920000000%20and%20paid-up%20capital%20is%20%E2%82%B910100000.",
+      "https://tracxn.com/d/legal-entities/india/fsn-brands-marketing-private-limited/__5Sy1tNubq6yJ-COiyEg6gnaOOu9UImaK42zWId3YrnA",
+      "https://www.zauba.company/company/fsn_brands_marketing_private_limited/U74120MH2015PTC262096",
+      "https://www.companydetails.in/company/fsn-brands-marketing-private-limited",
+      "https://www.falconebiz.com/company/FSN-BRANDS-MARKETING-PRIVATE-LIMITED-U74120MH2015PTC262096"
+    ],
+    "timestamp": "2026-08-20T17:09:54.290428",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "PAN",
+    "query": "FSN Brands PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/40021998?sort=created",
+      "https://www.zhihu.com/question/23193517"
+    ],
+    "timestamp": "2026-08-20T17:10:17.344131",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "PAN",
+    "query": "FSN Brands PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "https://www.solveyourtech.com/how-to-get-help-in-windows-11-a-comprehensive-guide-3/",
+      "https://mspoweruser.com/how-to-get-help-in-windows-11/"
+    ],
+    "timestamp": "2026-08-20T17:10:26.314611",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "PAN",
+    "query": "FSN Brands PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://soso-forum.tistory.com/6",
+      "https://www.zhihu.com/topic/19804452/intro",
+      "https://www.zhihu.com/question/19874329",
+      "https://www.zhihu.com/question/322530827",
+      "https://www.zhihu.com/tardis/bd/ans/2798147623"
+    ],
+    "timestamp": "2026-08-20T17:10:32.071784",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "GST",
+    "query": "FSN Brands GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5519991",
+      "https://forum.lowyat.net/topic/5566080"
+    ],
+    "timestamp": "2026-08-20T17:10:36.908670",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "GST",
+    "query": "FSN Brands GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/",
+      "https://notegpt.io/ai-chat"
+    ],
+    "timestamp": "2026-08-20T17:10:56.414660",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "Owner",
+    "query": "FSN Brands director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mizuhobank.co.jp/takarakuji/check/loto/loto6/index.html",
+      "https://en.lottolyzer.com/home/japan/lotto-6"
+    ],
+    "timestamp": "2026-08-20T17:10:57.976628",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "Owner",
+    "query": "FSN Brands managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-20T17:11:04.953887",
+    "status": "results_found"
+  },
+  {
+    "seller": "FSN Brands",
+    "field": "Owner",
+    "query": "FSN Brands founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/5552ef47a3694b518ffbc9d3.html",
+      "http://jingyan.baidu.com",
+      "http://jingyan.baidu.com//list/10",
+      "http://jingyan.baidu.com//list/11"
+    ],
+    "timestamp": "2026-08-20T17:11:20.565252",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0GRHVCGNV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T17:11:21.129774"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgroup.biz/",
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w"
+    ],
+    "timestamp": "2026-08-20T17:11:22.924551",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-20T17:11:27.504196"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:11:27.977777"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:11:28.008945"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:11:28.008961"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:11:28.008966"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:11:28.008971"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://golegally.com/mca-company-search",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-20T17:11:33.198306",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gigafile.nu/",
+      "https://gigast.gigafile.nu/",
+      "https://member.gigafile.nu/mypage/inquiry/",
+      "https://news.gigafile.nu/?page",
+      "https://speed.gigafile.nu/giga-202602/"
+    ],
+    "timestamp": "2026-08-20T17:11:41.989010",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://incometaxindia.gov.in/pan-verification"
+    ],
+    "timestamp": "2026-08-20T17:11:54.833750",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.indiaratings.co.in/pressrelease/78730",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://process.instafinancials.com/insta-tools/CIN-PAN.html"
+    ],
+    "timestamp": "2026-08-20T17:12:05.502452",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pizzahut.com.my/",
+      "https://www.dominos.com.my/",
+      "https://uspizza.my/",
+      "https://www.pizzahut.com.my/products",
+      "https://says.com/my/makan/pizza-places-in-kl-selangor"
+    ],
+    "timestamp": "2026-08-20T17:12:16.582619",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://claude.ai/",
+      "https://assets.claude.ai/brand/artifacts/solutions/security/claude_developer_platform.html",
+      "https://claude.ai/login-Claude",
+      "https://assets.claude.ai/brand/artifacts/platform/Ecosystem/eco-excel-contracts.html",
+      "https://downloads.claude.ai/claude-code/apt/stable/dists/stable/InRelease"
+    ],
+    "timestamp": "2026-08-20T17:12:30.157076",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/rk-worldinfocom-private-limited-19aaecr0564m1z0/",
+      "https://piceapp.com/gst-number-search/rk-worldinfocom-private-limited-29aaecr0564m2zy/",
+      "https://www.knowyourgst.com/gst-number-search/rk-worldinfocom-private-limited-29AAECR0564M2ZY/",
+      "https://www.mastersindia.co/gst-search/?name=rk-worldinfocom-private-limited&gstin=06AAECR0564M1Z7",
+      "https://www.knowyourgst.com/gst-number-search/rk-worldinfocom-private-limited-33AAECR0564M1ZA/"
+    ],
+    "timestamp": "2026-08-20T17:12:38.639522",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.zoominfo.com/c/rk-worldinfocom-private-ltd/1157501461",
+      "https://www.inspex.in/",
+      "https://rkgroup.biz/leadership-team/"
+    ],
+    "timestamp": "2026-08-20T17:12:39.834394",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/"
+    ],
+    "timestamp": "2026-08-20T17:12:46.362025",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.zoominfo.com/c/rk-worldinfocom-private-ltd/1157501461",
+      "https://www.indiaratings.co.in/pressrelease/78730",
+      "https://rkgroup.biz/leadership-team/"
+    ],
+    "timestamp": "2026-08-20T17:12:52.454422",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Email",
+    "query": "RK World Infocom Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.zoominfo.com/c/rk-worldinfocom-private-ltd/1157501461",
+      "https://www.indiaratings.co.in/pressrelease/78730"
+    ],
+    "timestamp": "2026-08-20T17:12:59.232913",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "infogrp@indiaratings.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiaratings.co.in/pressrelease/78730",
+    "timestamp": "2026-08-20T17:13:01.778281"
+  }
+]

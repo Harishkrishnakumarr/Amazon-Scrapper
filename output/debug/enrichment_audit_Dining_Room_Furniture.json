@@ -1,0 +1,613 @@
+[
+  {
+    "business": "KLAXON",
+    "field": "Business Name",
+    "value": "KLAXON",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AF1DZQY1HF6VU&asin=B0H1D59WX8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T17:16:39.583642"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "Website",
+    "query": "KLAXON official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.pexels.com/search/sunset/",
+      "https://pixabay.com/images/search/sunset/"
+    ],
+    "timestamp": "2026-08-15T17:16:41.410179",
+    "status": "results_found"
+  },
+  {
+    "business": "KLAXON",
+    "field": "Website URL",
+    "value": "https://www.klaxon.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.klaxon.in/",
+    "timestamp": "2026-08-15T17:16:50.940123"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "Legal Entity Name",
+    "query": "KLAXON company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "http://zhidao.baidu.com/",
+      "https://zhidao.baidu.com/question/136956635.html",
+      "https://www.zhihu.com/question/21040260",
+      "https://www.zhihu.com/question/451550546"
+    ],
+    "timestamp": "2026-08-15T17:17:10.800042",
+    "status": "results_found"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "PAN",
+    "query": "KLAXON PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T17:17:54.853768",
+    "status": "no_results"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "PAN",
+    "query": "KLAXON PAN",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T17:17:56.019461",
+    "status": "no_results"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "PAN",
+    "query": "KLAXON PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T17:17:57.071856",
+    "status": "no_results"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "GST",
+    "query": "KLAXON GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/373322044",
+      "https://www.zhihu.com/question/382486986"
+    ],
+    "timestamp": "2026-08-15T17:17:58.819536",
+    "status": "results_found"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "GST",
+    "query": "KLAXON GSTIN",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T17:18:18.158580",
+    "status": "no_results"
+  },
+  {
+    "seller": "KLAXON",
+    "field": "Owner",
+    "query": "KLAXON director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://www.asiaodysseytravel.com/vietnam/food.html",
+      "https://www.tasteatlas.com/best-rated-street-food-in-vietnam"
+    ],
+    "timestamp": "2026-08-15T17:18:19.818177",
+    "status": "results_found"
+  },
+  {
+    "business": "PAAM WOOD",
+    "field": "Business Name",
+    "value": "PAAM WOOD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2O594EIG6SBYU&asin=B0HCNGDSC9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T17:18:42.827010"
+  },
+  {
+    "seller": "PAAM WOOD",
+    "field": "Website",
+    "query": "PAAM WOOD official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/",
+      "https://onlineservices.proteantech.in/paam/machineRegistration.html"
+    ],
+    "timestamp": "2026-08-15T17:18:44.058402",
+    "status": "results_found"
+  },
+  {
+    "business": "PAAM WOOD",
+    "field": "Website URL",
+    "value": "https://www.paamwood.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.paamwood.com/",
+    "timestamp": "2026-08-15T17:18:52.430731"
+  },
+  {
+    "business": "PAAM WOOD",
+    "field": "Phone Number",
+    "value": "+914520182024",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.paamwood.com/",
+    "timestamp": "2026-08-15T17:18:56.392975"
+  },
+  {
+    "business": "PAAM WOOD",
+    "field": "Email Address",
+    "value": "paamwoods@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.paamwood.com/",
+    "timestamp": "2026-08-15T17:18:56.393157"
+  },
+  {
+    "seller": "PAAM WOOD",
+    "field": "Legal Entity Name",
+    "query": "PAAM WOOD company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/",
+      "https://onlineservices.proteantech.in/paam/machineRegistration.html",
+      "https://paampro.proteantech.in/web-mpm/login",
+      "https://mydigitalsevas.com/aa/nsdl_cor.php",
+      "https://mydigitalsevas.com/aa/nsdl_cor1.php"
+    ],
+    "timestamp": "2026-08-15T17:19:31.629179",
+    "status": "results_found"
+  },
+  {
+    "seller": "PAAM WOOD",
+    "field": "PAN",
+    "query": "PAAM WOOD PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/",
+      "https://onlineservices.proteantech.in/paam/machineRegistration.html",
+      "https://paampro.proteantech.in/web-mpm/login",
+      "https://mydigitalsevas.com/aa/nsdl_cor.php",
+      "https://mydigitalsevas.com/aa/nsdl_cor1.php"
+    ],
+    "timestamp": "2026-08-15T17:19:53.765683",
+    "status": "results_found"
+  },
+  {
+    "seller": "PAAM WOOD",
+    "field": "GST",
+    "query": "PAAM WOOD GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.symbolab.com/",
+      "https://www.assignments4u.com/how-two-plus-two-equals-five/",
+      "https://www.calculatorsoup.com/calculators/math/math.php",
+      "https://www.calculator.io/integer-calculator/",
+      "https://www.calculator.net/math-calculator.html"
+    ],
+    "timestamp": "2026-08-15T17:20:23.536916",
+    "status": "results_found"
+  },
+  {
+    "seller": "PAAM WOOD",
+    "field": "GST",
+    "query": "PAAM WOOD GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/",
+      "https://onlineservices.proteantech.in/paam/machineRegistration.html",
+      "https://paampro.proteantech.in/web-mpm/login",
+      "https://mydigitalsevas.com/aa/nsdl_cor.php",
+      "https://mydigitalsevas.com/aa/nsdl_cor1.php"
+    ],
+    "timestamp": "2026-08-15T17:20:42.561752",
+    "status": "results_found"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Business Name",
+    "value": "Furniture Factory Outlet",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A103DCFQN1T61Q&asin=B0H72FQ2WT&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T17:20:42.875079"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Website",
+    "query": "Furniture Factory Outlet official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.pepperfry.com/",
+      "https://www.woodenstreet.com/"
+    ],
+    "timestamp": "2026-08-15T17:20:44.208131",
+    "status": "results_found"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Website URL",
+    "value": "https://www.furniturefactoryoutlet.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.furniturefactoryoutlet.in/",
+    "timestamp": "2026-08-15T17:20:53.203423"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Phone Number",
+    "value": "+919846180055",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.furniturefactoryoutlet.in/",
+    "timestamp": "2026-08-15T17:20:53.572658"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Legal Entity Name",
+    "query": "Furniture Factory Outlet company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pepperfry.com/",
+      "https://www.woodenstreet.com/",
+      "https://www.urbanladder.com/",
+      "https://www.woodenstreet.com/furniture-store-borivali-mumbai",
+      "https://www.ikea.com/in/en/?msockid=382c1c47c282633018de0bf1c36b6258"
+    ],
+    "timestamp": "2026-08-15T17:20:57.620468",
+    "status": "results_found"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Legal Entity Name",
+    "query": "Furniture Factory Outlet Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pepperfry.com/",
+      "https://www.woodenstreet.com/",
+      "https://www.urbanladder.com/",
+      "https://www.woodenstreet.com/furniture-store-borivali-mumbai",
+      "https://www.ikea.com/in/en/?msockid=382c1c47c282633018de0bf1c36b6258"
+    ],
+    "timestamp": "2026-08-15T17:21:11.992388",
+    "status": "results_found"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "PAN",
+    "query": "Furniture Factory Outlet PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pepperfry.com/",
+      "https://www.woodenstreet.com/",
+      "https://www.urbanladder.com/",
+      "https://www.woodenstreet.com/furniture-store-borivali-mumbai",
+      "https://www.ikea.com/in/en/?msockid=382c1c47c282633018de0bf1c36b6258"
+    ],
+    "timestamp": "2026-08-15T17:21:18.544729",
+    "status": "results_found"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "GST",
+    "query": "Furniture Factory Outlet GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pepperfry.com/",
+      "https://www.woodenstreet.com/",
+      "https://www.urbanladder.com/",
+      "https://www.woodenstreet.com/furniture-store-borivali-mumbai",
+      "https://www.ikea.com/in/en/?msockid=382c1c47c282633018de0bf1c36b6258"
+    ],
+    "timestamp": "2026-08-15T17:21:40.603197",
+    "status": "results_found"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Owner",
+    "query": "Furniture Factory Outlet director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cbinsights.com/company/furniture-factory-outlet/people",
+      "https://kdhnews.com/business/local-furniture-store-owner-carries-on-his-family-s-legacy/article_a2e40a92-7467-11e5-80b6-9324001ba9d6.html",
+      "https://www.signalhire.com/profiles/ramakrishnan-lakshmanan%27s-email/205035164",
+      "https://www.datanyze.com/companies/furniture-factory-outlet/551491478",
+      "https://pennsylvaniadb.com/company/2913843/furniture-factory-outlet-inc"
+    ],
+    "timestamp": "2026-08-15T17:22:06.328963",
+    "status": "results_found"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Address",
+    "query": "Furniture Factory Outlet registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pepperfry.com/",
+      "https://www.woodenstreet.com/",
+      "https://www.urbanladder.com/",
+      "https://www.woodenstreet.com/furniture-store-borivali-mumbai",
+      "https://www.ikea.com/in/en/?msockid=382c1c47c282633018de0bf1c36b6258"
+    ],
+    "timestamp": "2026-08-15T17:22:20.563282",
+    "status": "results_found"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Email",
+    "query": "Furniture Factory Outlet email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pepperfry.com/",
+      "https://www.woodenstreet.com/",
+      "https://www.urbanladder.com/",
+      "https://www.woodenstreet.com/furniture-store-borivali-mumbai",
+      "https://www.ikea.com/in/en/?msockid=382c1c47c282633018de0bf1c36b6258"
+    ],
+    "timestamp": "2026-08-15T17:22:43.902734",
+    "status": "results_found"
+  },
+  {
+    "business": "VeLivings",
+    "field": "Business Name",
+    "value": "VeLivings",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3L176CBAUNUAI&asin=B0GW8Y1GPP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T17:22:45.609332"
+  },
+  {
+    "seller": "VeLivings",
+    "field": "Website",
+    "query": "VeLivings official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing"
+    ],
+    "timestamp": "2026-08-15T17:22:49.861661",
+    "status": "results_found"
+  },
+  {
+    "business": "VeLivings",
+    "field": "Website URL",
+    "value": "https://www.velivings.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.velivings.com/",
+    "timestamp": "2026-08-15T17:22:57.607472"
+  },
+  {
+    "business": "VeLivings",
+    "field": "Phone Number",
+    "value": "+913310222026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.velivings.com/",
+    "timestamp": "2026-08-15T17:23:00.371096"
+  },
+  {
+    "business": "VeLivings",
+    "field": "Email Address",
+    "value": "velivings@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.velivings.com/",
+    "timestamp": "2026-08-15T17:23:00.378280"
+  },
+  {
+    "seller": "VeLivings",
+    "field": "Legal Entity Name",
+    "query": "VeLivings company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tnreginet.gov.in/portal/web?requestType=ApplicationRH&actionVal=openHelpDtls&screenId=114&formId=LandRegistrationForm&helpId=aStkdjBmNFRlbnFpYjBoVk5wdzBNZz09",
+      "https://tnreginet.gov.in/portal/",
+      "https://secretaryofstate.com/",
+      "https://velivings.com/",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-08-15T17:23:22.257875",
+    "status": "results_found"
+  },
+  {
+    "seller": "VeLivings",
+    "field": "PAN",
+    "query": "VeLivings PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://velivings.com/",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://incometaxindia.gov.in/pan",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html"
+    ],
+    "timestamp": "2026-08-15T17:23:43.441082",
+    "status": "results_found"
+  },
+  {
+    "seller": "VeLivings",
+    "field": "PAN",
+    "query": "VeLivings PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wotif.com/?msockid=382c1c47c282633018de0bf1c36b6258",
+      "https://www.airbnb.com.au/",
+      "https://www.booking.com/?msockid=382c1c47c282633018de0bf1c36b6258",
+      "https://www.trivago.com.au/?msockid=382c1c47c282633018de0bf1c36b6258"
+    ],
+    "timestamp": "2026-08-15T17:23:57.211445",
+    "status": "results_found"
+  },
+  {
+    "seller": "VeLivings",
+    "field": "GST",
+    "query": "VeLivings GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-15T17:24:13.388269",
+    "status": "results_found"
+  },
+  {
+    "seller": "VeLivings",
+    "field": "GST",
+    "query": "VeLivings GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://help.pandora.com/s/?language=en_US",
+      "https://www.reddit.com/r/Roms/comments/og0wg0/bios_and_mcpx_rom_files_for_xemu/",
+      "https://www.reddit.com/user/PandoraSkye/",
+      "https://www.zhihu.com/people/PandoraEartha"
+    ],
+    "timestamp": "2026-08-15T17:24:28.775644",
+    "status": "results_found"
+  },
+  {
+    "seller": "VeLivings",
+    "field": "Owner",
+    "query": "VeLivings director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.reddit.com/r/writing/"
+    ],
+    "timestamp": "2026-08-15T17:24:30.360948",
+    "status": "results_found"
+  },
+  {
+    "business": "DEMIHEES",
+    "field": "Business Name",
+    "value": "DEMIHEES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3J73ANPKQXC2P&asin=B0H5CBDMLG&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T17:24:46.994749"
+  },
+  {
+    "seller": "DEMIHEES",
+    "field": "Website",
+    "query": "DEMIHEES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "http://zhidao.baidu.com/"
+    ],
+    "timestamp": "2026-08-15T17:25:01.411303",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEMIHEES",
+    "field": "Legal Entity Name",
+    "query": "DEMIHEES company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=150098&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=3c19219b8b4614d5849b4b1bd88e6952&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "http://www.shopperapproved.com/reviews/IncFile.com/?IG=0afdd8e44183447da8000ceb4770091f",
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=Company%20registration%20online&utm_adgroup=1357898695889625&network=o&device=c&msclkid=b3e26d15127111fc0f65079541b99f81&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=Company%20registration%20online&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://entitysearch.us/",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-15T17:25:56.342956",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEMIHEES",
+    "field": "PAN",
+    "query": "DEMIHEES PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/reddit/wiki/index/",
+      "https://www.reddit.com/r/readit/",
+      "https://www.reddit.com/r/Naked/",
+      "https://www.reddit.com/r/Wife/",
+      "https://www.reddit.com/r/ItaliaPersonalFinance/"
+    ],
+    "timestamp": "2026-08-15T17:26:07.333679",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEMIHEES",
+    "field": "PAN",
+    "query": "DEMIHEES PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/Alishahryar1/free-claude-code",
+      "https://github.com/multica-ai/andrej-karpathy-skills",
+      "https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing",
+      "https://cellphones.com.vn/sforum/cach-khac-phuc-claude-bi-loi",
+      "https://www.zhihu.com/question/2058191110569026302"
+    ],
+    "timestamp": "2026-08-15T17:26:25.088970",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEMIHEES",
+    "field": "GST",
+    "query": "DEMIHEES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "https://zhidao.baidu.com/question/324109290.html",
+      "https://www.bdgest.com/sorties_comics",
+      "https://www.sps-forum.de/threads/plc-meldung-aus-textliste-erstellen.107164/",
+      "https://www.bdgest.com/previews"
+    ],
+    "timestamp": "2026-08-15T17:26:27.606636",
+    "status": "results_found"
+  }
+]

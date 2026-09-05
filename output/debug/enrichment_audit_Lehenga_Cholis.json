@@ -1,0 +1,896 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0GZKHFZ43&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T23:41:37.492478"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-09-04T23:41:39.373699",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.rattanindia.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.rattanindia.com/cocoblu/",
+    "timestamp": "2026-09-04T23:42:00.728979"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "rel@rattanindia.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.rattanindia.com/contact",
+    "timestamp": "2026-09-04T23:42:03.997737"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:42:05.840709",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:42:16.798240",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:42:22.410282",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:42:38.008311",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:42:44.116677",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:42:51.732288",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-09-04T23:43:06.832828",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-09-04T23:43:08.228195",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-09-04T23:43:12.047765",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:43:16.132866",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-09-04T23:43:20.989563",
+    "status": "results_found"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "Business Name",
+    "value": "Suppar Sleave",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SGX3V2VTTJF5&asin=B0G5H2JHLF&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T23:43:24.615024"
+  },
+  {
+    "seller": "Suppar Sleave",
+    "field": "Website",
+    "query": "Suppar Sleave official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.futura-sciences.com/sciences/actualites/"
+    ],
+    "timestamp": "2026-09-04T23:43:26.364142",
+    "status": "results_found"
+  },
+  {
+    "seller": "Suppar Sleave",
+    "field": "Legal Entity Name",
+    "query": "Suppar Sleave company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/download-official-windows-11-iso-file-from-microsoft.1009/"
+    ],
+    "timestamp": "2026-09-04T23:43:30.111470",
+    "status": "results_found"
+  },
+  {
+    "seller": "Suppar Sleave",
+    "field": "Legal Entity Name",
+    "query": "Suppar Sleave Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/SUPPAR-SLEAVE-24AIJPL6790R1ZC/",
+      "https://piceapp.com/gst-number-search/suppar-sleave-24aijpl6790r1zc/",
+      "https://www.indiafilings.com/company-registration",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-04T23:43:38.227365",
+    "status": "results_found"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "GST Number",
+    "value": "24AIJPL6790R1ZC",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SUPPAR-SLEAVE-24AIJPL6790R1ZC/",
+    "timestamp": "2026-09-04T23:43:38.883347"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "PAN Number",
+    "value": "AIJPL6790R",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SUPPAR-SLEAVE-24AIJPL6790R1ZC/",
+    "timestamp": "2026-09-04T23:43:38.883360"
+  },
+  {
+    "seller": "Suppar Sleave",
+    "field": "Owner",
+    "query": "Suppar Sleave director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://lextechsuite.com/TM--SUPPAR-SLEAVE--class-35--3691242",
+      "https://tracxn.com/d/companies/sleave/__tVQjDh0KBj0tdnw6N_2_NI2C2CkNI6nkWdC9aHywovY",
+      "https://piceapp.com/gst-number-search/suppar-sleave-24aijpl6790r1zc/",
+      "https://companydata.com/business-owner-search/"
+    ],
+    "timestamp": "2026-09-04T23:43:49.064349",
+    "status": "results_found"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/sleave/__tVQjDh0KBj0tdnw6N_2_NI2C2CkNI6nkWdC9aHywovY",
+    "timestamp": "2026-09-04T23:43:50.967385"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/sleave/__tVQjDh0KBj0tdnw6N_2_NI2C2CkNI6nkWdC9aHywovY",
+    "timestamp": "2026-09-04T23:43:50.967401"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/sleave/__tVQjDh0KBj0tdnw6N_2_NI2C2CkNI6nkWdC9aHywovY",
+    "timestamp": "2026-09-04T23:43:50.967404"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/sleave/__tVQjDh0KBj0tdnw6N_2_NI2C2CkNI6nkWdC9aHywovY",
+    "timestamp": "2026-09-04T23:43:50.967408"
+  },
+  {
+    "seller": "Suppar Sleave",
+    "field": "Owner",
+    "query": "Suppar Sleave founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://lextechsuite.com/TM--SUPPAR-SLEAVE--class-35--3691242",
+      "https://supreme.com/",
+      "https://metabase.cityofsanctuary.org/article/who-makes-supreme-brand-2",
+      "http://supersleeveusa.com/"
+    ],
+    "timestamp": "2026-09-04T23:43:55.699377",
+    "status": "results_found"
+  },
+  {
+    "seller": "Suppar Sleave",
+    "field": "Phone",
+    "query": "Suppar Sleave phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://unicourt.com/courts/federal/us-district-courts-2",
+      "https://recordsfinder.com/court/",
+      "https://www.morelaw.com/"
+    ],
+    "timestamp": "2026-09-04T23:44:01.572120",
+    "status": "results_found"
+  },
+  {
+    "business": "Suppar Sleave",
+    "field": "Email Address",
+    "value": "info@morelaw.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.morelaw.com/",
+    "timestamp": "2026-09-04T23:44:11.905542"
+  },
+  {
+    "seller": "Suppar Sleave",
+    "field": "Phone",
+    "query": "Suppar Sleave contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://fanqienovel.com/reader/7599116997758026265",
+      "https://stock.adobe.com/images/several-cheese-of-plates-on-the-table/105327461?msockid=2cff446cd90564a034ec53a6d8136541",
+      "https://nussbaumer.be/verbindingstechniek/kabelschoenen-en-verbinders/verbinders-cu/standaard-parallelverbinders-cu/a001643",
+      "https://www.cineamo.com/en-US/movies/o-verdadeiro-significado-dos-filmes-2"
+    ],
+    "timestamp": "2026-09-04T23:44:13.808959",
+    "status": "results_found"
+  },
+  {
+    "business": "White Button",
+    "field": "Business Name",
+    "value": "White Button",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AOKGZST4LYOPH&isAmazonFulfilled=0&asin=B0BPHQ82R1&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-04T23:44:17.914753"
+  },
+  {
+    "seller": "White Button",
+    "field": "Website",
+    "query": "White Button official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.britannica.com/science/white-color",
+      "https://www.figma.com/colors/white/"
+    ],
+    "timestamp": "2026-09-04T23:44:19.522247",
+    "status": "results_found"
+  },
+  {
+    "business": "White Button",
+    "field": "Website URL",
+    "value": "https://www.figma.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.figma.com/colors/white/",
+    "timestamp": "2026-09-04T23:45:03.812138"
+  },
+  {
+    "seller": "White Button",
+    "field": "Legal Entity Name",
+    "query": "White Button company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/science/white-color",
+      "https://www.figma.com/colors/white/",
+      "https://www.verywellmind.com/color-psychology-white-2795822",
+      "https://en.m.wiktionary.org/wiki/white"
+    ],
+    "timestamp": "2026-09-04T23:45:18.092489",
+    "status": "results_found"
+  },
+  {
+    "seller": "White Button",
+    "field": "Legal Entity Name",
+    "query": "White Button Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://zauba.company/",
+      "https://www.legalwiz.in/private-limited-company-registration",
+      "https://www.myonlineca.in/private-limited-company-registration.html"
+    ],
+    "timestamp": "2026-09-04T23:45:25.914840",
+    "status": "results_found"
+  },
+  {
+    "business": "White Button",
+    "field": "Phone Number",
+    "value": "+918980685509",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalwiz.in/private-limited-company-registration",
+    "timestamp": "2026-09-04T23:45:31.110403"
+  },
+  {
+    "business": "White Button",
+    "field": "Email Address",
+    "value": "support@legalwiz.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalwiz.in/private-limited-company-registration",
+    "timestamp": "2026-09-04T23:45:31.110703"
+  },
+  {
+    "seller": "White Button",
+    "field": "PAN",
+    "query": "White Button PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T23:45:34.508925",
+    "status": "results_found"
+  },
+  {
+    "business": "White Button",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T23:45:36.546137"
+  },
+  {
+    "business": "White Button",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T23:45:36.546153"
+  },
+  {
+    "business": "White Button",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T23:45:36.546157"
+  },
+  {
+    "seller": "White Button",
+    "field": "PAN",
+    "query": "White Button PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.britannica.com/science/white-color",
+      "https://www.figma.com/colors/white/",
+      "https://www.verywellmind.com/color-psychology-white-2795822"
+    ],
+    "timestamp": "2026-09-04T23:45:39.058101",
+    "status": "results_found"
+  },
+  {
+    "seller": "White Button",
+    "field": "GST",
+    "query": "White Button GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.britannica.com/science/white-color",
+      "https://www.figma.com/colors/white/",
+      "https://www.verywellmind.com/color-psychology-white-2795822"
+    ],
+    "timestamp": "2026-09-04T23:45:45.745126",
+    "status": "results_found"
+  },
+  {
+    "seller": "White Button",
+    "field": "GST",
+    "query": "White Button GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/white-button-24dbxpm1084b1zl/",
+      "https://www.knowyourgst.com/gst-number-search/white-button-24DBXPM1084B1ZL/",
+      "https://gstserver.com/gst/24DBXPM1084B1ZL/",
+      "https://www.knowyourgst.com/gst-number-search/white-button-mens-readymades-33FECPS8833C1ZG/"
+    ],
+    "timestamp": "2026-09-04T23:45:51.937847",
+    "status": "results_found"
+  },
+  {
+    "business": "White Button",
+    "field": "GST Number",
+    "value": "24DBXPM1084B1ZL",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/white-button-24DBXPM1084B1ZL/",
+    "timestamp": "2026-09-04T23:45:53.112946"
+  },
+  {
+    "business": "White Button",
+    "field": "PAN Number",
+    "value": "DBXPM1084B",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/white-button-24DBXPM1084B1ZL/",
+    "timestamp": "2026-09-04T23:45:53.112960"
+  },
+  {
+    "seller": "White Button",
+    "field": "Owner",
+    "query": "White Button director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/science/white-color",
+      "https://www.figma.com/colors/white/",
+      "https://www.verywellmind.com/color-psychology-white-2795822",
+      "https://en.m.wiktionary.org/wiki/white"
+    ],
+    "timestamp": "2026-09-04T23:45:54.563034",
+    "status": "results_found"
+  },
+  {
+    "seller": "White Button",
+    "field": "Owner",
+    "query": "White Button founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.mushroomcouncil.com/mushroom-101/varieties/white-button/",
+      "https://themushroomguy.com/white-button/",
+      "https://www.mushroomexpert.com/agaricus_bisporus.html"
+    ],
+    "timestamp": "2026-09-04T23:46:02.259562",
+    "status": "results_found"
+  },
+  {
+    "business": "NITYAS ENTERPRISE",
+    "field": "Business Name",
+    "value": "NITYAS ENTERPRISE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AR9EBXLQHABP9&asin=B0GSBGVJ3P&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T23:46:07.058801"
+  },
+  {
+    "seller": "NITYAS ENTERPRISE",
+    "field": "Website",
+    "query": "NITYAS ENTERPRISE official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ad.doubleclick.net/searchads/link/click?lid=43700074562469039&ds_s_kwgid=58700006254014988&ds_a_cid=593220639&ds_a_caid=11561277599&ds_a_agid=119498212544&ds_a_lid=kwd-1935017481812&&ds_e_adid=73530147760565&ds_e_target_id=kwd-73530111730788:loc-90&&ds_e_network=o&ds_url_v=2&ds_dest_url=https://pixel.everesttech.net/4824/cq?ev_sid=10&ev_ln=%2Bcompany%20%2Bauto%20%2Brental&ev_ltx=&ev_lx=kwd-73530111730788:loc-90&ev_crx=73530147760565&ev_mt=p&ev_dvc=c&ev_phy=149940&ev_loc=&ev_cx=361243878&ev_ax=1176478313901012&ev_ex=&ev_efid=f5f9007845111d3d65686ae34fec6d8e:G:s&url=https%3A%2F%2Fwww.enterprise.com%2Fen%2Fcar-rental%2Fcampaigns%2Frent-a-car-c.html%3Fmcid%3Dpaidsearch%3A37294414%26targetid%3Dkwd-73530111730788%3Aloc-90%26ef_id%3Df5f9007845111d3d65686ae34fec6d8e%3AG%3As%26s_kwcid%3DAL!4824!10!73530147760565!!!!73530111730788!!361243878!1176478313901012%26gclid%3Df5f9007845111d3d65686ae34fec6d8e%26gclsrc%3D3p.ds%26&gclid=f5f9007845111d3d65686ae34fec6d8e&gclsrc=3p.ds&msclkid=f5f9007845111d3d65686ae34fec6d8e&utm_source=bing&utm_medium=cpc&utm_campaign=E_M_US_SE_Type-Specialty_C_PHM_NTL_EN_US&utm_term=%2Bcompany%20%2Bauto%20%2Brental&utm_content=M_C_Premium%20Car",
+      "https://nityas.com/"
+    ],
+    "timestamp": "2026-09-04T23:46:10.216507",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAS ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "NITYAS ENTERPRISE company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cipc.co.za/?page_id=149",
+      "https://eservices.cipc.co.za/",
+      "https://k2.cipc.co.za/Customers/Runtime/Form/CIPC.Customer.Form.CustomerRegistrationLandingPage",
+      "https://k2.cipc.co.za/Customers/Runtime/Form.aspx?_Name=CIPC.Customer.Form.CustomerRegistrationLandingPage"
+    ],
+    "timestamp": "2026-09-04T23:46:18.541764",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAS ENTERPRISE",
+    "field": "PAN",
+    "query": "NITYAS ENTERPRISE PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.kanakkupillai.com/learn/pan-tan-and-gstin-of-a-company-by-name-online/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T23:46:33.730717",
+    "status": "results_found"
+  },
+  {
+    "business": "NITYAS ENTERPRISE",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-04T23:46:36.240791"
+  },
+  {
+    "business": "NITYAS ENTERPRISE",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-04T23:46:36.241470"
+  },
+  {
+    "business": "NITYAS ENTERPRISE",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-04T23:46:36.241477"
+  },
+  {
+    "seller": "NITYAS ENTERPRISE",
+    "field": "Owner",
+    "query": "NITYAS ENTERPRISE director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://nityas.in/our-management/",
+      "https://nityas.in/management-committees/",
+      "https://www.indiratrade.com/company-profile/board-members/nityas-gems-and-jewe",
+      "https://www.nityaenterprise.com/about/"
+    ],
+    "timestamp": "2026-09-04T23:46:40.027563",
+    "status": "results_found"
+  },
+  {
+    "business": "NITYAS ENTERPRISE",
+    "field": "Email Address",
+    "value": "cs@nityas.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiratrade.com/company-profile/board-members/nityas-gems-and-jewe",
+    "timestamp": "2026-09-04T23:46:45.524085"
+  },
+  {
+    "business": "NITYAS ENTERPRISE",
+    "field": "Billing Address",
+    "value": "sector-1, 6th & 7th floor, ratih house, sy-376, tps-4, pi-7, paiki part-b, parshottam farm compound, opp. podar arcade, varachha road, a. k. road surat",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiratrade.com/company-profile/board-members/nityas-gems-and-jewe",
+    "timestamp": "2026-09-04T23:46:45.525195"
+  },
+  {
+    "business": "NITYAS ENTERPRISE",
+    "field": "City",
+    "value": "varachha road",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiratrade.com/company-profile/board-members/nityas-gems-and-jewe",
+    "timestamp": "2026-09-04T23:46:45.525204"
+  },
+  {
+    "seller": "NITYAS ENTERPRISE",
+    "field": "Owner",
+    "query": "NITYAS ENTERPRISE founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://nityas.in/our-management/",
+      "https://nityas.in/",
+      "https://nityas.in/management-committees/",
+      "https://www.indiratrade.com/company-profile/board-members/nityas-gems-and-jewe"
+    ],
+    "timestamp": "2026-09-04T23:46:49.014150",
+    "status": "results_found"
+  },
+  {
+    "business": "DANESHWAR EMPORIUM",
+    "field": "Business Name",
+    "value": "DANESHWAR EMPORIUM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1PSBRG4440Q9J&asin=B0H75312FV&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T23:46:54.046495"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "Website",
+    "query": "DANESHWAR EMPORIUM official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.dollywood.com/themepark/Shops/The-Dollywood-Emporium",
+      "https://www.mainevent.com/content/dnb/us/en/home"
+    ],
+    "timestamp": "2026-09-04T23:46:57.111624",
+    "status": "results_found"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "Legal Entity Name",
+    "query": "DANESHWAR EMPORIUM company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://companydata.com/company-registration-lookup/",
+      "https://opencorporates.com/registers",
+      "https://ocr.gov.np/",
+      "https://camis.ocr.gov.np/"
+    ],
+    "timestamp": "2026-09-04T23:47:06.035753",
+    "status": "results_found"
+  },
+  {
+    "business": "DANESHWAR EMPORIUM",
+    "field": "Phone Number",
+    "value": "+919700004414",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ocr.gov.np/",
+    "timestamp": "2026-09-04T23:47:15.120782"
+  },
+  {
+    "business": "DANESHWAR EMPORIUM",
+    "field": "Email Address",
+    "value": "info@ocr.gov.np",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ocr.gov.np/",
+    "timestamp": "2026-09-04T23:47:15.121080"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "Legal Entity Name",
+    "query": "DANESHWAR EMPORIUM Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.startupwala.com/private-limited-company-registration.html",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca"
+    ],
+    "timestamp": "2026-09-04T23:47:20.879391",
+    "status": "results_found"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "PAN",
+    "query": "DANESHWAR EMPORIUM PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.godigit.com/pan-card/check-pan-card-details-online"
+    ],
+    "timestamp": "2026-09-04T23:47:23.723728",
+    "status": "results_found"
+  },
+  {
+    "business": "DANESHWAR EMPORIUM",
+    "field": "Billing Address",
+    "value": "atlantis, 95, 4th b cross road, koramangala industrial layout, 5th block, bengaluru 560095 | registered office address: 1 to 6 floors, ananta one (ar",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.godigit.com/pan-card/check-pan-card-details-online",
+    "timestamp": "2026-09-04T23:47:25.417124"
+  },
+  {
+    "business": "DANESHWAR EMPORIUM",
+    "field": "City",
+    "value": "ananta one (ar",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.godigit.com/pan-card/check-pan-card-details-online",
+    "timestamp": "2026-09-04T23:47:25.417135"
+  },
+  {
+    "business": "DANESHWAR EMPORIUM",
+    "field": "Pincode",
+    "value": "560095",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.godigit.com/pan-card/check-pan-card-details-online",
+    "timestamp": "2026-09-04T23:47:25.417137"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "PAN",
+    "query": "DANESHWAR EMPORIUM PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-09-04T23:47:28.794042",
+    "status": "results_found"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "GST",
+    "query": "DANESHWAR EMPORIUM GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-04T23:47:32.943025",
+    "status": "results_found"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "GST",
+    "query": "DANESHWAR EMPORIUM GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/",
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-04T23:47:36.176290",
+    "status": "results_found"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "Owner",
+    "query": "DANESHWAR EMPORIUM director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.property.ie/commercial-property/dublin/cherrywood/",
+      "https://www.daft.ie/commercial-properties-for-rent/cherrywood-dublin",
+      "https://www.property.ie/commercial-property/dublin/cherrywood/sort_date-asc/",
+      "https://www.daft.ie/commercial-property-for-rent/1st-floor-building-10-the-campus-cherrywood-co-dublin/6304815"
+    ],
+    "timestamp": "2026-09-04T23:47:44.162588",
+    "status": "results_found"
+  },
+  {
+    "seller": "DANESHWAR EMPORIUM",
+    "field": "Owner",
+    "query": "DANESHWAR EMPORIUM founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.crunchbase.com/person/nazanin-daneshvar",
+      "https://www.zyvera.blog/2026/06/how-nazanin-daneshvar-built-technology.html"
+    ],
+    "timestamp": "2026-09-04T23:47:50.660916",
+    "status": "results_found"
+  }
+]

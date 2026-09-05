@@ -1,0 +1,74 @@
+{
+  "category": "Small Animals Pet Supplies",
+  "records_before_save": 10,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cature Shield LLP",
+      "database_id": 371,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910201020264",
+      "email": "eindia@gmail.com",
+      "gst": "27AAPFC5442H1Z9",
+      "pan": "AAPFC5442H",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SATARA ETC",
+      "database_id": 372,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910471212026",
+      "email": "sataramunicipal@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "OneStop Petshop",
+      "database_id": 373,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.onestoppetshop.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cavy Comforts",
+      "database_id": 374,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "27AAAPT3960A1ZX",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Fifozone",
+      "database_id": 375,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916526565100",
+      "email": "care@fifozone.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://fifozone.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

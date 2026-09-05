@@ -1,0 +1,108 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CQK4XRJ5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T14:29:39.511727"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "https://us.etrade.com/e/t/user/login?msockid=22b14b2bbd35686e26a85ce1bcd36999"
+    ],
+    "timestamp": "2026-09-04T14:29:42.278522",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "https://us.etrade.com/e/t/user/login?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-09-04T14:30:21.557750",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "https://us.etrade.com/e/t/user/login?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-09-04T14:30:37.752512",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "https://us.etrade.com/e/t/user/login?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-09-04T14:30:58.345726",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "https://us.etrade.com/e/t/user/login?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-09-04T14:31:13.871720",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-09-04T14:31:29.951626"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "https://us.etrade.com/e/t/user/login?msockid=22b14b2bbd35686e26a85ce1bcd36999",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-09-04T14:31:33.233162",
+    "status": "results_found"
+  }
+]

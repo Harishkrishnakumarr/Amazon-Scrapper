@@ -1,0 +1,87 @@
+{
+  "category": "American Football",
+  "records_before_save": 15,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Futabatech",
+      "database_id": 434,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919030020393",
+      "email": "atech@gmail.com",
+      "gst": "24AADCF0299A1Z3",
+      "pan": "AADCF0299A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SKSB IMPORT",
+      "database_id": 1488,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919773697785",
+      "email": "info@sksb.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "USA Warehouse.",
+      "database_id": 1638,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TheGlobalGenie",
+      "database_id": 1639,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919653498993",
+      "email": "cs@theglobalgenie.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.theglobalgenie.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Infinitikart",
+      "database_id": 1640,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916101000449",
+      "email": "service@zuoyebang.com",
+      "gst": "33BZJPP0484J1Z3",
+      "pan": "BZJPP0484J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "STS Shop",
+      "database_id": 1641,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@stsshop.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.stsshop.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

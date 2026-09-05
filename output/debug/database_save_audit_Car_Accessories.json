@@ -1,0 +1,100 @@
+{
+  "category": "Car Accessories",
+  "records_before_save": 8,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "FABBAY",
+      "database_id": 982,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "hello@pice.one",
+      "gst": "27AAFCF5089G1ZD",
+      "pan": "AAFCF5089G",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RATNAM TYRE TOOLS",
+      "database_id": 1014,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "mtyres11@gmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VINAYAK AUTO INDUSTRIES",
+      "database_id": 1012,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919167676662",
+      "email": "inquiry@vinayakcorporation.com",
+      "gst": "23ACNPS1402P1ZD",
+      "pan": "ACNPS1402P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "XEWOi",
+      "database_id": 1013,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "editorial@tech-insider.org",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Oswald Trading",
+      "database_id": 1029,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "correction@hkdir.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "FNNEMGE-ID",
+      "database_id": 1015,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918929218091",
+      "email": "121@taxlegit.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Pramukh Villa",
+      "database_id": 1016,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916355296334",
+      "email": "secretarial@marggroup.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.pramukhfontconverter.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+[
+  {
+    "business": "Frost Clothings",
+    "field": "Business Name",
+    "value": "Frost Clothings",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K7Y7FODK72TS&asin=B0D5MLKC56&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T09:39:13.511854"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Website",
+    "query": "Frost Clothings official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/"
+    ],
+    "timestamp": "2026-08-26T09:39:16.729197",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Legal Entity Name",
+    "query": "Frost Clothings company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://frostclient.eu/",
+      "https://www.frostbank.com/logins"
+    ],
+    "timestamp": "2026-08-26T09:39:26.180233",
+    "status": "results_found"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "Email Address",
+    "value": "info@linktomedia.net",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+    "timestamp": "2026-08-26T09:39:28.085912"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "PAN",
+    "query": "Frost Clothings PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://frostclient.eu/",
+      "https://www.frostbank.com/logins"
+    ],
+    "timestamp": "2026-08-26T09:39:40.128596",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "GST",
+    "query": "Frost Clothings GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://frostclient.eu/",
+      "https://www.frostbank.com/logins"
+    ],
+    "timestamp": "2026-08-26T09:39:58.931358",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Owner",
+    "query": "Frost Clothings director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://frostclient.eu/",
+      "https://www.frostbank.com/logins"
+    ],
+    "timestamp": "2026-08-26T09:40:47.966564",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Address",
+    "query": "Frost Clothings registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://frostclient.eu/",
+      "https://www.frostbank.com/logins"
+    ],
+    "timestamp": "2026-08-26T09:41:09.041679",
+    "status": "results_found"
+  },
+  {
+    "business": "A.A FASHION ZONE",
+    "field": "Business Name",
+    "value": "A.A FASHION ZONE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3RNKGJBJZ93OB&asin=B0H5BXG7ZW&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T09:41:17.878086"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Website",
+    "query": "A.A FASHION ZONE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:41:19.631264",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Legal Entity Name",
+    "query": "A.A FASHION ZONE company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:41:27.606374",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Legal Entity Name",
+    "query": "A.A FASHION ZONE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:41:31.621382",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "PAN",
+    "query": "A.A FASHION ZONE PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:41:36.160153",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "PAN",
+    "query": "A.A FASHION ZONE PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:41:42.313419",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "GST",
+    "query": "A.A FASHION ZONE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:41:49.571373",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "GST",
+    "query": "A.A FASHION ZONE GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:41:59.026822",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Owner",
+    "query": "A.A FASHION ZONE director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:42:09.075520",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Owner",
+    "query": "A.A FASHION ZONE founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:42:18.127120",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Address",
+    "query": "A.A FASHION ZONE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:42:23.998181",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Address",
+    "query": "A.A FASHION ZONE registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:42:30.509358",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Phone",
+    "query": "A.A FASHION ZONE phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:42:35.303945",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Phone",
+    "query": "A.A FASHION ZONE contact phone",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:42:43.310699",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Email",
+    "query": "A.A FASHION ZONE email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:42:50.343389",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.A FASHION ZONE",
+    "field": "Email",
+    "query": "A.A FASHION ZONE contact email",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ilifehacks.com/a-with-accent/",
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-26T09:43:04.298167",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CTQ4RSMB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T09:43:06.575298"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum-auto.caradisiac.com/topic/207489-mercedes-207d-et-508d/",
+      "https://forum-auto.caradisiac.com/topic/81414-topic-changer-son-barillet-sur-une-w124/"
+    ],
+    "timestamp": "2026-08-26T09:43:09.841730",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://loto-facil.forumeiros.com/t152-simulador-de-combinacoes-lotofacil",
+      "https://loto-facil.forumeiros.com/",
+      "https://loto-facil.forumeiros.com/t274-palpitando",
+      "https://loto-facil.forumeiros.com/t928-1-esquema-da-lotofacil"
+    ],
+    "timestamp": "2026-08-26T09:43:24.545240",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://ol.3dmgame.com/gl/103260.html",
+      "https://zh.minecraft.wiki/w/%E9%99%84%E9%AD%94%E4%B9%A6?variant=zh-cn",
+      "https://ol.3dmgame.com/gl/267736.html"
+    ],
+    "timestamp": "2026-08-26T09:43:50.600908",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:44:10.414213",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:44:20.710545",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://www.affluense.ai/profile/aparesh-agarwal-retailez-private-limited-16c092"
+    ],
+    "timestamp": "2026-08-26T09:44:35.258238",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://retailez.co.in/partner/",
+      "https://mycorporateinfo.com/business/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-26T09:44:52.693356",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/"
+    ],
+    "timestamp": "2026-08-26T09:45:15.129076",
+    "status": "results_found"
+  }
+]

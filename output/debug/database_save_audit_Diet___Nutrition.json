@@ -1,0 +1,100 @@
+{
+  "category": "Diet & Nutrition",
+  "records_before_save": 9,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Omace Online",
+      "database_id": 843,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 843,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "customercare@clicktechretail.in",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "AAJCC9783E",
+      "website": "https://clicktechretail.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "STS Shop",
+      "database_id": 844,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@stsshop.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.stsshop.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Atlantic Publishers and Distributors",
+      "database_id": 845,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919355505734",
+      "email": "h@atlanticbooks.com",
+      "gst": "07AAFCA7265H2ZJ",
+      "pan": "AAFCA7265H",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DR SATYAMRUT NUTRITION",
+      "database_id": 846,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917314064786",
+      "email": "drszjafrey@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CRESTWOOD RESEARCH PRIVATE LIMITED",
+      "database_id": 847,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "surabhishukla22@gmail.com",
+      "gst": "09AALCC8769J1ZS",
+      "pan": "AALCC8769J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Book Selection Centre",
+      "database_id": 848,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "mediarelations@booking.com",
+      "gst": "33AABCU7650C1ZM",
+      "pan": "AABCU7650C",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "category": "Swimwear",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1405,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Blissclub",
+      "database_id": 1406,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919900001845",
+      "email": "hi@myblissclub.in",
+      "gst": "29AAICB9521C1ZP",
+      "pan": "AAICB9521C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "A.P. ENTERPRISES",
+      "database_id": 1407,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918097241297",
+      "email": "support@gstzen.in",
+      "gst": "14ADAPE0809N1ZW",
+      "pan": "ADAPE0809N",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

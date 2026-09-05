@@ -1,0 +1,843 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0F1B8B2YZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T13:57:50.817438"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+      "https://us.etrade.com/e/t/user/login?msockid=1de7d261d2316f5b1649c5ddd3746e8c"
+    ],
+    "timestamp": "2026-08-21T13:57:52.479340",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+    "timestamp": "2026-08-21T13:58:54.432484"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151673015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-21T13:58:55.509647"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ipaddress.com/website/www.etrade.gov.et/#:~:text=The%20website%20eTrade.gov.et%20serves%20as%20an%20online%20platform,to%20engage%20in%20trade%20activities%20within%20the%20country.",
+      "https://us.etrade.com/forms-applications?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+      "https://us.etrade.com/l/welcome/new-account?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/main/customer/business-license/registration"
+    ],
+    "timestamp": "2026-08-21T13:59:03.532381",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+      "https://us.etrade.com/e/t/user/login?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "http://www.etrade.com/activate"
+    ],
+    "timestamp": "2026-08-21T13:59:27.189260",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/e/t/user/login",
+      "https://us.etrade.com/e/t/user/xfr?Target=/etx/hw/accountshome?cnt=header_logon_startin_accounts",
+      "https://us.etrade.com/e/t/user/loginhelp",
+      "https://us.etrade.com/e/t/etpro/ETProLaunchPage",
+      "https://us.etrade.com/etx/trd/tradingcenter"
+    ],
+    "timestamp": "2026-08-21T13:59:45.842968",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+      "https://us.etrade.com/e/t/user/login?msockid=1de7d261d2316f5b1649c5ddd3746e8c",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview"
+    ],
+    "timestamp": "2026-08-21T13:59:47.181915",
+    "status": "results_found"
+  },
+  {
+    "business": "Liveonce",
+    "field": "Business Name",
+    "value": "Liveonce",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AAUZGG8IZFOO1&asin=B085XBZ2J2&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T13:59:50.888584"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Website",
+    "query": "Liveonce official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.imdb.com/title/tt27988879/",
+      "https://www.imdb.com/title/tt27988879/fullcredits/"
+    ],
+    "timestamp": "2026-08-21T13:59:52.318112",
+    "status": "results_found"
+  },
+  {
+    "business": "Liveonce",
+    "field": "Website URL",
+    "value": "https://www.liveonce.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.liveonce.com/",
+    "timestamp": "2026-08-21T13:59:57.636955"
+  },
+  {
+    "business": "Liveonce",
+    "field": "Phone Number",
+    "value": "+919467352026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.liveonce.com/",
+    "timestamp": "2026-08-21T13:59:57.851332"
+  },
+  {
+    "business": "Liveonce",
+    "field": "Email Address",
+    "value": "interested@domainmarket.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.liveonce.com/",
+    "timestamp": "2026-08-21T13:59:57.851533"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Legal Entity Name",
+    "query": "Liveonce company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://www.zhihu.com/question/1981700758442362643",
+      "https://cellphones.com.vn/sforum/top-phan-mem-chat-ai-tot-nhat"
+    ],
+    "timestamp": "2026-08-21T14:00:06.421559",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Legal Entity Name",
+    "query": "Liveonce Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://www.solveyourtech.com/how-to-get-help-in-windows-11-a-complete-guide-for-users/",
+      "https://www.solveyourtech.com/how-to-get-help-in-windows-11-a-comprehensive-guide-3/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/"
+    ],
+    "timestamp": "2026-08-21T14:00:15.524593",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Legal Entity Name",
+    "query": "Liveonce legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/index/start-using-chatgpt-instantly/",
+      "https://help.openai.com/en/collections/3742473-chatgpt"
+    ],
+    "timestamp": "2026-08-21T14:00:23.507260",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "PAN",
+    "query": "Liveonce PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://news.yahoo.co.jp/",
+      "https://www.yahoo.co.jp/",
+      "https://news.yahoo.co.jp/flash",
+      "https://sports.yahoo.co.jp/",
+      "https://www.yomiuri.co.jp/"
+    ],
+    "timestamp": "2026-08-21T14:00:26.236915",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "PAN",
+    "query": "Liveonce PAN",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://liveonce.in/",
+      "https://www.incometaxindia.gov.in/tax-services/status-of-pan-utitsl"
+    ],
+    "timestamp": "2026-08-21T14:00:38.035099",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "GST",
+    "query": "Liveonce GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.redbus2us.com/t/change-in-company-address-with-approved-h1b/21962",
+      "https://forum.redbus2us.com/t/experience-h1b-administrative-processing-and-revocation/77902",
+      "https://forum.redbus2us.com/latest",
+      "https://forum.redbus2us.com/t/recent-f2-visa-experience-approved-on-6th-attempt/74862",
+      "https://forum.redbus2us.com/t/b1-b2-visa-dropbox-renewal-documents/94950"
+    ],
+    "timestamp": "2026-08-21T14:00:48.366332",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "GST",
+    "query": "Liveonce GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sekiyads.co.jp/",
+      "https://drivers-license.jp/school/sekiya/",
+      "https://attend.sekiyads.co.jp/",
+      "https://attend.sekiyads.co.jp/license/",
+      "https://www.sekiyads.co.jp/top/"
+    ],
+    "timestamp": "2026-08-21T14:01:03.381489",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Owner",
+    "query": "Liveonce director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/geography-article/"
+    ],
+    "timestamp": "2026-08-21T14:01:09.023621",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Owner",
+    "query": "Liveonce managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://money.udn.com/money/story/5612/9705291",
+      "https://cpok.tw/72334",
+      "https://udn.com/news/story/7270/9705291",
+      "https://www.ctee.com.tw/news/20260821700688-431208",
+      "https://travel.ettoday.net/article/3223127.htm"
+    ],
+    "timestamp": "2026-08-21T14:01:12.048079",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Address",
+    "query": "Liveonce registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/dataengineering-community/airflow_installation_guide/blob/main/configure_vscode_for_airflow_docker.md",
+      "https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html",
+      "https://rockymountaintechlab.com/guides/connect-airflow-to-snowflake",
+      "https://medium.com/@paulmartins/debugging-airflow-with-vscode-21dbd41d4de6",
+      "https://community.snowflake.com/s/article/How-to-connect-Apache-Airflow-to-Snowflake-and-schedule-queries-jobs"
+    ],
+    "timestamp": "2026-08-21T14:01:34.912852",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liveonce",
+    "field": "Address",
+    "query": "Liveonce registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/NI658422",
+      "https://liveonce.in/contact-us/",
+      "https://www.thecompanycheck.com/org/liveonce/782d44beea",
+      "https://liveoncfdn.org/about-us",
+      "https://find-and-update.company-information.service.gov.uk/company/NI658422/filing-history"
+    ],
+    "timestamp": "2026-08-21T14:01:51.434628",
+    "status": "results_found"
+  },
+  {
+    "business": "Danodia Global Brands Inc",
+    "field": "Business Name",
+    "value": "Danodia Global Brands Inc",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3KTXQJW52VS6P&asin=B0H38WJ2XX&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:01:51.909285"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Website",
+    "query": "Danodia Global Brands Inc official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download"
+    ],
+    "timestamp": "2026-08-21T14:01:53.284724",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Legal Entity Name",
+    "query": "Danodia Global Brands Inc company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/25009442",
+      "https://www.zhihu.com/question/30432177",
+      "https://www.zhihu.com/people/paellahorizon"
+    ],
+    "timestamp": "2026-08-21T14:02:13.960943",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Legal Entity Name",
+    "query": "Danodia Global Brands Inc Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://quiz.community.fmworld.net/quiz/top",
+      "https://quiz.community.fmworld.net/quiz/question/1",
+      "https://quiz.community.fmworld.net/quiz/question/2",
+      "https://quiz.community.fmworld.net/nazonazo/top",
+      "https://quiz.community.fmworld.net/quiz/archive/list.html"
+    ],
+    "timestamp": "2026-08-21T14:02:25.389003",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "PAN",
+    "query": "Danodia Global Brands Inc PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.office.com/login",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-21T14:02:34.602882",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "PAN",
+    "query": "Danodia Global Brands Inc PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nhk.or.jp/a-room/profile/002/92/",
+      "https://sutadeta.com/takahasimisuzu/",
+      "https://a-genzai.com/manish-2/",
+      "https://joseiana.com/archives/5549"
+    ],
+    "timestamp": "2026-08-21T14:02:40.372548",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "PAN",
+    "query": "Danodia Global Brands Inc PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://faq.sbisec.co.jp/answer/5ea6a4791149dd0011cbe7e8/",
+      "https://faq.sbisec.co.jp/answer/617faca2d0bee7001ee92747/",
+      "https://faq.sbisec.co.jp/answer/5ecb633f8504de0011d61d72/",
+      "https://faq.sbisec.co.jp/answer/5ec757f28504de0011d61b4e/",
+      "https://faq.sbisec.co.jp/answer/5ecb64ecd31ea500111ec8d4/"
+    ],
+    "timestamp": "2026-08-21T14:02:52.357335",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "GST",
+    "query": "Danodia Global Brands Inc GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.52pojie.cn/thread-2095059-1-1.html",
+      "https://www.52pojie.cn/thread-2077829-1-1.html",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10323886415",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14323680544",
+      "https://www.52pojie.cn/thread-2032353-1-1.html"
+    ],
+    "timestamp": "2026-08-21T14:02:55.176778",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "GST",
+    "query": "Danodia Global Brands Inc GSTIN",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-21T14:03:14.963327",
+    "status": "no_results"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Owner",
+    "query": "Danodia Global Brands Inc director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-21T14:03:31.755294",
+    "status": "no_results"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Owner",
+    "query": "Danodia Global Brands Inc managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://support.yahoo-net.jp/PccYjcommon/s/article/H000012569",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1142306246",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1155890246",
+      "https://support.yahoo-net.jp/PccLogin/s/article/H000013196",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14248966194"
+    ],
+    "timestamp": "2026-08-21T14:03:33.023364",
+    "status": "results_found"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Address",
+    "query": "Danodia Global Brands Inc registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://catalog.wlimg.com/1/13071617/other-images/table-746798.pdf",
+      "https://www.sellersnooper.com/seller-profiles/Danodia%20Global%20Brands%20Inc.",
+      "https://www.danodiafoods.com/",
+      "https://www.walmart.com/global/seller/102612610",
+      "https://www.bizapedia.com/de/danodia-foods-corporation.html"
+    ],
+    "timestamp": "2026-08-21T14:03:41.113403",
+    "status": "results_found"
+  },
+  {
+    "business": "Danodia Global Brands Inc",
+    "field": "Billing Address",
+    "value": "danodia foods private limited business address: 0, bajwa niwas, near labour office deoghat, p.o. saproon, solan solan himachal pradesh 173211 in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sellersnooper.com/seller-profiles/Danodia%20Global%20Brands%20Inc.",
+    "timestamp": "2026-08-21T14:03:45.078451"
+  },
+  {
+    "business": "Danodia Global Brands Inc",
+    "field": "City",
+    "value": "p.o. saproon",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sellersnooper.com/seller-profiles/Danodia%20Global%20Brands%20Inc.",
+    "timestamp": "2026-08-21T14:03:45.078465"
+  },
+  {
+    "business": "Danodia Global Brands Inc",
+    "field": "State",
+    "value": "Himachal Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sellersnooper.com/seller-profiles/Danodia%20Global%20Brands%20Inc.",
+    "timestamp": "2026-08-21T14:03:45.078468"
+  },
+  {
+    "business": "Danodia Global Brands Inc",
+    "field": "Pincode",
+    "value": "173211",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sellersnooper.com/seller-profiles/Danodia%20Global%20Brands%20Inc.",
+    "timestamp": "2026-08-21T14:03:45.078472"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Phone",
+    "query": "Danodia Global Brands Inc phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180"
+    ],
+    "timestamp": "2026-08-21T14:03:46.716725",
+    "status": "results_found"
+  },
+  {
+    "business": "Danodia Global Brands Inc",
+    "field": "Phone Number",
+    "value": "+912202200334",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.zhihu.com/question/1945629068243481180",
+    "timestamp": "2026-08-21T14:03:50.704924"
+  },
+  {
+    "seller": "Danodia Global Brands Inc",
+    "field": "Email",
+    "query": "Danodia Global Brands Inc email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.nhis.or.kr/",
+      "https://edi.nhis.or.kr/homeapp/wep/m/retrieveMain.xx",
+      "https://si4n.nhis.or.kr/jpza/JpZaa00101.do",
+      "https://medicare.nhis.or.kr/portal/index.jsp",
+      "https://sis.nhis.or.kr/nxui/index.do"
+    ],
+    "timestamp": "2026-08-21T14:03:53.457107",
+    "status": "results_found"
+  },
+  {
+    "business": "Shakti Aura",
+    "field": "Business Name",
+    "value": "Shakti Aura",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A7DTPITW6YNGO&asin=B0GZDZJ6FC&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:03:53.980540"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "Website",
+    "query": "Shakti Aura official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.xiaohongshu.com/worldcup26",
+      "https://www.xiaohongshu.com/worldcup26/preview"
+    ],
+    "timestamp": "2026-08-21T14:03:55.442478",
+    "status": "results_found"
+  },
+  {
+    "business": "Shakti Aura",
+    "field": "Website URL",
+    "value": "https://www.shaktiaura.co.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shaktiaura.co.in/",
+    "timestamp": "2026-08-21T14:04:10.309138"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "Legal Entity Name",
+    "query": "Shakti Aura company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://aretha.com.tw/service.html?ty=9",
+      "https://queenabeautyface.com/",
+      "https://www.pro360.com.tw/category/tatoo_eyeliner",
+      "https://alisa.com.tw/about.php?Num=79",
+      "https://podaily.tw/%E5%B0%B1%E6%98%AF%E7%8E%A9%E7%9C%89%EF%BC%8D%E9%AB%98%E9%9B%84%E5%B7%A6%E7%87%9F%E4%BB%81%E6%AD%A6%E9%9C%A7%E7%9C%89%E9%9C%A7%E5%94%87%E7%9C%BC%E7%B7%9A%E6%8E%A8%E8%96%A6/"
+    ],
+    "timestamp": "2026-08-21T14:04:13.146277",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "Legal Entity Name",
+    "query": "Shakti Aura Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www01.online.johnnys-net.jp/",
+      "https://www.johnnys-net.jp/page?id=artistTop&artist=62&lang=ja_jp",
+      "https://www.johnnys-net.jp/page?id=discoDetail&artist=42&data=2124",
+      "https://www.fc-member.johnnys-net.jp/cms/page/conjm_invalidticket/r/n/r/n\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u009d\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a0\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00be\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a0\u00c3\u0192\u00c2\u00a8\u00c3\u201a\u00c2\u00bc\u00c3\u201a\u00c2\u00a9\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2\u00c3\u0192\u00c2\u00a6\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2\u00c3\u201a\u00c2\u00b2\u00c3\u0192\u00c2\u00a6\u00c3\u201a\u00c2\u00bb\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a6\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u20ac\u017e\u00c2\u00a2\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00b9\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u2026\u00c2\u00b8\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u0081\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00ab\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u0192\u00c2\u00a9\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a2\u00c3\u0192\u00c2\u00a5\u00c3\u201a\u00c2\u008f\u00c3\u201a\u00c2\u008d\u00c3\u0192\u00c2\u00a7\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u009d\u00c3\u201a\u00c2\u00b3\u00c3\u0192\u00c2\u00a5\u00c3\u00a2\u00e2\u201a\u00ac\u00cb\u0153\u00c3\u2026\u00c2\u00a0\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2\u00c3\u0192\u00c2\u00af\u00c3\u201a\u00c2\u00bc\u00c3\u201a\u00c2\u0081\u00c3\u0192\u00c2\u00af\u00c3\u201a\u00c2\u00bc\u00c3\u201a\u00c2\u0081/r/n\u00c3\u0192\u00c2\u00a6\u00c3\u2026\u00e2\u20ac\u0153\u00c3\u201a\u00c2\u00ac\u00c3\u0192\u00c2\u00a5\u00c3\u201a\u00c2\u00bd\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00ab\u00c3\u0192\u00c2\u00a8\u00c3\u201a\u00c2\u00a1\u00c3\u2026\u00e2\u20ac\u2122\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u008d\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u2026\u00c2\u00b8\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00be\u00c3\u0192\u00c2\u00a3\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a2\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00a1\u00c3\u0192\u00c2\u00a3\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u201a\u00c2\u00b3\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00ae\u00c3\u0192\u00c2\u00a7\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00ba\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00ab\u00c3\u0192\u00c2\u00af\u00c3\u201a\u00c2\u00bc\u00c3\u2039\u00e2\u20ac\u00a0\u00c3\u0192\u00c2\u00a8\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a1\u00c3\u201a\u00c2\u00aa\u00c3\u0192\u00c2\u00a5\u00c3\u2039\u00e2\u20ac\u00a0\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a0\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00ae\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u2026\u00c2\u00b8\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u0081\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00ab\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u0192\u00c2\u00af\u00c3\u201a\u00c2\u00bc\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00b0/r/n\u00c3\u0192\u00c2\u00a3\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a2\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u201a\u00c2\u00a1\u00c3\u0192\u00c2\u00a3\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u201a\u00c2\u00b3\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u2026\u00e2\u20ac\u2122\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u008d\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00a1\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00a8\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u009d\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u2026\u00c2\u00b8\u00c3\u0192\u00c2\u00a8\u00c3\u201a\u00c2\u00a1\u00c3\u2026\u00e2\u20ac\u2122\u00c3\u0192\u00c2\u00a5\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00b9\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a2\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00a8\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u2026\u00c2\u00a0\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u201a\u00c2\u00be\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u009d\u00c3\u0192\u00c2\u00a3\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u00a1\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a1\u00c3\u0192\u00c2\u00a3\u00c3\u201a\u00c2\u0081\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u00a0\u00c3\u0192\u00c2\u00af\u00c3\u201a\u00c2\u00bc\u00c3\u201a\u00c2\u0081\u00c3\u0192\u00c2\u00af\u00c3\u201a\u00c2\u00bc\u00c3\u201a\u00c2\u0081",
+      "https://www.fc-member.johnnys-net.jp/support_faq/detail/id/115002833767\u5f80\u5fa9\u306f\u304c\u304d\u306e\u5834\u5408\u3001\u5f80\u306e\u307b\u3046\u306b\u306f\u597d\u304d\u306a\u3053\u3068\u66f8\u3044\u3066\u3082\u3044\u3044\u3057\u30b7\u30fc\u30eb\u3092\u8cbc\u3063\u3066\u3082\u4fee\u6b63\u6db2\u3092\u4f7f\u3063\u3066\u3082\u3044\u3044\u3093\u3060\u3051\u3069\u3001\u5fa9\u306e\u307b\u3046\u306b\u306f\u81ea\u5206\u306e\u4f4f\u6240\u6c0f\u540d\u3060\u3051\u66f8\u3044\u3066\u3001\u305d\u308c\u4ee5\u5916\u306e\u3053\u3068\u306f\u66f8\u304b\u306a\u3044\u3067\u306d\u3001\u30b7\u30fc\u30eb\u3082\u30c0\u30e1\u3060\u3057\u4fee\u6b63\u6db2\u3082\u4f7f\u308f\u306a\u3044\u3067\u306d\u3001\u3068\u6ce8\u610f\u4e8b\u9805\u304c\u66f8\u3044\u3066\u3042\u308a\u307e\u3059\u3002\u6614\u306e\u30d5\u30a1\u30f3\u30ec\u30bf\u30fc\u306e\u8fd4\u4e8b\u3092\u898b\u3066\u308b\u3068\u3001\u8cea\u554f\u30922\uff5e3\u500b\u304f\u3089\u3044\u66f8\u3044\u3066\u3001\u5fd9\u3057\u3044\u76f8\u624b\u304c\u3059\u3050\u8fd4\u4e8b\u3092\u66f8\u3051\u308b\u3088\u3046\u306b\u3057\u305f\u3089\u8fd4\u4e8b\u304c\u304b\u3048\u3063\u3066\u304d\u305f\uff01\u3068\u753b\u50cf\u3092\u51fa\u3057\u3066\u305f\u4eba\u3082\u3044\u307e\u3057\u305f\u304c\u3001\u6c34\u8272\u306e\u86cd\u5149\u30da\u30f3\u3067\u8cea\u554f\u30922\u3064\u304f\u3089\u3044\u540c\u3058\u3088\u3046\u306b\u66f8\u3044\u305f\u4eba\u306e\u306f\u304c\u304d\u306b\u3001\u8fd4\u4e8b\u304c\u5370\u5237\u3055\u308c\u3066\u8fd4\u3063\u3066\u304d\u305f(\u3053\u3093\u306b\u3061\u306f\u30fc\u3001\u5143\u6c17\u30fc\uff1f\u4eca\u5ea6\u25ef\u25ef\u3067\u30b3\u30f3\u30b5\u30fc\u30c8\u3084\u308b\u304b\u3089\u304d\u3066\u306d\u30fc\uff01\u307f\u305f\u3044\u306a\u3001\u5370\u5237\u306e\u8fd4\u4e8b)\u753b\u50cf\u3082\u898b\u305f\u3053\u3068\u304c\u3042\u308a\u307e\u3059\u3002\u305f\u3076\u3093\u3001\u8fd4\u4fe1\u7528\u306f\u304c\u304d\u306f\u5370\u5237\u306e\u8fd4\u4e8b\u306b\u4f7f\u3046\u53ef\u80fd\u6027\u304c\u3042\u308b\u306e\u3067\u306a\u306b\u3082\u3057\u306a\u3044\u3067\u304f\u308c\u3001\u3068\u3044\u3046\u3053\u3068\u3067\u3001\u30b8\u30e3\u30cb\u30fc\u30ba\u30b5\u30a4\u30c9\u306f\u30cd\u30c3\u30c8\u3067\u6ce8\u610f\u4e8b\u9805\u3092\u66f8\u3044\u3066\u3044\u308b\u306e\u3060\u3068\u601d\u3044\u307e\u3059\u3002\u300c\u30b8\u30e3\u30cb\u30fc\u30ba"
+    ],
+    "timestamp": "2026-08-21T14:04:24.066712",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "Legal Entity Name",
+    "query": "Shakti Aura legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/shakti-aura-27abgfs8098h2zh/",
+      "https://www.knowyourgst.com/gst-number-search/shakti-aura-27ABGFS8098H2ZH/",
+      "https://shaktiaura.co.in/shakti-aura-terms-and-conditions",
+      "https://www.aurumproptech.in/pulse/rera/maharashtra/thane/shakti-aura-P51700019646",
+      "https://entitysearch.us/"
+    ],
+    "timestamp": "2026-08-21T14:04:34.145668",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "PAN",
+    "query": "Shakti Aura PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://news.yahoo.co.jp/categories/sports",
+      "https://news.yahoo.co.jp/",
+      "https://news.yahoo.co.jp/categories/domestic",
+      "https://news.yahoo.co.jp/flash",
+      "https://news.yahoo.co.jp/categories/business"
+    ],
+    "timestamp": "2026-08-21T14:04:36.062917",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "PAN",
+    "query": "Shakti Aura PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/"
+    ],
+    "timestamp": "2026-08-21T14:04:40.963108",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "PAN",
+    "query": "Shakti Aura PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.timeanddate.com/time/zone/usa/texas",
+      "https://whichtimezone.com/usa/texas/",
+      "https://www.guideoftheworld.com/texas-time-zone-map.html",
+      "https://24timezones.com/Texas/time",
+      "https://www.timeanddate.com/worldclock/usa/texas"
+    ],
+    "timestamp": "2026-08-21T14:04:46.989193",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "GST",
+    "query": "Shakti Aura GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.reddit.com/r/writing/"
+    ],
+    "timestamp": "2026-08-21T14:04:55.185100",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "GST",
+    "query": "Shakti Aura GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/shakti-aura-27abgfs8098h2zh/",
+      "https://www.knowyourgst.com/gst-number-search/shakti-aura-27ABGFS8098H2ZH/",
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/quicklinks/searchtxp",
+      "https://services.gst.gov.in/services/searchtp"
+    ],
+    "timestamp": "2026-08-21T14:05:11.937624",
+    "status": "results_found"
+  },
+  {
+    "business": "Shakti Aura",
+    "field": "GST Number",
+    "value": "27ABGFS8098H2ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shakti-aura-27abgfs8098h2zh/",
+    "timestamp": "2026-08-21T14:05:23.412166"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "Owner",
+    "query": "Shakti Aura director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/open-file-explorer-in-windows-11.20591/",
+      "https://www.elevenforum.com/t/turn-on-or-off-expand-folder-in-navigation-pane-of-file-explorer-in-windows-11.2544/"
+    ],
+    "timestamp": "2026-08-21T14:05:25.269042",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "Owner",
+    "query": "Shakti Aura managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ilovepdf.com/",
+      "https://www.ilovepdf.com/id",
+      "https://www.ilovepdf.io/",
+      "https://ilovepdf.org/",
+      "https://i-love-pdf-delta.vercel.app/"
+    ],
+    "timestamp": "2026-08-21T14:05:29.178346",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Aura",
+    "field": "Owner",
+    "query": "Shakti Aura founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mumbaipropertyexchange.com/maharera-project/shakti-aura/P51700019646",
+      "https://maaadishaktimeditation.com/",
+      "https://housing.com/in/buy/projects/page/133807-shakti-aura-by-shakti-developers-in-ghansoli",
+      "https://shaktiaura.com/pages/our-story",
+      "https://blox.xyz/projects/shakti-aura"
+    ],
+    "timestamp": "2026-08-21T14:05:37.236199",
+    "status": "results_found"
+  },
+  {
+    "business": "USA Warehouse.",
+    "field": "Business Name",
+    "value": "USA Warehouse.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2PRL1RFFZO5CK&asin=B008OEPLVM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:05:54.363648"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Website",
+    "query": "USA Warehouse. official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://warehouse-usa.com/",
+      "https://www.mountainwarehouse.com/us/"
+    ],
+    "timestamp": "2026-08-21T14:05:57.571859",
+    "status": "results_found"
+  },
+  {
+    "business": "USA Warehouse.",
+    "field": "Website URL",
+    "value": "https://warehouse-usa.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://warehouse-usa.com/",
+    "timestamp": "2026-08-21T14:07:25.098564"
+  },
+  {
+    "business": "USA Warehouse.",
+    "field": "Phone Number",
+    "value": "+919960002026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://warehouse-usa.com/",
+    "timestamp": "2026-08-21T14:07:25.425745"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "Legal Entity Name",
+    "query": "USA Warehouse. company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://entitysearch.us/",
+      "https://usaindiacfo.com/usacfo/company-incorporation/",
+      "https://clemta.com/usa-company-registration",
+      "https://sam.gov/entity-information",
+      "https://www.registerkaro.in/usa-company-registration"
+    ],
+    "timestamp": "2026-08-21T14:07:34.089241",
+    "status": "results_found"
+  },
+  {
+    "seller": "USA Warehouse.",
+    "field": "PAN",
+    "query": "USA Warehouse. PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://nriinvestindia.com/pan-card-us-residents-complete-guide/",
+      "http://www.trackpan.utiitsl.com/PANONLINE"
+    ],
+    "timestamp": "2026-08-21T14:07:57.100911",
+    "status": "results_found"
+  }
+]

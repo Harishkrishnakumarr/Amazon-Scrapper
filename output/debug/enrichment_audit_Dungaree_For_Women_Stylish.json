@@ -1,0 +1,98 @@
+[
+  {
+    "business": "ARVAGAM",
+    "field": "Business Name",
+    "value": "ARVAGAM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GV5GV8ZSI5HB&asin=B0GVSSLDDV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T05:49:23.564679"
+  },
+  {
+    "seller": "ARVAGAM",
+    "field": "Website",
+    "query": "ARVAGAM official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T05:50:21.182776",
+    "status": "no_results"
+  },
+  {
+    "business": "StyleStone",
+    "field": "Business Name",
+    "value": "StyleStone",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35FKUEZFWR9C8&asin=B0DD7F5CZM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T05:51:27.321993"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "Website",
+    "query": "StyleStone official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T05:52:24.981897",
+    "status": "no_results"
+  },
+  {
+    "business": "Shree Paras Exports",
+    "field": "Business Name",
+    "value": "Shree Paras Exports",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SNJDR8IMQAK3&asin=B0GKFN36PN&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T05:53:29.685546"
+  },
+  {
+    "seller": "Shree Paras Exports",
+    "field": "Website",
+    "query": "Shree Paras Exports official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T05:54:27.224678",
+    "status": "no_results"
+  },
+  {
+    "seller": "Shree Paras Exports",
+    "field": "Legal Entity Name",
+    "query": "Shree Paras Exports company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T05:55:32.053398",
+    "status": "no_results"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B07FXF25GV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T05:55:32.361895"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T05:56:29.864276",
+    "status": "no_results"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T05:57:34.566450",
+    "status": "no_results"
+  }
+]

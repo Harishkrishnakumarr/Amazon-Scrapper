@@ -1,0 +1,270 @@
+[
+  {
+    "business": "VRP Telematics",
+    "field": "Business Name",
+    "value": "VRP Telematics",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JFLV2BUSJ5AK&asin=B01F9980XK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T11:51:15.468093"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Website",
+    "query": "VRP Telematics official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T11:51:20.416079",
+    "status": "results_found"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Website URL",
+    "value": "https://vrptelematics.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://vrptelematics.com/",
+    "timestamp": "2026-08-17T11:51:28.684600"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Phone Number",
+    "value": "+911100922026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://vrptelematics.com/",
+    "timestamp": "2026-08-17T11:51:29.002899"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Email Address",
+    "value": "info@vrptl.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://vrptelematics.com/",
+    "timestamp": "2026-08-17T11:51:29.004986"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Legal Entity Name",
+    "query": "VRP Telematics company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=37326d6da7fb60e33c8b7ad5a6e56138",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T11:51:33.420600",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Legal Entity Name",
+    "query": "VRP Telematics Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=37326d6da7fb60e33c8b7ad5a6e56138",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T11:51:46.821329",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "PAN",
+    "query": "VRP Telematics PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=37326d6da7fb60e33c8b7ad5a6e56138",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T11:51:58.472217",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "GST",
+    "query": "VRP Telematics GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=37326d6da7fb60e33c8b7ad5a6e56138",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T11:52:23.743873",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Owner",
+    "query": "VRP Telematics director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=37326d6da7fb60e33c8b7ad5a6e56138",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T11:52:45.038995",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Address",
+    "query": "VRP Telematics registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=37326d6da7fb60e33c8b7ad5a6e56138",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T11:53:04.409901",
+    "status": "results_found"
+  },
+  {
+    "business": "Sasitrends\u00ae",
+    "field": "Business Name",
+    "value": "Sasitrends\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A38BUH8MDNLFJL&asin=B07SJV8WXG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T11:53:18.110034"
+  },
+  {
+    "seller": "Sasitrends\u00ae",
+    "field": "Website",
+    "query": "Sasitrends\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "http://zhidao.baidu.com/"
+    ],
+    "timestamp": "2026-08-17T11:53:23.077708",
+    "status": "results_found"
+  },
+  {
+    "business": "Sasitrends\u00ae",
+    "field": "Website URL",
+    "value": "https://www.sasitrends.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sasitrends.com/",
+    "timestamp": "2026-08-17T11:53:37.878903"
+  },
+  {
+    "business": "Sasitrends\u00ae",
+    "field": "Phone Number",
+    "value": "+916149552026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sasitrends.com/",
+    "timestamp": "2026-08-17T11:53:49.570971"
+  },
+  {
+    "business": "Sasitrends\u00ae",
+    "field": "Email Address",
+    "value": "support@sasitrends.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sasitrends.com/",
+    "timestamp": "2026-08-17T11:53:49.571728"
+  },
+  {
+    "seller": "Sasitrends\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Sasitrends\u00ae company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sasitrends.com/pages/wholesale-registration",
+      "https://www.sasitrends.com/",
+      "https://www.sasitrends.com/pages/wholesale-registration-success",
+      "https://sasitrends.shop/",
+      "https://buysasitrends.shop/"
+    ],
+    "timestamp": "2026-08-17T11:54:09.874361",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sasitrends\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Sasitrends\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ani.linkkf.app/anime-list/",
+      "http://ani.linkkf.app/241063/",
+      "http://linkkf.app/up/373075/",
+      "https://linkkf.app/up/392024",
+      "https://ani.linkkf.app/anime-seasontype/airing/"
+    ],
+    "timestamp": "2026-08-17T11:54:22.481042",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sasitrends\u00ae",
+    "field": "PAN",
+    "query": "Sasitrends\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.fraud.tw/",
+      "https://xiao-huangshu.cn/",
+      "https://www.dushehub.com/",
+      "https://zhuanlan.zhihu.com/p/664246764",
+      "https://zhuanlan.zhihu.com/p/2035338385032737160"
+    ],
+    "timestamp": "2026-08-17T11:54:25.955255",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sasitrends\u00ae",
+    "field": "GST",
+    "query": "Sasitrends\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/20498753",
+      "https://www.zhihu.com/question/313730378",
+      "https://forum.grrrr8.net/showthread.php?t=3478",
+      "https://forum.grrrr8.net/forumdisplay.php?f=130",
+      "https://www.zhihu.com/people/zheng-yu-lun-7/answers"
+    ],
+    "timestamp": "2026-08-17T11:54:54.741887",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sasitrends\u00ae",
+    "field": "Owner",
+    "query": "Sasitrends\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/cb5d61050d29e5415c2fe0ac.html",
+      "http://jingyan.baidu.com",
+      "http://jingyan.baidu.com//list/10",
+      "http://jingyan.baidu.com//list/17",
+      "https://jingyan.baidu.com/article/08b6a591e5a7cb55a909226b.html"
+    ],
+    "timestamp": "2026-08-17T11:55:18.209949",
+    "status": "results_found"
+  }
+]

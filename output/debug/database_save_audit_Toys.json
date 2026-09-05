@@ -1,0 +1,61 @@
+{
+  "category": "Toys",
+  "records_before_save": 6,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 1157,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919884261611",
+      "email": "info@kayfashions.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "THE BEST TOY COMPANY",
+      "database_id": 1158,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Tavakkal E Commerce\u00ae",
+      "database_id": 1159,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "cskh@hinhgaixinh.app",
+      "gst": "33BELPB6973F1ZH",
+      "pan": "BELPB6973F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cubelelo\u00ae",
+      "database_id": 1160,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918349296989",
+      "email": "support@cubelelo.com",
+      "gst": "33AAICB3513C1ZC",
+      "pan": "AAICB3513C",
+      "website": "https://www.cubelelo.in/",
+      "status": "Verified"
+    }
+  ]
+}

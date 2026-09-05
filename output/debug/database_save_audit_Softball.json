@@ -1,0 +1,35 @@
+{
+  "category": "Softball",
+  "records_before_save": 7,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "GDON EXPORTS",
+      "database_id": 657,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916666666667",
+      "email": "support@online-python.com",
+      "gst": "03EDSPK2368L1Z1",
+      "pan": "EDSPK2368L",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 658,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "raj@how2shout.com",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

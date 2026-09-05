@@ -1,0 +1,61 @@
+{
+  "category": "Deodorants Antiperspirants",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 299,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "support@rkgaming.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Hamilton Sciences Pvt Ltd",
+      "database_id": 300,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913024482018",
+      "email": "care@vanesa.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BHAGYASHRI ORGANICS PRIVATE LIMITED",
+      "database_id": 301,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914320262026",
+      "email": "admin@starsunfolded.com",
+      "gst": "08BEFPV5695J1ZM",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Mosaic Wellness Private Ltd.",
+      "database_id": 302,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914000592025",
+      "email": "care.india@mosaicco.com",
+      "gst": "27AASCA5755D1ZE",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

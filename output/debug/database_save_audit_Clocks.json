@@ -1,0 +1,74 @@
+{
+  "category": "Clocks",
+  "records_before_save": 9,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "HARSH CREATIVE VILLA",
+      "database_id": 1078,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918058802709",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KYTES Inc.",
+      "database_id": 1079,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@companyregistration.direct",
+      "gst": "36AAFCK8494C1ZA",
+      "pan": "AAFCK8494C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KHATUSHYAM WALL CLOCK",
+      "database_id": 1080,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "khatushyam05@yahoo.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Regiis Opera",
+      "database_id": 1081,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "URBAN CRAFTED",
+      "database_id": 1082,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "27AADFU0572A1ZK",
+      "pan": "AADFU0572A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

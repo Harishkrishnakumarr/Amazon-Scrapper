@@ -1,0 +1,1053 @@
+[
+  {
+    "business": "Rai-Enterprises",
+    "field": "Business Name",
+    "value": "Rai-Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NNTHWP79JI9O&asin=B0GW2Z482Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T09:59:29.267545"
+  },
+  {
+    "seller": "Rai-Enterprises",
+    "field": "Website",
+    "query": "Rai-Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://konishiryosei.com/",
+      "https://konishiryosei.com/profiles"
+    ],
+    "timestamp": "2026-08-26T09:59:31.775782",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rai-Enterprises",
+    "field": "Legal Entity Name",
+    "query": "Rai-Enterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://desktop.telegram.org/",
+      "https://desktop.telegram.org/?setln=fr",
+      "https://desktop.telegram.org/?setln=es",
+      "https://desktop.telegram.org/?setln=ar"
+    ],
+    "timestamp": "2026-08-26T10:00:00.642408",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rai-Enterprises",
+    "field": "PAN",
+    "query": "Rai-Enterprises PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:00:22.383067",
+    "status": "no_results"
+  },
+  {
+    "seller": "Rai-Enterprises",
+    "field": "PAN",
+    "query": "Rai-Enterprises PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/",
+      "https://www.wforwoman.com/",
+      "https://www.w3schools.com/"
+    ],
+    "timestamp": "2026-08-26T10:00:25.941521",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rai-Enterprises",
+    "field": "GST",
+    "query": "Rai-Enterprises GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+      "https://piceapp.com/gst-number-search/rai-enterprises-05dfipr3357m1zw/",
+      "https://www.mastersindia.co/gst-search/?name=rai-enterprises&gstin=10ABDFR9115K1ZA",
+      "https://www.knowyourgst.com/gst-number-search/rai-enterprises-27EIRPR7354K1Z8/"
+    ],
+    "timestamp": "2026-08-26T10:00:38.133496",
+    "status": "results_found"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.230699"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.231581"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "GST Number",
+    "value": "27AIIPR9100Q2ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.232814"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "PAN Number",
+    "value": "AIIPR9100Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.232834"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.241289"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.241306"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.241312"
+  },
+  {
+    "business": "Rai-Enterprises",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/rai-enterprises-27aiipr9100q2zk/",
+    "timestamp": "2026-08-26T10:00:40.241316"
+  },
+  {
+    "seller": "Rai-Enterprises",
+    "field": "Owner",
+    "query": "Rai-Enterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.teamviewer.com/en/download/windows/?msockid=3c43da9fe731676f06cbcd5ee6a96675",
+      "https://www.teamviewer.com/en/?msockid=3c43da9fe731676f06cbcd5ee6a96675",
+      "https://web.teamviewer.com/",
+      "https://teamviewer.en.softonic.com/"
+    ],
+    "timestamp": "2026-08-26T10:00:41.935351",
+    "status": "results_found"
+  },
+  {
+    "business": "CF SPORTS",
+    "field": "Business Name",
+    "value": "CF SPORTS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3F18P01HV0C7U&asin=B0FL7XNSFV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:01:01.121149"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Website",
+    "query": "CF SPORTS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://global.cfmoto.com/",
+      "https://www.cfmoto.com/global/about-us/contact.html"
+    ],
+    "timestamp": "2026-08-26T10:01:10.575073",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Legal Entity Name",
+    "query": "CF SPORTS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codeforces.com/",
+      "https://www.zigwheels.com/cfmoto-bikes/",
+      "https://www.bikedekho.com/cfmoto-bikes",
+      "http://crossfire.z8games.com/"
+    ],
+    "timestamp": "2026-08-26T10:01:37.608975",
+    "status": "results_found"
+  },
+  {
+    "business": "CF SPORTS",
+    "field": "Email Address",
+    "value": "manager@icpc.global",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://codeforces.com/",
+    "timestamp": "2026-08-26T10:01:41.281016"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Legal Entity Name",
+    "query": "CF SPORTS Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://cf-sports.com/register/",
+      "https://clarifiedby.diligenciagroup.com/company/summary/6909739-cf-sports--pty--ltd/",
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-26T10:01:52.110028",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "PAN",
+    "query": "CF SPORTS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codeforces.com/",
+      "https://www.zigwheels.com/cfmoto-bikes/",
+      "https://www.bikedekho.com/cfmoto-bikes",
+      "http://crossfire.z8games.com/"
+    ],
+    "timestamp": "2026-08-26T10:01:53.728668",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "PAN",
+    "query": "CF SPORTS PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cf-sports-03DUZPB6423C1ZS/",
+      "https://www.tradeindia.com/cf-sports-35138585/",
+      "https://cf-sports.com/acf/"
+    ],
+    "timestamp": "2026-08-26T10:02:05.351300",
+    "status": "results_found"
+  },
+  {
+    "business": "CF SPORTS",
+    "field": "GST Number",
+    "value": "03DUZPB6423C1ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cf-sports-03DUZPB6423C1ZS/",
+    "timestamp": "2026-08-26T10:02:06.759951"
+  },
+  {
+    "business": "CF SPORTS",
+    "field": "PAN Number",
+    "value": "DUZPB6423C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cf-sports-03DUZPB6423C1ZS/",
+    "timestamp": "2026-08-26T10:02:06.759961"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Owner",
+    "query": "CF SPORTS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codeforces.com/",
+      "https://www.zigwheels.com/cfmoto-bikes/",
+      "https://www.bikedekho.com/cfmoto-bikes",
+      "http://crossfire.z8games.com/"
+    ],
+    "timestamp": "2026-08-26T10:02:07.896907",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Owner",
+    "query": "CF SPORTS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codeforces.com/",
+      "https://www.zigwheels.com/cfmoto-bikes/",
+      "https://www.bikedekho.com/cfmoto-bikes",
+      "http://crossfire.z8games.com/"
+    ],
+    "timestamp": "2026-08-26T10:02:14.801790",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Address",
+    "query": "CF SPORTS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codeforces.com/",
+      "https://www.zigwheels.com/cfmoto-bikes/",
+      "https://www.bikedekho.com/cfmoto-bikes",
+      "http://crossfire.z8games.com/"
+    ],
+    "timestamp": "2026-08-26T10:02:20.843153",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Address",
+    "query": "CF SPORTS registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codeforces.com/",
+      "https://www.zigwheels.com/cfmoto-bikes/",
+      "https://www.bikedekho.com/cfmoto-bikes",
+      "http://crossfire.z8games.com/"
+    ],
+    "timestamp": "2026-08-26T10:02:29.544687",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Phone",
+    "query": "CF SPORTS phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codeforces.com/",
+      "https://www.zigwheels.com/cfmoto-bikes/",
+      "https://www.bikedekho.com/cfmoto-bikes",
+      "http://crossfire.z8games.com/"
+    ],
+    "timestamp": "2026-08-26T10:02:35.903424",
+    "status": "results_found"
+  },
+  {
+    "seller": "CF SPORTS",
+    "field": "Phone",
+    "query": "CF SPORTS contact phone",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://codeforces.com/"
+    ],
+    "timestamp": "2026-08-26T10:02:41.839220",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0G7JCBFNG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:02:43.483503"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T10:02:44.996162",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T10:02:57.013484",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T10:03:01.978764"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://gst.unifers.ai/gst/08AAJCC8517E1ZL/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-08-26T10:03:18.432999",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "33AAJCC8517E1ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+    "timestamp": "2026-08-26T10:03:19.172864"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+    "timestamp": "2026-08-26T10:03:19.172876"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T10:03:20.601656",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-26T10:03:28.335821",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T10:03:31.204943",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T10:03:38.504514",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T10:03:46.755342",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T10:03:53.125635",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0FR4SXK5G&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:04:01.746178"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T10:04:04.728388",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:13.278833",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-26T10:04:14.241388"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:04:16.287087"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:04:16.287100"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:04:16.287103"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:04:16.287106"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:18.159042",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:21.926625",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:26.816679",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:31.136000",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:34.486205",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:37.985485",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:04:46.940389",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://retailez.co.in/"
+    ],
+    "timestamp": "2026-08-26T10:04:50.802584",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-08-26T10:04:53.783947",
+    "status": "results_found"
+  },
+  {
+    "business": "ProStance Sports",
+    "field": "Business Name",
+    "value": "ProStance Sports",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ANSUQD42N4UE&asin=B0DV9N8BVV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:04:56.264926"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "Website",
+    "query": "ProStance Sports official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://investor.nvidia.com/stock-info/stock-quote-and-chart/default.aspx",
+      "https://www.investing.com/equities/nvidia-corp"
+    ],
+    "timestamp": "2026-08-26T10:04:57.951621",
+    "status": "results_found"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "Legal Entity Name",
+    "query": "ProStance Sports company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.listchallenges.com/400-best-animated-kids-movies",
+      "https://www.looper.com/1989895/best-animated-movies-of-2025/",
+      "https://www.ranker.com/list/list-of-all-cartoon-movies/ranker-film",
+      "https://www.moviefone.com/movies/animation/"
+    ],
+    "timestamp": "2026-08-26T10:05:16.246752",
+    "status": "results_found"
+  },
+  {
+    "business": "ProStance Sports",
+    "field": "Phone Number",
+    "value": "+916789101112",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.listchallenges.com/400-best-animated-kids-movies",
+    "timestamp": "2026-08-26T10:05:18.406449"
+  },
+  {
+    "business": "ProStance Sports",
+    "field": "Owner Name",
+    "value": "yu yang",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.looper.com/1989895/best-animated-movies-of-2025/",
+    "timestamp": "2026-08-26T10:05:19.298847"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "Legal Entity Name",
+    "query": "ProStance Sports Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.foxnews.com/us/new-orleans-man-wrongfully-convicted-rape-released-prison-36-years-others-could-be-next?msockid=3c43da9fe731676f06cbcd5ee6a96675",
+      "https://www.fox9.com/news/sullivan-walter-man-wrongfully-convicted-of-rape-at-17-exonerated-36-years-later",
+      "https://www.nbcnews.com/news/us-news/man-wrongfully-convicted-new-orleans-rape-teen-exonerated-decades-late-rcna44937",
+      "https://www.revolt.tv/article/2022-08-27/188645/man-exonerated-after-being-wrongfully-convicted-of-rape"
+    ],
+    "timestamp": "2026-08-26T10:05:27.754429",
+    "status": "results_found"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "PAN",
+    "query": "ProStance Sports PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://stripe.com/resources/more/primary-account-numbers",
+      "https://www.scribd.com/document/1063993966/invoice-labels-1784344262351-Research"
+    ],
+    "timestamp": "2026-08-26T10:05:38.007313",
+    "status": "results_found"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "PAN",
+    "query": "ProStance Sports PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://study.com/academy/lesson/inclusive-education-definition-importance-examples.html?msockid=3c43da9fe731676f06cbcd5ee6a96675",
+      "https://study.com/academy/lesson/inclusion-in-the-classroom-pros-cons.html?msockid=3c43da9fe731676f06cbcd5ee6a96675",
+      "https://teachinglicense.study.com/resources/lgbtq-educators-ally-support-in-schools.html",
+      "https://teachinglicense.study.com/praxis/praxis-tests-in-nebraska.html"
+    ],
+    "timestamp": "2026-08-26T10:05:49.657654",
+    "status": "results_found"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "GST",
+    "query": "ProStance Sports GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:05:53.423415",
+    "status": "no_results"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "GST",
+    "query": "ProStance Sports GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.britannica.com/art/LAngelus",
+      "https://hozana.org/priere/je-vous-salue-marie/angelus"
+    ],
+    "timestamp": "2026-08-26T10:05:55.209826",
+    "status": "results_found"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "Address",
+    "query": "ProStance Sports registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carousell.ph/p/australia-pasabuy-2026-1417269819/",
+      "https://www.foodbevg.com/AU/Sydney/111424981030170/AU-PH-Pasabuy",
+      "https://pasabayau.wixsite.com/pasabuyau",
+      "https://www.pasabuyapp.com/"
+    ],
+    "timestamp": "2026-08-26T10:06:06.512480",
+    "status": "results_found"
+  },
+  {
+    "business": "ProStance Sports",
+    "field": "Email Address",
+    "value": "pasabayau@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://pasabayau.wixsite.com/pasabuyau",
+    "timestamp": "2026-08-26T10:06:11.736285"
+  },
+  {
+    "seller": "ProStance Sports",
+    "field": "Address",
+    "query": "ProStance Sports registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ru.debounce.com/blog/multiple-spf-records/",
+      "https://uchecker.net/proverka-spf-zapisi",
+      "https://enterno.io/s/how-to-setup-spf-record",
+      "https://fastfox.pro/blog/tutorials/dns-txt-spf-dmarc-limits/"
+    ],
+    "timestamp": "2026-08-26T10:06:15.473873",
+    "status": "results_found"
+  },
+  {
+    "business": "ZestMart",
+    "field": "Business Name",
+    "value": "ZestMart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A297S1YGW2MOC1&asin=B0H2MDK5NR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:06:21.116646"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "Website",
+    "query": "ZestMart official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://mexiconewsdaily.com/",
+      "https://mexiconewsdaily.com/category/news/"
+    ],
+    "timestamp": "2026-08-26T10:06:22.687658",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "Legal Entity Name",
+    "query": "ZestMart company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/",
+      "https://www.google.co.in/index.html",
+      "https://trends.google.co.in/trends/"
+    ],
+    "timestamp": "2026-08-26T10:06:42.606425",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "PAN",
+    "query": "ZestMart PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/open-file-explorer-in-windows-11.20591/",
+      "https://www.elevenforum.com/t/add-or-remove-gallery-in-file-explorer-navigation-pane-in-windows-11.14178/"
+    ],
+    "timestamp": "2026-08-26T10:07:00.609248",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "GST",
+    "query": "ZestMart GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sbi.bank.in/web/customer-care/customer-care",
+      "https://sbi.bank.in/web/customer-care/contact-centre",
+      "https://onlinesbi.sbi.bank.in/",
+      "https://retail.sbi.bank.in/retail/login.htm"
+    ],
+    "timestamp": "2026-08-26T10:07:17.144079",
+    "status": "results_found"
+  },
+  {
+    "business": "ZestMart",
+    "field": "Phone Number",
+    "value": "+918004253800",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sbi.bank.in/web/customer-care/contact-centre",
+    "timestamp": "2026-08-26T10:07:25.218026"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "Owner",
+    "query": "ZestMart director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://open.endole.co.uk/insight/company/17046063-zestmart-ltd",
+      "https://foxinterviewer.com/people/agast-mishra-a-traders-ethos-driving-ethical-finance/",
+      "https://find-and-update.company-information.service.gov.uk/company/15463982/officers"
+    ],
+    "timestamp": "2026-08-26T10:07:34.023548",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "Owner",
+    "query": "ZestMart founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/17046063",
+      "https://open.endole.co.uk/insight/company/17046063-zestmart-ltd",
+      "https://zestmart2026.myshopify.com/pages/about-us",
+      "https://tracxn.com/d/legal-entities/india/zest-mart-departmental-stores-private-limited/__cPNW8C-Sl70yVTNype84y6F0zGj_jznDIogeF3mXlqo"
+    ],
+    "timestamp": "2026-08-26T10:07:44.913155",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "Address",
+    "query": "ZestMart registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.waze.com/live-map/directions/us/wa/redmond/microsoft-headquarters?to=place.ChIJGxUEuHFtkFQRnokD7mkppQE",
+      "https://maps.apple.com/place?place-id=ID98CEB9F91D6FF8B",
+      "https://www.waze.com/live-map/directions/us/wa/redmond/1-microsoft-way?to=place.ChIJCxXe93NtkFQRoOkFk9GZJJI",
+      "https://www.mapquest.com/us/washington/redmond/98052-6399/1-microsoft-way-47.63921,-122.12971"
+    ],
+    "timestamp": "2026-08-26T10:07:48.220974",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "Address",
+    "query": "ZestMart registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://m.dw.com/pt-br/fran%C3%A7a/t-17444870"
+    ],
+    "timestamp": "2026-08-26T10:07:58.532334",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZestMart",
+    "field": "Email",
+    "query": "ZestMart email contact address customer care",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://lichsuvietnam.org/mao-trach-dong/",
+      "https://viendongdaily.com/article/cach-mang-van-hoa-o-trung-quoc-cuoc-diet-chung-cua-mao-trach-dong-qua-RCzRiFub.html",
+      "https://lichsuvietnam.org/mao-trach-dong-la-ai/"
+    ],
+    "timestamp": "2026-08-26T10:08:01.542094",
+    "status": "results_found"
+  },
+  {
+    "business": "ZestMart",
+    "field": "Email Address",
+    "value": "strackeedgar2231992@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://lichsuvietnam.org/mao-trach-dong/",
+    "timestamp": "2026-08-26T10:08:04.158760"
+  }
+]

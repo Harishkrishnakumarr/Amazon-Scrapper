@@ -1,0 +1,22 @@
+{
+  "category": "Men Ethnic Wear",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+      "database_id": 89,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912837472024",
+      "email": "tasva@abfrl.adityabirla.com",
+      "gst": "33AAGCI0450F1Z3; 06AAGCI0450F1Z0; 29AAGCI0450F1ZS; 27AAGCI0450F1ZW; 23AAGCI0450F1Z4; 07AAGCI0450F1ZY; 36AAGCI0450F1ZX; 32AAGCI0450F1Z5; 05AAGCI0450F1Z2; 37AAGCI0450F1ZV; 24AAGCI0450F1Z2; 22AAGCI0450F1Z6; 09AAGCI0450F1ZU; 21AAGCI0450F1Z8; 08AAGCI0450F1ZW; 03AAGCI0450F1Z6; 10AAGCI0450F1ZB; 19AAGCI0450F1ZT; 06AAGCI0450F2ZZ; 04AAGCI0450F1Z4; 18AAGCI0450F1ZV",
+      "pan": "AAGCI0450F",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

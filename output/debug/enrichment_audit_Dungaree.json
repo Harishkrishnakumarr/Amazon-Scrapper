@@ -1,0 +1,865 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0CL3HV33V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T05:27:35.401295"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-15T05:27:36.827794",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-15T05:27:39.740192"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+915600552026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-15T05:27:40.899141"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-15T05:27:40.900261"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-15T05:27:47.857945",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-15T05:27:55.043875",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-15T05:27:59.167388",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-15T05:28:04.414408",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-15T05:28:09.169952",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-15T05:28:13.487804",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://gst.jamku.app/gstin/33AAJCC9783E1ZE",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-27aajcc9783e1z7/",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-27aajcc9783e1z7/",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-33aajcc9783e1ze/"
+    ],
+    "timestamp": "2026-08-15T05:28:19.942686",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "GST Number",
+    "value": "33AAJCC9783E1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-15T05:28:24.240837"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://clicktechretail.in/about/"
+    ],
+    "timestamp": "2026-08-15T05:28:25.918746",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd managing director",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://rocketreach.co/clicktech-retail-private-ltd-management_b7f272fdc25d83ce",
+      "https://clicktechretail.in/about/",
+      "https://www.thecompanycheck.com/people/clicktech-retail/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-15T05:28:29.819902",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/",
+      "https://www.clicktech.com/hub"
+    ],
+    "timestamp": "2026-08-15T05:28:37.585538",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-15T05:28:54.450725",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-15T05:28:59.611453",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd head office address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-15T05:29:04.847382",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B07FXF25GV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T05:29:07.854718"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-15T05:29:11.101300",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T05:29:29.354423"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T05:29:30.846946"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T05:29:30.847634"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/",
+      "https://gst.unifers.ai/gst/18AAJCC8517E1ZK/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-08-15T05:29:47.934991",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/09AAJCC8517E1ZJ/cocoblu-retail-limited",
+      "https://gst.unifers.ai/gst/08AAJCC8517E1ZL/cocoblu-retail-limited",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://gstserver.com/gst/27AAJCC8517E1ZL/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-08-15T05:30:08.511657",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.unifers.ai/gst/09AAJCC8517E1ZJ/cocoblu-retail-limited",
+    "timestamp": "2026-08-15T05:30:11.313565"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-15T05:30:14.302186",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+    "timestamp": "2026-08-15T05:30:14.644600"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-15T05:30:17.705548",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://theorg.com/org/cocoblu-retail",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.affluense.club/company/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-08-15T05:30:27.038484",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-15T05:30:37.150073",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/contact-us/",
+      "https://www.cocoblu.in/",
+      "https://contactout.com/company/Cocoblu-Retail-19325",
+      "https://opencorpdata.com/lei/335800J7FV7JRZL1PQ54"
+    ],
+    "timestamp": "2026-08-15T05:30:40.153142",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-15T05:30:40.615794"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-15T05:30:40.615804"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-15T05:30:40.615806"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-15T05:30:40.615808"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Business Name",
+    "value": "Woven Fabric Company.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1UPKE2816G6J9&asin=B0D3F4V21Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T05:30:40.967285"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Website",
+    "query": "Woven Fabric Company. official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://wovenfabriccompany.com/",
+      "https://wovenfabriccompany.com/products-main/"
+    ],
+    "timestamp": "2026-08-15T05:30:44.404681",
+    "status": "results_found"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Website URL",
+    "value": "https://www.wovenfabriccompany.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.wovenfabriccompany.com/",
+    "timestamp": "2026-08-15T05:30:56.303526"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Phone Number",
+    "value": "+911400117025",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.wovenfabriccompany.com/",
+    "timestamp": "2026-08-15T05:30:57.196729"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "Email Address",
+    "value": "info@wovenfabriccompany.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.wovenfabriccompany.com/",
+    "timestamp": "2026-08-15T05:30:57.197281"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Legal Entity Name",
+    "query": "Woven Fabric Company. company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.legalentityidentifier.in/leicert/335800DEWUWPPK1WZT13/",
+      "https://www.wovenfabriccompany.net/profile.html",
+      "https://loyaltextiles.com/",
+      "https://www.wovenfabriccompany.net/",
+      "https://wovenfabriccompany.com/"
+    ],
+    "timestamp": "2026-08-15T05:31:18.615205",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Legal Entity Name",
+    "query": "Woven Fabric Company. Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=f4b94f27044010114f5d2558a821716f&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.falconebiz.com/company/WOVEN-FABRIC-STUDIO-PRIVATE-LIMITED-U17299WB2021PTC243999",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.texonnonwovenfabric.com/registration-directors-info.html",
+      "https://www.indiafilings.com/search/woven-fabric-studio-private-limited-cin-U17299WB2021PTC243999"
+    ],
+    "timestamp": "2026-08-15T05:31:37.400341",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "PAN",
+    "query": "Woven Fabric Company. PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-info/csr-data-summary.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/grievance-cell.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/enquire-din-status.html",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-15T05:31:40.599750",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "PAN",
+    "query": "Woven Fabric Company. PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://wovenfabriccompany.com/",
+      "https://www.wovenfabriccompany.net/",
+      "https://www.wovenfabriccompany.in/",
+      "https://www.wovenfabriccompany.net/profile.html",
+      "https://wovenfabriccompany.com/why-woven-fabric/"
+    ],
+    "timestamp": "2026-08-15T05:31:51.226062",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "GST",
+    "query": "Woven Fabric Company. GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/woven-fabric-company-29aaafw8351q1zb/",
+      "https://www.mastersindia.co/gst-search/?name=woven-fabric-company&gstin=29AAAFW8351Q1ZB",
+      "https://www.mastersindia.co/gst-search/?name=woven-fabric-company&gstin=27AAAFW8351Q1ZF",
+      "https://www.knowyourgst.com/gst-number-search/woven-fabric-company-27AAAFW8351Q1ZF/",
+      "https://www.wovenfabriccompany.net/profile.html"
+    ],
+    "timestamp": "2026-08-15T05:32:01.240137",
+    "status": "results_found"
+  },
+  {
+    "business": "Woven Fabric Company.",
+    "field": "GST Number",
+    "value": "29AAAFW8351Q1ZB",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/woven-fabric-company-29aaafw8351q1zb/",
+    "timestamp": "2026-08-15T05:32:03.568905"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Owner",
+    "query": "Woven Fabric Company. director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://wovenfabriccompany.com/leadership/thomas-olickal/",
+      "https://wovenfabriccompany.com/leadership/sanjay-agrawal/",
+      "https://www.crunchbase.com/person/sanjay-agrawal-c483",
+      "https://www.datanyze.com/companies/woven-fabric/356436376",
+      "https://www.wovenfabriccompany.net/profile.html"
+    ],
+    "timestamp": "2026-08-15T05:32:06.846611",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Owner",
+    "query": "Woven Fabric Company. managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://wovenfabriccompany.com/leadership/",
+      "https://wovenfabriccompany.com/leadership/thomas-olickal/",
+      "https://rocketreach.co/woven-fabric-company-management_b5e21ce5f42e619c",
+      "https://www.datanyze.com/companies/woven-fabric/356436376",
+      "https://www.wovenfabriccompany.net/profile.html"
+    ],
+    "timestamp": "2026-08-15T05:32:16.554174",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Owner",
+    "query": "Woven Fabric Company. founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://wovenfabriccompany.com/leadership/jomon-antony/",
+      "https://wovenfabriccompany.com/leadership/sanjay-agrawal/",
+      "https://www.crunchbase.com/person/sanjay-agrawal-c483",
+      "https://www.wovenfabriccompany.net/profile.html",
+      "https://www.wovenfabriccompany.in/company-profile.html"
+    ],
+    "timestamp": "2026-08-15T05:32:26.510241",
+    "status": "results_found"
+  },
+  {
+    "seller": "Woven Fabric Company.",
+    "field": "Address",
+    "query": "Woven Fabric Company. registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://wovenfabriccompany.com/contact-us/",
+      "https://www.wovenfabriccompany.net/profile.html",
+      "https://opencorpdata.com/lei/335800DEWUWPPK1WZT13",
+      "https://www.wovenfabriccompany.net/",
+      "https://www.wovenfabriccompany.in/contact-us.html"
+    ],
+    "timestamp": "2026-08-15T05:32:29.528632",
+    "status": "results_found"
+  },
+  {
+    "business": "StyleStone",
+    "field": "Business Name",
+    "value": "StyleStone",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35FKUEZFWR9C8&asin=B0DD7F5CZM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T05:32:47.421498"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "Website",
+    "query": "StyleStone official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.stylestone.in/",
+      "https://www.stylestone.in/collections/collections"
+    ],
+    "timestamp": "2026-08-15T05:32:50.833952",
+    "status": "results_found"
+  },
+  {
+    "business": "StyleStone",
+    "field": "Website URL",
+    "value": "https://www.stylestone.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.stylestone.in/",
+    "timestamp": "2026-08-15T05:32:56.700976"
+  },
+  {
+    "business": "StyleStone",
+    "field": "Phone Number",
+    "value": "+916064602026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.stylestone.in/",
+    "timestamp": "2026-08-15T05:32:57.718873"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "Legal Entity Name",
+    "query": "StyleStone company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://vnbis.com/products/companies/style-stone-joint-stock-company-34335/",
+      "https://entitysearch.us/",
+      "https://www.emis.com/php/company-profile/VN/Style_Stone_Joint_Stock_Company__C%C3%B4ng_Ty_Cp_Style_Stone___C%C3%B4ng_Ty_Cp_Style_Stone__Style_Stone_Joint_Stock_Company___en_9230390.html",
+      "https://find-and-update.company-information.service.gov.uk/company/12327098",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-15T05:33:06.891185",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "Legal Entity Name",
+    "query": "StyleStone Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=108d86bb0aad1cbab916ecc4a667ca5e&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-info/csr-data-summary.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/grievance-cell.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/enquire-din-status.html"
+    ],
+    "timestamp": "2026-08-15T05:33:22.112298",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "PAN",
+    "query": "StyleStone PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.incometaxindia.gov.in/pan",
+      "https://tinpan.proteantech.in/services/pan/pan-index.html",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-15T05:33:28.380730",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "PAN",
+    "query": "StyleStone PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cosentino.com/usa/silestone/",
+      "https://www.cosentino.com/usa/dekton/countertops/",
+      "https://www.cosentino.com/kitchens/",
+      "https://www.cosentino.com/usa/dekton/dekton-washbasins/",
+      "https://www.cosentino.com/usa/bathrooms/shower-trays/"
+    ],
+    "timestamp": "2026-08-15T05:33:38.602792",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "GST",
+    "query": "StyleStone GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-15T05:33:53.686149",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "GST",
+    "query": "StyleStone GSTIN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/explore",
+      "https://www.zhihu.com/question/19860864"
+    ],
+    "timestamp": "2026-08-15T05:34:02.657691",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "GST",
+    "query": "StyleStone GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://gst.unifers.ai/gst/06ACVFS1380A1Z4/style-stone-llp",
+      "https://gst.iadv.io/STYLE-STONE-LLP-07ACVFS1380A1Z2/",
+      "https://gstserver.com/gst/07ACVFS1380A1Z2/",
+      "https://gst.jamku.app/gstin/06ACVFS1380A1Z4"
+    ],
+    "timestamp": "2026-08-15T05:34:13.011074",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "Owner",
+    "query": "StyleStone director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-15T05:34:14.269283",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "Owner",
+    "query": "StyleStone managing director",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.datanyze.com/companies/stylestone-surfaces/374548055",
+      "https://www.stylestone.in/",
+      "https://stylestone.ca/aboutus/story/"
+    ],
+    "timestamp": "2026-08-15T05:34:21.927418",
+    "status": "results_found"
+  },
+  {
+    "seller": "StyleStone",
+    "field": "Address",
+    "query": "StyleStone registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/LLP/STYLE-STONE-LLP-AAE-1386",
+      "https://vnbis.com/products/companies/style-stone-joint-stock-company-34335/",
+      "https://www.emis.com/php/company-profile/VN/Style_Stone_Joint_Stock_Company__C%C3%B4ng_Ty_Cp_Style_Stone___C%C3%B4ng_Ty_Cp_Style_Stone__Style_Stone_Joint_Stock_Company___en_9230390.html",
+      "https://www.stylestone.in/pages/contact",
+      "https://www.moneycontrol.com/company-facts/tvsmotorcompany/management/TVS"
+    ],
+    "timestamp": "2026-08-15T05:34:42.867275",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "category": "Makeup Nails",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "FSN Brands",
+      "database_id": 313,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915002152520",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.nykaa.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 314,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "infogrp@indiaratings.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    }
+  ]
+}

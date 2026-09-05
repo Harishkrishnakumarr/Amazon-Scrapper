@@ -1,0 +1,645 @@
+[
+  {
+    "business": "TRADZYO MART",
+    "field": "Business Name",
+    "value": "TRADZYO MART",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A338KVNMGIYBMQ&asin=B0FX5QB6CK&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:00:12.394424"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Website",
+    "query": "TRADZYO MART official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://trendzymart.com/",
+      "https://tradixo.in/"
+    ],
+    "timestamp": "2026-08-17T09:00:13.798656",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Legal Entity Name",
+    "query": "TRADZYO MART company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/21040260",
+      "https://www.zhihu.com/people/lu-chen-xi-9-98",
+      "https://www.zhihu.com/question/2049526919985730528",
+      "https://www.zhihu.com/question/518409182",
+      "https://www.zhihu.com/question/24517051"
+    ],
+    "timestamp": "2026-08-17T09:00:21.253287",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Legal Entity Name",
+    "query": "TRADZYO MART Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://portal.uum.edu.my/login",
+      "https://portal.uum.edu.my/fi/Vapaa-aika/Ulkoilu-&-retkeily/Kiikarit/c/1560"
+    ],
+    "timestamp": "2026-08-17T09:00:27.556971",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Legal Entity Name",
+    "query": "TRADZYO MART legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://search-sos.org/",
+      "https://search-sos.org/how-to-do-a-ucc-search/",
+      "https://search-sos.org/how-get-certificate-good-standing-illinois/",
+      "https://search-sos.org/missouri-mo-business-entity-corporation-search/",
+      "https://search-sos.org/wisconsin-wi-business-entity-corporation-search/"
+    ],
+    "timestamp": "2026-08-17T09:00:35.318913",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "PAN",
+    "query": "TRADZYO MART PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.paisabazaar.com/pan-card/how-to-track-pan-card-status/",
+      "https://www.paisabazaar.com/pan-card/form-61/",
+      "https://www.paisabazaar.com/pan-card/tan-verification/",
+      "https://www.paisabazaar.com/pan-card/how-to-change-photo-and-signature-in-pan-card/"
+    ],
+    "timestamp": "2026-08-17T09:00:43.644182",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "PAN",
+    "query": "TRADZYO MART PAN",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendzymart.com/",
+      "https://www.walmart.com/c/kp/cooking-pan",
+      "https://www.hmart.com/household---home/kitchenware",
+      "https://www.walmart.com/browse/home/shop-pots-pans/4044_623679_8140341_4666314"
+    ],
+    "timestamp": "2026-08-17T09:00:52.065942",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "GST",
+    "query": "TRADZYO MART GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://es.ccm.net/descargas/comunicacion/5426-facebook/",
+      "https://es.ccm.net/aplicaciones-e-internet/redes-sociales-y-mensajeria/2892-crear-una-cuenta-de-facebook/",
+      "https://forums.commentcamarche.net/forum/affich-38183718-facebook-commentaires-refuses",
+      "https://www.zdnet.fr/facebook-4000085268q.htm"
+    ],
+    "timestamp": "2026-08-17T09:01:03.064722",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "GST",
+    "query": "TRADZYO MART GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://services.gst.gov.in/services/quicklinks/searchtxp",
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/delhi-radio-mart-33aampy0056c1zu/"
+    ],
+    "timestamp": "2026-08-17T09:01:13.025273",
+    "status": "results_found"
+  },
+  {
+    "business": "TRADZYO MART",
+    "field": "GST Number",
+    "value": "33AAMPY0056C1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/delhi-radio-mart-33aampy0056c1zu/",
+    "timestamp": "2026-08-17T09:01:18.191186"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Owner",
+    "query": "TRADZYO MART director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://carsplus.thermeon.com/",
+      "https://app.carsandstars.com.au/",
+      "https://www.carsales.com.au/cars/",
+      "https://www.carsguide.com.au/?msockid=3868c7edc2246c163d8cd055c36f6dd7",
+      "https://www.cars24.com.au/"
+    ],
+    "timestamp": "2026-08-17T09:01:19.460728",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Owner",
+    "query": "TRADZYO MART managing director",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://corporate.walmart.com/about/leadership",
+      "https://www.irec.asia/bengaluru/sandeep-varaganti.php"
+    ],
+    "timestamp": "2026-08-17T09:01:26.458949",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Owner",
+    "query": "TRADZYO MART founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/604811435",
+      "https://www.zhihu.com/question/623690345",
+      "https://www.zhihu.com/question/44874556",
+      "https://www.zhihu.com/question/24897021",
+      "https://www.zhihu.com/people/yang-ce-ping"
+    ],
+    "timestamp": "2026-08-17T09:01:35.404623",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Address",
+    "query": "TRADZYO MART registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://herofactory.fandom.com/wiki/Black_Phantom"
+    ],
+    "timestamp": "2026-08-17T09:01:40.438931",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Address",
+    "query": "TRADZYO MART registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/16592018",
+      "https://proquiro.com/sro-directory/tamil-nadu/nanguneri",
+      "https://tirunelveli.nic.in/contact-directory/",
+      "https://www.smergers.com/electric-vehicles-businesses-for-sale-and-investment-in-tamil-nadu/c115s295b/",
+      "https://tirunelveli.nic.in/election/"
+    ],
+    "timestamp": "2026-08-17T09:01:51.127098",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Phone",
+    "query": "TRADZYO MART phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.health.govt.nz/monitoring-statistics/surveys/new-zealand-health-survey",
+      "https://www.healthnz.govt.nz/about-us/health-data/health-surveys/new-zealand-health-survey",
+      "https://www.health.govt.nz/publications/annual-update-of-key-results-202425-new-zealand-health-survey",
+      "https://www.mhwc.govt.nz/our-work/wellbeing/nz-health-survey-mental-health-and-substance-use-data/",
+      "https://www.mhwc.govt.nz/assets/Reports/Health-Survey-23-24/Health-Survey-2023-24-key-findings-August-2025.pdf"
+    ],
+    "timestamp": "2026-08-17T09:02:04.525104",
+    "status": "results_found"
+  },
+  {
+    "business": "TRADZYO MART",
+    "field": "Phone Number",
+    "value": "+916111161737",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.health.govt.nz/monitoring-statistics/surveys/new-zealand-health-survey",
+    "timestamp": "2026-08-17T09:02:07.966667"
+  },
+  {
+    "seller": "TRADZYO MART",
+    "field": "Email",
+    "query": "TRADZYO MART email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://fireant.vn/",
+      "https://fireant.vn/dashboard",
+      "https://web.fireant.vn/dashboard",
+      "https://w.fireant.vn/ma-chung-khoan/VNINDEX",
+      "https://ir.fireant.vn/vn"
+    ],
+    "timestamp": "2026-08-17T09:02:09.208928",
+    "status": "results_found"
+  },
+  {
+    "business": "FURNEASER",
+    "field": "Business Name",
+    "value": "FURNEASER",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1AMXAR4OPPF3V&asin=B0FC6D9VMG&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:02:25.082025"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Website",
+    "query": "FURNEASER official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://news.yahoo.co.jp/categories/domestic"
+    ],
+    "timestamp": "2026-08-17T09:02:26.580004",
+    "status": "results_found"
+  },
+  {
+    "business": "FURNEASER",
+    "field": "Website URL",
+    "value": "https://www.furneaser.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.furneaser.com/",
+    "timestamp": "2026-08-17T09:02:28.543845"
+  },
+  {
+    "business": "FURNEASER",
+    "field": "Phone Number",
+    "value": "+919741072026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.furneaser.com/",
+    "timestamp": "2026-08-17T09:02:29.761322"
+  },
+  {
+    "business": "FURNEASER",
+    "field": "Email Address",
+    "value": "furneaser@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.furneaser.com/",
+    "timestamp": "2026-08-17T09:02:29.762449"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Legal Entity Name",
+    "query": "FURNEASER company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/09AAIFF9448H1ZX/furneaser",
+      "https://secretaryofstate.com/",
+      "https://entitysearch.us/",
+      "https://faberindia.com/pages/after-sales-service",
+      "https://sam.gov/entity-information"
+    ],
+    "timestamp": "2026-08-17T09:02:38.205565",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "PAN",
+    "query": "FURNEASER PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://duo.com/product/multi-factor-authentication-mfa/duo-mobile-app",
+      "https://excesssecurity.com/duo-mobile/",
+      "https://apps.apple.com/jp/app/duo-mobile/id422663827",
+      "https://security.aetheria.jp/506/",
+      "https://guide.duo.com/iphone/"
+    ],
+    "timestamp": "2026-08-17T09:02:56.175060",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "PAN",
+    "query": "FURNEASER PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forums.whirlpool.net.au/archive/2712511",
+      "https://forums.whirlpool.net.au/archive/30x1l7k5",
+      "https://www.japannetbank.co.jp/investment/trust/index.html?cr=top_gl02",
+      "https://www.japannetbank.co.jp/investment/trust/report.html",
+      "https://forums.whirlpool.net.au/archive/9jm6k4k1"
+    ],
+    "timestamp": "2026-08-17T09:03:07.364539",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "GST",
+    "query": "FURNEASER GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.reddit.com/r/writing/",
+      "https://www.zhihu.com/question/2058849029027632241"
+    ],
+    "timestamp": "2026-08-17T09:03:16.987094",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "GST",
+    "query": "FURNEASER GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.online-stopwatch.com/timer/10minutes/",
+      "https://timer.now/set-timer-for-10-minutes/",
+      "https://123timer.com/10-minute",
+      "https://set-timer.com/10-minute-timer/",
+      "https://timer.live/10-minute-timer"
+    ],
+    "timestamp": "2026-08-17T09:03:27.231052",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Owner",
+    "query": "FURNEASER director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://shop.sake-japan.jp/"
+    ],
+    "timestamp": "2026-08-17T09:03:38.374328",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Owner",
+    "query": "FURNEASER managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://x.com/hashtag/%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "https://x.com/Twitch",
+      "https://help.x.com/th/using-x",
+      "https://help.x.com/th/using-x/create-x-account",
+      "https://www.twitch.tv/?lang=th"
+    ],
+    "timestamp": "2026-08-17T09:03:43.357373",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Owner",
+    "query": "FURNEASER founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.uqwimax.jp/mobile/newplan/setwari/jitaku/",
+      "https://www.uqwimax.jp/mobile/newplan/setwari/",
+      "https://selectra.jp/telecom/mobile/uqmobile-home-discount",
+      "https://mobareco.jp/a222868/",
+      "https://www.simlabo.jp/uqmobile/entry/denki-set"
+    ],
+    "timestamp": "2026-08-17T09:03:55.281694",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Address",
+    "query": "FURNEASER registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://baike.baidu.com/item/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89/222849",
+      "https://ticketplus.com.tw/activity/39e011c895a371c40416497f696652bd"
+    ],
+    "timestamp": "2026-08-17T09:03:59.324988",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Address",
+    "query": "FURNEASER registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cn.cari.com.my/forum.php?mod=viewthread&action=printable&tid=4071082",
+      "https://cn.cari.com.my/forum.php?mod=viewthread&tid=4071082",
+      "https://cn.cari.com.my/archiver/?page=92",
+      "https://cn.cari.com.my/forum.php?mod=viewthread&tid=1755727",
+      "https://cn.cari.com.my/portal.php"
+    ],
+    "timestamp": "2026-08-17T09:04:09.565343",
+    "status": "results_found"
+  },
+  {
+    "seller": "FURNEASER",
+    "field": "Address",
+    "query": "FURNEASER head office address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-17T09:04:11.414672",
+    "status": "results_found"
+  },
+  {
+    "business": "G Mart Global",
+    "field": "Business Name",
+    "value": "G Mart Global",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1MRFSFXRSVUE&asin=B0H6M9MN8K&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:04:14.314193"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Website",
+    "query": "G Mart Global official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://global.gmarket.co.kr/item?goodscode=4402589785"
+    ],
+    "timestamp": "2026-08-17T09:04:18.335707",
+    "status": "results_found"
+  },
+  {
+    "business": "G Mart Global",
+    "field": "Website URL",
+    "value": "https://www.gmartglobal.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.gmartglobal.com/",
+    "timestamp": "2026-08-17T09:04:19.712246"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Legal Entity Name",
+    "query": "G Mart Global company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.companydetails.in/company/g-mart-global-private-limited",
+      "https://www.falconebiz.com/company/G-MART-GLOBAL-PRIVATE-LIMITED-U47810MP2024PTC071851",
+      "https://www.thecompanycheck.com/company/g-mart-global-private-limited/U47810MP2024PTC071851",
+      "https://www.indiafilings.com/search/g-mart-global-private-limited-cin-U47810MP2024PTC071851",
+      "https://tracxn.com/d/legal-entities/india/g-mart-global-private-limited/__eoiJaFQMFNas8pZRGqLHa5u8VFZkKzL0Q2HsFAF_jxc"
+    ],
+    "timestamp": "2026-08-17T09:04:26.469268",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "PAN",
+    "query": "G Mart Global PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/global-mart-33avnps7886g2zr/",
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://cleartax.in/gst-number-search/",
+      "https://razorpay.com/gst-number-search/pan/"
+    ],
+    "timestamp": "2026-08-17T09:05:08.371346",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "PAN",
+    "query": "G Mart Global PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://global.gmarket.co.kr/item?goodscode=4402589785",
+      "https://global.gmarket.co.kr/item?goodscode=4209944117",
+      "https://global.gmarket.co.kr/item?goodscode=4351546300",
+      "https://global.gmarket.co.kr/InternationalShippingInfo/"
+    ],
+    "timestamp": "2026-08-17T09:05:19.663528",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "GST",
+    "query": "G Mart Global GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-17T09:05:29.878934",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "GST",
+    "query": "G Mart Global GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/newzen-global-mart-private-limited-33AAHCN6136E1ZO/",
+      "https://piceapp.com/gst-number-search/nandilath-gmart-32accpg7719g1zw/",
+      "https://piceapp.com/gst-number-search/g-mart-33aaxfg5274d1z6/",
+      "https://www.mastersindia.co/gst-search/?name=gobind-global-mart-private-limited&gstin=06AABCA0886G2ZU"
+    ],
+    "timestamp": "2026-08-17T09:05:39.528028",
+    "status": "results_found"
+  },
+  {
+    "business": "G Mart Global",
+    "field": "GST Number",
+    "value": "33AAHCN6136E1ZO",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/newzen-global-mart-private-limited-33AAHCN6136E1ZO/",
+    "timestamp": "2026-08-17T09:05:42.682335"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Owner",
+    "query": "G Mart Global director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://uniquetimes.org/south-indias-retail-king-gopu-nandilath/",
+      "https://www.thecompanycheck.com/people-profile/gopalakrishnan-gopu-nandilath/03366660"
+    ],
+    "timestamp": "2026-08-17T09:05:47.122241",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Owner",
+    "query": "G Mart Global managing director",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://search.google/intl/en-IN/"
+    ],
+    "timestamp": "2026-08-17T09:05:56.886773",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Owner",
+    "query": "G Mart Global founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://uniquetimes.org/south-indias-retail-king-gopu-nandilath/",
+      "https://www.thebrandlaureate.com/projects/gmart/",
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://uniquetimes.org/gopu-nandilath-the-man-who-made-south-indias-largest-white-goods-empire/"
+    ],
+    "timestamp": "2026-08-17T09:06:02.290831",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Address",
+    "query": "G Mart Global registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "http://www.g-martintl.com/index.php?m=home&c=Lists&a=index&tid=240",
+      "https://find-and-update.company-information.service.gov.uk/company/06967310",
+      "https://prospeo.io/c/gmart",
+      "http://g-martintl.com/",
+      "https://gmartindustries.com/contact"
+    ],
+    "timestamp": "2026-08-17T09:06:06.503697",
+    "status": "results_found"
+  }
+]

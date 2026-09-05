@@ -1,0 +1,533 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B071YXMKRG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T18:40:49.010016"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-08-21T18:40:50.553006",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T18:40:54.453978"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T18:40:55.122253"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-21T18:40:55.122934"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U52399DL2021PLC388574%20and%20its%20current%20status%20is%20Active.",
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-21T18:41:00.064926",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.deldure.com/s/0/cocoblu-retail-private-limited-registration",
+      "https://www.thecompanycheck.com/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-21T18:41:08.914292",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U#:~:text=COCOBLU%20RETAIL%20LIMITED%20is%20a%20Public%20Limited%20Company,South%20West%20Delhi%2C%20New%20Delhi%2C%20Delhi%2C%20India%2C%20110016.",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.thecompanycheck.com/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-21T18:41:14.093484",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstserver.com/gst/27AAJCC8517E1ZL/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-27AAJCC8517E1ZL/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/",
+      "https://gst.unifers.ai/gst/08AAJCC8517E1ZL/cocoblu-retail-limited",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-21T18:41:18.879743",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/27AAJCC8517E1ZL/",
+    "timestamp": "2026-08-21T18:41:20.081807"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-27AAJCC8517E1ZL/",
+      "https://gst.jamku.app/gstin/27AAJCC8517E1ZL",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/"
+    ],
+    "timestamp": "2026-08-21T18:41:21.598781",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "27AAJCC8517E1ZL",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-27AAJCC8517E1ZL/",
+    "timestamp": "2026-08-21T18:41:22.340813"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://www.indiafashionforum.in/team/mouli-venkataraman/"
+    ],
+    "timestamp": "2026-08-21T18:41:24.119544",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/wp-content/uploads/2024/08/notice-of-agm_cocoblu.pdf",
+      "https://www.cocoblu.in/",
+      "https://www.thecompanycheck.com/people/cocoblu-retail/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-21T18:41:34.024465",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-21T18:41:41.737482",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/contact-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://opencorpdata.com/lei/335800J7FV7JRZL1PQ54",
+      "https://contactout.com/company/Cocoblu-Retail-19325"
+    ],
+    "timestamp": "2026-08-21T18:41:44.837760",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T18:41:46.219047"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T18:41:46.219060"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T18:41:46.219064"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-21T18:41:46.219067"
+  },
+  {
+    "business": "Jhingalala Prints",
+    "field": "Business Name",
+    "value": "Jhingalala Prints",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35FR6J7BA9FF9&asin=B0F186TB9Y&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T18:41:46.823396"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Website",
+    "query": "Jhingalala Prints official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.jhingalala.in/",
+      "http://jhingalala.net/"
+    ],
+    "timestamp": "2026-08-21T18:41:48.388012",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Legal Entity Name",
+    "query": "Jhingalala Prints company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.quickcompany.in/trademarks/4058963-jhingalala",
+      "https://www.inspex.in/",
+      "https://www.msmeregistration.gov.in/UdyamRegistration.aspx",
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints"
+    ],
+    "timestamp": "2026-08-21T18:41:54.132728",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Legal Entity Name",
+    "query": "Jhingalala Prints Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/master-data/MDS.html",
+      "https://udyogaadhaar.gov.in/UdyamRegistration.aspx",
+      "https://udyamregistration.gov.in/",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-21T18:42:06.628481",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "PAN",
+    "query": "Jhingalala Prints PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://onlineservices.proteantech.in/paam/ReprintEPan.html#:~:text=Just%20give%20us%20a%20call%20at%20020-27218080%20any,reprinted%20PAN%20card%20through%20a%20simple%2C%20hassle-free%20process.",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/reprintHome",
+      "https://www.utiitsl.com/UTIITSL_NEW/home?lang=en",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://jantapro.org.in/"
+    ],
+    "timestamp": "2026-08-21T18:42:14.798100",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "PAN",
+    "query": "Jhingalala Prints PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jhingalala.in/",
+      "https://jantapro.org.in/",
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/reprintHome"
+    ],
+    "timestamp": "2026-08-21T18:42:21.216874",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "PAN",
+    "query": "Jhingalala Prints PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.utiitsl.com/UTIITSL_NEW/home?lang=en",
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://www.jhingalala.in/",
+      "https://jantapro.org.in/",
+      "https://incometaxindia.gov.in/pan-verification"
+    ],
+    "timestamp": "2026-08-21T18:42:30.419560",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "GST",
+    "query": "Jhingalala Prints GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-21T18:42:36.389156",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "GST",
+    "query": "Jhingalala Prints GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://www.jhingalala.in/",
+      "https://gstverify.co.in/search/",
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://services.gst.gov.in/services/searchtp"
+    ],
+    "timestamp": "2026-08-21T18:42:40.712845",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "GST",
+    "query": "Jhingalala Prints GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-21T18:42:45.877621",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Owner",
+    "query": "Jhingalala Prints director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.brilliantread.com/interview-with-mohammad-barkat-ali-founder-and-director-at-jhingalala/",
+      "https://www.ceoinsightsindia.com/leader/mohammad-barkat-ali-inspired-by-design-and-driven-by-creativity-cid-2196.html",
+      "https://www.etvbharat.com/hi/state/know-the-success-story-of-dr-manoj-sharma-owner-of-jhingalala-company-uttar-pradesh-news-ups26030203409"
+    ],
+    "timestamp": "2026-08-21T18:42:52.866767",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Owner",
+    "query": "Jhingalala Prints managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.brilliantread.com/interview-with-mohammad-barkat-ali-founder-and-director-at-jhingalala/",
+      "https://www.ceoinsightsindia.com/leader/mohammad-barkat-ali-inspired-by-design-and-driven-by-creativity-cid-2196.html",
+      "https://www.jhingalala.in/"
+    ],
+    "timestamp": "2026-08-21T18:43:07.702483",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Address",
+    "query": "Jhingalala Prints registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://www.jhingalala.in/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html"
+    ],
+    "timestamp": "2026-08-21T18:43:13.411643",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Address",
+    "query": "Jhingalala Prints registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://www.jhingalala.in/",
+      "https://brandfetch.com/jhingalala.in"
+    ],
+    "timestamp": "2026-08-21T18:43:21.551778",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Address",
+    "query": "Jhingalala Prints head office address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://www.jhingalala.in/",
+      "https://www.credhive.in/ind/corporate/U01100DL2018PTC331715/JHINGALALA%252525252520AQUATECH%252525252520PRIVATE%252525252520LIMITED/overview"
+    ],
+    "timestamp": "2026-08-21T18:43:25.846026",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Phone",
+    "query": "Jhingalala Prints phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://www.jhingalala.in/",
+      "https://www.zoominfo.com/p/Jhingalala-In/8389585147",
+      "https://amazon-india.pissedconsumer.com/customer-service.html"
+    ],
+    "timestamp": "2026-08-21T18:43:30.448175",
+    "status": "results_found"
+  },
+  {
+    "business": "Jhingalala Prints",
+    "field": "Phone Number",
+    "value": "+910190552026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+    "timestamp": "2026-08-21T18:43:31.246651"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Email",
+    "query": "Jhingalala Prints email contact address customer care",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/jhingalala-prints",
+      "https://www.jhingalala.in/",
+      "https://www.zoominfo.com/p/Jhingalala-In/8389585147"
+    ],
+    "timestamp": "2026-08-21T18:43:32.769812",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jhingalala Prints",
+    "field": "Email",
+    "query": "Jhingalala Prints official email id",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.biswabangla.in/",
+      "https://www.printstop.co.in/",
+      "https://kailashpaper.com/",
+      "https://www.printshoppy.com/",
+      "https://sjpnl.com/"
+    ],
+    "timestamp": "2026-08-21T18:43:36.662137",
+    "status": "results_found"
+  },
+  {
+    "business": "Jhingalala Prints",
+    "field": "Email Address",
+    "value": "care@artisans.org.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.biswabangla.in/",
+    "timestamp": "2026-08-21T18:43:39.221510"
+  }
+]

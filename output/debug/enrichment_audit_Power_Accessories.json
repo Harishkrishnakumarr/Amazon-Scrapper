@@ -1,0 +1,1016 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0FH2J1255&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:09:32.131097"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T16:09:33.874734",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:09:42.045664"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:09:42.928028"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T16:09:42.928623"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:09:48.966515",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:10:00.548264",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:10:05.474434",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:10:19.780170",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:10:21.577096",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:10:29.481348",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T16:10:39.014027",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:10:52.180698",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:10:53.758358",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T16:11:03.918872",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B010UQLLHY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:11:09.247601"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T16:11:10.877079",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:11:15.477735",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T16:11:16.569178"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=258438&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=e65f7fd921a2106650181557e3524bbe",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/"
+    ],
+    "timestamp": "2026-08-26T16:11:53.201861",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:11:55.441998",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T16:12:29.658407",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://gst.jamku.app/gstin/33AAJCC9783E1ZE",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-29aajcc9783e1z3/"
+    ],
+    "timestamp": "2026-08-26T16:12:33.157012",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "GST Number",
+    "value": "33AAJCC9783E1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-26T16:12:33.639613"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "PAN Number",
+    "value": "AAJCC9783E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-26T16:12:33.639623"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:12:35.397671",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-26T16:12:42.942067",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:12:43.475352"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:12:43.475370"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:12:43.475374"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T16:12:43.475377"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:12:48.274130",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:13:22.431854",
+    "status": "results_found"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "Business Name",
+    "value": "SS INDIAN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AYDH03V46VZXQ&asin=B0DNTQB4N1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T16:13:23.612588"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "Website",
+    "query": "SS INDIAN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://repository.ias.ac.in/129241/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369275/"
+    ],
+    "timestamp": "2026-08-26T16:13:25.331576",
+    "status": "results_found"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "Legal Entity Name",
+    "query": "SS INDIAN company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jw.org/ja/",
+      "https://www.jw.org/en/",
+      "https://wol.jw.org/ja/wol/h/r7/lp-j",
+      "https://wol.jw.org/en/wol/h/r1/lp-e"
+    ],
+    "timestamp": "2026-08-26T16:13:30.294289",
+    "status": "results_found"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "Legal Entity Name",
+    "query": "SS INDIAN Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company%20online&device=c&Adposition=&physical=258438&match_type=p&gclid=&network=register%20pvt%20ltd%20company%20online&target_name=kwd-83769913535101:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company%20online&msclkid=35fa19ea68b61d9cb8937364abec55c0",
+      "https://www.ssindia.net.in/",
+      "https://www.ssindia.net.in/index.php",
+      "https://www.ssindia.net.in/about.php"
+    ],
+    "timestamp": "2026-08-26T16:13:38.248738",
+    "status": "results_found"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company%20online&device=c&Adposition=&physical=258438&match_type=p&gclid=&network=register%20pvt%20ltd%20company%20online&target_name=kwd-83769913535101:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company%20online&msclkid=35fa19ea68b61d9cb8937364abec55c0",
+    "timestamp": "2026-08-26T16:13:39.546255"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company%20online&device=c&Adposition=&physical=258438&match_type=p&gclid=&network=register%20pvt%20ltd%20company%20online&target_name=kwd-83769913535101:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company%20online&msclkid=35fa19ea68b61d9cb8937364abec55c0",
+    "timestamp": "2026-08-26T16:13:39.546925"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "PAN",
+    "query": "SS INDIAN PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T16:13:48.624568",
+    "status": "results_found"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "PAN",
+    "query": "SS INDIAN PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://nriinvestindia.com/pan-card-us-residents-complete-guide/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://nripancard.org/what-is-pan-card.html"
+    ],
+    "timestamp": "2026-08-26T16:13:54.166543",
+    "status": "results_found"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-26T16:13:57.120409"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-26T16:13:57.120428"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "Owner",
+    "query": "SS INDIAN director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wikihow.com/Water-Plants-While-You%27re-Away",
+      "https://gardeningsoul.com/9-brilliant-ways-to-water-your-plants-while-you-arent-home/",
+      "https://gardentruth.com/how-to-water-plants-while-on-vacation/",
+      "https://ezgardentips.com/how-to-water-plants-when-you-re-not-there.html"
+    ],
+    "timestamp": "2026-08-26T16:14:00.717917",
+    "status": "results_found"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "Owner",
+    "query": "SS INDIAN founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fmkorea.com/",
+      "https://www.fmkorea.com/afreecatv",
+      "https://www.fmkorea.com/ib",
+      "https://www.fmkorea.com/best"
+    ],
+    "timestamp": "2026-08-26T16:14:10.721936",
+    "status": "results_found"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "Address",
+    "query": "SS INDIAN registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.outlook.com/owa/cridf.iledefrance.fr",
+      "https://outlook.com/owa/Office365.com",
+      "https://outlook.com/owa/schools.nyc.gov",
+      "https://www.outlook.com/newsletters"
+    ],
+    "timestamp": "2026-08-26T16:14:15.864917",
+    "status": "results_found"
+  },
+  {
+    "seller": "SS INDIAN",
+    "field": "Address",
+    "query": "SS INDIAN registered address",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ss-india-savings-private-limited/__xh8WNyNOS4qVphaNt6Csv-b0vn2H-vs8OIiEyaGTsRY",
+      "https://www.ssindia.net.in/",
+      "https://www.thecompanycheck.com/company/s-s-india-private-limited/U51909DL1996PTC079051"
+    ],
+    "timestamp": "2026-08-26T16:14:25.344427",
+    "status": "results_found"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-india-savings-private-limited/__xh8WNyNOS4qVphaNt6Csv-b0vn2H-vs8OIiEyaGTsRY",
+    "timestamp": "2026-08-26T16:14:26.432718"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-india-savings-private-limited/__xh8WNyNOS4qVphaNt6Csv-b0vn2H-vs8OIiEyaGTsRY",
+    "timestamp": "2026-08-26T16:14:26.432735"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-india-savings-private-limited/__xh8WNyNOS4qVphaNt6Csv-b0vn2H-vs8OIiEyaGTsRY",
+    "timestamp": "2026-08-26T16:14:26.432739"
+  },
+  {
+    "business": "SS INDIAN",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ss-india-savings-private-limited/__xh8WNyNOS4qVphaNt6Csv-b0vn2H-vs8OIiEyaGTsRY",
+    "timestamp": "2026-08-26T16:14:26.432743"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Business Name",
+    "value": "Hoteon Trading Pvt. Ltd.,",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NO7NQ7CMFIEG&asin=B094N38H7X&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:14:26.861321"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Website",
+    "query": "Hoteon Trading Pvt. Ltd., official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://casino.guru/online-casino-bonuses",
+      "https://www.askgamblers.com/casino-bonuses"
+    ],
+    "timestamp": "2026-08-26T16:14:28.342685",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Legal Entity Name",
+    "query": "Hoteon Trading Pvt. Ltd., company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/hoteon-trading-private-limited/__tko5b9mfVZT3wRAN9Ya2BO6YQ19juS3PzygXoeAeHWA",
+      "https://www.falconebiz.com/company/U51102KA2015PTC079750/",
+      "https://www.thecompanycheck.com/company/hoteon-trading-private-limited/U51102KA2015PTC079750",
+      "https://www.falconebiz.com/company/HOTEON-TRADING-PRIVATE-LIMITED-U51102KA2015PTC079750"
+    ],
+    "timestamp": "2026-08-26T16:15:14.373145",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "PAN",
+    "query": "Hoteon Trading Pvt. Ltd., PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/06AADCH5930J1ZK/hoteon-trading-private-limited",
+      "https://gst.iadv.io/HOTEON-TRADING-PRIVATE-LIMITED-24AADCH5930J1ZM/",
+      "https://gstverify.co.in/gst/hoteon-trading-private-limited-29aadch5930j1zc/",
+      "https://tracxn.com/d/legal-entities/india/hoteon-trading-private-limited/__tko5b9mfVZT3wRAN9Ya2BO6YQ19juS3PzygXoeAeHWA"
+    ],
+    "timestamp": "2026-08-26T16:15:18.828537",
+    "status": "results_found"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "GST Number",
+    "value": "24AADCH5930J1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/HOTEON-TRADING-PRIVATE-LIMITED-24AADCH5930J1ZM/",
+    "timestamp": "2026-08-26T16:15:39.951370"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "PAN Number",
+    "value": "AADCH5930J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/HOTEON-TRADING-PRIVATE-LIMITED-24AADCH5930J1ZM/",
+    "timestamp": "2026-08-26T16:15:39.951392"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Owner",
+    "query": "Hoteon Trading Pvt. Ltd., director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/hoteon-trading-private-limited/__tko5b9mfVZT3wRAN9Ya2BO6YQ19juS3PzygXoeAeHWA",
+      "https://www.masterdata.in/company/hoteon_trading_private_limited/U51102KA2015PTC079750",
+      "https://www.filesure.in/company/hoteon-trading-private-limited/U51102KA2015PTC079750?tab=about",
+      "https://www.crunchbase.com/person/robin-zuo"
+    ],
+    "timestamp": "2026-08-26T16:15:43.450797",
+    "status": "results_found"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hoteon-trading-private-limited/__tko5b9mfVZT3wRAN9Ya2BO6YQ19juS3PzygXoeAeHWA",
+    "timestamp": "2026-08-26T16:15:44.189251"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hoteon-trading-private-limited/__tko5b9mfVZT3wRAN9Ya2BO6YQ19juS3PzygXoeAeHWA",
+    "timestamp": "2026-08-26T16:15:44.189269"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hoteon-trading-private-limited/__tko5b9mfVZT3wRAN9Ya2BO6YQ19juS3PzygXoeAeHWA",
+    "timestamp": "2026-08-26T16:15:44.189274"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/hoteon-trading-private-limited/__tko5b9mfVZT3wRAN9Ya2BO6YQ19juS3PzygXoeAeHWA",
+    "timestamp": "2026-08-26T16:15:44.189279"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Owner",
+    "query": "Hoteon Trading Pvt. Ltd., founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.shazam.com/song/585996866/chithi-teri-aayi",
+      "https://open.spotify.com/track/6BOD4OGVybwIKGtVOixRzH",
+      "https://gaana.com/song/chithi-teri-aayi",
+      "https://www.jiosaavn.com/song/chithi-teri-aayee/Ly8MWwdCBUs"
+    ],
+    "timestamp": "2026-08-26T16:15:49.339559",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Phone",
+    "query": "Hoteon Trading Pvt. Ltd., phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://stackoverflow.com/questions/60287504/how-display-images-from-google-drive-on-gsheet-cell",
+      "https://stackoverflow.com/questions/48122091/copy-file-from-google-drive-to-google-cloud-storage-within-google",
+      "https://www.tenforums.com/tutorials/48991-add-remove-google-drive-navigation-pane-windows-10-a.html"
+    ],
+    "timestamp": "2026-08-26T16:15:59.373892",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Phone",
+    "query": "Hoteon Trading Pvt. Ltd., contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://corbettmaths.com/2019/08/22/expanding-brackets-practice-questions/",
+      "https://corbettmaths.com/2019/09/18/expanding-brackets-textbook-exercise/",
+      "https://www.draustinmaths.com/expanding-and-factorising",
+      "https://worksheetmath.com/Algebra/SingleBrackets/"
+    ],
+    "timestamp": "2026-08-26T16:16:04.331709",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Email",
+    "query": "Hoteon Trading Pvt. Ltd., email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kakaocorp.com/page/service/all",
+      "https://www.kakaocorp.com/page/service/service/KakaoTalk",
+      "https://talk-apps.kakao.com/scheme/kakaotalk",
+      "https://itsoftpedia.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-kakaotalk-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-pc%EB%B2%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-%EC%84%A4%EC%B9%98/"
+    ],
+    "timestamp": "2026-08-26T16:16:14.128537",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Email",
+    "query": "Hoteon Trading Pvt. Ltd., contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tiktok.com/",
+      "https://www.tiktok.com/pt-BR",
+      "https://business.tiktok.com/",
+      "https://seller-ph.tiktok.com/?msockid=36a747ea8a796ad805e3502b8b9b6b5e"
+    ],
+    "timestamp": "2026-08-26T16:16:24.432951",
+    "status": "results_found"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Email Address",
+    "value": "mercuriojohn_mercurio@motionpictures.orgbytedance",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tiktok.com/",
+    "timestamp": "2026-08-26T16:16:26.903643"
+  },
+  {
+    "business": "Radhe Techno Service",
+    "field": "Business Name",
+    "value": "Radhe Techno Service",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3J0NKQ7KD4R4K&asin=B082WYMTWF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:16:28.410578"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Website",
+    "query": "Radhe Techno Service official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o"
+    ],
+    "timestamp": "2026-08-26T16:16:30.797770",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Legal Entity Name",
+    "query": "Radhe Techno Service company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:16:42.513979",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Legal Entity Name",
+    "query": "Radhe Techno Service Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:16:58.031785",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "PAN",
+    "query": "Radhe Techno Service PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:16:59.576333",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "PAN",
+    "query": "Radhe Techno Service PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:17:15.226025",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "GST",
+    "query": "Radhe Techno Service GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:17:17.754855",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Owner",
+    "query": "Radhe Techno Service director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:17:34.458639",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Address",
+    "query": "Radhe Techno Service registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:17:49.938358",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Address",
+    "query": "Radhe Techno Service registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:18:02.375028",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Phone",
+    "query": "Radhe Techno Service phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:18:04.629743",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Phone",
+    "query": "Radhe Techno Service contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:18:18.356338",
+    "status": "results_found"
+  },
+  {
+    "seller": "Radhe Techno Service",
+    "field": "Email",
+    "query": "Radhe Techno Service email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zee5.com/movies/details/radhe-your-most-wanted-bhai/0-0-399328",
+      "https://www.dailymotion.com/video/x9b559o",
+      "https://www.justwatch.com/in/movie/radhe-your-most-wanted-bhai",
+      "https://www.bhajansangrah.in/lyrics/shri-radhe-barsane-wali-radhe"
+    ],
+    "timestamp": "2026-08-26T16:18:19.895690",
+    "status": "results_found"
+  }
+]

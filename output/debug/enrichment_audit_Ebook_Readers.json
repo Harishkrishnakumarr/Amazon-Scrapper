@@ -1,0 +1,944 @@
+[
+  {
+    "business": "Kobo_India",
+    "field": "Business Name",
+    "value": "Kobo_India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AZ099T861G787&asin=B0CZXX465Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T15:59:09.510518"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "Website",
+    "query": "Kobo_India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en"
+    ],
+    "timestamp": "2026-08-26T15:59:11.956911",
+    "status": "results_found"
+  },
+  {
+    "business": "Kobo_India",
+    "field": "Website URL",
+    "value": "https://www.kobo.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kobo.com/ww/en",
+    "timestamp": "2026-08-26T15:59:17.364386"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "Legal Entity Name",
+    "query": "Kobo_India company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T15:59:34.419167",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "PAN",
+    "query": "Kobo_India PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T15:59:49.923400",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "PAN",
+    "query": "Kobo_India PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:00.372239",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "GST",
+    "query": "Kobo_India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:06.421174",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "GST",
+    "query": "Kobo_India GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:16.759469",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "Owner",
+    "query": "Kobo_India director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:23.416318",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "Owner",
+    "query": "Kobo_India founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:37.584086",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "Address",
+    "query": "Kobo_India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:38.668501",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "Address",
+    "query": "Kobo_India registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:50.911182",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kobo_India",
+    "field": "Phone",
+    "query": "Kobo_India phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kobo.com/in/en",
+      "https://www.kobo.com/ww/en",
+      "https://www.kobotoolbox.org/",
+      "https://kf.kobotoolbox.org/accounts/login/"
+    ],
+    "timestamp": "2026-08-26T16:00:57.140614",
+    "status": "results_found"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "Business Name",
+    "value": "DOCOSS INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3TGE6ND60CUYK&asin=B0F24XNQP4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:01:09.729512"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Website",
+    "query": "DOCOSS INDIA official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://docoss.in/",
+      "https://docoss.in/collections/bathroom-accessories"
+    ],
+    "timestamp": "2026-08-26T16:01:14.743152",
+    "status": "results_found"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "Website URL",
+    "value": "https://docoss.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://docoss.in/",
+    "timestamp": "2026-08-26T16:01:19.744231"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Legal Entity Name",
+    "query": "DOCOSS INDIA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://github.com/f/prompts.chat"
+    ],
+    "timestamp": "2026-08-26T16:01:32.891841",
+    "status": "results_found"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "Email Address",
+    "value": "git@github.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://github.com/basketikun/chatgpt2api",
+    "timestamp": "2026-08-26T16:01:38.025599"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Legal Entity Name",
+    "query": "DOCOSS INDIA Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=pvt%20ltd%20company%20registration%20procedure%20in%20india&utm_adgroup=1353501333030805&network=o&device=c&msclkid=9ac16f42d5921c6a17b105cc15001224&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=pvt%20ltd%20company%20registration%20procedure%20in%20india&utm_content=SP%20-%20PVT%20-%20LCPC",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=company%20registration%20online&device=c&Adposition=&physical=258438&match_type=p&gclid=&network=company%20registration%20online&target_name=kwd-84045335786979:loc-90&placement=&keyword_id=company%20registration%20online&msclkid=0085b76aebac18efa8a3dde42b3e1388",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=company%20registration%20online&device=c&Adposition=&physical=258438&match_type=p&gclid=&network=company%20registration%20online&target_name=kwd-84045335786979:loc-90&placement=&keyword_id=company%20registration%20online&msclkid=c528c1abeee018405466ab252e723292",
+      "https://www.companydetails.in/company/docoss-india-private-limited"
+    ],
+    "timestamp": "2026-08-26T16:01:46.448978",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "PAN",
+    "query": "DOCOSS INDIA PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/enable-or-disable-core-isolation-memory-integrity-in-windows-11.4942/"
+    ],
+    "timestamp": "2026-08-26T16:01:48.547730",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "PAN",
+    "query": "DOCOSS INDIA PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.docoss_india_private_limited.177ae761909da65836ce1a64d9b41afe.html",
+      "https://www.companydetails.in/company/docoss-india-private-limited",
+      "https://www.falconebiz.com/company/DOCOSS-INDIA-PRIVATE-LIMITED-U51909MH2022PTC387790",
+      "https://tracxn.com/d/legal-entities/india/docoss-india-private-limited/__XZWYvp-jCHiJAdipv_xm40egJ5Eqy8AHpxRtlqI-bRw"
+    ],
+    "timestamp": "2026-08-26T16:02:03.946551",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "GST",
+    "query": "DOCOSS INDIA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20service&device=c&Adposition=&physical=258438&match_type=p&gclid=&network=business%20registration%20service&target_name=kwd-84045335771847:loc-90&placement=&keyword_id=business%20registration%20service&msclkid=774469a22f321562e74c032cef9a19c0",
+      "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+      "https://gst.jamku.app/gstin/27AACPJ3904A1ZD",
+      "https://www.knowyourgst.com/gst-number-search/docoss-india-private-limited-33AAJCD4724G1ZU/"
+    ],
+    "timestamp": "2026-08-26T16:02:08.818968",
+    "status": "results_found"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+    "timestamp": "2026-08-26T16:02:17.426385"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "GST Number",
+    "value": "27AACPJ3904A1ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+    "timestamp": "2026-08-26T16:02:17.427473"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "PAN Number",
+    "value": "AACPJ3904A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+    "timestamp": "2026-08-26T16:02:17.427489"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+    "timestamp": "2026-08-26T16:02:17.439382"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+    "timestamp": "2026-08-26T16:02:17.439403"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+    "timestamp": "2026-08-26T16:02:17.439410"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+    "timestamp": "2026-08-26T16:02:17.439415"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Owner",
+    "query": "DOCOSS INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lasc.org/CourtActions/opinions",
+      "https://www.justice.gov/usao-cdca/pr/former-la-county-deputy-sheriff-sentenced-17-years-prison-scheming-escort-large-amounts",
+      "https://law.justia.com/cases/louisiana/supreme-court/2020/",
+      "https://caselaw.findlaw.com/court/la-supreme-court/2001649.html"
+    ],
+    "timestamp": "2026-08-26T16:02:20.321628",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Owner",
+    "query": "DOCOSS INDIA founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/f/prompts.chat",
+      "https://github.com/basketikun/chatgpt2api"
+    ],
+    "timestamp": "2026-08-26T16:02:26.391446",
+    "status": "results_found"
+  },
+  {
+    "business": "Deals Paradize",
+    "field": "Business Name",
+    "value": "Deals Paradize",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TJ5W2Q6QYFKA&asin=B0DKTZ6592&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:02:36.841659"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "Website",
+    "query": "Deals Paradize official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/"
+    ],
+    "timestamp": "2026-08-26T16:02:39.788270",
+    "status": "results_found"
+  },
+  {
+    "business": "Deals Paradize",
+    "field": "Website URL",
+    "value": "https://www.desidime.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.desidime.com/",
+    "timestamp": "2026-08-26T16:02:48.029389"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "Legal Entity Name",
+    "query": "Deals Paradize company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:02:53.930084",
+    "status": "results_found"
+  },
+  {
+    "business": "Deals Paradize",
+    "field": "Phone Number",
+    "value": "+917997443334",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.grabon.in/deals/",
+    "timestamp": "2026-08-26T16:02:56.213776"
+  },
+  {
+    "business": "Deals Paradize",
+    "field": "Email Address",
+    "value": "contact@grabon.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.grabon.in/deals/",
+    "timestamp": "2026-08-26T16:02:56.214142"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "Legal Entity Name",
+    "query": "Deals Paradize Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:02:59.905871",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "PAN",
+    "query": "Deals Paradize PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:09.243677",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "PAN",
+    "query": "Deals Paradize PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:17.506116",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "GST",
+    "query": "Deals Paradize GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:24.543374",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "GST",
+    "query": "Deals Paradize GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:31.949157",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "Owner",
+    "query": "Deals Paradize director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:38.310299",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "Owner",
+    "query": "Deals Paradize founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:45.024840",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "Address",
+    "query": "Deals Paradize registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:50.064067",
+    "status": "results_found"
+  },
+  {
+    "seller": "Deals Paradize",
+    "field": "Address",
+    "query": "Deals Paradize registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desidime.com/",
+      "https://www.grabon.in/deals/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T16:03:54.912906",
+    "status": "results_found"
+  },
+  {
+    "business": "DUTY BAZAAR",
+    "field": "Business Name",
+    "value": "DUTY BAZAAR",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A23I9VY3WVKV25&asin=B0GJST4CN1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T16:04:00.616636"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "Website",
+    "query": "DUTY BAZAAR official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty"
+    ],
+    "timestamp": "2026-08-26T16:04:02.261068",
+    "status": "results_found"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "Legal Entity Name",
+    "query": "DUTY BAZAAR company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:04:10.809917",
+    "status": "results_found"
+  },
+  {
+    "business": "DUTY BAZAAR",
+    "field": "Phone Number",
+    "value": "+917208971840",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://offduty.in/",
+    "timestamp": "2026-08-26T16:04:16.968359"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "PAN",
+    "query": "DUTY BAZAAR PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:04:26.406604",
+    "status": "results_found"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "GST",
+    "query": "DUTY BAZAAR GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:04:41.678045",
+    "status": "results_found"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "Owner",
+    "query": "DUTY BAZAAR director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:05:01.004820",
+    "status": "results_found"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "Address",
+    "query": "DUTY BAZAAR registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:05:15.557854",
+    "status": "results_found"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "Address",
+    "query": "DUTY BAZAAR registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:05:28.142847",
+    "status": "results_found"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "Email",
+    "query": "DUTY BAZAAR email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:05:29.389642",
+    "status": "results_found"
+  },
+  {
+    "seller": "DUTY BAZAAR",
+    "field": "Email",
+    "query": "DUTY BAZAAR contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://offduty.in/",
+      "https://www.merriam-webster.com/dictionary/duty",
+      "https://dictionary.cambridge.org/dictionary/english/duty",
+      "https://dictionary.cambridge.org/us/dictionary/english/duty"
+    ],
+    "timestamp": "2026-08-26T16:05:37.762253",
+    "status": "results_found"
+  },
+  {
+    "business": "Jamwal-Enterprises",
+    "field": "Business Name",
+    "value": "Jamwal-Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2O9O6E3IR66ET&asin=B0FJ2QXPT3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T16:05:46.363291"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Website",
+    "query": "Jamwal-Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107"
+    ],
+    "timestamp": "2026-08-26T16:05:48.331389",
+    "status": "results_found"
+  },
+  {
+    "business": "Jamwal-Enterprises",
+    "field": "Website URL",
+    "value": "https://starsunfolded.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://starsunfolded.com/vidyut-jamwal/",
+    "timestamp": "2026-08-26T16:05:52.498111"
+  },
+  {
+    "business": "Jamwal-Enterprises",
+    "field": "Email Address",
+    "value": "admin@starsunfolded.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://starsunfolded.com/about",
+    "timestamp": "2026-08-26T16:05:54.216517"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Legal Entity Name",
+    "query": "Jamwal-Enterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:06:03.068822",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "PAN",
+    "query": "Jamwal-Enterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:06:18.966552",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "PAN",
+    "query": "Jamwal-Enterprises PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:06:30.726701",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "GST",
+    "query": "Jamwal-Enterprises GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:06:33.341261",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "GST",
+    "query": "Jamwal-Enterprises GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:06:43.823712",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Owner",
+    "query": "Jamwal-Enterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:06:49.779190",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Owner",
+    "query": "Jamwal-Enterprises founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:06:56.479816",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Address",
+    "query": "Jamwal-Enterprises registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:07:03.101712",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Address",
+    "query": "Jamwal-Enterprises registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:07:10.369812",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Phone",
+    "query": "Jamwal-Enterprises phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:07:16.086606",
+    "status": "results_found"
+  },
+  {
+    "seller": "Jamwal-Enterprises",
+    "field": "Phone",
+    "query": "Jamwal-Enterprises contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://starsunfolded.com/vidyut-jamwal/",
+      "https://www.wionews.com/entertainment/vidyut-jammwal-s-new-look-in-hollywood-debut-movie-street-fighter-makes-netizens-excited-it-s-crazy-waiting-1765536201107",
+      "https://www.timesnownews.com/india/was-waiting-to-kill-him-for-20-years-who-is-kamal-singh-jamwal-man-who-tried-to-assassinate-farooq-abdullah-article-153815077",
+      "http://jjamwal.in/"
+    ],
+    "timestamp": "2026-08-26T16:07:25.098779",
+    "status": "results_found"
+  }
+]

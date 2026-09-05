@@ -1,0 +1,971 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B07TSF62S9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T08:31:06.195563"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-17T08:31:07.694311",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-17T08:31:10.140359"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T08:31:10.561548"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T08:31:10.602216"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T08:31:10.602232"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T08:31:10.602242"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T08:31:10.602246"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.google.es/gmail/about/for-work/"
+    ],
+    "timestamp": "2026-08-17T08:31:15.331586",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11185311901",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13256072993"
+    ],
+    "timestamp": "2026-08-17T08:31:17.708042",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://apps.apple.com/us/app/facebook/id284882215",
+      "https://facebook.en.softonic.com/",
+      "https://gizmodo.com/download/facebook"
+    ],
+    "timestamp": "2026-08-17T08:31:22.974478",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://universityagro.ru/en/arable-farming/farming-in-the-volga-region/",
+      "https://www.volgagermans.org/who-are-volga-germans/culture/agriculture",
+      "https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/78/e3sconf_agritech-x_04020.pdf",
+      "https://www.researchgate.net/publication/382214046_Dynamics_of_the_Lower_Volga_region_agricultural_landscapes_under_the_influence_of_climate_change",
+      "https://www.agrarianhistory.com/archive/en/8/8/1"
+    ],
+    "timestamp": "2026-08-17T08:31:28.120332",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.reddit.com/r/MicrosoftRewards/",
+      "https://www.reddit.com/r/StreamingAnime/wiki/topsites/?f=flair_name%3A%22Recommendations%22"
+    ],
+    "timestamp": "2026-08-17T08:31:41.072747",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/",
+      "https://chatgpt.com/auth/login"
+    ],
+    "timestamp": "2026-08-17T08:31:46.759585",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://baike.baidu.com/item/%E7%81%AB%E9%94%85/274015",
+      "https://www.sohu.com/a/955648126_121948401",
+      "https://zhuanlan.zhihu.com/p/687629881",
+      "https://baike.baidu.com/item/%E7%81%AB%E9%8D%8B%E7%81%AB%E9%8D%8B",
+      "https://zhuanlan.zhihu.com/p/1906026801098096945"
+    ],
+    "timestamp": "2026-08-17T08:31:49.414929",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/330679822",
+      "https://www.zhihu.com/topic/19558854/intro",
+      "https://www.zhihu.com/question/21960248",
+      "https://www.zhihu.com/question/21523912",
+      "https://www.zhihu.com/question/29066535"
+    ],
+    "timestamp": "2026-08-17T08:32:07.309019",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://www.affluense.ai/profile/aparesh-agarwal-retailez-private-limited-16c092"
+    ],
+    "timestamp": "2026-08-17T08:32:13.708666",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://info.edgeinsights.in/company/Retailez-Private-Limited/217728"
+    ],
+    "timestamp": "2026-08-17T08:32:19.396044",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/index/gpt-4/",
+      "https://chatbotkit.com/hub/bots/chatgbt"
+    ],
+    "timestamp": "2026-08-17T08:32:25.840244",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/e-waste-management/"
+    ],
+    "timestamp": "2026-08-17T08:32:33.670235",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-17T08:32:34.382607"
+  },
+  {
+    "business": "AADB International",
+    "field": "Business Name",
+    "value": "AADB International",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A358DLP2R6AFQM&asin=B0GYSM7FVW&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T08:32:34.648824"
+  },
+  {
+    "seller": "AADB International",
+    "field": "Website",
+    "query": "AADB International official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.adb.org/",
+      "https://www.adb.org/work-with-us/careers/current-opportunities"
+    ],
+    "timestamp": "2026-08-17T08:32:37.657384",
+    "status": "results_found"
+  },
+  {
+    "business": "AADB International",
+    "field": "Website URL",
+    "value": "https://www.adb.org/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.adb.org/work-with-us/careers/current-opportunities",
+    "timestamp": "2026-08-17T08:32:40.729025"
+  },
+  {
+    "business": "AADB International",
+    "field": "Phone Number",
+    "value": "+913624442026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.adb.org/",
+    "timestamp": "2026-08-17T08:32:41.045869"
+  },
+  {
+    "seller": "AADB International",
+    "field": "Legal Entity Name",
+    "query": "AADB International company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tokyodisneyresort.jp/tdl.html",
+      "https://www.tokyodisneyresort.jp/top.html",
+      "https://reserve.tokyodisneyresort.jp/about/restaurant_01",
+      "https://faq.tokyodisneyresort.jp/answer/67eaa64b5469793792a81212/",
+      "https://faq.tokyodisneyresort.jp/answer/67eaa66357951a27c8856764/"
+    ],
+    "timestamp": "2026-08-17T08:32:47.543481",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "Legal Entity Name",
+    "query": "AADB International Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://outlook.com/owa/cridf.iledefrance.fr",
+      "https://outlook.com/owa/Office365.com",
+      "https://ipazuredeploymentdashboard.protection.outlook.com/",
+      "https://nam02.safelinks.protection.outlook.com/apple-app-site-association",
+      "https://tafe.prdtrs01.outlook.com/TorusSts/"
+    ],
+    "timestamp": "2026-08-17T08:33:02.369305",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "PAN",
+    "query": "AADB International PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.taxbuddy.com/blog/aadhaar-pan-linking-for-nri"
+    ],
+    "timestamp": "2026-08-17T08:33:08.825648",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "PAN",
+    "query": "AADB International PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://pages.payoneer.com/en-in/financial-platform/?utm_source=bing&utm_medium=cpc&utm_campaign=Reg_Bing-SE_B2B_APAC_IN_NonBrand&CampaignID=605367693&utm_content=&AdgroupID=1290828090640876&utm_term=b2b%20cross%20border%20payments&Ad=&adid=&Placement=c&msclkid=6f9fa81719781507d4b6c295608726f2",
+      "https://www.incometaxindia.gov.in/pan",
+      "https://tin.tin.proteantech.in/pan/newpanforeign.html",
+      "https://tinpan.proteantech.in/",
+      "https://apnews.com/article/pan-pacific-swimming-74a4f7b0d84a0aadb8e81da7c33d60c0"
+    ],
+    "timestamp": "2026-08-17T08:33:24.071403",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "GST",
+    "query": "AADB International GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-17T08:33:29.035742",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "GST",
+    "query": "AADB International GSTIN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-17T08:33:33.539114",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "GST",
+    "query": "AADB International GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ilovepdf.com/",
+      "https://get.adobe.com/reader/",
+      "https://smallpdf.com/pdf-converter",
+      "https://www.ilovepdf.com/merge_pdf",
+      "https://smallpdf.com/edit-pdf"
+    ],
+    "timestamp": "2026-08-17T08:33:43.729896",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "Owner",
+    "query": "AADB International director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.the-qrcode-generator.com/",
+      "https://www.the-qrcode-generator.com/text-to-qr-code",
+      "https://docs.the-qrcode-generator.com/en/articles/13009385-what-happens-to-my-qr-codes-when-my-account-or-trial-ends",
+      "https://docs.the-qrcode-generator.com/en/articles/13009388-what-happens-to-qr-codes-when-my-subscription-or-trial-expires-and-can-i-reactivate-them",
+      "https://community.the-qrcode-generator.com/t/support-team-contact/541"
+    ],
+    "timestamp": "2026-08-17T08:33:48.385526",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "Address",
+    "query": "AADB International registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.office.com/login"
+    ],
+    "timestamp": "2026-08-17T08:34:10.897335",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "Address",
+    "query": "AADB International registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.adb.org/contacts/main",
+      "https://www.adb.org/contacts/visiting-adb",
+      "https://www.adb.org/who-we-are/access-information/inquiries",
+      "https://www.adb.org/news/contacts",
+      "https://www.adb.org/id/where-we-work/indonesia"
+    ],
+    "timestamp": "2026-08-17T08:34:15.221744",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADB International",
+    "field": "Address",
+    "query": "AADB International head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/about/",
+      "https://event.rakuten.co.jp/furusato/",
+      "https://www.furusato-tax.jp/?msockid=14b4cd8fd8ad67ff29fbda37d96266c4",
+      "https://www.satofull.jp/?msockid=14b4cd8fd8ad67ff29fbda37d96266c4",
+      "https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/mechanism/about.html"
+    ],
+    "timestamp": "2026-08-17T08:34:19.542579",
+    "status": "results_found"
+  },
+  {
+    "business": "BNS INDIA COMPANY",
+    "field": "Business Name",
+    "value": "BNS INDIA COMPANY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A13J3D79XX870B&asin=B0GMBQ4HWH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T08:34:41.972809"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Website",
+    "query": "BNS INDIA COMPANY official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf",
+      "https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf"
+    ],
+    "timestamp": "2026-08-17T08:34:43.194941",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Legal Entity Name",
+    "query": "BNS INDIA COMPANY company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://bnsind.com/",
+      "https://bnsind.com/practice-areas/",
+      "https://www.indiafilings.com/learn/how-to-register-a-company-in-india-checklist",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.dnb.co.in/duns/get-a-duns"
+    ],
+    "timestamp": "2026-08-17T08:34:49.097069",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "PAN",
+    "query": "BNS INDIA COMPANY PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.incometaxindia.gov.in/pan",
+      "https://www.bankbazaar.com/pan-card/pan-numbers-for-bank.html",
+      "https://blog.idserve.in/index.php/how-to-search-for-a-companys-pan-number-a-complete-guide"
+    ],
+    "timestamp": "2026-08-17T08:35:12.942231",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "PAN",
+    "query": "BNS INDIA COMPANY PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://credonex.com/company/bns-india-terra-developers-private-limited-U68100MH2026PTC472625",
+      "https://www.falconebiz.com/company/BNS-INDIA-TERRA-DEVELOPERS-PRIVATE-LIMITED-U68100MH2026PTC472625",
+      "https://qorpiq.com/company/bns-india-terra-developers-private-limited/U68100MH2026PTC472625",
+      "https://bnsind.com/",
+      "https://tracxn.com/d/legal-entities/india/bns-industries-private-limited/__tHpFDaSeKEVarN62-X4Hw4tq32VkVJDuLB1zVT39dEY"
+    ],
+    "timestamp": "2026-08-17T08:35:22.946329",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "PAN",
+    "query": "BNS INDIA COMPANY PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf",
+      "https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf",
+      "https://www.indiacode.nic.in/handle/123456789/20062",
+      "https://indialawacts.in/bnsSections.php",
+      "https://devgan.in/all_sections_bns.php"
+    ],
+    "timestamp": "2026-08-17T08:35:27.732509",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "GST",
+    "query": "BNS INDIA COMPANY GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf",
+      "https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf",
+      "https://www.indiacode.nic.in/handle/123456789/20062",
+      "https://indialawacts.in/bnsSections.php",
+      "https://devgan.in/all_sections_bns.php"
+    ],
+    "timestamp": "2026-08-17T08:35:34.148509",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "GST",
+    "query": "BNS INDIA COMPANY GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/33AEJPN4017P1Z8",
+      "https://piceapp.com/gst-number-search/bns-trading-company-33aejpn4017p1z8/",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/b-n-s-india-19ALYPS2323M1Z8/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-17T08:35:44.492620",
+    "status": "results_found"
+  },
+  {
+    "business": "BNS INDIA COMPANY",
+    "field": "GST Number",
+    "value": "33AEJPN4017P1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/33AEJPN4017P1Z8",
+    "timestamp": "2026-08-17T08:35:45.428057"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Owner",
+    "query": "BNS INDIA COMPANY director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://credonex.com/company/bns-india-terra-developers-private-limited-U68100MH2026PTC472625",
+      "https://www.bnsindia.org/bns/leadership.html",
+      "https://www.bnscommunity.in/"
+    ],
+    "timestamp": "2026-08-17T08:35:48.596890",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Owner",
+    "query": "BNS INDIA COMPANY managing director",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://bnsind.com/",
+      "https://www.falconebiz.com/company/BNS-INDIA-TERRA-DEVELOPERS-PRIVATE-LIMITED-U68100MH2026PTC472625",
+      "https://credonex.com/company/bns-india-terra-developers-private-limited-U68100MH2026PTC472625",
+      "https://bnsind.com/contact/"
+    ],
+    "timestamp": "2026-08-17T08:35:57.721990",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Owner",
+    "query": "BNS INDIA COMPANY founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/bns/__ql_6YqS9UHgG6y7Lt2mFY17iR_s_fxHCBd3PGIh6FhU",
+      "https://bitbns.com/about-us/",
+      "https://www.bnscommunity.in/",
+      "https://bnsind.com/",
+      "https://www.bnsindia.org/bns/leadership.html"
+    ],
+    "timestamp": "2026-08-17T08:36:02.328131",
+    "status": "results_found"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Address",
+    "query": "BNS INDIA COMPANY registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://bnsind.com/contact/",
+      "https://bnsind.com/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.indiafilings.com/search/bns-global-industries-llp-ACN-4836",
+      "https://www.scotiabank.com/global/en/country/india.html"
+    ],
+    "timestamp": "2026-08-17T08:36:07.933269",
+    "status": "results_found"
+  },
+  {
+    "business": "BNS INDIA COMPANY",
+    "field": "Billing Address",
+    "value": "express towers, marine drive, nariman point, mumbai 400021",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bnsind.com/contact/",
+    "timestamp": "2026-08-17T08:36:08.299880"
+  },
+  {
+    "business": "BNS INDIA COMPANY",
+    "field": "City",
+    "value": "mumbai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bnsind.com/contact/",
+    "timestamp": "2026-08-17T08:36:08.299894"
+  },
+  {
+    "business": "BNS INDIA COMPANY",
+    "field": "Pincode",
+    "value": "400021",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bnsind.com/contact/",
+    "timestamp": "2026-08-17T08:36:08.299898"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Phone",
+    "query": "BNS INDIA COMPANY phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://bnsind.com/contact/",
+      "https://wsc.cdr.bsnl.co.in/contactUs",
+      "https://selfcare.bsnl.co.in/tungsten/UI/facelets/contactUsBeforeLogin.xhtml",
+      "https://bns.co.in/",
+      "https://bnsind.com/"
+    ],
+    "timestamp": "2026-08-17T08:36:11.185004",
+    "status": "results_found"
+  },
+  {
+    "business": "BNS INDIA COMPANY",
+    "field": "Phone Number",
+    "value": "+919005002026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bnsind.com/contact/",
+    "timestamp": "2026-08-17T08:36:11.546884"
+  },
+  {
+    "seller": "BNS INDIA COMPANY",
+    "field": "Email",
+    "query": "BNS INDIA COMPANY email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://bnsind.com/contact/",
+      "https://bnsind.com/",
+      "https://bns.co.in/Contact.html",
+      "https://bns.co.in/",
+      "https://bnsconsumer.in/contact-us/"
+    ],
+    "timestamp": "2026-08-17T08:36:14.173667",
+    "status": "results_found"
+  },
+  {
+    "business": "BNS INDIA COMPANY",
+    "field": "Email Address",
+    "value": "contact@bnsind.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bnsind.com/contact/",
+    "timestamp": "2026-08-17T08:36:14.547429"
+  },
+  {
+    "business": "CELLBELL INDIA",
+    "field": "Business Name",
+    "value": "CELLBELL INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=APQ56BA29FAX0&asin=B08R5GR57J&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T08:36:14.810293"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Website",
+    "query": "CELLBELL INDIA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bunnings.com.au/help-centre/shop-online?msockid=14b4cd8fd8ad67ff29fbda37d96266c4",
+      "https://trade.bunnings.com.au/"
+    ],
+    "timestamp": "2026-08-17T08:36:16.071940",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Legal Entity Name",
+    "query": "CELLBELL INDIA company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tresillian.org.au/",
+      "https://www.tresillian.org.au/services-locations/locations/wagga-wagga-day-services/",
+      "https://centenary.tresillian.org.au/our-journey/",
+      "https://centenary.tresillian.org.au/timeline/tresilliantoday/",
+      "https://www.tresillian.org.au/baby/sleep/"
+    ],
+    "timestamp": "2026-08-17T08:36:20.961291",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Legal Entity Name",
+    "query": "CELLBELL INDIA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://seatmaps.com/airlines/cx-cathay-pacific/",
+      "https://www.seatmaestro.com/airlines-seating-maps/cathay-pacific-airways/"
+    ],
+    "timestamp": "2026-08-17T08:36:30.098795",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Legal Entity Name",
+    "query": "CELLBELL INDIA legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://au.amazingtalker.com/courses/korean?city=port_sanilac_mi",
+      "https://thetouristchecklist.com/things-to-do-in-port-sanilac/",
+      "https://www.tripadvisor.com/Attraction_Review-g42608-d12903273-Reviews-Sanilac_County_Historic_Village_Museum-Port_Sanilac_Michigan.html"
+    ],
+    "timestamp": "2026-08-17T08:36:37.180351",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "PAN",
+    "query": "CELLBELL INDIA PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/21040260",
+      "https://jingyan.baidu.com/article/48b37f8d0783821a646488fa.html",
+      "http://jingyan.baidu.com",
+      "http://jingyan.baidu.com//list/108",
+      "http://jingyan.baidu.com//list/115"
+    ],
+    "timestamp": "2026-08-17T08:36:41.236651",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "GST",
+    "query": "CELLBELL INDIA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/trademark-registration-campaign/?utm_source=bing&utm_content=OLI-Trademark-Registration&Campaignid=403741929&Adgroupid=1335907225705653&device=c&Adposition=&physical=262576&match_type=p&network=register%20trademark%20india&target_name=kwd-83494716304243:loc-90&placement=&keyword_id=register%20trademark%20india&msclkid=3f2760fb160a14859d2f0a796cd4d3aa&utm_source=bing&utm_medium=cpc&utm_campaign=OLI-Trademark-Registration&utm_term=register%20trademark%20india&utm_content=TM-Registration-New",
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login"
+    ],
+    "timestamp": "2026-08-17T08:37:06.973513",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "GST",
+    "query": "CELLBELL INDIA GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://wordzaura.com/on-the-nose-meaning/",
+      "https://www.collinsdictionary.com/dictionary/english/on-the-nose",
+      "https://streetslang.com/glossary/on-the-nose/",
+      "https://www.urbandictionary.com/define.php?term=on+the+nose",
+      "https://7esl.com/on-the-nose/"
+    ],
+    "timestamp": "2026-08-17T08:37:12.952807",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "GST",
+    "query": "CELLBELL INDIA GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-17T08:37:21.457195",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Owner",
+    "query": "CELLBELL INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.google.co.jp/",
+      "https://about.google/intl/ja_ALL/",
+      "https://translate.google.co.jp/",
+      "https://trends.google.co.jp/trends/"
+    ],
+    "timestamp": "2026-08-17T08:37:25.391252",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Owner",
+    "query": "CELLBELL INDIA managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.city.sendai.jp/kate/kurashi/kenkotofukushi/kosodate/teate/jose.html",
+      "https://syuokane.com/kodomoiryo20230308/",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13217866318",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13273141088",
+      "https://www.city.okayama.jp/faq/faq_detail.php?frmId=1228"
+    ],
+    "timestamp": "2026-08-17T08:37:30.956126",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Owner",
+    "query": "CELLBELL INDIA founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.appsheet.com/",
+      "https://apkpure.com/appsheet/x1Trackmaster.x1Trackmaster",
+      "https://appsplayground.com/appsheet-for-pc/",
+      "https://apps.apple.com/us/app/appsheet/id732548900",
+      "https://www.appsheet.com/home/start"
+    ],
+    "timestamp": "2026-08-17T08:37:43.355563",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Address",
+    "query": "CELLBELL INDIA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "http://zhidao.baidu.com/",
+      "https://zhidao.baidu.com/question/699650909171698084.html",
+      "https://www.zhihu.com/question/354296819",
+      "https://www.zhihu.com/question/558163437"
+    ],
+    "timestamp": "2026-08-17T08:37:45.989226",
+    "status": "results_found"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Phone",
+    "query": "CELLBELL INDIA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://mikita-hifuka.com/",
+      "https://ssc8.doctorqube.com/mikita-hifuka/",
+      "https://mikita-hifuka.com/doctor/",
+      "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2430/initialize?kikanCd=2243200000&kikanKbn=2&prefCd=30",
+      "https://wakayamahifuka.com/contents/detail.php?id=76"
+    ],
+    "timestamp": "2026-08-17T08:38:09.858966",
+    "status": "results_found"
+  },
+  {
+    "business": "CELLBELL INDIA",
+    "field": "Phone Number",
+    "value": "+910016001900",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://mikita-hifuka.com/",
+    "timestamp": "2026-08-17T08:38:13.006306"
+  },
+  {
+    "seller": "CELLBELL INDIA",
+    "field": "Email",
+    "query": "CELLBELL INDIA email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cellbell.in/pages/contact",
+      "https://cellbell.in/pages/support-faqs",
+      "https://cellbell.in/",
+      "https://www.lusha.com/business/74de24ff9ffb3b34/",
+      "https://cellbell.in/products/extra-helping-hand-service"
+    ],
+    "timestamp": "2026-08-17T08:38:15.781659",
+    "status": "results_found"
+  }
+]

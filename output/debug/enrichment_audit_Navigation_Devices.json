@@ -1,0 +1,891 @@
+[
+  {
+    "business": "ShortWell",
+    "field": "Business Name",
+    "value": "ShortWell",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AC2Q0ZF7GSRVS&asin=B0HGG38LTV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T23:19:22.120980"
+  },
+  {
+    "business": "ShortWell",
+    "field": "Phone Number",
+    "value": "+917602248852",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AC2Q0ZF7GSRVS&asin=B0HGG38LTV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T23:19:22.121055"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "Website",
+    "query": "ShortWell official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T23:19:26.018370",
+    "status": "no_results"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "Legal Entity Name",
+    "query": "ShortWell company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T23:19:31.932159",
+    "status": "no_results"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "Legal Entity Name",
+    "query": "ShortWell Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.pornhub.com/video/search?search=bokep",
+      "https://www.xvideos.com/tags/bokep",
+      "https://www.indo18.com/",
+      "https://theporndude.com/id"
+    ],
+    "timestamp": "2026-08-27T23:19:33.844426",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "PAN",
+    "query": "ShortWell PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T23:19:52.024300",
+    "status": "no_results"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "PAN",
+    "query": "ShortWell PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://razorpay.com/gst-number-search/pan/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-08-27T23:19:55.767588",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "GST",
+    "query": "ShortWell GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.patriots.com/schedule/standings/2026/REG",
+      "https://www.nfl.com/standings/league/2026/reg",
+      "https://www.nfl.com/standings/division/2026/reg",
+      "https://www.espn.com/nfl/standings"
+    ],
+    "timestamp": "2026-08-27T23:20:03.984635",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "Owner",
+    "query": "ShortWell director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://collegedunia.com/courses/bachelor-of-commerce-bcom",
+      "https://collegedunia.com/course/bachelor-of-commerce-bcom-hons-colleges-in-india",
+      "https://collegedunia.com/university/25450-guru-gobind-singh-indraprastha-university-ggsipu-new-delhi/bachelor-of-commerce-bcom-hons-3739",
+      "https://collegedunia.com/university/25777-chandigarh-university-cu-mohali/bachelor-of-commerce-bcom-hons-3739"
+    ],
+    "timestamp": "2026-08-27T23:20:20.867512",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "Owner",
+    "query": "ShortWell founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://curio-kumegawa.com/office/column-excel308/",
+      "https://pcwebfun.com/excel-conditional-formatting-and-or/",
+      "https://programming-cafe.com/it-info/excel/excel-topics/exceltopics-026/",
+      "https://www.tipsfound.com/excel/03007-excel"
+    ],
+    "timestamp": "2026-08-27T23:20:30.269212",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "Address",
+    "query": "ShortWell registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://webcamtests.com/",
+      "https://webcam.org/test/",
+      "https://webcamtoy.com/",
+      "https://www.pixect.com/"
+    ],
+    "timestamp": "2026-08-27T23:20:39.208831",
+    "status": "results_found"
+  },
+  {
+    "business": "ShortWell",
+    "field": "Email Address",
+    "value": "info@webcamtests.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://webcamtests.com/",
+    "timestamp": "2026-08-27T23:20:40.783656"
+  },
+  {
+    "seller": "ShortWell",
+    "field": "Address",
+    "query": "ShortWell registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://flcompanydb.com/company/L05000010496/shortwell-llc.html",
+      "https://registry-lookup.com/",
+      "https://secretaryofstate.com/",
+      "https://search-sos.org/"
+    ],
+    "timestamp": "2026-08-27T23:20:51.178801",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0C8T487CB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T23:20:54.434682"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-27T23:20:56.037745",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/about-us/",
+    "timestamp": "2026-08-27T23:21:06.734332"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-27T23:21:07.979673"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-27T23:21:07.980828"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.houseyog.com/blog/floor-tiling-cost-per-sqft-india/",
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor"
+    ],
+    "timestamp": "2026-08-27T23:21:17.397963",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.houseyog.com/blog/floor-tiling-cost-per-sqft-india/",
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor"
+    ],
+    "timestamp": "2026-08-27T23:21:35.028447",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-27T23:21:46.629228",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.houseyog.com/blog/floor-tiling-cost-per-sqft-india/",
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor"
+    ],
+    "timestamp": "2026-08-27T23:21:50.170552",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-27T23:22:01.346683",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.houseyog.com/blog/floor-tiling-cost-per-sqft-india/",
+      "https://www.merriam-webster.com/dictionary/floor"
+    ],
+    "timestamp": "2026-08-27T23:22:09.601706",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-27T23:22:17.768868",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-27T23:22:23.183572"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-27T23:22:23.183590"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-27T23:22:23.183944"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-27T23:22:23.183957"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-27T23:22:24.734271",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-27T23:22:32.171096",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0H9YZZP6Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T23:22:36.980725"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79"
+    ],
+    "timestamp": "2026-08-27T23:22:38.354753",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications",
+      "https://express.etrade.com/etx/rtao/ma/account-types/brokerage/individual",
+      "https://us.etrade.com/e/t/accounts/sccreatemsg",
+      "https://us.etrade.com/etx/mm/fundingcenter/link-account"
+    ],
+    "timestamp": "2026-08-27T23:23:15.919213",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T23:23:31.354362",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+    "timestamp": "2026-08-27T23:23:42.118750"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T23:23:44.813934",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T23:23:46.066987",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T23:24:03.036888",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T23:24:12.096552",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T23:24:20.879570",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3e48114151e46ecc268c068350536f79",
+      "https://us.etrade.com/e/t/user/login?msockid=3e48114151e46ecc268c068350536f79",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T23:24:29.621257",
+    "status": "results_found"
+  },
+  {
+    "business": "ZOXOWA INDUSTRIES",
+    "field": "Business Name",
+    "value": "ZOXOWA INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJUW3OJISSSHZ&asin=B0D9MSMSWT&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T23:24:37.135827"
+  },
+  {
+    "seller": "ZOXOWA INDUSTRIES",
+    "field": "Website",
+    "query": "ZOXOWA INDUSTRIES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.google.co.in/index.html",
+      "https://www.google.co.in/intl/en_uk/chrome/index.html"
+    ],
+    "timestamp": "2026-08-27T23:24:38.813337",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZOXOWA INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "ZOXOWA INDUSTRIES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tripadvisor.com/Attraction_Review-g51727-d15605029-Reviews-Lucky_Star_Casino-Watonga_Oklahoma.html",
+      "https://www.tripadvisor.com/Hotel_Review-g51727-d23794217-Reviews-Lucky_Star_Casino_Hotel_Convention_Center-Watonga_Oklahoma.html",
+      "https://www.tripadvisor.in/Attraction_Review-g51727-d15605029-Reviews-Lucky_Star_Casino-Watonga_Oklahoma.html",
+      "https://www.booking.com/hotel/us/lucky-star-casino-amp-convention-center.html?msockid=3e48114151e46ecc268c068350536f79"
+    ],
+    "timestamp": "2026-08-27T23:24:43.781061",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZOXOWA INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "ZOXOWA INDUSTRIES Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20ltd%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=24f0b87c3a811ca48a2dd2ec436d0368&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20ltd%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.inspex.in/",
+      "https://zauba.company/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-27T23:24:49.651201",
+    "status": "results_found"
+  },
+  {
+    "business": "ZOXOWA INDUSTRIES",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20ltd%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=24f0b87c3a811ca48a2dd2ec436d0368&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20ltd%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-27T23:24:50.769922"
+  },
+  {
+    "business": "ZOXOWA INDUSTRIES",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-27T23:24:51.802119"
+  },
+  {
+    "seller": "ZOXOWA INDUSTRIES",
+    "field": "PAN",
+    "query": "ZOXOWA INDUSTRIES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cashify.in/apple-pay-in-india-explained-does-it-work-whats-way-around",
+      "https://www.indiatoday.in/technology/news/story/apple-pay-india-launch-without-upi-credit-cards-apple-wallet-2967826-2026-08-10",
+      "https://indiaobservers.com/apple-pay-india-launch-october-2026-upi-nfc/",
+      "https://www.theweek.in/news/biz-tech/2026/07/06/apple-pay-india-launch-credit-debit-card-rbi-compliance.html"
+    ],
+    "timestamp": "2026-08-27T23:24:57.719547",
+    "status": "results_found"
+  },
+  {
+    "business": "ZOXOWA INDUSTRIES",
+    "field": "Billing Address",
+    "value": "cashify limited (formerly known as cashify pvt. ltd. and manak waste management pvt. ltd.) | 55, 2nd floor, lane-2, westend marg, saidullajab, near sa",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cashify.in/apple-pay-in-india-explained-does-it-work-whats-way-around",
+    "timestamp": "2026-08-27T23:24:58.811882"
+  },
+  {
+    "business": "ZOXOWA INDUSTRIES",
+    "field": "City",
+    "value": "near sa",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cashify.in/apple-pay-in-india-explained-does-it-work-whats-way-around",
+    "timestamp": "2026-08-27T23:24:58.811912"
+  },
+  {
+    "seller": "ZOXOWA INDUSTRIES",
+    "field": "PAN",
+    "query": "ZOXOWA INDUSTRIES PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gstverify.co.in/search/",
+      "https://entitycheck.com/ein-lookup"
+    ],
+    "timestamp": "2026-08-27T23:25:05.965095",
+    "status": "results_found"
+  },
+  {
+    "business": "ZOXOWA INDUSTRIES",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-27T23:25:06.813308"
+  },
+  {
+    "business": "ZOXOWA INDUSTRIES",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-27T23:25:06.813377"
+  },
+  {
+    "seller": "ZOXOWA INDUSTRIES",
+    "field": "Owner",
+    "query": "ZOXOWA INDUSTRIES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://time.now/state/texas/",
+      "https://www.timeanddate.com/worldclock/usa/texas",
+      "https://24timezones.com/Texas/time",
+      "https://time.is/Texas"
+    ],
+    "timestamp": "2026-08-27T23:25:09.070383",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZOXOWA INDUSTRIES",
+    "field": "Owner",
+    "query": "ZOXOWA INDUSTRIES founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://www.yt-industries.com/"
+    ],
+    "timestamp": "2026-08-27T23:25:16.974406",
+    "status": "results_found"
+  },
+  {
+    "business": "VANTERO INDIA",
+    "field": "Business Name",
+    "value": "VANTERO INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ZLQVWIBB8LR&asin=B0H3SVQ4MT&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T23:25:26.766410"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Website",
+    "query": "VANTERO INDIA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.douyin.com/",
+      "https://www.douyin.com/downloadpage/pc"
+    ],
+    "timestamp": "2026-08-27T23:25:28.311608",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Legal Entity Name",
+    "query": "VANTERO INDIA company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://chat.openai.com/chat",
+      "https://ios.chat.openai.com/cdn-cgi/trace",
+      "https://android.chat.openai.com/cdn-cgi/trace"
+    ],
+    "timestamp": "2026-08-27T23:25:39.061989",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Legal Entity Name",
+    "query": "VANTERO INDIA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gemini.google/us/about/?hl=en",
+      "https://deepmind.google/models/gemini/",
+      "https://gemini.google/id/about/?hl=id",
+      "https://deepmind.google/models/gemini/pro/"
+    ],
+    "timestamp": "2026-08-27T23:25:42.482624",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "PAN",
+    "query": "VANTERO INDIA PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kbj-streams.live/",
+      "https://www.twitch.tv/kbjdancetv",
+      "https://kbjlog.com/",
+      "https://www.nimo.tv/live/4910568082?_lang=1028"
+    ],
+    "timestamp": "2026-08-27T23:25:53.801110",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "PAN",
+    "query": "VANTERO INDIA PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nokephub.com/video-category/indonesia/",
+      "https://www.pornhub.com/video/search?search=bokep+indonesia+terbaru",
+      "https://www.xvideos.com/tags/bokep-indonesia-terbaru",
+      "https://bokepindoh.xxx/category/terbaru/"
+    ],
+    "timestamp": "2026-08-27T23:26:04.276317",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "GST",
+    "query": "VANTERO INDIA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T23:26:08.697396",
+    "status": "no_results"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "GST",
+    "query": "VANTERO INDIA GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T23:26:09.817212",
+    "status": "no_results"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Owner",
+    "query": "VANTERO INDIA director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.vantero.ai/",
+      "https://www.falconebiz.com/company/VENTURO-INDIA-PRIVATE-LIMITED-U46201BR2026PTC083835",
+      "https://tracxn.com/d/legal-entities/india/venturo-india-private-limited/__Xn5t8FHzpGv2T0FZfY79jn0vADqXQLbq3XMnH4XA5iY"
+    ],
+    "timestamp": "2026-08-27T23:26:13.615805",
+    "status": "results_found"
+  },
+  {
+    "business": "VANTERO INDIA",
+    "field": "Email Address",
+    "value": "roindia@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/VENTURO-INDIA-PRIVATE-LIMITED-U46201BR2026PTC083835",
+    "timestamp": "2026-08-27T23:26:18.131573"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Owner",
+    "query": "VANTERO INDIA founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vantero.ai/",
+      "https://www.registerkaro.in/trademark-search/vantero-7884498",
+      "https://www.damianmogavero.com/",
+      "https://entri.app/blog/founders-of-indian-companies/"
+    ],
+    "timestamp": "2026-08-27T23:26:27.068734",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Address",
+    "query": "VANTERO INDIA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://talk.bless1000.com/entry/%EC%9E%84%EB%B2%A0%EB%93%9C-%EB%9C%BB-Embed-%EB%AC%B4%EC%96%B8%EA%B0%80%EB%A5%BC-%EB%8B%A4%EB%A5%B8-%EA%B2%83-%EC%86%8D%EC%97%90-%ED%8F%AC%ED%95%A8%EC%8B%9C%ED%82%A4%EB%8A%94-%EA%B2%83",
+      "https://askai.glarity.app/ko/search/%EC%9E%84%EB%B2%A0%EB%93%9C%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%9D%98%EB%AF%B8%ED%95%98%EB%82%98%EC%9A%94",
+      "https://namu.wiki/w/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C",
+      "https://ppcle.com/blog/web-dev/embed-responsively"
+    ],
+    "timestamp": "2026-08-27T23:26:28.528743",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Address",
+    "query": "VANTERO INDIA registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ducksters.com/kidsmath/division_basics.php",
+      "https://thirdspacelearning.com/blog/guide-division-for-kids-explained/",
+      "https://www.vedantu.com/maths/what-is-division-for-kids",
+      "https://www.bbc.co.uk/bitesize/articles/z9jxhv4"
+    ],
+    "timestamp": "2026-08-27T23:26:43.354129",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Phone",
+    "query": "VANTERO INDIA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-27T23:26:44.651325",
+    "status": "results_found"
+  },
+  {
+    "seller": "VANTERO INDIA",
+    "field": "Phone",
+    "query": "VANTERO INDIA contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.eprocure.gov.bd/Index.jsp",
+      "https://www.eprocure.gov.bd/Tenders.jsp",
+      "https://www.eprocure.gov.bd/resources/common/StdTenderSearch.jsp",
+      "https://www.bppa.gov.bd/"
+    ],
+    "timestamp": "2026-08-27T23:26:47.629381",
+    "status": "results_found"
+  }
+]

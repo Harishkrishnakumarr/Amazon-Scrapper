@@ -1,0 +1,721 @@
+[
+  {
+    "business": "Asian Shoes",
+    "field": "Business Name",
+    "value": "Asian Shoes",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OZBP9WERCHBG&asin=B01MRN1BY4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T09:15:26.637650"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Website",
+    "query": "Asian Shoes official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.asianfootwears.com/",
+      "https://corporate.asianfootwears.com/sales-enquiry"
+    ],
+    "timestamp": "2026-09-02T09:15:28.886388",
+    "status": "results_found"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Website URL",
+    "value": "https://www.asianfootwears.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.asianfootwears.com/",
+    "timestamp": "2026-09-02T09:15:35.668014"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Phone Number",
+    "value": "+919996027231",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.asianfootwears.com/about-us",
+    "timestamp": "2026-09-02T09:15:39.866992"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Email Address",
+    "value": "info@asianfootwears.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.asianfootwears.com/about-us",
+    "timestamp": "2026-09-02T09:15:39.867206"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Legal Entity Name",
+    "query": "Asian Shoes company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY#:~:text=Its%20registered%20address%20is%20J-20%2C%20UDYOG%20NAGAR%20INDUSTRIAL,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+      "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY",
+      "https://fnshiftsolutions.com/gstin-search/asian-shoes-33AANFA7619J1Z8",
+      "https://gst.unifers.ai/gst/33AANFA7619J1Z8/asian-shoes"
+    ],
+    "timestamp": "2026-09-02T09:15:44.918074",
+    "status": "results_found"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY#:~:text=Its%20registered%20address%20is%20J-20%2C%20UDYOG%20NAGAR%20INDUSTRIAL,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T09:15:46.459925"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY#:~:text=Its%20registered%20address%20is%20J-20%2C%20UDYOG%20NAGAR%20INDUSTRIAL,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T09:15:46.459943"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY#:~:text=Its%20registered%20address%20is%20J-20%2C%20UDYOG%20NAGAR%20INDUSTRIAL,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T09:15:46.459947"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY#:~:text=Its%20registered%20address%20is%20J-20%2C%20UDYOG%20NAGAR%20INDUSTRIAL,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T09:15:46.459952"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "GST Number",
+    "value": "33AANFA7619J1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/asian-shoes-33AANFA7619J1Z8",
+    "timestamp": "2026-09-02T09:15:48.186514"
+  },
+  {
+    "business": "Asian Shoes",
+    "field": "PAN Number",
+    "value": "AANFA7619J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/asian-shoes-33AANFA7619J1Z8",
+    "timestamp": "2026-09-02T09:15:48.186530"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Legal Entity Name",
+    "query": "Asian Shoes Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY",
+      "https://www.instafinancials.com/company/asian-footwears-private-limited-U19200DL2008PTC183635/index.html",
+      "https://www.instafinancials.com/company/asia-shoes-private-limited-U19113DL2011PTC216723",
+      "https://tracxn.com/d/companies/asian-footwears/__mbbRrANEgSlVr1yLtLmGxPaNrxH3LH-WQ6F1ZMcPDUM"
+    ],
+    "timestamp": "2026-09-02T09:16:10.355895",
+    "status": "results_found"
+  },
+  {
+    "seller": "Asian Shoes",
+    "field": "Owner",
+    "query": "Asian Shoes director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/asian-footwears/people",
+      "https://yourstory.com/smbstory/nike-puma-adidas-brands-asian-footwear-aayush-jindal",
+      "https://tracxn.com/d/companies/asian-footwears/__mbbRrANEgSlVr1yLtLmGxPaNrxH3LH-WQ6F1ZMcPDUM",
+      "https://tracxn.com/d/legal-entities/india/asian-footwears-private-limited/__e-1ffmwczwoCRKCPEMi7o8B0VjcbeyOEbRoUSIyGngY"
+    ],
+    "timestamp": "2026-09-02T09:16:13.260390",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B07YP2F21T&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T09:16:34.550261"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T09:16:38.601875",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T09:16:44.474600"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T09:16:45.436325"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T09:16:45.436793"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.unifers.ai/gst/24AAJCC8517E1ZR/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-09-02T09:16:51.918327",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+    "timestamp": "2026-09-02T09:16:57.657572"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+    "timestamp": "2026-09-02T09:16:57.657588"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574#:~:text=It%20was%20founded%20by%20Amit.%20Cocoblu%20Retail%20Limited,Cr%20and%20profit%20after%20tax%20of%20%E2%82%B946.45%20Cr.",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T09:16:59.413667",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574#:~:text=It%20was%20founded%20by%20Amit.%20Cocoblu%20Retail%20Limited,Cr%20and%20profit%20after%20tax%20of%20%E2%82%B946.45%20Cr.",
+    "timestamp": "2026-09-02T09:17:01.269905"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T09:17:02.084632"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T09:17:02.084649"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T09:17:02.084655"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T09:17:02.084661"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T09:17:06.448070",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Business Name",
+    "value": "BansalEnterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2PGHJDBLVX5DX&isAmazonFulfilled=1&asin=B07YP2F21T&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T09:17:12.659893"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Website",
+    "query": "BansalEnterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bansalenterprises.co.in/index.php",
+      "https://www.bansalenterprises.co.in/regular-slotted.php"
+    ],
+    "timestamp": "2026-09-02T09:17:14.171867",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Website URL",
+    "value": "https://www.bansalenterprises.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bansalenterprises.com/",
+    "timestamp": "2026-09-02T09:17:18.270336"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Legal Entity Name",
+    "query": "BansalEnterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://zauba.company/",
+      "https://www.indiafilings.com/search/bansal-enterprises-private-limited-cin-U74899DL1992PTC048859",
+      "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs"
+    ],
+    "timestamp": "2026-09-02T09:17:41.388456",
+    "status": "results_found"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T09:17:47.190285"
+  },
+  {
+    "business": "BansalEnterprises",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T09:17:47.190553"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "PAN",
+    "query": "BansalEnterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/bansal-enterprises-29apcpp2089p1z3/",
+      "https://gst.iadv.io/BANSAL-ENTERPRISES-03AUBPB2518F1ZH/",
+      "https://www.bansalenterprise.in/",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-the-pan-card-number-of-a-company-a-step-by-step-guide"
+    ],
+    "timestamp": "2026-09-02T09:18:03.223798",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "GST",
+    "query": "BansalEnterprises GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T09:18:12.877115",
+    "status": "no_results"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "GST",
+    "query": "BansalEnterprises GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/bansal-enterprises-29apcpp2089p1z3/#:~:text=The%20GST%20number%20of%20BANSAL%20ENTERPRISES%20is%2029APCPP2089P1Z3.,registered%20on%2001%20Jul%202017.%20Current%20status%3A%20Active.",
+      "https://www.mastersindia.co/gst-search/?name=bansal-enterprises&gstin=07AAUFB8492R1Z6",
+      "https://findgst.in/gst/07CCMPB2042P1ZH",
+      "https://piceapp.com/gst-number-search/bansal-enterprises-07axqpb1039b1zy/"
+    ],
+    "timestamp": "2026-09-02T09:18:15.175504",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Owner",
+    "query": "BansalEnterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://bansalenterprises.net/about.html",
+      "https://www.companydetails.in/company/bansal-enterprises-pvt-ltd",
+      "https://www.crunchbase.com/person/madhup-bansal"
+    ],
+    "timestamp": "2026-09-02T09:18:28.054410",
+    "status": "results_found"
+  },
+  {
+    "seller": "BansalEnterprises",
+    "field": "Address",
+    "query": "BansalEnterprises registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bansalenterprises.org/contact-us.html",
+      "https://www.bansalenterprise.in/",
+      "https://www.bansalenterprises.net/",
+      "https://tracxn.com/d/legal-entities/india/bansal-enterprises-private-limited/__LmTz1Xo2GAp1qLym6EhNrfRgfzanKhdahH8OBJsrcTs"
+    ],
+    "timestamp": "2026-09-02T09:19:01.771819",
+    "status": "results_found"
+  },
+  {
+    "business": "Viraj Ent",
+    "field": "Business Name",
+    "value": "Viraj Ent",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2ZDWY21XW3H5N&isAmazonFulfilled=1&asin=B00IZ963K4&ref_=olp_merch_name_3",
+    "timestamp": "2026-09-02T09:19:10.316196"
+  },
+  {
+    "seller": "Viraj Ent",
+    "field": "Website",
+    "query": "Viraj Ent official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://doctar.in/hospitals/mumbai/110-a/drviraj-patil-hospital-mumbai-69da2dc0dda6c28d86914eb9",
+      "https://mediaid.in/doctor/dr-viraj-patil/"
+    ],
+    "timestamp": "2026-09-02T09:19:15.118052",
+    "status": "results_found"
+  },
+  {
+    "seller": "Viraj Ent",
+    "field": "Legal Entity Name",
+    "query": "Viraj Ent company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/11214840",
+      "https://www.falconebiz.com/company/VIRAJ-ENERTECH-PRIVATE-LIMITED-U46593WB2025PTC275612",
+      "https://www.indiafilings.com/search/viraj-enterprises-private-limited-cin-U50100UP2009PTC037702",
+      "https://find-and-update.company-information.service.gov.uk/company/11214840/filing-history"
+    ],
+    "timestamp": "2026-09-02T09:19:54.345816",
+    "status": "results_found"
+  },
+  {
+    "seller": "Viraj Ent",
+    "field": "PAN",
+    "query": "Viraj Ent PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide"
+    ],
+    "timestamp": "2026-09-02T09:20:03.908140",
+    "status": "results_found"
+  },
+  {
+    "business": "Viraj Ent",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T09:20:08.592894"
+  },
+  {
+    "business": "Viraj Ent",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T09:20:08.595491"
+  },
+  {
+    "business": "Viraj Ent",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T09:20:08.595521"
+  },
+  {
+    "seller": "Viraj Ent",
+    "field": "Owner",
+    "query": "Viraj Ent director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.entrepreneurindia.com/2025/viraj.php#:~:text=Viraj%20Bahl%2C%20a%20visionary%20entrepreneur%2C%20stands%20at%20the,propel%20the%20brand%20to%20new%20heights%20of%20success.",
+      "https://veeba.in/pages/about-viraj-bahl",
+      "https://www.planify.in/investors/viraj-bahl/",
+      "https://www.affluense.ai/profile/viraj-bahl-veeba-8a649f"
+    ],
+    "timestamp": "2026-09-02T09:20:15.149578",
+    "status": "results_found"
+  },
+  {
+    "seller": "Viraj Ent",
+    "field": "Address",
+    "query": "Viraj Ent registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.viraj.com/contact-us/",
+      "https://www.justdial.com/Mumbai/Viraj-Profiles-Pvt-Ltd-Corporate-Office-Viraj-Towers-Near-Land-Mark-Building-Andheri-East/022PXX22-XX22-170316075347-A9V3_BZDET",
+      "https://contactout.com/company/viraj-profiles-ltd-1078568",
+      "https://www.indiainfo.net/place/viraj-profiles-ltd-3487840"
+    ],
+    "timestamp": "2026-09-02T09:20:31.090749",
+    "status": "results_found"
+  },
+  {
+    "seller": "Viraj Ent",
+    "field": "Email",
+    "query": "Viraj Ent email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.medsynapse.app/doctors/dr-viraj-gaikwad-12559",
+      "https://www.viraj.com/contact-us/",
+      "https://www.cybo.com/IN-contact/dr-viraj-patils-ent-clinic/Viraj+Patil",
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNE18A1087DE543D6E&market=en-IN&src=SERPIC"
+    ],
+    "timestamp": "2026-09-02T09:20:53.765021",
+    "status": "results_found"
+  },
+  {
+    "business": "Viraj Ent",
+    "field": "Email Address",
+    "value": "support@medsynapse.app",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.medsynapse.app/doctors/dr-viraj-gaikwad-12559",
+    "timestamp": "2026-09-02T09:20:57.340699"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "Business Name",
+    "value": "STS ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A22K40KEJWHSL8&asin=B0F4KSHS9K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T09:20:59.020520"
+  },
+  {
+    "seller": "STS ENTERPRISES",
+    "field": "Website",
+    "query": "STS ENTERPRISES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stsenterprises.in/",
+      "https://www.sts-enterprise.com/"
+    ],
+    "timestamp": "2026-09-02T09:21:01.356260",
+    "status": "results_found"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "Website URL",
+    "value": "https://www.sts-enterprise.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sts-enterprise.com/",
+    "timestamp": "2026-09-02T09:21:54.039766"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "Phone Number",
+    "value": "+917908669976",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sts-enterprise.com/",
+    "timestamp": "2026-09-02T09:21:56.789165"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "Email Address",
+    "value": "info@sts-enterprise.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sts-enterprise.com/",
+    "timestamp": "2026-09-02T09:21:56.789727"
+  },
+  {
+    "seller": "STS ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "STS ENTERPRISES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/STS-ENTERPRISES-PRIVATE-LIMITED-U63040DL2002PTC117465",
+      "https://www.indiafilings.com/search/sts-enterprises-private-limited-cin-U63040DL2002PTC117465",
+      "https://cin.iadv.io/STS-ENTERPRISES-PRIVATE-LIMITED-U63040DL2002PTC117465/",
+      "https://www.thecompanycheck.com/org/sts-enterprises/5cd01830cb"
+    ],
+    "timestamp": "2026-09-02T09:22:00.904867",
+    "status": "results_found"
+  },
+  {
+    "seller": "STS ENTERPRISES",
+    "field": "PAN",
+    "query": "STS ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/36AAHFS8930Q1ZC/#:~:text=GST%20Number%20of%20STS%20ENTERPRISES%20is%2036AAHFS8930Q1ZC.%20Even,and%20maintain%20identity%20of%20your%20Supplier%20%2F%20Vendor.",
+      "https://gstserver.com/gst/36AAHFS8930Q1ZC/",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-09-02T09:22:17.573998",
+    "status": "results_found"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "GST Number",
+    "value": "36AAHFS8930Q1ZC",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/36AAHFS8930Q1ZC/#:~:text=GST%20Number%20of%20STS%20ENTERPRISES%20is%2036AAHFS8930Q1ZC.%20Even,and%20maintain%20identity%20of%20your%20Supplier%20%2F%20Vendor.",
+    "timestamp": "2026-09-02T09:22:19.504575"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "PAN Number",
+    "value": "AAHFS8930Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/36AAHFS8930Q1ZC/#:~:text=GST%20Number%20of%20STS%20ENTERPRISES%20is%2036AAHFS8930Q1ZC.%20Even,and%20maintain%20identity%20of%20your%20Supplier%20%2F%20Vendor.",
+    "timestamp": "2026-09-02T09:22:19.504592"
+  },
+  {
+    "seller": "STS ENTERPRISES",
+    "field": "Owner",
+    "query": "STS ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sts-enterprise.com/director.php",
+      "https://piceapp.com/gst-number-search/sts-enterprises-33ayhpt8888l1zc/",
+      "https://www.zoominfo.com/p/Alton-Cryer/3786006881",
+      "https://www.inspex.in/company/STS-ENTERPRISES-PRIVATE-LIMITED-U63040DL2002PTC117465"
+    ],
+    "timestamp": "2026-09-02T09:22:22.993127",
+    "status": "results_found"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-enterprises-33ayhpt8888l1zc/",
+    "timestamp": "2026-09-02T09:22:30.957329"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-enterprises-33ayhpt8888l1zc/",
+    "timestamp": "2026-09-02T09:22:30.957357"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-enterprises-33ayhpt8888l1zc/",
+    "timestamp": "2026-09-02T09:22:30.973974"
+  },
+  {
+    "business": "STS ENTERPRISES",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sts-enterprises-33ayhpt8888l1zc/",
+    "timestamp": "2026-09-02T09:22:30.973996"
+  }
+]

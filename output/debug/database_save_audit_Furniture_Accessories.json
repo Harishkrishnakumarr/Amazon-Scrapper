@@ -1,0 +1,61 @@
+{
+  "category": "Furniture Accessories",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 216,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CloudNine India",
+      "database_id": 217,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910050379539",
+      "email": "info@cloudninecare.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cloudninecare.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SHREE LAXMI ENTERPRISE\u2122",
+      "database_id": 218,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917275912985",
+      "email": "info@shreemaruti.com",
+      "gst": "21BLUPB8527R2ZE",
+      "pan": "Not Found",
+      "website": "https://www.shreelaxmienterprise.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 219,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600552026",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

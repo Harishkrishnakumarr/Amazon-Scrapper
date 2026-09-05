@@ -1,0 +1,87 @@
+{
+  "category": "Baby Boys Shoes",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "LITTLE BOO",
+      "database_id": 63,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911100842024",
+      "email": "littleboo184@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.littleboo.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ONYC",
+      "database_id": 64,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919220042026",
+      "email": "info@onychair.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PURESOLE",
+      "database_id": 65,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913895012026",
+      "email": "Not Found",
+      "gst": "27AAPCP4135R1ZL",
+      "pan": "AAPCP4135R",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ZULP",
+      "database_id": 66,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911313131313",
+      "email": "hello@wearzulp.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ANTIQUEHUB",
+      "database_id": 67,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910020002026",
+      "email": "antiquewoodhub@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GOPAL.",
+      "database_id": 68,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919006002026",
+      "email": "consumercare@gopalcorp.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

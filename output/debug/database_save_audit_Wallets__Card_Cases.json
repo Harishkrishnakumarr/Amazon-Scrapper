@@ -1,0 +1,61 @@
+{
+  "category": "Wallets, Card Cases",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Stealodeal India",
+      "database_id": 1660,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918043873086",
+      "email": "hello@stealodeal.in",
+      "gst": "07FSXPS8844C1ZU",
+      "pan": "FSXPS8844C",
+      "website": "https://www.stealodealindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Radhe Techno Service",
+      "database_id": 1661,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SHREE JEE HUB",
+      "database_id": 1662,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919412411484",
+      "email": "info@credhive.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Royal City Global Mart",
+      "database_id": 1663,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@royalenfield.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

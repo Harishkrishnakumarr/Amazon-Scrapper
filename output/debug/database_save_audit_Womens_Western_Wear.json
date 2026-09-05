@@ -1,0 +1,35 @@
+{
+  "category": "Womens Western Wear",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 141,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FableStreet",
+      "database_id": 142,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910209300630",
+      "email": "care@fablestreet.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.fablestreet.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "category": "Kitchen Tools",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 269,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916861232026",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "https://www.sellerratings.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "CloudNine India",
+      "database_id": 270,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910050379539",
+      "email": "info@cloudninecare.com",
+      "gst": "07BDUPK1435R1ZS",
+      "pan": "Not Found",
+      "website": "https://www.cloudninecare.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Z SEVEN LLP",
+      "database_id": 271,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "team@qorpiq.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "XVIRANTA",
+      "database_id": 272,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918293031444",
+      "email": "support@myntra.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Nestasia Home Decor",
+      "database_id": 273,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915047542026",
+      "email": "info@nestasia.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://nestasia.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

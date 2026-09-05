@@ -1,0 +1,61 @@
+{
+  "category": "Car Air Purifier",
+  "records_before_save": 10,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Reffair Innovations (India)",
+      "database_id": 874,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917743009440",
+      "email": "support@reffair.com",
+      "gst": "03AACCU3127B1Z2",
+      "pan": "AACCU3127B",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TEAM GREEN INNOVATIONS PRIVATE LIMITED",
+      "database_id": 875,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@goodair.in",
+      "gst": "32AAHCT4828K1Z4",
+      "pan": "AAHCT4828K",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PRIME FAST",
+      "database_id": 876,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "sales@primefast.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.primefast.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 877,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

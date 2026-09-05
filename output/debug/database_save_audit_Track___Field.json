@@ -1,0 +1,74 @@
+{
+  "category": "Track & Field",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 681,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TRACK & FIELD INDIA MANUFACTURING",
+      "database_id": 682,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "info@incorpx.co.in",
+      "gst": "33ABPCS3807G1Z9",
+      "pan": "ABPCS3807G",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "D & O Ventures Pvt Ltd",
+      "database_id": 682,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "info@onlinelegalindia.com",
+      "gst": "33ABPCS3807G1Z9",
+      "pan": "ABPCS3807G",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Alan Jones Clothing\u00ae",
+      "database_id": 683,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919513736499",
+      "email": "privacy@alan.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Global Sales Corporation",
+      "database_id": 684,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917315122639",
+      "email": "Not Found",
+      "gst": "06BFJPT9824G1ZY",
+      "pan": "BFJPT9824G",
+      "website": "https://www.globalsalescorporation.in/",
+      "status": "Verified"
+    }
+  ]
+}

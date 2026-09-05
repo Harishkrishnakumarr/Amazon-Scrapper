@@ -1,0 +1,35 @@
+{
+  "category": "Ice Skating",
+  "records_before_save": 19,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1560,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "18AALCR3173P1ZM",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "JASPO SPORTING PRIVATE LIMITED",
+      "database_id": 1561,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917648999213",
+      "email": "info@jaspo.co.in",
+      "gst": "03AAGCJ7483B1ZQ",
+      "pan": "AAGCJ7483B",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

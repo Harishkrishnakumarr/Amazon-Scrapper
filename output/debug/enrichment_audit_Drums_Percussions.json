@@ -1,0 +1,923 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0GSVQCXTM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T23:48:03.844882"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-08-22T23:48:05.539317",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T23:48:12.661347"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T23:48:14.349637"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T23:48:14.360349"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:48:22.371681",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T23:48:32.892430",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-22T23:48:51.435226",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:48:53.909060",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:48:58.968303",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-22T23:49:03.864486",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+    "timestamp": "2026-08-22T23:49:04.733270"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:49:06.102520",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:49:11.116588",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:49:15.883119",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:49:20.644482",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:49:24.163990"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:49:24.164007"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:49:24.164011"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:49:24.164015"
+  },
+  {
+    "business": "NoteKart",
+    "field": "Business Name",
+    "value": "NoteKart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AM04Z7MH4HSDD&asin=B074RH5XJQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T23:49:24.549985"
+  },
+  {
+    "seller": "NoteKart",
+    "field": "Website",
+    "query": "NoteKart official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-22T23:49:25.791288",
+    "status": "results_found"
+  },
+  {
+    "business": "VIINDER",
+    "field": "Business Name",
+    "value": "VIINDER",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3B4MTKQ24BKGL&asin=B0GZ46S59R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T23:51:29.998503"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Website",
+    "query": "VIINDER official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://science.cmb.ac.lk/plant-sciences/",
+      "https://www.res.cmb.ac.lk/plant.sciences/"
+    ],
+    "timestamp": "2026-08-22T23:51:31.398795",
+    "status": "results_found"
+  },
+  {
+    "business": "VIINDER",
+    "field": "Website URL",
+    "value": "https://www.viinder.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.viinder.com/",
+    "timestamp": "2026-08-22T23:51:36.252024"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Legal Entity Name",
+    "query": "VIINDER company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.policybazaar.com/life-insurance/term-insurance/",
+      "https://www.policybazaar.com/",
+      "https://www.policybazaar.com/life-insurance/term-insurance-calculator/",
+      "https://www.policybazaar.com/motor-insurance/two-wheeler-insurance/",
+      "https://www.policybazaar.com/life-insurance/term-insurance/best-term-insurance-plans-in-india/"
+    ],
+    "timestamp": "2026-08-22T23:51:47.483054",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Legal Entity Name",
+    "query": "VIINDER Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://www.tasteatlas.com/best-rated-street-food-in-vietnam",
+      "https://www.asiaodysseytravel.com/vietnam/food.html"
+    ],
+    "timestamp": "2026-08-22T23:51:58.964448",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "PAN",
+    "query": "VIINDER PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.garnandfuneralhomes.com/",
+      "https://www.kuhnfuneralhomes.com/",
+      "https://www.scranton.edu/alumni/AlumniSociety/deaths/index.shtml",
+      "https://www.josephjsmithfuneralhome.com/",
+      "https://firstdistrict.nmcourts.gov/about-this-district/court-dockets/santa-fe-county-district-court-santa-fe-nm/"
+    ],
+    "timestamp": "2026-08-22T23:52:07.633948",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "GST",
+    "query": "VIINDER GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-22T23:52:27.376876",
+    "status": "no_results"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "GST",
+    "query": "VIINDER GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/",
+      "https://services.gst.gov.in/services/quicklinks/searchtxp"
+    ],
+    "timestamp": "2026-08-22T23:52:30.894998",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "GST",
+    "query": "VIINDER GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.katyperry.com/",
+      "https://www.songkick.com/artists/1134363-katy-perry/calendar",
+      "https://www.livenation.com/artist/K8vZ917GC17/katy-perry-events",
+      "https://www.songkick.com/artists/1134363-katy-perry",
+      "https://concerts.hypebot.com/artist/k/32666-katy-perry"
+    ],
+    "timestamp": "2026-08-22T23:52:35.275131",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Owner",
+    "query": "VIINDER director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bucketlistly.blog/posts/best-places-to-visit-for-solo-travelers",
+      "https://www.thetravelpockets.com/new-blog/best-places-for-solo-travel-worldwide",
+      "https://www.lonelyplanet.com/articles/where-to-go-solo-travel",
+      "https://trespot.com/best-solo-trip-destinations-in-india.html",
+      "https://geographypin.com/solo-travel-destinations/"
+    ],
+    "timestamp": "2026-08-22T23:52:47.805423",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Owner",
+    "query": "VIINDER managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://viinder.com/contact-us/",
+      "https://viinder.com/",
+      "https://rocketreach.co/vinder-dhawan-email_4577922",
+      "https://advisor.morganstanley.com/ron.vinder",
+      "https://www.finnotes.org/people/ron-vinder"
+    ],
+    "timestamp": "2026-08-22T23:53:02.032040",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Address",
+    "query": "VIINDER registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://www.tasteatlas.com/best-rated-street-food-in-vietnam",
+      "https://www.govietnam.tours/vietnamese-food-guide-21-dishes-you-cant-miss/"
+    ],
+    "timestamp": "2026-08-22T23:53:09.033933",
+    "status": "results_found"
+  },
+  {
+    "business": "VIINDER",
+    "field": "Billing Address",
+    "value": "no 31a van mieu street, van mieu - quoc tu giam ward, hanoi, vietnam.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.govietnam.tours/vietnamese-food-guide-21-dishes-you-cant-miss/",
+    "timestamp": "2026-08-22T23:53:22.868173"
+  },
+  {
+    "business": "VIINDER",
+    "field": "City",
+    "value": "vietnam.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.govietnam.tours/vietnamese-food-guide-21-dishes-you-cant-miss/",
+    "timestamp": "2026-08-22T23:53:22.868188"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Phone",
+    "query": "VIINDER phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ptt.cc/bbs/NBA/index.html",
+      "https://www.ptt.cc/bbs/basketballTW/index.html",
+      "https://www.ptt.cc/bbs/Gossiping/",
+      "https://www.ptt.cc/bbs/BaseballXXXX/index.html"
+    ],
+    "timestamp": "2026-08-22T23:53:24.949114",
+    "status": "results_found"
+  },
+  {
+    "business": "VIINDER",
+    "field": "Phone Number",
+    "value": "+918031178803",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.ptt.cc/bbs/NBA/index.html",
+    "timestamp": "2026-08-22T23:53:26.049404"
+  },
+  {
+    "seller": "VIINDER",
+    "field": "Email",
+    "query": "VIINDER email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://viinder.com/contact-us/",
+      "https://viinder.com/",
+      "https://www.ihg.com/content/us/en/customer-care/contact-us",
+      "https://contactout.com/company/Monica-Vinader-email-format-89670",
+      "https://viinder.com/shop/"
+    ],
+    "timestamp": "2026-08-22T23:53:31.310550",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0G814PSPH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T23:53:31.738988"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://in.kompass.com/c/clicktech-retail-private-limited/in484642/"
+    ],
+    "timestamp": "2026-08-22T23:53:34.968401",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-22T23:53:38.345397"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-22T23:53:38.842162"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-22T23:53:38.879560"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-22T23:53:38.879572"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-22T23:53:38.879576"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-22T23:53:38.879579"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=b86de34fa01d1ecb085c89c6495d9cb7&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.falconebiz.com/company/CLICKTECH-RETAIL-PRIVATE-LIMITED-U52500WB2021PTC250343",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.companydetails.in/company/clicktech-retail-private-limited"
+    ],
+    "timestamp": "2026-08-22T23:53:47.595045",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-21AAJCC9783E1ZJ",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-22aajcc9783e1zh/"
+    ],
+    "timestamp": "2026-08-22T23:53:57.423722",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-22aajcc9783e1zh/",
+      "https://in.kompass.com/c/clicktech-retail-private-limited/in484642/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://e.raprocure.com/clicktech-retail-private-limited"
+    ],
+    "timestamp": "2026-08-22T23:54:04.331308",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://gst.unifers.ai/gst/29AAJCC9783E1Z3/clicktech-retail-private-limited",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-03aajcc9783e1zh/",
+      "https://www.falconebiz.com/company/CLICKTECH-RETAIL-PRIVATE-LIMITED-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-22T23:54:07.272152",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-24AAJCC9783E1ZD/",
+      "https://gst.jamku.app/gstin/24AAJCC9783E1ZD",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-24aajcc9783e1zd/"
+    ],
+    "timestamp": "2026-08-22T23:54:49.128260",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "GST Number",
+    "value": "33AAJCC9783E1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+    "timestamp": "2026-08-22T23:54:49.613814"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://178.128.25.172/search/teenage+guy+fucking+aunty",
+      "https://www.asianfplace.com/asian/?viewkey=1GgHfhuIBd6",
+      "http://178.175.136.251:9080/video.uccpladb36a/18yrs_neighbour_boy_fucking_beautiful_aunty_desi_real_sex"
+    ],
+    "timestamp": "2026-08-22T23:54:51.139498",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-22T23:55:00.082172",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Email",
+    "query": "Clicktech Retail Private Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.omnicalculator.com/math/greater-less",
+      "https://calculator.academy/greater-than-and-less-than-calculator/",
+      "https://sagecalculator.com/which-is-greater-calculator/",
+      "https://www.calculatorsoup.com/calculators/math/fractionscomparing.php",
+      "https://www.unittables.com/math/greater-than-less-than-calculator"
+    ],
+    "timestamp": "2026-08-22T23:55:14.386439",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Email",
+    "query": "Clicktech Retail Private Ltd official email id",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://clicktechretail.in/contact-us/",
+      "https://contactout.com/company/Clicktech-Retail-Private-Ltd-79151",
+      "https://clicktechindia.com/contact/",
+      "https://clicktechretail.in/about/",
+      "https://contactout.com/company/Clicktech-Retail-Private-Ltd-email-format-79151"
+    ],
+    "timestamp": "2026-08-22T23:55:31.198777",
+    "status": "results_found"
+  },
+  {
+    "business": "Rakshak Enterprise",
+    "field": "Business Name",
+    "value": "Rakshak Enterprise",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AY4GOAIAKJHCD&asin=B08PC7XWJK&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T23:55:31.585740"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "Website",
+    "query": "Rakshak Enterprise official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ad.doubleclick.net/searchads/link/click?lid=43700067211330714&ds_s_kwgid=58700006254014724&ds_a_cid=593220639&ds_a_caid=11561277095&ds_a_agid=113026174496&ds_a_lid=kwd-1455138747969&&ds_e_adid=73530147282452&ds_e_target_id=kwd-73530052425122:loc-90&&ds_e_network=o&ds_url_v=2&ds_dest_url=https://pixel.everesttech.net/4824/cq?ev_sid=10&ev_ln=high-end%20car%20rent&ev_ltx=&ev_lx=kwd-73530052425122:loc-90&ev_crx=73530147282452&ev_mt=p&ev_dvc=c&ev_phy=258438&ev_loc=&ev_cx=361243874&ev_ax=1176478313901060&ev_ex=&ev_efid=e72e9c5c7e86143e4edbf6d5972aff4a:G:s&url=https%3A%2F%2Fwww.enterprise.com%2Fen%2Fcar-rental%2Fcampaigns%2Fexotics.html%3Fmcid%3Dpaidsearch%3A37294193%26targetid%3Dkwd-73530052425122%3Aloc-90%26ef_id%3De72e9c5c7e86143e4edbf6d5972aff4a%3AG%3As%26s_kwcid%3DAL!4824!10!73530147282452!!!!73530052425122!!361243874!1176478313901060%26gclid%3De72e9c5c7e86143e4edbf6d5972aff4a%26gclsrc%3D3p.ds%26&gclid=e72e9c5c7e86143e4edbf6d5972aff4a&gclsrc=3p.ds&msclkid=e72e9c5c7e86143e4edbf6d5972aff4a&utm_source=bing&utm_medium=cpc&utm_campaign=E_M_US_SE_Type-Exotic_C_PHM_NTL_EN_US&utm_term=high-end%20car%20rent&utm_content=M_C_Exotic%20Car",
+      "https://www.dnb.com/business-directory/company-profiles.rakshak_enterprise.4abac1daee3e43ae70b3070e671b4ff6.html"
+    ],
+    "timestamp": "2026-08-22T23:55:35.419283",
+    "status": "results_found"
+  },
+  {
+    "business": "Rakshak Enterprise",
+    "field": "Website URL",
+    "value": "https://ad.doubleclick.net/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://ad.doubleclick.net/searchads/link/click?lid=43700067211330714&ds_s_kwgid=58700006254014724&ds_a_cid=593220639&ds_a_caid=11561277095&ds_a_agid=113026174496&ds_a_lid=kwd-1455138747969&&ds_e_adid=73530147282452&ds_e_target_id=kwd-73530052425122:loc-90&&ds_e_network=o&ds_url_v=2&ds_dest_url=https://pixel.everesttech.net/4824/cq?ev_sid=10&ev_ln=high-end%20car%20rent&ev_ltx=&ev_lx=kwd-73530052425122:loc-90&ev_crx=73530147282452&ev_mt=p&ev_dvc=c&ev_phy=258438&ev_loc=&ev_cx=361243874&ev_ax=1176478313901060&ev_ex=&ev_efid=e72e9c5c7e86143e4edbf6d5972aff4a:G:s&url=https%3A%2F%2Fwww.enterprise.com%2Fen%2Fcar-rental%2Fcampaigns%2Fexotics.html%3Fmcid%3Dpaidsearch%3A37294193%26targetid%3Dkwd-73530052425122%3Aloc-90%26ef_id%3De72e9c5c7e86143e4edbf6d5972aff4a%3AG%3As%26s_kwcid%3DAL!4824!10!73530147282452!!!!73530052425122!!361243874!1176478313901060%26gclid%3De72e9c5c7e86143e4edbf6d5972aff4a%26gclsrc%3D3p.ds%26&gclid=e72e9c5c7e86143e4edbf6d5972aff4a&gclsrc=3p.ds&msclkid=e72e9c5c7e86143e4edbf6d5972aff4a&utm_source=bing&utm_medium=cpc&utm_campaign=E_M_US_SE_Type-Exotic_C_PHM_NTL_EN_US&utm_term=high-end%20car%20rent&utm_content=M_C_Exotic%20Car",
+    "timestamp": "2026-08-22T23:55:41.025430"
+  },
+  {
+    "business": "Rakshak Enterprise",
+    "field": "Phone Number",
+    "value": "+910360360360",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://ad.doubleclick.net/",
+    "timestamp": "2026-08-22T23:55:42.426691"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "Legal Entity Name",
+    "query": "Rakshak Enterprise company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tripadvisor.fr/Restaurants-g2065188-Morbihan_Brittany.html",
+      "https://morbihan.com/decouvrir/gastronomie-bretonne/les-restaurants/",
+      "https://www.thefork.fr/restaurants/morbihan-56-b1818",
+      "https://www.petitfute.com/d28-morbihan/c1165-restaurants/",
+      "https://morbihan.com/decouvrir/le-morbihan-et-ses-perles-bretonnes/56-bonnes-raisons-de-venir/les-etoiles-du-morbihan/"
+    ],
+    "timestamp": "2026-08-22T23:55:51.325037",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "Legal Entity Name",
+    "query": "Rakshak Enterprise Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365-0.html",
+      "https://caselaw.findlaw.com/court/la-court-of-appeal/116769851.html",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365.html"
+    ],
+    "timestamp": "2026-08-22T23:56:04.208927",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "Legal Entity Name",
+    "query": "Rakshak Enterprise legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.qsr.mlit.go.jp/",
+      "https://www.qsr.mlit.go.jp/useful/river_livecam.html",
+      "https://www.pa.qsr.mlit.go.jp/",
+      "https://www.pa.qsr.mlit.go.jp/beppu/",
+      "https://www.qsr.mlit.go.jp/fukkoku/"
+    ],
+    "timestamp": "2026-08-22T23:56:07.323948",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "PAN",
+    "query": "Rakshak Enterprise PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://soraraw.com/newest",
+      "https://soraraw.com/trending",
+      "https://klmanga.app/ranking/",
+      "https://www.mangaraw.ac/genre/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9/",
+      "https://mangaraw.ac/manga/%e3%83%af%e3%83%b3%e3%83%94%e3%83%bc%e3%82%b9-raw-free/"
+    ],
+    "timestamp": "2026-08-22T23:56:11.768613",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "PAN",
+    "query": "Rakshak Enterprise PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mlb.com/live-stream-games?msockid=37420d69cde96c710dea1ad4cc7c6dbe",
+      "https://www.gtainside.com/sanandreas/savegames/",
+      "https://www.torn.com/",
+      "https://simul8or.com/",
+      "https://home.gamer.com.tw/home.php?owner=thomasxyzshi"
+    ],
+    "timestamp": "2026-08-22T23:56:19.772428",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "GST",
+    "query": "Rakshak Enterprise GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=pabbisetti-shekar&gstin=36BIGPS4460M1ZP",
+      "https://reg.gst.gov.in/registration/",
+      "https://www.mastersindia.co/gst-search/?name=rakshak-enterprises&gstin=36ABEFR5263P1ZK",
+      "https://cleartax.in/gst-number-search/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-22T23:56:34.019512",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "GST",
+    "query": "Rakshak Enterprise GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kokl.ua/ru/yak-ochystyty-chajnyk-vid-nakypu-5-prostyh-i-efektyvnyh-sposobiv/",
+      "https://retro.ua/ru/yak-ochystyty-chajnyk-vid-nakypu-5-prostyh-i-efektyvnyh-sposobiv/",
+      "https://pronakip.com/kak-ochistit-chajnik-ot-nakipi-v-domashnix-usloviyax/",
+      "https://noviydom.com.ua/kak-ochistit-chajnik-ot-nakipi",
+      "https://www.wem.ua/ru/yak-vidmyty-chajnyk-vid-nakypu-povnyj-gid-z-perevirenymy-metodamy/"
+    ],
+    "timestamp": "2026-08-22T23:56:40.295977",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "Owner",
+    "query": "Rakshak Enterprise director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.visitstockholm.com/",
+      "https://www.stockholmtourism.org/stockholm-travel-guide/",
+      "https://www.nomadicmatt.com/travel-guides/sweden-travel-tips/stockholm/",
+      "https://traveltract.com/travel-to-stockholm-sweden/",
+      "https://adayin.se/ultimate-guide-to-stockholm-what-every-visitor-needs-to-know/"
+    ],
+    "timestamp": "2026-08-22T23:57:02.026513",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "Address",
+    "query": "Rakshak Enterprise registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/12780063/command-pattern-for-undo-redo-in-paint-application",
+      "https://stackoverflow.com/questions/5381945/how-do-i-reverse-a-commit-in-git",
+      "https://ru.stackoverflow.com/questions/935212/powershell-%d0%b2%d1%8b%d0%bf%d0%be%d0%bb%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b5%d0%b2-%d0%be%d1%82%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%be-%d0%b2-%d1%8d%d1%82%d0%be%d0%b9-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b5",
+      "https://www.edugeek.net/forums/topic/39578-open-source-can-save-schools-billions/",
+      "https://stackoverflow.com/questions/23899718/scale-and-mirror-svg-object"
+    ],
+    "timestamp": "2026-08-22T23:57:17.593136",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rakshak Enterprise",
+    "field": "Address",
+    "query": "Rakshak Enterprise registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/RAKSHAK-ENTERPRISES-PRIVATE-LIMITED-U47737UP2025PTC215713",
+      "https://www.instafinancials.com/company/rakshak-enterprises-private-limited-U47737UP2025PTC215713",
+      "https://www.indiafilings.com/search/rakshak-enterprises-private-limited-cin-U47737UP2025PTC215713",
+      "https://www.thecompanycheck.com/company/rakshak-enterprises-private-limited/U47737UP2025PTC215713",
+      "https://www.allindiaitr.com/company/rakshak-enterprises-private-limited/U47737UP2025PTC215713"
+    ],
+    "timestamp": "2026-08-22T23:57:27.614235",
+    "status": "results_found"
+  }
+]

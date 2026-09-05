@@ -1,0 +1,74 @@
+{
+  "category": "Clothing Accessories",
+  "records_before_save": 11,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1427,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "info@cbinsights.com",
+      "gst": "06AADCV4254H1ZC",
+      "pan": "AADCV4254H",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SNMMIFER",
+      "database_id": 1429,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@swyftlegal.com",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "https://www.sellerratings.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1428,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+      "database_id": 1643,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919008489091",
+      "email": "care@ishinfashions.com",
+      "gst": "29AAOCM5326J2ZX",
+      "pan": "AAOCM5326J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TOPPROSPER",
+      "database_id": 1546,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "ryan@brighter-hk.com",
+      "gst": "07OKNPS0696M1ZW",
+      "pan": "OKNPS0696M",
+      "website": "http://www.topprosper.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+[
+  {
+    "business": "The Purple Tree",
+    "field": "Business Name",
+    "value": "The Purple Tree",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VF5EB7M5QH68&asin=B0CRVJ6S3Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-03T17:47:48.611129"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "Website",
+    "query": "The Purple Tree official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-03T17:48:01.118496",
+    "status": "no_results"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "Legal Entity Name",
+    "query": "The Purple Tree company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://b2bhint.com/en/company/za/the-purple-tree-company--K2022243571",
+      "https://piceapp.com/gst-number-search/the-purpletree-29giups8671d1z7/",
+      "https://www.thepurpletree.in/policies/contact-information",
+      "https://coltd.hk/company-1481793-details.htm"
+    ],
+    "timestamp": "2026-09-03T17:48:34.065709",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "PAN",
+    "query": "The Purple Tree PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:48:42.431126",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "PAN",
+    "query": "The Purple Tree PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:48:58.285663",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "GST",
+    "query": "The Purple Tree GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:49:00.515943",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "GST",
+    "query": "The Purple Tree GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:49:16.959033",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "Owner",
+    "query": "The Purple Tree director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:49:19.067539",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "Owner",
+    "query": "The Purple Tree founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:49:30.801764",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "Address",
+    "query": "The Purple Tree registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:49:36.233400",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Purple Tree",
+    "field": "Address",
+    "query": "The Purple Tree registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.purplle.com/",
+      "https://www.color-meanings.com/shades-of-purple-color-names-html-hex-rgb-codes/",
+      "https://www.purplle.com/pr/home",
+      "https://www.figma.com/colors/purple/"
+    ],
+    "timestamp": "2026-09-03T17:49:46.920418",
+    "status": "results_found"
+  },
+  {
+    "business": "ENSAC WORLD",
+    "field": "Business Name",
+    "value": "ENSAC WORLD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1SEX3ZKEG448D&asin=B0FTG4L5FB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-03T17:49:49.791745"
+  },
+  {
+    "seller": "ENSAC WORLD",
+    "field": "Website",
+    "query": "ENSAC WORLD official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.uniair.com.tw/rwd/index.aspx",
+      "https://www.uniair.com.tw/rwd/B2C/booking/ubk_search.aspx"
+    ],
+    "timestamp": "2026-09-03T17:49:51.713390",
+    "status": "results_found"
+  },
+  {
+    "seller": "ENSAC WORLD",
+    "field": "Legal Entity Name",
+    "query": "ENSAC WORLD company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fifthcircuit.org/searchopinions.aspx",
+      "https://ecourt.fifthcircuit.org/dashboard.aspx",
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/courthouses/la/"
+    ],
+    "timestamp": "2026-09-03T17:50:21.730350",
+    "status": "results_found"
+  },
+  {
+    "seller": "ENSAC WORLD",
+    "field": "PAN",
+    "query": "ENSAC WORLD PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://ensacworld.com/pages/contact",
+      "https://gstverify.co.in/search/",
+      "https://ensacworld.com/"
+    ],
+    "timestamp": "2026-09-03T17:51:22.553889",
+    "status": "results_found"
+  },
+  {
+    "seller": "ENSAC WORLD",
+    "field": "GST",
+    "query": "ENSAC WORLD GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/ensac-world-07AXBPJ5030D1Z2/",
+      "https://www.mastersindia.co/gst-search/?name=aashima-gupta&gstin=07AXBPJ5030D1Z2",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-03T17:51:33.328430",
+    "status": "results_found"
+  },
+  {
+    "seller": "ENSAC WORLD",
+    "field": "Owner",
+    "query": "ENSAC WORLD director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-03T17:51:58.160853",
+    "status": "no_results"
+  },
+  {
+    "business": "PeaceOut",
+    "field": "Business Name",
+    "value": "PeaceOut",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AVI9OGVGKC38P&asin=B0H2B2R2VF&ref_=dp_merchant_link",
+    "timestamp": "2026-09-03T17:52:04.728652"
+  },
+  {
+    "seller": "PeaceOut",
+    "field": "Website",
+    "query": "PeaceOut official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/"
+    ],
+    "timestamp": "2026-09-03T17:52:12.076378",
+    "status": "results_found"
+  },
+  {
+    "seller": "PeaceOut",
+    "field": "Legal Entity Name",
+    "query": "PeaceOut company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=5e92c24205ee17fcf064a8db634da994&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://www.peaceoutclo.com/register",
+      "https://mergr.com/company/peace-out",
+      "https://www.crunchbase.com/organization/peace-out"
+    ],
+    "timestamp": "2026-09-03T17:52:47.735566",
+    "status": "results_found"
+  },
+  {
+    "seller": "PeaceOut",
+    "field": "PAN",
+    "query": "PeaceOut PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fifthcircuit.org/searchopinions.aspx",
+      "https://ecourt.fifthcircuit.org/dashboard.aspx",
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/courthouses/la/"
+    ],
+    "timestamp": "2026-09-03T17:52:55.132461",
+    "status": "results_found"
+  },
+  {
+    "seller": "PeaceOut",
+    "field": "GST",
+    "query": "PeaceOut GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/find-all-installed-apps-and-programs-in-windows-11.44535/"
+    ],
+    "timestamp": "2026-09-03T17:53:11.493444",
+    "status": "results_found"
+  },
+  {
+    "seller": "PeaceOut",
+    "field": "Owner",
+    "query": "PeaceOut director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-03T17:53:42.101361",
+    "status": "no_results"
+  },
+  {
+    "seller": "PeaceOut",
+    "field": "Address",
+    "query": "PeaceOut registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thewell.guide/guides/arsenic-in-well-water",
+      "https://wellowner.org/resources/water-quality/contaminants/arsenic/",
+      "https://cleanwaterhacks.com/articles/arsenic-in-well-water",
+      "https://www.hydrohearth.com/blog/arsenic-in-well-water"
+    ],
+    "timestamp": "2026-09-03T17:53:47.428148",
+    "status": "results_found"
+  }
+]

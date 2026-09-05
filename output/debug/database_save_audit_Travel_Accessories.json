@@ -1,0 +1,48 @@
+{
+  "category": "Travel Accessories",
+  "records_before_save": 4,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1618,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "gsd@utiitsl.com",
+      "gst": "06AADCV4254H1ZC",
+      "pan": "AADCV4254H",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KBS TRADERS",
+      "database_id": 1648,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919946601888",
+      "email": "info@kbstraders.com",
+      "gst": "33AAVFK5137D1ZA",
+      "pan": "AAVFK5137D",
+      "website": "https://www.kbstraders.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1649,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

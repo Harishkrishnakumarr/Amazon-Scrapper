@@ -1,0 +1,100 @@
+{
+  "category": "Motorbike Accessories Parts",
+  "records_before_save": 7,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 995,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916122040066",
+      "email": "mswcorporatesupport@morganstanley.com",
+      "gst": "27AADCV4254H1Z8",
+      "pan": "AADCV4254H",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "WEST HOME + LIVING",
+      "database_id": 996,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918004253939",
+      "email": "relief-rj@nic.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ViaTerra Gear",
+      "database_id": 997,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918886651324",
+      "email": "help@viaterra.in",
+      "gst": "27AADCV5752A1ZH",
+      "pan": "AADCV5752A",
+      "website": "https://viaterragear.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "mm customs",
+      "database_id": 998,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919792458000",
+      "email": "info@brighterly.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "JSAUX IN",
+      "database_id": 1031,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@parsers.vc",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FD MALIK TRADERS",
+      "database_id": 1027,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "maliks@bom5.vsnl.net.in",
+      "gst": "03FBPPR0487D1ZH",
+      "pan": "FBPPR0487D",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GURU HARKRISHAN ENTERPRISES",
+      "database_id": 1032,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919810089598",
+      "email": "Not Found",
+      "gst": "07AGFPT5051K1Z3",
+      "pan": "AGFPT5051K",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

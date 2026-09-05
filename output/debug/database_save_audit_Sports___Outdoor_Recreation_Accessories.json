@@ -1,0 +1,48 @@
+{
+  "category": "Sports & Outdoor Recreation Accessories",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "NALINISHUBHRA E-SHOP",
+      "database_id": 663,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919354111126",
+      "email": "lsocare@libertyshoes.com",
+      "gst": "06AAUFN3641A1ZE",
+      "pan": "AAUFN3641A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "VIKA TEXTILES",
+      "database_id": 664,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@mastersindia.co",
+      "gst": "33BMGPM0081E1ZH",
+      "pan": "BMGPM0081E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Athverv",
+      "database_id": 665,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919892402787",
+      "email": "support@athverv.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.athverv.com/",
+      "status": "Verified"
+    }
+  ]
+}

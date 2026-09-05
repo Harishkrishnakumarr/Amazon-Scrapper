@@ -1,0 +1,346 @@
+[
+  {
+    "business": "Mehrang Exim",
+    "field": "Business Name",
+    "value": "Mehrang Exim",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1EGVUZ2PQZFQ8&asin=B09TTLL9BL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T21:19:20.151933"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Website",
+    "query": "Mehrang Exim official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mehrang.co.in/",
+      "https://www.mehrang.co.in/about-us.htm"
+    ],
+    "timestamp": "2026-09-02T21:19:21.603968",
+    "status": "results_found"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "Website URL",
+    "value": "https://www.mehrang.co.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.mehrang.co.in/about-us.htm",
+    "timestamp": "2026-09-02T21:19:23.558523"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "Phone Number",
+    "value": "+919106443009",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T21:19:24.653396"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "Email Address",
+    "value": "mehrangexim@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T21:19:24.654103"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "GST Number",
+    "value": "24AWNPJ7048J1Z5",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T21:19:24.654861"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "PAN Number",
+    "value": "AWNPJ7048J",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T21:19:24.654872"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Legal Entity Name",
+    "query": "Mehrang Exim company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://findgst.in/gst/24AWNPJ7048J1Z5",
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-02T21:19:30.491420",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Owner",
+    "query": "Mehrang Exim director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mehrang.co.in/about-us.htm",
+      "https://www.mehrang.co.in/",
+      "https://findgst.in/gst/24AWNPJ7048J1Z5",
+      "https://piceapp.com/gst-number-search/mehrang-exim-24awnpj7048j1z5/"
+    ],
+    "timestamp": "2026-09-02T21:19:48.152555",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Owner",
+    "query": "Mehrang Exim founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://findgst.in/gst/24AWNPJ7048J1Z5",
+      "https://tracxn.com/d/legal-entities/india/millenium-exim-private-limited/__tb2ikpNwwo5TpoSiyXHQsJmcNb_ahdoq3READqvl0Pg",
+      "https://tracxn.com/d/companies/moeving/__e-SzBVwcgNuAvAtryzCvtUgIz98WqKB2xu512rJmCEo",
+      "https://www.business-standard.com/markets/m-k-exim-india-ltd-share-price-13817.html"
+    ],
+    "timestamp": "2026-09-02T21:19:58.191092",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Address",
+    "query": "Mehrang Exim registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f774991a-79e3-4784-b691-c7804745126d.pdf#:~:text=Regd.%20Office%3A%20G1%2F150%2C%20Garment%20Zone%2C%20E.P.1.P.%20Sitapura%2C%20Tonk,the%20performance%20of%20the%20Chairman%20of%20the%20Company.",
+      "https://findgst.in/gst/24AWNPJ7048J1Z5",
+      "https://www.falconebiz.com/company/SPEARPOINT-EXIM-PRIVATE-LIMITED-U46309HR2026PTC148839",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T21:20:14.689333",
+    "status": "results_found"
+  },
+  {
+    "business": "ALYNE",
+    "field": "Business Name",
+    "value": "ALYNE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TBD6K9X0RZDO&asin=B0BZPLVV3B&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T21:20:20.225967"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "Website",
+    "query": "ALYNE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://alyne.co.in/",
+      "https://alyne.co.in/collection/all-products"
+    ],
+    "timestamp": "2026-09-02T21:20:21.409016",
+    "status": "results_found"
+  },
+  {
+    "business": "ALYNE",
+    "field": "Website URL",
+    "value": "https://www.alyne.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.alyne.com/",
+    "timestamp": "2026-09-02T21:20:25.718816"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "Legal Entity Name",
+    "query": "ALYNE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://alyne.io/",
+      "https://app.alyne.com/login",
+      "https://tracxn.com/d/companies/alyne/__2vkPDo9gWGDooW0JyLVJCsLFx2sIy8JyUeR2PY_5K0Q",
+      "https://mitratech.com/products/alyne/"
+    ],
+    "timestamp": "2026-09-02T21:20:40.335123",
+    "status": "results_found"
+  },
+  {
+    "business": "ALYNE",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/alyne/__2vkPDo9gWGDooW0JyLVJCsLFx2sIy8JyUeR2PY_5K0Q",
+    "timestamp": "2026-09-02T21:20:47.640262"
+  },
+  {
+    "business": "ALYNE",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/alyne/__2vkPDo9gWGDooW0JyLVJCsLFx2sIy8JyUeR2PY_5K0Q",
+    "timestamp": "2026-09-02T21:20:47.640276"
+  },
+  {
+    "business": "ALYNE",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/alyne/__2vkPDo9gWGDooW0JyLVJCsLFx2sIy8JyUeR2PY_5K0Q",
+    "timestamp": "2026-09-02T21:20:47.640280"
+  },
+  {
+    "business": "ALYNE",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/alyne/__2vkPDo9gWGDooW0JyLVJCsLFx2sIy8JyUeR2PY_5K0Q",
+    "timestamp": "2026-09-02T21:20:47.640284"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "Legal Entity Name",
+    "query": "ALYNE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/check-company-name-availability",
+      "https://razorpay.com/rize/company-registration/private-limited/"
+    ],
+    "timestamp": "2026-09-02T21:20:51.071732",
+    "status": "results_found"
+  },
+  {
+    "business": "ALYNE",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:20:51.517911"
+  },
+  {
+    "business": "ALYNE",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:20:51.518078"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "PAN",
+    "query": "ALYNE PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T21:20:56.325764",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "PAN",
+    "query": "ALYNE PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T21:20:58.954822",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "GST",
+    "query": "ALYNE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/gst-registration/track"
+    ],
+    "timestamp": "2026-09-02T21:21:01.019806",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "GST",
+    "query": "ALYNE GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/gst-number-search#:~:text=Verify%20any%20GST%20number%20online%20in%20seconds%20with,taxpayer%27s%20legal%20name%2C%20registration%20status%2C%20address%2C%20and%20jurisdiction.",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-02T21:21:07.062383",
+    "status": "results_found"
+  },
+  {
+    "business": "ALYNE",
+    "field": "GST Number",
+    "value": "01AAUCM7837L1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search#:~:text=Verify%20any%20GST%20number%20online%20in%20seconds%20with,taxpayer%27s%20legal%20name%2C%20registration%20status%2C%20address%2C%20and%20jurisdiction.",
+    "timestamp": "2026-09-02T21:21:09.906551"
+  },
+  {
+    "business": "ALYNE",
+    "field": "PAN Number",
+    "value": "AAUCM7837L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search#:~:text=Verify%20any%20GST%20number%20online%20in%20seconds%20with,taxpayer%27s%20legal%20name%2C%20registration%20status%2C%20address%2C%20and%20jurisdiction.",
+    "timestamp": "2026-09-02T21:21:09.906565"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "Owner",
+    "query": "ALYNE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/alyne/__2vkPDo9gWGDooW0JyLVJCsLFx2sIy8JyUeR2PY_5K0Q",
+      "https://tracxn.com/d/companies/alyne/__bL6IBb7dyMQbuQHE40DrkeHFL3WU5Hi5TjM7gDAoHkc",
+      "https://wellfound.com/company/alyne/people",
+      "https://www.thestartupfounder.com/how-the-munich-based-startup-became-successful/"
+    ],
+    "timestamp": "2026-09-02T21:21:11.361023",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALYNE",
+    "field": "Owner",
+    "query": "ALYNE founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/alyne/__2vkPDo9gWGDooW0JyLVJCsLFx2sIy8JyUeR2PY_5K0Q",
+      "https://alyne.io/about-us/",
+      "https://wellfound.com/company/alyne/people",
+      "https://www.thestartupfounder.com/how-the-munich-based-startup-became-successful/"
+    ],
+    "timestamp": "2026-09-02T21:21:16.576816",
+    "status": "results_found"
+  }
+]

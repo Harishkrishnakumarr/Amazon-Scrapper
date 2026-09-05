@@ -1,0 +1,74 @@
+{
+  "category": "Health Supplements",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Amazon Retail",
+      "database_id": 837,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "37AAPCA6346P1ZU",
+      "pan": "AAPCA6346P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 838,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GlobalBees Health",
+      "database_id": 839,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919625740740",
+      "email": "info@gstserver.com",
+      "gst": "08AAJCG0093K1ZD",
+      "pan": "AAJCG0093K",
+      "website": "https://www.globalbees.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Bright Lifecare Private Limited",
+      "database_id": 840,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "27AAECB5311J1ZU",
+      "pan": "AAECB5311J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TATA 1MG",
+      "database_id": 841,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918002098282",
+      "email": "care@1mg.com",
+      "gst": "37AAACZ8318D1Z9",
+      "pan": "AAACZ8318D",
+      "website": "https://www.tata1mg.com/",
+      "status": "Verified"
+    }
+  ]
+}

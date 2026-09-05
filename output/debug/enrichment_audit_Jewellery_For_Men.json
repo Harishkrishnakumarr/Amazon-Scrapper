@@ -1,0 +1,801 @@
+[
+  {
+    "business": "Fashion Frill",
+    "field": "Business Name",
+    "value": "Fashion Frill",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2UKVQSRNVD5VP&asin=B0CV3T1WBB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T16:54:37.058891"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "Website",
+    "query": "Fashion Frill official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fashionfrill.com/",
+      "https://fashionfrill.com/"
+    ],
+    "timestamp": "2026-08-17T16:54:38.789277",
+    "status": "results_found"
+  },
+  {
+    "business": "Fashion Frill",
+    "field": "Website URL",
+    "value": "https://www.fashionfrill.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.fashionfrill.com/",
+    "timestamp": "2026-08-17T16:54:40.851429"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "Legal Entity Name",
+    "query": "Fashion Frill company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion",
+      "https://www.fashionnova.com/?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:54:49.930560",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "Legal Entity Name",
+    "query": "Fashion Frill Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion",
+      "https://www.fashionnova.com/?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:55:02.001908",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "PAN",
+    "query": "Fashion Frill PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion",
+      "https://www.fashionnova.com/?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:55:15.276602",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "PAN",
+    "query": "Fashion Frill PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion"
+    ],
+    "timestamp": "2026-08-17T16:55:27.647216",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "GST",
+    "query": "Fashion Frill GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion"
+    ],
+    "timestamp": "2026-08-17T16:55:40.911385",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "GST",
+    "query": "Fashion Frill GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion"
+    ],
+    "timestamp": "2026-08-17T16:55:51.369390",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "Owner",
+    "query": "Fashion Frill director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion",
+      "https://www.fashionnova.com/?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:56:04.108239",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "Owner",
+    "query": "Fashion Frill managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion",
+      "https://www.fashionnova.com/?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:56:12.543878",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fashion Frill",
+    "field": "Address",
+    "query": "Fashion Frill registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.vogue.in/topics/fashion-trends",
+      "https://www.nykaafashion.com/",
+      "https://www.vogue.com/fashion",
+      "https://www.vogue.in/fashion",
+      "https://www.fashionnova.com/?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:56:29.608501",
+    "status": "results_found"
+  },
+  {
+    "business": "Bankebihari.",
+    "field": "Business Name",
+    "value": "Bankebihari.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28RMAZV9DTKTB&asin=B0H4D9VKWP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T16:56:39.779268"
+  },
+  {
+    "seller": "Bankebihari.",
+    "field": "Website",
+    "query": "Bankebihari. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://iraq-24.news/15099",
+      "https://www.mc-doualiya.com/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D8%B1%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D8%AC/20260713-%D8%B2%D8%AD%D8%A7%D9%85-%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%8A%D9%88%D9%85%D9%8A%D8%A9-%D9%8A%D8%AE%D8%B3%D8%B1-%D9%81%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%88%D9%82%D8%AA%D9%87-%D9%88%D9%85%D8%A7%D9%84%D9%87-%D9%88%D9%86%D9%81%D8%B3%D9%8A%D8%AA%D9%87"
+    ],
+    "timestamp": "2026-08-17T16:56:40.910005",
+    "status": "results_found"
+  },
+  {
+    "business": "Bankebihari.",
+    "field": "Website URL",
+    "value": "https://www.bankebihari.co.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bankebihari.co.in/",
+    "timestamp": "2026-08-17T16:58:13.811656"
+  },
+  {
+    "business": "Bankebihari.",
+    "field": "Phone Number",
+    "value": "+918481102026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.bankebihari.co.in/",
+    "timestamp": "2026-08-17T16:58:14.367376"
+  },
+  {
+    "business": "Bankebihari.",
+    "field": "Email Address",
+    "value": "bankebihariinfra@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.bankebihari.co.in/",
+    "timestamp": "2026-08-17T16:58:14.370792"
+  },
+  {
+    "seller": "Bankebihari.",
+    "field": "Legal Entity Name",
+    "query": "Bankebihari. company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.idntimes.com/business/finance/jenis-berlian-berdasarkan-asal-kimia-warna-dan-kualitas-c1c2-01-6cnpl-hm4xm9",
+      "https://frankandcojewellery.com/id/articles/mengenal-apa-itu-diamond-gemstone-dan-keindahannya",
+      "https://www.passionjewelry.co.id/news-detail/berlian-jenis-batu-apa-simak-penjelasan-dan-pilihan-perhiasan-terbarunya",
+      "https://frankandcojewellery.com/id/articles/apa-itu-gemstone-panduan-lengkap-mengenal-batu-mul",
+      "https://mondialjeweler.com/id/stories/articles/kenali-keistimewaan-tiap-jenis-gemstone-yang-ada-d"
+    ],
+    "timestamp": "2026-08-17T16:58:17.048076",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bankebihari.",
+    "field": "PAN",
+    "query": "Bankebihari. PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/ff42efa93242c1c19e2202f8.html",
+      "http://jingyan.baidu.com",
+      "http://jingyan.baidu.com//list/10",
+      "http://jingyan.baidu.com//list/17",
+      "https://jingyan.baidu.com/article/0eb457e5051dd642f1a9059c.html"
+    ],
+    "timestamp": "2026-08-17T16:58:41.015536",
+    "status": "results_found"
+  },
+  {
+    "business": "XFSAFDM-IN",
+    "field": "Business Name",
+    "value": "XFSAFDM-IN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2VLTFLIBBBM17&asin=B0FW4N94TW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T16:58:42.781964"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "Website",
+    "query": "XFSAFDM-IN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://brainly.ph/question/13267",
+      "https://brainly.ph/question/18757193"
+    ],
+    "timestamp": "2026-08-17T16:58:44.483894",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "Legal Entity Name",
+    "query": "XFSAFDM-IN company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tripadvisor.com/Attractions-g60649-Activities-c57-Kaaawa_Oahu_Hawaii.html",
+      "https://app.advcollective.com/things-to-do/kaaawa-hawaii",
+      "https://www.localobserverdaily.com/town/hawaii/kaaawa/5710",
+      "https://www.tripadvisor.in/Tourism-g60649-Kaaawa_Oahu_Hawaii-Vacations.html",
+      "https://www.yelp.com/city/kaaawa-hi-us?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:58:51.238582",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "PAN",
+    "query": "XFSAFDM-IN PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/",
+      "https://learn.chatgpt.com/docs/use-chatgpt"
+    ],
+    "timestamp": "2026-08-17T16:59:15.630811",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "PAN",
+    "query": "XFSAFDM-IN PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/danny-avila/LibreChat",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://github.com/f/prompts.chat",
+      "https://cellphones.com.vn/sforum/top-phan-mem-chat-ai-tot-nhat",
+      "https://cellphones.com.vn/sforum/huong-dan-phan-tich-kieu-toc-tren-chatgpt"
+    ],
+    "timestamp": "2026-08-17T16:59:24.554575",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "GST",
+    "query": "XFSAFDM-IN GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://go.chatwork.com/ja/",
+      "https://go.chatwork.com/ja/download/",
+      "https://go.chatwork.com/ja/column/usage/usage-013.html",
+      "https://go.chatwork.com/ja/column/usage/usage-010.html",
+      "https://go.chatwork.com/ja/column/usage/usage-012.html"
+    ],
+    "timestamp": "2026-08-17T16:59:34.627002",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "GST",
+    "query": "XFSAFDM-IN GSTIN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.microsoftprime.com/",
+      "https://microsoft.ai/"
+    ],
+    "timestamp": "2026-08-17T16:59:49.330519",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "Owner",
+    "query": "XFSAFDM-IN director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.citi.com/?msockid=2f9e82f7167a68623df4954f17fe6913",
+      "https://www.citi.com/citi-partner/ngadeepdrop/login?msockid=2f9e82f7167a68623df4954f17fe6913"
+    ],
+    "timestamp": "2026-08-17T16:59:57.483150",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "Owner",
+    "query": "XFSAFDM-IN managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://lubricants.catalog.totalenergies.com/corporate/en_UK/f08_cortis-ms-150",
+      "https://www.scribd.com/document/478536410/cortis-ms-series-pds",
+      "https://lubricants.catalog.totalenergies.com/catalog-lb/en_LB/f08_cortis-ms-150",
+      "https://www.scribd.com/document/755762223/TOTAL-CORTIS-MS-100-150-220-320-460-680-122014-EN-0",
+      "https://www.gluespec.com/Materials/lubricant/totalenergies/cortis-ms-iso-viscosity-grade-150"
+    ],
+    "timestamp": "2026-08-17T17:00:05.019378",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "Address",
+    "query": "XFSAFDM-IN registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://chat.openai.com/auth/login?next=/chat",
+      "https://ios.chat.openai.com/cdn-cgi/trace"
+    ],
+    "timestamp": "2026-08-17T17:00:24.607098",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "Address",
+    "query": "XFSAFDM-IN registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.colruyt.be/fr",
+      "https://www.colruyt.be/",
+      "https://boucherie.colruyt.be/butchery/fr/home",
+      "https://www.colruyt.be/nl/producten?page=1",
+      "https://www.colruyt.be/nl/folders"
+    ],
+    "timestamp": "2026-08-17T17:00:27.409210",
+    "status": "results_found"
+  },
+  {
+    "seller": "XFSAFDM-IN",
+    "field": "Address",
+    "query": "XFSAFDM-IN head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://store.porsche.com.au/collections/apparel",
+      "https://store.porsche.com.au/collections/mens-apparel",
+      "https://shop.porschemelbourne.com.au/all-mens-apparel",
+      "https://shop.porsche.com/us/en-US/c/porsche-mens-clothing",
+      "https://shop.porschemelbourne.com.au/"
+    ],
+    "timestamp": "2026-08-17T17:00:46.410354",
+    "status": "results_found"
+  },
+  {
+    "business": "VAMA FASHIONS\u2122",
+    "field": "Business Name",
+    "value": "VAMA FASHIONS\u2122",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A9J50C91TH0OO&asin=B0FH775G9S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T17:00:48.208899"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "Website",
+    "query": "VAMA FASHIONS\u2122 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/"
+    ],
+    "timestamp": "2026-08-17T17:00:51.725186",
+    "status": "results_found"
+  },
+  {
+    "business": "VAMA FASHIONS\u2122",
+    "field": "Website URL",
+    "value": "https://www.vamafashions.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vamafashions.com/",
+    "timestamp": "2026-08-17T17:00:55.846451"
+  },
+  {
+    "business": "VAMA FASHIONS\u2122",
+    "field": "Phone Number",
+    "value": "+917624682018",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vamafashions.com/",
+    "timestamp": "2026-08-17T17:00:56.956035"
+  },
+  {
+    "business": "VAMA FASHIONS\u2122",
+    "field": "Email Address",
+    "value": "emailinfo@zanet.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vamafashions.com/about",
+    "timestamp": "2026-08-17T17:01:02.725423"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "Legal Entity Name",
+    "query": "VAMA FASHIONS\u2122 company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/",
+      "https://store.vama.app/collections/all",
+      "https://www.vamaevents.com/",
+      "https://vama.app/en/puja"
+    ],
+    "timestamp": "2026-08-17T17:01:10.178745",
+    "status": "results_found"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "PAN",
+    "query": "VAMA FASHIONS\u2122 PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/",
+      "https://store.vama.app/collections/all",
+      "https://www.vamaevents.com/",
+      "https://vama.app/en/puja"
+    ],
+    "timestamp": "2026-08-17T17:01:37.892875",
+    "status": "results_found"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "GST",
+    "query": "VAMA FASHIONS\u2122 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/",
+      "https://store.vama.app/collections/all",
+      "https://www.vamaevents.com/",
+      "https://vama.app/en/puja"
+    ],
+    "timestamp": "2026-08-17T17:01:59.464426",
+    "status": "results_found"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "GST",
+    "query": "VAMA FASHIONS\u2122 GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/",
+      "https://store.vama.app/collections/all",
+      "https://www.vamaevents.com/",
+      "https://vama.app/en/puja"
+    ],
+    "timestamp": "2026-08-17T17:02:18.258241",
+    "status": "results_found"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "Owner",
+    "query": "VAMA FASHIONS\u2122 director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/",
+      "https://store.vama.app/collections/all"
+    ],
+    "timestamp": "2026-08-17T17:02:20.059398",
+    "status": "results_found"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "Owner",
+    "query": "VAMA FASHIONS\u2122 managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/",
+      "https://store.vama.app/collections/all",
+      "https://www.vamaevents.com/",
+      "https://vama.app/en/puja"
+    ],
+    "timestamp": "2026-08-17T17:02:28.461879",
+    "status": "results_found"
+  },
+  {
+    "seller": "VAMA FASHIONS\u2122",
+    "field": "Address",
+    "query": "VAMA FASHIONS\u2122 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vama.app/vama.app",
+      "https://store.vama.app/",
+      "https://store.vama.app/collections/all",
+      "https://www.vamaevents.com/",
+      "https://vama.app/en/puja"
+    ],
+    "timestamp": "2026-08-17T17:02:41.844975",
+    "status": "results_found"
+  },
+  {
+    "business": "Ansh Vibe",
+    "field": "Business Name",
+    "value": "Ansh Vibe",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A140I7JLMK5EXE&asin=B0H55XKC69&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T17:02:58.046909"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "Website",
+    "query": "Ansh Vibe official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/"
+    ],
+    "timestamp": "2026-08-17T17:02:59.949797",
+    "status": "results_found"
+  },
+  {
+    "business": "Ansh Vibe",
+    "field": "Website URL",
+    "value": "https://www.ansh.health/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.ansh.health/",
+    "timestamp": "2026-08-17T17:03:07.466701"
+  },
+  {
+    "business": "Ansh Vibe",
+    "field": "Phone Number",
+    "value": "+910202280533",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.ansh.health/",
+    "timestamp": "2026-08-17T17:03:07.816135"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "Legal Entity Name",
+    "query": "Ansh Vibe company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:03:13.611269",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "Legal Entity Name",
+    "query": "Ansh Vibe Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:03:23.933528",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "Legal Entity Name",
+    "query": "Ansh Vibe legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:03:32.886658",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "PAN",
+    "query": "Ansh Vibe PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:03:34.284077",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "PAN",
+    "query": "Ansh Vibe PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:03:52.334057",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "GST",
+    "query": "Ansh Vibe GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/"
+    ],
+    "timestamp": "2026-08-17T17:03:58.703190",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "GST",
+    "query": "Ansh Vibe GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:04:03.423289",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "GST",
+    "query": "Ansh Vibe GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:04:19.431038",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "Owner",
+    "query": "Ansh Vibe director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:04:21.045248",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "Owner",
+    "query": "Ansh Vibe managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:04:39.964000",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ansh Vibe",
+    "field": "Address",
+    "query": "Ansh Vibe registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://upbhulekh.gov.in/ansh/",
+      "https://www.ansh.health/",
+      "https://ansh.com/",
+      "https://ansh.secl-cil.in/display.php",
+      "https://www.anshpancentre.in/"
+    ],
+    "timestamp": "2026-08-17T17:04:42.956598",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "category": "Tv",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+      "database_id": 766,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@dawntech.co.uk",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    }
+  ]
+}

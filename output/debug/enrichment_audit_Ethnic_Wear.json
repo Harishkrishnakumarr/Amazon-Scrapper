@@ -1,0 +1,410 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0H5KTHGSK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T16:48:41.871192"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T16:48:44.181037",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T16:48:49.940623"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T16:48:50.979857"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T16:48:50.980892"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/"
+    ],
+    "timestamp": "2026-09-02T16:49:03.337217",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T16:49:05.029787"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T16:49:05.029826"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-09-02T16:49:07.422070",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:49:09.231129"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:49:09.231153"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:49:09.231159"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:49:09.231164"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T16:49:16.438054"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T16:49:20.310434",
+    "status": "results_found"
+  },
+  {
+    "business": "Harikrushna Enterprise 9",
+    "field": "Business Name",
+    "value": "Harikrushna Enterprise 9",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A13U9KIRS55DVX&asin=B0HCJ5LGHQ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T16:49:22.254651"
+  },
+  {
+    "seller": "Harikrushna Enterprise 9",
+    "field": "Website",
+    "query": "Harikrushna Enterprise 9 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://harikrushna.com/",
+      "https://harikrushna.com/corporate/"
+    ],
+    "timestamp": "2026-09-02T16:49:24.058839",
+    "status": "results_found"
+  },
+  {
+    "seller": "Harikrushna Enterprise 9",
+    "field": "Legal Entity Name",
+    "query": "Harikrushna Enterprise 9 company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/24AAMFH0839C1ZO/harikrushna-enterprise",
+      "https://www.dnb.com/business-directory/company-profiles.harikrushna_enterprise.8c99e201263f077584bb5ebcc31c8d55.html",
+      "https://www.tradeindia.com/harikrushna-enterprise-53648164/",
+      "https://weedoo.in/udyam-companies/shri-harikrushna-enterprise/1XjvUPSW03ltIJPl"
+    ],
+    "timestamp": "2026-09-02T16:50:15.689503",
+    "status": "results_found"
+  },
+  {
+    "seller": "Harikrushna Enterprise 9",
+    "field": "PAN",
+    "query": "Harikrushna Enterprise 9 PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://pancards.org/pan-card-number-check/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T16:50:21.255714",
+    "status": "results_found"
+  },
+  {
+    "business": "Harikrushna Enterprise 9",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T16:50:23.419582"
+  },
+  {
+    "business": "Harikrushna Enterprise 9",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T16:50:23.420518"
+  },
+  {
+    "business": "Harikrushna Enterprise 9",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T16:50:23.420530"
+  },
+  {
+    "seller": "Harikrushna Enterprise 9",
+    "field": "Owner",
+    "query": "Harikrushna Enterprise 9 director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://harikrushna.com/management-team/",
+      "https://www.dnb.com/business-directory/company-profiles.harikrushna_enterprise.df95b0d0dfcb46ea2dc18ac6899495b4.html",
+      "https://harikrushna.com/prerak-dave/",
+      "https://tracxn.com/d/legal-entities/india/harikrushna-machines-private-limited/__QydKzVMohoY7B9kH6oTLLvF3LdQJQDpGsCL_AwT6kFA"
+    ],
+    "timestamp": "2026-09-02T16:50:40.419058",
+    "status": "results_found"
+  },
+  {
+    "seller": "Harikrushna Enterprise 9",
+    "field": "Address",
+    "query": "Harikrushna Enterprise 9 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/harikrushna-enterprise-24aamfh0839c1zo/#:~:text=What%20is%20the%20address%20of%20HARIKRUSHNA%20ENTERPRISE%3F%20The,150%20FEET%20RING%20ROAD%2C%20RAJKOT%2C%20Rajkot%2C%20Gujarat%2C%20360007.",
+      "https://www.dnb.com/business-directory/company-profiles.harikrushna_enterprise.8c99e201263f077584bb5ebcc31c8d55.html",
+      "https://www.dnb.com/business-directory/company-profiles.shree_harikrushna_enterprise.5b30c6d8ee0a89ba319f90a0182892ac.html",
+      "https://gst.unifers.ai/gst/24AAMFH0839C1ZO/harikrushna-enterprise"
+    ],
+    "timestamp": "2026-09-02T16:50:54.173122",
+    "status": "results_found"
+  },
+  {
+    "seller": "Harikrushna Enterprise 9",
+    "field": "Email",
+    "query": "Harikrushna Enterprise 9 email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harikrushna.com/contact/",
+      "https://www.dial4trade.com/harikrushna-enterprise/contact-us.htm",
+      "https://www.harikrushnaenterprise.com/",
+      "https://local.infobel.in/IN132390854/harikrushna_enterprise-surat.html"
+    ],
+    "timestamp": "2026-09-02T16:51:03.741318",
+    "status": "results_found"
+  },
+  {
+    "business": "DIEGO",
+    "field": "Business Name",
+    "value": "DIEGO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJYDBT35LB1MP&asin=B0F66WC2CD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T16:51:26.209368"
+  },
+  {
+    "seller": "DIEGO",
+    "field": "Website",
+    "query": "DIEGO official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.diageo.com/en",
+      "https://www.diageo.com/en/careers"
+    ],
+    "timestamp": "2026-09-02T16:51:28.249633",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIEGO",
+    "field": "Legal Entity Name",
+    "query": "DIEGO company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-registration",
+      "https://www.sos.ca.gov/business-programs/business-entities",
+      "https://digifiling.in/service/company-registration",
+      "https://www.companyregistration.net.in/"
+    ],
+    "timestamp": "2026-09-02T16:51:49.600090",
+    "status": "results_found"
+  },
+  {
+    "business": "DIEGO",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T16:51:54.107741"
+  },
+  {
+    "business": "DIEGO",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T16:51:54.133223"
+  },
+  {
+    "seller": "DIEGO",
+    "field": "PAN",
+    "query": "DIEGO PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://visament.com/blog/pan-card-number-check",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T16:52:17.294263",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIEGO",
+    "field": "GST",
+    "query": "DIEGO GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://piceapp.com/gst-number-search/diego-international-24axupt8837f1zo/"
+    ],
+    "timestamp": "2026-09-02T16:52:20.590135",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIEGO",
+    "field": "GST",
+    "query": "DIEGO GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/diego-international-24axupt8837f1zo/",
+      "https://gst.iadv.io/DIEGO-INTERNATIONAL-24AXUPT8837F1ZO/",
+      "https://www.knowyourgst.com/gst-number-search/diego-international-24AXUPT8837F1ZO/",
+      "https://piceapp.com/gst-number-search/diego-enterprises-04kdxpk6754b1z3/"
+    ],
+    "timestamp": "2026-09-02T16:52:36.255837",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIEGO",
+    "field": "Owner",
+    "query": "DIEGO director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.diageoindia.com/en/investors/board-of-directors",
+      "https://www.theceomagazine.com/executive-interviews/automotive-aviation/diego-graffi-2/",
+      "https://studiogronda.com/diego-gronda-founder-creative-director-2/",
+      "https://www.diageoindia.com/en/investors/board-of-directors/preeti-arora"
+    ],
+    "timestamp": "2026-09-02T16:52:41.344112",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIEGO",
+    "field": "Email",
+    "query": "DIEGO email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://customerportal.sandiego.gov/Portal/ContactUs.aspx",
+      "https://www.sandiegocounty.gov/contact-information/",
+      "https://www.sandiego.gov/public-utilities/customer-support",
+      "https://www.sandiegocounty.gov/content/sdc/hhsa/contact_us.html"
+    ],
+    "timestamp": "2026-09-02T16:53:03.099418",
+    "status": "results_found"
+  }
+]

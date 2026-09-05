@@ -1,0 +1,87 @@
+{
+  "category": "Men Personal Care",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 865,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "rk@rkgroup.biz",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AIR STYLE",
+      "database_id": 866,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "groupbooking@airindia.com",
+      "gst": "07AACCN6194P2ZQ",
+      "pan": "AACCN6194P",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MEETIPLY",
+      "database_id": 867,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Verve Lane",
+      "database_id": 867,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.vervelane.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "COSEMI",
+      "database_id": 867,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "admin@sentinelmission.org",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.vervelane.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RYDEOUT PRODUCTS",
+      "database_id": 865,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "git@github.com",
+      "gst": "06AAJCR3485Q1ZK",
+      "pan": "AAJCR3485Q",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

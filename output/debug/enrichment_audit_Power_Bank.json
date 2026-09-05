@@ -1,0 +1,531 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0DCZ3WDTB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:16:57.909943"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T18:17:05.892581",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T18:17:10.190545"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T18:17:11.383802"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T18:17:11.384562"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T18:17:19.772866",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T18:17:41.835962",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T18:17:59.171308",
+    "status": "no_results"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://tracxn.com/d/companies/cocoblu/__fGCrUEk2potiHarzhxQuPBxsdJKmtnGua1DAJGli0ys",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-26T18:18:09.405714",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/contact-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.falconebiz.com/company/COCOBLU-RETAIL-LIMITED-U52399DL2021PLC388574",
+      "https://bg.kompass.com/en/c/cocoblu-retail-limited/in488896/"
+    ],
+    "timestamp": "2026-08-26T18:18:14.036475",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "37AAJCC8517E1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T18:18:20.606251"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T18:18:20.606282"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T18:18:20.613932"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T18:18:20.613965"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T18:18:20.613970"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T18:18:20.613973"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.azquotes.com/quote_of_the_day.html",
+      "https://www.azquotes.com/",
+      "https://ja.hinative.com/questions/6562590",
+      "https://ja.hinative.com/questions/19515539"
+    ],
+    "timestamp": "2026-08-26T18:18:25.634876",
+    "status": "results_found"
+  },
+  {
+    "business": "iTECHNOLOGIES",
+    "field": "Business Name",
+    "value": "iTECHNOLOGIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NUSWCEGFJP7K&asin=B0D3F2T6R6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:18:42.872974"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Website",
+    "query": "iTECHNOLOGIES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://seeklogo.com/free-vector-logos/mario",
+      "https://seeklogo.com/vector-logo/133846/super-mario-bros"
+    ],
+    "timestamp": "2026-08-26T18:18:45.324315",
+    "status": "results_found"
+  },
+  {
+    "business": "iTECHNOLOGIES",
+    "field": "Website URL",
+    "value": "https://www.itechnologies.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.itechnologies.in/",
+    "timestamp": "2026-08-26T18:18:51.339664"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Legal Entity Name",
+    "query": "iTECHNOLOGIES company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.swyftfilings.com?msclkid=9ccb35f9a89f1a2d2b165f774828cb3a&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=biz%20filings&utm_content=BizFilings",
+      "https://www.swyftfilings.com/llc?msclkid=42ffde56b7421765e6e4b4d857f570fa&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=biz%20filings&utm_content=BizFilings",
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686847x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686847&hsa_kw=llc%20registration%20in%20the%20USA&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=60d3b63399871ae8deb6dcbd7930eb09&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=llc%20registration%20in%20the%20USA&utm_content=International%20-%20International%20-%20General",
+      "https://www.registerkaro.in/ads/company-registration-online-india?utm_source=bing&campaignId=530909812&utm_medium=ad&utm_content=&utm_term=pvt%20company%20registration&utm_adgroup=1353501333030789&network=o&device=c&msclkid=70c47969052e17c5ffcf13e7e599c4e4&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20High%20CPC%20-%202023-G20658903333%20bing&utm_term=pvt%20company%20registration&utm_content=SP%20%20-%20PVT%20-%20HCPC"
+    ],
+    "timestamp": "2026-08-26T18:18:56.363239",
+    "status": "results_found"
+  },
+  {
+    "business": "iTECHNOLOGIES",
+    "field": "Email Address",
+    "value": "info@swyftfilings.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.swyftfilings.com?msclkid=9ccb35f9a89f1a2d2b165f774828cb3a&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=biz%20filings&utm_content=BizFilings",
+    "timestamp": "2026-08-26T18:18:58.879617"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Legal Entity Name",
+    "query": "iTECHNOLOGIES Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_adgroup=1355700361712359&network=o&device=c&msclkid=6d17a4a8ae131606d348ce264ed478d1&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_content=Search%20Query%20-%20LCPC",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=registration%20of%20company&target_name=kwd-83770041157869:loc-90&placement=&keyword_id=registration%20of%20company&msclkid=2ea97c5cf8a51f8d870516d218620d73",
+      "https://www.itechnologies.bt/",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-08-26T18:19:13.004774",
+    "status": "results_found"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "PAN",
+    "query": "iTECHNOLOGIES PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.carrefour.com/fr",
+      "https://www.carrefour.com/fr/groupe/points-de-vente"
+    ],
+    "timestamp": "2026-08-26T18:19:16.055793",
+    "status": "results_found"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "PAN",
+    "query": "iTECHNOLOGIES PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gst.iadv.io/FOURTH-GENERATION-ITECHNOLOGIES-PRIVATE-LTD-07AAACF8576H2ZB/",
+      "https://gstserver.com/gst/07AAACF8576H2ZB/",
+      "https://www.falconebiz.com/company/FOURTH-GENERATION-ITECHNOLOGIES-PRIVATE-LIMITED-U72200DL2004PTC128227"
+    ],
+    "timestamp": "2026-08-26T18:19:26.433698",
+    "status": "results_found"
+  },
+  {
+    "business": "iTECHNOLOGIES",
+    "field": "GST Number",
+    "value": "07AAACF8576H2ZB",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/FOURTH-GENERATION-ITECHNOLOGIES-PRIVATE-LTD-07AAACF8576H2ZB/",
+    "timestamp": "2026-08-26T18:19:28.358345"
+  },
+  {
+    "business": "iTECHNOLOGIES",
+    "field": "PAN Number",
+    "value": "AAACF8576H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/FOURTH-GENERATION-ITECHNOLOGIES-PRIVATE-LTD-07AAACF8576H2ZB/",
+    "timestamp": "2026-08-26T18:19:28.358364"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Owner",
+    "query": "iTECHNOLOGIES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://acronyms.thefreedictionary.com/OAY",
+      "https://www.acronymfinder.com/OAY.html",
+      "https://www.allacronyms.com/OAY",
+      "https://www.abbreviations.com/OAY"
+    ],
+    "timestamp": "2026-08-26T18:19:30.247502",
+    "status": "results_found"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Owner",
+    "query": "iTECHNOLOGIES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.holtek.com/page/tool-detail/ice2/i_8/e-link",
+      "https://www.holtek.com/page/tool-detail/ice/i_8/e-LinkPro2",
+      "https://www.bestmodulescorp.com/en/e-linkpro2.html",
+      "https://www.holtek.com.tw/page/tool-detail/ice/i_8/e-link"
+    ],
+    "timestamp": "2026-08-26T18:19:41.220560",
+    "status": "results_found"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Address",
+    "query": "iTECHNOLOGIES registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://leadiq.com/c/itechnologies-inc/5a1da85d23000059009c3693",
+      "https://www.itechnologiesinc.com/contact",
+      "https://www.itechnologiesinc.com/",
+      "https://find-and-update.company-information.service.gov.uk/company/06943670"
+    ],
+    "timestamp": "2026-08-26T18:19:52.405569",
+    "status": "results_found"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Phone",
+    "query": "iTECHNOLOGIES phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.c-sharpcorner.com/article/god-object-a-code-smell/",
+      "https://linearb.io/blog/what-is-a-god-class",
+      "https://stackoverflow.com/questions/8018889/categories-or-partial-classes-pattern-to-resolve-god-object-code-smell",
+      "https://refactoring.guru/refactoring/smells"
+    ],
+    "timestamp": "2026-08-26T18:20:07.917300",
+    "status": "results_found"
+  },
+  {
+    "seller": "iTECHNOLOGIES",
+    "field": "Phone",
+    "query": "iTECHNOLOGIES contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.itechnologiesinc.com/contact",
+      "https://www.itechnologiesinc.com/",
+      "https://www.itechnologiesinc.com/about",
+      "https://leadiq.com/c/itechnologies-inc/5a1da85d23000059009c3693"
+    ],
+    "timestamp": "2026-08-26T18:20:25.867557",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0D96HMLYX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:20:27.806130"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T18:20:31.974156",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.companydetails.in/company/clicktech-retail-private-limited",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-26T18:21:00.608951",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T18:21:01.186256"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T18:21:01.186271"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T18:21:01.186275"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T18:21:01.186279"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:21:09.894274",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "support@clicktech.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.clicktech.com/",
+    "timestamp": "2026-08-26T18:21:18.145833"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:21:26.503946",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T18:21:44.650387"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:21:48.909382",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:22:00.218495",
+    "status": "results_found"
+  }
+]

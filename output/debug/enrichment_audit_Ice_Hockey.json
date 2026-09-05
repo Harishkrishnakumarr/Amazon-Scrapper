@@ -1,0 +1,109 @@
+[
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0CGXK4Q3X&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T13:21:54.674588"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kay.com/?msockid=22653c2356c9666c1cad2be957c567a0",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-09-04T13:21:59.941051",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T13:22:26.193305",
+    "status": "no_results"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/KAY-KAY-OVERSEAS-CORPORATION-32AACFK0693D1ZS/",
+      "https://fnshiftsolutions.com/gstin-search/kay-kay-overseas-corporation-24AACFK0693D3ZN",
+      "https://www.indiafilings.com/search/kay-kay-overseas-corporation-gstin-33AACFK0693D1ZQ",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-06aacfk0693d1zn/"
+    ],
+    "timestamp": "2026-09-04T13:22:39.709873",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=22653c2356c9666c1cad2be957c567a0",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-09-04T13:22:42.998719",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=22653c2356c9666c1cad2be957c567a0",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-09-04T13:22:59.864802",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=22653c2356c9666c1cad2be957c567a0",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-09-04T13:23:20.263947",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=22653c2356c9666c1cad2be957c567a0",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-09-04T13:23:37.783237",
+    "status": "results_found"
+  }
+]

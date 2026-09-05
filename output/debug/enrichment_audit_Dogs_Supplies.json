@@ -1,0 +1,620 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B075PHPK27&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T13:26:48.893198"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://us.etrade.com/e/t/user/login?msockid=30506726a93a6ca00bb2709aa8206da8"
+    ],
+    "timestamp": "2026-08-21T13:26:50.798446",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=30506726a93a6ca00bb2709aa8206da8",
+    "timestamp": "2026-08-21T13:27:52.228293"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+911011111011",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-21T13:27:53.474164"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://us.etrade.com/l/welcome/new-account?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/main/customer/business-license/registration",
+      "https://etrade.gov.et/"
+    ],
+    "timestamp": "2026-08-21T13:28:03.628023",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://us.etrade.com/e/t/user/login?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview"
+    ],
+    "timestamp": "2026-08-21T13:28:24.341507",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://us.etrade.com/e/t/user/login?msockid=30506726a93a6ca00bb2709aa8206da8"
+    ],
+    "timestamp": "2026-08-21T13:28:34.819205",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://us.etrade.com/e/t/user/login?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview"
+    ],
+    "timestamp": "2026-08-21T13:28:39.807187",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://us.etrade.com/e/t/user/login?msockid=30506726a93a6ca00bb2709aa8206da8",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview"
+    ],
+    "timestamp": "2026-08-21T13:28:44.934939",
+    "status": "results_found"
+  },
+  {
+    "business": "DynamicSales (India)",
+    "field": "Business Name",
+    "value": "DynamicSales (India)",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1O0LD6HVSI6TV&asin=B0847MZ4NK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T13:28:49.555139"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Website",
+    "query": "DynamicSales (India) official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bbb.org/us/de/ocean-view/category/pest-control",
+      "https://www.angi.com/companylist/us/de/ocean-view/pest-control.htm?msockid=30506726a93a6ca00bb2709aa8206da8"
+    ],
+    "timestamp": "2026-08-21T13:28:50.803901",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Legal Entity Name",
+    "query": "DynamicSales (India) company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://microsoft-windows-installer.en.softonic.com/"
+    ],
+    "timestamp": "2026-08-21T13:28:57.537209",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Legal Entity Name",
+    "query": "DynamicSales (India) Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.apkmirror.com/apk/microsoft-corporation/bing/"
+    ],
+    "timestamp": "2026-08-21T13:29:00.719544",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Legal Entity Name",
+    "query": "DynamicSales (India) legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.52pojie.cn/thread-2048009-1-1.html",
+      "https://www.52pojie.cn/thread-2088845-1-1.html",
+      "https://www.zhihu.com/topic/19628957/hot"
+    ],
+    "timestamp": "2026-08-21T13:29:04.546742",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "PAN",
+    "query": "DynamicSales (India) PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://services.india.gov.in/service/detail/search-for-permanent-account-number-online"
+    ],
+    "timestamp": "2026-08-21T13:29:19.138730",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "PAN",
+    "query": "DynamicSales (India) PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pan.utiitsl.com/",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/ePANCard",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/homereprint",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/ePANCardHome",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/regenPANHomereprint"
+    ],
+    "timestamp": "2026-08-21T13:29:35.427029",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "GST",
+    "query": "DynamicSales (India) GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.answers.com/manners-and-etiquette/What_does_epns_a1_sheffield_on_your_cutlery_mean",
+      "https://www.answers.com/telecommunications/What_is_the_correct_mobile_number_format_for_Ireland"
+    ],
+    "timestamp": "2026-08-21T13:29:40.337278",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "GST",
+    "query": "DynamicSales (India) GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://banhang.shopee.vn/",
+      "https://shopee.vn/seller/login",
+      "https://u.shopee.vn/",
+      "https://shopee.vn/%C4%90i%E1%BB%87n-Tho%E1%BA%A1i-Ph%E1%BB%A5-Ki%E1%BB%87n-cat.11036030",
+      "https://accounts.shopee.vn/"
+    ],
+    "timestamp": "2026-08-21T13:29:48.539887",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "GST",
+    "query": "DynamicSales (India) GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://playvalorant.com/en-gb/platform-selection/",
+      "https://wiki.playvalorant.com/en-us/Organizations"
+    ],
+    "timestamp": "2026-08-21T13:29:55.187441",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Owner",
+    "query": "DynamicSales (India) director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://helpdeskgeek.com/how-to-get-help-in-windows/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.addictivetips.com/windows-tips/how-to-get-help-in-windows/"
+    ],
+    "timestamp": "2026-08-21T13:30:00.969039",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Owner",
+    "query": "DynamicSales (India) managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://communaute.orange.fr/t5/regarder-la-TV-sur-mon-PC-ma/T%C3%A9l%C3%A9charger-l-application-TV-Orange-sur-PC/td-p/1589893",
+      "https://communaute.orange.fr/t5/mon-mail-Orange/r%C3%A9cup%C3%A9rer-ma-messagerie-wanadoo-fr/td-p/2282371",
+      "https://communaute.orange.fr/t5/mon-mail-Orange/bd-p/mail",
+      "https://communaute.orange.fr/t5/prot%C3%A9ger-mes-donn%C3%A9es-et-mon/Comment-bloquer-l-acc%C3%A8s-%C3%A0-un-site-web/td-p/1589132",
+      "https://communaute.orange.fr/t5/ma-connexion/Se-connecter-a-la-page-livebox-ou-192-168-1-1/td-p/970328"
+    ],
+    "timestamp": "2026-08-21T13:30:16.140002",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Address",
+    "query": "DynamicSales (India) registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely",
+      "https://stackoverflow.com/questions/1895616/how-to-get-the-excel-file-name-path-in-vba",
+      "https://www.zhihu.com/question/21924858",
+      "https://www.zhihu.com/question/2040889948446929470",
+      "https://es.stackoverflow.com/questions/179748/para-que-sirve-el-gt-y-el-lt-en-un-native-query"
+    ],
+    "timestamp": "2026-08-21T13:30:22.420337",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Address",
+    "query": "DynamicSales (India) registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://mail.ocn.jp/",
+      "https://mail.ocn.jp/mail/ocnLogin",
+      "https://mail.ocn.jp/assets/i18n/ja.json",
+      "https://mail.ocn.jp/mail/fetchAttachment?messageId=627702&folderPath=INBOX&index=0",
+      "https://mail.ocn.jp/mail/fetchAttachment?messageId=867670&folderPath=INBOX&index=0"
+    ],
+    "timestamp": "2026-08-21T13:30:36.670411",
+    "status": "results_found"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Phone",
+    "query": "DynamicSales (India) phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.taste.com.au/recipes/collections/new-recipes?page=1&sort=recent&nk=3ce228abc1e5d12344833f98d77d529f-1739648172"
+    ],
+    "timestamp": "2026-08-21T13:30:43.621524",
+    "status": "results_found"
+  },
+  {
+    "business": "DynamicSales (India)",
+    "field": "Phone Number",
+    "value": "+911234462026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.taste.com.au/recipes/collections/new-recipes?page=1&sort=recent&nk=3ce228abc1e5d12344833f98d77d529f-1739648172",
+    "timestamp": "2026-08-21T13:30:48.222385"
+  },
+  {
+    "seller": "DynamicSales (India)",
+    "field": "Email",
+    "query": "DynamicSales (India) email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://feverup.com/en",
+      "https://www.mayoclinic.org/diseases-conditions/fever/symptoms-causes/syc-20352759"
+    ],
+    "timestamp": "2026-08-21T13:30:50.118578",
+    "status": "results_found"
+  },
+  {
+    "business": "MS GROUP INDIA",
+    "field": "Business Name",
+    "value": "MS GROUP INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DLZ7QFA0ASGD&asin=B084RCD8RW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T13:30:50.631366"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Website",
+    "query": "MS GROUP INDIA official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/"
+    ],
+    "timestamp": "2026-08-21T13:30:52.604017",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Legal Entity Name",
+    "query": "MS GROUP INDIA company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://msgroupindia.com/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/",
+      "http://msgroup.org.in/",
+      "https://golegally.com/mca-company-search"
+    ],
+    "timestamp": "2026-08-21T13:31:14.484644",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Legal Entity Name",
+    "query": "MS GROUP INDIA Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-info/csr-data-summary.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/grievance-cell.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/enquire-din-status.html",
+      "https://msgroupindia.com/"
+    ],
+    "timestamp": "2026-08-21T13:31:22.879572",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Legal Entity Name",
+    "query": "MS GROUP INDIA legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://my.clevelandclinic.org/health/diseases/17248-multiple-sclerosis",
+      "https://word.cloud.microsoft/en-us/"
+    ],
+    "timestamp": "2026-08-21T13:31:29.765869",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "PAN",
+    "query": "MS GROUP INDIA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://mspanindia.in/",
+      "https://incometaxindia.gov.in/pan",
+      "https://gstpan.com/gst/07AAACM5586C1ZJ-microsoft-corporation-india-private-limited",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-08-21T13:31:35.799872",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "PAN",
+    "query": "MS GROUP INDIA PAN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/"
+    ],
+    "timestamp": "2026-08-21T13:31:51.637591",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "GST",
+    "query": "MS GROUP INDIA GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://my.clevelandclinic.org/health/diseases/17248-multiple-sclerosis",
+      "https://word.cloud.microsoft/en-us/"
+    ],
+    "timestamp": "2026-08-21T13:31:54.088749",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "GST",
+    "query": "MS GROUP INDIA GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://gst.jamku.app/gstin/24AABCS8348B1ZK",
+      "https://cleartax.in/s/gst-number-search-by-name/",
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/microsoft-corporation-india-private-limited-07AAACM5586C1ZJ/"
+    ],
+    "timestamp": "2026-08-21T13:32:03.627772",
+    "status": "results_found"
+  },
+  {
+    "business": "MS GROUP INDIA",
+    "field": "GST Number",
+    "value": "24AABCS8348B1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/24AABCS8348B1ZK",
+    "timestamp": "2026-08-21T13:32:05.661401"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Owner",
+    "query": "MS GROUP INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269"
+    ],
+    "timestamp": "2026-08-21T13:32:07.206250",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Owner",
+    "query": "MS GROUP INDIA managing director",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/"
+    ],
+    "timestamp": "2026-08-21T13:32:10.339270",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Owner",
+    "query": "MS GROUP INDIA founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://my.clevelandclinic.org/health/diseases/17248-multiple-sclerosis",
+      "https://word.cloud.microsoft/en-us/"
+    ],
+    "timestamp": "2026-08-21T13:32:14.243794",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Address",
+    "query": "MS GROUP INDIA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://my.clevelandclinic.org/health/diseases/17248-multiple-sclerosis",
+      "https://word.cloud.microsoft/en-us/"
+    ],
+    "timestamp": "2026-08-21T13:32:20.253652",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Address",
+    "query": "MS GROUP INDIA registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://my.clevelandclinic.org/health/diseases/17248-multiple-sclerosis",
+      "https://word.cloud.microsoft/en-us/"
+    ],
+    "timestamp": "2026-08-21T13:32:26.405178",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Address",
+    "query": "MS GROUP INDIA head office address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "http://msgroup.org.in/contact.html",
+      "https://msgroupindia.com/",
+      "https://www.msgroup.cc/contact/",
+      "http://msgroup.org.in/",
+      "https://rocketreach.co/ms-group-of-companies-profile_b7fe12cfc25c1b12"
+    ],
+    "timestamp": "2026-08-21T13:32:36.958446",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Phone",
+    "query": "MS GROUP INDIA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/"
+    ],
+    "timestamp": "2026-08-21T13:32:40.092462",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Phone",
+    "query": "MS GROUP INDIA customer care number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "http://msgroup.org.in/contact.html",
+      "https://msgroupindia.com/",
+      "https://support.xbox.com/en-in/contact-us/emerald",
+      "https://devicemanagement.portal.azure.com/?l=en.en-in",
+      "https://ms.portal.azure.com/?l=en.en-in#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview"
+    ],
+    "timestamp": "2026-08-21T13:32:46.082247",
+    "status": "results_found"
+  },
+  {
+    "business": "MS GROUP INDIA",
+    "field": "Phone Number",
+    "value": "+918081701005",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://msgroup.org.in/contact.html",
+    "timestamp": "2026-08-21T13:32:46.717074"
+  },
+  {
+    "seller": "MS GROUP INDIA",
+    "field": "Email",
+    "query": "MS GROUP INDIA email contact address customer care",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/"
+    ],
+    "timestamp": "2026-08-21T13:32:50.168220",
+    "status": "results_found"
+  }
+]

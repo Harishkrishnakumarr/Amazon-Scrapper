@@ -1,0 +1,61 @@
+{
+  "category": "Artwork Home Decor",
+  "records_before_save": 9,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "DSH ARTS",
+      "database_id": 1074,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919619589236",
+      "email": "info@goacademy.de",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.dsharts.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DecorDuniya",
+      "database_id": 1075,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917605328547",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RESONANCE metal crafts..",
+      "database_id": 1076,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919121444501",
+      "email": "support@resonanceelearning.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BRAND POWER ENTERPRISES",
+      "database_id": 1077,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@ramotion.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

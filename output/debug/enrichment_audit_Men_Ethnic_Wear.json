@@ -1,0 +1,83 @@
+[
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2RXXYR3UAPCKZ&asin=B0FR56GR7Q&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "PAN Number",
+    "value": "AAGCI0450F",
+    "status": "VERIFIED",
+    "source": "Extracted from Verified GSTIN (Entity Confirmed)",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/indivinity-clothing-retail-private-limited-33AAGCI0450F1Z3/",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "GST Number",
+    "value": "33AAGCI0450F1Z3; 06AAGCI0450F1Z0; 29AAGCI0450F1ZS; 27AAGCI0450F1ZW; 23AAGCI0450F1Z4; 07AAGCI0450F1ZY; 36AAGCI0450F1ZX; 32AAGCI0450F1Z5; 05AAGCI0450F1Z2; 37AAGCI0450F1ZV; 24AAGCI0450F1Z2; 22AAGCI0450F1Z6; 09AAGCI0450F1ZU; 21AAGCI0450F1Z8; 08AAGCI0450F1ZW; 03AAGCI0450F1Z6; 10AAGCI0450F1ZB; 19AAGCI0450F1ZT; 06AAGCI0450F2ZZ; 04AAGCI0450F1Z4; 18AAGCI0450F1ZV",
+    "status": "VERIFIED",
+    "source": "Entity Verified Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/indivinity-clothing-retail-private-limited-33AAGCI0450F1Z3/",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indivinity-clothing-retail-private-limited/__wquydBWPWtXzzZYPH1wBCkWdF9Q5g0eixw1qlC9qFOI",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indivinity-clothing-retail-private-limited/__wquydBWPWtXzzZYPH1wBCkWdF9Q5g0eixw1qlC9qFOI",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indivinity-clothing-retail-private-limited/__wquydBWPWtXzzZYPH1wBCkWdF9Q5g0eixw1qlC9qFOI",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/indivinity-clothing-retail-private-limited/__wquydBWPWtXzzZYPH1wBCkWdF9Q5g0eixw1qlC9qFOI",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "Phone Number",
+    "value": "+912837472024",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.tasva.com/content/customersupport",
+    "search_attempts": 1
+  },
+  {
+    "business": "INDIVINITY CLOTHING RETAIL PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "tasva@abfrl.adityabirla.com",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.tasva.com/content/customersupport",
+    "search_attempts": 1
+  }
+]

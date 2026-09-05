@@ -1,0 +1,35 @@
+{
+  "category": "Seat For Car Driving Seat",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Q1 Beads Int.",
+      "database_id": 939,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "press@investopedia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.investopedia.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "HEEZOX",
+      "database_id": 940,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@hethongphapluat.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

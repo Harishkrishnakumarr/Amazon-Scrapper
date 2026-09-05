@@ -1,0 +1,74 @@
+{
+  "category": "Sneakers",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1335,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Asian Shoes",
+      "database_id": 1336,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919310501787",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BansalEnterprises",
+      "database_id": 1337,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919334419203",
+      "email": "ordermsme@gmail.com",
+      "gst": "03AUBPB2518F1ZH",
+      "pan": "AUBPB2518F",
+      "website": "https://www.bansalenterprises.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "APPOO TRADING",
+      "database_id": 1338,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@indiatradezone.com",
+      "gst": "27AARCA2622A1Z1",
+      "pan": "AARCA2622A",
+      "website": "https://indiatradezone.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RELAXO FOOTWEARS LIMITED",
+      "database_id": 1339,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@relaxofootwear.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://relaxofootwear.com/",
+      "status": "Verified"
+    }
+  ]
+}

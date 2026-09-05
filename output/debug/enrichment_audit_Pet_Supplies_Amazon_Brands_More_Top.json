@@ -1,0 +1,301 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B00OP6SMCI&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:16:17.597553"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=0d57155636626cbd3ed502ea37a36d66",
+      "https://us.etrade.com/e/t/user/login?msockid=0d57155636626cbd3ed502ea37a36d66"
+    ],
+    "timestamp": "2026-08-21T17:16:19.503253",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=0d57155636626cbd3ed502ea37a36d66",
+    "timestamp": "2026-08-21T17:17:16.584841"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+912011112011",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-21T17:17:17.711272"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=0d57155636626cbd3ed502ea37a36d66",
+      "https://us.etrade.com/l/welcome/new-account?msockid=0d57155636626cbd3ed502ea37a36d66",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/main/customer/business-license/registration",
+      "https://etrade.gov.et/"
+    ],
+    "timestamp": "2026-08-21T17:17:24.614521",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/BingHomepageQuiz/hot/",
+      "https://www.reddit.com/r/MicrosoftRewards/comments/1bwl8ci/start_home_page_daily_quiz/",
+      "https://www.reddit.com/r/MicrosoftRewards/comments/roq1db/us_bing_homepage_quiz_12262021/",
+      "https://www.reddit.com/r/MicrosoftRewards/comments/r8qjk5/bing_homepage_quiz/",
+      "https://www.reddit.com/r/BingHomepageQuiz/comments/r5de1u/rbinghomepagequiz_lounge/"
+    ],
+    "timestamp": "2026-08-21T17:17:47.176361",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/",
+      "https://www.zhihu.com/explore",
+      "https://jingyan.baidu.com/article/9f7e7ec0de55552e29155467.html",
+      "https://jingyan.baidu.com/article/d45ad1484a266169552b802f.html",
+      "https://www.zhihu.com/tardis/zm/art/294283384"
+    ],
+    "timestamp": "2026-08-21T17:18:04.642501",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/",
+      "https://www.zhihu.com/",
+      "https://zhidao.baidu.com/question/317623538569467444.html",
+      "https://stackoverflow.com/questions/49206488/accessing-pickle-file-in-google-colab",
+      "https://www.zhihu.com/topic/25615467/top-answers"
+    ],
+    "timestamp": "2026-08-21T17:18:09.500508",
+    "status": "results_found"
+  },
+  {
+    "business": "Agirav Deals",
+    "field": "Business Name",
+    "value": "Agirav Deals",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AA6DMS20COJ0M&asin=B0CY9LRRDX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:18:24.503659"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "Website",
+    "query": "Agirav Deals official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-21T17:18:26.795093",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "Legal Entity Name",
+    "query": "Agirav Deals company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://genius.com/Linkin-park-numb-lyrics",
+      "https://genius.com/Lana-del-rey-video-games-lyrics",
+      "https://forum.ubuntu-fr.org/viewtopic.php?id=501991",
+      "https://forum.ubuntu-fr.org/viewtopic.php?id=470511"
+    ],
+    "timestamp": "2026-08-21T17:18:37.362172",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "Legal Entity Name",
+    "query": "Agirav Deals Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://translate.google.co.in/details",
+      "https://translate.google.co.in/m",
+      "https://translate.google.co.in/robots.txt"
+    ],
+    "timestamp": "2026-08-21T17:18:42.626308",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "PAN",
+    "query": "Agirav Deals PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.sunrisemarineservices.com/",
+      "https://www.sunrisemarineservices.com/products/sulzer-za40s-zal40s-zav40s-engine-spares",
+      "https://www.sunrisemarineservices.com/about"
+    ],
+    "timestamp": "2026-08-21T17:18:59.928820",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "PAN",
+    "query": "Agirav Deals PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/615985218",
+      "https://www.zhihu.com/question/40032864",
+      "https://www.zhihu.com/question/22188432",
+      "https://www.zhihu.com/question/659264022",
+      "https://www.zhihu.com/question/59903554"
+    ],
+    "timestamp": "2026-08-21T17:19:04.621481",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "GST",
+    "query": "Agirav Deals GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/55795521",
+      "https://www.zhihu.com/question/279338227"
+    ],
+    "timestamp": "2026-08-21T17:19:25.660539",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "GST",
+    "query": "Agirav Deals GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://map.yahoo.co.jp/v3/place/rc9YgolObtQ",
+      "https://retty.me/area/PRE13/ARE9/SUB902/100001556431/",
+      "https://apese.net/?id=4944922",
+      "https://tabelog.com/tokyo/A1311/A131104/13251039/?msockid=0d57155636626cbd3ed502ea37a36d66",
+      "https://retty.me/area/PRE13/ARE9/SUB902/100001556431/50530089/"
+    ],
+    "timestamp": "2026-08-21T17:19:43.373269",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "Owner",
+    "query": "Agirav Deals director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bbs.3dmgame.com/thread-4543820-1-1.html",
+      "https://www.zhihu.com/question/509353816",
+      "https://bbs.3dmgame.com/thread-3431003-1-1.html",
+      "https://www.zhihu.com/signin",
+      "https://bbs.3dmgame.com/thread-1855453-1-1.html"
+    ],
+    "timestamp": "2026-08-21T17:19:44.826348",
+    "status": "results_found"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "Address",
+    "query": "Agirav Deals registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://credonex.com/company/agirua-india-private-limited-U82990TN2026PTC194894",
+      "https://www.falconebiz.com/company/AMRL-HITECH-CITY-LIMITED-U70101TN2000PLC044980",
+      "https://www.inspex.in/",
+      "https://www.falconebiz.com/company/AGIV-INDIA-PRIVATE-LIMITED-U65990MH1990PTC057607",
+      "https://www.falconebiz.com/company/RRM-MARBLES-GRANITES-OPC-PRIVATE-LIMITED-U32900TN2025OPC176131"
+    ],
+    "timestamp": "2026-08-21T17:20:19.981670",
+    "status": "results_found"
+  },
+  {
+    "business": "Agirav Deals",
+    "field": "Billing Address",
+    "value": "no.s101 phase-3 suite 464, spencer plaza, anna road, chennai, chennai, tamil nadu - 600002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://credonex.com/company/agirua-india-private-limited-U82990TN2026PTC194894",
+    "timestamp": "2026-08-21T17:20:21.966601"
+  },
+  {
+    "business": "Agirav Deals",
+    "field": "City",
+    "value": "chennai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://credonex.com/company/agirua-india-private-limited-U82990TN2026PTC194894",
+    "timestamp": "2026-08-21T17:20:21.966626"
+  },
+  {
+    "business": "Agirav Deals",
+    "field": "State",
+    "value": "Tamil Nadu",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://credonex.com/company/agirua-india-private-limited-U82990TN2026PTC194894",
+    "timestamp": "2026-08-21T17:20:21.966631"
+  },
+  {
+    "business": "Agirav Deals",
+    "field": "Pincode",
+    "value": "600002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://credonex.com/company/agirua-india-private-limited-U82990TN2026PTC194894",
+    "timestamp": "2026-08-21T17:20:21.966635"
+  },
+  {
+    "seller": "Agirav Deals",
+    "field": "Phone",
+    "query": "Agirav Deals phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/agirav-deals",
+      "https://airtel.pissedconsumer.com/customer-service.html",
+      "https://www.airtel.in/blog/airtel-app/steps-to-reach-out-to-airtel-customer-care-executive/",
+      "https://www.gadgets360.com/mobile-recharge-plans/airtel-customer-care-number",
+      "https://agaro-lifestyle.pissedconsumer.com/customer-service.html"
+    ],
+    "timestamp": "2026-08-21T17:20:24.147618",
+    "status": "results_found"
+  }
+]

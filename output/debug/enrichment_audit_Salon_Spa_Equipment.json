@@ -1,0 +1,800 @@
+[
+  {
+    "business": "STOP 'N' BUY",
+    "field": "Business Name",
+    "value": "STOP 'N' BUY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1E789RWSSJOCL&asin=B07X99C8DB&ref_=dp_merchant_link",
+    "timestamp": "2026-08-20T17:55:57.085104"
+  },
+  {
+    "seller": "STOP 'N' BUY",
+    "field": "Website",
+    "query": "STOP 'N' BUY official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.shoppersstop.com/home",
+      "https://www.shoppersstop.com/category/watches"
+    ],
+    "timestamp": "2026-08-20T17:55:59.049375",
+    "status": "results_found"
+  },
+  {
+    "seller": "STOP 'N' BUY",
+    "field": "Legal Entity Name",
+    "query": "STOP 'N' BUY company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.startupindia.gov.in/",
+      "https://www.startupindia.gov.in/content/sih/en/startupgov/validate-startup-recognition.html",
+      "https://www.startupindia.gov.in/content/sih/en/Prabhaav.html",
+      "https://www.startupindia.gov.in/content/sih/en/startupgov/regulatory_updates.html",
+      "https://www.startupindia.gov.in/content/sih/en/bharat-startup-grand-challenge.html"
+    ],
+    "timestamp": "2026-08-20T17:57:38.032814",
+    "status": "results_found"
+  },
+  {
+    "seller": "STOP 'N' BUY",
+    "field": "Legal Entity Name",
+    "query": "STOP 'N' BUY Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rdatax.in/blog/strike-off-private-limited-company-stk-2-2026",
+      "https://company.vakilsearch.com/",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://www.gst.gov.in/help/enrollmentwithgst",
+      "https://indiapost.org/how-to-register-business-in-india"
+    ],
+    "timestamp": "2026-08-20T17:57:56.731503",
+    "status": "results_found"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "Business Name",
+    "value": "T TOPLINE\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A34H0B9HASLF85&asin=B08Q48WX5D&ref_=dp_merchant_link",
+    "timestamp": "2026-08-20T17:57:57.665473"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "Website",
+    "query": "T TOPLINE\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://topline.com/home/product/topline-os",
+      "https://topline.ph/"
+    ],
+    "timestamp": "2026-08-20T17:57:59.542084",
+    "status": "results_found"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "Website URL",
+    "value": "https://topline.ph/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://topline.ph/",
+    "timestamp": "2026-08-20T17:58:03.882144"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "Phone Number",
+    "value": "+919085282025",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://topline.ph/",
+    "timestamp": "2026-08-20T17:58:04.897566"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "Email Address",
+    "value": "info@topline.ph",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://topline.ph/",
+    "timestamp": "2026-08-20T17:58:04.898256"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "Legal Entity Name",
+    "query": "T TOPLINE\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/topline-integrated-services-private-limited/__sinhDnMNnG_2hTjPBTdtomTyNHAcO-DUD57qoxpO2Tc#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U74999KA2017PTC106798%20and%20its%20current%20status%20is%20Active.",
+      "https://www.quickcompany.in/trademarks/4657228-t-topline",
+      "https://www.quickcompany.in/company",
+      "https://udyamregistration.gov.in/Default.aspx",
+      "https://tracxn.com/d/legal-entities/india/topline-integrated-services-private-limited/__sinhDnMNnG_2hTjPBTdtomTyNHAcO-DUD57qoxpO2Tc"
+    ],
+    "timestamp": "2026-08-20T17:58:12.916222",
+    "status": "results_found"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "Legal Entity Name",
+    "query": "T TOPLINE\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indiafilings.com/search/topline-industries-private-limited-cin-U74999BR2020PTC045946",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/",
+      "https://golegally.com/mca-company-search",
+      "https://www.companyseekers.com/"
+    ],
+    "timestamp": "2026-08-20T17:58:18.847179",
+    "status": "results_found"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "PAN",
+    "query": "T TOPLINE\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan",
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://cleartax.in/s/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-08-20T17:58:33.504433",
+    "status": "results_found"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "PAN",
+    "query": "T TOPLINE\u00ae PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.1mg.com/drugs/t-pan-40mg-tablet-356648",
+      "https://www.utiitsl.com/UTIITSL_NEW/home?lang=en",
+      "https://www.knowyourgst.com/gst-number-search/t-topline-29ASHPV1226A1ZW/",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.1mg.com/drugs/t-pan-d-sr-capsule-356649"
+    ],
+    "timestamp": "2026-08-20T17:58:46.937131",
+    "status": "results_found"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "PAN Number",
+    "value": "ASHPV1226A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/t-topline-29ASHPV1226A1ZW/",
+    "timestamp": "2026-08-20T17:58:50.661790"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "GST",
+    "query": "T TOPLINE\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://gst.jamku.app/gstin/08AACCT1082C2ZO",
+      "https://www.knowyourgst.com/gst-number-search/t-topline-24ASHPV1226A1Z6/",
+      "https://piceapp.com/gst-number-search/ti-industries-08aacct1082c2zo/",
+      "https://www.mastersindia.co/gst-search/?name=topline-lamination-private-limited&gstin=08AACCT1082C2ZO"
+    ],
+    "timestamp": "2026-08-20T17:58:52.344850",
+    "status": "results_found"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "GST Number",
+    "value": "24ASHPV1226A1Z6",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/t-topline-24ASHPV1226A1Z6/",
+    "timestamp": "2026-08-20T17:58:54.766006"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "Owner",
+    "query": "T TOPLINE\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://topline.com/home/about/company",
+      "https://www.toplinegp.com/our-team",
+      "https://topline.com/about-us/",
+      "https://toplinestrategy.com/team/"
+    ],
+    "timestamp": "2026-08-20T17:58:56.859790",
+    "status": "results_found"
+  },
+  {
+    "seller": "T TOPLINE\u00ae",
+    "field": "Address",
+    "query": "T TOPLINE\u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://thetoplinesolution.com/contact-us/",
+      "https://tracxn.com/d/legal-entities/india/topline-integrated-services-private-limited/__sinhDnMNnG_2hTjPBTdtomTyNHAcO-DUD57qoxpO2Tc",
+      "https://www.falconebiz.com/company/TOPLINE-INTEGRATED-SERVICES-PRIVATE-LIMITED-U74999KA2017PTC106798",
+      "https://tracxn.com/d/legal-entities/india/topline-computers-limited/__mDYRuTwTf7iiZhy8gGe7MO-drpRxV6qVelqsebWYHY8",
+      "https://www.falconebiz.com/LLP/TOPLINE-CLOTHING-LLP-ACO-3850"
+    ],
+    "timestamp": "2026-08-20T17:59:18.237312",
+    "status": "results_found"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/topline-integrated-services-private-limited/__sinhDnMNnG_2hTjPBTdtomTyNHAcO-DUD57qoxpO2Tc",
+    "timestamp": "2026-08-20T17:59:22.226406"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/topline-integrated-services-private-limited/__sinhDnMNnG_2hTjPBTdtomTyNHAcO-DUD57qoxpO2Tc",
+    "timestamp": "2026-08-20T17:59:22.226434"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/topline-integrated-services-private-limited/__sinhDnMNnG_2hTjPBTdtomTyNHAcO-DUD57qoxpO2Tc",
+    "timestamp": "2026-08-20T17:59:22.226439"
+  },
+  {
+    "business": "T TOPLINE\u00ae",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/topline-integrated-services-private-limited/__sinhDnMNnG_2hTjPBTdtomTyNHAcO-DUD57qoxpO2Tc",
+    "timestamp": "2026-08-20T17:59:22.226443"
+  },
+  {
+    "business": "Alifonus",
+    "field": "Business Name",
+    "value": "Alifonus",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A198H5LM96KSF7&asin=B0FFZWTFHS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-20T17:59:23.729544"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Website",
+    "query": "Alifonus official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://alison.com/?msockid=19d7433055426d631f21548b543d6c7a",
+      "https://alison.com/login?msockid=19d7433055426d631f21548b543d6c7a"
+    ],
+    "timestamp": "2026-08-20T17:59:26.790906",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Legal Entity Name",
+    "query": "Alifonus company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://registry-lookup.com/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://golegally.com/mca-company-search",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-08-20T17:59:39.095544",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Legal Entity Name",
+    "query": "Alifonus Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/home.html",
+      "https://golegally.com/mca-company-search",
+      "https://cleartax.in/s/steps-to-register-private-limited-company",
+      "https://company.vakilsearch.com/"
+    ],
+    "timestamp": "2026-08-20T17:59:52.441919",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "PAN",
+    "query": "Alifonus PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://incometaxindia.gov.in/pan",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-20T17:59:59.743853",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "PAN",
+    "query": "Alifonus PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.incometaxindia.gov.in/tax-services/online-pan-verification",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/verify-your-pan",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/videos/instant-e-pan"
+    ],
+    "timestamp": "2026-08-20T18:00:14.897598",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "GST",
+    "query": "Alifonus GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://www.india.gov.in/services/details/register-for-gst-online",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://services.gst.gov.in/services/quicklinks/searchtxp",
+      "https://reg.gst.gov.in/registration/generateuid"
+    ],
+    "timestamp": "2026-08-20T18:00:19.997895",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "GST",
+    "query": "Alifonus GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-20T18:00:25.294466",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "GST",
+    "query": "Alifonus GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-20T18:00:39.695795",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Owner",
+    "query": "Alifonus director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ctvnews.ca/business/article/onlyfans-owner-leonid-radvinsky-dies-at-43/",
+      "https://www.crunchbase.com/organization/alphonso-inc/profiles_and_contacts",
+      "https://www.dnaindia.com/business/report-meet-indian-businessman-one-of-the-richest-in-uae-born-in-a-village-now-boats-net-worth-of-over-60000-crores-3152718",
+      "https://www.forbes.com/profile/giannis-alafouzos/"
+    ],
+    "timestamp": "2026-08-20T18:00:42.011577",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Owner",
+    "query": "Alifonus managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.alivus.com/media/management-profiles/",
+      "https://www.alivus.com/about-us/our-leadership-team/",
+      "https://www.goodreturns.in/company/alivus-life-sciences/management-team.html",
+      "https://www.datanyze.com/companies/alivus-life-sciences/5000688839",
+      "https://www.goodreturns.in/company/alivus-life-sciences/director-report.html"
+    ],
+    "timestamp": "2026-08-20T18:01:00.630314",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Address",
+    "query": "Alifonus registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.alivus.com/alivus_pdfs/investors/disclosure/Contact-details-of-personnel-authorised-to-determine-materiliaty-of-event-and-information.pdf",
+      "https://filingreader.com/news-wire/mumbai/2025-09-03/alivus-life-sciences-relocates-corporate-office",
+      "https://www.alivus.com/alivus_pdfs/investors/disclosure/Investors%20Grievances%20Contact%20Details.pdf",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/527c6272-c55a-44e0-b988-b44035e13226.pdf",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis//ce4842e9-3624-4978-8797-8e9123c4bb4d.pdf"
+    ],
+    "timestamp": "2026-08-20T18:01:02.721366",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Address",
+    "query": "Alifonus registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.whois.com/whois/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.tnreginet.co.in/sub-registrar-office-tamil-nadu"
+    ],
+    "timestamp": "2026-08-20T18:01:09.396616",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alifonus",
+    "field": "Phone",
+    "query": "Alifonus phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.apple.com/in/contact/",
+      "https://www.apple.com/contact/feedback/",
+      "https://support.apple.com/contact",
+      "https://www.apple.com/legal/privacy/contact/",
+      "https://www.apple.com/in/legal/"
+    ],
+    "timestamp": "2026-08-20T18:01:23.840829",
+    "status": "results_found"
+  },
+  {
+    "business": "RedStarSafety",
+    "field": "Business Name",
+    "value": "RedStarSafety",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2E5W35AN9BKKI&asin=B0D4QXYB8S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T18:01:24.382482"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "Website",
+    "query": "RedStarSafety official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.redstarsafety.com/",
+      "https://www.redstarsafety.com/products.html"
+    ],
+    "timestamp": "2026-08-20T18:01:26.059727",
+    "status": "results_found"
+  },
+  {
+    "business": "RedStarSafety",
+    "field": "Website URL",
+    "value": "https://www.redstarsafety.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.redstarsafety.com/",
+    "timestamp": "2026-08-20T18:01:27.576925"
+  },
+  {
+    "business": "RedStarSafety",
+    "field": "Phone Number",
+    "value": "+918071793718",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.redstarsafety.com/",
+    "timestamp": "2026-08-20T18:01:28.259193"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "Legal Entity Name",
+    "query": "RedStarSafety company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/RED-STAR-SAFETY-PRIVATE-LIMITED-U18204UP2011PTC047699",
+      "https://www.indiafilings.com/search/red-star-safety-private-limited-cin-U18204UP2011PTC047699",
+      "https://www.redstarsafety.com/",
+      "https://tracxn.com/d/legal-entities/india/red-star-safety-private-limited/__UDekoZUWqOIhzNVwI11kZfCX7m198XuNf_xgJZAaqV8",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html"
+    ],
+    "timestamp": "2026-08-20T18:01:47.423651",
+    "status": "results_found"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "Legal Entity Name",
+    "query": "RedStarSafety Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://golegally.com/mca-company-search",
+      "https://www.inspex.in/",
+      "https://www.companyseekers.com/"
+    ],
+    "timestamp": "2026-08-20T18:01:56.943533",
+    "status": "results_found"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "Legal Entity Name",
+    "query": "RedStarSafety legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/red-star-safety-private-limited/__UDekoZUWqOIhzNVwI11kZfCX7m198XuNf_xgJZAaqV8#:~:text=RED%20STAR%20SAFETY%20PRIVATE%20LIMITED%20is%20a%20Private,OLD%20DALMANDI%2C%20Kanpur%2C%20KANPUR%2C%20Uttar%20Pradesh%2C%20India%2C%20208001.",
+      "https://tracxn.com/d/legal-entities/india/red-star-safety-private-limited/__UDekoZUWqOIhzNVwI11kZfCX7m198XuNf_xgJZAaqV8",
+      "https://tracxn.com/d/legal-entities/india/red-star-safety-industries-llp/__BBAUQeOkTAlRiTbpx0lJU-Xt7kxrbsbwRn3j25dbTbQ",
+      "https://register-lei.in/d/64888NC0RU9722X9PV45/",
+      "https://www.legalentityidentifier.in/leicert/64888NC0RU9722X9PV45/"
+    ],
+    "timestamp": "2026-08-20T18:02:06.006110",
+    "status": "results_found"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "PAN",
+    "query": "RedStarSafety PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/verify-your-pan",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-20T18:02:07.500405",
+    "status": "results_found"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "PAN",
+    "query": "RedStarSafety PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/red-star-safety-private-limited/__UDekoZUWqOIhzNVwI11kZfCX7m198XuNf_xgJZAaqV8",
+      "https://www.knowyourgst.com/gst-number-search/red-star-safety-private-limited-06AAFCR5971F1Z8/",
+      "https://www.redstarsafety.com/",
+      "https://gst.unifers.ai/gst/24ABDFR6448P1ZL/red-star-safety-industries-llp",
+      "https://www.knowyourgst.com/gst-number-search/ms-red-star-safety-private-limited-29AAFCR5971F1Z0/"
+    ],
+    "timestamp": "2026-08-20T18:02:20.252760",
+    "status": "results_found"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "GST",
+    "query": "RedStarSafety GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/red-star-safety-private-limited-06AAFCR5971F1Z8",
+      "https://fnshiftsolutions.com/gstin-search/red-star-safety-private-limited-36AAFCR5971F1Z5",
+      "https://www.knowyourgst.com/gst-number-search/red-star-safety-private-limited-06AAFCR5971F1Z8/",
+      "https://piceapp.com/gst-number-search/ms-red-star-safety-private-limited-09aafcr5971f1z2/",
+      "https://reg.gst.gov.in/registration/"
+    ],
+    "timestamp": "2026-08-20T18:03:22.581277",
+    "status": "results_found"
+  },
+  {
+    "seller": "RedStarSafety",
+    "field": "Owner",
+    "query": "RedStarSafety director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://info.edgeinsights.in/company/Red-Star-Safety-Private-Limited/258437",
+      "https://tracxn.com/d/legal-entities/india/red-star-safety-private-limited/__UDekoZUWqOIhzNVwI11kZfCX7m198XuNf_xgJZAaqV8",
+      "https://www.companydetails.in/company/red-star-safety-private-limited",
+      "https://www.datanyze.com/companies/redstar-safety/437181077",
+      "https://www.companyseekers.com/company/red-star-safety-private-limited/U18204UP2011PTC047699"
+    ],
+    "timestamp": "2026-08-20T18:03:24.161228",
+    "status": "results_found"
+  },
+  {
+    "business": "KIDOM ENTERPRISE",
+    "field": "Business Name",
+    "value": "KIDOM ENTERPRISE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1P4IQHJ7WC32&asin=B0C2HQ7WFT&ref_=dp_merchant_link",
+    "timestamp": "2026-08-20T18:03:25.148713"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "Website",
+    "query": "KIDOM ENTERPRISE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://www.kidom.com/",
+      "https://www.kiddom.co/"
+    ],
+    "timestamp": "2026-08-20T18:03:26.759230",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "KIDOM ENTERPRISE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://udyamregistration.gov.in/",
+      "https://udyamregistration.gov.in/Udyam_Verify.aspx",
+      "https://www.udyamregistration.gov.in/#",
+      "https://udyamregistration.gov.in/Udyam_Login.aspx",
+      "https://www.udyamregistration.gov.in/docs/UdyamApplication.pdf"
+    ],
+    "timestamp": "2026-08-20T18:04:14.974672",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "KIDOM ENTERPRISE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://udyamregistration.gov.in/SearchRegistration.aspx",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://udyogaadhaar.gov.in/UdyamRegistration.aspx",
+      "https://weedoo.in/udyam-companies",
+      "https://www.udyam.ltd/blog/udyam-search-by-name"
+    ],
+    "timestamp": "2026-08-20T18:04:20.260665",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "Legal Entity Name",
+    "query": "KIDOM ENTERPRISE legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kido-enterprises-private-limited/__gHKDCjyRu_yDuzokXdR28LA5kIUuQD8NjpBgwHZNqV4",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.legalentityidentifier.in/leicert/",
+      "https://opencorporates.com/companies/search",
+      "https://entitycheck.com/"
+    ],
+    "timestamp": "2026-08-20T18:04:28.426432",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "PAN",
+    "query": "KIDOM ENTERPRISE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=The%20most%20direct%20method%20is%20to%20extract%20the,its%20details%20through%20the%20Income%20Tax%20e-Filing%20portal.",
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.incometaxindia.gov.in/pan"
+    ],
+    "timestamp": "2026-08-20T18:04:34.606489",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "PAN",
+    "query": "KIDOM ENTERPRISE PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://kindom.co.in/",
+      "https://gstverify.co.in/search/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan"
+    ],
+    "timestamp": "2026-08-20T18:04:44.606310",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "PAN",
+    "query": "KIDOM ENTERPRISE PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number#:~:text=To%20check%20a%20company%E2%80%99s%20PAN%20number%20online%20in,characters%203%20to%2012%20represent%20the%2010-character%20PAN.",
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-08-20T18:04:52.489893",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "GST",
+    "query": "KIDOM ENTERPRISE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.msmeregistration.gov.in/UdyamRegistration.aspx",
+      "https://reg.gst.gov.in/registration/",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx",
+      "https://udyamregistration.gov.in/",
+      "https://services.gst.gov.in/services/quicklinks/registration/"
+    ],
+    "timestamp": "2026-08-20T18:04:55.058758",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "GST",
+    "query": "KIDOM ENTERPRISE GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-20T18:05:03.114079",
+    "status": "results_found"
+  },
+  {
+    "seller": "KIDOM ENTERPRISE",
+    "field": "Owner",
+    "query": "KIDOM ENTERPRISE director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/kiddom/__gGdSMhscxMhMZDCdcdYAe8yyal2SIVjS1POB_RlZETc",
+      "https://www.cbinsights.com/company/kiddom/people",
+      "https://tracxn.com/d/legal-entities/india/kido-enterprises-private-limited/__gHKDCjyRu_yDuzokXdR28LA5kIUuQD8NjpBgwHZNqV4",
+      "https://theorg.com/org/kiddom/org-chart/ahsan-rizvi",
+      "https://www.kiddom.co/about-kiddom"
+    ],
+    "timestamp": "2026-08-20T18:05:16.798382",
+    "status": "results_found"
+  }
+]

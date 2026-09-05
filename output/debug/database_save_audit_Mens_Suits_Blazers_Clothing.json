@@ -1,0 +1,74 @@
+{
+  "category": "Mens Suits Blazers Clothing",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Overseas_shop",
+      "database_id": 82,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913212302026",
+      "email": "sfsdelivery.confirmation@usps.gov",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "shop_worldwide",
+      "database_id": 83,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912471002025",
+      "email": "info@shopworldwide.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shopworldwide.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BUY CRAVINGS",
+      "database_id": 84,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916160002026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "STS Shop",
+      "database_id": 85,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915613740813",
+      "email": "info@stsshop.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.stsshop.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cart2Globe",
+      "database_id": 86,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910200720262",
+      "email": "wecare@cart2india.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cart2india.com/",
+      "status": "Verified"
+    }
+  ]
+}

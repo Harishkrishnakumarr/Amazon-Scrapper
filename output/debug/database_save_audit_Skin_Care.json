@@ -1,0 +1,74 @@
+{
+  "category": "Skin Care",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 322,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "infogrp@indiaratings.co.in",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FoxTale Skin",
+      "database_id": 323,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917158672026",
+      "email": "Not Found",
+      "gst": "27AAECF5520H2ZR",
+      "pan": "Not Found",
+      "website": "https://foxtale.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Piramal Pharma Limited",
+      "database_id": 324,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910049462026",
+      "email": "corporate.communication@piramal.com",
+      "gst": "27AALCP0909M1Z1",
+      "pan": "AALCP0909M",
+      "website": "https://www.piramalpharmalimited.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Minimalist Inc",
+      "database_id": 325,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919248720261",
+      "email": "help@beminimalist.co",
+      "gst": "27AAJCM8774F1ZY",
+      "pan": "Not Found",
+      "website": "https://www.minimalistinc.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Deconstruct",
+      "database_id": 326,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912420262026",
+      "email": "Not Found",
+      "gst": "27AAAPA1234A1Z5",
+      "pan": "Not Found",
+      "website": "https://www.deconstruct.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

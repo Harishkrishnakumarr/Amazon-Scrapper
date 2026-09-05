@@ -1,0 +1,324 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B01DBPD8XG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T13:04:22.105356"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=05c6d382d90a68e92321c441d8e169c1",
+      "https://us.etrade.com/home/welcome-back?msockid=05c6d382d90a68e92321c441d8e169c1"
+    ],
+    "timestamp": "2026-08-28T13:04:27.708490",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=05c6d382d90a68e92321c441d8e169c1",
+      "https://us.etrade.com/l/welcome/new-account?msockid=05c6d382d90a68e92321c441d8e169c1",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/home?msockid=05c6d382d90a68e92321c441d8e169c1"
+    ],
+    "timestamp": "2026-08-28T13:05:12.208748",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/frequently-asked-questions/account-info",
+      "https://us.etrade.com/contact-us",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-08-28T13:05:42.303741",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:06:00.959414",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://gst.jamku.app/gstin/27AADCV4254H1Z8",
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-33AADCV4254H1ZF/",
+      "https://piceapp.com/gst-number-search/etrade-marketing-private-limited-27aadcv4254h1z8/"
+    ],
+    "timestamp": "2026-08-28T13:06:07.221551",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=05c6d382d90a68e92321c441d8e169c1",
+      "https://us.etrade.com/e/t/user/login?msockid=05c6d382d90a68e92321c441d8e169c1",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T13:06:09.236420",
+    "status": "results_found"
+  },
+  {
+    "business": "LEOPAX",
+    "field": "Business Name",
+    "value": "LEOPAX",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1R1WBQ9T4MU04&asin=B08T93FKVR&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T13:06:26.985717"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "Website",
+    "query": "LEOPAX official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:06:43.739455",
+    "status": "no_results"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "Legal Entity Name",
+    "query": "LEOPAX company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://outlook.com/owa/cridf.iledefrance.fr",
+      "https://outlook.com/owa/Office365.com",
+      "https://tafe.prdtrs01.outlook.com/TorusSTS/?wa=wsignin1.0",
+      "https://ps.outlook.com/Powershell"
+    ],
+    "timestamp": "2026-08-28T13:06:56.435750",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "PAN",
+    "query": "LEOPAX PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://leopax.org/"
+    ],
+    "timestamp": "2026-08-28T13:07:24.276462",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "GST",
+    "query": "LEOPAX GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/leopax-enterprises-private-limited-07AAECL6129J1ZC/",
+      "https://www.knowyourgst.com/gst-number-search/leopax-enterprises-private-limited-29AAECL6129J1Z6/",
+      "https://piceapp.com/gst-number-search/leopax-enterprises-private-limited-29aaecl6129j1z6/",
+      "https://fnshiftsolutions.com/gstin-search/leopax-enterprises-private-limited-29AAECL6129J1Z6"
+    ],
+    "timestamp": "2026-08-28T13:07:34.254326",
+    "status": "results_found"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "Owner",
+    "query": "LEOPAX director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:07:53.121979",
+    "status": "no_results"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "Owner",
+    "query": "LEOPAX founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:08:08.106528",
+    "status": "no_results"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "Address",
+    "query": "LEOPAX registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:08:17.139693",
+    "status": "no_results"
+  },
+  {
+    "seller": "LEOPAX",
+    "field": "Address",
+    "query": "LEOPAX registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/leopax-enterprises-private-limited/__LQiqBVDeG_YpU9_m8Ha-VOHbRKGnrzgVduqxKURUb3g",
+      "https://www.falconebiz.com/company/LEOPAX-ENTERPRISES-PRIVATE-LIMITED-U51220DL2021PTC380988",
+      "https://www.companydetails.in/company/leopax-enterprises-private-limited",
+      "https://www.instafinancials.com/company/leopax-enterprises-private-limited-U51220DL2021PTC380988/company-overview"
+    ],
+    "timestamp": "2026-08-28T13:08:25.417052",
+    "status": "results_found"
+  },
+  {
+    "business": "CRAFTGLOW",
+    "field": "Business Name",
+    "value": "CRAFTGLOW",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AZPG18DSB2N0&asin=B0GJCKLLXV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T13:08:30.568611"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "Website",
+    "query": "CRAFTGLOW official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tabi-ringo.com/jalan-coupon-campaign/",
+      "https://travelersnavi.com/coupon/jalan10days"
+    ],
+    "timestamp": "2026-08-28T13:08:34.684742",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "Legal Entity Name",
+    "query": "CRAFTGLOW company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:08:53.982725",
+    "status": "no_results"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "Legal Entity Name",
+    "query": "CRAFTGLOW Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://razorpay.com/rize/company-registration/private-limited/"
+    ],
+    "timestamp": "2026-08-28T13:09:05.187309",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "PAN",
+    "query": "CRAFTGLOW PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.techyv.com/questions/english-pdf-file-hindi-pdf-converter-online/",
+      "https://www.techyv.com/questions/how-can-we-use-mangal-font-free-download-for-ms-word-2007-in-daily-life/",
+      "https://www.techyv.com/questions/want-know-shortcutkey-active-bijoy-unicode-english/",
+      "https://www.techyv.com/questions/convert-english-hindi-java-mobiles/"
+    ],
+    "timestamp": "2026-08-28T13:09:10.123472",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "PAN",
+    "query": "CRAFTGLOW PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://help.qantas.com/support/s/topic/0TO2v000000FtcgGAC/manage-booking",
+      "https://help.qantas.com/support/s/article/Refunding-changing-cancelling-or-amending-a-flight-booking",
+      "https://help.qantas.com/support/s/",
+      "https://help.qantas.com/support/s/article/Earning-Qantas-Points-and-Status-Credits-on-codeshare-flights"
+    ],
+    "timestamp": "2026-08-28T13:09:19.557062",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "GST",
+    "query": "CRAFTGLOW GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://ca360pro.com/gst-registration-online/"
+    ],
+    "timestamp": "2026-08-28T13:09:41.568229",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "Owner",
+    "query": "CRAFTGLOW director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.deezer.com/en/artist/6162762",
+      "https://www.moviefone.com/movie/xxxxxxxx/lvfo1ybLrTLBTzx2bZpTT/main/",
+      "https://gaana.com/artist/xxxxxxxxxxx",
+      "https://www.dailymotion.com/video/x98twrc"
+    ],
+    "timestamp": "2026-08-28T13:09:44.887662",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "Address",
+    "query": "CRAFTGLOW registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:10:19.500142",
+    "status": "no_results"
+  },
+  {
+    "seller": "CRAFTGLOW",
+    "field": "Phone",
+    "query": "CRAFTGLOW phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:10:33.573714",
+    "status": "no_results"
+  }
+]

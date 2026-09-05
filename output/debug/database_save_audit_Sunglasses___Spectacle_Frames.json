@@ -1,0 +1,61 @@
+{
+  "category": "Sunglasses & Spectacle Frames",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Black Jones",
+      "database_id": 1416,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919289291994",
+      "email": "sales.blackjones@gmail.com",
+      "gst": "07AATFB8462E1Z4",
+      "pan": "AATFB8462E",
+      "website": "https://www.blackjones.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1447,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Royal Son",
+      "database_id": 1459,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919351121114",
+      "email": "info@royalson.in",
+      "gst": "36BJLPK7740J1ZR",
+      "pan": "BJLPK7740J",
+      "website": "https://www.royalson.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Hasterr Lifestyle",
+      "database_id": 1448,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918169969331",
+      "email": "support@launzr.com",
+      "gst": "09AAICH0134R1Z7",
+      "pan": "AAICH0134R",
+      "website": "https://havster.in/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "business": "ALSU",
+    "field": "Business Name",
+    "value": "ALSU",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AZXJCBXQ4TYKT&asin=B0993W342T&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-03T18:04:57.911116"
+  },
+  {
+    "seller": "ALSU",
+    "field": "Website",
+    "query": "ALSU official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-03T18:05:10.401442",
+    "status": "no_results"
+  },
+  {
+    "seller": "ALSU",
+    "field": "Legal Entity Name",
+    "query": "ALSU company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.iowaregisteredagent.com/llc-building-ppc/?utm_source=bing&utm_medium=cpc&utm_campaign=Iowa%20-%20BF&utm_content=Iowa%20-%20BF%20-%20LLC&utm_term=state%20of%20iowa%20business%20registration&msclkid=1095c69144e016d9aa0eac082d41932f",
+      "https://bzindia.com/startupindia/startup-company-registration-in-alsu",
+      "https://www.sos.alabama.gov/business-services",
+      "https://www.sos.alabama.gov/business-entities"
+    ],
+    "timestamp": "2026-09-03T18:05:32.919196",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALSU",
+    "field": "PAN",
+    "query": "ALSU PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide"
+    ],
+    "timestamp": "2026-09-03T18:05:50.103745",
+    "status": "results_found"
+  },
+  {
+    "business": "ALSU",
+    "field": "Phone Number",
+    "value": "+918001801961",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+    "timestamp": "2026-09-03T18:05:53.585666"
+  },
+  {
+    "seller": "ALSU",
+    "field": "GST",
+    "query": "ALSU GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/change-folder-to-open-file-explorer-to-by-default-in-windows-11.675/",
+      "https://www.elevenforum.com/t/search-in-windows-11-file-explorer.21789/"
+    ],
+    "timestamp": "2026-09-03T18:06:01.604232",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALSU",
+    "field": "Owner",
+    "query": "ALSU director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lifebydesign-academy.com/about-alsu-kashapova",
+      "https://alsukashapova.com/testimonials/",
+      "https://www.corporationwiki.com/Texas/Corpus-Christi/susan-d-johnson/32782935.aspx",
+      "https://alsukashapova.com/"
+    ],
+    "timestamp": "2026-09-03T18:06:17.033208",
+    "status": "results_found"
+  },
+  {
+    "business": "ALSU",
+    "field": "Email Address",
+    "value": "contact@lifebydesign-academy.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.lifebydesign-academy.com/about-alsu-kashapova",
+    "timestamp": "2026-09-03T18:06:21.770718"
+  },
+  {
+    "seller": "ALSU",
+    "field": "Owner",
+    "query": "ALSU founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.donanimhaber.com/adolescence-2025-netflix--160804556",
+      "https://forum.donanimhaber.com/netflix-3d--136910569",
+      "https://forum.donanimhaber.com/samsung-smart-tv-netflix-uygulamasi-baglanti-problemi-ve-cozumu--121113154",
+      "https://forum.donanimhaber.com/netflix-exxen-blutv-diger-dizi-film-canli-tv-mac-uygulamasi--148030808"
+    ],
+    "timestamp": "2026-09-03T18:06:28.886059",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALSU",
+    "field": "Address",
+    "query": "ALSU registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.jeuxvideo.com/news/1720212/enigmes-hogwarts-legacy-la-liste-complete-et-comment-les-reussir.htm",
+      "https://www.jeuxvideo.com/wikis-soluce-astuces/1712122/vol-d-oiseaux.htm"
+    ],
+    "timestamp": "2026-09-03T18:06:33.970384",
+    "status": "results_found"
+  },
+  {
+    "seller": "ALSU",
+    "field": "Address",
+    "query": "ALSU registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://www.govietnam.tours/vietnamese-food-guide-21-dishes-you-cant-miss/"
+    ],
+    "timestamp": "2026-09-03T18:06:45.536278",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B01LWYDEQ7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T16:05:53.285874"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kurozora.app/seasons/ArXqaWRJhKvcUKu4/episodes",
+      "https://noodlemagazine.tv/video/shoujo-kyouiku-re"
+    ],
+    "timestamp": "2026-08-28T16:05:55.677829",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T16:06:46.898948",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.skyscanner.co.in/",
+      "https://www.skyscanner.co.in/flights",
+      "https://www.skyscanner.com/",
+      "https://www.makemytrip.com/?msockid=178bfb64ee706f481e44eca7eff46e06"
+    ],
+    "timestamp": "2026-08-28T16:06:50.197335",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.digitalspy.com/categories/strictly-come-dancing",
+      "https://forums.digitalspy.com/discussion/2395040/boom-radio/p296",
+      "https://forums.digitalspy.com/discussion/2488837/all-very-predictable-now",
+      "https://forums.digitalspy.com/discussion/2408754/gb-news-news/p1652"
+    ],
+    "timestamp": "2026-08-28T16:07:03.034659",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/"
+    ],
+    "timestamp": "2026-08-28T16:07:06.731020",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-28T16:07:07.469847"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-28T16:07:07.469865"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/54632194/is-it-possible-to-filter-only-productvisualsearch-from-specified-website-in-azur",
+      "https://stackoverflow.com/questions/334490/uninstall-without-an-msi-file",
+      "https://stackoverflow.com/questions/338768/python-error-importerror-no-module-named",
+      "https://stackoverflow.com/questions/72563731/remove-visual-search-feature-from-edge-programatically"
+    ],
+    "timestamp": "2026-08-28T16:07:10.079303",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.miniclipforum.com/forum/multiplayer-communities/-8-ball-pool/3740-rate-8-ball-pool",
+      "https://www.miniclipforum.com/forum",
+      "https://www.miniclipforum.com/forum/multiplayer-communities/-8-ball-pool/326966-new-8-ball-pool-trickshots",
+      "https://www.miniclipforum.com/forum/multiplayer-communities/-8-ball-pool/468813-weird-connecting-issue"
+    ],
+    "timestamp": "2026-08-28T16:07:13.066285",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://mycorporateinfo.com/business/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-28T16:07:19.811255",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T16:07:21.058881"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T16:07:21.058920"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T16:07:21.059240"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T16:07:21.059254"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://time.now/dubai/",
+      "https://www.timeanddate.com/worldclock/united-arab-emirates/dubai",
+      "https://time.now/emirate/dubai/",
+      "https://www.worldtimenow.net/time/dubai/"
+    ],
+    "timestamp": "2026-08-28T16:07:24.051681",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://docs.github.com/en/copilot/concepts/models/auto-model-selection",
+      "https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/use-byok-models"
+    ],
+    "timestamp": "2026-08-28T16:07:35.349741",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hrw.org/report/2013/02/07/breaking-silence/child-sexual-abuse-india",
+      "https://www.hrw.org/video-photos/video/2016/07/12/forced-anal-exams-humiliate-violate-victims",
+      "https://www.hrw.org/video-photos/video/2019/08/07/video-decriminalize-sex-work-south-africa",
+      "https://www.hrw.org/news/2019/03/21/myanmar-women-girls-trafficked-brides-china"
+    ],
+    "timestamp": "2026-08-28T16:07:43.621106",
+    "status": "results_found"
+  },
+  {
+    "business": "Appliance E-shop",
+    "field": "Business Name",
+    "value": "Appliance E-shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1Z2MPZWP6PC0H&asin=B09J2T124D&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T16:07:56.801217"
+  },
+  {
+    "seller": "Appliance E-shop",
+    "field": "Website",
+    "query": "Appliance E-shop official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.domesticappliances.philips.co.in/",
+      "https://www.reliancedigital.in/collection/home-appliances"
+    ],
+    "timestamp": "2026-08-28T16:07:58.615388",
+    "status": "results_found"
+  },
+  {
+    "seller": "Appliance E-shop",
+    "field": "Legal Entity Name",
+    "query": "Appliance E-shop company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.domesticappliances.philips.co.in/",
+      "https://www.reliancedigital.in/collection/home-appliances",
+      "https://www.croma.com/home-appliances/c/5",
+      "https://www.vijaysales.com/c/home-appliances"
+    ],
+    "timestamp": "2026-08-28T16:08:15.514616",
+    "status": "results_found"
+  },
+  {
+    "business": "Appliance E-shop",
+    "field": "Phone Number",
+    "value": "+918005721800",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.domesticappliances.philips.co.in/",
+    "timestamp": "2026-08-28T16:08:23.429353"
+  },
+  {
+    "seller": "Appliance E-shop",
+    "field": "PAN",
+    "query": "Appliance E-shop PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.domesticappliances.philips.co.in/",
+      "https://www.reliancedigital.in/collection/home-appliances",
+      "https://www.croma.com/home-appliances/c/5",
+      "https://www.vijaysales.com/c/home-appliances"
+    ],
+    "timestamp": "2026-08-28T16:08:38.170117",
+    "status": "results_found"
+  },
+  {
+    "seller": "Appliance E-shop",
+    "field": "GST",
+    "query": "Appliance E-shop GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.domesticappliances.philips.co.in/",
+      "https://www.reliancedigital.in/collection/home-appliances",
+      "https://www.croma.com/home-appliances/c/5",
+      "https://www.vijaysales.com/c/home-appliances"
+    ],
+    "timestamp": "2026-08-28T16:08:51.901134",
+    "status": "results_found"
+  },
+  {
+    "seller": "Appliance E-shop",
+    "field": "Owner",
+    "query": "Appliance E-shop director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.domesticappliances.philips.co.in/",
+      "https://www.reliancedigital.in/collection/home-appliances",
+      "https://www.croma.com/home-appliances/c/5",
+      "https://www.vijaysales.com/c/home-appliances"
+    ],
+    "timestamp": "2026-08-28T16:09:10.654544",
+    "status": "results_found"
+  },
+  {
+    "seller": "Appliance E-shop",
+    "field": "Address",
+    "query": "Appliance E-shop registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.domesticappliances.philips.co.in/",
+      "https://www.reliancedigital.in/collection/home-appliances",
+      "https://www.croma.com/home-appliances/c/5",
+      "https://www.vijaysales.com/c/home-appliances"
+    ],
+    "timestamp": "2026-08-28T16:09:29.816279",
+    "status": "results_found"
+  },
+  {
+    "seller": "Appliance E-shop",
+    "field": "Email",
+    "query": "Appliance E-shop email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.domesticappliances.philips.co.in/",
+      "https://www.reliancedigital.in/collection/home-appliances",
+      "https://www.croma.com/home-appliances/c/5",
+      "https://www.vijaysales.com/c/home-appliances"
+    ],
+    "timestamp": "2026-08-28T16:09:44.620370",
+    "status": "results_found"
+  },
+  {
+    "business": "KPNG",
+    "field": "Business Name",
+    "value": "KPNG",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1HFBQZHM5C0MP&asin=B08TCBXNFV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T16:10:02.617066"
+  },
+  {
+    "seller": "KPNG",
+    "field": "Website",
+    "query": "KPNG official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://shurufa.sogou.com/"
+    ],
+    "timestamp": "2026-08-28T16:10:05.159067",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "Legal Entity Name",
+    "query": "KPNG company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://zz.city8.com/zhuanyejigou/3258280_za8h"
+    ],
+    "timestamp": "2026-08-28T16:10:56.311470",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "Legal Entity Name",
+    "query": "KPNG Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.hanyuguoxue.com/cidian/ci-48e78b303"
+    ],
+    "timestamp": "2026-08-28T16:11:01.960786",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "PAN",
+    "query": "KPNG PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.proprofs.com/quiz-school/story.php?title=medical-terminology101",
+      "https://www.proprofs.com/quiz-school/story.php?title=basic-computer-skills-assessment",
+      "https://www.proprofs.com/quiz-school/story.php?title=macroeconomics-practice-quiz",
+      "https://www.proprofs.com/quiz-school/story.php?title=anatomy-physiology-blood-quiz-ch16"
+    ],
+    "timestamp": "2026-08-28T16:11:07.413910",
+    "status": "results_found"
+  },
+  {
+    "business": "KPNG",
+    "field": "Email Address",
+    "value": "johndoe@cincinnatilibrary.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.proprofs.com/quiz-school/story.php?title=basic-computer-skills-assessment",
+    "timestamp": "2026-08-28T16:11:12.090027"
+  },
+  {
+    "seller": "KPNG",
+    "field": "PAN",
+    "query": "KPNG PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/04AAKFK8108R1ZS/",
+      "https://gstpan.com/gst/06AAKFK8108R1ZO-kpmg-india-services-llp",
+      "https://gstserver.com/gst/06AAKFK8108R1ZO/",
+      "https://www.knowyourgst.com/gst-number-search/kpmg-india-services-llp-27AAKFK8108R1ZK/"
+    ],
+    "timestamp": "2026-08-28T16:11:24.218297",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "GST",
+    "query": "KPNG GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.speedtest.net/",
+      "https://www.speedtest.net/run",
+      "https://www.ookla.com/",
+      "https://www.ookla.com/consumer"
+    ],
+    "timestamp": "2026-08-28T16:11:26.387448",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "GST",
+    "query": "KPNG GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://thetechgorilla.com/how-to-get-help-in-windows-11/",
+      "https://mspoweruser.com/how-to-get-help-in-windows-11/"
+    ],
+    "timestamp": "2026-08-28T16:11:39.035614",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "Owner",
+    "query": "KPNG director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-08-28T16:11:44.137767",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "Owner",
+    "query": "KPNG founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://kpmg.com/xx/en/about/our-history.html",
+      "https://kpmg.com/lv/en/about/governance/our-history.html",
+      "https://assets.kpmg.com/content/dam/kpmg/pdf/2015/09/History-Who-were-K-P-M-G.pdf",
+      "https://businessesmodel.com/kpmg-origin-country-ceo-founder-owner/"
+    ],
+    "timestamp": "2026-08-28T16:11:52.043662",
+    "status": "results_found"
+  },
+  {
+    "seller": "KPNG",
+    "field": "Address",
+    "query": "KPNG registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T16:12:02.849069",
+    "status": "no_results"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B083C6XMKQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T16:12:04.378408"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-28T16:12:06.078927",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-28T16:12:08.646176"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-28T16:12:09.866274"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:12:15.096263",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-28T16:12:20.482077"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:12:25.736548",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:12:33.110577",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:12:41.945509",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:12:47.697130",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:12:58.764517",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:13:02.104388",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:13:08.849186",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:13:16.170697",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T16:13:28.062908",
+    "status": "results_found"
+  }
+]

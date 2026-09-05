@@ -1,0 +1,61 @@
+{
+  "category": "Discus Throw",
+  "records_before_save": 7,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "NATSPO",
+      "database_id": 524,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912202200334",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.natspo.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SG FIITNESS ZONE",
+      "database_id": 525,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RR Creations",
+      "database_id": 526,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915623555251",
+      "email": "rrcreationsdhule@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.rrcreations.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Kingsmen Line\u00ae",
+      "database_id": 527,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "09AAECK0077C1ZT",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+[
+  {
+    "business": "AT Retail Corp",
+    "field": "Business Name",
+    "value": "AT Retail Corp",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1I6F6168CKCC7&asin=B0C3HRWRBF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T18:24:33.285872"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "Website",
+    "query": "AT Retail Corp official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/"
+    ],
+    "timestamp": "2026-09-05T18:24:35.196032",
+    "status": "results_found"
+  },
+  {
+    "business": "AT Retail Corp",
+    "field": "Website URL",
+    "value": "https://www.commercengine.io/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+    "timestamp": "2026-09-05T18:24:36.693705"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "Legal Entity Name",
+    "query": "AT Retail Corp company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/",
+      "https://www.shopify.com/blog/what-is-retail"
+    ],
+    "timestamp": "2026-09-05T18:24:41.455865",
+    "status": "results_found"
+  },
+  {
+    "business": "AT Retail Corp",
+    "field": "Phone Number",
+    "value": "+918655203543",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+    "timestamp": "2026-09-05T18:24:43.762800"
+  },
+  {
+    "business": "AT Retail Corp",
+    "field": "Email Address",
+    "value": "sales@ithinklogistics.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+    "timestamp": "2026-09-05T18:24:43.763634"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "Legal Entity Name",
+    "query": "AT Retail Corp Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/",
+      "https://www.shopify.com/blog/what-is-retail"
+    ],
+    "timestamp": "2026-09-05T18:24:48.688622",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "PAN",
+    "query": "AT Retail Corp PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/",
+      "https://www.shopify.com/blog/what-is-retail"
+    ],
+    "timestamp": "2026-09-05T18:24:57.372099",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "PAN",
+    "query": "AT Retail Corp PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/"
+    ],
+    "timestamp": "2026-09-05T18:25:02.089226",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "GST",
+    "query": "AT Retail Corp GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/step-by-step-guide-to-gst-registration-for-businesses",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-05T18:25:09.072153",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "GST",
+    "query": "AT Retail Corp GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-05T18:25:26.370755",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "Owner",
+    "query": "AT Retail Corp director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/",
+      "https://www.shopify.com/blog/what-is-retail"
+    ],
+    "timestamp": "2026-09-05T18:25:29.938069",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "Owner",
+    "query": "AT Retail Corp founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/",
+      "https://www.shopify.com/blog/what-is-retail"
+    ],
+    "timestamp": "2026-09-05T18:25:34.981321",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "Address",
+    "query": "AT Retail Corp registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/",
+      "https://www.shopify.com/blog/what-is-retail"
+    ],
+    "timestamp": "2026-09-05T18:25:42.819110",
+    "status": "results_found"
+  },
+  {
+    "seller": "AT Retail Corp",
+    "field": "Address",
+    "query": "AT Retail Corp registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.commercengine.io/blog/what-is-retail-definition-examples-and-business-models",
+      "https://www.ithinklogistics.com/blog/what-is-retail-exploring-the-definition-functions-and-trends/",
+      "https://relianceretail.com/",
+      "https://www.shopify.com/blog/what-is-retail"
+    ],
+    "timestamp": "2026-09-05T18:25:49.425779",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1WYWER0W24N8S&isAmazonFulfilled=1&asin=B0BL3HKT5H&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-05T18:25:56.667830"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-09-05T18:25:58.425369",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-09-05T18:26:17.238608",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-05T18:26:20.223384"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "37AAJCC8517E1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-05T18:26:22.645665"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-05T18:26:22.645676"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-05T18:26:22.649491"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-05T18:26:22.649498"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-05T18:26:22.649501"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-05T18:26:22.649503"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/"
+    ],
+    "timestamp": "2026-09-05T18:26:25.944464",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-09-05T18:26:33.070365",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-09-05T18:26:41.831076",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-09-05T18:26:48.089394",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-09-05T18:26:54.696127",
+    "status": "results_found"
+  }
+]

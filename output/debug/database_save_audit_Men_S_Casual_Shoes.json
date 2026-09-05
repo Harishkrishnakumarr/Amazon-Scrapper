@@ -1,0 +1,61 @@
+{
+  "category": "Men'S Casual Shoes",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1312,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BansalEnterprises",
+      "database_id": 1313,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919810924788",
+      "email": "sales@bansalenterprises.co.in",
+      "gst": "29APCPP2089P1Z3",
+      "pan": "APCPP2089P",
+      "website": "https://www.bansalenterprises.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "APPOO TRADING",
+      "database_id": 1314,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "trading21@gmail.com",
+      "gst": "27AARCA2622A1Z1",
+      "pan": "AARCA2622A",
+      "website": "https://www.falconebiz.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RELAXO FOOTWEARS LIMITED",
+      "database_id": 1315,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@relaxofootwear.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://relaxofootwear.com/",
+      "status": "Verified"
+    }
+  ]
+}

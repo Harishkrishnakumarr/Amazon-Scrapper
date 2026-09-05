@@ -1,0 +1,74 @@
+{
+  "category": "Beverage Warmers",
+  "records_before_save": 10,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "MYTH HOUSE",
+      "database_id": 1101,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "contact@mythgames.net",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "NEMINATH ENTERPRISE STORE",
+      "database_id": 1102,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "info@companyregistration.direct",
+      "gst": "27CSTPG3089E1ZC",
+      "pan": "CSTPG3089E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ALAKH ENTERPRISE STORE",
+      "database_id": 1103,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917406346660",
+      "email": "alakhgod@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "GALAXY INCORPORATION",
+      "database_id": 1104,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ALLIED SALE\u00ae",
+      "database_id": 1102,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "19AAEFA5442L1ZA",
+      "pan": "AAEFA5442L",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

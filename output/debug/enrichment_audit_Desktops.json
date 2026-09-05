@@ -1,0 +1,591 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0H8P74ZK3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:03:22.134040"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T13:03:29.183866",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T13:03:33.106120"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T13:03:34.319444"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:03:41.298229",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company%20online&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company%20online&target_name=kwd-83769913535101:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company%20online&msclkid=7bd9758f7f111602f43e1f01e816d7cf",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-gstin-21AAJCC9783E1ZJ"
+    ],
+    "timestamp": "2026-08-26T13:04:32.274627",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:04:33.791273",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T13:05:22.938233",
+    "status": "no_results"
+  },
+  {
+    "business": "Gupta Computer Care",
+    "field": "Business Name",
+    "value": "Gupta Computer Care",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2C5GGIOO41BBI&asin=B0F5NVZ3WS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:05:24.003569"
+  },
+  {
+    "seller": "Gupta Computer Care",
+    "field": "Website",
+    "query": "Gupta Computer Care official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://guptacomputercare.com/",
+      "https://guptacomputercare.com/nxtgn-i9"
+    ],
+    "timestamp": "2026-08-26T13:05:33.064063",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gupta Computer Care",
+    "field": "Legal Entity Name",
+    "query": "Gupta Computer Care company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.britannica.com/topic/Gupta-dynasty"
+    ],
+    "timestamp": "2026-08-26T13:05:49.001847",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gupta Computer Care",
+    "field": "Legal Entity Name",
+    "query": "Gupta Computer Care Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.britannica.com/topic/Gupta-dynasty",
+      "https://www.nextias.com/blog/gupta-empire/"
+    ],
+    "timestamp": "2026-08-26T13:05:54.053755",
+    "status": "results_found"
+  },
+  {
+    "business": "Gupta Computer Care",
+    "field": "Phone Number",
+    "value": "+918081300200",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.nextias.com/blog/gupta-empire/",
+    "timestamp": "2026-08-26T13:05:59.165372"
+  },
+  {
+    "business": "Gupta Computer Care",
+    "field": "Email Address",
+    "value": "info@nextias.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.nextias.com/blog/gupta-empire/",
+    "timestamp": "2026-08-26T13:05:59.178873"
+  },
+  {
+    "seller": "Gupta Computer Care",
+    "field": "PAN",
+    "query": "Gupta Computer Care PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://guptacomputercare.com/"
+    ],
+    "timestamp": "2026-08-26T13:06:05.959861",
+    "status": "results_found"
+  },
+  {
+    "business": "Gupta Computer Care",
+    "field": "Billing Address",
+    "value": "gf, h no.7939, arakasha road, paharganj, near gurudwara, central delhi, delhi, 110055",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://guptacomputercare.com/",
+    "timestamp": "2026-08-26T13:06:11.303926"
+  },
+  {
+    "business": "Gupta Computer Care",
+    "field": "City",
+    "value": "central delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://guptacomputercare.com/",
+    "timestamp": "2026-08-26T13:06:11.303943"
+  },
+  {
+    "business": "Gupta Computer Care",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://guptacomputercare.com/",
+    "timestamp": "2026-08-26T13:06:11.303949"
+  },
+  {
+    "business": "Gupta Computer Care",
+    "field": "Pincode",
+    "value": "110055",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://guptacomputercare.com/",
+    "timestamp": "2026-08-26T13:06:11.303953"
+  },
+  {
+    "seller": "Gupta Computer Care",
+    "field": "PAN",
+    "query": "Gupta Computer Care PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/topic/Gupta-dynasty",
+      "https://www.nextias.com/blog/gupta-empire/",
+      "https://vajiramandravi.com/upsc-exam/gupta-empire/",
+      "https://timemaps.com/civilizations/gupta-empire/"
+    ],
+    "timestamp": "2026-08-26T13:06:13.024356",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gupta Computer Care",
+    "field": "GST",
+    "query": "Gupta Computer Care GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/topic/Gupta-dynasty",
+      "https://www.nextias.com/blog/gupta-empire/",
+      "https://vajiramandravi.com/upsc-exam/gupta-empire/",
+      "https://timemaps.com/civilizations/gupta-empire/"
+    ],
+    "timestamp": "2026-08-26T13:06:24.929155",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gupta Computer Care",
+    "field": "Owner",
+    "query": "Gupta Computer Care director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.britannica.com/topic/Gupta-dynasty",
+      "https://www.nextias.com/blog/gupta-empire/",
+      "https://vajiramandravi.com/upsc-exam/gupta-empire/"
+    ],
+    "timestamp": "2026-08-26T13:06:45.351626",
+    "status": "results_found"
+  },
+  {
+    "business": "Anantaum_Tecnico",
+    "field": "Business Name",
+    "value": "Anantaum_Tecnico",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2FLJ1IADNY3OP&asin=B0FRVL5XX2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:07:03.662736"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "Website",
+    "query": "Anantaum_Tecnico official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.companydetails.in/company/anantaum-tecnico-private-limited",
+      "https://mycorporateinfo.com/business/anantaum-tecnico-private-limited"
+    ],
+    "timestamp": "2026-08-26T13:07:12.799285",
+    "status": "results_found"
+  },
+  {
+    "business": "Anantaum_Tecnico",
+    "field": "Website URL",
+    "value": "https://mycorporateinfo.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://mycorporateinfo.com/business/anantaum-tecnico-private-limited",
+    "timestamp": "2026-08-26T13:07:18.234088"
+  },
+  {
+    "business": "Anantaum_Tecnico",
+    "field": "Email Address",
+    "value": "support@mycorporateinfo.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://mycorporateinfo.com/contact-us",
+    "timestamp": "2026-08-26T13:07:24.749691"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "Legal Entity Name",
+    "query": "Anantaum_Tecnico company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bdgest.com/forum/",
+      "https://www.bdgest.com/sorties_comics"
+    ],
+    "timestamp": "2026-08-26T13:07:28.607529",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "Legal Entity Name",
+    "query": "Anantaum_Tecnico Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=8a322efcfc281bd23b9a44726be4ab89&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.instafinancials.com/company/anantaum-tecnico-private-limited-U52100MH2022PTC374603/company-overview",
+      "https://www.companydetails.in/company/anantaum-tecnico-private-limited",
+      "https://www.insiderbiz.in/company/ANANTAUM-TECNICO-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-08-26T13:07:49.518520",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "PAN",
+    "query": "Anantaum_Tecnico PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/anantaum-tecnico-private-limited/__zAmiLWypDpf0tUTsbmMDO-Qz8EWngSVmFftxfYShDYc",
+      "https://www.companydetails.in/company/anantaum-tecnico-private-limited",
+      "https://www.falconebiz.com/company/anantaum-tecnico-private-limited-u52100mh2022ptc374603"
+    ],
+    "timestamp": "2026-08-26T13:07:55.702560",
+    "status": "results_found"
+  },
+  {
+    "business": "Anantaum_Tecnico",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anantaum-tecnico-private-limited/__zAmiLWypDpf0tUTsbmMDO-Qz8EWngSVmFftxfYShDYc",
+    "timestamp": "2026-08-26T13:07:57.119698"
+  },
+  {
+    "business": "Anantaum_Tecnico",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anantaum-tecnico-private-limited/__zAmiLWypDpf0tUTsbmMDO-Qz8EWngSVmFftxfYShDYc",
+    "timestamp": "2026-08-26T13:07:57.119726"
+  },
+  {
+    "business": "Anantaum_Tecnico",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anantaum-tecnico-private-limited/__zAmiLWypDpf0tUTsbmMDO-Qz8EWngSVmFftxfYShDYc",
+    "timestamp": "2026-08-26T13:07:57.119733"
+  },
+  {
+    "business": "Anantaum_Tecnico",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anantaum-tecnico-private-limited/__zAmiLWypDpf0tUTsbmMDO-Qz8EWngSVmFftxfYShDYc",
+    "timestamp": "2026-08-26T13:07:57.119739"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "GST",
+    "query": "Anantaum_Tecnico GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nseindia.com/option-chain",
+      "https://web.sensibull.com/option-chain",
+      "https://groww.in/options/nifty",
+      "https://www.niftytrader.in/nse-option-chain/nifty"
+    ],
+    "timestamp": "2026-08-26T13:08:10.020375",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "Owner",
+    "query": "Anantaum_Tecnico director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/inbox"
+    ],
+    "timestamp": "2026-08-26T13:08:24.884655",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "Owner",
+    "query": "Anantaum_Tecnico founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.shutterstock.com/search/isuzu-car-cartoon?image_type=illustration&msockid=1d1f6fff1e336b3c0054783e1ff26a99",
+      "https://www.shutterstock.com/search/isuzu-car?image_type=illustration&msockid=1d1f6fff1e336b3c0054783e1ff26a99",
+      "https://coloringpagesonly.com/pages/isuzu-coloring-pages"
+    ],
+    "timestamp": "2026-08-26T13:08:33.149665",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "Phone",
+    "query": "Anantaum_Tecnico phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-26T13:08:40.797425",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anantaum_Tecnico",
+    "field": "Phone",
+    "query": "Anantaum_Tecnico contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wotif.com/?msockid=1d1f6fff1e336b3c0054783e1ff26a99",
+      "https://www.trivago.com.au/?msockid=1d1f6fff1e336b3c0054783e1ff26a99",
+      "https://www.airbnb.com.au/",
+      "https://www.booking.com/?msockid=1d1f6fff1e336b3c0054783e1ff26a99"
+    ],
+    "timestamp": "2026-08-26T13:08:46.900891",
+    "status": "results_found"
+  },
+  {
+    "business": "Eskay Engichem",
+    "field": "Business Name",
+    "value": "Eskay Engichem",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2MXU154VUBAWV&asin=B097R8YX7R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T13:09:00.651413"
+  },
+  {
+    "seller": "Eskay Engichem",
+    "field": "Website",
+    "query": "Eskay Engichem official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://app.emergent.sh/landing?utm_adgroup=1320516338360999&matchtype=p&device=c&network=o&msclkid=054e8e7faceb1321b32ee4f134f2c8e4&utm_source=bing&utm_medium=cpc&utm_campaign=Bing_eg_web_search_asia_india_visits_bau_all_brnd_kws_14082025&utm_term=https%20emergent%20sh&utm_content=Branded",
+      "https://www.eskayengichem.com/"
+    ],
+    "timestamp": "2026-08-26T13:09:05.542031",
+    "status": "results_found"
+  },
+  {
+    "business": "Eskay Engichem",
+    "field": "Website URL",
+    "value": "https://www.eskayengichem.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.eskayengichem.com/",
+    "timestamp": "2026-08-26T13:09:06.397919"
+  },
+  {
+    "business": "Eskay Engichem",
+    "field": "Legal Entity Name",
+    "value": "Eskay Engichem Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.eskayengichem.com/",
+    "timestamp": "2026-08-26T13:09:06.937450"
+  },
+  {
+    "business": "Eskay Engichem",
+    "field": "Phone Number",
+    "value": "+919371020676",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.eskayengichem.com/",
+    "timestamp": "2026-08-26T13:09:06.938387"
+  },
+  {
+    "business": "Eskay Engichem",
+    "field": "Email Address",
+    "value": "deepak@eskayengichem.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.eskayengichem.com/",
+    "timestamp": "2026-08-26T13:09:06.938664"
+  },
+  {
+    "seller": "Eskay Engichem",
+    "field": "PAN",
+    "query": "Eskay Engichem Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://github.com/f/prompts.chat"
+    ],
+    "timestamp": "2026-08-26T13:09:11.924921",
+    "status": "results_found"
+  },
+  {
+    "seller": "Eskay Engichem",
+    "field": "PAN",
+    "query": "Eskay Engichem PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AABCE4991Q1ZW/eskay-engichem-private-limited",
+      "https://gst.iadv.io/ESKAY-ENGICHEM-PVT-LTD-27AABCE4991Q1ZW/",
+      "https://tracxn.com/d/legal-entities/india/eskay-engichem-private-limited/__Q20IrSk3hKEfZ9EygM0HZ1OqPbQwD-le7Or1UjmX35k",
+      "https://gstverify.co.in/gst/eskay-engichem-pvt-ltd-27aabce4991q1zw/"
+    ],
+    "timestamp": "2026-08-26T13:09:34.662815",
+    "status": "results_found"
+  },
+  {
+    "seller": "Eskay Engichem",
+    "field": "GST",
+    "query": "Eskay Engichem Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Brand%20registration&target_name=kwd-83976071688702:loc-90&placement=&keyword_id=Brand%20registration&msclkid=2bd53b9869ec1466a3ce5116f1d25839",
+      "https://www.knowyourgst.com/gst-number-search/eskay-engichem-pvt-ltd-27AABCE4991Q1ZW/",
+      "https://gstverify.co.in/gst/eskay-engichem-pvt-ltd-27aabce4991q1zw/",
+      "https://gst.unifers.ai/gst/27AABCE4991Q1ZW/eskay-engichem-private-limited"
+    ],
+    "timestamp": "2026-08-26T13:09:42.717593",
+    "status": "results_found"
+  },
+  {
+    "business": "Eskay Engichem",
+    "field": "GST Number",
+    "value": "27AABCE4991Q1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/eskay-engichem-pvt-ltd-27AABCE4991Q1ZW/",
+    "timestamp": "2026-08-26T13:09:47.551261"
+  },
+  {
+    "business": "Eskay Engichem",
+    "field": "PAN Number",
+    "value": "AABCE4991Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/eskay-engichem-pvt-ltd-27AABCE4991Q1ZW/",
+    "timestamp": "2026-08-26T13:09:47.551282"
+  },
+  {
+    "seller": "Eskay Engichem",
+    "field": "Owner",
+    "query": "Eskay Engichem Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gamesgames.com/",
+      "https://www.gamesgames.com/games",
+      "https://www.gamesgames.com/games/newest?page=1",
+      "https://www.gamesgames.com/games/sports?page=1"
+    ],
+    "timestamp": "2026-08-26T13:09:50.125454",
+    "status": "results_found"
+  },
+  {
+    "seller": "Eskay Engichem",
+    "field": "Address",
+    "query": "Eskay Engichem Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticalsdrugs/sigachiindustries/SIL19",
+      "https://www.screener.in/company/SIGACHI/consolidated/",
+      "https://groww.in/stocks/sigachi-industries-ltd",
+      "https://ticker.finology.in/company/SIGACHI"
+    ],
+    "timestamp": "2026-08-26T13:10:08.843008",
+    "status": "results_found"
+  }
+]

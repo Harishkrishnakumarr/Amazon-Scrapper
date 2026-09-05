@@ -1,0 +1,254 @@
+[
+  {
+    "business": "Frost Clothings",
+    "field": "Business Name",
+    "value": "Frost Clothings",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K7Y7FODK72TS&asin=B0H98M2W9P&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T15:33:05.313739"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Website",
+    "query": "Frost Clothings official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fosh.in/",
+      "https://www.frost-snow.com/"
+    ],
+    "timestamp": "2026-09-02T15:33:07.237112",
+    "status": "results_found"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "Website URL",
+    "value": "https://www.frost-snow.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.frost-snow.com/",
+    "timestamp": "2026-09-02T15:33:14.312700"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Legal Entity Name",
+    "query": "Frost Clothings company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=frost-clothings&gstin=07AAEFF0270H1ZR#:~:text=It%20is%20a%20Partnership%20with%20its%20office%20registered,Active.%20This%20company%20is%20a%20Regular%20taxpayer%20.",
+      "https://www.globalfinreg.com/en/lookup/FROST-CLOTHINGS/India/335800OBTCNLJDYNJW17",
+      "https://www.legalentityidentifier.in/leicert/335800OBTCNLJDYNJW17/",
+      "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17"
+    ],
+    "timestamp": "2026-09-02T15:33:20.996600",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "PAN",
+    "query": "Frost Clothings PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://projects.instafinancials.com/cin-finder/cin-finder-by-name.aspx",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://tincheck.io/india/",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-09-02T15:34:02.033274",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "GST",
+    "query": "Frost Clothings GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=frost-clothings&gstin=27AAEFF0270H1ZP#:~:text=It%20is%20a%20Partnership%20with%20its%20office%20registered,Active.%20This%20company%20is%20a%20Regular%20taxpayer%20.",
+      "https://piceapp.com/gst-number-search/frost-clothings-06aaeff0270h1zt/",
+      "https://www.mastersindia.co/gst-search/?name=frost-clothings&gstin=27AAEFF0270H1ZP",
+      "https://piceapp.com/gst-number-search/frost-clothings-29aaeff0270h2zk/"
+    ],
+    "timestamp": "2026-09-02T15:34:04.760740",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Owner",
+    "query": "Frost Clothings director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.frostcollective.com/#:~:text=Our%20Founder%2C%20CEO%20and%20ECD%2C%20Vince%20Frost%2C%20has,book%20titled%20%E2%80%98The%20Covert%20Life%20of%20Hospital%20Architecture%E2%80%99.",
+      "https://www.frostcollective.com/",
+      "https://qorpiq.com/company/frost-international-limited/U05001MH1995PLC243081",
+      "https://compworth.com/company/frost"
+    ],
+    "timestamp": "2026-09-02T15:34:27.583811",
+    "status": "results_found"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "Email Address",
+    "value": "hello@frostcollective.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.frostcollective.com/",
+    "timestamp": "2026-09-02T15:34:36.081887"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Address",
+    "query": "Frost Clothings registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17#:~:text=The%20address%20is%20GROUND%20AND%20FIRST%20FLOOR%2C%20E-67%2C%2C,SECTOR-7%2C%20NOIDA%2C%20GAUTAMBUDDHA%20NAGAR%2C%20Noida%2C%20IN-UP%2C%20201301%2C%20IN.",
+      "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17",
+      "https://www.globalfinreg.com/en/lookup/FROST-CLOTHINGS/India/335800OBTCNLJDYNJW17",
+      "https://www.legalentityidentifier.in/leicert/335800OBTCNLJDYNJW17/"
+    ],
+    "timestamp": "2026-09-02T15:34:38.709063",
+    "status": "results_found"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "GST Number",
+    "value": "09AAEFF0270H1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17#:~:text=The%20address%20is%20GROUND%20AND%20FIRST%20FLOOR%2C%20E-67%2C%2C,SECTOR-7%2C%20NOIDA%2C%20GAUTAMBUDDHA%20NAGAR%2C%20Noida%2C%20IN-UP%2C%20201301%2C%20IN.",
+    "timestamp": "2026-09-02T15:34:44.348822"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "PAN Number",
+    "value": "AAEFF0270H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17#:~:text=The%20address%20is%20GROUND%20AND%20FIRST%20FLOOR%2C%20E-67%2C%2C,SECTOR-7%2C%20NOIDA%2C%20GAUTAMBUDDHA%20NAGAR%2C%20Noida%2C%20IN-UP%2C%20201301%2C%20IN.",
+    "timestamp": "2026-09-02T15:34:44.348847"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "Billing Address",
+    "value": "ground and first floor, e-67, sector-7, noida, gautambuddha nagar, noida, in-up, 201301, in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17#:~:text=The%20address%20is%20GROUND%20AND%20FIRST%20FLOOR%2C%20E-67%2C%2C,SECTOR-7%2C%20NOIDA%2C%20GAUTAMBUDDHA%20NAGAR%2C%20Noida%2C%20IN-UP%2C%20201301%2C%20IN.",
+    "timestamp": "2026-09-02T15:34:44.358896"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "City",
+    "value": "in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17#:~:text=The%20address%20is%20GROUND%20AND%20FIRST%20FLOOR%2C%20E-67%2C%2C,SECTOR-7%2C%20NOIDA%2C%20GAUTAMBUDDHA%20NAGAR%2C%20Noida%2C%20IN-UP%2C%20201301%2C%20IN.",
+    "timestamp": "2026-09-02T15:34:44.358912"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "Pincode",
+    "value": "201301",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/335800OBTCNLJDYNJW17#:~:text=The%20address%20is%20GROUND%20AND%20FIRST%20FLOOR%2C%20E-67%2C%2C,SECTOR-7%2C%20NOIDA%2C%20GAUTAMBUDDHA%20NAGAR%2C%20Noida%2C%20IN-UP%2C%20201301%2C%20IN.",
+    "timestamp": "2026-09-02T15:34:44.358918"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Phone",
+    "query": "Frost Clothings phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.frostbank.com/support-contact",
+      "https://frost-bank.pissedconsumer.com/customer-service.html",
+      "https://frostbuddy.com/pages/contact-us",
+      "https://www.pissedconsumer.com/company/frost-buddy/customer-service.html"
+    ],
+    "timestamp": "2026-09-02T15:34:47.811843",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0CSYW3V47&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T15:35:14.580863"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T15:35:24.925875",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-09-02T15:36:09.746446",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T15:36:28.896125",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T15:36:42.415674",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T15:37:16.012333",
+    "status": "no_results"
+  }
+]

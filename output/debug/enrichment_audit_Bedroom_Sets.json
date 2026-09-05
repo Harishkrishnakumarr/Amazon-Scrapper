@@ -1,0 +1,392 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0GVPJ3HZJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T20:27:40.867010"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home",
+      "https://us.etrade.com/etx/hw/v2/accountshome?cnt=header_logon_startin_accounts"
+    ],
+    "timestamp": "2026-09-05T20:27:45.528260",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home",
+    "timestamp": "2026-09-05T20:28:17.657924"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications",
+      "https://express.etrade.com/etx/rtao/ma/account-types/brokerage/individual",
+      "https://us.etrade.com/e/t/accounts/sccreatemsg",
+      "https://us.etrade.com/etx/mm/fundingcenter/link-account"
+    ],
+    "timestamp": "2026-09-05T20:28:29.988005",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.discoverhongkong.com/tc/attractions/hong-kong-after-dark.html",
+      "https://gofunit.com/%E9%A6%99%E6%B8%AF%E5%A4%9C%E6%99%AF/",
+      "https://holidaysmart.io/hk/article/458339/%E9%A6%99%E6%B8%AF%E5%A4%9C%E6%99%AF%E9%81%8A%E8%BB%8A%E6%B2%B3",
+      "https://www.klook.com/zh-HK/blog/%E9%A6%99%E6%B8%AF-%E5%A4%9C%E6%99%AF/?msockid=3f1cfa1db7a16dea03c7edd6b6996cbe"
+    ],
+    "timestamp": "2026-09-05T20:28:44.082332",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/frequently-asked-questions/account-info",
+      "https://us.etrade.com/frequently-asked-questions/account-features",
+      "https://us.etrade.com/frequently-asked-questions/open-an-account",
+      "https://us.etrade.com/frequently-asked-questions/investing-trading"
+    ],
+    "timestamp": "2026-09-05T20:28:58.577401",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.donanimhaber.com/adolescence-2025-netflix--160804556",
+      "https://forum.donanimhaber.com/netflix-3d--136910569",
+      "https://forum.donanimhaber.com/samsung-smart-tv-netflix-uygulamasi-baglanti-problemi-ve-cozumu--121113154",
+      "https://forum.donanimhaber.com/netflix-exxen-blutv-diger-dizi-film-canli-tv-mac-uygulamasi--148030808"
+    ],
+    "timestamp": "2026-09-05T20:29:00.027519",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timeanddate.com/calendar/?year=2026&country=35",
+      "https://www.bhartiyacalendar.com/indian-calendar-2026-holidays-festivals",
+      "https://www.calendarr.com/india/calendar-2026/",
+      "https://www.timeanddate.com/calendar/"
+    ],
+    "timestamp": "2026-09-05T20:29:08.902213",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+917033547397",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.bhartiyacalendar.com/indian-calendar-2026-holidays-festivals",
+    "timestamp": "2026-09-05T20:29:11.131138"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "info@bhartiyacalendar.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.bhartiyacalendar.com/indian-calendar-2026-holidays-festivals",
+    "timestamp": "2026-09-05T20:29:11.131479"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-09-05T20:29:15.652624",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blacktv22.com/",
+      "https://jusosearch.com/site_detail.php?slug=%EB%B8%94%EB%9E%99%ED%8B%B0%EB%B9%84",
+      "https://www.blacktv88.biz/",
+      "https://moalink.net/site/%EB%B8%94%EB%9E%99%ED%8B%B0%EB%B9%84"
+    ],
+    "timestamp": "2026-09-05T20:29:19.179641",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.elecfans.com/analog/202402152368837.html",
+      "https://wenku.csdn.net/doc/1btytm1hig",
+      "https://wenku.csdn.net/doc/5g621p9eqx",
+      "http://peckerhome.com:8/new2007a/Article/ArticleShow.asp?ArticleID=2478"
+    ],
+    "timestamp": "2026-09-05T20:29:28.117684",
+    "status": "results_found"
+  },
+  {
+    "business": "RK Wooden Arts",
+    "field": "Business Name",
+    "value": "RK Wooden Arts",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2WQZ0Q0T36C5B&asin=B0F26K6W87&ref_=dp_merchant_link",
+    "timestamp": "2026-09-05T20:29:42.969744"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Website",
+    "query": "RK Wooden Arts official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:29:44.482114",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Legal Entity Name",
+    "query": "RK Wooden Arts company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:29:53.187270",
+    "status": "results_found"
+  },
+  {
+    "business": "RK Wooden Arts",
+    "field": "Email Address",
+    "value": "support@rkgaming.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkgamingstore.com/",
+    "timestamp": "2026-09-05T20:29:54.959899"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Legal Entity Name",
+    "query": "RK Wooden Arts Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:05.684317",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "PAN",
+    "query": "RK Wooden Arts PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:09.183868",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "PAN",
+    "query": "RK Wooden Arts PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:17.161401",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "GST",
+    "query": "RK Wooden Arts GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:24.697195",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "GST",
+    "query": "RK Wooden Arts GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:32.202946",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Owner",
+    "query": "RK Wooden Arts director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:39.864872",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Owner",
+    "query": "RK Wooden Arts founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:47.966003",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Address",
+    "query": "RK Wooden Arts registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:30:56.059059",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Address",
+    "query": "RK Wooden Arts registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/"
+    ],
+    "timestamp": "2026-09-05T20:31:04.065480",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK Wooden Arts",
+    "field": "Phone",
+    "query": "RK Wooden Arts phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkwoodart.com/",
+      "https://www.sellerratings.com/amazon/india/rk-wooden-arts",
+      "https://www.dialmenow.in/Udaipur/Delhi-Gate/RK-Wooden-Arts-contact-details/134337",
+      "https://www.grotal.com/Udaipur/RK-Wooden-Arts-C128/"
+    ],
+    "timestamp": "2026-09-05T20:31:13.408031",
+    "status": "results_found"
+  },
+  {
+    "business": "RK Wooden Arts",
+    "field": "Phone Number",
+    "value": "+919321981806",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkwoodart.com/",
+    "timestamp": "2026-09-05T20:31:17.203014"
+  },
+  {
+    "business": "RK Wooden Arts",
+    "field": "GST Number",
+    "value": "27AEOPN1632D1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkwoodart.com/",
+    "timestamp": "2026-09-05T20:31:17.203138"
+  },
+  {
+    "business": "RK Wooden Arts",
+    "field": "PAN Number",
+    "value": "AEOPN1632D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkwoodart.com/",
+    "timestamp": "2026-09-05T20:31:17.203144"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "category": "Spares, Tools And Maintenance Service Parts",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Ekantik Creation",
+      "database_id": 929,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "services@cna.com.tw",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://ekantik.co.tz/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Trending Retail",
+      "database_id": 930,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "NALINISHUBHRA RETAIL",
+      "database_id": 931,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ffice07@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SABMILJAYEGA",
+      "database_id": 932,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "27AEMFS8343E1ZO",
+      "pan": "AEMFS8343E",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

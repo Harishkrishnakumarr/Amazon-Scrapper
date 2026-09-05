@@ -1,0 +1,1210 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B096ZHRX5W&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T21:50:05.237936"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-02T21:50:06.819895",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-02T21:50:11.030101",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T21:50:11.820785"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T21:50:11.820793"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T21:50:11.820796"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T21:50:11.820798"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-02T21:50:13.293332"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T21:50:16.447607",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-02T21:50:18.141657"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-02T21:50:18.141671"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:50:18.615148"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-02T21:50:19.967698",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://www.moneycontrol.com/news/business/markets/qimat-rai-gupta-havells-story-school-teacher-who-built-rs-80000-crore-electrical-products-busines-14002008.html",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM"
+    ],
+    "timestamp": "2026-09-02T21:50:24.015522",
+    "status": "results_found"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "Business Name",
+    "value": "MIHIR TRADERS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2G7I0Z23XMH1E&asin=B0FQJGMP9B&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T21:50:28.010623"
+  },
+  {
+    "seller": "MIHIR TRADERS",
+    "field": "Website",
+    "query": "MIHIR TRADERS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.metatrader5.com/",
+      "https://maps.google.co.in/mapfiles/home3.html"
+    ],
+    "timestamp": "2026-09-02T21:50:29.285006",
+    "status": "results_found"
+  },
+  {
+    "seller": "MIHIR TRADERS",
+    "field": "Legal Entity Name",
+    "query": "MIHIR TRADERS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.spikeguardindia.in/profile.html",
+      "https://udyamsearch.com/",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2"
+    ],
+    "timestamp": "2026-09-02T21:50:45.105172",
+    "status": "results_found"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:50:45.626729"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:50:45.626901"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "GST Number",
+    "value": "27AGVPS6817J1ZG",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.spikeguardindia.in/profile.html",
+    "timestamp": "2026-09-02T21:50:47.779555"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "PAN Number",
+    "value": "AGVPS6817J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.spikeguardindia.in/profile.html",
+    "timestamp": "2026-09-02T21:50:47.779564"
+  },
+  {
+    "seller": "MIHIR TRADERS",
+    "field": "Legal Entity Name",
+    "query": "MIHIR TRADERS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://qorpiq.com/company/meher-traders-private-limited/U51909MH2022PTC376553",
+      "https://npifund.com/article/steps-to-check-company-registration-status-on-mca",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2"
+    ],
+    "timestamp": "2026-09-02T21:50:52.496526",
+    "status": "results_found"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "Billing Address",
+    "value": "off-319, gemstar commercial complex, ramchandra lane extn rd, malad west, malad, malad west, mumbai, maharashtra, 400064",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/meher-traders-private-limited/U51909MH2022PTC376553",
+    "timestamp": "2026-09-02T21:50:55.155716"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/meher-traders-private-limited/U51909MH2022PTC376553",
+    "timestamp": "2026-09-02T21:50:55.155724"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/meher-traders-private-limited/U51909MH2022PTC376553",
+    "timestamp": "2026-09-02T21:50:55.155726"
+  },
+  {
+    "business": "MIHIR TRADERS",
+    "field": "Pincode",
+    "value": "400064",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/meher-traders-private-limited/U51909MH2022PTC376553",
+    "timestamp": "2026-09-02T21:50:55.155728"
+  },
+  {
+    "seller": "MIHIR TRADERS",
+    "field": "Owner",
+    "query": "MIHIR TRADERS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/director/mihir-pratap-vasa/06984244",
+      "https://www.tice.news/tice-dispatch/meet-mihir-kumar-gems-new-ceo-as-platform-hits-54-lakh-cr-gmv-9001312",
+      "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/ahmedabad-fraud-case-mhir-parikh-arrested-rs-26-crore-scam-137817116.html",
+      "https://www.marketscreener.com/insider/MIHIR-PAREKH-A2AXFB/"
+    ],
+    "timestamp": "2026-09-02T21:50:57.524094",
+    "status": "results_found"
+  },
+  {
+    "seller": "MIHIR TRADERS",
+    "field": "Owner",
+    "query": "MIHIR TRADERS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/director/mihir-pratap-vasa/06984244",
+      "https://in.marketscreener.com/insider/MIHIR-SHAH-A25OEL/",
+      "https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/ahmedabad-fraud-case-mhir-parikh-arrested-rs-26-crore-scam-137817116.html",
+      "https://appreciatewealth.com/blog/top-traders-in-india"
+    ],
+    "timestamp": "2026-09-02T21:51:03.614899",
+    "status": "results_found"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "Business Name",
+    "value": "Gtc-International",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2QBTY8JU7J40P&asin=B0FMXS619L&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T21:51:08.039991"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Website",
+    "query": "Gtc-International official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://gtc-international.squarespace.com/",
+      "https://www.gtc.co/"
+    ],
+    "timestamp": "2026-09-02T21:51:09.353334",
+    "status": "results_found"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "Website URL",
+    "value": "https://www.gtcinternational.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.gtcinternational.com/",
+    "timestamp": "2026-09-02T21:51:13.751732"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "Email Address",
+    "value": "info@gtcinternational.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.gtcinternational.com/",
+    "timestamp": "2026-09-02T21:51:14.432207"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Legal Entity Name",
+    "query": "Gtc-International company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/GTC-INTERNATIONAL-PRIVATE-LIMITED-U46630KL2024PTC091053#:~:text=GTC%20INTERNATIONAL%20PVT%20LTD%20company%20registration%20number%20is,No.op2%2F620a%2Cnadammal%2C%20Puthoor%2C%20Omasseri%2C%20Kozhikode%2C%20Kozhikode%2C%20Kerala%2C%20India%2C%20673582",
+      "https://www.falconebiz.com/company/GTC-INTERNATIONAL-PRIVATE-LIMITED-U46630KL2024PTC091053",
+      "https://www.indiafilings.com/search/gtc-international-private-limited-cin-U46630KL2024PTC091053",
+      "https://www.thecompanycheck.com/company/gtc-international-private-limited/U46630KL2024PTC091053"
+    ],
+    "timestamp": "2026-09-02T21:51:18.023639",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Legal Entity Name",
+    "query": "Gtc-International Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/gtc-international-private-limited-cin-U46630KL2024PTC091053",
+      "https://www.falconebiz.com/company/GTC-INTERNATIONAL-PRIVATE-LIMITED-U46630KL2024PTC091053",
+      "https://qorpiq.com/company/gtc-international-private-limited/U46630KL2024PTC091053",
+      "https://www.thecompanycheck.com/company/gtc-international-private-limited/U46630KL2024PTC091053"
+    ],
+    "timestamp": "2026-09-02T21:51:26.992348",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "PAN",
+    "query": "Gtc-International PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/gtc-international-32aarfg4048f1zg/",
+      "https://www.travel.dod.mil/Programs/Government-Travel-Charge-Card/Cardholders/",
+      "https://www.travel.dod.mil/Programs/Government-Travel-Charge-Card/",
+      "https://www.knowyourgst.com/gst-number-search/gtc-international-03FVIPK3414G1ZV/"
+    ],
+    "timestamp": "2026-09-02T21:51:51.646185",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "GST",
+    "query": "Gtc-International GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/gtc-international-32aarfg4048f1zg/#:~:text=GSTIN%2032AARFG4048F1ZG%20was%20registered%20on%2028%20Aug%202017.,Partnership.%20Nature%20of%20Business%3A%20Retail%20Business%2C%20Wholesale%20Business.",
+      "https://gstverify.co.in/gst/gtc-international-32aarfg4048f1zg/",
+      "https://www.knowyourgst.com/gst-number-search/gtc-international-03FVIPK3414G1ZV/",
+      "https://www.thecompanycheck.com/company/gtc-international-private-limited/U46630KL2024PTC091053"
+    ],
+    "timestamp": "2026-09-02T21:51:53.366827",
+    "status": "results_found"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "GST Number",
+    "value": "03FVIPK3414G1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gtc-international-03FVIPK3414G1ZV/",
+    "timestamp": "2026-09-02T21:51:57.113413"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "PAN Number",
+    "value": "FVIPK3414G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gtc-international-03FVIPK3414G1ZV/",
+    "timestamp": "2026-09-02T21:51:57.113422"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Owner",
+    "query": "Gtc-International director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/GTC-INTERNATIONAL-PRIVATE-LIMITED-U46630KL2024PTC091053",
+      "https://www.thecompanycheck.com/company/gtc-international-private-limited/U46630KL2024PTC091053",
+      "https://www.indiafilings.com/search/gtc-international-private-limited-cin-U46630KL2024PTC091053",
+      "https://rabindranarayan.com/"
+    ],
+    "timestamp": "2026-09-02T21:51:58.596857",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Owner",
+    "query": "Gtc-International founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gtc-international.squarespace.com/",
+      "https://gtcgroupinternational.com/",
+      "https://gtcgroupinternational.com/team-gtc/",
+      "https://gtccorp.in/founders/"
+    ],
+    "timestamp": "2026-09-02T21:52:03.559869",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Address",
+    "query": "Gtc-International registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/GTC-INTERNATIONAL-PRIVATE-LIMITED-U46630KL2024PTC091053",
+      "https://tracxn.com/d/legal-entities/india/gtc-international-private-limited/__HN2_g7c9itjezgLrcvK1fy7LpB6AW41ZEvoJcJ6WhZ8",
+      "https://www.thecompanycheck.com/company/gtc-international-private-limited/U46630KL2024PTC091053",
+      "https://www.indiafilings.com/search/gtc-international-private-limited-cin-U46630KL2024PTC091053"
+    ],
+    "timestamp": "2026-09-02T21:52:11.486179",
+    "status": "results_found"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/gtc-international-private-limited/__HN2_g7c9itjezgLrcvK1fy7LpB6AW41ZEvoJcJ6WhZ8",
+    "timestamp": "2026-09-02T21:52:12.625936"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/gtc-international-private-limited/__HN2_g7c9itjezgLrcvK1fy7LpB6AW41ZEvoJcJ6WhZ8",
+    "timestamp": "2026-09-02T21:52:12.625953"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/gtc-international-private-limited/__HN2_g7c9itjezgLrcvK1fy7LpB6AW41ZEvoJcJ6WhZ8",
+    "timestamp": "2026-09-02T21:52:12.625957"
+  },
+  {
+    "business": "Gtc-International",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/gtc-international-private-limited/__HN2_g7c9itjezgLrcvK1fy7LpB6AW41ZEvoJcJ6WhZ8",
+    "timestamp": "2026-09-02T21:52:12.625960"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Phone",
+    "query": "Gtc-International phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://services.citi.com/contact-us",
+      "https://gtc.co.uk/pages/contact-us",
+      "https://gtc-forex.co.in/contact-us-gtcfx/",
+      "https://www.travel.dod.mil/Support/"
+    ],
+    "timestamp": "2026-09-02T21:52:14.000313",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gtc-International",
+    "field": "Phone",
+    "query": "Gtc-International contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gtc-forex.co.in/contact-us-gtcfx/",
+      "https://www.gtcgroup.co.in/contact/",
+      "https://gtc-international.squarespace.com/",
+      "https://gtc.co.uk/pages/contact-us"
+    ],
+    "timestamp": "2026-09-02T21:52:22.741167",
+    "status": "results_found"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "Business Name",
+    "value": "Sports Fun",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A8ERAP0EG3697&isAmazonFulfilled=1&asin=B0785HFPWM&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T21:52:28.456335"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "Website",
+    "query": "Sports Fun official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sport.fun/",
+      "https://sportsfun.co.uk/"
+    ],
+    "timestamp": "2026-09-02T21:52:29.682709",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "Legal Entity Name",
+    "query": "Sports Fun company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T21:53:14.703064",
+    "status": "no_results"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "PAN",
+    "query": "Sports Fun PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T21:53:15.223391",
+    "status": "no_results"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "PAN",
+    "query": "Sports Fun PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T21:53:15.905748",
+    "status": "no_results"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "GST",
+    "query": "Sports Fun GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T21:53:16.420707",
+    "status": "no_results"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "GST",
+    "query": "Sports Fun GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/krishman-fun-sports-private-limited-27aaeck9150e1zj/",
+      "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://www.indiafilings.com/learn/hsn-code-and-gst-rate-for-toys-games-sports-and-related-parts"
+    ],
+    "timestamp": "2026-09-02T21:53:17.796647",
+    "status": "results_found"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.523079"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.523699"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "GST Number",
+    "value": "09JSIPS8096H1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.524206"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "PAN Number",
+    "value": "JSIPS8096H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.524210"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.525731"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.525734"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.525736"
+  },
+  {
+    "business": "Sports Fun",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/sports-hub-09jsips8096h1zn/",
+    "timestamp": "2026-09-02T21:53:19.525738"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "Owner",
+    "query": "Sports Fun director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.crunchbase.com/person/adam-mcintee",
+      "https://www.irec.asia/bengaluru/sumit-santhalia.php",
+      "https://www.crunchbase.com/person/sabari-karthik"
+    ],
+    "timestamp": "2026-09-02T21:53:20.979314",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sports Fun",
+    "field": "Owner",
+    "query": "Sports Fun founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://docs.sport.fun/usdfun-token/whitepaper/team",
+      "https://www.sport.fun/",
+      "https://www.crunchbase.com/person/adam-mcintee",
+      "https://founders.football.fun/"
+    ],
+    "timestamp": "2026-09-02T21:53:28.855451",
+    "status": "results_found"
+  },
+  {
+    "business": "Gurfateh Trading Company",
+    "field": "Business Name",
+    "value": "Gurfateh Trading Company",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AVURL67KUFR03&asin=B0FN7M4CM8&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T21:53:36.583566"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Website",
+    "query": "Gurfateh Trading Company official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_company.9449b761e6853b5d5b86e77079346b54.html",
+      "https://www.tradeindia.com/gurfateh-trading-company-12216963/"
+    ],
+    "timestamp": "2026-09-02T21:53:38.104313",
+    "status": "results_found"
+  },
+  {
+    "business": "Gurfateh Trading Company",
+    "field": "Website URL",
+    "value": "https://www.tradeindia.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.tradeindia.com/gurfateh-trading-company-12216963/",
+    "timestamp": "2026-09-02T21:53:41.178658"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Legal Entity Name",
+    "query": "Gurfateh Trading Company company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/",
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-company-03CNEPS3807G1Z5/",
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_company.9449b761e6853b5d5b86e77079346b54.html",
+      "https://www.tradeindia.com/gurfateh-trading-company-12216963/"
+    ],
+    "timestamp": "2026-09-02T21:53:45.607871",
+    "status": "results_found"
+  },
+  {
+    "business": "Gurfateh Trading Company",
+    "field": "GST Number",
+    "value": "03CKKPS0433H2ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/",
+    "timestamp": "2026-09-02T21:53:47.952755"
+  },
+  {
+    "business": "Gurfateh Trading Company",
+    "field": "PAN Number",
+    "value": "CKKPS0433H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/",
+    "timestamp": "2026-09-02T21:53:47.952763"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Legal Entity Name",
+    "query": "Gurfateh Trading Company Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/",
+      "https://fliarbi.com/company/gurfateh-trading-company/129319/i",
+      "https://www.inspex.in/",
+      "https://www.falconebiz.com/company/GURFATEH-ENTERPRISES-PRIVATE-LIMITED-U82990PB2025PTC064908"
+    ],
+    "timestamp": "2026-09-02T21:53:52.215850",
+    "status": "results_found"
+  },
+  {
+    "business": "Gurfateh Trading Company",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:53:55.510872"
+  },
+  {
+    "business": "Gurfateh Trading Company",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:53:55.511040"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Owner",
+    "query": "Gurfateh Trading Company director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_company.9449b761e6853b5d5b86e77079346b54.html",
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_co.81b981153cda63d2c4b28ae39ab7ee2d.html",
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/",
+      "https://open.endole.co.uk/insight/people/31088790-avneet-kaur-duley"
+    ],
+    "timestamp": "2026-09-02T21:53:57.783921",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Owner",
+    "query": "Gurfateh Trading Company founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_company.9449b761e6853b5d5b86e77079346b54.html",
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_co.81b981153cda63d2c4b28ae39ab7ee2d.html",
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/",
+      "https://www.tradeindia.com/gurfateh-trading-company-12216963/"
+    ],
+    "timestamp": "2026-09-02T21:54:05.633912",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Address",
+    "query": "Gurfateh Trading Company registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_company.9449b761e6853b5d5b86e77079346b54.html",
+      "https://www.tradeindia.com/gurfateh-trading-company-12216963/",
+      "https://fliarbi.com/company/gurfateh-trading-company/129319/i",
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-company-03CNEPS3807G1Z5/"
+    ],
+    "timestamp": "2026-09-02T21:54:11.101561",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Address",
+    "query": "Gurfateh Trading Company registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_company.9449b761e6853b5d5b86e77079346b54.html",
+      "https://www.tradeindia.com/gurfateh-trading-company-12216963/",
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/",
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-company-03CNEPS3807G1Z5/"
+    ],
+    "timestamp": "2026-09-02T21:54:16.351633",
+    "status": "results_found"
+  },
+  {
+    "business": "Dua Traders Online Store",
+    "field": "Business Name",
+    "value": "Dua Traders Online Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2JS6B91FUAZXB&isAmazonFulfilled=1&asin=B09CYRY1LY&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T21:54:22.190277"
+  },
+  {
+    "seller": "Dua Traders Online Store",
+    "field": "Website",
+    "query": "Dua Traders Online Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.caratlane.com/?msockid=1e529e26c23462692a5789eec3056329",
+      "https://www.69slam.com/"
+    ],
+    "timestamp": "2026-09-02T21:54:23.439780",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dua Traders Online Store",
+    "field": "Legal Entity Name",
+    "query": "Dua Traders Online Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sarkariyojana.com/udyam-registration-online-portal/#:~:text=Any%20enterprise%20can%20register%20on%20the%20portal%20at,to%20be%20paid%20to%20anyone%20for%20the%20registration.",
+      "https://sarkariyojana.com/udyam-registration-online-portal/",
+      "https://taxclue.in/udyam-registration",
+      "https://udyam-registrations.org/"
+    ],
+    "timestamp": "2026-09-02T21:54:27.924434",
+    "status": "results_found"
+  },
+  {
+    "business": "Dua Traders Online Store",
+    "field": "Phone Number",
+    "value": "+919310501787",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://sarkariyojana.com/udyam-registration-online-portal/#:~:text=Any%20enterprise%20can%20register%20on%20the%20portal%20at,to%20be%20paid%20to%20anyone%20for%20the%20registration.",
+    "timestamp": "2026-09-02T21:54:29.849952"
+  },
+  {
+    "business": "Dua Traders Online Store",
+    "field": "GST Number",
+    "value": "06AAICT6751C1ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxclue.in/udyam-registration",
+    "timestamp": "2026-09-02T21:54:32.640315"
+  },
+  {
+    "business": "Dua Traders Online Store",
+    "field": "PAN Number",
+    "value": "AAICT6751C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxclue.in/udyam-registration",
+    "timestamp": "2026-09-02T21:54:32.640327"
+  },
+  {
+    "business": "Dua Traders Online Store",
+    "field": "Billing Address",
+    "value": "enter applicant's complete office address with state, district and pincode. \u0930\u093e\u091c\u094d\u092f, \u091c\u093f\u0932\u0947 \u0914\u0930 \u092a\u093f\u0928\u0915\u094b\u0921 \u0915\u0947 \u0938\u093e\u0925 \u0906\u0935\u0947\u0926\u0915 \u0915\u093e \u092a\u0942\u0930\u093e \u092a\u094d\u0932\u093e\u0902\u091f \u0915\u093e \u092a\u0924\u093e \u0926\u0930\u094d\u091c \u0915\u0930\u0947\u0902\u0964\u0924\u093e \u0939\u0948\u0964",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://udyam-registrations.org/",
+    "timestamp": "2026-09-02T21:54:37.111066"
+  },
+  {
+    "seller": "Dua Traders Online Store",
+    "field": "Legal Entity Name",
+    "query": "Dua Traders Online Store Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.udyam.ltd/blog/udyam-search-by-pan#:~:text=Free%20official%20registration%20available%20at%20udyamregistration.gov.in.%20For%20help%2C,process%20it%20on%20priority%20once%20the%20portal%20resumes.",
+      "https://www.udyam.ltd/blog/udyam-search-by-pan",
+      "https://udyamsearch.com/",
+      "https://gstregistration.org/"
+    ],
+    "timestamp": "2026-09-02T21:54:38.399713",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dua Traders Online Store",
+    "field": "Owner",
+    "query": "Dua Traders Online Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.marketscreener.com/insider/TARUN-DUA-A2F1IW/",
+      "https://www.mrdiy.co.in/",
+      "https://faurit.com/article/top-10-traders-in-india",
+      "https://www.snapdeal.com/team/kunal-bahl"
+    ],
+    "timestamp": "2026-09-02T21:54:42.966039",
+    "status": "results_found"
+  },
+  {
+    "business": "Dua Traders Online Store",
+    "field": "Email Address",
+    "value": "customercare.in@mrdiy.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mrdiy.co.in/",
+    "timestamp": "2026-09-02T21:54:46.808168"
+  },
+  {
+    "seller": "Dua Traders Online Store",
+    "field": "Owner",
+    "query": "Dua Traders Online Store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/ramesh-kumar-dua/",
+      "https://www.marketscreener.com/insider/TARUN-DUA-A2F1IW/",
+      "https://lotwaala.com/team",
+      "https://foundlanes.com/acko-case-study-how-a-digital-first-insurtech-startup-is-reinventing-insurance-in-india/"
+    ],
+    "timestamp": "2026-09-02T21:54:49.170857",
+    "status": "results_found"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "Business Name",
+    "value": "Optifit Mall",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3GB2TGNRK5Z98&asin=B0CW58FQM6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T21:55:00.309067"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "Website",
+    "query": "Optifit Mall official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://h2optifit.com/",
+      "https://optifit.se/"
+    ],
+    "timestamp": "2026-09-02T21:55:01.723767",
+    "status": "results_found"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "Legal Entity Name",
+    "query": "Optifit Mall company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://epfoin.com/employers/registration/",
+      "https://www.companyregistration.net.in/",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-02T21:55:05.789823",
+    "status": "results_found"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:55:06.383065"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T21:55:06.383176"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "Legal Entity Name",
+    "query": "Optifit Mall Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/company-registration#:~:text=In India, a private ",
+      "https://www.indiafilings.com/company-registration#:~:text=Entrepreneurs or pro",
+      "https://www.indiafilings.com/company-registration#:~:text=A Private Limited Co"
+    ],
+    "timestamp": "2026-09-02T21:55:11.613591",
+    "status": "results_found"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "PAN",
+    "query": "Optifit Mall PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T21:55:13.875875",
+    "status": "results_found"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "PAN",
+    "query": "Optifit Mall PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-09-02T21:55:16.753954",
+    "status": "results_found"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T21:55:19.081745"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T21:55:19.081753"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "Owner",
+    "query": "Optifit Mall director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.forbes.com/profile/binny-bansal/",
+      "https://contactout.com/Mukesh-Bansal-17977856",
+      "https://www.forbes.com/profile/atul-ruia/"
+    ],
+    "timestamp": "2026-09-02T21:55:20.422669",
+    "status": "results_found"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "Owner",
+    "query": "Optifit Mall founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.forbes.com/profile/sachin-bansal/",
+      "https://www.forbes.com/profile/atul-ruia/",
+      "https://optifit.com.my/"
+    ],
+    "timestamp": "2026-09-02T21:55:27.350864",
+    "status": "results_found"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "Address",
+    "query": "Optifit Mall registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/inorbit-malls-india-private-limited-cin-U45200MH1999PTC117748#:~:text=The%20registered%20office%20address%20is%20Plot%20No.%20C-30%2C,Kurla%20Complex%2C%20Bandra%20%28E%29%2C%20Mumbai%20MH%20400051%20IN.",
+      "https://www.infinitiretail.com/contact-us",
+      "https://www.indiafilings.com/search/optifit-tm-2112435",
+      "https://www.boldfit.com/pages/contact-us-2"
+    ],
+    "timestamp": "2026-09-02T21:55:31.688298",
+    "status": "results_found"
+  },
+  {
+    "seller": "Optifit Mall",
+    "field": "Address",
+    "query": "Optifit Mall registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.infinitiretail.com/contact-us",
+      "https://www.boldfit.com/pages/contact-us-2",
+      "https://www.indiafilings.com/search/optifit-tm-2112435",
+      "https://tracxn.com/d/legal-entities/india/inorbit-malls-india-private-limited/__OR6NnPLeJ56lDpeK17DGYDFkUE3CIyjph4D_gnKF75o"
+    ],
+    "timestamp": "2026-09-02T21:55:40.496241",
+    "status": "results_found"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inorbit-malls-india-private-limited/__OR6NnPLeJ56lDpeK17DGYDFkUE3CIyjph4D_gnKF75o",
+    "timestamp": "2026-09-02T21:55:43.524659"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inorbit-malls-india-private-limited/__OR6NnPLeJ56lDpeK17DGYDFkUE3CIyjph4D_gnKF75o",
+    "timestamp": "2026-09-02T21:55:43.524668"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inorbit-malls-india-private-limited/__OR6NnPLeJ56lDpeK17DGYDFkUE3CIyjph4D_gnKF75o",
+    "timestamp": "2026-09-02T21:55:43.524670"
+  },
+  {
+    "business": "Optifit Mall",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/inorbit-malls-india-private-limited/__OR6NnPLeJ56lDpeK17DGYDFkUE3CIyjph4D_gnKF75o",
+    "timestamp": "2026-09-02T21:55:43.524672"
+  }
+]

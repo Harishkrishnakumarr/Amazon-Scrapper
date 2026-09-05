@@ -1,0 +1,61 @@
+{
+  "category": "Scanners",
+  "records_before_save": 9,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "STORE HELETT",
+      "database_id": 753,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919513784194",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.storehelett.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "fronix",
+      "database_id": 754,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "contact@ctosbasis.com.my",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "E-PROUD",
+      "database_id": 755,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Havels Group",
+      "database_id": 756,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@gstserver.com",
+      "gst": "08AAACH0351E1Z5",
+      "pan": "AAACH0351E",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

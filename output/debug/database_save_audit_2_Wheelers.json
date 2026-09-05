@@ -1,0 +1,74 @@
+{
+  "category": "2 Wheelers",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ARVINTH AUTO AGENCY",
+      "database_id": 956,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919289922141",
+      "email": "arvinth@heromotocorp.biz",
+      "gst": "33AABFA7167R1Z1",
+      "pan": "AABFA7167R",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VIJAY BIKES HERO",
+      "database_id": 957,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "33AMJPP2032Q1ZS",
+      "pan": "AMJPP2032Q",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kosmochem Home Healthcare",
+      "database_id": 958,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "online@kosmochem.com",
+      "gst": "27AAACK2781M1Z7",
+      "pan": "AAACK2781M",
+      "website": "https://www.kosmochem.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ROJA BAJAJ_TENKASI_11841",
+      "database_id": 959,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "EOX Electric",
+      "database_id": 960,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919990320208",
+      "email": "sales@eoxvantage.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://eoxelectric.co.in/",
+      "status": "Verified"
+    }
+  ]
+}

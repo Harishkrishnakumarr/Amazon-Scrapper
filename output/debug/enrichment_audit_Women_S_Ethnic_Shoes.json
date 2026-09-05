@@ -1,0 +1,303 @@
+[
+  {
+    "business": "AL-MALIK.INC",
+    "field": "Business Name",
+    "value": "AL-MALIK.INC",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A4WCLNPJG3HIX&asin=B09RPVZB6V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T11:46:20.585176"
+  },
+  {
+    "seller": "AL-MALIK.INC",
+    "field": "Website",
+    "query": "AL-MALIK.INC official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://almalikgroups.com/",
+      "https://almalikgroups.com/contact-us/"
+    ],
+    "timestamp": "2026-09-02T11:46:22.570850",
+    "status": "results_found"
+  },
+  {
+    "seller": "AL-MALIK.INC",
+    "field": "Legal Entity Name",
+    "query": "AL-MALIK.INC company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://piceapp.com/gst-number-search/almalik-inc-19goxpk6107m1zz/",
+      "https://www.companydetails.in/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-02T11:46:29.073492",
+    "status": "results_found"
+  },
+  {
+    "business": "AL-MALIK.INC",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T11:46:30.594898"
+  },
+  {
+    "business": "AL-MALIK.INC",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T11:46:30.595084"
+  },
+  {
+    "seller": "AL-MALIK.INC",
+    "field": "PAN",
+    "query": "AL-MALIK.INC PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/AL-MALIK-INC-19GOXPK6107M1ZZ/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://pancards.org/pan-card-number-check/"
+    ],
+    "timestamp": "2026-09-02T11:46:51.896401",
+    "status": "results_found"
+  },
+  {
+    "business": "AL-MALIK.INC",
+    "field": "GST Number",
+    "value": "19GOXPK6107M1ZZ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/AL-MALIK-INC-19GOXPK6107M1ZZ/",
+    "timestamp": "2026-09-02T11:46:52.994999"
+  },
+  {
+    "business": "AL-MALIK.INC",
+    "field": "PAN Number",
+    "value": "GOXPK6107M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/AL-MALIK-INC-19GOXPK6107M1ZZ/",
+    "timestamp": "2026-09-02T11:46:52.995024"
+  },
+  {
+    "seller": "AL-MALIK.INC",
+    "field": "Owner",
+    "query": "AL-MALIK.INC director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/almalik-inc-19goxpk6107m1zz/",
+      "https://www.bizprofile.net/ny/elmira/al-malik-inc",
+      "https://www.nycompanyregistry.com/companies/al-malik-inc/",
+      "https://www.georgiacompanyregistry.com/companies/al-malik-inc/"
+    ],
+    "timestamp": "2026-09-02T11:46:54.475276",
+    "status": "results_found"
+  },
+  {
+    "seller": "AL-MALIK.INC",
+    "field": "Owner",
+    "query": "AL-MALIK.INC founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://malik-inc.com/about/#:~:text=Our%20founder%2C%20Basil%20Malik%2C%20didn%E2%80%99t%20set%20out%20to,what%20he%20calls%20a%20Bob%20Ross%20%E2%80%9Chappy%20accident.%E2%80%9D",
+      "https://malik-inc.com/about/",
+      "https://www.bizapedia.com/la/al-malik-inc.html",
+      "https://www.bizprofile.net/ny/elmira/al-malik-inc"
+    ],
+    "timestamp": "2026-09-02T11:46:58.517879",
+    "status": "results_found"
+  },
+  {
+    "seller": "AL-MALIK.INC",
+    "field": "Address",
+    "query": "AL-MALIK.INC registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/almalik-inc-19goxpk6107m1zz/",
+      "https://www.dnb.com/business-directory/company-profiles.al_malik_international.f2cc6becb6c9cec4ba5902ba9ae6faa2.html",
+      "https://craft.co/malik/locations",
+      "https://opengovny.com/corporation/4974862"
+    ],
+    "timestamp": "2026-09-02T11:47:08.493385",
+    "status": "results_found"
+  },
+  {
+    "seller": "AL-MALIK.INC",
+    "field": "Address",
+    "query": "AL-MALIK.INC registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/AL-MALIK-INC-19GOXPK6107M1ZZ/",
+      "https://piceapp.com/gst-number-search/almalik-inc-19goxpk6107m1zz/",
+      "https://www.nycompanyregistry.com/companies/al-malik-inc/",
+      "https://www.bizprofile.net/ny/elmira/al-malik-inc"
+    ],
+    "timestamp": "2026-09-02T11:47:14.622353",
+    "status": "results_found"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "Business Name",
+    "value": "BALAJI FASHION IN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A7IL1GW4WBF5O&asin=B0GHS4THKQ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T11:47:17.006495"
+  },
+  {
+    "seller": "BALAJI FASHION IN",
+    "field": "Website",
+    "query": "BALAJI FASHION IN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.balajifashions.com/",
+      "https://balajifashionhouse.com/"
+    ],
+    "timestamp": "2026-09-02T11:47:18.476178",
+    "status": "results_found"
+  },
+  {
+    "seller": "BALAJI FASHION IN",
+    "field": "Legal Entity Name",
+    "query": "BALAJI FASHION IN company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/balaji-clothing-private-limited/__2eYmCkSktIkKIZ7eFJ4aic-D-PMl69SRHIuH549uALQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202KA1994PTC015876%20and%20its%20current%20status%20is%20Active.",
+      "https://www.legalentityidentifier.in/leicert/98450009E4EF3E5T4D81/",
+      "https://fnshiftsolutions.com/gstin-search/balaji-clothing-company-33AADFB1244Q1ZI",
+      "https://piceapp.com/gst-number-search/balaji-clothing-company-27aazfb4326k1zw/"
+    ],
+    "timestamp": "2026-09-02T11:47:23.320648",
+    "status": "results_found"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/balaji-clothing-private-limited/__2eYmCkSktIkKIZ7eFJ4aic-D-PMl69SRHIuH549uALQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202KA1994PTC015876%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T11:47:24.736820"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/balaji-clothing-private-limited/__2eYmCkSktIkKIZ7eFJ4aic-D-PMl69SRHIuH549uALQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202KA1994PTC015876%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T11:47:24.736861"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/balaji-clothing-private-limited/__2eYmCkSktIkKIZ7eFJ4aic-D-PMl69SRHIuH549uALQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202KA1994PTC015876%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T11:47:24.736876"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/balaji-clothing-private-limited/__2eYmCkSktIkKIZ7eFJ4aic-D-PMl69SRHIuH549uALQ#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18202KA1994PTC015876%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T11:47:24.736887"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "GST Number",
+    "value": "33AADFB1244Q1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/balaji-clothing-company-33AADFB1244Q1ZI",
+    "timestamp": "2026-09-02T11:47:26.257529"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "PAN Number",
+    "value": "AADFB1244Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/balaji-clothing-company-33AADFB1244Q1ZI",
+    "timestamp": "2026-09-02T11:47:26.257555"
+  },
+  {
+    "seller": "BALAJI FASHION IN",
+    "field": "Legal Entity Name",
+    "query": "BALAJI FASHION IN Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/balaji-clothing-private-limited/__2eYmCkSktIkKIZ7eFJ4aic-D-PMl69SRHIuH549uALQ",
+      "https://www.companydetails.in/company/balaji-clothing-pvt-ltd",
+      "https://www.falconebiz.com/company/BALAJI-CLOTHING-PRIVATE-LIMITED-U18202KA1994PTC015876",
+      "https://www.instafinancials.com/company/balaji-clothing-private-limited/U18202KA1994PTC015876/contact-us/contact-us.html"
+    ],
+    "timestamp": "2026-09-02T11:47:28.796251",
+    "status": "results_found"
+  },
+  {
+    "seller": "BALAJI FASHION IN",
+    "field": "Owner",
+    "query": "BALAJI FASHION IN director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.angelone.in/news/unlisted-companies/who-owns-balaji-wafers-here-is-how-balaji-wafers-built-a-35-000-crore-snack-empire#:~:text=Balaji%20Wafers%20is%20a%20family-owned%20business%20founded%20by,serving%20as%20the%20Managing%20Director%20of%20Balaji%20Wafers.?msockid=36ad48454703601f32465f8d46d361c6",
+      "https://www.theweekendleader.com/Success/2608/a-humble-billionaire.html",
+      "https://www.forbes.com/profile/varshne-balaji/",
+      "https://www.theceomagazine.com/executive-interviews/food-beverage/chandubhai-virani/"
+    ],
+    "timestamp": "2026-09-02T11:47:46.982234",
+    "status": "results_found"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "Phone Number",
+    "value": "+918655719858",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.angelone.in/news/unlisted-companies/who-owns-balaji-wafers-here-is-how-balaji-wafers-built-a-35-000-crore-snack-empire#:~:text=Balaji%20Wafers%20is%20a%20family-owned%20business%20founded%20by,serving%20as%20the%20Managing%20Director%20of%20Balaji%20Wafers.?msockid=36ad48454703601f32465f8d46d361c6",
+    "timestamp": "2026-09-02T11:47:47.835141"
+  },
+  {
+    "business": "BALAJI FASHION IN",
+    "field": "Email Address",
+    "value": "compliance@angelone.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.angelone.in/news/unlisted-companies/who-owns-balaji-wafers-here-is-how-balaji-wafers-built-a-35-000-crore-snack-empire#:~:text=Balaji%20Wafers%20is%20a%20family-owned%20business%20founded%20by,serving%20as%20the%20Managing%20Director%20of%20Balaji%20Wafers.?msockid=36ad48454703601f32465f8d46d361c6",
+    "timestamp": "2026-09-02T11:47:47.835673"
+  },
+  {
+    "seller": "BALAJI FASHION IN",
+    "field": "Owner",
+    "query": "BALAJI FASHION IN founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://t2online.in/goodlife/fashion-beauty/fashion-designer-varshne-balaji-s-crcle-is-telling-stories-for-the-cool-man--t2online-listens-in/2005453#:~:text=The%20young%20menswear%20label%20won%20the%20R%7CElanTM%20Circular,because%20that%E2%80%99s%20how%20she%20likes%20to%20dress%20too.",
+      "https://www.forbes.com/profile/varshne-balaji/",
+      "https://t2online.in/goodlife/fashion-beauty/fashion-designer-varshne-balaji-s-crcle-is-telling-stories-for-the-cool-man--t2online-listens-in/2005453"
+    ],
+    "timestamp": "2026-09-02T11:48:01.010214",
+    "status": "results_found"
+  }
+]

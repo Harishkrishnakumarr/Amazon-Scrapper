@@ -1,0 +1,48 @@
+{
+  "category": "Home Entertainment Furniture",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "TRADZYO MART",
+      "database_id": 189,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916111161737",
+      "email": "Not Found",
+      "gst": "33AAMPY0056C1ZU",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "FURNEASER",
+      "database_id": 190,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919741072026",
+      "email": "furneaser@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.furneaser.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "G Mart Global",
+      "database_id": 191,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "33AAHCN6136E1ZO",
+      "pan": "Not Found",
+      "website": "https://www.gmartglobal.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

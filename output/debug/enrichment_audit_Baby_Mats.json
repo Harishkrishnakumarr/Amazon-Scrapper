@@ -1,0 +1,115 @@
+[
+  {
+    "business": "Shop Drive",
+    "field": "Business Name",
+    "value": "Shop Drive",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DJ06F5F2CS19&asin=B096K3SQLG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T11:45:37.857233"
+  },
+  {
+    "business": "Shop Drive",
+    "field": "Phone Number",
+    "value": "+918999294802",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DJ06F5F2CS19&asin=B096K3SQLG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T11:45:37.859012"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "Website",
+    "query": "Shop Drive official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T11:45:50.346975",
+    "status": "no_results"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "Legal Entity Name",
+    "query": "Shop Drive company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T11:46:11.085246",
+    "status": "no_results"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "Legal Entity Name",
+    "query": "Shop Drive Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.meesho.com/",
+      "https://www.shop.com/"
+    ],
+    "timestamp": "2026-08-29T11:46:17.150364",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "PAN",
+    "query": "Shop Drive PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T11:46:32.457741",
+    "status": "no_results"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "PAN",
+    "query": "Shop Drive PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.meesho.com/",
+      "https://www.shop.com/"
+    ],
+    "timestamp": "2026-08-29T11:46:41.215316",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "GST",
+    "query": "Shop Drive GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.meesho.com/",
+      "https://www.shop.com/"
+    ],
+    "timestamp": "2026-08-29T11:46:43.594960",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "Owner",
+    "query": "Shop Drive director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T11:47:08.612331",
+    "status": "no_results"
+  },
+  {
+    "seller": "Shop Drive",
+    "field": "Owner",
+    "query": "Shop Drive founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T11:48:46.777274",
+    "status": "no_results"
+  }
+]

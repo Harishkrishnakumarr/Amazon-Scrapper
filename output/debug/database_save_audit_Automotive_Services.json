@@ -1,0 +1,74 @@
+{
+  "category": "Automotive Services",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "GLOBAL MART ECOM",
+      "database_id": 972,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ajay.faujdar@shopperr.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+      "database_id": 973,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "GLOBAL MART\u2b50\u2b50\u2b50\u2b50\u2b50",
+      "database_id": 974,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "Not Found",
+      "gst": "27AAJCG2639P1ZZ",
+      "pan": "AAJCG2639P",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cart2Globe",
+      "database_id": 975,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "wecare@cart2india.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cart2india.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BUNCH OF GOODS",
+      "database_id": 976,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

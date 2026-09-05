@@ -1,0 +1,150 @@
+[
+  {
+    "business": "Hike Store",
+    "field": "Business Name",
+    "value": "Hike Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1E256I8A3ULNA&asin=B0CSWMZ4HM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:03:47.494314"
+  },
+  {
+    "seller": "Hike Store",
+    "field": "Website",
+    "query": "Hike Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hike-footwear.com/?msockid=28aa0e1205386530085f19da045f6411",
+      "https://hike-footwear.com/collections/baresandals?msockid=28aa0e1205386530085f19da045f6411"
+    ],
+    "timestamp": "2026-09-02T10:03:49.643847",
+    "status": "results_found"
+  },
+  {
+    "business": "Hike Store",
+    "field": "Website URL",
+    "value": "https://hike-footwear.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://hike-footwear.com/?msockid=28aa0e1205386530085f19da045f6411",
+    "timestamp": "2026-09-02T10:04:36.416309"
+  },
+  {
+    "business": "Hike Store",
+    "field": "Email Address",
+    "value": "info@hike-footwear.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://hike-footwear.com/",
+    "timestamp": "2026-09-02T10:04:38.824749"
+  },
+  {
+    "seller": "Hike Store",
+    "field": "Legal Entity Name",
+    "query": "Hike Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/hike-private-limited/___kmahPyWx5N1M4PZAxDaTYC8p9YMoP3eik11yu1_eCk#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,per%20MCA%20is%20business%20and%20management%20consultancy%20activities.",
+      "https://hikeup.com/",
+      "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+      "https://my.hikeup.com/"
+    ],
+    "timestamp": "2026-09-02T10:04:49.127136",
+    "status": "results_found"
+  },
+  {
+    "business": "Hike Store",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+    "timestamp": "2026-09-02T10:04:57.273612"
+  },
+  {
+    "business": "Hike Store",
+    "field": "GST Number",
+    "value": "29BEKPG1769P1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+    "timestamp": "2026-09-02T10:04:57.274750"
+  },
+  {
+    "business": "Hike Store",
+    "field": "PAN Number",
+    "value": "BEKPG1769P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+    "timestamp": "2026-09-02T10:04:57.274768"
+  },
+  {
+    "business": "Hike Store",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+    "timestamp": "2026-09-02T10:04:57.283764"
+  },
+  {
+    "business": "Hike Store",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+    "timestamp": "2026-09-02T10:04:57.283783"
+  },
+  {
+    "business": "Hike Store",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+    "timestamp": "2026-09-02T10:04:57.283788"
+  },
+  {
+    "business": "Hike Store",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/hike-store-29bekpg1769p1zp/",
+    "timestamp": "2026-09-02T10:04:57.283793"
+  },
+  {
+    "seller": "Hike Store",
+    "field": "Owner",
+    "query": "Hike Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hikeapp.com/",
+      "https://hike-footwear.com/?msockid=28aa0e1205386530085f19da045f6411",
+      "https://www.alltrails.com/",
+      "https://indiahikes.com/"
+    ],
+    "timestamp": "2026-09-02T10:05:04.420053",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hike Store",
+    "field": "Owner",
+    "query": "Hike Store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hikeapp.com/",
+      "https://hike-footwear.com/?msockid=28aa0e1205386530085f19da045f6411",
+      "https://www.alltrails.com/",
+      "https://indiahikes.com/"
+    ],
+    "timestamp": "2026-09-02T10:05:17.976423",
+    "status": "results_found"
+  }
+]

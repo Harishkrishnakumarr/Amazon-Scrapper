@@ -1,0 +1,692 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FZVD8P6V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:41:58.698499"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-26T12:42:09.519707",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T12:42:13.169530"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T12:42:15.851480"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:42:24.536557",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T12:42:37.054116"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:42:41.701599",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:42:57.720574",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:42:59.478225",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:43:08.697615",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:43:17.785287",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:43:32.272646",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:43:33.950899",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:43:44.208308",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0D66VB4TH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:43:50.719904"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kayfashions.in/",
+      "https://www.kay.com/?msockid=34dd7aa9aafe6dc403ec6d68ab996c72"
+    ],
+    "timestamp": "2026-08-26T12:43:56.164778",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kayfashions.in/",
+      "https://www.kay.com/?msockid=34dd7aa9aafe6dc403ec6d68ab996c72",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-26T12:44:13.586510",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Phone Number",
+    "value": "+919884261611",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kayfashions.in/",
+    "timestamp": "2026-08-26T12:44:19.167283"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Email Address",
+    "value": "info@kayfashions.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kayfashions.in/",
+    "timestamp": "2026-08-26T12:44:19.167388"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/KAY-KAY-OVERSEAS-CORPORATION-27AACFK0693D1ZJ/",
+      "https://gst.unifers.ai/gst/23AACFK0693D2ZQ/kay-kay-overseas-corporation",
+      "https://gst.iadv.io/KAY-KAY-OVERSEAS-CORPORATION-32AACFK0693D1ZS/",
+      "https://gst.unifers.ai/gst/36AACFK0693D2ZJ/kay-kay-overseas-corporation"
+    ],
+    "timestamp": "2026-08-26T12:44:42.398516",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kayfashions.in/",
+      "https://www.kay.com/?msockid=34dd7aa9aafe6dc403ec6d68ab996c72",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-26T12:44:46.410648",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kayfashions.in/",
+      "https://www.kay.com/?msockid=34dd7aa9aafe6dc403ec6d68ab996c72",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-26T12:45:05.684405",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kayfashions.in/",
+      "https://www.kay.com/?msockid=34dd7aa9aafe6dc403ec6d68ab996c72",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-26T12:45:27.925578",
+    "status": "results_found"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Business Name",
+    "value": "SaiTech IT Private Limited (Since 2013)",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FPNGXJ2Z95CC&asin=B0B2KBFRWP&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:45:45.183368"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Website",
+    "query": "SaiTech IT Private Limited (Since 2013) official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.wikihow.com/Use-Google-Translate"
+    ],
+    "timestamp": "2026-08-26T12:45:48.749583",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Legal Entity Name",
+    "query": "SaiTech IT Private Limited (Since 2013) company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.btapac.konicaminolta.com/users_guide/accuriopress_6136_series/3_0_0/jp/contents/PSW_103888817.html",
+      "https://www.btapac.konicaminolta.com/users_guide/accuriopress_C4080_series/2_1_0/jp/contents/Application119849_05_03_02.html",
+      "https://www.btapac.konicaminolta.com/users_guide/accuriopress_6136_series/3_0_0/jp/contents/PSW_103888799.html",
+      "https://www.btapac.konicaminolta.com/users_guide/accuriopress_C4080_series/1_1_0/jp/contents/Application118901_01_01.html"
+    ],
+    "timestamp": "2026-08-26T12:45:57.780682",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "PAN",
+    "query": "SaiTech IT Private Limited (Since 2013) PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/SAITECH-IT-PRIVATE-LIMITED-27AASCS7745M2ZA/",
+      "https://gst.iadv.io/SAITECH-IT-PRIVATE-LIMITED-36AASCS7745M1ZC/",
+      "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+      "https://www.credhive.in/ind/corporate/U72900GJ2013PTC073793/SAITECH%20IT%20PRIVATE%20LIMITED/overview"
+    ],
+    "timestamp": "2026-08-26T12:46:23.504457",
+    "status": "results_found"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "GST Number",
+    "value": "27AASCS7745M2ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SAITECH-IT-PRIVATE-LIMITED-27AASCS7745M2ZA/",
+    "timestamp": "2026-08-26T12:46:28.357895"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "PAN Number",
+    "value": "AASCS7745M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SAITECH-IT-PRIVATE-LIMITED-27AASCS7745M2ZA/",
+    "timestamp": "2026-08-26T12:46:28.357948"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Owner",
+    "query": "SaiTech IT Private Limited (Since 2013) director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+      "https://www.indiafilings.com/search/saitech-it-private-limited-cin-U72900GJ2013PTC073793",
+      "https://www.falconebiz.com/company/SAITECH-IT-PRIVATE-LIMITED-U72900GJ2013PTC073793",
+      "https://www.thecompanycheck.com/company/saitech-it-private-limited/U72900GJ2013PTC073793"
+    ],
+    "timestamp": "2026-08-26T12:46:37.970575",
+    "status": "results_found"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-08-26T12:46:41.060081"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-08-26T12:46:41.060099"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-08-26T12:46:41.060105"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-08-26T12:46:41.060110"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Email Address",
+    "value": "accounts@saitechit.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/saitech-it-private-limited-cin-U72900GJ2013PTC073793",
+    "timestamp": "2026-08-26T12:46:44.028926"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Phone",
+    "query": "SaiTech IT Private Limited (Since 2013) phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://jp.finalfantasy.com/",
+      "https://jp.finalfantasy.com/titles",
+      "https://jp.finalfantasy.com/news/5893",
+      "https://jp.finalfantasy.com/35th"
+    ],
+    "timestamp": "2026-08-26T12:46:48.833828",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Phone",
+    "query": "SaiTech IT Private Limited (Since 2013) contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hdfc.bank.in/wholesale-banking/large-corporates/cbx-internet-banking",
+      "https://www.hdfc.bank.in/wholesale-banking/large-corporates/cbx-internet-banking2",
+      "https://www.hdfc.bank.in/wholesale-banking/large-corporates/internet-banking",
+      "https://www.hdfcbank.com/"
+    ],
+    "timestamp": "2026-08-26T12:46:59.305289",
+    "status": "results_found"
+  },
+  {
+    "business": "Official Digital Vengeance",
+    "field": "Business Name",
+    "value": "Official Digital Vengeance",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3V2EW7ECP49IZ&asin=B0CRKR3HXN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:47:00.030311"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Website",
+    "query": "Official Digital Vengeance official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official"
+    ],
+    "timestamp": "2026-08-26T12:47:01.699962",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Legal Entity Name",
+    "query": "Official Digital Vengeance company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:07.720397",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Legal Entity Name",
+    "query": "Official Digital Vengeance Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:15.992305",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "PAN",
+    "query": "Official Digital Vengeance PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:21.814540",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "PAN",
+    "query": "Official Digital Vengeance PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:28.544453",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "GST",
+    "query": "Official Digital Vengeance GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:35.508486",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "GST",
+    "query": "Official Digital Vengeance GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:41.018872",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Owner",
+    "query": "Official Digital Vengeance director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:45.516027",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Owner",
+    "query": "Official Digital Vengeance founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:50.005348",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Address",
+    "query": "Official Digital Vengeance registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:47:55.502330",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Address",
+    "query": "Official Digital Vengeance registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:48:00.377971",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Phone",
+    "query": "Official Digital Vengeance phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:48:03.924963",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Phone",
+    "query": "Official Digital Vengeance contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:48:16.070751",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Email",
+    "query": "Official Digital Vengeance email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:48:21.270693",
+    "status": "results_found"
+  },
+  {
+    "seller": "Official Digital Vengeance",
+    "field": "Email",
+    "query": "Official Digital Vengeance contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/official",
+      "https://www.merriam-webster.com/dictionary/official",
+      "https://www.thefreedictionary.com/official",
+      "https://dictionary.cambridge.org/us/dictionary/english/official"
+    ],
+    "timestamp": "2026-08-26T12:48:30.579906",
+    "status": "results_found"
+  }
+]

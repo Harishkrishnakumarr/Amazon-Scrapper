@@ -1,0 +1,61 @@
+{
+  "category": "Climbing",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Shopster\u2122",
+      "database_id": 518,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Aston Andia",
+      "database_id": 519,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916444412026",
+      "email": "digital@astonmartin.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.astonmartin.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Wooden Boy",
+      "database_id": 520,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910001192026",
+      "email": "support@woodenboy.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.woodenboy.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BEYOND RETAIL",
+      "database_id": 521,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

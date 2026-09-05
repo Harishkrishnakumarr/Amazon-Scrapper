@@ -1,0 +1,696 @@
+[
+  {
+    "business": "TRUE CHOICE",
+    "field": "Business Name",
+    "value": "TRUE CHOICE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3KXCLWCU3R37N&asin=B0G25Q7Q39&ref_=dp_merchant_link",
+    "timestamp": "2026-09-03T16:44:45.118256"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Website",
+    "query": "TRUE CHOICE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true"
+    ],
+    "timestamp": "2026-09-03T16:44:48.678755",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Legal Entity Name",
+    "query": "TRUE CHOICE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:44:58.742539",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Legal Entity Name",
+    "query": "TRUE CHOICE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:03.338700",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "PAN",
+    "query": "TRUE CHOICE PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:08.152641",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "PAN",
+    "query": "TRUE CHOICE PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:12.489933",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "GST",
+    "query": "TRUE CHOICE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:16.627177",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "GST",
+    "query": "TRUE CHOICE GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:20.673649",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Owner",
+    "query": "TRUE CHOICE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:24.868530",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Owner",
+    "query": "TRUE CHOICE founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:28.721696",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Address",
+    "query": "TRUE CHOICE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:32.572710",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Address",
+    "query": "TRUE CHOICE registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:38.578847",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Phone",
+    "query": "TRUE CHOICE phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:44.032812",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Phone",
+    "query": "TRUE CHOICE contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:45:51.027387",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRUE CHOICE",
+    "field": "Email",
+    "query": "TRUE CHOICE email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.truecaller.com/",
+      "https://www.merriam-webster.com/dictionary/true",
+      "https://dictionary.cambridge.org/dictionary/english/true",
+      "https://dictionary.cambridge.org/us/dictionary/english/true"
+    ],
+    "timestamp": "2026-09-03T16:46:03.125838",
+    "status": "results_found"
+  },
+  {
+    "business": "Destinio India",
+    "field": "Business Name",
+    "value": "Destinio India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3HZ9R8H42TI6G&asin=B0D96XQ6SM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-03T16:46:16.062642"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "Website",
+    "query": "Destinio India official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://apps.apple.com/jp/app/tver-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-%E6%B0%91%E6%94%BE%E5%85%AC%E5%BC%8F%E3%83%86%E3%83%AC%E3%83%93%E9%85%8D%E4%BF%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/id830340223"
+    ],
+    "timestamp": "2026-09-03T16:46:19.790361",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "Legal Entity Name",
+    "query": "Destinio India company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-09-03T16:46:26.626167",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "Legal Entity Name",
+    "query": "Destinio India Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=company%20registration%20in%20india&utm_adgroup=1357898695889625&network=o&device=c&msclkid=291344607a081ebb81852ef92d2a63c9&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=company%20registration%20in%20india&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20in%20india&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=business%20registration%20in%20india&target_name=kwd-84045335771846:loc-90&placement=&keyword_id=business%20registration%20in%20india&msclkid=e95521c469c31fa2761e4b5d3ee191a6",
+      "https://www.indiafilings.com/search/destinio-tm-6418506",
+      "https://destinio.in/pages/warranty"
+    ],
+    "timestamp": "2026-09-03T16:46:36.430426",
+    "status": "results_found"
+  },
+  {
+    "business": "Destinio India",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=company%20registration%20in%20india&utm_adgroup=1357898695889625&network=o&device=c&msclkid=291344607a081ebb81852ef92d2a63c9&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=company%20registration%20in%20india&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-09-03T16:46:39.415598"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "PAN",
+    "query": "Destinio India PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-03T16:46:43.548037",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "PAN",
+    "query": "Destinio India PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-36078047-connection-fecebook",
+      "https://es.ccm.net/aplicaciones-e-internet/redes-sociales-y-mensajeria/2892-crear-una-cuenta-de-facebook/",
+      "https://es.ccm.net/aplicaciones-e-internet/redes-sociales-y-mensajeria/3584-como-eliminar-amigos-en-facebook/"
+    ],
+    "timestamp": "2026-09-03T16:46:53.025553",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "GST",
+    "query": "Destinio India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jeuxvideo.com/forums/42-51-51161064-1-0-1-0-officiel-18-25-page-d-accueil-forum-18-25-1825.htm",
+      "https://www.jeuxvideo.com/news/2100547/the-witcher-3-remastered-gratuit-si-vous-avez-deja-le-jeu-cette-version-ultime-arrive-dans-quelques-semaines.htm",
+      "https://www.jeuxvideo.com/forums/0-36-0-1-0-1-0-guerre-des-consoles.htm",
+      "https://www.jeuxvideo.com/forums/42-69-77259824-1-0-1-0-guerre-ukraine-russie-en-crimee-le-doute-est-seme.htm"
+    ],
+    "timestamp": "2026-09-03T16:46:57.261606",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "GST",
+    "query": "Destinio India GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://es.stackoverflow.com/questions/7254/conexion-java-postgres-en-netbeans",
+      "https://es.stackoverflow.com/questions/201226/configurar-pgagent-instalaci%c3%b3n",
+      "https://bbs.csdn.net/topics/350103343",
+      "https://bbs.csdn.net/topics/290008350"
+    ],
+    "timestamp": "2026-09-03T16:47:10.267160",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "Owner",
+    "query": "Destinio India director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.rottentomatoes.com/m/xxx",
+      "https://www.zee5.com/movies/details/xxx/0-0-1z5238265",
+      "https://www.rottentomatoes.com/m/xxx/videos/1828701251997",
+      "https://www.moviefone.com/movie/xxx/12078/main/"
+    ],
+    "timestamp": "2026-09-03T16:47:12.090425",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "Address",
+    "query": "Destinio India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://wa.me/",
+      "https://www.whatsapp.com/",
+      "https://www.whatsapp.com/?lang=id"
+    ],
+    "timestamp": "2026-09-03T16:47:33.450926",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "Address",
+    "query": "Destinio India registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://meeting.tencent.com/",
+      "https://meeting.tencent.com/download/",
+      "https://cdn.meeting.tencent.com/pro/OGU2ZTdkYTctY2Y1ZS00OTRkLWFhODMtMTU0Y2VhMTAzNjg5",
+      "https://cdn.meeting.tencent.com/pro/MTVlOGRlZWEtMjIzZi00Yzc5LTg0ZmYtNmY5ZTBkZDRiNTEy"
+    ],
+    "timestamp": "2026-09-03T16:47:45.339648",
+    "status": "results_found"
+  },
+  {
+    "seller": "Destinio India",
+    "field": "Email",
+    "query": "Destinio India email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://destinio.in/pages/contact-us",
+      "https://destinio.in/policies/refund-policy",
+      "https://www.sellerratings.com/amazon/india/destinio-india",
+      "https://destinio.in/"
+    ],
+    "timestamp": "2026-09-03T16:47:50.323491",
+    "status": "results_found"
+  },
+  {
+    "business": "Destinio India",
+    "field": "Email Address",
+    "value": "info@destinio.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://destinio.in/pages/contact-us",
+    "timestamp": "2026-09-03T16:47:53.284047"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CXPY1X7G&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-03T16:47:55.944426"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://medicinebhumibol.com/",
+      "http://www.phatara-thonburi.com/doctors.php"
+    ],
+    "timestamp": "2026-09-03T16:47:58.609912",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-03T16:48:10.003802",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T16:48:11.574945"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T16:48:11.574965"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T16:48:11.574969"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-03T16:48:11.574974"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-03T16:48:27.068342",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-03T16:48:35.504497"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-03T16:48:35.504521"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-03T16:48:39.594264",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-09-03T16:48:42.030058"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.oxygen.com/crime-news/sullivan-walter-freed-1986-rape-conviction-overturned",
+      "https://www.la4th.org/opinion/2024/4939548_2.pdf",
+      "https://edition.cnn.com/2022/08/26/us/louisiana-wrongfully-accused-rape-freed-36-years-sullivan-walter",
+      "https://www.cbsnews.com/news/sullivan-walter-exonerated-wrongful-conviction-1986-rape-rape-age-17-new-orleans/"
+    ],
+    "timestamp": "2026-09-03T16:48:48.193136",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.typingtest.com/",
+      "https://www.typing.com/student/typing-test/1-minute",
+      "https://www.typequicker.com/typing-speed-test/words-per-minute",
+      "https://typingtest.me/"
+    ],
+    "timestamp": "2026-09-03T16:48:53.247167",
+    "status": "results_found"
+  },
+  {
+    "business": "ShreeRamSales",
+    "field": "Business Name",
+    "value": "ShreeRamSales",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A27I47V0DJ6GG1&asin=B078HR79GT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-03T16:49:08.935665"
+  },
+  {
+    "seller": "ShreeRamSales",
+    "field": "Website",
+    "query": "ShreeRamSales official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://shreeramsales.store/products",
+      "https://shreeramsalescorporation.com/our-products/"
+    ],
+    "timestamp": "2026-09-03T16:49:16.746598",
+    "status": "results_found"
+  },
+  {
+    "business": "ShreeRamSales",
+    "field": "Website URL",
+    "value": "https://shreeramsales.store/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://shreeramsales.store/products",
+    "timestamp": "2026-09-03T16:49:21.978623"
+  },
+  {
+    "business": "ShreeRamSales",
+    "field": "Phone Number",
+    "value": "+919752024102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://shreeramsales.store/",
+    "timestamp": "2026-09-03T16:49:23.888053"
+  },
+  {
+    "business": "ShreeRamSales",
+    "field": "Owner Name",
+    "value": "AJAY BOHAT",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://shreeramsales.store/about",
+    "timestamp": "2026-09-03T16:49:24.762130"
+  },
+  {
+    "business": "ShreeRamSales",
+    "field": "Email Address",
+    "value": "info@shreeramsales.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://shreeramsales.store/contact",
+    "timestamp": "2026-09-03T16:49:26.126135"
+  },
+  {
+    "seller": "ShreeRamSales",
+    "field": "Legal Entity Name",
+    "query": "ShreeRamSales company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.twse.com.tw/zh/announcement/punish.html",
+      "https://www.tpex.org.tw/zh-tw/announce/market/disposal.html",
+      "https://fmstudio.blog/what-is-designated-stock-guide-2025/",
+      "https://www.stockwarden.com/dispositions"
+    ],
+    "timestamp": "2026-09-03T16:49:31.085144",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShreeRamSales",
+    "field": "PAN",
+    "query": "ShreeRamSales PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kakeizudokoro.com/posts/france-ouseishitsu-kakeizu/",
+      "https://ja.alegsaonline.com/art/124718",
+      "https://melchangmel.hatenablog.com/entry/frenchrev",
+      "https://europa-japan.com/category12/entry98.html"
+    ],
+    "timestamp": "2026-09-03T16:49:46.224408",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShreeRamSales",
+    "field": "GST",
+    "query": "ShreeRamSales GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5573643",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-09-03T16:50:12.193524",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShreeRamSales",
+    "field": "Address",
+    "query": "ShreeRamSales registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.turtle-wow.org/app.php/thankslist/givens/348456/false",
+      "https://forum.turtle-wow.org/viewtopic.php?p=3309",
+      "https://forum.turtle-wow.org/viewtopic.php?t=4195",
+      "https://forum.turtle-wow.org/viewtopic.php?p=120845"
+    ],
+    "timestamp": "2026-09-03T16:50:20.250105",
+    "status": "results_found"
+  },
+  {
+    "seller": "ShreeRamSales",
+    "field": "Address",
+    "query": "ShreeRamSales registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opencorpdata.com/lei/984500AI0649D7B15740",
+      "https://shreeramsales.store/products",
+      "https://www.dnb.com/business-directory/company-profiles.shreeram_sales_corporation.8e2b1129d5ba368c6c050b800bf1bb33.html",
+      "https://shreeramsalescorporation.com/contact/"
+    ],
+    "timestamp": "2026-09-03T16:50:34.915635",
+    "status": "results_found"
+  }
+]

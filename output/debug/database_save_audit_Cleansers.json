@@ -1,0 +1,61 @@
+{
+  "category": "Cleansers",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 295,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "support@rkgaming.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Fixderma India Pvt. Ltd.",
+      "database_id": 296,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918392025100",
+      "email": "support@fixderma.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.fixderma.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Vedi Herbals",
+      "database_id": 297,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919313162026",
+      "email": "bengaluru@vediwellness.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.vediherbals.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Mosaic Wellness Private Ltd.",
+      "database_id": 298,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911244546400",
+      "email": "care.india@mosaicco.com",
+      "gst": "27AASCA5755D1ZE",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

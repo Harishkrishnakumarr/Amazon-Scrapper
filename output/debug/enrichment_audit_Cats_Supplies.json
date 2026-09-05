@@ -1,0 +1,805 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0BMGPV6TS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T13:45:01.902678"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://us.etrade.com/e/t/user/login?msockid=13cfafa641696af83e77b81a40cd6b59"
+    ],
+    "timestamp": "2026-08-21T13:45:03.389985",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=13cfafa641696af83e77b81a40cd6b59",
+    "timestamp": "2026-08-21T13:45:59.149748"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+914015114015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-21T13:46:00.136626"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://us.etrade.com/l/welcome/new-account?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/company-name/reservation",
+      "https://www.scribd.com/document/675585115/E-Trade-Form-BG-New-Tirky"
+    ],
+    "timestamp": "2026-08-21T13:46:07.573353",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=13cfafa641696af83e77b81a40cd6b59"
+    ],
+    "timestamp": "2026-08-21T13:46:34.884562",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://us.etrade.com/e/t/user/login?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview"
+    ],
+    "timestamp": "2026-08-21T13:46:37.518482",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/frequently-asked-questions/account-info",
+      "https://us.etrade.com/frequently-asked-questions/account-features",
+      "https://us.etrade.com/frequently-asked-questions/open-an-account",
+      "https://us.etrade.com/frequently-asked-questions/investing-trading",
+      "https://us.etrade.com/frequently-asked-questions/most-popular"
+    ],
+    "timestamp": "2026-08-21T13:46:48.217106",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://us.etrade.com/e/t/user/login?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "http://www.etrade.com/activate"
+    ],
+    "timestamp": "2026-08-21T13:46:52.128770",
+    "status": "results_found"
+  },
+  {
+    "business": "The Pet Project India",
+    "field": "Business Name",
+    "value": "The Pet Project India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20A41J9LPKXUG&asin=B09BB7931L&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T13:47:03.685691"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Website",
+    "query": "The Pet Project India official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://thepetproject.com/",
+      "https://thepetproject.com/collections/dog"
+    ],
+    "timestamp": "2026-08-21T13:47:07.959138",
+    "status": "results_found"
+  },
+  {
+    "business": "The Pet Project India",
+    "field": "Website URL",
+    "value": "https://thepetproject.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://thepetproject.com/collections/dog",
+    "timestamp": "2026-08-21T13:47:14.012412"
+  },
+  {
+    "business": "The Pet Project India",
+    "field": "Phone Number",
+    "value": "+914665202618",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://thepetproject.com/",
+    "timestamp": "2026-08-21T13:47:16.037582"
+  },
+  {
+    "business": "The Pet Project India",
+    "field": "Email Address",
+    "value": "hello@thepetproject.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://thepetproject.com/",
+    "timestamp": "2026-08-21T13:47:16.040420"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Legal Entity Name",
+    "query": "The Pet Project India company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.wikihow.com/Get-Help-with-File-Explorer-in-Windows",
+      "https://geekzag.com/guides/computers/get-help-with-file-explorer-in-windows/"
+    ],
+    "timestamp": "2026-08-21T13:47:27.473127",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Legal Entity Name",
+    "query": "The Pet Project India Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.companydetails.in/company/pet-project-india-private-limited",
+      "https://www.falconebiz.com/company/PET-PROJECT-INDIA-PRIVATE-LIMITED-U52500DL2016PTC298742",
+      "https://www.thecompanycheck.com/company/pet-project-india-private-limited/U52500DL2016PTC298742",
+      "https://www.indiafilings.com/search/pet-project-india-private-limited-cin-U52500DL2016PTC298742",
+      "https://www.instafinancials.com/company/pet-project-india-private-limited/U52500DL2016PTC298742/contact-us.html"
+    ],
+    "timestamp": "2026-08-21T13:47:31.737479",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Legal Entity Name",
+    "query": "The Pet Project India legal entity",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://translate.google.co.kr/"
+    ],
+    "timestamp": "2026-08-21T13:47:46.540430",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "PAN",
+    "query": "The Pet Project India PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://summerplaceal.com/",
+      "https://summerplaceal.com/guestcard/",
+      "https://summerplaceal.com/portal/",
+      "https://summerplaceal.com/neighborhood/",
+      "https://summerplaceal.com/privacy-policy/"
+    ],
+    "timestamp": "2026-08-21T13:47:47.996954",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "PAN",
+    "query": "The Pet Project India PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://thepetproject.com/",
+      "https://thepetproject.com/collections/dog",
+      "https://thepetproject.com/collections/cat",
+      "https://thepetproject.com/pages/contact",
+      "https://thepetproject.com/collections/pupp-up-to-3-months"
+    ],
+    "timestamp": "2026-08-21T13:47:56.783785",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "GST",
+    "query": "The Pet Project India GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/pet-project-india-private-limited-27aaicp5848e1z5/",
+      "https://www.knowyourgst.com/gst-number-search/pet-project-india-private-limited-27AAICP5848E1Z5/",
+      "https://fnshiftsolutions.com/gstin-search/pet-project-india-private-limited-07AAICP5848E1Z7",
+      "https://www.knowyourgst.com/gst-number-search/pet-project-india-private-limited-07AAICP5848E1Z7/",
+      "https://fnshiftsolutions.com/gstin-search/pet-project-india-private-limited-27AAICP5848E1Z5"
+    ],
+    "timestamp": "2026-08-21T13:48:11.839583",
+    "status": "results_found"
+  },
+  {
+    "business": "The Pet Project India",
+    "field": "GST Number",
+    "value": "27AAICP5848E1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/pet-project-india-private-limited-27aaicp5848e1z5/",
+    "timestamp": "2026-08-21T13:48:13.220733"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Owner",
+    "query": "The Pet Project India director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/",
+      "https://jingyan.baidu.com/article/eae07827d1ff0e5fec5485bb.html",
+      "https://jingyan.baidu.com/article/1876c852a779bfc80b13769e.html",
+      "https://www.zhihu.com/question/652792523",
+      "https://jingyan.baidu.com/article/15622f244e9c16bcfcbea5fd.html"
+    ],
+    "timestamp": "2026-08-21T13:48:14.902139",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Address",
+    "query": "The Pet Project India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.dominos.com.bd/",
+      "https://www.foodpanda.com.bd/city/dhaka/cuisine/pizza-73",
+      "https://www.foodpanda.com.bd/chain/cy3tm/pizza-inn-dhaka-chain",
+      "https://prothomblog.com/pizza-places-in-dhaka/",
+      "https://www.pizzaroma.com.bd/"
+    ],
+    "timestamp": "2026-08-21T13:48:41.012610",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Address",
+    "query": "The Pet Project India registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.reddit.com/r/TopGear/comments/16wgpc/complete_google_map_routes_of_top_gear/",
+      "https://www.reddit.com/r/google/comments/36qlk0/how_do_i_rotate_google_maps_on_pc/"
+    ],
+    "timestamp": "2026-08-21T13:48:49.841025",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Pet Project India",
+    "field": "Address",
+    "query": "The Pet Project India head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jooq.org/",
+      "https://www.jooq.org/doc/latest/manual/",
+      "https://blog.jooq.org/querydsl-vs-jooq-feature-completeness-vs-now-more-than-ever/",
+      "https://blog.jooq.org/",
+      "https://repo.jooq.org/"
+    ],
+    "timestamp": "2026-08-21T13:48:55.398640",
+    "status": "results_found"
+  },
+  {
+    "business": "CRAZY PET SHOP",
+    "field": "Business Name",
+    "value": "CRAZY PET SHOP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20D695D80825T&asin=B07W4Q6933&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T13:49:00.733355"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Website",
+    "query": "CRAZY PET SHOP official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new"
+    ],
+    "timestamp": "2026-08-21T13:49:02.054625",
+    "status": "results_found"
+  },
+  {
+    "business": "CRAZY PET SHOP",
+    "field": "Website URL",
+    "value": "https://www.crazypetshop.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.crazypetshop.com/",
+    "timestamp": "2026-08-21T13:49:05.907226"
+  },
+  {
+    "business": "CRAZY PET SHOP",
+    "field": "Phone Number",
+    "value": "+919305522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.crazypetshop.com/",
+    "timestamp": "2026-08-21T13:49:07.411224"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Legal Entity Name",
+    "query": "CRAZY PET SHOP company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:49:17.444405",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Legal Entity Name",
+    "query": "CRAZY PET SHOP Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:49:25.799222",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Legal Entity Name",
+    "query": "CRAZY PET SHOP legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:49:32.265937",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "PAN",
+    "query": "CRAZY PET SHOP PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/"
+    ],
+    "timestamp": "2026-08-21T13:49:38.045459",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "PAN",
+    "query": "CRAZY PET SHOP PAN",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.justdial.com/Tirunelveli/Pandian-Petshop-Royal-Street-Nanguneri/0462PX462-X462-180913085501-A6C5_BZDET",
+      "https://dtp.tn.gov.in/project/forms/TownPanchayatMaster/quick_pay.php",
+      "https://www.target.com/b/littlest-pet-shop/-/N-5rqy6"
+    ],
+    "timestamp": "2026-08-21T13:49:45.638169",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "GST",
+    "query": "CRAZY PET SHOP GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:04.045720",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "GST",
+    "query": "CRAZY PET SHOP GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:11.262820",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "GST",
+    "query": "CRAZY PET SHOP GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:18.651906",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Owner",
+    "query": "CRAZY PET SHOP director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:23.885378",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Owner",
+    "query": "CRAZY PET SHOP managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:33.759007",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Owner",
+    "query": "CRAZY PET SHOP founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:41.209675",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Address",
+    "query": "CRAZY PET SHOP registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:44.430263",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Address",
+    "query": "CRAZY PET SHOP registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:51.435956",
+    "status": "results_found"
+  },
+  {
+    "seller": "CRAZY PET SHOP",
+    "field": "Address",
+    "query": "CRAZY PET SHOP head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crazygames.com/",
+      "https://www.crazygames.com/new",
+      "https://poki.com/en/crazy-games?msockid=13cfafa641696af83e77b81a40cd6b59",
+      "https://crazygames.gg/",
+      "https://playgama.com/category/crazy-games"
+    ],
+    "timestamp": "2026-08-21T13:50:58.511227",
+    "status": "results_found"
+  },
+  {
+    "business": "BURAQ PETS \u00ae",
+    "field": "Business Name",
+    "value": "BURAQ PETS \u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A11YXSZ8DRYLTB&asin=B0CBCDFFJD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T13:51:02.428946"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "Website",
+    "query": "BURAQ PETS \u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq"
+    ],
+    "timestamp": "2026-08-21T13:51:03.876388",
+    "status": "results_found"
+  },
+  {
+    "business": "BURAQ PETS \u00ae",
+    "field": "Website URL",
+    "value": "https://www.buraqpets.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.buraqpets.com/",
+    "timestamp": "2026-08-21T13:51:11.856347"
+  },
+  {
+    "business": "BURAQ PETS \u00ae",
+    "field": "Phone Number",
+    "value": "+910006922026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.buraqpets.com/",
+    "timestamp": "2026-08-21T13:51:15.501093"
+  },
+  {
+    "business": "BURAQ PETS \u00ae",
+    "field": "Email Address",
+    "value": "ccburaqpets@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.buraqpets.com/",
+    "timestamp": "2026-08-21T13:51:15.501152"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "Legal Entity Name",
+    "query": "BURAQ PETS \u00ae company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:51:28.894590",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "Legal Entity Name",
+    "query": "BURAQ PETS \u00ae Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://piceapp.com/gst-number-search/buraq-pets-33ewxps8736n1z6/",
+      "https://piceapp.com/gst-number-search/buraq-pets-27ewxps8736n1zz/",
+      "https://www.knowyourgst.com/gst-number-search/buraq-pets-36EWXPS8736N1Z0/",
+      "https://www.buraqpetsupplies.com/"
+    ],
+    "timestamp": "2026-08-21T13:51:47.929527",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "PAN",
+    "query": "BURAQ PETS \u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:51:49.237353",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "PAN",
+    "query": "BURAQ PETS \u00ae PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:51:59.217796",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "PAN",
+    "query": "BURAQ PETS \u00ae PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:52:07.416423",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "GST",
+    "query": "BURAQ PETS \u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:52:13.215350",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "GST",
+    "query": "BURAQ PETS \u00ae GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:52:22.050039",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "Owner",
+    "query": "BURAQ PETS \u00ae director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://rocketreach.co/abdul-jabbar-email_256779978",
+      "https://www.scribd.com/document/1037515558/Buraq-Pets-2026-April",
+      "https://www.buraqpets.com/",
+      "https://piceapp.com/gst-number-search/buraq-pets-29ewxps8736n1zv/"
+    ],
+    "timestamp": "2026-08-21T13:52:35.965334",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "Owner",
+    "query": "BURAQ PETS \u00ae managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:52:46.935968",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "Address",
+    "query": "BURAQ PETS \u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.buraqpets.com/",
+      "https://wikiislam.net/wiki/Buraq",
+      "https://mythicalencyclopedia.com/buraq/",
+      "https://imp-art.org/articles/buraq/",
+      "https://buraq.aero/"
+    ],
+    "timestamp": "2026-08-21T13:52:54.295228",
+    "status": "results_found"
+  },
+  {
+    "seller": "BURAQ PETS \u00ae",
+    "field": "Address",
+    "query": "BURAQ PETS \u00ae registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.buraqpets.com/"
+    ],
+    "timestamp": "2026-08-21T13:53:02.338068",
+    "status": "results_found"
+  }
+]

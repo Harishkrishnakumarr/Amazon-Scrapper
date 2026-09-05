@@ -1,0 +1,48 @@
+{
+  "category": "Women'S Sports Sandals",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Campusactivewear",
+      "database_id": 1370,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919667706012",
+      "email": "customercare@campusshoes.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.campusactivewear.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1371,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Bata_India Ltd",
+      "database_id": 1372,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918004192282",
+      "email": "contact@grabon.in",
+      "gst": "19AABCB1043Q1ZJ",
+      "pan": "AABCB1043Q",
+      "website": "https://www.bata.com/",
+      "status": "Verified"
+    }
+  ]
+}

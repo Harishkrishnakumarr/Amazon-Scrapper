@@ -1,0 +1,74 @@
+{
+  "category": "Baby Feeding Bottle",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "R & R",
+      "database_id": 1181,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1182,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "secretarial@rk.world",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Hamilton Housewares",
+      "database_id": 1183,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@hamiltonindia.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Mylo Family",
+      "database_id": 1184,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047190745",
+      "email": "shop@mylofamily.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.mylofamily.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Unitech Press LLP",
+      "database_id": 1185,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support.tenders@unitechgroup.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.unitechgroup.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

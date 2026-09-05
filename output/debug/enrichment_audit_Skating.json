@@ -1,0 +1,1063 @@
+[
+  {
+    "business": "G Mart Global",
+    "field": "Business Name",
+    "value": "G Mart Global",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1MRFSFXRSVUE&asin=B0F6TLBFS4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T19:37:11.151069"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Website",
+    "query": "G Mart Global official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://global.gmarket.co.kr/Home/MainStartPage"
+    ],
+    "timestamp": "2026-08-22T19:37:12.911753",
+    "status": "results_found"
+  },
+  {
+    "business": "G Mart Global",
+    "field": "Website URL",
+    "value": "https://www.gmartglobal.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.gmartglobal.com/",
+    "timestamp": "2026-08-22T19:37:14.398038"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Legal Entity Name",
+    "query": "G Mart Global company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/G-MART-GLOBAL-PRIVATE-LIMITED-U47810MP2024PTC071851",
+      "https://www.companydetails.in/company/g-mart-global-private-limited",
+      "https://www.thecompanycheck.com/company/g-mart-global-private-limited/U47810MP2024PTC071851",
+      "https://www.indiafilings.com/search/g-mart-global-private-limited-cin-U47810MP2024PTC071851",
+      "https://tracxn.com/d/legal-entities/india/g-mart-global-private-limited/__eoiJaFQMFNas8pZRGqLHa5u8VFZkKzL0Q2HsFAF_jxc"
+    ],
+    "timestamp": "2026-08-22T19:37:24.251183",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "PAN",
+    "query": "G Mart Global PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/global-mart-33avnps7886g2zr/",
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://www.knowyourgst.com/gst-number-search/g-mart-29BFBPG0630M2ZJ/",
+      "http://services.gst.gov.in/services/searchtpbypan"
+    ],
+    "timestamp": "2026-08-22T19:37:43.103754",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "PAN",
+    "query": "G Mart Global PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://global.gmarket.co.kr/item?goodscode=4402589785",
+      "https://global.gmarket.co.kr/item?goodscode=4209944117",
+      "https://global.gmarket.co.kr/item?goodscode=4351546300",
+      "https://global.gmarket.co.kr/InternationalShippingInfo/"
+    ],
+    "timestamp": "2026-08-22T19:37:51.052023",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "PAN",
+    "query": "G Mart Global PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://tracxn.com/d/legal-entities/india/g-mart-global-private-limited/__eoiJaFQMFNas8pZRGqLHa5u8VFZkKzL0Q2HsFAF_jxc",
+      "https://www.companydetails.in/company/g-mart-global-private-limited",
+      "https://cleartax.in/gst-number-search/"
+    ],
+    "timestamp": "2026-08-22T19:37:58.802987",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "GST",
+    "query": "G Mart Global GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-22T19:38:02.929784",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "GST",
+    "query": "G Mart Global GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/newzen-global-mart-private-limited-33AAHCN6136E1ZO/",
+      "https://piceapp.com/gst-number-search/g-mart-33aaxfg5274d1z6/",
+      "http://global.gmarket.co.kr/Home/Main",
+      "https://www.knowyourgst.com/gst-number-search/nandilath-g-mart-32ACCPG7719G1ZW/"
+    ],
+    "timestamp": "2026-08-22T19:38:12.532586",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Owner",
+    "query": "G Mart Global director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://uniquetimes.org/gopu-nandilath-the-man-who-made-south-indias-largest-white-goods-empire/",
+      "https://uniquetimes.org/south-indias-retail-king-gopu-nandilath/",
+      "https://www.thecompanycheck.com/people-profile/gopalakrishnan-gopu-nandilath/03366660",
+      "https://en.everybodywiki.com/G-Mart_Corporation"
+    ],
+    "timestamp": "2026-08-22T19:38:26.222121",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Owner",
+    "query": "G Mart Global managing director",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/g-mart-global-private-limited/U47810MP2024PTC071851",
+      "https://g-mart.my/portal/g-mart-group-appointed-as-official-dealer-for-gwm-malaysia/"
+    ],
+    "timestamp": "2026-08-22T19:38:35.589042",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Address",
+    "query": "G Mart Global registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/06967310",
+      "http://www.g-martintl.com/index.php?m=home&c=Lists&a=index&tid=240",
+      "https://prospeo.io/c/gmart",
+      "http://g-martintl.com/",
+      "https://gmartindustries.com/contact"
+    ],
+    "timestamp": "2026-08-22T19:38:45.707524",
+    "status": "results_found"
+  },
+  {
+    "seller": "G Mart Global",
+    "field": "Address",
+    "query": "G Mart Global registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.companydetails.in/company/g-mart-global-private-limited",
+      "https://www.falconebiz.com/company/G-MART-GLOBAL-PRIVATE-LIMITED-U47810MP2024PTC071851",
+      "https://www.thecompanycheck.com/company/g-mart-global-private-limited/U47810MP2024PTC071851",
+      "https://tracxn.com/d/legal-entities/india/g-mart-global-private-limited/__eoiJaFQMFNas8pZRGqLHa5u8VFZkKzL0Q2HsFAF_jxc",
+      "https://www.indiafilings.com/search/g-mart-global-private-limited-cin-U47810MP2024PTC071851"
+    ],
+    "timestamp": "2026-08-22T19:38:59.999672",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Business Name",
+    "value": "Kosliya Lab",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANS81TAC3TJNF&asin=B0F6TLVMG1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T19:39:14.098285"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Website",
+    "query": "Kosliya Lab official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/24853/what-is-the-difference-between-i-and-i",
+      "https://stackoverflow.com/questions/4492979/error-git-is-not-recognized-as-an-internal-or-external-command"
+    ],
+    "timestamp": "2026-08-22T19:39:15.549583",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Lab company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://b2bhint.com/en/company/lt/koslita-uab--149562782",
+      "https://okredo.com/en-lt/company/koslita-uab-149562782",
+      "https://piceapp.com/gst-number-search/kosliya-enterprise-llp-06aazfk3136g1z2/",
+      "https://www.dnb.com/business-directory/company-profiles.kosliya_enterprise_llp.3497fd8b13ee6a3c8f426f7707e4b5c6.html"
+    ],
+    "timestamp": "2026-08-22T19:39:20.545210",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Lab Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.companydetails.in/company/khosla-labs-private-limited",
+      "https://piceapp.com/gst-number-search/khosla-labs-private-limited-29aaeck9415c1zj/",
+      "https://www.falconebiz.com/company/KHOSLA-LABS-PRIVATE-LIMITED-U72100KA2012PTC066179",
+      "https://www.companydetails.in/company/khosla-labs-pvt-ltd",
+      "https://www.knowyourgst.com/gst-number-search/khosla-labs-private-limited-29AAECK9415C1ZJ/"
+    ],
+    "timestamp": "2026-08-22T19:39:32.320217",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "PAN",
+    "query": "Kosliya Lab PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://incometaxindia.gov.in/pan"
+    ],
+    "timestamp": "2026-08-22T19:39:50.277512",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "PAN",
+    "query": "Kosliya Lab PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://helpdeskgeek.com/how-to-get-help-in-windows/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "https://en.windowsnoticias.com/How-to-get-help-in-Windows-10-11/",
+      "https://www.addictivetips.com/windows-tips/how-to-get-help-in-windows/",
+      "https://www.wikihow.com/Get-Help-in-Windows-11"
+    ],
+    "timestamp": "2026-08-22T19:39:59.500063",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "GST",
+    "query": "Kosliya Lab GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://scienceinsights.org/the-link-between-adhd-and-cortisol-dysregulation/",
+      "https://advancestudy.org/does-cortisol-inhibit-adh/",
+      "https://neurolaunch.com/adhd-and-cortisol/",
+      "https://neurolaunch.com/cortisol-and-adhd/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5837926/"
+    ],
+    "timestamp": "2026-08-22T19:40:07.731491",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "GST",
+    "query": "Kosliya Lab GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.expedia.com/Gondola-Rides-At-The-Venetian-Las-Vegas.d6228233.Vacation-Attraction?msockid=017e6c196f586f012c947ba46e056e84",
+      "https://www.expedia.co.in/Gondola-Rides-At-The-Venetian-Las-Vegas.d6228233.Attraction",
+      "https://www.expedia.com/Things-To-Do-In-Las-Vegas.d3000474960.Travel-Guide-Activities?msockid=017e6c196f586f012c947ba46e056e84",
+      "https://www.expedia.ca/Gondola-Rides-At-The-Venetian-Las-Vegas.d6228233.Vacation-Attraction?msockid=017e6c196f586f012c947ba46e056e84",
+      "https://www.expedia.co.nz/Gondola-Rides-At-The-Venetian-Las-Vegas.d6228233.Attraction"
+    ],
+    "timestamp": "2026-08-22T19:40:18.761913",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Owner",
+    "query": "Kosliya Lab director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.hokkoku-tec.co.jp/archives/2167/",
+      "https://www.steerlink.co.jp/truckinfo/maintenance/deteriorated-head-gasket/",
+      "https://car-karte.info/head/"
+    ],
+    "timestamp": "2026-08-22T19:40:30.312958",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Owner",
+    "query": "Kosliya Lab managing director",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877",
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://www.filesure.in/company/kosliya-enterprise-llp/ABC-2877?tab=about"
+    ],
+    "timestamp": "2026-08-22T19:40:41.931788",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Address",
+    "query": "Kosliya Lab registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://okredo.com/en-lt/company/koslita-uab-149562782",
+      "https://find-and-update.company-information.service.gov.uk/",
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877",
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://www.dnb.com/business-directory/company-profiles.kosliya_enterprise_llp.3497fd8b13ee6a3c8f426f7707e4b5c6.html"
+    ],
+    "timestamp": "2026-08-22T19:41:12.294227",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Billing Address",
+    "value": "alytus, piev\u0173 g. 9, lt-62175",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://okredo.com/en-lt/company/koslita-uab-149562782",
+    "timestamp": "2026-08-22T19:41:17.097829"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "City",
+    "value": "alytus",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://okredo.com/en-lt/company/koslita-uab-149562782",
+    "timestamp": "2026-08-22T19:41:17.097842"
+  },
+  {
+    "business": "POOH CREATION",
+    "field": "Business Name",
+    "value": "POOH CREATION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2WHRTC1HMTPAR&asin=B0BQWR7HBK&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T19:41:17.432110"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Website",
+    "query": "POOH CREATION official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://pooh.it/"
+    ],
+    "timestamp": "2026-08-22T19:41:20.617670",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Legal Entity Name",
+    "query": "POOH CREATION company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.nyayagrah.com/pvt-ltd-registration/pooh/",
+      "https://www.legalkamkaz.com/private-limited-company-registration-pooh/",
+      "https://secretaryofstate.com/",
+      "https://www.legalkamkaz.com/one-person-company-registration-pooh/",
+      "https://opencorporates.com/companies/us_ga/20112309"
+    ],
+    "timestamp": "2026-08-22T19:41:32.514627",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Legal Entity Name",
+    "query": "POOH CREATION Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:41:39.688992",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "PAN",
+    "query": "POOH CREATION PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:41:50.197370",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "PAN",
+    "query": "POOH CREATION PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:41:58.663110",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "PAN",
+    "query": "POOH CREATION PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.etsy.com/listing/1886819782/winnie-the-pooh-table-numbers-first",
+      "https://www.worthpoint.com/worthopedia/rare-wilton-winnie-the-pooh-pan-holding-number-one",
+      "https://www.worthpoint.com/worthopedia/wilton-winnie-the-pooh-number-1-cake-pan-first",
+      "https://cakecraftsdenver.com/products/winnie-the-pooh-number-1-cake-pan",
+      "https://www.etsy.com/market/pooh_table_numbers"
+    ],
+    "timestamp": "2026-08-22T19:42:06.107834",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "GST",
+    "query": "POOH CREATION GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-22T19:42:12.624300",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "GST",
+    "query": "POOH CREATION GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:42:16.000732",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "GST",
+    "query": "POOH CREATION GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:42:21.825022",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Owner",
+    "query": "POOH CREATION director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:42:27.951208",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Owner",
+    "query": "POOH CREATION managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://toybook.com/kartoon-studios-winnie-the-pooh-hires-news/",
+      "https://www.totallicensing.com/ryan-gagerman-to-lead-winnie-the-pooh-cp-team/",
+      "https://senalnews.com/en/content/kartoon-studios-to-launch-winnie-the-pooh-on-amazon-prime-video",
+      "https://ir.kartoonstudios.com/press-releases/detail/1232/kartoon-studios-to-launch-winnie-the-pooh-megabrand",
+      "https://www.animationmagazine.net/2024/06/kartoon-studios-launches-new-winnie-the-pooh-content-retail-program/"
+    ],
+    "timestamp": "2026-08-22T19:42:36.054320",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Address",
+    "query": "POOH CREATION registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.infobel.com/en/india/pooh_creation/mumbai/IN142073296/businessdetails.aspx",
+      "https://find-and-update.company-information.service.gov.uk/",
+      "https://www.tn.gov.in/karuvoolam/distlist.htm",
+      "https://www.scribd.com/document/633574518/Latest-Contact-details-Circlewise",
+      "https://registry-lookup.com/"
+    ],
+    "timestamp": "2026-08-22T19:42:49.353144",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Address",
+    "query": "POOH CREATION registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:43:06.483172",
+    "status": "results_found"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Phone",
+    "query": "POOH CREATION phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://winniethepooh.disney.com/",
+      "https://characters.disney.com/winnie-the-pooh/pooh",
+      "https://m.imdb.com/title/tt1449283/",
+      "https://disney.fandom.com/wiki/Winnie_the_Pooh",
+      "https://www.mentalfloss.com/literature/books/why-winnie-the-pooh-is-called-pooh"
+    ],
+    "timestamp": "2026-08-22T19:43:08.713775",
+    "status": "results_found"
+  },
+  {
+    "business": "POOH CREATION",
+    "field": "Phone Number",
+    "value": "+911416992026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://winniethepooh.disney.com/",
+    "timestamp": "2026-08-22T19:43:09.433249"
+  },
+  {
+    "seller": "POOH CREATION",
+    "field": "Email",
+    "query": "POOH CREATION email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.infobel.com/en/india/pooh_creation/mumbai/IN142073296/businessdetails.aspx",
+      "https://www.usbizs.com/AR/Pine_Bluff/Pooh_s_Creation_Childcare_bg6.html",
+      "https://www.poohscreativelearningcenter.com/contact",
+      "https://account.creation.co.uk/contact/email/",
+      "https://www.creation.co.uk/contact-us/"
+    ],
+    "timestamp": "2026-08-22T19:43:12.174860",
+    "status": "results_found"
+  },
+  {
+    "business": "POOH CREATION",
+    "field": "Email Address",
+    "value": "poohscreativelearning@yahoo.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.poohscreativelearningcenter.com/contact",
+    "timestamp": "2026-08-22T19:43:19.022369"
+  },
+  {
+    "business": "Snappsy",
+    "field": "Business Name",
+    "value": "Snappsy",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ALY5JG1XNO9T4&asin=B0F6TL4RS4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T19:43:19.353671"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "Website",
+    "query": "Snappsy official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.npmjs.com/package/nocache",
+      "https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the"
+    ],
+    "timestamp": "2026-08-22T19:43:20.516066",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "Legal Entity Name",
+    "query": "Snappsy company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.snappayglobal.com/UserRegistration",
+      "https://login.snappy.com/",
+      "https://find-and-update.company-information.service.gov.uk/company/15991950",
+      "https://www.bizprofile.net/ny/new-york/snappy-app-inc",
+      "https://find-and-update.company-information.service.gov.uk/company/15961698"
+    ],
+    "timestamp": "2026-08-22T19:43:42.241766",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "Legal Entity Name",
+    "query": "Snappsy Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.topmanhua.fan/manhua/symbiotic-relationship-between-the-sun-and-the-moon/chapter-47",
+      "https://www.topmanhua.fan/manhua/symbiosis-of-luna-and-sol",
+      "https://www.mangaupdates.com/series/79q3cla/symbiosis-of-luna-and-sol",
+      "https://www.scribd.com/document/790254587/ifellinloveatfi",
+      "https://pawmanga.onl/manga/symbiotic-relationship-between-the-sun-and-the-moon/chapter-47"
+    ],
+    "timestamp": "2026-08-22T19:43:53.438202",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "PAN",
+    "query": "Snappsy PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/ePANCardHome",
+      "https://www.pan.utiitsl.com/PAN/csf.html",
+      "https://www.pan.utiitsl.com/PAN/reprint.html",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/addresschangeHome"
+    ],
+    "timestamp": "2026-08-22T19:44:12.420635",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "PAN",
+    "query": "Snappsy PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.outsidereview.com/outdoor-vacation-ideas-with-a-toddler/",
+      "https://todaytraveling.com/outdoor-vacation-ideas-with-a-toddler/",
+      "https://checkdatetime.com/tips/outdoor-vacation-ideas-with-toddler/",
+      "https://www.talkofthehouse.com/outdoor-vacation-ideas-with-a-toddler/",
+      "https://minimalhaven.com/outdoor-vacation-ideas-with-a-toddler/"
+    ],
+    "timestamp": "2026-08-22T19:44:19.072634",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "GST",
+    "query": "Snappsy GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-22T19:44:28.897248",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "GST",
+    "query": "Snappsy GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://monitor.lunio.ai/v3.0/template?accid=16896&urldecode=1&kw=cnapp&mt=p&nw=o&cpn=428329240&devi=c&devm=&locp=262576&loci=&pl=&cr=&adp=&sadt=&url=https%3A%2F%2Fwww.datadoghq.com%2Fdg%2Fsecurity%2Fcloud-security-management%2F%3Futm_source%3Dbing%26utm_medium%3Dpaid-search%26utm_campaign%3Ddg-security-na-csm%26utm_keyword%3Dcnapp%26utm_matchtype%3Dp%26igaag%3D1311718527154335%26igaat%3D%26igacm%3D428329240%26igacr%3D%26igakw%3Dcnapp%26igamt%3Dp%26igant%3Do%26utm_campaignid%3D428329240%26utm_adgroupid%3D1311718527154335&msclkid=d96b67b10b451afb5e020d38a59f3ca9",
+      "https://www.knowyourgst.com/gst-number-search/snappys-quickcom-33ABPCS8189K1ZF/",
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://www.mastersindia.co/gst-search/?name=rukhasana-khatun&gstin=36JEKPK2136A1ZQ"
+    ],
+    "timestamp": "2026-08-22T19:44:37.784014",
+    "status": "results_found"
+  },
+  {
+    "business": "Snappsy",
+    "field": "GST Number",
+    "value": "33ABPCS8189K1ZF",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/snappys-quickcom-33ABPCS8189K1ZF/",
+    "timestamp": "2026-08-22T19:44:44.294528"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "Owner",
+    "query": "Snappsy director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.periodni.com/es/metodo_de_semi-reacciones.php",
+      "https://www.paginaspersonales.unam.mx/app/webroot/files/5404/2020-02-12-174835_Balanceoion-electron.pdf",
+      "https://quimicaencasa.com/balanceo-redox-metodo-ion-electron-ejercicios-resueltos/",
+      "https://amyd.quimica.unam.mx/mod/resource/view.php?id=6600"
+    ],
+    "timestamp": "2026-08-22T19:44:46.638056",
+    "status": "results_found"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "Address",
+    "query": "Snappsy registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-22T19:45:13.896439",
+    "status": "no_results"
+  },
+  {
+    "seller": "Snappsy",
+    "field": "Address",
+    "query": "Snappsy registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/topic/19559627/intro",
+      "https://www.zhihu.com/question/19562210",
+      "https://www.zhihu.com/question/19562210/answers/updated",
+      "https://www.zhihu.com/question/498764459",
+      "https://www.zhihu.com/question/63348106"
+    ],
+    "timestamp": "2026-08-22T19:45:17.860456",
+    "status": "results_found"
+  },
+  {
+    "business": "Sdecor Space",
+    "field": "Business Name",
+    "value": "Sdecor Space",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A17OJLH184NQ6C&asin=B0GQJZFGBW&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T19:45:23.772906"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Website",
+    "query": "Sdecor Space official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.youtubekids.com/"
+    ],
+    "timestamp": "2026-08-22T19:45:25.900202",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Legal Entity Name",
+    "query": "Sdecor Space company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/2041886702596255863",
+      "https://www.zhihu.com/question/2067324652582655698",
+      "https://www.zhihu.com/question/39379466",
+      "https://www.zhihu.com/question/2064025159225316158",
+      "https://www.zhihu.com/question/36394941"
+    ],
+    "timestamp": "2026-08-22T19:45:34.245544",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Legal Entity Name",
+    "query": "Sdecor Space Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://zauba.company/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-22T19:45:42.652324",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Legal Entity Name",
+    "query": "Sdecor Space legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/decor-space-llp/__qewtave4dIiP4oGDLcE6XWhMXB92UghEzY0zbHUcM-I",
+      "https://entitysearch.us/",
+      "https://tracxn.com/d/legal-entities/india/space-decor-private-limited/__RZ8C2WidlkxHBbyzfSYxkJDB_y--TuxsnjF7VTiFndk",
+      "https://opencorporates.com/",
+      "https://sam.gov/entity-information"
+    ],
+    "timestamp": "2026-08-22T19:45:52.018618",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "PAN",
+    "query": "Sdecor Space PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://microsoft-word-2016.en.softonic.com/",
+      "https://microsoft-word-2016.en.softonic.com/download"
+    ],
+    "timestamp": "2026-08-22T19:45:55.196628",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "PAN",
+    "query": "Sdecor Space PAN",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://sdecor.shop/",
+      "https://design.cricut.com/setup?visitorId=4d0c281b-5d89-48b5-8fce-b7a3572277d5&deepLinkGuid=04d0718c-5995-4be1-b2a7-a567e5f36e4a"
+    ],
+    "timestamp": "2026-08-22T19:46:00.404075",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "PAN",
+    "query": "Sdecor Space PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://decorespace.in/",
+      "https://www.decorspace.co.in/",
+      "https://sdecor.shop/",
+      "https://sdecor.space/",
+      "https://www.decorspace.in/services"
+    ],
+    "timestamp": "2026-08-22T19:46:10.570760",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "GST",
+    "query": "Sdecor Space GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-22T19:46:27.455190",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "GST",
+    "query": "Sdecor Space GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/06AAHCS2907G1ZH",
+      "https://cleartax.in/gst-number-search/",
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/galaxeye-space-solutions-private-limited-29AAJCG0401B1Z8/",
+      "https://services.gst.gov.in/services/searchtp"
+    ],
+    "timestamp": "2026-08-22T19:46:32.298571",
+    "status": "results_found"
+  },
+  {
+    "business": "Sdecor Space",
+    "field": "GST Number",
+    "value": "06AAHCS2907G1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/06AAHCS2907G1ZH",
+    "timestamp": "2026-08-22T19:46:33.118037"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Owner",
+    "query": "Sdecor Space director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://castle-aap.fit/",
+      "https://www.goamericano.com/app",
+      "https://castle-app.work/",
+      "https://castleapps.net.in/pc/",
+      "https://www.shasha.co/"
+    ],
+    "timestamp": "2026-08-22T19:46:36.105372",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Owner",
+    "query": "Sdecor Space managing director",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zoominfo.com/p/Sharu-Mathi/2482730758",
+      "https://sdecor.space/",
+      "https://www.spacedecor.in/",
+      "https://sdecor.shop/"
+    ],
+    "timestamp": "2026-08-22T19:46:45.721062",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Owner",
+    "query": "Sdecor Space founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.space-founder.com/",
+      "https://www.space-founder.com/typen",
+      "https://www.space-founder.com/konzepte",
+      "https://www.space-founder.com/referenzen",
+      "https://www.space-founder.com/%C3%BCberuns"
+    ],
+    "timestamp": "2026-08-22T19:46:52.417699",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Address",
+    "query": "Sdecor Space registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/aternos/hot/",
+      "https://board.aternos.org/thread/101151-%D0%BD%D0%B5-%D0%BE%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B0%D1%8E%D1%82%D1%81%D1%8F-%D1%81%D0%BA%D0%B8%D0%BD%D1%8B-%D0%BD%D0%B0-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5/",
+      "https://board.aternos.org/",
+      "https://www.reddit.com/r/betterminecraft/comments/1awhq7x/question_for_better_mc_on_aternos/",
+      "https://www.mpcforum.pl/topic/1610201-co-s%C4%85dzicie-o-aternos-darmowa-serwerownia/"
+    ],
+    "timestamp": "2026-08-22T19:46:55.530875",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Address",
+    "query": "Sdecor Space registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://sdecor.space/",
+      "https://sdecor.shop/",
+      "https://sdecor.space/gioi-thieu/",
+      "https://find-and-update.company-information.service.gov.uk/"
+    ],
+    "timestamp": "2026-08-22T19:47:04.486580",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Address",
+    "query": "Sdecor Space head office address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://sdecor.space/",
+      "https://thuvienphapluat.vn/ma-so-thue/cong-ty-tnhh-kien-tao-khong-gian-sdecor-mst-0111456013.html?hl=en",
+      "https://sdecor.shop/",
+      "https://sdecor.space/gioi-thieu/",
+      "https://vnbis.com/products/companies/representative-office-of-sdecor-interior-architecture-and-interior-co-ltd-1709348/"
+    ],
+    "timestamp": "2026-08-22T19:47:09.393652",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sdecor Space",
+    "field": "Phone",
+    "query": "Sdecor Space phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/493732209",
+      "https://jingyan.baidu.com/article/d7130635e05a8c13fcf47544.html",
+      "http://jingyan.baidu.com",
+      "http://jingyan.baidu.com//list/10",
+      "http://jingyan.baidu.com//list/11"
+    ],
+    "timestamp": "2026-08-22T19:47:12.782103",
+    "status": "results_found"
+  }
+]

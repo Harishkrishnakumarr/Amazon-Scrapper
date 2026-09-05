@@ -1,0 +1,337 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0BNJFB321&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T12:05:45.323700"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+918104736231",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0BNJFB321&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T12:05:45.325286"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:05:58.272103",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T12:06:04.073520",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "support@clicktech.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.clicktech.com/",
+    "timestamp": "2026-08-28T12:06:14.127731"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T12:06:25.189583",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:06:51.747540",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-27AAJCC9783E1Z7/",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-27aajcc9783e1z7/",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-27aajcc9783e1z7/",
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/"
+    ],
+    "timestamp": "2026-08-28T12:07:09.390961",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T12:07:18.678173",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:07:34.974519",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.falconebiz.com/company/CLICKTECH-RETAIL-PRIVATE-LIMITED-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-28T12:07:46.510570",
+    "status": "results_found"
+  },
+  {
+    "business": "MinuteToCleanIt",
+    "field": "Business Name",
+    "value": "MinuteToCleanIt",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2BKJBZ9VRUU9J&asin=B0B911W5NB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T12:07:48.939264"
+  },
+  {
+    "seller": "MinuteToCleanIt",
+    "field": "Website",
+    "query": "MinuteToCleanIt official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/blogs/web-development-best-practices/",
+      "https://www.netguru.com/blog/web-development-best-practices"
+    ],
+    "timestamp": "2026-08-28T12:07:52.276084",
+    "status": "results_found"
+  },
+  {
+    "business": "MinuteToCleanIt",
+    "field": "Website URL",
+    "value": "https://www.minutetocleanit.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.minutetocleanit.com/",
+    "timestamp": "2026-08-28T12:07:55.189384"
+  },
+  {
+    "business": "MinuteToCleanIt",
+    "field": "Phone Number",
+    "value": "+919588455015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.minutetocleanit.com/",
+    "timestamp": "2026-08-28T12:07:57.839733"
+  },
+  {
+    "business": "MinuteToCleanIt",
+    "field": "Email Address",
+    "value": "care@minutetocleanit.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.minutetocleanit.com/",
+    "timestamp": "2026-08-28T12:07:57.839868"
+  },
+  {
+    "seller": "MinuteToCleanIt",
+    "field": "Legal Entity Name",
+    "query": "MinuteToCleanIt company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/",
+      "https://pubmed.ncbi.nlm.nih.gov/advanced/",
+      "https://pubmed.ncbi.nlm.nih.gov/?SUBMIT=y",
+      "https://pubmed.ncbi.nlm.nih.gov/about/"
+    ],
+    "timestamp": "2026-08-28T12:08:11.627083",
+    "status": "results_found"
+  },
+  {
+    "seller": "MinuteToCleanIt",
+    "field": "PAN",
+    "query": "MinuteToCleanIt PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:08:42.777186",
+    "status": "no_results"
+  },
+  {
+    "seller": "MinuteToCleanIt",
+    "field": "GST",
+    "query": "MinuteToCleanIt GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://xhamster19.com/tags/indian-desi",
+      "https://www.porzo.com/category/indian-hd",
+      "https://hi.xhamster.desi/search/indian+xxx",
+      "https://xhamster19.com/categories/indian/hd?quality=1080p"
+    ],
+    "timestamp": "2026-08-28T12:08:48.508082",
+    "status": "results_found"
+  },
+  {
+    "seller": "MinuteToCleanIt",
+    "field": "Owner",
+    "query": "MinuteToCleanIt director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:09:17.357786",
+    "status": "no_results"
+  },
+  {
+    "seller": "MinuteToCleanIt",
+    "field": "Address",
+    "query": "MinuteToCleanIt registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:09:34.989204",
+    "status": "no_results"
+  },
+  {
+    "business": "TrueYee",
+    "field": "Business Name",
+    "value": "TrueYee",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A37HFNVLYV8EH5&asin=B0H8JRRDY7&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T12:09:40.589529"
+  },
+  {
+    "seller": "TrueYee",
+    "field": "Website",
+    "query": "TrueYee official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:09:55.073763",
+    "status": "no_results"
+  },
+  {
+    "seller": "TrueYee",
+    "field": "Legal Entity Name",
+    "query": "TrueYee company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=149940&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=9cbb8b074dc7193c022ce1966098fccf&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://find-and-update.company-information.service.gov.uk/company/08121298",
+      "https://uk.globaldatabase.com/company/trueye-limited",
+      "https://www.companieslist.co.uk/08121298-trueye-limited"
+    ],
+    "timestamp": "2026-08-28T12:10:36.088965",
+    "status": "results_found"
+  },
+  {
+    "seller": "TrueYee",
+    "field": "PAN",
+    "query": "TrueYee PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:10:53.203395",
+    "status": "no_results"
+  },
+  {
+    "seller": "TrueYee",
+    "field": "GST",
+    "query": "TrueYee GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:11:10.839420",
+    "status": "no_results"
+  },
+  {
+    "seller": "TrueYee",
+    "field": "Owner",
+    "query": "TrueYee director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:11:22.771865",
+    "status": "no_results"
+  },
+  {
+    "seller": "TrueYee",
+    "field": "Owner",
+    "query": "TrueYee founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://www.asiaodysseytravel.com/vietnam/food.html"
+    ],
+    "timestamp": "2026-08-28T12:11:28.187753",
+    "status": "results_found"
+  },
+  {
+    "seller": "TrueYee",
+    "field": "Address",
+    "query": "TrueYee registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allevents.in/dhaka",
+      "https://allevents.in/jakarta",
+      "https://allevents.in/gaborone/all",
+      "https://allevents.in/new-delhi"
+    ],
+    "timestamp": "2026-08-28T12:11:32.507172",
+    "status": "results_found"
+  }
+]

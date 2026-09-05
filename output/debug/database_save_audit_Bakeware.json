@@ -1,0 +1,74 @@
+{
+  "category": "Bakeware",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "PotsandPans India",
+      "database_id": 239,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910512342026",
+      "email": "care@meyerindia.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.potsandpans.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 240,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "infogrp@indiaratings.co.in",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ATM RETAIL",
+      "database_id": 241,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "info@ktkbank.com",
+      "gst": "06ABBFA8629H1ZG",
+      "pan": "Not Found",
+      "website": "https://www.atmretail.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ArifeOnline",
+      "database_id": 242,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910765372026",
+      "email": "support@arifeonline.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.arifeonline.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Zelkey Traders",
+      "database_id": 243,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "27EDXPK0558M1ZO",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

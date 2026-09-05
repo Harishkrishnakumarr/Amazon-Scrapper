@@ -1,0 +1,48 @@
+{
+  "category": "Camera",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 699,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "legal-team@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KODAK Photo Printer",
+      "database_id": 700,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919711088885",
+      "email": "support@kodakphotoprinter.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.kodakphotoprinter.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 701,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919840477576",
+      "email": "orders@kaystore.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

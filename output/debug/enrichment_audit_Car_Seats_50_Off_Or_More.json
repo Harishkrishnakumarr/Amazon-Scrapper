@@ -1,0 +1,478 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0F8QX65CW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T08:03:02.932078"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T08:03:18.815047",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T08:03:53.670921",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://us.etrade.com/home/welcome-back?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T08:03:56.496111",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-27T08:04:13.514429"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://us.etrade.com/home/welcome-back?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T08:04:17.884927",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://us.etrade.com/home/welcome-back?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T08:04:30.881014",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://us.etrade.com/home/welcome-back?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T08:04:32.165797",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://us.etrade.com/home/welcome-back?msockid=0858068d5b3c6bd2392b114f5ac16a91",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T08:04:54.752350",
+    "status": "results_found"
+  },
+  {
+    "business": "BuySasta Enterprises",
+    "field": "Business Name",
+    "value": "BuySasta Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1INPAT2PKU0V4&asin=B0CWMVZQT4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T08:05:06.885208"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "Website",
+    "query": "BuySasta Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.allrecipes.com/recipes/",
+      "https://www.allrecipes.com/"
+    ],
+    "timestamp": "2026-08-27T08:05:08.478807",
+    "status": "results_found"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "Legal Entity Name",
+    "query": "BuySasta Enterprises company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://info.bizex.ae/company-setup?msclkid=bb2114eaaf5f1ebf127d7e650d347081",
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686823x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686823&hsa_kw=how%20to%20register%20a%20business%20in%20the%20united%20states&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=66b578fd4ac617fcedde1272e8ada298&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=how%20to%20register%20a%20business%20in%20the%20united%20states&utm_content=International%20-%20International%20-%20General",
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=262576&loc_interest_ms=&adgroupid=1343605787129260&keywords=register%20a%20ltd%20company&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct&campaignid=606415592&device=c&domain=companyregistration.direct&placement=&msclkid=07d13b3fa7fa16a0b9f851b00591adf1",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-27T08:05:22.785273",
+    "status": "results_found"
+  },
+  {
+    "business": "BuySasta Enterprises",
+    "field": "Email Address",
+    "value": "info@bizex.ae",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://info.bizex.ae/company-setup?msclkid=bb2114eaaf5f1ebf127d7e650d347081",
+    "timestamp": "2026-08-27T08:05:25.666370"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "PAN",
+    "query": "BuySasta Enterprises PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T08:05:39.991684",
+    "status": "no_results"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "PAN",
+    "query": "BuySasta Enterprises PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://www.go5109.com/",
+      "http://www.go5109.com/shop/page.html?id=7",
+      "http://www.go5109.com/shop/gobasket.html",
+      "http://www.go5109.com/shop/shopbrand.html?xcode=185&type=X"
+    ],
+    "timestamp": "2026-08-27T08:05:41.980093",
+    "status": "results_found"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "GST",
+    "query": "BuySasta Enterprises GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://freefy.app/",
+      "https://freefy.app/search",
+      "https://knowledgebase.freefy.app/",
+      "https://games.freefy.app/"
+    ],
+    "timestamp": "2026-08-27T08:05:50.493608",
+    "status": "results_found"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "GST",
+    "query": "BuySasta Enterprises GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://lovetosing.com/products/five-little-speckled-frogs-animal-song",
+      "https://open.spotify.com/track/2RFXlMLb8lGV2aGpbkI1PF",
+      "https://www.shazam.com/song/1776300406/five-little-speckled-frogs",
+      "https://open.spotify.com/track/5i8LWCgDPbaenPBrTMQUf0"
+    ],
+    "timestamp": "2026-08-27T08:05:53.963350",
+    "status": "results_found"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "Owner",
+    "query": "BuySasta Enterprises director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/b-l-mittal",
+      "https://tracxn.com/d/companies/buysasta/__FrXXtB5h8OIWPh6igwy21zr62DGg-jGgRayEb8Ld8Ks",
+      "https://companydata.com/business-owner-search/",
+      "https://www.bizapedia.com/company-search.aspx"
+    ],
+    "timestamp": "2026-08-27T08:06:08.231151",
+    "status": "results_found"
+  },
+  {
+    "business": "BuySasta Enterprises",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/buysasta/__FrXXtB5h8OIWPh6igwy21zr62DGg-jGgRayEb8Ld8Ks",
+    "timestamp": "2026-08-27T08:06:09.582697"
+  },
+  {
+    "business": "BuySasta Enterprises",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/buysasta/__FrXXtB5h8OIWPh6igwy21zr62DGg-jGgRayEb8Ld8Ks",
+    "timestamp": "2026-08-27T08:06:09.582713"
+  },
+  {
+    "business": "BuySasta Enterprises",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/buysasta/__FrXXtB5h8OIWPh6igwy21zr62DGg-jGgRayEb8Ld8Ks",
+    "timestamp": "2026-08-27T08:06:09.582718"
+  },
+  {
+    "business": "BuySasta Enterprises",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/buysasta/__FrXXtB5h8OIWPh6igwy21zr62DGg-jGgRayEb8Ld8Ks",
+    "timestamp": "2026-08-27T08:06:09.582723"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "Owner",
+    "query": "BuySasta Enterprises founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/buysasta/__FrXXtB5h8OIWPh6igwy21zr62DGg-jGgRayEb8Ld8Ks",
+      "https://buysasta.in/about.php",
+      "https://www.forbes.com/sites/martineparis/2019/10/30/the-smart-portfolio-of-rob-coneybeer/",
+      "https://buysast.dukan.pk/"
+    ],
+    "timestamp": "2026-08-27T08:06:26.247959",
+    "status": "results_found"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "Phone",
+    "query": "BuySasta Enterprises phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/"
+    ],
+    "timestamp": "2026-08-27T08:06:28.115947",
+    "status": "results_found"
+  },
+  {
+    "seller": "BuySasta Enterprises",
+    "field": "Phone",
+    "query": "BuySasta Enterprises contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.allrecipes.com/recipes/",
+      "https://www.allrecipes.com/",
+      "https://www.allrecipes.com/recipes/80/main-dish/",
+      "https://www.allrecipes.com/recipe/31848/jambalaya/"
+    ],
+    "timestamp": "2026-08-27T08:06:35.543667",
+    "status": "results_found"
+  },
+  {
+    "business": "SAMARTH DEALS",
+    "field": "Business Name",
+    "value": "SAMARTH DEALS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A36K8GIZIBTL9&asin=B0D9QWP1T3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T08:06:44.316303"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "Website",
+    "query": "SAMARTH DEALS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://www.samarth.org/",
+      "https://www.jansamarth.in/login"
+    ],
+    "timestamp": "2026-08-27T08:06:55.370673",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "Legal Entity Name",
+    "query": "SAMARTH DEALS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://happy-freelife.com/entry/%ED%97%9D%EA%B0%80%EB%A6%AC-%EC%97%AC%ED%96%89-%EB%B6%80%EB%8B%A4%ED%8E%98%EC%8A%A4%ED%8A%B8-%EC%97%AC%ED%96%89%EC%A7%80%EB%8F%84-%EB%B6%80%EB%8B%A4%ED%8E%98%EC%8A%A4%ED%8A%B8-%EC%97%AC%ED%96%89-%EC%BD%94%EC%8A%A4-%EC%B4%9D%EC%A0%95%EB%A6%AC",
+      "https://travel.moneylabkr.com/%EB%B6%80%EB%8B%A4%ED%8E%98%EC%8A%A4%ED%8A%B8-%EC%97%AC%ED%96%89%EC%BD%94%EC%8A%A4/",
+      "https://www.kkday.com/ko/blog/17671/europe-hungary-budapest-travel-information",
+      "https://kr.trip.com/guide/destination/%EB%B6%80%EB%8B%A4%ED%8E%98%EC%8A%A4%ED%8A%B8+%EC%97%AC%ED%96%89.html"
+    ],
+    "timestamp": "2026-08-27T08:07:07.669759",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "PAN",
+    "query": "SAMARTH DEALS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/"
+    ],
+    "timestamp": "2026-08-27T08:07:26.479248",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "PAN",
+    "query": "SAMARTH DEALS PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.samarthbhartiya.com/Pan%20Card.html",
+      "https://www.falconebiz.com/company/SAMARTH-ERECTORS-AND-DEVELOPERS-PLAZA-PRIVATE-LIMITED-U41001MH2026PTC470783",
+      "https://samarth.community/money-matters/how-get-pan-card/"
+    ],
+    "timestamp": "2026-08-27T08:07:38.969545",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "GST",
+    "query": "SAMARTH DEALS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://outlook.office.com/mail/?ui=ja-JP&rs=JP"
+    ],
+    "timestamp": "2026-08-27T08:07:40.734555",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "GST",
+    "query": "SAMARTH DEALS GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-08-27T08:07:44.495454",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "Owner",
+    "query": "SAMARTH DEALS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bengo4.com/",
+      "https://www.bengo4.com/login/",
+      "https://www.bengo4.com/lawyer/login/",
+      "https://www.bengo4.com/corporate/"
+    ],
+    "timestamp": "2026-08-27T08:07:48.728377",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "Owner",
+    "query": "SAMARTH DEALS founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-27T08:08:00.875463",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "Address",
+    "query": "SAMARTH DEALS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.deepl.com/en/translator",
+      "https://dictionary.cambridge.org/translate/",
+      "https://chatgpt.com/translate/",
+      "https://www.reverso.net/text-translation"
+    ],
+    "timestamp": "2026-08-27T08:08:08.586649",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAMARTH DEALS",
+    "field": "Phone",
+    "query": "SAMARTH DEALS phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.samarth.org.in/contact-us/",
+      "https://desk.samarth.ac.in/contact",
+      "https://www.samarthelectricals.com/contact-us.php",
+      "https://samarth.ril.com/index.html"
+    ],
+    "timestamp": "2026-08-27T08:08:29.068425",
+    "status": "results_found"
+  },
+  {
+    "business": "SAMARTH DEALS",
+    "field": "Phone Number",
+    "value": "+919450864038",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.samarth.org.in/contact-us/",
+    "timestamp": "2026-08-27T08:08:32.039734"
+  },
+  {
+    "business": "SAMARTH DEALS",
+    "field": "Email Address",
+    "value": "info@samarth.org.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.samarth.org.in/contact-us/",
+    "timestamp": "2026-08-27T08:08:32.039869"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "category": "Infant Footwear",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Shyamakid",
+      "database_id": 75,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911995071387",
+      "email": "contact@shyamnamkeen.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "PURESOLE",
+      "database_id": 76,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917320242026",
+      "email": "Not Found",
+      "gst": "27AAPCP4135R1ZL",
+      "pan": "AAPCP4135R",
+      "website": "https://www.puresole.store/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TECHSUN MART\u00ae",
+      "database_id": 77,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914971232026",
+      "email": "Not Found",
+      "gst": "24AQCPL4412D1ZH; 29AQCPL4412D1Z7",
+      "pan": "AQCPL4412D",
+      "website": "https://www.sellerratings.com/",
+      "status": "Verified"
+    }
+  ]
+}

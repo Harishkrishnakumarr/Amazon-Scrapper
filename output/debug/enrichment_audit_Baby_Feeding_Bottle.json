@@ -1,0 +1,712 @@
+[
+  {
+    "business": "R & R",
+    "field": "Business Name",
+    "value": "R & R",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A33ZIQNS6966IT&asin=B0BWFMQMV8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:30:01.884161"
+  },
+  {
+    "seller": "R & R",
+    "field": "Website",
+    "query": "R & R official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/"
+    ],
+    "timestamp": "2026-08-29T10:30:03.619638",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "Legal Entity Name",
+    "query": "R & R company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:30:12.317591",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "Legal Entity Name",
+    "query": "R & R Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:30:23.128888",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "PAN",
+    "query": "R & R PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:30:33.353579",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "PAN",
+    "query": "R & R PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:30:44.062919",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "GST",
+    "query": "R & R GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:30:54.636800",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "GST",
+    "query": "R & R GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:31:05.091369",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "Owner",
+    "query": "R & R director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:31:15.984834",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "Owner",
+    "query": "R & R founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:31:27.382748",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "Address",
+    "query": "R & R registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:31:38.900821",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "Address",
+    "query": "R & R registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:31:49.628270",
+    "status": "results_found"
+  },
+  {
+    "seller": "R & R",
+    "field": "Phone",
+    "query": "R & R phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.r-project.org/",
+      "https://cran.r-project.org/bin/windows/base/",
+      "https://cran.r-project.org/",
+      "https://www.r-project.org/about.html"
+    ],
+    "timestamp": "2026-08-29T10:31:59.679114",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B08DLTJK96&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:32:09.451857"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rk.world/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-08-29T10:32:10.984346",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.companydetails.in/company/rk-worldinfocom-private-limited",
+      "https://www.indiafilings.com/search/rk-worldinfocom-private-limited-cin-U32204KA2008PTC046634",
+      "https://www.instafinancials.com/company/rk-worldinfocom-private-limited-U32204KA2008PTC046634/index.html"
+    ],
+    "timestamp": "2026-08-29T10:32:20.148584",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "GST Number",
+    "value": "37AAECR0564M1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:32:21.517036"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AAECR0564M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:32:21.517064"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:32:21.531040"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:32:21.531126"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:32:21.531332"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T10:32:21.531342"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "secretarial@rk.world",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/rk-worldinfocom-private-limited-cin-U32204KA2008PTC046634",
+    "timestamp": "2026-08-29T10:33:10.116044"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T10:33:12.734369",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Phone",
+    "query": "RK World Infocom Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T10:33:28.804487",
+    "status": "results_found"
+  },
+  {
+    "business": "Hamilton Housewares",
+    "field": "Business Name",
+    "value": "Hamilton Housewares",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3UVJB0FRWYAMC&asin=B0H2B7NQHS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:33:46.835063"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Website",
+    "query": "Hamilton Housewares official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/"
+    ],
+    "timestamp": "2026-08-29T10:33:48.551051",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Legal Entity Name",
+    "query": "Hamilton Housewares company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/hamilton-housewares-private-limited",
+      "https://www.thecompanycheck.com/company/hamilton-housewares-private-limited/U26101DN2000PTC000180",
+      "https://www.indiafilings.com/search/hamilton-housewares-private-limited-cin-U26101DN2000PTC000180",
+      "https://www.falconebiz.com/company/HAMILTON-HOUSEWARES-PRIVATE-LIMITED-U26101DN2000PTC000180"
+    ],
+    "timestamp": "2026-08-29T10:33:57.662159",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "PAN",
+    "query": "Hamilton Housewares PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://hamiltonmusical.com/london/"
+    ],
+    "timestamp": "2026-08-29T10:34:43.201398",
+    "status": "results_found"
+  },
+  {
+    "business": "Hamilton Housewares",
+    "field": "Email Address",
+    "value": "info@hamiltonindia.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.hamiltonindia.in/",
+    "timestamp": "2026-08-29T10:34:54.036224"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "GST",
+    "query": "Hamilton Housewares GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://hamiltonmusical.com/london/"
+    ],
+    "timestamp": "2026-08-29T10:35:06.411793",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Owner",
+    "query": "Hamilton Housewares director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://hamiltonmusical.com/london/"
+    ],
+    "timestamp": "2026-08-29T10:35:25.819358",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Address",
+    "query": "Hamilton Housewares registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://hamiltonmusical.com/london/"
+    ],
+    "timestamp": "2026-08-29T10:35:43.669938",
+    "status": "results_found"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Business Name",
+    "value": "Mylo Family",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35G33O1RHHNWE&asin=B09WVRFRK1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:35:47.431288"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "Website",
+    "query": "Mylo Family official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login"
+    ],
+    "timestamp": "2026-08-29T10:35:49.068306",
+    "status": "results_found"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Website URL",
+    "value": "https://www.mylofamily.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.mylofamily.com/",
+    "timestamp": "2026-08-29T10:35:52.848222"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Phone Number",
+    "value": "+918047190745",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T10:36:03.516319"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Email Address",
+    "value": "shop@mylofamily.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T10:36:03.516437"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Billing Address",
+    "value": "shop@mylofamily.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T10:36:03.517704"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "City",
+    "value": "shop@mylofamily.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T10:36:03.517720"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "Legal Entity Name",
+    "query": "Mylo Family company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T10:36:06.598579",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "PAN",
+    "query": "Mylo Family PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T10:36:29.386480",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "GST",
+    "query": "Mylo Family GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T10:36:44.650869",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "GST",
+    "query": "Mylo Family GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T10:36:56.250134",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "Owner",
+    "query": "Mylo Family director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T10:36:58.370987",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "Owner",
+    "query": "Mylo Family founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T10:37:10.431322",
+    "status": "results_found"
+  },
+  {
+    "business": "Unitech Press LLP",
+    "field": "Business Name",
+    "value": "Unitech Press LLP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1KI0Y8FJBFRWG&asin=B00ID73C3O&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T10:37:15.202893"
+  },
+  {
+    "seller": "Unitech Press LLP",
+    "field": "Website",
+    "query": "Unitech Press LLP official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.unitechgroup.com/",
+      "https://www.unitechgroup.com/about-us/the-company.asp"
+    ],
+    "timestamp": "2026-08-29T10:37:17.657544",
+    "status": "results_found"
+  },
+  {
+    "business": "Unitech Press LLP",
+    "field": "Website URL",
+    "value": "https://www.unitechgroup.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.unitechgroup.com/",
+    "timestamp": "2026-08-29T10:37:23.331276"
+  },
+  {
+    "business": "Unitech Press LLP",
+    "field": "Email Address",
+    "value": "support.tenders@unitechgroup.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.unitechgroup.com/",
+    "timestamp": "2026-08-29T10:37:25.619051"
+  },
+  {
+    "seller": "Unitech Press LLP",
+    "field": "Legal Entity Name",
+    "query": "Unitech Press LLP company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.unitechgroup.com/",
+      "https://www.unitechgroup.com/about-us/the-company.asp",
+      "https://www.moneycontrol.com/india/stockpricequote/constructioncontracting-civil/unitech/U",
+      "https://www.unitec.ac.nz/"
+    ],
+    "timestamp": "2026-08-29T10:37:32.716294",
+    "status": "results_found"
+  },
+  {
+    "seller": "Unitech Press LLP",
+    "field": "PAN",
+    "query": "Unitech Press LLP PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.unitechgroup.com/",
+      "https://www.unitechgroup.com/about-us/the-company.asp",
+      "https://www.moneycontrol.com/india/stockpricequote/constructioncontracting-civil/unitech/U",
+      "https://www.unitec.ac.nz/"
+    ],
+    "timestamp": "2026-08-29T10:38:02.619617",
+    "status": "results_found"
+  },
+  {
+    "seller": "Unitech Press LLP",
+    "field": "GST",
+    "query": "Unitech Press LLP GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.unitechgroup.com/",
+      "https://www.unitechgroup.com/about-us/the-company.asp",
+      "https://www.moneycontrol.com/india/stockpricequote/constructioncontracting-civil/unitech/U",
+      "https://www.unitec.ac.nz/"
+    ],
+    "timestamp": "2026-08-29T10:38:20.979552",
+    "status": "results_found"
+  },
+  {
+    "seller": "Unitech Press LLP",
+    "field": "Owner",
+    "query": "Unitech Press LLP director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.unitechgroup.com/",
+      "https://www.unitechgroup.com/about-us/the-company.asp",
+      "https://www.moneycontrol.com/india/stockpricequote/constructioncontracting-civil/unitech/U",
+      "https://www.unitec.ac.nz/"
+    ],
+    "timestamp": "2026-08-29T10:38:39.020423",
+    "status": "results_found"
+  },
+  {
+    "seller": "Unitech Press LLP",
+    "field": "Address",
+    "query": "Unitech Press LLP registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.unitechgroup.com/",
+      "https://www.unitechgroup.com/about-us/the-company.asp",
+      "https://www.moneycontrol.com/india/stockpricequote/constructioncontracting-civil/unitech/U",
+      "https://www.unitec.ac.nz/"
+    ],
+    "timestamp": "2026-08-29T10:38:55.317701",
+    "status": "results_found"
+  },
+  {
+    "seller": "Unitech Press LLP",
+    "field": "Phone",
+    "query": "Unitech Press LLP phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.unitechgroup.com/",
+      "https://www.unitechgroup.com/about-us/the-company.asp",
+      "https://www.moneycontrol.com/india/stockpricequote/constructioncontracting-civil/unitech/U",
+      "https://www.unitec.ac.nz/"
+    ],
+    "timestamp": "2026-08-29T10:39:11.812696",
+    "status": "results_found"
+  }
+]

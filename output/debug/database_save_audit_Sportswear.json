@@ -1,0 +1,48 @@
+{
+  "category": "Sportswear",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ATICX Venture LLP",
+      "database_id": 1402,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916385176319",
+      "email": "support@indiafilings.com",
+      "gst": "27ABSFA5675N1ZI",
+      "pan": "ABSFA5675N",
+      "website": "https://www.indiafilings.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Frost Clothings",
+      "database_id": 1403,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "hello@frostcollective.com",
+      "gst": "09AAEFF0270H1ZN",
+      "pan": "AAEFF0270H",
+      "website": "https://frostclo.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Nexsus Apparels",
+      "database_id": 1404,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "info@nex-sus.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://nex-sus.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CCPR45ZQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T17:18:48.139145"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://us.etrade.com/home/welcome-back?msockid=33b664bc4b0f663b2712737f4a1f6793"
+    ],
+    "timestamp": "2026-08-28T17:18:51.196645",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://us.etrade.com/l/welcome/new-account?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/home?msockid=33b664bc4b0f663b2712737f4a1f6793"
+    ],
+    "timestamp": "2026-08-28T17:19:46.104791",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://us.etrade.com/e/t/user/login?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://us.etrade.com/trade?msockid=33b664bc4b0f663b2712737f4a1f6793"
+    ],
+    "timestamp": "2026-08-28T17:19:57.132945",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://us.etrade.com/e/t/user/login?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://us.etrade.com/trade?msockid=33b664bc4b0f663b2712737f4a1f6793"
+    ],
+    "timestamp": "2026-08-28T17:20:18.431979",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://us.etrade.com/e/t/user/login?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://us.etrade.com/trade?msockid=33b664bc4b0f663b2712737f4a1f6793"
+    ],
+    "timestamp": "2026-08-28T17:20:40.623388",
+    "status": "results_found"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "Business Name",
+    "value": "HomeStrap",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A26ROWD4VYB0ZL&asin=B0DSFNWYCS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T17:20:51.552605"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Website",
+    "query": "HomeStrap official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://sprp.prod.netflix.net/"
+    ],
+    "timestamp": "2026-08-28T17:20:59.750410",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Legal Entity Name",
+    "query": "HomeStrap company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-28T17:21:17.546907",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Legal Entity Name",
+    "query": "HomeStrap Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=862c27ebdc7913ca20ab4d7aaa3bea05&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.homestrap.com/",
+      "https://www.instafinancials.com/company/homestrap-fabric-furnishing-private-limited/U17120MP2013PTC031735",
+      "https://cin.iadv.io/HOMESTRAP-FABRIC-FURNISHING-PRIVATE-LIMITED-U17120MP2013PTC031735/"
+    ],
+    "timestamp": "2026-08-28T17:21:26.499594",
+    "status": "results_found"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=862c27ebdc7913ca20ab4d7aaa3bea05&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-28T17:21:28.612413"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "PAN",
+    "query": "HomeStrap PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.pinkbike.com/",
+      "https://www.pinkbike.com/sandbox/grimdonutgame/",
+      "https://www.pinkbike.com/buysell"
+    ],
+    "timestamp": "2026-08-28T17:21:32.940842",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "GST",
+    "query": "HomeStrap GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/homestrap-fabric-furnishing-private-limited-23AADCH2867A1Z1/",
+      "https://www.mastersindia.co/gst-search/?name=homestrap-fabric-furnishing-private-limited&gstin=23AADCH2867A1Z1",
+      "https://www.knowyourgst.com/gst-number-search/homestrap-fabric-furnishing-private-limited-33AADCH2867A1Z0/",
+      "https://fnshiftsolutions.com/gstin-search/homestrap-fabric-furnishing-limited-21AADCH2867A1Z5"
+    ],
+    "timestamp": "2026-08-28T17:21:54.941313",
+    "status": "results_found"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "GST Number",
+    "value": "23AADCH2867A1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/homestrap-fabric-furnishing-private-limited-23AADCH2867A1Z1/",
+    "timestamp": "2026-08-28T17:21:56.759963"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "PAN Number",
+    "value": "AADCH2867A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/homestrap-fabric-furnishing-private-limited-23AADCH2867A1Z1/",
+    "timestamp": "2026-08-28T17:21:56.760002"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Owner",
+    "query": "HomeStrap director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://star.ettoday.net/news/3227114",
+      "https://www.nownews.com/news/6838906",
+      "https://www.storm.mg/lifestyle/11160047",
+      "https://www.nownews.com/news/6869944"
+    ],
+    "timestamp": "2026-08-28T17:22:00.862853",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Address",
+    "query": "HomeStrap registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.tuttocitta.it/mappa/roma/via-vittorio-veneto",
+      "https://moovitapp.com/index/it/mezzi_pubblici-Via_Vittorio_Veneto-Roma_e_Lazio-street_28432993-61",
+      "https://www.immobiliare.it/vendita-case/roma/in-via-vittorio-veneto/?msockid=33b664bc4b0f663b2712737f4a1f6793",
+      "https://www.idealista.it/geo/vendita-case/via-vittorio-veneto-roma-roma/"
+    ],
+    "timestamp": "2026-08-28T17:22:19.169140",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Address",
+    "query": "HomeStrap registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bigfooty.com/forum/",
+      "https://www.bigfooty.com/",
+      "https://www.bigfooty.com/forum/forums/western-bulldogs.20/",
+      "https://www.bigfooty.com/forum/forums/collingwood.7/"
+    ],
+    "timestamp": "2026-08-28T17:22:25.582302",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Email",
+    "query": "HomeStrap email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://youtv.tv/",
+      "https://naw.stoen13.com/youtv-400%EA%B0%9C-%EC%9D%B4%EC%83%81%EC%9D%98-tv-%EC%B1%84%EB%84%90%EA%B3%BC-%EC%98%81%ED%99%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8B%9C%EC%B2%AD-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/"
+    ],
+    "timestamp": "2026-08-28T17:22:31.849184",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Email",
+    "query": "HomeStrap contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://outlook.office.com/mail/?ui=en-US&rs=GB",
+      "https://outlook.office.com/mail/inbox/id/AAQkADdhZjA1NTY4LTYyODktNDM0Yi1hN2EyLTBlYjQxZThlNzJjMgAQAK3RrKMS999Bnzta9HXkit8%3D?actSwt=true",
+      "https://to-do.office.com/tasks/"
+    ],
+    "timestamp": "2026-08-28T17:22:45.763308",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,735 @@
+[
+  {
+    "business": "Geeta Narayan mart",
+    "field": "Business Name",
+    "value": "Geeta Narayan mart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AKK85KS7HX5HT&asin=B0CVNNQW8H&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T14:02:33.456253"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "Website",
+    "query": "Geeta Narayan mart official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T14:02:47.572530",
+    "status": "no_results"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "Legal Entity Name",
+    "query": "Geeta Narayan mart company registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://registry-lookup.com/"
+    ],
+    "timestamp": "2026-08-28T14:03:03.689848",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "Legal Entity Name",
+    "query": "Geeta Narayan mart Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-details",
+      "https://gstverify.co.in/search/",
+      "https://zauba.company/",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-08-28T14:03:15.783309",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "PAN",
+    "query": "Geeta Narayan mart PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://x-project.group/work/tendakicamp/",
+      "https://www.nap-camp.com/hyogo/13514"
+    ],
+    "timestamp": "2026-08-28T14:03:20.124080",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "PAN",
+    "query": "Geeta Narayan mart PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.falconebiz.com/director/09729648/GEETA-NARAYAN",
+      "https://gstverify.co.in/search/",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-28T14:03:37.071951",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "GST",
+    "query": "Geeta Narayan mart GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-28T14:03:42.700919",
+    "status": "results_found"
+  },
+  {
+    "business": "Geeta Narayan mart",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T14:03:44.858150"
+  },
+  {
+    "business": "Geeta Narayan mart",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T14:03:44.858167"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "Owner",
+    "query": "Geeta Narayan mart director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tightvnc.com/download.php",
+      "https://tightvnc.en.softonic.com/",
+      "https://sourceforge.net/projects/vnc-tight/",
+      "https://www.tightvnc.com/"
+    ],
+    "timestamp": "2026-08-28T14:03:47.159599",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "Address",
+    "query": "Geeta Narayan mart registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/nanguneri-panchayat-union-33MRIN00474F1DM/",
+      "https://mycorporateinfo.com/business/fathimuthu-amma-mills-limited",
+      "https://www.scribd.com/document/633574518/Latest-Contact-details-Circlewise",
+      "https://proquiro.com/sro-directory/tamil-nadu/nanguneri"
+    ],
+    "timestamp": "2026-08-28T14:04:17.802820",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Narayan mart",
+    "field": "Phone",
+    "query": "Geeta Narayan mart phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zoominfo.com/p/Geeta-Mart/8513622807",
+      "https://geetahair.com/pages/contact-us",
+      "https://geetahomeappliances.com/pages/contact",
+      "https://www.sellerratings.com/amazon/india/geeta-narayan-mart"
+    ],
+    "timestamp": "2026-08-28T14:04:24.073338",
+    "status": "results_found"
+  },
+  {
+    "business": "Geeta Narayan mart",
+    "field": "Email Address",
+    "value": "service@geetahair.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://geetahair.com/pages/contact-us",
+    "timestamp": "2026-08-28T14:04:29.702470"
+  },
+  {
+    "business": "Geeta Narayan mart",
+    "field": "Phone Number",
+    "value": "+919876543210",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://geetahomeappliances.com/pages/contact",
+    "timestamp": "2026-08-28T14:04:32.595725"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "Business Name",
+    "value": "MeherCollection",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2TRBA4RNU1RKI&asin=B0BCP9MYKN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T14:04:34.204000"
+  },
+  {
+    "seller": "MeherCollection",
+    "field": "Website",
+    "query": "MeherCollection official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://devforum.zoom.us/t/api-to-get-meeting-transcript/76388",
+      "https://devforum.zoom.us/t/participants-cant-hear-video-that-i-show-within-a-power-point-presentation-screen-shared/165"
+    ],
+    "timestamp": "2026-08-28T14:04:37.073072",
+    "status": "results_found"
+  },
+  {
+    "seller": "MeherCollection",
+    "field": "Legal Entity Name",
+    "query": "MeherCollection company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/pandas/python-pandas-dataframe-transpose/",
+      "https://fastercapital.com/content/Data-Analysis--Analyzing-the-Unseen--How-Transpose-Can-Reveal-Hidden-Data-Patterns.html",
+      "https://learnmodernpython.com/mastering-the-pandas-dataframe-transpose-method-the-ultimate-guide/",
+      "https://www.excelmojo.com/transpose-in-excel/"
+    ],
+    "timestamp": "2026-08-28T14:05:01.205384",
+    "status": "results_found"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "Email Address",
+    "value": "admin@learnmodernpython.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://learnmodernpython.com/mastering-the-pandas-dataframe-transpose-method-the-ultimate-guide/",
+    "timestamp": "2026-08-28T14:05:12.940777"
+  },
+  {
+    "seller": "MeherCollection",
+    "field": "PAN",
+    "query": "MeherCollection PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://docs.github.com/en/copilot/how-tos/use-ai-models/change-the-chat-model"
+    ],
+    "timestamp": "2026-08-28T14:05:20.454116",
+    "status": "results_found"
+  },
+  {
+    "seller": "MeherCollection",
+    "field": "GST",
+    "query": "MeherCollection GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+      "https://gstverify.co.in/gst/meher-collection-27aaepf8152g1zt/",
+      "https://piceapp.com/gst-number-search/meher-collection-27aaepf8152g1zt/"
+    ],
+    "timestamp": "2026-08-28T14:05:40.337612",
+    "status": "results_found"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+    "timestamp": "2026-08-28T14:05:44.776335"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "GST Number",
+    "value": "27BNJPM6885L1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+    "timestamp": "2026-08-28T14:05:44.781030"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "PAN Number",
+    "value": "BNJPM6885L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+    "timestamp": "2026-08-28T14:05:44.781052"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+    "timestamp": "2026-08-28T14:05:44.789383"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+    "timestamp": "2026-08-28T14:05:44.789402"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+    "timestamp": "2026-08-28T14:05:44.789428"
+  },
+  {
+    "business": "MeherCollection",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/meher-collection-27bnjpm6885l1z2/",
+    "timestamp": "2026-08-28T14:05:44.789434"
+  },
+  {
+    "seller": "MeherCollection",
+    "field": "Owner",
+    "query": "MeherCollection director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tving.com/",
+      "https://www.tving.com/account/login",
+      "http://image.tving.com/buffer/player.html",
+      "https://www.tving.com/account/login/tving"
+    ],
+    "timestamp": "2026-08-28T14:05:48.038275",
+    "status": "results_found"
+  },
+  {
+    "business": "THE URBAN ARTISTIC",
+    "field": "Business Name",
+    "value": "THE URBAN ARTISTIC",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1BDTOFKHVMUJ8&asin=B0D5M7Y2ZD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T14:06:02.075724"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Website",
+    "query": "THE URBAN ARTISTIC official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:04.165421",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Legal Entity Name",
+    "query": "THE URBAN ARTISTIC company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:09.701979",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Legal Entity Name",
+    "query": "THE URBAN ARTISTIC Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:18.394745",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "PAN",
+    "query": "THE URBAN ARTISTIC PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:27.617701",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "PAN",
+    "query": "THE URBAN ARTISTIC PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:31.328840",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "GST",
+    "query": "THE URBAN ARTISTIC GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:36.869960",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "GST",
+    "query": "THE URBAN ARTISTIC GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:41.802586",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Owner",
+    "query": "THE URBAN ARTISTIC director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:50.100206",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Owner",
+    "query": "THE URBAN ARTISTIC founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:06:56.224035",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Address",
+    "query": "THE URBAN ARTISTIC registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:07:02.834033",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Address",
+    "query": "THE URBAN ARTISTIC registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:07:10.472721",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Phone",
+    "query": "THE URBAN ARTISTIC phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:07:17.015470",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Phone",
+    "query": "THE URBAN ARTISTIC contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:07:24.484484",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Email",
+    "query": "THE URBAN ARTISTIC email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:07:28.978600",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE URBAN ARTISTIC",
+    "field": "Email",
+    "query": "THE URBAN ARTISTIC contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.urbancompany.com/",
+      "https://dictionary.cambridge.org/dictionary/english/urban",
+      "https://www.merriam-webster.com/dictionary/urban",
+      "https://www.dictionary.com/browse/urban"
+    ],
+    "timestamp": "2026-08-28T14:07:33.270557",
+    "status": "results_found"
+  },
+  {
+    "business": "Artwork by Jyotsna",
+    "field": "Business Name",
+    "value": "Artwork by Jyotsna",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2MQ6YO5NJPEFW&asin=B07HG2VZTL&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T14:07:37.506283"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "Website",
+    "query": "Artwork by Jyotsna official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.apple.com/de/iphone/compare/",
+      "https://www.apple.com/it/iphone/"
+    ],
+    "timestamp": "2026-08-28T14:07:40.484569",
+    "status": "results_found"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "Legal Entity Name",
+    "query": "Artwork by Jyotsna company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T14:07:46.206209",
+    "status": "no_results"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "Legal Entity Name",
+    "query": "Artwork by Jyotsna Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.proprofs.com/quiz-school/story.php?title=online-cricket-quiz",
+      "https://www.proprofs.com/quiz-school/story.php?title=how-well-do-you-know-roblox",
+      "https://www.proprofs.com/quiz-school/story.php?title=friends-tv-show-quiz",
+      "https://www.proprofs.com/quiz-school/story.php?title=ultimate-the-office-trivia-challenge"
+    ],
+    "timestamp": "2026-08-28T14:07:47.806172",
+    "status": "results_found"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "PAN",
+    "query": "Artwork by Jyotsna PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.made-in-china.com/products-search/hot-china-products/Hydraulic_Hand_Pallet_Truck.html",
+      "https://www.alibaba.com/showroom/hydraulic-hand-pallet-truck.html",
+      "https://www.hugolift.com/hydraulic-manchinery/hand-pallet-truck/",
+      "https://www.toyointl.com/wp-content/uploads/2025/04/%E6%90%AC%E8%BF%90%E8%BD%A6%E4%BA%A7%E5%93%81%E5%86%8C%E5%8E%8B%E7%BC%A9-2.pdf"
+    ],
+    "timestamp": "2026-08-28T14:07:55.706937",
+    "status": "results_found"
+  },
+  {
+    "business": "Artwork by Jyotsna",
+    "field": "Phone Number",
+    "value": "+919933570112",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.hugolift.com/hydraulic-manchinery/hand-pallet-truck/",
+    "timestamp": "2026-08-28T14:08:05.571097"
+  },
+  {
+    "business": "Artwork by Jyotsna",
+    "field": "Email Address",
+    "value": "hugo002@yiyinggroup.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.hugolift.com/hydraulic-manchinery/hand-pallet-truck/",
+    "timestamp": "2026-08-28T14:08:05.571311"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "PAN",
+    "query": "Artwork by Jyotsna PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/jyotsna-art-creation-27BWIPS9166A1Z6/",
+      "https://jyotsnaprakashan.com/art/"
+    ],
+    "timestamp": "2026-08-28T14:08:10.334781",
+    "status": "results_found"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "GST",
+    "query": "Artwork by Jyotsna GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/27BWIPS9166A1Z6",
+      "https://www.knowyourgst.com/gst-number-search/jyotsna-art-creation-27BWIPS9166A1Z6/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://www.mastersindia.co/gst-search/?name=jyotsna&gstin=33AIRPJ0993Q2ZF"
+    ],
+    "timestamp": "2026-08-28T14:08:13.726707",
+    "status": "results_found"
+  },
+  {
+    "business": "Artwork by Jyotsna",
+    "field": "GST Number",
+    "value": "27BWIPS9166A1Z6",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/27BWIPS9166A1Z6",
+    "timestamp": "2026-08-28T14:08:14.883601"
+  },
+  {
+    "business": "Artwork by Jyotsna",
+    "field": "PAN Number",
+    "value": "BWIPS9166A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/27BWIPS9166A1Z6",
+    "timestamp": "2026-08-28T14:08:14.883619"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "Owner",
+    "query": "Artwork by Jyotsna director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.daythree.com/faith/",
+      "https://digitalworkforce.daythree.net/client/",
+      "https://www.daythree.com.my/talentahead/login.php",
+      "https://igt.daythree.net/V2/"
+    ],
+    "timestamp": "2026-08-28T14:08:16.632867",
+    "status": "results_found"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "Owner",
+    "query": "Artwork by Jyotsna founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wordreference.com/enar/query$",
+      "https://arabic.britannicaenglish.com/query",
+      "https://www.query.ai/",
+      "https://www.wordreference.com/enar/query"
+    ],
+    "timestamp": "2026-08-28T14:08:27.476877",
+    "status": "results_found"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "Address",
+    "query": "Artwork by Jyotsna registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://about.google/intl/ja_ALL/"
+    ],
+    "timestamp": "2026-08-28T14:08:36.168310",
+    "status": "results_found"
+  },
+  {
+    "seller": "Artwork by Jyotsna",
+    "field": "Address",
+    "query": "Artwork by Jyotsna registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-28T14:08:39.500785",
+    "status": "results_found"
+  }
+]

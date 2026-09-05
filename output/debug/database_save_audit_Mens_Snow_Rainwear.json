@@ -1,0 +1,74 @@
+{
+  "category": "Mens Snow Rainwear",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 99,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600012023",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 100,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910151623015",
+      "email": "cpo@etrade.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+      "database_id": 101,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913772552026",
+      "email": "orders@citizenactivegear.com",
+      "gst": "24AABCC1673M3ZL; 06AABCC1673M1ZL; 09AABCC1673M1ZF; 19AABCC1673M1ZE; 24AABCC1673M1ZN; 27AABCC1673M1ZH; 29AABCC1673M1ZD; 36AABCC1673M1ZI; 07AABCC1673M1ZJ; 24AABCC1673M2ZM; 24AABCC1673M4ZK; 33AABCC1673M1ZO",
+      "pan": "AABCC1673M",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SHREE JEE TRADING CO INDIA",
+      "database_id": 102,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917026252026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "N Z seasonal wear Pvt Ltd",
+      "database_id": 103,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

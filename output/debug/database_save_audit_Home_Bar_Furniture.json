@@ -1,0 +1,35 @@
+{
+  "category": "Home Bar Furniture",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Friends of Furniture",
+      "database_id": 187,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914319902026",
+      "email": "Not Found",
+      "gst": "33CLFPK6878Q1Z7",
+      "pan": "Not Found",
+      "website": "https://friendsfurnier.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+      "database_id": 188,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916881243121",
+      "email": "contact@rudracentre.com",
+      "gst": "06AANPA5914C1Z5",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

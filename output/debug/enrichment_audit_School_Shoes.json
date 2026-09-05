@@ -1,0 +1,527 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0BYVSTYP8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:37:11.388084"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T10:37:13.395117",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:37:17.410822"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:37:18.158623"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:37:18.159146"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://fnshiftsolutions.com/gstin-search/cocoblu-retail-limited-29AAJCC8517E1ZH",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T10:37:24.143620",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T10:37:24.875405"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T10:37:24.875494"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T10:37:26.740307",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:37:28.241703"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:37:28.241720"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:37:28.241726"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:37:28.241732"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T10:37:34.042600"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T10:37:38.340269",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Business Name",
+    "value": "Liberty Shoes Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2O1WMEGRLRLDW&isAmazonFulfilled=1&asin=B0BYVSTYP8&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T10:37:43.228735"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Website",
+    "query": "Liberty Shoes Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.libertyshoesonline.com/",
+      "https://www.libertyshoesonline.com/pages/men"
+    ],
+    "timestamp": "2026-09-02T10:37:45.159540",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Legal Entity Name",
+    "query": "Liberty Shoes Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendlyne.com/equity/about/789/LIBERTSHOE/liberty-shoes-ltd/",
+      "https://libertyshoe.in/",
+      "http://www.libertyshoes.com/node",
+      "https://www.dnb.com/business-directory/company-profiles/liberty-shoes-limited.66aa025864d245f0d6b56cbc89cabe9a"
+    ],
+    "timestamp": "2026-09-02T10:37:57.495338",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Legal Entity Name",
+    "query": "Liberty Shoes Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://libertyshoe.in/",
+      "https://www.inspex.in/",
+      "https://trendlyne.com/equity/about/789/LIBERTSHOE/liberty-shoes-ltd/",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T10:38:08.191721",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T10:38:09.795589"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T10:38:09.795842"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "PAN",
+    "query": "Liberty Shoes Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.valueresearchonline.com/stocks/43074/liberty-shoes-ltd/",
+      "https://www.etmoney.com/stocks/liberty-shoes-ltd/1251",
+      "https://www.business-standard.com/markets/liberty-shoes-ltd-share-price-4154.html",
+      "https://trendlyne.com/equity/about/789/LIBERTSHOE/liberty-shoes-ltd/"
+    ],
+    "timestamp": "2026-09-02T10:38:13.802225",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Billing Address",
+    "value": "360 one centre, kamala city, senapati bapat marg, lower parel (west), mumbai, maharashtra \u2013 400013",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.etmoney.com/stocks/liberty-shoes-ltd/1251",
+    "timestamp": "2026-09-02T10:38:17.464460"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "City",
+    "value": "mumbai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.etmoney.com/stocks/liberty-shoes-ltd/1251",
+    "timestamp": "2026-09-02T10:38:17.464477"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.etmoney.com/stocks/liberty-shoes-ltd/1251",
+    "timestamp": "2026-09-02T10:38:17.464483"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Pincode",
+    "value": "400013",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.etmoney.com/stocks/liberty-shoes-ltd/1251",
+    "timestamp": "2026-09-02T10:38:17.464488"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "PAN",
+    "query": "Liberty Shoes Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://beta.bseindia.com/stock-share-price/liberty-shoes-ltd/libertshoe/526596/",
+      "https://www.valueresearchonline.com/stocks/43074/liberty-shoes-ltd/",
+      "https://trendlyne.com/equity/about/789/LIBERTSHOE/liberty-shoes-ltd/",
+      "https://www.screener.in/company/LIBERTSHOE/"
+    ],
+    "timestamp": "2026-09-02T10:38:23.989734",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "GST",
+    "query": "Liberty Shoes Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://www.invoizzy.in/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T10:38:30.406956",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "GST Number",
+    "value": "27ABCDE1234F1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.invoizzy.in/gst-number-search",
+    "timestamp": "2026-09-02T10:38:40.012234"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "PAN Number",
+    "value": "ABCDE1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.invoizzy.in/gst-number-search",
+    "timestamp": "2026-09-02T10:38:40.012252"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Owner",
+    "query": "Liberty Shoes Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendlyne.com/equity/about/789/LIBERTSHOE/liberty-shoes-ltd/",
+      "https://www.aninews.in/news/business/liberty-shoes-unveils-future-ready-footwear-innovations-at-ss27-ncm-meeting-in-goa20260821122159/",
+      "https://www.marketscreener.com/quote/stock/LIBERTY-SHOES-LTD-9743093/",
+      "https://www.alphaspread.com/security/nse/libertshoe/investor-relations"
+    ],
+    "timestamp": "2026-09-02T10:38:42.091871",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Owner",
+    "query": "Liberty Shoes Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendlyne.com/equity/about/789/LIBERTSHOE/liberty-shoes-ltd/",
+      "https://libertyshoe.in/",
+      "https://www.business-standard.com/markets/liberty-shoes-ltd-share-price-4154.html",
+      "https://www.etmoney.com/stocks/liberty-shoes-ltd/1251"
+    ],
+    "timestamp": "2026-09-02T10:38:53.862473",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Business Name",
+    "value": "Campusactivewear",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2JTUMWXNY2SJF&asin=B0GWM43BZT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:38:55.783416"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Website",
+    "query": "Campusactivewear official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.campusactivewear.com/",
+      "https://www.campusactivewear.com/our-history"
+    ],
+    "timestamp": "2026-09-02T10:38:57.409193",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Website URL",
+    "value": "https://www.campusactivewear.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.campusactivewear.in/",
+    "timestamp": "2026-09-02T10:39:04.786154"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Legal Entity Name",
+    "value": "Campus Activewear Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.campusactivewear.in/",
+    "timestamp": "2026-09-02T10:39:05.450646"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "PAN",
+    "query": "Campus Activewear Limited PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/23AAHCA3072C1Z9/campus-activewear-limited",
+      "https://gst.unifers.ai/gst/10AAHCA3072C1ZG/campus-activewear-limited",
+      "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+      "https://www.knowyourgst.com/gst-number-search/campus-activewear-private-limited-07AAHCA3072C1Z3/"
+    ],
+    "timestamp": "2026-09-02T10:39:10.376510",
+    "status": "results_found"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "GST",
+    "query": "Campus Activewear Limited GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/campus-activewear-limited-27AAHCA3072C1Z1/",
+      "https://piceapp.com/gst-number-search/campus-activewear-limited-27aahca3072c1z1/",
+      "https://www.knowyourgst.com/gst-number-search/campus-activewear-private-limited-07AAHCA3072C1Z3/",
+      "https://gst.jamku.app/gstin/06AAHCA3072C2Z4"
+    ],
+    "timestamp": "2026-09-02T10:39:52.435788",
+    "status": "results_found"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Owner",
+    "query": "Campus Activewear Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.campusactivewear.com/sites/default/files/2025-04/Directorsprofile.pdf",
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html",
+      "https://trendlyne.com/equity/about/877863/CAMPUS/campus-activewear-ltd/",
+      "https://www.thecompanycheck.com/people-profile/hari-krishan-agarwal/00172467"
+    ],
+    "timestamp": "2026-09-02T10:39:54.170480",
+    "status": "results_found"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Owner",
+    "query": "Campusactivewear founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.campusactivewear.com/our-history",
+      "https://www.campusshoes.com/pages/about-us",
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html",
+      "https://www.brandsshouts.com/campus-which-country-brand-owner-founder/"
+    ],
+    "timestamp": "2026-09-02T10:40:05.027137",
+    "status": "results_found"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Address",
+    "query": "Campus Activewear Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.campusactivewear.com/contact-us",
+      "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+      "https://www.jmfl.com/Common/getFile/512",
+      "https://zauba.company/company/campus_activewear_limited/L74120DL2008PLC183629"
+    ],
+    "timestamp": "2026-09-02T10:40:09.826114",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Phone Number",
+    "value": "+919667706012",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.campusactivewear.com/contact-us",
+    "timestamp": "2026-09-02T10:40:11.157062"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Email Address",
+    "value": "compliance@campusshoes.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.campusactivewear.com/contact-us",
+    "timestamp": "2026-09-02T10:40:11.157159"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T10:40:12.891157"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T10:40:12.891174"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T10:40:12.891179"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T10:40:12.891184"
+  }
+]

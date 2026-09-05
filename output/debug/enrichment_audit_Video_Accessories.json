@@ -1,0 +1,1046 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0CMJ4Y5GK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:00:05.317882"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T12:00:07.675991",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T12:00:13.486864"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T12:00:14.414772"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:00:18.803188",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T12:00:23.733792"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://clicktechretail.in/about/"
+    ],
+    "timestamp": "2026-08-26T12:00:27.581479",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:00:31.296749",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:00:39.978950",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:00:45.654153",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:00:50.669828",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:00:55.365744",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:01:00.477148",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:01:05.426314",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T12:01:11.654276",
+    "status": "results_found"
+  },
+  {
+    "business": "FEBLICH",
+    "field": "Business Name",
+    "value": "FEBLICH",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A71ANPNU3XPFY&asin=B0H83SPYHW&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T12:01:19.452626"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "Website",
+    "query": "FEBLICH official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://faberlic.com/?lang=en",
+      "https://www.noon.com/saudi-en/feblich/"
+    ],
+    "timestamp": "2026-08-26T12:01:24.196147",
+    "status": "results_found"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "Legal Entity Name",
+    "query": "FEBLICH company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/mythology",
+      "https://mythopedia.com/",
+      "https://www.iciba.com/word?w=mythology"
+    ],
+    "timestamp": "2026-08-26T12:01:28.869073",
+    "status": "results_found"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "Legal Entity Name",
+    "query": "FEBLICH Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_adgroup=1355700361712359&network=o&device=c&msclkid=36bb0849a9111683a7bc62c7215b0995&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_content=Search%20Query%20-%20LCPC",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.legalwiz.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-08-26T12:01:40.077814",
+    "status": "results_found"
+  },
+  {
+    "business": "FEBLICH",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_adgroup=1355700361712359&network=o&device=c&msclkid=36bb0849a9111683a7bc62c7215b0995&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_content=Search%20Query%20-%20LCPC",
+    "timestamp": "2026-08-26T12:01:44.781629"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "PAN",
+    "query": "FEBLICH PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T12:01:49.993145",
+    "status": "results_found"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "PAN",
+    "query": "FEBLICH PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/gpt-5/"
+    ],
+    "timestamp": "2026-08-26T12:01:53.309639",
+    "status": "results_found"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "GST",
+    "query": "FEBLICH GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.walmart.com/store-finder?location=page",
+      "https://www.justdial.com/Hyderabad/Walmart/nct-16225698",
+      "https://www.justdial.com/Hyderabad/Wal-Mart-India-Pvt-Ltd-Near-Anjali-Gardens-Lakshmi-Narayana-Swamy-Nagar-Puppalaguda/040PXX40-XX40-210813231706-W2V5_BZDET",
+      "https://magicpin.in/Hyderabad/Shivarampalli/Grocery/Walmart-India-Ltd/store/180393b"
+    ],
+    "timestamp": "2026-08-26T12:01:58.689598",
+    "status": "results_found"
+  },
+  {
+    "business": "FEBLICH",
+    "field": "Email Address",
+    "value": "care@magicpin.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://magicpin.in/Hyderabad/Shivarampalli/Grocery/Walmart-India-Ltd/store/180393b",
+    "timestamp": "2026-08-26T12:02:08.948562"
+  },
+  {
+    "business": "FEBLICH",
+    "field": "Billing Address",
+    "value": "plot no.379 & 380, sector - 29, near iffco chowk metro station, gurugram, haryana-122001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://magicpin.in/Hyderabad/Shivarampalli/Grocery/Walmart-India-Ltd/store/180393b",
+    "timestamp": "2026-08-26T12:02:08.950184"
+  },
+  {
+    "business": "FEBLICH",
+    "field": "City",
+    "value": "gurugram",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://magicpin.in/Hyderabad/Shivarampalli/Grocery/Walmart-India-Ltd/store/180393b",
+    "timestamp": "2026-08-26T12:02:08.950196"
+  },
+  {
+    "business": "FEBLICH",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://magicpin.in/Hyderabad/Shivarampalli/Grocery/Walmart-India-Ltd/store/180393b",
+    "timestamp": "2026-08-26T12:02:08.950203"
+  },
+  {
+    "business": "FEBLICH",
+    "field": "Pincode",
+    "value": "122001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://magicpin.in/Hyderabad/Shivarampalli/Grocery/Walmart-India-Ltd/store/180393b",
+    "timestamp": "2026-08-26T12:02:08.950207"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "GST",
+    "query": "FEBLICH GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://fusioncollege.edu.au/",
+      "https://fusioncollege.edu.au/wp-content/uploads/2026/02/Application-for-Enrolment-Form.pdf",
+      "https://fusioncollege.edu.au/courses/sit50422-diploma-of-hospitality-management/",
+      "https://fusioncollege.edu.au/courses/"
+    ],
+    "timestamp": "2026-08-26T12:02:12.364693",
+    "status": "results_found"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "Owner",
+    "query": "FEBLICH director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ask.libreoffice.org/t/how-do-i-uninstall-libreoffice/7077",
+      "https://computingforgeeks.com/uninstall-libreoffice-on-ubuntu/",
+      "https://shunspirit.com/article/can-i-uninstall-libre-office",
+      "https://techplugged.com/how-to-remove-libreoffice-safely/"
+    ],
+    "timestamp": "2026-08-26T12:02:13.825416",
+    "status": "results_found"
+  },
+  {
+    "seller": "FEBLICH",
+    "field": "Owner",
+    "query": "FEBLICH founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.octopus.com.hk/en/consumer/ptfss/subsidy-collection/index.html",
+      "https://subsidy-enquiry.octopus.com.hk/eng/index",
+      "https://subsidy-enquiry.octopus.com.hk/eng/faq",
+      "https://www.ptfss.gov.hk/en-main.html"
+    ],
+    "timestamp": "2026-08-26T12:02:24.514000",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0F63BY6LT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:02:32.185290"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T12:02:35.415524",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T12:02:38.218351"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T12:02:39.550644"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T12:02:39.551311"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:02:47.915244",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+918338866678",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+    "timestamp": "2026-08-26T12:02:53.145438"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:03:05.371384",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:03:29.574686",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.orientbell.com/store-locator/tiles-dealer/bricknbar",
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.justdial.com/Bhubaneshwar/Tile-Dealers/nct-10481619"
+    ],
+    "timestamp": "2026-08-26T12:03:42.301482",
+    "status": "results_found"
+  },
+  {
+    "business": "X Men Square",
+    "field": "Business Name",
+    "value": "X Men Square",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A24ZJGNO3LB12K&asin=B09B4G8H5P&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T12:03:56.591395"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "Website",
+    "query": "X Men Square official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gizmodo.com/download/x-twitter"
+    ],
+    "timestamp": "2026-08-26T12:03:59.952745",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "Legal Entity Name",
+    "query": "X Men Square company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gizmodo.com/download/x-twitter"
+    ],
+    "timestamp": "2026-08-26T12:04:03.036385",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "Legal Entity Name",
+    "query": "X Men Square Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gizmodo.com/download/x-twitter"
+    ],
+    "timestamp": "2026-08-26T12:04:07.127707",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "PAN",
+    "query": "X Men Square PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gizmodo.com/download/x-twitter"
+    ],
+    "timestamp": "2026-08-26T12:04:13.846374",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "PAN",
+    "query": "X Men Square PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://help.calphalon.com/s/article/What-does-the-number-on-the-bottom-of-my-pan-mean",
+      "https://help.calphalon.com/s/topic/0TO6S000008M3PmWAK/products",
+      "https://help.calphalon.com/s/article/Where-to-find-the-Date-Code",
+      "https://help.calphalon.com/s/topic/0TO6S000008M3PgWAK/cookware"
+    ],
+    "timestamp": "2026-08-26T12:04:23.752914",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "GST",
+    "query": "X Men Square GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-08-26T12:04:31.166072",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "GST",
+    "query": "X Men Square GST number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gizmodo.com/download/x-twitter"
+    ],
+    "timestamp": "2026-08-26T12:04:34.008346",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "Owner",
+    "query": "X Men Square director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gizmodo.com/download/x-twitter"
+    ],
+    "timestamp": "2026-08-26T12:04:38.135088",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "Owner",
+    "query": "X Men Square founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.britannica.com/topic/X-Men",
+      "https://www.forbes.com/profile/jim-mckelvey/",
+      "https://www.rollingstone.com/tv-movies/tv-movie-news/the-true-origins-of-x-men-77108/"
+    ],
+    "timestamp": "2026-08-26T12:04:44.901090",
+    "status": "results_found"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "Address",
+    "query": "X Men Square registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.chamberofcommerce.com/business-directory/california/san-francisco/corporate-office/2006743370-x-corp-hq",
+      "https://www.clay.com/dossier/x-headquarters-office-locations",
+      "https://www.globaldata.com/company-profile/twitter-inc/locations/",
+      "https://exa.ai/websets/directory/x-offices"
+    ],
+    "timestamp": "2026-08-26T12:05:01.836014",
+    "status": "results_found"
+  },
+  {
+    "business": "X Men Square",
+    "field": "Email Address",
+    "value": "security@clay.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.clay.com/dossier/x-headquarters-office-locations",
+    "timestamp": "2026-08-26T12:05:11.860250"
+  },
+  {
+    "seller": "X Men Square",
+    "field": "Phone",
+    "query": "X Men Square phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://squareup.com/help/us/en/article/4993-contact-square-support",
+      "https://squareup.com/us/en/sales/support",
+      "https://square.pissedconsumer.com/customer-service.html",
+      "https://community.squareup.com/t5/Customer-Engagement/Where-is-the-24-hr-phone-support/m-p/343208"
+    ],
+    "timestamp": "2026-08-26T12:05:20.808187",
+    "status": "results_found"
+  },
+  {
+    "business": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Business Name",
+    "value": "FRIENDS ENTERPRISES HARYANA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1CWF87DV1XAJS&asin=B0GV88T8YP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T12:05:29.356963"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Website",
+    "query": "FRIENDS ENTERPRISES HARYANA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.justwatch.com/in/tv-show/friends"
+    ],
+    "timestamp": "2026-08-26T12:05:31.496600",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Legal Entity Name",
+    "query": "FRIENDS ENTERPRISES HARYANA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.justwatch.com/in/tv-show/friends",
+      "https://www.justwatch.com/us/tv-show/friends/season-1",
+      "https://www.warnerbros.com/tv/friends"
+    ],
+    "timestamp": "2026-08-26T12:05:37.632278",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Legal Entity Name",
+    "query": "FRIENDS ENTERPRISES HARYANA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.justwatch.com/in/tv-show/friends",
+      "https://www.justwatch.com/us/tv-show/friends/season-1",
+      "https://www.warnerbros.com/tv/friends"
+    ],
+    "timestamp": "2026-08-26T12:05:49.815678",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "PAN",
+    "query": "FRIENDS ENTERPRISES HARYANA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/FRIENDS-ENTERPRISES-06ADGPT2500D1Z1/",
+      "https://gstverify.co.in/search/",
+      "https://my.gstzen.in/m/taxpayers/pan/pawan-print-packers/BBDPS0104C/",
+      "https://www.knowyourgst.com/gst-number-search/friends-enterprises-06AAAFF9711F1ZP/"
+    ],
+    "timestamp": "2026-08-26T12:05:55.871113",
+    "status": "results_found"
+  },
+  {
+    "business": "FRIENDS ENTERPRISES HARYANA",
+    "field": "GST Number",
+    "value": "06ADGPT2500D1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/FRIENDS-ENTERPRISES-06ADGPT2500D1Z1/",
+    "timestamp": "2026-08-26T12:05:56.464413"
+  },
+  {
+    "business": "FRIENDS ENTERPRISES HARYANA",
+    "field": "PAN Number",
+    "value": "ADGPT2500D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/FRIENDS-ENTERPRISES-06ADGPT2500D1Z1/",
+    "timestamp": "2026-08-26T12:05:56.464433"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Owner",
+    "query": "FRIENDS ENTERPRISES HARYANA director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.justwatch.com/in/tv-show/friends"
+    ],
+    "timestamp": "2026-08-26T12:05:58.467323",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Owner",
+    "query": "FRIENDS ENTERPRISES HARYANA founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.friendsenterprisesco.com/about.php",
+      "https://www.dnb.com/business-directory/company-profiles.friends_enterprises.f875f39c257672b8d49947034e6a99a1.html",
+      "https://www.mastersindia.co/gst-search/?name=giriraj-singh-tewatia&gstin=06ADGPT2500D1Z1"
+    ],
+    "timestamp": "2026-08-26T12:06:07.173703",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Address",
+    "query": "FRIENDS ENTERPRISES HARYANA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.justwatch.com/in/tv-show/friends",
+      "https://www.justwatch.com/us/tv-show/friends/season-1",
+      "https://www.warnerbros.com/tv/friends"
+    ],
+    "timestamp": "2026-08-26T12:06:14.012605",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Address",
+    "query": "FRIENDS ENTERPRISES HARYANA registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.friends_enterprises.4fee0cf95015d7866c1b63024ae383f7.html",
+      "https://www.dnb.com/business-directory/company-profiles.friends_enterprises.f875f39c257672b8d49947034e6a99a1.html",
+      "https://gst.iadv.io/FRIENDS-ENTERPRISES-06ADGPT2500D1Z1/",
+      "https://www.knowyourgst.com/gst-number-search/friends-enterprises-06AFLPL0987K1ZY/"
+    ],
+    "timestamp": "2026-08-26T12:06:27.424054",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Phone",
+    "query": "FRIENDS ENTERPRISES HARYANA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.justwatch.com/in/tv-show/friends",
+      "https://www.justwatch.com/us/tv-show/friends/season-1",
+      "https://www.warnerbros.com/tv/friends"
+    ],
+    "timestamp": "2026-08-26T12:06:30.281278",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Phone",
+    "query": "FRIENDS ENTERPRISES HARYANA contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.friends_enterprises.f875f39c257672b8d49947034e6a99a1.html",
+      "https://www.dnb.com/business-directory/company-profiles.friends_enterprises.4fee0cf95015d7866c1b63024ae383f7.html",
+      "https://www.friendsenterprises.org/",
+      "https://www.friendsenterprises.org/company-profile.html"
+    ],
+    "timestamp": "2026-08-26T12:06:42.643847",
+    "status": "results_found"
+  },
+  {
+    "seller": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Email",
+    "query": "FRIENDS ENTERPRISES HARYANA email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dial4trade.com/friends-enterprisesfaridabad/contact-us.htm",
+      "https://www.dnb.com/business-directory/company-profiles.friends_enterprises.4fee0cf95015d7866c1b63024ae383f7.html",
+      "https://www.dnb.com/business-directory/company-profiles.friends_enterprises.f875f39c257672b8d49947034e6a99a1.html",
+      "https://prospeo.io/c/friends-enterprises"
+    ],
+    "timestamp": "2026-08-26T12:06:51.188511",
+    "status": "results_found"
+  },
+  {
+    "business": "FRIENDS ENTERPRISES HARYANA",
+    "field": "Email Address",
+    "value": "john.doe@company.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://prospeo.io/c/friends-enterprises",
+    "timestamp": "2026-08-26T12:06:56.933804"
+  },
+  {
+    "business": "Blushinsta",
+    "field": "Business Name",
+    "value": "Blushinsta",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A13D1BF8R9K92C&asin=B0BNPLVGXH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T12:06:57.784356"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Website",
+    "query": "Blushinsta official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.apple.com/itunes/",
+      "https://www.apple.com/kr/itunes/"
+    ],
+    "timestamp": "2026-08-26T12:06:59.368954",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Legal Entity Name",
+    "query": "Blushinsta company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://claude.ai/"
+    ],
+    "timestamp": "2026-08-26T12:07:10.937036",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Legal Entity Name",
+    "query": "Blushinsta Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ph.vacations/resorts/paraiso-ni-baste-resort-6358fd229714576a340f9775",
+      "https://www.tripadvisor.com.ph/Attraction_Review-g312689-d10330610-Reviews-Paraiso_ni_Baste_Resort-Valenzuela_Metro_Manila_Luzon.html",
+      "https://www.hotels1000.com/PH/Valenzuela/520698164635460/Paraiso-ni-Baste-Resort",
+      "https://www.tripadvisor.ie/Attraction_Review-g312689-d10330610-Reviews-Paraiso_ni_Baste_Resort-Valenzuela_Metro_Manila_Luzon.html"
+    ],
+    "timestamp": "2026-08-26T12:07:13.999347",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "PAN",
+    "query": "Blushinsta PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T12:07:23.678542",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "PAN",
+    "query": "Blushinsta PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/sun/auroras/",
+      "https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html",
+      "https://www.nhm.ac.uk/discover/what-are-the-northern-lights-aurora-borealis-causes-explained.html",
+      "https://vajiramandravi.com/current-affairs/aurora-borealis/"
+    ],
+    "timestamp": "2026-08-26T12:07:31.402686",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "GST",
+    "query": "Blushinsta GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://m.me/www.facebook.com"
+    ],
+    "timestamp": "2026-08-26T12:07:36.346468",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "GST",
+    "query": "Blushinsta GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://translate.google.co.in/details",
+      "https://translate.google.co.in/m",
+      "https://translate.google.co.in/robots.txt"
+    ],
+    "timestamp": "2026-08-26T12:07:40.043277",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Owner",
+    "query": "Blushinsta director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-26T12:07:44.013169",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Owner",
+    "query": "Blushinsta founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://abema.tv/?msockid=01e15975f16f636107824eb4f05a622d",
+      "https://abema.tv/video/genre/animation?msockid=01e15975f16f636107824eb4f05a622d",
+      "https://abema.tv/timetable?msockid=01e15975f16f636107824eb4f05a622d",
+      "https://abema.tv/now-on-air/shogi?msockid=01e15975f16f636107824eb4f05a622d"
+    ],
+    "timestamp": "2026-08-26T12:07:47.530740",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Address",
+    "query": "Blushinsta registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html",
+      "https://forums.commentcamarche.net/forum/affich-3761220-a248-e-akamai-net",
+      "https://forums.commentcamarche.net/forum/affich-19504351-a-quoi-sert-akamai-netsession-client"
+    ],
+    "timestamp": "2026-08-26T12:07:54.382215",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Address",
+    "query": "Blushinsta registered address",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.whois.com/whois/",
+      "https://dailyupdatess.com/blushinsta-s64k-selfie-stick-to-tripod-and-distant-management-360-rotation-full-stability-compact-design-suitable-with-android-smartphones-double-gentle/"
+    ],
+    "timestamp": "2026-08-26T12:08:05.704353",
+    "status": "results_found"
+  },
+  {
+    "seller": "Blushinsta",
+    "field": "Phone",
+    "query": "Blushinsta phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bluehost.com/help/article/contacting-support",
+      "https://instagram.pissedconsumer.com/customer-service.html",
+      "https://www.meta.com/help/policies/23938634512490588/",
+      "https://help.uber.com/en/"
+    ],
+    "timestamp": "2026-08-26T12:08:13.101812",
+    "status": "results_found"
+  },
+  {
+    "business": "Blushinsta",
+    "field": "Email Address",
+    "value": "support@instagram.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://instagram.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-26T12:08:17.473086"
+  }
+]

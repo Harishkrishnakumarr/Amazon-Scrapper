@@ -1,0 +1,100 @@
+{
+  "category": "Baseball",
+  "records_before_save": 7,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1489,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "18AALCR3173P1ZM",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MIHIR TRADERS",
+      "database_id": 1489,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27AGVPS6817J1ZG",
+      "pan": "AGVPS6817J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Gtc-International",
+      "database_id": 1490,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@gtcinternational.com",
+      "gst": "03FVIPK3414G1ZV",
+      "pan": "FVIPK3414G",
+      "website": "https://www.gtcinternational.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Sports Fun",
+      "database_id": 1491,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "09JSIPS8096H1ZN",
+      "pan": "JSIPS8096H",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Gurfateh Trading Company",
+      "database_id": 1489,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "03CKKPS0433H2ZA",
+      "pan": "CKKPS0433H",
+      "website": "https://www.tradeindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Dua Traders Online Store",
+      "database_id": 1492,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919310501787",
+      "email": "customercare.in@mrdiy.com",
+      "gst": "06AAICT6751C1ZD",
+      "pan": "AAICT6751C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Optifit Mall",
+      "database_id": 1489,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.tradeindia.com/",
+      "status": "Verified"
+    }
+  ]
+}

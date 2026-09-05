@@ -1,0 +1,48 @@
+{
+  "category": "Garment Covers",
+  "records_before_save": 9,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "HomeStrap",
+      "database_id": 1628,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916264481108",
+      "email": "support@homestrap.com",
+      "gst": "09AADCH2867A1ZR",
+      "pan": "AADCH2867A",
+      "website": "https://www.homestrap.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Heybey Traders",
+      "database_id": 1654,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "admin@lawdefiner.com",
+      "gst": "06FNWPK8099F1Z2",
+      "pan": "FNWPK8099F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ELEGANT-GOODS",
+      "database_id": 1655,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919716262626",
+      "email": "support@elegantautoretail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.elegantgoods.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FK4RND9C&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T11:52:11.003586"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stats.stackexchange.com/questions/299712/what-are-the-shortcomings-of-the-mean-absolute-percentage-error-mape",
+      "https://stats.stackexchange.com/questions/596324/is-median-absolute-percentage-error-useless"
+    ],
+    "timestamp": "2026-08-26T11:52:15.149867",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://www.companydetails.in/company/clicktech-retail-private-limited",
+      "https://www.falconebiz.com/company/CLICKTECH-RETAIL-PRIVATE-LIMITED-U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-26T11:52:26.830415",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T11:52:28.479092"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T11:52:28.479111"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T11:52:28.479116"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T11:52:28.479122"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "legal-team@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+    "timestamp": "2026-08-26T11:52:31.648773"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://gst.unifers.ai/gst/29AAJCC9783E1Z3/clicktech-retail-private-limited",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-03aajcc9783e1zh/"
+    ],
+    "timestamp": "2026-08-26T11:52:40.515660",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=cbc8ced1c6b715e45b6ba45f40edfa46",
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://gst.jamku.app/gstin/33AAJCC9783E1ZE",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/"
+    ],
+    "timestamp": "2026-08-26T11:53:22.952634",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the",
+      "https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image",
+      "https://es.stackoverflow.com/questions/63716/como-evitar-el-cach%c3%a9-de-los-archivos-css-y-js",
+      "https://stackoverflow.com/questions/126772/how-to-force-a-web-browser-not-to-cache-images"
+    ],
+    "timestamp": "2026-08-26T11:53:25.134036",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://clicktechretail.in/about/",
+      "https://tracxn.com/d/companies/clicktech-retail/__RcRWQ1ZQtw3jD_s4hQA53_JfiOu1Gx9N5yndQwnUAvQ",
+      "https://www.thecompanycheck.com/company/clicktech-retail-private-limited/U52500WB2021PTC250343"
+    ],
+    "timestamp": "2026-08-26T11:53:33.112169",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api"
+    ],
+    "timestamp": "2026-08-26T11:53:43.698838",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/contact-us/",
+      "https://contactout.com/company/Clicktech-Retail-Private-Ltd-79151",
+      "https://clicktechindia.com/contact/",
+      "https://clicktechretail.in/about/"
+    ],
+    "timestamp": "2026-08-26T11:53:59.623543",
+    "status": "results_found"
+  },
+  {
+    "business": "KODAK Photo Printer",
+    "field": "Business Name",
+    "value": "KODAK Photo Printer",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A284NYNYPWABTT&asin=B088PQR3YL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T11:54:01.025184"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "Website",
+    "query": "KODAK Photo Printer official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/"
+    ],
+    "timestamp": "2026-08-26T11:54:05.948568",
+    "status": "results_found"
+  },
+  {
+    "business": "KODAK Photo Printer",
+    "field": "Website URL",
+    "value": "https://www.kodakphotoprinter.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kodakphotoprinter.com/",
+    "timestamp": "2026-08-26T11:54:08.733723"
+  },
+  {
+    "business": "KODAK Photo Printer",
+    "field": "Email Address",
+    "value": "support@kodakphotoprinter.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kodakphotoprinter.com/",
+    "timestamp": "2026-08-26T11:54:11.373013"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "Legal Entity Name",
+    "query": "KODAK Photo Printer company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:54:20.614152",
+    "status": "results_found"
+  },
+  {
+    "business": "KODAK Photo Printer",
+    "field": "Phone Number",
+    "value": "+919711088885",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kodaktv.in/",
+    "timestamp": "2026-08-26T11:54:33.820532"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "PAN",
+    "query": "KODAK Photo Printer PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:54:36.004918",
+    "status": "results_found"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "PAN",
+    "query": "KODAK Photo Printer PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:54:46.172240",
+    "status": "results_found"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "GST",
+    "query": "KODAK Photo Printer GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:54:54.622398",
+    "status": "results_found"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "GST",
+    "query": "KODAK Photo Printer GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:55:08.870290",
+    "status": "results_found"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "Owner",
+    "query": "KODAK Photo Printer director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:55:10.547084",
+    "status": "results_found"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "Owner",
+    "query": "KODAK Photo Printer founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:55:22.705120",
+    "status": "results_found"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "Address",
+    "query": "KODAK Photo Printer registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:55:25.937525",
+    "status": "results_found"
+  },
+  {
+    "seller": "KODAK Photo Printer",
+    "field": "Address",
+    "query": "KODAK Photo Printer registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kodak.com/en/",
+      "https://www.kodak.com/en/consumer/products/cameras/",
+      "https://www.kodak.gtcie.com/en/",
+      "https://kodaktv.in/"
+    ],
+    "timestamp": "2026-08-26T11:55:38.803031",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0DQY9DPXR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T11:55:41.653037"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kay.com/?msockid=0be820ba0f7b6d3c1c3c377b0e7f6cf5",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-26T11:55:43.180260",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=0be820ba0f7b6d3c1c3c377b0e7f6cf5",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-26T11:55:56.470682",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Phone Number",
+    "value": "+919840477576",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kaystore.in/",
+    "timestamp": "2026-08-26T11:55:59.770577"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Email Address",
+    "value": "orders@kaystore.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kaystore.in/",
+    "timestamp": "2026-08-26T11:55:59.770743"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=0be820ba0f7b6d3c1c3c377b0e7f6cf5",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-26T11:56:17.487806",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=0be820ba0f7b6d3c1c3c377b0e7f6cf5",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-26T11:56:30.745783",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=0be820ba0f7b6d3c1c3c377b0e7f6cf5",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-26T11:56:50.220371",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.verif.com/en/company/KAY-KAY-OVERSEAS-CORPORATION-68d9d4e412992303384c0e22/",
+      "https://www.dnb.com/business-directory/company-profiles.kay_kay_overseas_corporation.8e1bf685ceae90bd75002f077f0c930e.html",
+      "https://gst.iadv.io/KAY-KAY-OVERSEAS-CORPORATION-27AACFK0693D1ZJ/",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-27aacfk0693d1zj/"
+    ],
+    "timestamp": "2026-08-26T11:57:11.058423",
+    "status": "results_found"
+  }
+]

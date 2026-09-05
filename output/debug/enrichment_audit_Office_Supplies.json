@@ -1,0 +1,533 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0FJM311NX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T09:02:02.861627"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-08-22T09:02:05.332460",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T09:02:10.472602"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T09:02:11.123846"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T09:02:11.124612"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-22T09:02:16.846648",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.thecompanycheck.com/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-08-22T09:02:26.348278",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.legalentityidentifier.in/certificate?msclkid=2af60bc89f1d1e92928d6141877e59d5",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.thecompanycheck.com/company/b/cocoblu/ypydpger8ytu8ya6v",
+      "https://opencorpdata.com/lei/335800J7FV7JRZL1PQ54",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T09:02:39.611006",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/09AAJCC8517E1ZJ/cocoblu-retail-limited",
+      "https://gst.unifers.ai/gst/08AAJCC8517E1ZL/cocoblu-retail-limited",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-33AAJCC8517E1ZS/",
+      "https://gstserver.com/gst/27AAJCC8517E1ZL/"
+    ],
+    "timestamp": "2026-08-22T09:02:42.432548",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-22T09:03:23.377303",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+    "timestamp": "2026-08-22T09:03:24.316824"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.indiafashionforum.in/team/mouli-venkataraman/"
+    ],
+    "timestamp": "2026-08-22T09:03:26.242274",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T09:03:30.176906",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T09:03:35.014819",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-22T09:03:38.926319",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-22T09:03:45.713744",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-08-22T09:03:50.590190",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CZT76W2C&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T09:03:54.280745"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home",
+      "https://us.etrade.com/etx/hw/v2/accountshome?cnt=header_logon_startin_accounts"
+    ],
+    "timestamp": "2026-08-22T09:03:57.820763",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/etx/hw/v2/accountshome?cnt=header_logon_startin_accounts",
+    "timestamp": "2026-08-22T09:04:59.659652"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151683015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-22T09:05:00.774419"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://us.etrade.com/home?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://etrade.gov.et/main/customer/business-license/registration",
+      "https://etrade.gov.et/"
+    ],
+    "timestamp": "2026-08-22T09:05:09.094317",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://us.etrade.com/e/t/user/login?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-08-22T09:05:30.381639",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://us.etrade.com/e/t/user/login?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-08-22T09:05:42.484565",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://us.etrade.com/e/t/user/login?msockid=2525e2aa541a6f7d1824f51755486eeb",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-08-22T09:05:51.101065",
+    "status": "results_found"
+  },
+  {
+    "business": "Herrlich Homes",
+    "field": "Business Name",
+    "value": "Herrlich Homes",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1P69WP2WNSAAQ&asin=B0FLFC49XG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T09:05:54.527796"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Website",
+    "query": "Herrlich Homes official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.legoland.jp/",
+      "https://www.legoland.jp/tickets/"
+    ],
+    "timestamp": "2026-08-22T09:05:55.921198",
+    "status": "results_found"
+  },
+  {
+    "business": "Herrlich Homes",
+    "field": "Website URL",
+    "value": "https://www.herrlichhomes.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.herrlichhomes.com/",
+    "timestamp": "2026-08-22T09:05:57.965059"
+  },
+  {
+    "business": "Herrlich Homes",
+    "field": "Phone Number",
+    "value": "+918381522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.herrlichhomes.com/",
+    "timestamp": "2026-08-22T09:05:58.881670"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Legal Entity Name",
+    "query": "Herrlich Homes company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.britannica.com/topic/Wikipedia"
+    ],
+    "timestamp": "2026-08-22T09:06:07.214404",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Legal Entity Name",
+    "query": "Herrlich Homes Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.google.co.kr/index.html",
+      "https://translate.google.co.kr/",
+      "https://www.google.co.kr/imghp",
+      "https://eziro.com/info/%EA%B5%AC%EA%B8%80-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-08-22T09:06:10.190298",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Legal Entity Name",
+    "query": "Herrlich Homes legal entity",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.zhihu.com/people/loongtext"
+    ],
+    "timestamp": "2026-08-22T09:06:16.743475",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "PAN",
+    "query": "Herrlich Homes PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.paisabazaar.com/pan-card/how-to-track-pan-card-status/",
+      "https://www.paisabazaar.com/pan-card/form-61/",
+      "https://www.paisabazaar.com/pan-card/tan-verification/",
+      "https://www.paisabazaar.com/pan-card/how-to-change-photo-and-signature-in-pan-card/"
+    ],
+    "timestamp": "2026-08-22T09:06:21.441032",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "PAN",
+    "query": "Herrlich Homes PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dwell.com/discover/47.55555%2C%2B-122.55555",
+      "https://www.ebay.at/sch/Feste-Besondere-Anlasse-/16086/i.html?_nkw=47.55555%2c+-122.55555",
+      "https://www.ma-shops.nl/shops/search.php?searchstr=47.55555%2C+-122.55555",
+      "https://adt.arcanum.com/en/search/results/?list=eyJxdWVyeSI6ICI0Ny41NTU1NSwgLTEyMi41NTU1NSIsICJzb3J0IjogIkRBVEUifQ&per_page=100",
+      "https://pl.shein.com/pdsearch/47.55555%2525252525252525252c+-122.55555?msockid=2525e2aa541a6f7d1824f51755486eeb"
+    ],
+    "timestamp": "2026-08-22T09:06:27.424953",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "GST",
+    "query": "Herrlich Homes GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://dichvucong.gov.vn/p/home/dvc-trang-chu.html"
+    ],
+    "timestamp": "2026-08-22T09:06:40.840940",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "GST",
+    "query": "Herrlich Homes GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://www.herrlichhomes.in/",
+      "https://gstverify.co.in/search/",
+      "https://www.herrlichhomes.in/pages/contact",
+      "https://gst.jamku.app/gstin/27AAACS7946N1ZO"
+    ],
+    "timestamp": "2026-08-22T09:07:05.443018",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Owner",
+    "query": "Herrlich Homes director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://note.com/yukiharu2020/n/n29d69ea68438",
+      "https://iwj.co.jp/wj/open/archives/529447",
+      "https://infact.press/2023/03/post-21575/",
+      "https://www.sangiin.go.jp/japanese/joho1/kousei/syuisyo/210/syuh/s210035.htm",
+      "https://japan.hani.co.kr/arti/international/41459.html"
+    ],
+    "timestamp": "2026-08-22T09:07:06.821918",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Address",
+    "query": "Herrlich Homes registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://herrlich.in/index.php/contact/",
+      "https://herrlich.in/index.php/products/",
+      "https://www.herrlichhomes.in/pages/contact",
+      "https://www.herrlichhomes.in/",
+      "https://www.sellerratings.com/amazon/india/herrlich-homes"
+    ],
+    "timestamp": "2026-08-22T09:07:38.775144",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Address",
+    "query": "Herrlich Homes registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://uptogo.com.tw/%e5%81%a5%e5%ba%b7/%e9%86%ab%e9%99%a2%e8%a8%ba%e6%89%80%e8%b3%87%e8%a8%8a/%e7%94%b3%e8%ab%8b%e8%a8%ba%e6%96%b7%e8%ad%89%e6%98%8e%e6%9b%b8%e8%a6%81%e5%b8%b6%e4%bb%80%e9%ba%bc%ef%bc%9f/",
+      "https://tpech.gov.taipei/News_Content.aspx?n=F3E85264F90187B0&sms=64459F4C546A1D5C&s=6BD79411FD4B256A",
+      "https://www.sltung.com.tw/page_v/24/233/156"
+    ],
+    "timestamp": "2026-08-22T09:07:49.445084",
+    "status": "results_found"
+  },
+  {
+    "seller": "Herrlich Homes",
+    "field": "Address",
+    "query": "Herrlich Homes head office address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://herrlich.in/index.php/contact/",
+      "https://www.herrlichhomes.in/pages/contact",
+      "https://herrlich.in/index.php/products/",
+      "https://www.herrlichhomes.in/"
+    ],
+    "timestamp": "2026-08-22T09:07:56.178945",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "business": "HomeStrap",
+    "field": "Business Name",
+    "value": "HomeStrap",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A26ROWD4VYB0ZL&asin=B08LQRXXNB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T17:54:46.161713"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Website",
+    "query": "HomeStrap official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.homestrap.com/",
+      "https://www.homestrap.com/collections/shop-homestrap"
+    ],
+    "timestamp": "2026-09-05T17:54:52.602349",
+    "status": "results_found"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "Website URL",
+    "value": "https://www.homestrap.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.homestrap.com/collections/shop-homestrap",
+    "timestamp": "2026-09-05T17:55:01.746874"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "Phone Number",
+    "value": "+916264481108",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.homestrap.com/",
+    "timestamp": "2026-09-05T17:55:08.275684"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "Email Address",
+    "value": "support@homestrap.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.homestrap.com/",
+    "timestamp": "2026-09-05T17:55:08.276082"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Legal Entity Name",
+    "query": "HomeStrap company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.floridaregisteredagent.com/llc-building-ppc?utm_source=bing&utm_medium=cpc&utm_campaign=Florida%20-%20BF%20-%20LLC&utm_content=Florida%20-%20BF%20-%20LLC&utm_term=florida%20business%20registration&msclkid=4de4a61971a0192ce17ccc857b8d9163",
+      "https://www.floridaregisteredagent.com/?utm_source=bing&utm_medium=cpc&utm_campaign=Florida%20-%20BF%20-%20LLC&utm_content=Florida%20-%20BF%20-%20LLC&utm_term=florida%20business%20registration&msclkid=c52ef212727f1baf74d9988e78527a57",
+      "https://www.falconebiz.com/company/HOMESTRAP-FABRIC-FURNISHING-PRIVATE-LIMITED-U17120MP2013PTC031735",
+      "https://piceapp.com/gst-number-search/homestrap-fabric-furnishing-limited-33aadch2867a1z0/"
+    ],
+    "timestamp": "2026-09-05T17:55:19.423929",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "PAN",
+    "query": "HomeStrap PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/homestrap-fabric-furnishing-limited/__Ok_actdOuszjxnrABg4VnV1VhE8qWc0_khKuca6mnQk"
+    ],
+    "timestamp": "2026-09-05T17:55:32.521922",
+    "status": "results_found"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/homestrap-fabric-furnishing-limited/__Ok_actdOuszjxnrABg4VnV1VhE8qWc0_khKuca6mnQk",
+    "timestamp": "2026-09-05T17:55:33.090695"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/homestrap-fabric-furnishing-limited/__Ok_actdOuszjxnrABg4VnV1VhE8qWc0_khKuca6mnQk",
+    "timestamp": "2026-09-05T17:55:33.090715"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/homestrap-fabric-furnishing-limited/__Ok_actdOuszjxnrABg4VnV1VhE8qWc0_khKuca6mnQk",
+    "timestamp": "2026-09-05T17:55:33.090720"
+  },
+  {
+    "business": "HomeStrap",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/homestrap-fabric-furnishing-limited/__Ok_actdOuszjxnrABg4VnV1VhE8qWc0_khKuca6mnQk",
+    "timestamp": "2026-09-05T17:55:33.090724"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "PAN",
+    "query": "HomeStrap PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/add-and-remove-favorites-in-file-explorer-home-in-windows-11.6786/",
+      "https://www.elevenforum.com/t/search-in-windows-11-file-explorer.21789/"
+    ],
+    "timestamp": "2026-09-05T17:55:34.809121",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "GST",
+    "query": "HomeStrap GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://unicourt.com/courts/federal/us-district-courts-2",
+      "https://recordsfinder.com/court/",
+      "https://www.morelaw.com/"
+    ],
+    "timestamp": "2026-09-05T17:55:41.105530",
+    "status": "results_found"
+  },
+  {
+    "seller": "HomeStrap",
+    "field": "Owner",
+    "query": "HomeStrap director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://tabelog.com/matome/15016/?msockid=25c696d85a6c65cb3ca181135bee64fe",
+      "https://tabelog.com/tokyo/P000411/premiseLst/RC/?msockid=25c696d85a6c65cb3ca181135bee64fe",
+      "https://crexgroup.com/ja/travel/travel/ueno-station-gourmet-souvenirs/"
+    ],
+    "timestamp": "2026-09-05T17:55:55.377197",
+    "status": "results_found"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "Business Name",
+    "value": "Heybey Traders",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1Z6SBRVOGOY4Y&asin=B0H4TZ55LR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T17:56:11.379575"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Website",
+    "query": "Heybey Traders official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ibnsireen.com/ar/blog/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D9%84%D8%B9%D8%B2%D8%A8%D8%A7%D8%A1",
+      "https://www.albawaba.me/ar/%D8%B5%D8%AD%D8%AA%D9%83%D9%90-%D9%88%D8%AC%D9%85%D8%A7%D9%84%D9%83%D9%90/%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%8A%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%85-%D9%84%D9%84%D8%B9%D8%B2%D8%A8%D8%A7%D8%A1-%D8%A8%D9%83%D9%84-%D8%AA%D8%A3%D9%88%D9%8A%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-1486128"
+    ],
+    "timestamp": "2026-09-05T17:56:13.230931",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Legal Entity Name",
+    "query": "Heybey Traders company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sensorstechforum.com/de/pokki-start-menu/",
+      "https://sensorstechforum.com/pokki-start-menu/"
+    ],
+    "timestamp": "2026-09-05T17:56:21.168917",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Legal Entity Name",
+    "query": "Heybey Traders Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://legaldictionary.net/natural-person/",
+      "https://www.merriam-webster.com/legal/natural%20person",
+      "https://dictionary.cambridge.org/dictionary/english/natural-person",
+      "https://lawdefiner.com/natural-person-meaning/"
+    ],
+    "timestamp": "2026-09-05T17:56:24.896526",
+    "status": "results_found"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "Email Address",
+    "value": "admin@lawdefiner.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://lawdefiner.com/natural-person-meaning/",
+    "timestamp": "2026-09-05T17:56:33.932015"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "PAN",
+    "query": "Heybey Traders PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/",
+      "https://unicourt.com/courts/federal/us-district-courts-2",
+      "https://www.morelaw.com/"
+    ],
+    "timestamp": "2026-09-05T17:56:35.447142",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "PAN",
+    "query": "Heybey Traders PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/heybey-traders-06FNWPK8099F1Z2/",
+      "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+      "https://www.knowyourgst.com/gst-number-search/heybey-traders-27FNWPK8099F1ZY/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-05T17:56:47.747833",
+    "status": "results_found"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "GST Number",
+    "value": "06FNWPK8099F1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/heybey-traders-06FNWPK8099F1Z2/",
+    "timestamp": "2026-09-05T17:56:48.256190"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "PAN Number",
+    "value": "FNWPK8099F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/heybey-traders-06FNWPK8099F1Z2/",
+    "timestamp": "2026-09-05T17:56:48.256208"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Owner",
+    "query": "Heybey Traders director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://home.mail.nate.com/",
+      "https://namu.wiki/w/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EB%A9%94%EC%9D%BC",
+      "https://m.mail.daum.net/",
+      "https://naver.worksmobile.com/products/naver-works/mail/"
+    ],
+    "timestamp": "2026-09-05T17:56:49.947185",
+    "status": "results_found"
+  },
+  {
+    "seller": "Heybey Traders",
+    "field": "Address",
+    "query": "Heybey Traders registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.heybey_traders.de090887e502df2b3a7472ea8fffea5c.html",
+      "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+      "https://www.knowyourgst.com/gst-number-search/heybey-traders-27FNWPK8099F1ZY/",
+      "https://www.knowyourgst.com/gst-number-search/heybey-traders-36FNWPK8099F1ZZ/"
+    ],
+    "timestamp": "2026-09-05T17:57:11.284635",
+    "status": "results_found"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+    "timestamp": "2026-09-05T17:57:14.563670"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+    "timestamp": "2026-09-05T17:57:14.568051"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+    "timestamp": "2026-09-05T17:57:14.568067"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+    "timestamp": "2026-09-05T17:57:14.568072"
+  },
+  {
+    "business": "Heybey Traders",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/heybey-traders-06fnwpk8099f1z2/",
+    "timestamp": "2026-09-05T17:57:14.568076"
+  },
+  {
+    "business": "ELEGANT-GOODS",
+    "field": "Business Name",
+    "value": "ELEGANT-GOODS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A4TFSBBRLKOJK&asin=B0GVJHZPY3&ref_=dp_merchant_link",
+    "timestamp": "2026-09-05T17:57:15.198774"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "Website",
+    "query": "ELEGANT-GOODS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant"
+    ],
+    "timestamp": "2026-09-05T17:57:16.643577",
+    "status": "results_found"
+  },
+  {
+    "business": "ELEGANT-GOODS",
+    "field": "Website URL",
+    "value": "https://www.elegantgoods.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.elegantgoods.com/",
+    "timestamp": "2026-09-05T17:57:18.488465"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "Legal Entity Name",
+    "query": "ELEGANT-GOODS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:57:23.193675",
+    "status": "results_found"
+  },
+  {
+    "business": "ELEGANT-GOODS",
+    "field": "Phone Number",
+    "value": "+919716262626",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://elegantautoretail.com/",
+    "timestamp": "2026-09-05T17:57:30.278247"
+  },
+  {
+    "business": "ELEGANT-GOODS",
+    "field": "Email Address",
+    "value": "support@elegantautoretail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://elegantautoretail.com/",
+    "timestamp": "2026-09-05T17:57:30.278382"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "Legal Entity Name",
+    "query": "ELEGANT-GOODS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/"
+    ],
+    "timestamp": "2026-09-05T17:57:34.341698",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "PAN",
+    "query": "ELEGANT-GOODS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:57:40.610258",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "PAN",
+    "query": "ELEGANT-GOODS PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:57:48.981755",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "GST",
+    "query": "ELEGANT-GOODS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:57:56.590518",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "GST",
+    "query": "ELEGANT-GOODS GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:58:06.480836",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "Owner",
+    "query": "ELEGANT-GOODS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:58:11.731717",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "Owner",
+    "query": "ELEGANT-GOODS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:58:20.641391",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "Address",
+    "query": "ELEGANT-GOODS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:58:28.660253",
+    "status": "results_found"
+  },
+  {
+    "seller": "ELEGANT-GOODS",
+    "field": "Address",
+    "query": "ELEGANT-GOODS registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/elegant",
+      "https://www.merriam-webster.com/dictionary/elegant",
+      "https://elegantautoretail.com/",
+      "https://www.dictionary.com/browse/elegant"
+    ],
+    "timestamp": "2026-09-05T17:58:37.976782",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "business": "Overseas_shop",
+    "field": "Business Name",
+    "value": "Overseas_shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2N740TWTU8O1W&asin=B07H89YW65&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "Overseas_shop",
+    "field": "Phone Number",
+    "value": "+913212302026",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.sellerratings.com/amazon/india/overseas_shop",
+    "search_attempts": 1
+  },
+  {
+    "business": "Overseas_shop",
+    "field": "Email Address",
+    "value": "sfsdelivery.confirmation@usps.gov",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.usps.com/help/contact-us.htm",
+    "search_attempts": 1
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Business Name",
+    "value": "shop_worldwide",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AKPH4HW0FR8BT&asin=B07ZK4RWLM&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Website URL",
+    "value": "https://www.shopworldwide.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shopworldwide.in/",
+    "search_attempts": 1
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Phone Number",
+    "value": "+912471002025",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shopworldwide.in/",
+    "search_attempts": 1
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Email Address",
+    "value": "info@shopworldwide.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shopworldwide.in/contact",
+    "search_attempts": 1
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Business Name",
+    "value": "BUY CRAVINGS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AQIOHNVMNCJGN&asin=B082V6YM3B&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Billing Address",
+    "value": "ga 97, plot no b42, 4th avenue amace sambandam apartments, ashok nagar chennai chennai tn 600083 in",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.insiderbiz.in/company-map/CRAVING-CONCEPTS-PRIVATE-LIMITED",
+    "search_attempts": 1
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Pincode",
+    "value": "600083",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.insiderbiz.in/company-map/CRAVING-CONCEPTS-PRIVATE-LIMITED",
+    "search_attempts": 1
+  },
+  {
+    "business": "BUY CRAVINGS",
+    "field": "Phone Number",
+    "value": "+916160002026",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.sellerratings.com/amazon/india/buy-cravings",
+    "search_attempts": 1
+  },
+  {
+    "business": "STS Shop",
+    "field": "Business Name",
+    "value": "STS Shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ZJ9VB2OVIKVD&asin=B082V686HB&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "STS Shop",
+    "field": "Website URL",
+    "value": "https://www.stsshop.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.stsshop.com/",
+    "search_attempts": 1
+  },
+  {
+    "business": "STS Shop",
+    "field": "Phone Number",
+    "value": "+915613740813",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.stsshop.com/",
+    "search_attempts": 1
+  },
+  {
+    "business": "STS Shop",
+    "field": "Email Address",
+    "value": "info@stsshop.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.stsshop.com/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Business Name",
+    "value": "Cart2Globe",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A324FKG9CG7HUT&asin=B082V6H9F4&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Website URL",
+    "value": "https://www.cart2india.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cart2india.com/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Phone Number",
+    "value": "+910200720262",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cart2india.com/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "GST Number",
+    "candidate_value": "27AAECC4477E1ZN",
+    "extracted_pan": "AAECC4477E",
+    "business_pan": "Unknown",
+    "status": "REJECTED",
+    "reason": "Entity identity not confirmed on page \u2014 legal entity name or registered trade name must appear in source",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "confidence": 0
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "GST Number",
+    "candidate_value": "29AAECC4477E1ZJ",
+    "extracted_pan": "AAECC4477E",
+    "business_pan": "Unknown",
+    "status": "REJECTED",
+    "reason": "Entity identity not confirmed on page \u2014 legal entity name or registered trade name must appear in source",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "confidence": 0
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "GST Number",
+    "candidate_value": "36AAECC4477E1ZO",
+    "extracted_pan": "AAECC4477E",
+    "business_pan": "Unknown",
+    "status": "REJECTED",
+    "reason": "Entity identity not confirmed on page \u2014 legal entity name or registered trade name must appear in source",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "confidence": 0
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Billing Address",
+    "value": "#12, 2nd floor, sanjeevappa layout, 10th e cross nagavarapalya, c v raman nagar bangalore karnataka india 560093 karnataka karnataka india 560093",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "City",
+    "value": "sanjeevappa layout",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Pincode",
+    "value": "560093",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://rdata.in/company/cart-india-online-retail-private-limited-151764/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Email Address",
+    "value": "wecare@cart2india.com",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.cart2india.com/page/contact-us",
+    "search_attempts": 1
+  }
+]

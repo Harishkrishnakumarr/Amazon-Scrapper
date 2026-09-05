@@ -1,0 +1,74 @@
+{
+  "category": "Ebook Readers",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kobo_India",
+      "database_id": 788,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.kobo.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DOCOSS INDIA",
+      "database_id": 789,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "git@github.com",
+      "gst": "27AACPJ3904A1ZD",
+      "pan": "AACPJ3904A",
+      "website": "https://docoss.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Deals Paradize",
+      "database_id": 790,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917997443334",
+      "email": "contact@grabon.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.desidime.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DUTY BAZAAR",
+      "database_id": 791,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917208971840",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Jamwal-Enterprises",
+      "database_id": 792,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "admin@starsunfolded.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://starsunfolded.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

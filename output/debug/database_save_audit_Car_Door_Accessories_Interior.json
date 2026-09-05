@@ -1,0 +1,74 @@
+{
+  "category": "Car Door Accessories Interior",
+  "records_before_save": 9,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "NEW J.D. CAR ACCESSORIES",
+      "database_id": 906,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919561806101",
+      "email": "ndinesh93.dd@gmail.com",
+      "gst": "07BRZPP9086N1ZA",
+      "pan": "BRZPP9086N",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VASANLADII",
+      "database_id": 907,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919876543210",
+      "email": "fabrice.sciangula@wanadoo.fr",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MD FASHION store",
+      "database_id": 908,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@mdcomputers.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://mdcomputers.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Xariya enterprise",
+      "database_id": 909,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "24FZPPS1914C1ZB",
+      "pan": "FZPPS1914C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cloud Premium",
+      "database_id": 910,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B07K7JSKDK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T07:34:23.866148"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:34:36.831246",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "https://us.etrade.com/e/t/user/login?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T07:35:15.149578",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "https://us.etrade.com/e/t/user/login?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T07:35:18.751077",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "https://us.etrade.com/e/t/user/login?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T07:35:36.142401",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "https://us.etrade.com/e/t/user/login?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T07:35:54.360921",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "https://us.etrade.com/home/welcome-back?msockid=079d928f24486ccb3fd8854d25986d5b",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T07:36:13.048370",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Business Name",
+    "value": "Infinitikart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2BWJVKSWP7TR2&asin=B07L59965N&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:36:26.137005"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Website",
+    "query": "Infinitikart official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://infinikart.com/",
+      "https://infinikart.com/collections/all"
+    ],
+    "timestamp": "2026-08-27T07:36:37.169319",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Legal Entity Name",
+    "query": "Infinitikart company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tyroola.com.au/tyre-sizes/32-inch/",
+      "https://www.tempetyres.com.au/tyres?TyreDiameter=32",
+      "https://www.gumtree.com.au/s-wheels-tyres-rims/32+inch+tyres/k0c18476",
+      "https://www.jaxtyres.com.au/tyres/sizes/17-inch/32x12-5r17"
+    ],
+    "timestamp": "2026-08-27T07:36:51.129268",
+    "status": "results_found"
+  },
+  {
+    "business": "Infinitikart",
+    "field": "Email Address",
+    "value": "support@tyroola.com.au",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tyroola.com.au/tyre-sizes/32-inch/",
+    "timestamp": "2026-08-27T07:36:55.952639"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "PAN",
+    "query": "Infinitikart PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sms.icct.edu.ph/login/student",
+      "http://portal.icc.edu.ph/Account/Login",
+      "https://sms.icct.edu.ph/faculty",
+      "https://icct.edu.ph/online-learning/"
+    ],
+    "timestamp": "2026-08-27T07:37:05.483195",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "GST",
+    "query": "Infinitikart GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:37:32.354911",
+    "status": "no_results"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "GST",
+    "query": "Infinitikart GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.krak.dk/kort/s%C3%B8g/5200+odense+v?t=geos",
+      "https://postnummerdanmark.dk/postnummer/5200",
+      "https://www.boligsiden.dk/postnummer/5200/tilsalg",
+      "https://www.boligsiden.dk/postnummer/5200/tilsalg/villa"
+    ],
+    "timestamp": "2026-08-27T07:37:38.851343",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Owner",
+    "query": "Infinitikart director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cookpad.com/jp/categories/1310",
+      "https://cookpad.com/jp/search/%E3%81%A8%E3%81%86%E3%81%8C%E3%82%93",
+      "https://cookpad.com/jp/recipes/26384334",
+      "https://cookpad.com/jp/recipes/26367446"
+    ],
+    "timestamp": "2026-08-27T07:37:41.429661",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Owner",
+    "query": "Infinitikart founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://infinikart.com/",
+      "https://infinitikart.com/",
+      "https://infinitykart.in/"
+    ],
+    "timestamp": "2026-08-27T07:38:07.869272",
+    "status": "results_found"
+  },
+  {
+    "seller": "Infinitikart",
+    "field": "Address",
+    "query": "Infinitikart registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-08-27T07:38:12.945109",
+    "status": "results_found"
+  },
+  {
+    "business": "Alphabet Auto Part",
+    "field": "Business Name",
+    "value": "Alphabet Auto Part",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A280O5XGNCMSMX&asin=B0HD18KHP6&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:38:30.584207"
+  },
+  {
+    "seller": "Alphabet Auto Part",
+    "field": "Website",
+    "query": "Alphabet Auto Part official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://alphabetautoparts.com/",
+      "https://www.alphabet.com/en-ww.html"
+    ],
+    "timestamp": "2026-08-27T07:38:42.864004",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alphabet Auto Part",
+    "field": "Legal Entity Name",
+    "query": "Alphabet Auto Part company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.worldometers.info/languages/english-alphabet/",
+      "https://mrmrsenglish.com/a-to-z-alphabets-for-kids/",
+      "https://www.twinkl.co.in/teaching-wiki/alphabet",
+      "https://www.alphabet.com/en-ww.html"
+    ],
+    "timestamp": "2026-08-27T07:38:55.218266",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alphabet Auto Part",
+    "field": "PAN",
+    "query": "Alphabet Auto Part PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.worldometers.info/languages/english-alphabet/",
+      "https://mrmrsenglish.com/a-to-z-alphabets-for-kids/",
+      "https://www.twinkl.co.in/teaching-wiki/alphabet",
+      "https://www.alphabet.com/en-ww.html"
+    ],
+    "timestamp": "2026-08-27T07:39:12.832429",
+    "status": "results_found"
+  },
+  {
+    "business": "Alphabet Auto Part",
+    "field": "Email Address",
+    "value": "getincontact@alphabet.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.alphabet.com/en-ww.html",
+    "timestamp": "2026-08-27T07:39:24.842453"
+  },
+  {
+    "seller": "Alphabet Auto Part",
+    "field": "GST",
+    "query": "Alphabet Auto Part GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.worldometers.info/languages/english-alphabet/",
+      "https://mrmrsenglish.com/a-to-z-alphabets-for-kids/",
+      "https://www.twinkl.co.in/teaching-wiki/alphabet",
+      "https://www.alphabet.com/en-ww.html"
+    ],
+    "timestamp": "2026-08-27T07:39:33.853372",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alphabet Auto Part",
+    "field": "Owner",
+    "query": "Alphabet Auto Part director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.worldometers.info/languages/english-alphabet/",
+      "https://mrmrsenglish.com/a-to-z-alphabets-for-kids/",
+      "https://www.twinkl.co.in/teaching-wiki/alphabet",
+      "https://www.alphabet.com/en-ww.html"
+    ],
+    "timestamp": "2026-08-27T07:39:50.208941",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alphabet Auto Part",
+    "field": "Address",
+    "query": "Alphabet Auto Part registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.worldometers.info/languages/english-alphabet/",
+      "https://mrmrsenglish.com/a-to-z-alphabets-for-kids/",
+      "https://www.twinkl.co.in/teaching-wiki/alphabet",
+      "https://www.alphabet.com/en-ww.html"
+    ],
+    "timestamp": "2026-08-27T07:40:09.601816",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alphabet Auto Part",
+    "field": "Phone",
+    "query": "Alphabet Auto Part phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://shop.advanceautoparts.com/o/contact-us",
+      "https://shop.advanceautoparts.com/o/advance-auto-parts-coupons-and-deals",
+      "https://help-desk.advanceautoparts.com/s/article/How-can-I-contact-Advance-Auto-Parts",
+      "https://shop.advanceautoparts.com/o/terms-purchase"
+    ],
+    "timestamp": "2026-08-27T07:40:34.020599",
+    "status": "results_found"
+  }
+]

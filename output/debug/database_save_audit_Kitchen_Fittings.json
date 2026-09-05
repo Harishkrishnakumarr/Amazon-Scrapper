@@ -1,0 +1,87 @@
+{
+  "category": "Kitchen Fittings",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "HOUZA\u00ae by Prohome",
+      "database_id": 1262,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@cbinsights.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1263,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "mercuriojohn_mercurio@motionpictures.orgbytedance",
+      "gst": "27AAJCC9783E1Z7",
+      "pan": "AAJCC9783E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TONY STARK \u00ae",
+      "database_id": 1264,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "pacer@psc.uscourts.gov",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GOZAQE",
+      "database_id": 1265,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916817704445",
+      "email": "drc@afrisetup.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Fleexa",
+      "database_id": 1266,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "dyreport@douyu.tv",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.fleexa.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "IN_Sulfar_Official",
+      "database_id": 1267,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

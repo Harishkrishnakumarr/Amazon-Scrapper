@@ -1,0 +1,593 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0B77X44MX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T09:49:26.476801"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T09:49:35.073715",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/",
+      "https://www.google.co.in/index.html",
+      "https://translate.google.co.in/details"
+    ],
+    "timestamp": "2026-08-26T09:49:40.716200",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cmoney.tw/forum/stock/2489",
+      "https://www.cmoney.tw/forum/stock/2489?s=technical-analysis",
+      "https://www.cmoney.tw/forum/stock/2489?s=institutional",
+      "https://www.cmoney.tw/forum/article/179940912"
+    ],
+    "timestamp": "2026-08-26T09:49:53.532859",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-08-26T09:50:02.714868",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+    "timestamp": "2026-08-26T09:50:29.706153"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+    "timestamp": "2026-08-26T09:50:29.706177"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.deepl.com/en/translator",
+      "https://dictionary.cambridge.org/translate/",
+      "https://www.reverso.net/text-translation",
+      "https://www.deepl.com/en"
+    ],
+    "timestamp": "2026-08-26T09:50:33.216264",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accountingweb.co.uk/any-answers/payroll-how-to-calculate-initial-part-month-pay-for-monthly-employee",
+      "https://www.accountingweb.co.uk/any-answers/xero-vat-on-expense-in-income-account",
+      "https://www.accountingweb.co.uk/any-answers/vat-box-7-and-supplies-from-unregistered-traders",
+      "https://www.accountingweb.co.uk/any-answers/xero-bank-receipts-multiple-invoices"
+    ],
+    "timestamp": "2026-08-26T09:50:43.048577",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.civilservice.louisiana.gov/Divisions/Appeals/UpcomingHearings.aspx",
+      "https://www.newspapers.com/search/?msockid=300febd0926f6b930fb8fc11935d6a68",
+      "https://www.mlssoccer.com/",
+      "https://tveveryday.com/gma3-what-you-need-to-know-guests-today-this-weeks-schedule/"
+    ],
+    "timestamp": "2026-08-26T09:50:50.676019",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://docs.blender.org/manual/ru/dev/modeling/geometry_nodes/geometry/material/geometry_materials.html",
+      "https://docs.blender.org/manual/ru/4.2/sculpt_paint/brush/brush_settings.html",
+      "https://sky.pro/wiki/digital-art/kak-izmenit-razmer-modeli-v-blender-poshagovaya-instrukciya/",
+      "https://steamcommunity.com/app/365670/discussions/0/632295655176484320/"
+    ],
+    "timestamp": "2026-08-26T09:51:23.141205",
+    "status": "results_found"
+  },
+  {
+    "business": "The Gadget Deals",
+    "field": "Business Name",
+    "value": "The Gadget Deals",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A37B8OGPOKXMW4&asin=B0G259PL11&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T09:51:27.217151"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "Website",
+    "query": "The Gadget Deals official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.gadgets360.com/",
+      "https://www.gadgetlane.co.in/"
+    ],
+    "timestamp": "2026-08-26T09:51:29.096557",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "Legal Entity Name",
+    "query": "The Gadget Deals company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellersnooper.com/seller-profiles/thegadgetdeals",
+      "https://www.cherrypicksreviews.com/sellers/amazon/thegadgetdeals",
+      "https://opencorporates.com/companies/us_tx/0802383236",
+      "https://www.sellerratings.com/amazon/usa/thegadgetdeals"
+    ],
+    "timestamp": "2026-08-26T09:51:35.993139",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "PAN",
+    "query": "The Gadget Deals PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.gadgets360.com/"
+    ],
+    "timestamp": "2026-08-26T09:51:49.747086",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "PAN",
+    "query": "The Gadget Deals PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gadgets360.com/",
+      "https://www.gadgetlane.co.in/",
+      "https://www.dollargadget.in/",
+      "https://gadgetdekho.in/"
+    ],
+    "timestamp": "2026-08-26T09:51:52.678768",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "GST",
+    "query": "The Gadget Deals GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gadgets360.com/",
+      "https://www.gadgetlane.co.in/",
+      "https://www.dollargadget.in/",
+      "https://gadgetdekho.in/"
+    ],
+    "timestamp": "2026-08-26T09:52:08.111484",
+    "status": "results_found"
+  },
+  {
+    "business": "The Gadget Deals",
+    "field": "Phone Number",
+    "value": "+919867199309",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.dollargadget.in/",
+    "timestamp": "2026-08-26T09:52:19.240929"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "Owner",
+    "query": "The Gadget Deals director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gadgets360.com/",
+      "https://www.gadgetlane.co.in/",
+      "https://www.dollargadget.in/",
+      "https://gadgetdekho.in/"
+    ],
+    "timestamp": "2026-08-26T09:52:23.030597",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "Owner",
+    "query": "The Gadget Deals founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gadgets360.com/",
+      "https://www.gadgetlane.co.in/",
+      "https://www.dollargadget.in/",
+      "https://gadgetdekho.in/"
+    ],
+    "timestamp": "2026-08-26T09:52:30.061145",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "Address",
+    "query": "The Gadget Deals registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gadgets360.com/",
+      "https://www.gadgetlane.co.in/",
+      "https://www.dollargadget.in/",
+      "https://gadgetdekho.in/"
+    ],
+    "timestamp": "2026-08-26T09:52:35.998976",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "Address",
+    "query": "The Gadget Deals registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gadgets360.com/",
+      "https://www.gadgetlane.co.in/",
+      "https://www.dollargadget.in/",
+      "https://gadgetdekho.in/"
+    ],
+    "timestamp": "2026-08-26T09:52:42.928668",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Gadget Deals",
+    "field": "Email",
+    "query": "The Gadget Deals email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cherrypicksreviews.com/sellers/amazon/thegadgetdeals",
+      "https://www.sellerratings.com/amazon/usa/thegadgetdeals",
+      "https://gadgetsdeal.in/contact-us/",
+      "https://gadgetndeals.com/contact-us/"
+    ],
+    "timestamp": "2026-08-26T09:52:57.503357",
+    "status": "results_found"
+  },
+  {
+    "business": "WAAFY",
+    "field": "Business Name",
+    "value": "WAAFY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2BRMKWQDAASRZ&asin=B0FK33T1PD&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T09:53:09.666102"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "Website",
+    "query": "WAAFY official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download"
+    ],
+    "timestamp": "2026-08-26T09:53:11.566191",
+    "status": "results_found"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "Legal Entity Name",
+    "query": "WAAFY company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://wafy.sa/",
+      "https://waafy.com/",
+      "https://web.waafi.com/",
+      "https://www.crunchbase.com/organization/waafy"
+    ],
+    "timestamp": "2026-08-26T09:53:25.029399",
+    "status": "results_found"
+  },
+  {
+    "business": "WAAFY",
+    "field": "Email Address",
+    "value": "info@wafyapp.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://wafy.sa/",
+    "timestamp": "2026-08-26T09:53:27.297655"
+  },
+  {
+    "business": "WAAFY",
+    "field": "Phone Number",
+    "value": "+919320010110",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://waafy.com/",
+    "timestamp": "2026-08-26T09:53:29.961765"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "PAN",
+    "query": "WAAFY PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T09:53:41.917656",
+    "status": "results_found"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "PAN",
+    "query": "WAAFY PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fandango.com/dallas_tx_movietimes",
+      "https://www.cinemaclock.com/dallas-tx/movies-now-playing",
+      "https://www.fandango.com/the-drama-2026-243663/movie-overview",
+      "https://www.showtimes.com/now-playing-movies/dallas-tx/drama-films/"
+    ],
+    "timestamp": "2026-08-26T09:53:49.375955",
+    "status": "results_found"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "GST",
+    "query": "WAAFY GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/animal/Siamese-breed-of-cat",
+      "https://cats.com/siamese-cat-types",
+      "https://cats.com/cat-breeds/siamese",
+      "https://www.purina.co.uk/find-a-pet/cat-breeds/siamese"
+    ],
+    "timestamp": "2026-08-26T09:53:57.525877",
+    "status": "results_found"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "GST",
+    "query": "WAAFY GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:54:18.796297",
+    "status": "no_results"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "Owner",
+    "query": "WAAFY director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://devforum.zoom.us/c/api-and-webhooks/8",
+      "https://devforum.zoom.us/t/ai-call-summary/131944",
+      "https://devforum.zoom.us/t/zoom-office-365-graph-api-and-domain-association-errors/135596",
+      "https://devforum.zoom.us/t/restricting-participants-to-only-those-invited/102388"
+    ],
+    "timestamp": "2026-08-26T09:54:21.443783",
+    "status": "results_found"
+  },
+  {
+    "seller": "WAAFY",
+    "field": "Address",
+    "query": "WAAFY registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://lovebaby.sw.ntpc.gov.tw/",
+      "https://uptogo.com.tw/%E8%A6%AA%E5%AD%90/%E6%96%B0%E5%8C%97%E8%A6%AA%E5%AD%90%E9%A4%A8%E8%A6%81%E9%8C%A2%E5%97%8E%EF%BC%9F/",
+      "https://www.sw.ntpc.gov.tw/home.jsp?id=028febc48068412d",
+      "https://www.parenting.com.tw/article/6002140"
+    ],
+    "timestamp": "2026-08-26T09:54:40.665103",
+    "status": "results_found"
+  },
+  {
+    "business": "DHINGADHANI MALL",
+    "field": "Business Name",
+    "value": "DHINGADHANI MALL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3AKHIWZ5435WC&asin=B0FVFTW1SX&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T09:54:59.659258"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "Website",
+    "query": "DHINGADHANI MALL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.commbank.com.au/about-us/investors/share-price.html",
+      "https://www.commbank.com.au/about-us/investors.html"
+    ],
+    "timestamp": "2026-08-26T09:55:06.192671",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "Legal Entity Name",
+    "query": "DHINGADHANI MALL company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.y8.com/",
+      "https://th.y8.com/",
+      "https://www.y8.com/tags/1_player",
+      "https://th.y8.com/tags/1_player"
+    ],
+    "timestamp": "2026-08-26T09:55:13.158283",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "PAN",
+    "query": "DHINGADHANI MALL PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T09:55:43.443572",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "GST",
+    "query": "DHINGADHANI MALL GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/dhingadhani-mall-24doupk2665l1z9/",
+      "https://www.knowyourgst.com/gst-number-search/dhingadhani-mall-24DOUPK2665L1Z9/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-26T09:55:54.573043",
+    "status": "results_found"
+  },
+  {
+    "business": "DHINGADHANI MALL",
+    "field": "GST Number",
+    "value": "24DOUPK2665L1Z9",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/dhingadhani-mall-24DOUPK2665L1Z9/",
+    "timestamp": "2026-08-26T09:56:04.433888"
+  },
+  {
+    "business": "DHINGADHANI MALL",
+    "field": "PAN Number",
+    "value": "DOUPK2665L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/dhingadhani-mall-24DOUPK2665L1Z9/",
+    "timestamp": "2026-08-26T09:56:04.433913"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "Owner",
+    "query": "DHINGADHANI MALL director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://imijiten.net/%e5%90%8c%e6%9c%9f%e3%81%a8%e3%81%af%ef%bc%9f%e6%84%8f%e5%91%b3%e3%80%81%e9%a1%9e%e8%aa%9e%e3%80%81%e4%bd%bf%e3%81%84%e6%96%b9%e3%83%bb%e4%be%8b%e6%96%87%e3%82%92%e3%82%8f%e3%81%8b%e3%82%8a%e3%82%84/",
+      "https://qiita.com/yuzuki_luck7/items/66f1f7b1c609c7bcfd41",
+      "https://adtechmanagement.com/minnadepr-column/2025/07/05/douki-toha/",
+      "https://itjisho.com/%E5%90%8C%E6%9C%9F%EF%BC%88synchronization%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9Fit%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%87%8D%E8%A6%81%E3%81%AA%E6%A6%82%E5%BF%B5%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3/"
+    ],
+    "timestamp": "2026-08-26T09:56:08.507566",
+    "status": "results_found"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "Address",
+    "query": "DHINGADHANI MALL registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.seedance2jp.com/seedance-2-5",
+      "https://www.seedance.tv/ja/seedance-2-5",
+      "https://www.seedance.tv/ja/blog/seedance-2-5-image-to-video-guide-2026",
+      "https://loglog.blue/spicelemon/seedance-2-5/"
+    ],
+    "timestamp": "2026-08-26T09:56:28.818023",
+    "status": "results_found"
+  },
+  {
+    "business": "DHINGADHANI MALL",
+    "field": "Email Address",
+    "value": "support@seedance.tv",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.seedance.tv/ja/seedance-2-5",
+    "timestamp": "2026-08-26T09:56:40.516891"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "Phone",
+    "query": "DHINGADHANI MALL phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T09:56:48.326508",
+    "status": "no_results"
+  },
+  {
+    "seller": "DHINGADHANI MALL",
+    "field": "Phone",
+    "query": "DHINGADHANI MALL contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/dhingadhani-mall-24doupk2665l1z9/",
+      "https://www.knowyourgst.com/gst-number-search/dhingadhani-mall-24DOUPK2665L1Z9/",
+      "https://www.justdial.com/cms/contact-us",
+      "https://inrdeals.com/store"
+    ],
+    "timestamp": "2026-08-26T09:56:59.369469",
+    "status": "results_found"
+  }
+]

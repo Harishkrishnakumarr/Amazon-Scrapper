@@ -1,0 +1,622 @@
+[
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0CGXK4Q3X&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T08:50:28.529164"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sunlogin.oray.com/",
+      "https://sunlogin.oray.com/product/feat"
+    ],
+    "timestamp": "2026-08-24T08:50:33.876806",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/21040260",
+      "https://www.zhihu.com/people/lu-chen-xi-9-98",
+      "https://www.zhihu.com/question/23429937",
+      "https://www.zhihu.com/people/paellahorizon",
+      "https://www.zhihu.com/topic/19550447/hot"
+    ],
+    "timestamp": "2026-08-24T08:51:27.656660",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/happy",
+      "https://dictionary.cambridge.org/dictionary/english/happy",
+      "https://dictionary.cambridge.org/us/dictionary/english/happy",
+      "https://www.dictionary.com/browse/happy",
+      "https://www.merriam-webster.com/thesaurus/happy"
+    ],
+    "timestamp": "2026-08-24T08:51:46.189325",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/machine-learning/machine-learning/",
+      "https://www.geeksforgeeks.org/machine-learning/top-10-algorithms-every-machine-learning-engineer-should-know/",
+      "https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article",
+      "https://www.a3logics.com/blog/top-machine-learning-algorithms/",
+      "https://www.coursera.org/articles/machine-learning-algorithms?msockid=10e39d39348166c722e98a86359a671d"
+    ],
+    "timestamp": "2026-08-24T08:52:03.262233",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://helpdeskgeek.com/how-to-get-help-in-windows/",
+      "https://www.addictivetips.com/windows-tips/how-to-get-help-in-windows/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "https://www.guidingtech.com/how-to-get-help-in-windows/",
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html"
+    ],
+    "timestamp": "2026-08-24T08:52:06.991864",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cebupacificair.com/",
+      "https://help.cebupacificair.com/article/ceb-baggage-guidelines-and-upgrade-options-118500",
+      "https://help.cebupacificair.com/article/cebu-pacific-domestic-travel-guide-162560",
+      "https://foundation-qa.cebupacificair.com/resources",
+      "https://mycebflights.cebupacificair.com/"
+    ],
+    "timestamp": "2026-08-24T08:52:23.816997",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/topics/idlix?l=javascript",
+      "https://github.com/realodix/AdBlockID",
+      "https://www.kaskus.co.id/thread/5eb76c9cdbf76408af20e3f5/idlix-situs-nonton-film-gratis-baru-dan-terlengkap",
+      "https://www.kaskus.co.id/thread/6520193c9b222a43d244cff6/nonton-film-midsommar-2019-subtitle-indonesia-full-movie",
+      "https://docs.github.com/de/account-and-profile/tutorials/personalize-your-profile"
+    ],
+    "timestamp": "2026-08-24T08:52:26.821377",
+    "status": "results_found"
+  },
+  {
+    "business": "Whole9Yards",
+    "field": "Business Name",
+    "value": "Whole9Yards",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1D6EF3ZA9VMEJ&asin=B09TPS4494&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T08:52:38.552815"
+  },
+  {
+    "seller": "Whole9Yards",
+    "field": "Website",
+    "query": "Whole9Yards official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/4854388/google-api-key-for-translation",
+      "https://stackoverflow.com/questions/8550147/how-to-use-google-translate-api-with-c"
+    ],
+    "timestamp": "2026-08-24T08:52:40.307925",
+    "status": "results_found"
+  },
+  {
+    "business": "Whole9Yards",
+    "field": "Website URL",
+    "value": "https://whole9yards.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://whole9yards.in/",
+    "timestamp": "2026-08-24T08:54:11.941963"
+  },
+  {
+    "business": "Whole9Yards",
+    "field": "Phone Number",
+    "value": "+912570020169",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://whole9yards.in/",
+    "timestamp": "2026-08-24T08:54:13.009098"
+  },
+  {
+    "business": "Whole9Yards",
+    "field": "Email Address",
+    "value": "info@whole9yards.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://whole9yards.in/contact",
+    "timestamp": "2026-08-24T08:54:15.922155"
+  },
+  {
+    "seller": "Whole9Yards",
+    "field": "Legal Entity Name",
+    "query": "Whole9Yards company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.sau.com.au/forums/topic/472482-skyline-370gt-crossover-japanese-to-english/",
+      "https://www.sau.com.au/forums/topic/309023-r35-japanese-tuning-magazine/"
+    ],
+    "timestamp": "2026-08-24T08:54:20.840955",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whole9Yards",
+    "field": "Legal Entity Name",
+    "query": "Whole9Yards Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/509011663",
+      "https://www.zhihu.com/question/2020702567198410280",
+      "https://www.zhihu.com/question/2053058575203656580",
+      "https://www.zhihu.com/question/2034925521017029445",
+      "https://www.zhihu.com/question/2045548697744847699"
+    ],
+    "timestamp": "2026-08-24T08:54:27.108361",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0FMYJF6KL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T08:54:44.609369"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/326474707",
+      "https://www.zhihu.com/question/309952813"
+    ],
+    "timestamp": "2026-08-24T08:54:47.144818",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://maps.google.co.jp/intl/ja/help/maps/streetview/privacy.html",
+      "https://maps.google.co.jp/help/legalnotices_maps/",
+      "https://maps.google.co.jp/mapfiles/home3.html",
+      "https://maps.google.co.jp/intl/ja/earth/download/gep/agree.html",
+      "https://maps.google.co.jp/mapfiles/home2.html"
+    ],
+    "timestamp": "2026-08-24T08:55:22.346017",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tohobank.co.jp/",
+      "https://www.tohobank.co.jp/netbank/hojin/",
+      "https://map.tohobank.co.jp/b/tohobank/info/T0107/",
+      "https://map.tohobank.co.jp/b/tohobank/info/T0110/",
+      "https://faq.tohobank.co.jp/%E5%80%8B%E4%BA%BA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%83%90%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%80%8C%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2%E6%8C%AF%E8%BE%BC%E3%80%8D%E3%81%A8%E3%80%8C%E9%83%BD%E5%BA%A6%E7%99%BB%E9%8C%B2%E6%8C%AF%E8%BE%BC%E3%80%8D%E3%81%AE%E9%81%95%E3%81%84%E3%81%8A%E3%82%88%E3%81%B3%E6%8C%AF%E8%BE%BC%E9%99%90%E5%BA%A6%E9%A1%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-6948d89078b24ccba747f9cf"
+    ],
+    "timestamp": "2026-08-24T08:55:29.361470",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-24T08:55:47.786608",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://gstverify.co.in/gst/retailez-private-limited-18aalcr3173p1zm/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-33aalcr3173p1zu/"
+    ],
+    "timestamp": "2026-08-24T08:56:05.013631",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.leofooresort.com.tw/zh-TW/room/Congo-rooms",
+      "https://www.leofooresort.com.tw/zh-TW",
+      "https://www.leofooresort.com.tw/zh-TW/news/room",
+      "https://www.leofooresort.com.tw/zh-TW/about/introduction"
+    ],
+    "timestamp": "2026-08-24T08:56:08.377405",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.e-land.gov.tw/Default.aspx",
+      "https://www.e-land.gov.tw/cp.aspx?n=2704&s=217&Create=1",
+      "https://ilcpbld.e-land.gov.tw/default.aspx",
+      "https://sntroot.e-land.gov.tw/",
+      "https://fire.e-land.gov.tw/cp.aspx?n=5966"
+    ],
+    "timestamp": "2026-08-24T08:56:16.555938",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-24T08:56:39.654770",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jacksonlewis.com/",
+      "https://www.sandiegouniontribune.com/",
+      "https://deadline.com/",
+      "https://firstdistrict.nmcourts.gov/about-this-district/court-dockets/santa-fe-county-district-court-santa-fe-nm/",
+      "https://www.josephjsmithfuneralhome.com/"
+    ],
+    "timestamp": "2026-08-24T08:56:41.809456",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Selling Central",
+    "field": "Business Name",
+    "value": "Global Selling Central",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A10SF3U97Z8EM2&asin=B0CQ8QH8XX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T08:56:55.274279"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Website",
+    "query": "Global Selling Central official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/"
+    ],
+    "timestamp": "2026-08-24T08:56:56.704414",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Legal Entity Name",
+    "query": "Global Selling Central company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:02.411108",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Legal Entity Name",
+    "query": "Global Selling Central Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:16.261385",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Legal Entity Name",
+    "query": "Global Selling Central legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:21.079625",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "PAN",
+    "query": "Global Selling Central PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:22.208142",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "PAN",
+    "query": "Global Selling Central PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:28.137290",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "PAN",
+    "query": "Global Selling Central PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:33.991811",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "GST",
+    "query": "Global Selling Central GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:40.153645",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "GST",
+    "query": "Global Selling Central GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:45.210587",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "GST",
+    "query": "Global Selling Central GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:50.190875",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Owner",
+    "query": "Global Selling Central director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:57:55.308785",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Owner",
+    "query": "Global Selling Central managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:58:02.436907",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Owner",
+    "query": "Global Selling Central founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:58:07.976112",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Address",
+    "query": "Global Selling Central registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:58:16.827613",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Address",
+    "query": "Global Selling Central registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:58:40.429327",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Phone",
+    "query": "Global Selling Central phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:58:45.180498",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Selling Central",
+    "field": "Phone Number",
+    "value": "+911032082026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://globle-game.com/",
+    "timestamp": "2026-08-24T08:58:46.843455"
+  },
+  {
+    "seller": "Global Selling Central",
+    "field": "Email",
+    "query": "Global Selling Central email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://globle.wordleday.org/",
+      "https://global.com/about/",
+      "https://global.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-08-24T08:58:50.159326",
+    "status": "results_found"
+  }
+]

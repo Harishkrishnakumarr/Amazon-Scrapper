@@ -1,0 +1,1131 @@
+[
+  {
+    "business": "TODO DEALS.",
+    "field": "Business Name",
+    "value": "TODO DEALS.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1N8W15VI3HRH1&asin=B092VKWCCQ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:42:53.904072"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "Website",
+    "query": "TODO DEALS. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://to-do.office.com/tasks/",
+      "https://www.todoist.com/"
+    ],
+    "timestamp": "2026-08-27T05:42:55.782338",
+    "status": "results_found"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "Legal Entity Name",
+    "query": "TODO DEALS. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://to-do.office.com/tasks/",
+      "https://www.todoist.com/",
+      "https://todo.uiineed.com/",
+      "https://www.freetodolist.com/"
+    ],
+    "timestamp": "2026-08-27T05:43:02.099949",
+    "status": "results_found"
+  },
+  {
+    "business": "TODO DEALS.",
+    "field": "Email Address",
+    "value": "user@example.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.freetodolist.com/",
+    "timestamp": "2026-08-27T05:43:08.353243"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "Legal Entity Name",
+    "query": "TODO DEALS. Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20pvt%20ltd%20company&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=registration%20of%20pvt%20ltd%20company&target_name=kwd-83769913535125:loc-90&placement=&keyword_id=registration%20of%20pvt%20ltd%20company&msclkid=f55032f44bc512cf7ee0587bcadc2bac",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited",
+      "https://razorpay.com/rize/company-registration/private-limited/"
+    ],
+    "timestamp": "2026-08-27T05:43:11.659671",
+    "status": "results_found"
+  },
+  {
+    "business": "TODO DEALS.",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20pvt%20ltd%20company&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=registration%20of%20pvt%20ltd%20company&target_name=kwd-83769913535125:loc-90&placement=&keyword_id=registration%20of%20pvt%20ltd%20company&msclkid=f55032f44bc512cf7ee0587bcadc2bac",
+    "timestamp": "2026-08-27T05:43:12.576449"
+  },
+  {
+    "business": "TODO DEALS.",
+    "field": "Billing Address",
+    "value": "the company must have a registered office (commercial, residential, or virtual office) for receiving official correspondence. address proof and the pr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-08-27T05:43:13.526609"
+  },
+  {
+    "business": "TODO DEALS.",
+    "field": "City",
+    "value": "residential",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-08-27T05:43:13.526619"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "PAN",
+    "query": "TODO DEALS. PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-08-27T05:43:19.871327",
+    "status": "results_found"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "PAN",
+    "query": "TODO DEALS. PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://to-do.office.com/tasks/",
+      "https://www.todoist.com/",
+      "https://todo.uiineed.com/",
+      "https://www.freetodolist.com/"
+    ],
+    "timestamp": "2026-08-27T05:43:22.563261",
+    "status": "results_found"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "GST",
+    "query": "TODO DEALS. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://to-do.office.com/tasks/",
+      "https://www.todoist.com/",
+      "https://todo.uiineed.com/",
+      "https://www.freetodolist.com/"
+    ],
+    "timestamp": "2026-08-27T05:43:26.500347",
+    "status": "results_found"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "GST",
+    "query": "TODO DEALS. GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/todo-group-of-companies-24aasft6060d1z3/",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-08-27T05:43:31.588699",
+    "status": "results_found"
+  },
+  {
+    "business": "TODO DEALS.",
+    "field": "GST Number",
+    "value": "24AASFT6060D1Z3",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/todo-group-of-companies-24aasft6060d1z3/",
+    "timestamp": "2026-08-27T05:43:34.909085"
+  },
+  {
+    "business": "TODO DEALS.",
+    "field": "PAN Number",
+    "value": "AASFT6060D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/todo-group-of-companies-24aasft6060d1z3/",
+    "timestamp": "2026-08-27T05:43:34.909110"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "Owner",
+    "query": "TODO DEALS. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://to-do.office.com/tasks/",
+      "https://www.todoist.com/",
+      "https://todo.uiineed.com/",
+      "https://www.freetodolist.com/"
+    ],
+    "timestamp": "2026-08-27T05:43:36.308598",
+    "status": "results_found"
+  },
+  {
+    "seller": "TODO DEALS.",
+    "field": "Owner",
+    "query": "TODO DEALS. founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.todo_deals.02e6427ddd8b0e8ea772f2fd56779a59.html",
+      "https://trademarks.justia.com/owners/todo-deals-corporation-6494848/",
+      "https://www.bizprofile.net/ca/riverside/todo-deals-corporation",
+      "https://www.bizapedia.com/ca/todo-deals-corporation.html"
+    ],
+    "timestamp": "2026-08-27T05:43:41.890812",
+    "status": "results_found"
+  },
+  {
+    "business": "VRAJ POWERTRONICS",
+    "field": "Business Name",
+    "value": "VRAJ POWERTRONICS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3GVK2I5T190V6&asin=B0G6KVSYNR&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:43:45.372125"
+  },
+  {
+    "seller": "VRAJ POWERTRONICS",
+    "field": "Website",
+    "query": "VRAJ POWERTRONICS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://vrajev.com/",
+      "https://vrajev.com/products.html"
+    ],
+    "timestamp": "2026-08-27T05:43:48.059974",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRAJ POWERTRONICS",
+    "field": "Legal Entity Name",
+    "query": "VRAJ POWERTRONICS company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=vraj-power-tronics&gstin=07AAHFV4165E1Z4",
+      "https://findgst.in/gst/07AAHFV4165E1Z4",
+      "https://www.knowyourgst.com/gst-number-search/vraj-powertronics-07AAHFV4165E1Z4/",
+      "https://gst.jamku.app/gstin/07AAHFV4165E1Z4"
+    ],
+    "timestamp": "2026-08-27T05:43:52.907078",
+    "status": "results_found"
+  },
+  {
+    "business": "VRAJ POWERTRONICS",
+    "field": "GST Number",
+    "value": "07AAHFV4165E1Z4",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://findgst.in/gst/07AAHFV4165E1Z4",
+    "timestamp": "2026-08-27T05:43:54.466919"
+  },
+  {
+    "business": "VRAJ POWERTRONICS",
+    "field": "PAN Number",
+    "value": "AAHFV4165E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://findgst.in/gst/07AAHFV4165E1Z4",
+    "timestamp": "2026-08-27T05:43:54.466933"
+  },
+  {
+    "seller": "VRAJ POWERTRONICS",
+    "field": "Legal Entity Name",
+    "query": "VRAJ POWERTRONICS Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=b22869423557115a3ecb03cdb41f7f41&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://findgst.in/gst/07AAHFV4165E1Z4",
+      "https://www.mastersindia.co/gst-search/?name=vraj-power-tronics&gstin=07AAHFV4165E1Z4",
+      "https://gst.jamku.app/gstin/07AAHFV4165E1Z4"
+    ],
+    "timestamp": "2026-08-27T05:43:59.199994",
+    "status": "results_found"
+  },
+  {
+    "business": "VRAJ POWERTRONICS",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=b22869423557115a3ecb03cdb41f7f41&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-27T05:43:59.756899"
+  },
+  {
+    "seller": "VRAJ POWERTRONICS",
+    "field": "Owner",
+    "query": "VRAJ POWERTRONICS director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "http://vrajev.com/",
+      "https://www.tradeindia.com/vraj-technologies-25056555/",
+      "https://www.exportersindia.com/vraj-powertronics/"
+    ],
+    "timestamp": "2026-08-27T05:44:04.387202",
+    "status": "results_found"
+  },
+  {
+    "business": "VRAJ POWERTRONICS",
+    "field": "Email Address",
+    "value": "sales@vrajev.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://vrajev.com/",
+    "timestamp": "2026-08-27T05:44:05.094286"
+  },
+  {
+    "seller": "VRAJ POWERTRONICS",
+    "field": "Owner",
+    "query": "VRAJ POWERTRONICS founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://toyotoneaudio.com/about-us/",
+      "https://toyotoneaudio.com/",
+      "https://www.dial4trade.com/vraj-powertronics/",
+      "http://vrajev.com/"
+    ],
+    "timestamp": "2026-08-27T05:44:10.535889",
+    "status": "results_found"
+  },
+  {
+    "business": "VRAJ POWERTRONICS",
+    "field": "Billing Address",
+    "value": "3rd floor, phase 1, c-166",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://toyotoneaudio.com/about-us/",
+    "timestamp": "2026-08-27T05:44:12.309978"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FQV4VM5L&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:44:15.585067"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-27T05:44:16.901086",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-27T05:44:18.831570"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-27T05:44:19.423385"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-27T05:44:23.115638",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-27T05:44:26.581205"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-27T05:44:28.435716",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gst.unifers.ai/gst/29AAJCC9783E1Z3/clicktech-retail-private-limited",
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-27aajcc9783e1z7/"
+    ],
+    "timestamp": "2026-08-27T05:44:33.764134",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-27T05:44:34.491841"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-27T05:44:34.491910"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-27T05:44:34.491914"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-27T05:44:34.491918"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T05:45:14.271184",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-27T05:45:15.794154",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-27T05:45:16.898540",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-27T05:45:22.012092",
+    "status": "results_found"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "Business Name",
+    "value": "Crust\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2YX84GZ4UWX6N&asin=B098Q69SBV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:45:24.884936"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "Website",
+    "query": "Crust\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/crust/",
+      "https://www.britannica.com/place/Earth/The-outer-shell"
+    ],
+    "timestamp": "2026-08-27T05:45:26.217290",
+    "status": "results_found"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "Website URL",
+    "value": "https://www.britannica.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.britannica.com/place/Earth/The-outer-shell",
+    "timestamp": "2026-08-27T05:46:11.097165"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Crust\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/crust/",
+      "https://www.britannica.com/place/Earth/The-outer-shell",
+      "https://www.merriam-webster.com/dictionary/crust",
+      "https://www.workybooks.com/resources/earth-and-space-science/crust"
+    ],
+    "timestamp": "2026-08-27T05:46:15.111341",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Crust\u00ae Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company%20online&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=register%20pvt%20ltd%20company%20online&target_name=kwd-83769913535101:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company%20online&msclkid=3e2148b7d55c1ca8917d223854856c89",
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20ltd%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=ec08848f9e7017b94e21ee001fa918ab&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20ltd%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://opencorpdata.com/lei/3358002VE8LCJC6WYT50",
+      "https://www.falconebiz.com/company/CRUST-CORPORATE-SERVICES-PRIVATE-LIMITED-U74999TG2016PTC112406"
+    ],
+    "timestamp": "2026-08-27T05:46:24.117617",
+    "status": "results_found"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company%20online&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=register%20pvt%20ltd%20company%20online&target_name=kwd-83769913535101:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company%20online&msclkid=3e2148b7d55c1ca8917d223854856c89",
+    "timestamp": "2026-08-27T05:46:24.838729"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company%20online&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=register%20pvt%20ltd%20company%20online&target_name=kwd-83769913535101:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company%20online&msclkid=3e2148b7d55c1ca8917d223854856c89",
+    "timestamp": "2026-08-27T05:46:24.839159"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "Billing Address",
+    "value": "house no. 329, first floor, indra vihar, north west, delhi, delhi, delhi, in-dl, 110009, in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/3358002VE8LCJC6WYT50",
+    "timestamp": "2026-08-27T05:46:27.372276"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "City",
+    "value": "in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/3358002VE8LCJC6WYT50",
+    "timestamp": "2026-08-27T05:46:27.372293"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/3358002VE8LCJC6WYT50",
+    "timestamp": "2026-08-27T05:46:27.372297"
+  },
+  {
+    "business": "Crust\u00ae",
+    "field": "Pincode",
+    "value": "110009",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/3358002VE8LCJC6WYT50",
+    "timestamp": "2026-08-27T05:46:27.372302"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "PAN",
+    "query": "Crust\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/crust/",
+      "https://www.britannica.com/place/Earth/The-outer-shell",
+      "https://www.merriam-webster.com/dictionary/crust",
+      "https://www.workybooks.com/resources/earth-and-space-science/crust"
+    ],
+    "timestamp": "2026-08-27T05:46:30.235291",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "PAN",
+    "query": "Crust\u00ae PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/crust/",
+      "https://www.britannica.com/place/Earth/The-outer-shell",
+      "https://www.merriam-webster.com/dictionary/crust",
+      "https://www.workybooks.com/resources/earth-and-space-science/crust"
+    ],
+    "timestamp": "2026-08-27T05:46:34.781810",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "GST",
+    "query": "Crust\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/crust/",
+      "https://www.britannica.com/place/Earth/The-outer-shell",
+      "https://www.merriam-webster.com/dictionary/crust",
+      "https://www.workybooks.com/resources/earth-and-space-science/crust"
+    ],
+    "timestamp": "2026-08-27T05:46:40.282121",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "GST",
+    "query": "Crust\u00ae GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/crust/",
+      "https://www.britannica.com/place/Earth/The-outer-shell",
+      "https://www.merriam-webster.com/dictionary/crust"
+    ],
+    "timestamp": "2026-08-27T05:46:46.127564",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "Owner",
+    "query": "Crust\u00ae director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/crust-pizza/people",
+      "https://www.crustfranchise.com/leadership",
+      "https://www.pizzamarketplace.com/podcasts/crust-pizza-co-ceo-explains-operations-building-own-tech/",
+      "https://www.datanyze.com/people/Sawyer-Hemsley/4035340001"
+    ],
+    "timestamp": "2026-08-27T05:46:52.038204",
+    "status": "results_found"
+  },
+  {
+    "seller": "Crust\u00ae",
+    "field": "Owner",
+    "query": "Crust\u00ae founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://education.nationalgeographic.org/resource/crust/",
+      "https://www.britannica.com/place/Earth/The-outer-shell",
+      "https://www.merriam-webster.com/dictionary/crust",
+      "https://www.workybooks.com/resources/earth-and-space-science/crust"
+    ],
+    "timestamp": "2026-08-27T05:47:00.906868",
+    "status": "results_found"
+  },
+  {
+    "business": "EASYSHOP OVERSEAS",
+    "field": "Business Name",
+    "value": "EASYSHOP OVERSEAS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SJJGN9645BGI&asin=B07B7J6Z2Y&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:47:04.717571"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "Website",
+    "query": "EASYSHOP OVERSEAS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features"
+    ],
+    "timestamp": "2026-08-27T05:47:05.872692",
+    "status": "results_found"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "Legal Entity Name",
+    "query": "EASYSHOP OVERSEAS company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T05:47:12.433270",
+    "status": "no_results"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "Legal Entity Name",
+    "query": "EASYSHOP OVERSEAS Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T05:47:13.372436",
+    "status": "no_results"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "PAN",
+    "query": "EASYSHOP OVERSEAS PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T05:47:14.039993",
+    "status": "no_results"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "PAN",
+    "query": "EASYSHOP OVERSEAS PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/easyshop-overseas-07BRXPA2925H2ZL/",
+      "https://www.exportersindia.com/easyshop-overseas/",
+      "https://youreasyshop.com/",
+      "https://www.knowyourgst.com/gst-number-search/easyshop-07EDCPK8076F2ZC/"
+    ],
+    "timestamp": "2026-08-27T05:47:15.836828",
+    "status": "results_found"
+  },
+  {
+    "business": "EASYSHOP OVERSEAS",
+    "field": "GST Number",
+    "value": "07BRXPA2925H2ZL",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/easyshop-overseas-07BRXPA2925H2ZL/",
+    "timestamp": "2026-08-27T05:47:16.175077"
+  },
+  {
+    "business": "EASYSHOP OVERSEAS",
+    "field": "PAN Number",
+    "value": "BRXPA2925H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/easyshop-overseas-07BRXPA2925H2ZL/",
+    "timestamp": "2026-08-27T05:47:16.175093"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "Owner",
+    "query": "EASYSHOP OVERSEAS director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/easyshop/people",
+      "https://www.retail-week.com/marketplaces/easygroup-to-launch-online-marketplace/7051320.article",
+      "https://prgun.com/pr/639/easygroup-enters-online-retail-with-launch-of-easyshopcom-marketplace-in-partnership-with-onbuycom",
+      "https://third-news.com/article/499380b6-5f62-11f1-a66b-9ca3ba08e13f"
+    ],
+    "timestamp": "2026-08-27T05:47:19.402325",
+    "status": "results_found"
+  },
+  {
+    "business": "EASYSHOP OVERSEAS",
+    "field": "Email Address",
+    "value": "info@cbinsights.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cbinsights.com/company/easyshop/people",
+    "timestamp": "2026-08-27T05:47:20.852924"
+  },
+  {
+    "business": "EASYSHOP OVERSEAS",
+    "field": "Billing Address",
+    "value": "broadfield park, crawley rh11 9rt. registered in england no. 2883992. vat no. 644 3073 52.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.retail-week.com/marketplaces/easygroup-to-launch-online-marketplace/7051320.article",
+    "timestamp": "2026-08-27T05:47:23.430307"
+  },
+  {
+    "business": "EASYSHOP OVERSEAS",
+    "field": "City",
+    "value": "broadfield park",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.retail-week.com/marketplaces/easygroup-to-launch-online-marketplace/7051320.article",
+    "timestamp": "2026-08-27T05:47:23.430321"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "Owner",
+    "query": "EASYSHOP OVERSEAS founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://perfumego.neocities.org/about",
+      "https://retailtechinnovationhub.com/home/2026/6/3/easygroup-set-to-launch-marketplace-across-21-european-countries-powered-by-onbuy-technology",
+      "https://youreasyshop.com/",
+      "https://www.dnb.com/business-directory/company-profiles.easyshop_overseas.a81c7acf466f2294c5ce8f358f936910.html"
+    ],
+    "timestamp": "2026-08-27T05:47:32.397486",
+    "status": "results_found"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "Phone",
+    "query": "EASYSHOP OVERSEAS phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://easyshopeasyship.com/contact/",
+      "https://easyshopglobal.com/pages/contact-us",
+      "https://eswholesales.co.uk/pages/contact",
+      "https://youreasyshop.com/help"
+    ],
+    "timestamp": "2026-08-27T05:47:35.628603",
+    "status": "results_found"
+  },
+  {
+    "seller": "EASYSHOP OVERSEAS",
+    "field": "Phone",
+    "query": "EASYSHOP OVERSEAS contact phone",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-27T05:47:48.290184",
+    "status": "results_found"
+  },
+  {
+    "business": "Gear guard",
+    "field": "Business Name",
+    "value": "Gear guard",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8Y4OTE34SXCD&asin=B09V2ZGVQ3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:47:48.551652"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Website",
+    "query": "Gear guard official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all"
+    ],
+    "timestamp": "2026-08-27T05:47:50.060639",
+    "status": "results_found"
+  },
+  {
+    "business": "Gear guard",
+    "field": "Website URL",
+    "value": "https://shopmygear.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://shopmygear.com/",
+    "timestamp": "2026-08-27T05:47:54.779151"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Legal Entity Name",
+    "query": "Gear guard company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:48:04.269018",
+    "status": "results_found"
+  },
+  {
+    "business": "Gear guard",
+    "field": "Email Address",
+    "value": "hello.theengineerspost@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.theengineerspost.com/types-of-gears/",
+    "timestamp": "2026-08-27T05:48:11.744113"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Legal Entity Name",
+    "query": "Gear guard Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/"
+    ],
+    "timestamp": "2026-08-27T05:48:15.706415",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "PAN",
+    "query": "Gear guard PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:48:21.319007",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "PAN",
+    "query": "Gear guard PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:48:31.697478",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "GST",
+    "query": "Gear guard GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:48:37.067908",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "GST",
+    "query": "Gear guard GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/gear-guard-09AOFPA8271A1ZA/",
+      "https://www.mygearguard.com/",
+      "https://gst.unifers.ai/gst/09AATFN5828L1ZD/new-gear-guard",
+      "https://gearguard.in/"
+    ],
+    "timestamp": "2026-08-27T05:48:44.753107",
+    "status": "results_found"
+  },
+  {
+    "business": "Gear guard",
+    "field": "GST Number",
+    "value": "09AOFPA8271A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gear-guard-09AOFPA8271A1ZA/",
+    "timestamp": "2026-08-27T05:48:45.050588"
+  },
+  {
+    "business": "Gear guard",
+    "field": "PAN Number",
+    "value": "AOFPA8271A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/gear-guard-09AOFPA8271A1ZA/",
+    "timestamp": "2026-08-27T05:48:45.050600"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Owner",
+    "query": "Gear guard director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:48:46.116699",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Owner",
+    "query": "Gear guard founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:48:51.890666",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Address",
+    "query": "Gear guard registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:48:59.275405",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Address",
+    "query": "Gear guard registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/"
+    ],
+    "timestamp": "2026-08-27T05:49:07.417853",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Phone",
+    "query": "Gear guard phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shopmygear.com/",
+      "https://shopmygear.com/collections/all",
+      "https://www.theengineerspost.com/types-of-gears/",
+      "https://engineersguidebook.com/types-of-gears-addvantages-disadvantages/"
+    ],
+    "timestamp": "2026-08-27T05:49:11.846077",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gear guard",
+    "field": "Phone",
+    "query": "Gear guard contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mygearguard.com/contact.jsp",
+      "https://www.mygearguard.com/faq.jsp",
+      "https://www.mygearguard.com/terms.jsp",
+      "https://www.mygearguard.com/"
+    ],
+    "timestamp": "2026-08-27T05:49:18.375816",
+    "status": "results_found"
+  },
+  {
+    "business": "Gear guard",
+    "field": "Billing Address",
+    "value": "399 park avenue, 3rd floor, new york, ny 10022.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mygearguard.com/terms.jsp",
+    "timestamp": "2026-08-27T05:49:23.247443"
+  },
+  {
+    "business": "Gear guard",
+    "field": "City",
+    "value": "new york",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mygearguard.com/terms.jsp",
+    "timestamp": "2026-08-27T05:49:23.247458"
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "business": "ISHIL Enterprises",
+    "field": "Business Name",
+    "value": "ISHIL Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3LAMVV61N34PC&asin=B0H6PJFS5Y&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T16:19:08.669567"
+  },
+  {
+    "seller": "ISHIL Enterprises",
+    "field": "Website",
+    "query": "ISHIL Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ishil.in/collections/all",
+      "https://www.ishil.in/collections/sale"
+    ],
+    "timestamp": "2026-09-02T16:19:10.706279",
+    "status": "results_found"
+  },
+  {
+    "seller": "ISHIL Enterprises",
+    "field": "Legal Entity Name",
+    "query": "ISHIL Enterprises company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/ishil-enterprises-33ayppc0318l1zk/",
+      "https://www.knowyourgst.com/gst-number-search/ishil-enterprises-33AYPPC0318L1ZK/",
+      "https://www.indiafilings.com/learn/how-to-register-a-company-in-india-checklist",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T16:19:15.233229",
+    "status": "results_found"
+  },
+  {
+    "business": "ISHIL Enterprises",
+    "field": "GST Number",
+    "value": "33AYPPC0318L1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/ishil-enterprises-33AYPPC0318L1ZK/",
+    "timestamp": "2026-09-02T16:19:19.731240"
+  },
+  {
+    "business": "ISHIL Enterprises",
+    "field": "PAN Number",
+    "value": "AYPPC0318L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/ishil-enterprises-33AYPPC0318L1ZK/",
+    "timestamp": "2026-09-02T16:19:19.731258"
+  },
+  {
+    "seller": "ISHIL Enterprises",
+    "field": "Owner",
+    "query": "ISHIL Enterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/ishil-enterprises-33ayppc0318l1zk/",
+      "https://www.inspex.in/",
+      "https://zauba.company/",
+      "https://www.companyseekers.com/"
+    ],
+    "timestamp": "2026-09-02T16:19:45.881764",
+    "status": "results_found"
+  },
+  {
+    "business": "ISHIL Enterprises",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T16:19:47.596335"
+  },
+  {
+    "business": "ISHIL Enterprises",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T16:19:47.596617"
+  },
+  {
+    "seller": "ISHIL Enterprises",
+    "field": "Owner",
+    "query": "ISHIL Enterprises founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/ishil-enterprises-33ayppc0318l1zk/",
+      "https://www.knowyourgst.com/gst-number-search/ishil-enterprises-33AYPPC0318L1ZK/",
+      "https://www.ishil.in/",
+      "https://www.adanienterprises.com/"
+    ],
+    "timestamp": "2026-09-02T16:19:53.604674",
+    "status": "results_found"
+  },
+  {
+    "seller": "ISHIL Enterprises",
+    "field": "Address",
+    "query": "ISHIL Enterprises registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/ishil-enterprises-33ayppc0318l1zk/",
+      "https://www.ishil.in/pages/about-us",
+      "https://www.knowyourgst.com/gst-number-search/ishil-enterprises-33AYPPC0318L1ZK/",
+      "https://isil.in/contact-us/centers/"
+    ],
+    "timestamp": "2026-09-02T16:20:02.795920",
+    "status": "results_found"
+  },
+  {
+    "seller": "ISHIL Enterprises",
+    "field": "Address",
+    "query": "ISHIL Enterprises registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/ishil-enterprises-33ayppc0318l1zk/",
+      "https://www.knowyourgst.com/gst-number-search/ishil-enterprises-33AYPPC0318L1ZK/",
+      "https://www.ishil.in/pages/about-us",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T16:20:14.345055",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0BVLRZS9G&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T16:20:18.666467"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T16:20:20.445138",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T16:20:23.663121"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T16:20:24.604511"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T16:20:24.605045"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T16:20:29.662555",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T16:20:30.275143"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T16:20:30.275163"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T16:20:32.083456",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:20:33.415579"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:20:33.415598"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:20:33.415603"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T16:20:33.415608"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T16:20:38.365322"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T16:20:41.646480",
+    "status": "results_found"
+  },
+  {
+    "business": "ASSUME FAB",
+    "field": "Business Name",
+    "value": "ASSUME FAB",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3ONAT8E2LSTSW&asin=B0FB37Z9B4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T16:20:48.331160"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "Website",
+    "query": "ASSUME FAB official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fab.com/",
+      "https://www.fabindia.com/new-arrivals"
+    ],
+    "timestamp": "2026-09-02T16:20:49.973036",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "Legal Entity Name",
+    "query": "ASSUME FAB company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamregistration.org.in/blog/what-is-udyam-registration/",
+      "https://udyamregistrationform.com/nic-code-list-for-services/",
+      "https://udyamregistrationform.com/date-of-incorporation-in-udyam-registration/",
+      "https://www.indiafilings.com/learn/tamil-nadu-factory-registration"
+    ],
+    "timestamp": "2026-09-02T16:20:55.763764",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "Legal Entity Name",
+    "query": "ASSUME FAB Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-details",
+      "https://tracxn.com/d/legal-entities/india/assume-foods-and-beverages-private-limited/__ta2MuDhka9iy1k2drHQucuYmwWMt4Lqqsnxen4SD4dQ",
+      "https://www.indiafilings.com/check-company-name-availability",
+      "https://www.instafinancials.com/company/assume-foods-and-beverages-private-limited-U15122UP2014PTC064612/company-overview"
+    ],
+    "timestamp": "2026-09-02T16:21:04.922344",
+    "status": "results_found"
+  },
+  {
+    "business": "ASSUME FAB",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-details",
+    "timestamp": "2026-09-02T16:21:06.779850"
+  },
+  {
+    "business": "ASSUME FAB",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/assume-foods-and-beverages-private-limited/__ta2MuDhka9iy1k2drHQucuYmwWMt4Lqqsnxen4SD4dQ",
+    "timestamp": "2026-09-02T16:21:09.291128"
+  },
+  {
+    "business": "ASSUME FAB",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/assume-foods-and-beverages-private-limited/__ta2MuDhka9iy1k2drHQucuYmwWMt4Lqqsnxen4SD4dQ",
+    "timestamp": "2026-09-02T16:21:09.291153"
+  },
+  {
+    "business": "ASSUME FAB",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/assume-foods-and-beverages-private-limited/__ta2MuDhka9iy1k2drHQucuYmwWMt4Lqqsnxen4SD4dQ",
+    "timestamp": "2026-09-02T16:21:09.291160"
+  },
+  {
+    "business": "ASSUME FAB",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/assume-foods-and-beverages-private-limited/__ta2MuDhka9iy1k2drHQucuYmwWMt4Lqqsnxen4SD4dQ",
+    "timestamp": "2026-09-02T16:21:09.291166"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "PAN",
+    "query": "ASSUME FAB PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://surepass.io/blog/simple-guide-to-detect-fake-pan-card-number/"
+    ],
+    "timestamp": "2026-09-02T16:21:12.197916",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "PAN",
+    "query": "ASSUME FAB PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kanakkupillai.com/learn/pan-tan-and-gstin-of-a-company-by-name-online/",
+      "https://gstserver.com/gst/27ACSPL6297J2ZN/"
+    ],
+    "timestamp": "2026-09-02T16:21:26.417448",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "GST",
+    "query": "ASSUME FAB GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://ksmg.co/insights/goods-services-tax/gst-registration",
+      "https://gstverify.co.in/search/",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-guide-register-matters.html"
+    ],
+    "timestamp": "2026-09-02T16:21:28.504542",
+    "status": "results_found"
+  },
+  {
+    "business": "ASSUME FAB",
+    "field": "Email Address",
+    "value": "contact@ksmg.co",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ksmg.co/insights/goods-services-tax/gst-registration",
+    "timestamp": "2026-09-02T16:21:32.629992"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "GST",
+    "query": "ASSUME FAB GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstverify.co.in/gst/as-fab-24gaopp5896m1zj/",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-02T16:21:36.868663",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "Owner",
+    "query": "ASSUME FAB director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/fabindia/__Yagk62ZvWQOUgWwHcTvEnxM_1awQqkuX6TnCI9CmW1I",
+      "https://www.fabindia.com/ir/board-of-directors",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.filesure.in/company/fabindia-limited/U74899DL1976PLC008436?tab=about"
+    ],
+    "timestamp": "2026-09-02T16:21:42.368896",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASSUME FAB",
+    "field": "Owner",
+    "query": "ASSUME FAB founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.globalindian.com/story/cover-story/john-bissell-the-american-founder-of-fabindia-and-its-65-year-craft-legacy/",
+      "https://startuptalky.com/john-bisell-fabindia/",
+      "https://www.timesnownews.com/business-economy/industry/meet-john-bissell-the-american-who-built-an-indian-clothing-brand-that-tata-wants-to-buy-at-a-whopping-rs-17000-crore-valuation-article-110418228"
+    ],
+    "timestamp": "2026-09-02T16:21:51.201618",
+    "status": "results_found"
+  }
+]

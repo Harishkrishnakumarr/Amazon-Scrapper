@@ -1,0 +1,74 @@
+{
+  "category": "Paintwork",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Perricles Ventures",
+      "database_id": 1041,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918240867579",
+      "email": "hmahajan9096@gmail.com",
+      "gst": "27DAWPP3472G1Z1",
+      "pan": "DAWPP3472G",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Trans Infopreneur (Kantoor)",
+      "database_id": 1042,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@transinfopreneur.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "INFINITE BOOKS",
+      "database_id": 1043,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "contact@infinitebooks.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://infinitebooks.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1044,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Book Wings- USA",
+      "database_id": 1045,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://openlibrary.org/",
+      "status": "Verified"
+    }
+  ]
+}

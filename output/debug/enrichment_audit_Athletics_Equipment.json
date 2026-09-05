@@ -1,0 +1,796 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CXY37T9D&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T10:05:27.153963"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://yakuzaic.com/archives/60400",
+      "https://www.med.nagoya-u.ac.jp/nyusen/sick/subthyroid/about/"
+    ],
+    "timestamp": "2026-08-24T10:05:29.466396",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.trivago.com.tr/tr/oar/otel-soho-house-istanbul?search=100-3525940&msockid=1fb30b4e6f95601f04e81cf16e1d619b",
+      "https://local.turkeyturism.com/en/soho-house-istanbul-90-212-377-71-00.html",
+      "https://tr.hotels.com/ho401374624/soho-house-istanbul-istanbul-turkiye/",
+      "https://local.turkeyturism.com/en/konsolos-istanbul-90-212-219-65-30.html",
+      "https://www.booking.com/hotel/tr/soho-house-istanbul.html?msockid=1fb30b4e6f95601f04e81cf16e1d619b"
+    ],
+    "timestamp": "2026-08-24T10:05:41.271100",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://gst.unifers.ai/gst/36AALCR3173P1ZO/retailez-private-limited",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-08-24T10:06:03.619861",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-24T10:06:24.583916",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-29aalcr3173p1zj/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/"
+    ],
+    "timestamp": "2026-08-24T10:06:28.267634",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-24T10:06:29.135084"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tataaig.com/health-insurance",
+      "https://www.tataaig.com/health-insurance/family-health-insurance",
+      "https://sellonline.tataaig.com/ipdsv2/login/",
+      "https://ghi.tataaig.com/login",
+      "https://careers.tataaig.com/"
+    ],
+    "timestamp": "2026-08-24T10:06:30.976706",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://biharbhumi.bihar.gov.in/Biharbhumi/",
+      "https://state.bihar.gov.in/lrc/",
+      "https://land.bihar.gov.in/",
+      "https://land.bihar.gov.in/Ror2025/RoR.aspx",
+      "https://biharbhumi.bihar.gov.in/BiharEmutationNew/"
+    ],
+    "timestamp": "2026-08-24T10:06:47.380609",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.icd10data.com/ICD10CM/Codes/S00-T88/S50-S59/S52/S52.5-/S52.55",
+      "https://www.icd10data.com/icd10cm/codes/s00-t88/s50-s59/s52/s52.5-",
+      "https://icdlist.com/icd-10/S52.55",
+      "https://icdlist.com/icd-10/S52.551A",
+      "https://www.carepatron.com/icd/right-distal-radius-fracture/"
+    ],
+    "timestamp": "2026-08-24T10:06:54.691381",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-29aalcr3173p1zj/",
+      "https://retailez.co.in/"
+    ],
+    "timestamp": "2026-08-24T10:07:02.564643",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-24T10:07:03.812604"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-24T10:07:03.812620"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-24T10:07:03.812629"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-24T10:07:03.812634"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.zhihu.com/question/2058849029027632241"
+    ],
+    "timestamp": "2026-08-24T10:07:05.364644",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+913295122026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://github.com/0xk1h0/ChatGPT_DAN",
+    "timestamp": "2026-08-24T10:07:09.927365"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "http://zhidao.baidu.com/",
+      "https://zhidao.baidu.com/question/136956635.html",
+      "https://www.zhihu.com/question/2060635206651065501",
+      "https://www.zhihu.com/tardis/bd/art/409772605"
+    ],
+    "timestamp": "2026-08-24T10:07:12.366693",
+    "status": "results_found"
+  },
+  {
+    "business": "DS Stores LTD",
+    "field": "Business Name",
+    "value": "DS Stores LTD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YOW2M57T6ZQ0&asin=B0CRPD4TWX&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:07:28.827713"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "Website",
+    "query": "DS Stores LTD official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/"
+    ],
+    "timestamp": "2026-08-24T10:07:31.892062",
+    "status": "results_found"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "Legal Entity Name",
+    "query": "DS Stores LTD company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/",
+      "https://www.olx.in/games-entertainment_c93/q-nintendo-ds",
+      "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "https://ceac.state.gov/genniv/"
+    ],
+    "timestamp": "2026-08-24T10:07:44.033826",
+    "status": "results_found"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "PAN",
+    "query": "DS Stores LTD PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/",
+      "https://www.olx.in/games-entertainment_c93/q-nintendo-ds",
+      "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "https://ceac.state.gov/genniv/"
+    ],
+    "timestamp": "2026-08-24T10:08:08.284481",
+    "status": "results_found"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "GST",
+    "query": "DS Stores LTD GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/",
+      "https://www.olx.in/games-entertainment_c93/q-nintendo-ds",
+      "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "https://ceac.state.gov/genniv/"
+    ],
+    "timestamp": "2026-08-24T10:08:27.303021",
+    "status": "results_found"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "GST",
+    "query": "DS Stores LTD GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/",
+      "https://www.olx.in/games-entertainment_c93/q-nintendo-ds",
+      "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "https://ceac.state.gov/genniv/"
+    ],
+    "timestamp": "2026-08-24T10:08:44.767005",
+    "status": "results_found"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "Owner",
+    "query": "DS Stores LTD director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/",
+      "https://www.olx.in/games-entertainment_c93/q-nintendo-ds",
+      "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "https://ceac.state.gov/genniv/"
+    ],
+    "timestamp": "2026-08-24T10:08:51.512530",
+    "status": "results_found"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "Owner",
+    "query": "DS Stores LTD managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/",
+      "https://www.olx.in/games-entertainment_c93/q-nintendo-ds",
+      "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "https://ceac.state.gov/genniv/"
+    ],
+    "timestamp": "2026-08-24T10:09:02.148836",
+    "status": "results_found"
+  },
+  {
+    "seller": "DS Stores LTD",
+    "field": "Address",
+    "query": "DS Stores LTD registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dsgroup.com/",
+      "https://www.dsautomobiles.com/en/",
+      "https://www.olx.in/games-entertainment_c93/q-nintendo-ds",
+      "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+      "https://ceac.state.gov/genniv/"
+    ],
+    "timestamp": "2026-08-24T10:09:14.933433",
+    "status": "results_found"
+  },
+  {
+    "business": "DS Stores LTD",
+    "field": "Billing Address",
+    "value": "a-143, 6th floor, sovereign corporate tower, sector- 136, noida, uttar pradesh (201305)",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+    "timestamp": "2026-08-24T10:09:31.414433"
+  },
+  {
+    "business": "DS Stores LTD",
+    "field": "City",
+    "value": "uttar pradesh ()",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+    "timestamp": "2026-08-24T10:09:31.414487"
+  },
+  {
+    "business": "DS Stores LTD",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+    "timestamp": "2026-08-24T10:09:31.414493"
+  },
+  {
+    "business": "DS Stores LTD",
+    "field": "Pincode",
+    "value": "201305",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/",
+    "timestamp": "2026-08-24T10:09:31.414498"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Business Name",
+    "value": "serveuttam india",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SZBDZ05A1P39&asin=B09G3LDHB6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T10:09:34.893777"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Website",
+    "query": "serveuttam india official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://serveuttam.com/featured/best-sellers",
+      "https://serveuttam.com/about-us"
+    ],
+    "timestamp": "2026-08-24T10:09:43.444378",
+    "status": "results_found"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Website URL",
+    "value": "https://serveuttam.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://serveuttam.com/featured/best-sellers",
+    "timestamp": "2026-08-24T10:09:50.925663"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Phone Number",
+    "value": "+910059110059",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-08-24T10:09:53.137207"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Email Address",
+    "value": "suppor@serveuttam.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-08-24T10:09:53.137372"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Billing Address",
+    "value": "O-43, Vani Vihar, Uttam Nagar, New Delhi 110059, Delhi, West Delhi, 110059",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-08-24T10:09:53.315182"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "City",
+    "value": "West Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-08-24T10:09:53.315202"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-08-24T10:09:53.315207"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Pincode",
+    "value": "110059",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://serveuttam.com/",
+    "timestamp": "2026-08-24T10:09:53.315212"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Legal Entity Name",
+    "query": "serveuttam india company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.stens.com/",
+      "https://www.ww2-weapons.com/sten-gun/",
+      "https://guns.fandom.com/wiki/Sten",
+      "https://www.ima-usa.com/collections/sten-gun",
+      "https://www.stenformwork.com/en/sobre-sten"
+    ],
+    "timestamp": "2026-08-24T10:10:08.150329",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "PAN",
+    "query": "serveuttam india PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.travel-zentech.jp/world/map/Norway/Lofoten_Islands/Flakstadoya.htm",
+      "https://www.tripadvisor.jp/Attractions-g612446-Activities-Flakstadoy_Flakstad_Municipality_Lofoten_Islands_Nordland_Northern_Norway.html",
+      "https://enjoytravelingsolo.com/norway-lofoten-volandstind/",
+      "https://www.tripadvisor.jp/Tourism-g612446-Flakstadoy_Flakstad_Municipality_Lofoten_Islands_Nordland_Northern_Norway-Vacations.html",
+      "https://www.getyourguide.com/ja-jp/flakstad-l217159/?msockid=1fb30b4e6f95601f04e81cf16e1d619b"
+    ],
+    "timestamp": "2026-08-24T10:10:26.772880",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "PAN",
+    "query": "serveuttam india PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://panchirasyugi.com/",
+      "https://panchirasyugi.com/post-2469/",
+      "https://panchirach.com/",
+      "https://panchirasan.site/",
+      "https://megamich.com/tag/%E3%83%91%E3%83%B3%E3%83%81%E3%83%A9/"
+    ],
+    "timestamp": "2026-08-24T10:10:48.074692",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "GST",
+    "query": "serveuttam india GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://biz.kddi.com/content/column/smartwork/what-is-http/",
+      "https://qiita.com/NakajimaSH/items/b27908f6ebf732b83276",
+      "https://developer.mozilla.org/ja/docs/Web/HTTP",
+      "https://e-words.jp/w/HTTP.html",
+      "https://developer.mozilla.org/ja/docs/Web/HTTP/Guides/Overview"
+    ],
+    "timestamp": "2026-08-24T10:10:51.079451",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Owner",
+    "query": "serveuttam india director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cellphones.com.vn/sforum/cach-doi-ma-pin-cuoc-tro-chuyen-an-tren-zalo",
+      "https://cellphones.com.vn/sforum/cach-ket-noi-zalo-voi-openclaw-ai",
+      "https://www.zhihu.com/topic/27010773/hot",
+      "https://www.zhihu.com/question/615622275",
+      "https://jingyan.baidu.com/article/4853e1e590f0831908f7267c.html"
+    ],
+    "timestamp": "2026-08-24T10:11:13.357042",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Owner",
+    "query": "serveuttam india managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://support.yahoo-net.jp/PccYjcommon/s/article/H000012569",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1155890246",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1142306246",
+      "https://support.yahoo-net.jp/PccLogin/s/article/H000013196",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14248966194"
+    ],
+    "timestamp": "2026-08-24T10:11:30.501685",
+    "status": "results_found"
+  },
+  {
+    "business": "HARPAL INDUSTRIES",
+    "field": "Business Name",
+    "value": "HARPAL INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2KV0NCMJBQN12&asin=B0H1CLPL68&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:11:31.804310"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Website",
+    "query": "HARPAL INDUSTRIES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos"
+    ],
+    "timestamp": "2026-08-24T10:11:34.295159",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "HARPAL INDUSTRIES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:11:42.036621",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "HARPAL INDUSTRIES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:11:50.325769",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "HARPAL INDUSTRIES legal entity",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:11:56.073764",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "PAN",
+    "query": "HARPAL INDUSTRIES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:12:06.468884",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "PAN",
+    "query": "HARPAL INDUSTRIES PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:12:17.558736",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "GST",
+    "query": "HARPAL INDUSTRIES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:12:24.556149",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "GST",
+    "query": "HARPAL INDUSTRIES GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:12:36.111211",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Owner",
+    "query": "HARPAL INDUSTRIES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:12:47.558775",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Owner",
+    "query": "HARPAL INDUSTRIES managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android"
+    ],
+    "timestamp": "2026-08-24T10:12:58.135164",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Owner",
+    "query": "HARPAL INDUSTRIES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:13:06.694199",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Address",
+    "query": "HARPAL INDUSTRIES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:13:08.692459",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Address",
+    "query": "HARPAL INDUSTRIES registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpalgeo.tv/",
+      "https://harpalgeo.tv/videos",
+      "https://harpal-geo.en.softonic.com/android",
+      "https://apps.apple.com/us/app/harpal-geo/id1505208230"
+    ],
+    "timestamp": "2026-08-24T10:13:17.544475",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARPAL INDUSTRIES",
+    "field": "Phone",
+    "query": "HARPAL INDUSTRIES phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://harpalgeo.tv/"
+    ],
+    "timestamp": "2026-08-24T10:13:31.969086",
+    "status": "results_found"
+  }
+]

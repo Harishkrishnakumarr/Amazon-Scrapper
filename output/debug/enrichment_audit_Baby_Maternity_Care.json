@@ -1,0 +1,736 @@
+[
+  {
+    "business": "RSH GLOBAL",
+    "field": "Business Name",
+    "value": "RSH GLOBAL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A14TIZMTMDTN4B&asin=B0CW98VHLR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:21:02.995113"
+  },
+  {
+    "seller": "RSH GLOBAL",
+    "field": "Website",
+    "query": "RSH GLOBAL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rshglobal.com/",
+      "https://thelinuxcode.com/executing-remote-command-rsh/"
+    ],
+    "timestamp": "2026-08-29T12:21:05.209352",
+    "status": "results_found"
+  },
+  {
+    "business": "RSH GLOBAL",
+    "field": "Website URL",
+    "value": "https://www.rshglobal.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.rshglobal.com/",
+    "timestamp": "2026-08-29T12:21:07.284477"
+  },
+  {
+    "business": "RSH GLOBAL",
+    "field": "Legal Entity Name",
+    "value": "RSH Global Pvt. Ltd",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.rshglobal.com/",
+    "timestamp": "2026-08-29T12:21:08.494029"
+  },
+  {
+    "business": "RSH GLOBAL",
+    "field": "Email Address",
+    "value": "info@rshglobal.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.rshglobal.com/",
+    "timestamp": "2026-08-29T12:21:08.494661"
+  },
+  {
+    "business": "RSH GLOBAL",
+    "field": "Owner Name",
+    "value": "Sunil Agarwal",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.rshglobal.com/",
+    "timestamp": "2026-08-29T12:21:08.496283"
+  },
+  {
+    "seller": "RSH GLOBAL",
+    "field": "PAN",
+    "query": "RSH Global Pvt. Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rshglobal.com/",
+      "https://thelinuxcode.com/executing-remote-command-rsh/",
+      "https://www.nhsrcl.in/",
+      "https://www.computerhope.com/unix/ursh.htm"
+    ],
+    "timestamp": "2026-08-29T12:21:17.712209",
+    "status": "results_found"
+  },
+  {
+    "business": "RSH GLOBAL",
+    "field": "Billing Address",
+    "value": "check /etc/hosts has mapping for remote hostname",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://thelinuxcode.com/executing-remote-command-rsh/",
+    "timestamp": "2026-08-29T12:21:22.612348"
+  },
+  {
+    "seller": "RSH GLOBAL",
+    "field": "PAN",
+    "query": "RSH GLOBAL PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rshglobal.com/",
+      "https://thelinuxcode.com/executing-remote-command-rsh/",
+      "https://www.nhsrcl.in/",
+      "https://www.computerhope.com/unix/ursh.htm"
+    ],
+    "timestamp": "2026-08-29T12:21:28.144633",
+    "status": "results_found"
+  },
+  {
+    "seller": "RSH GLOBAL",
+    "field": "GST",
+    "query": "RSH Global Pvt. Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rshglobal.com/",
+      "https://thelinuxcode.com/executing-remote-command-rsh/",
+      "https://www.nhsrcl.in/",
+      "https://www.computerhope.com/unix/ursh.htm"
+    ],
+    "timestamp": "2026-08-29T12:21:35.476934",
+    "status": "results_found"
+  },
+  {
+    "seller": "RSH GLOBAL",
+    "field": "GST",
+    "query": "RSH GLOBAL GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rshglobal.com/",
+      "https://thelinuxcode.com/executing-remote-command-rsh/",
+      "https://www.nhsrcl.in/",
+      "https://www.computerhope.com/unix/ursh.htm"
+    ],
+    "timestamp": "2026-08-29T12:21:42.167046",
+    "status": "results_found"
+  },
+  {
+    "seller": "RSH GLOBAL",
+    "field": "Phone",
+    "query": "RSH GLOBAL phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rshglobal.com/",
+      "https://thelinuxcode.com/executing-remote-command-rsh/",
+      "https://www.nhsrcl.in/",
+      "https://www.computerhope.com/unix/ursh.htm"
+    ],
+    "timestamp": "2026-08-29T12:21:47.513687",
+    "status": "results_found"
+  },
+  {
+    "seller": "RSH GLOBAL",
+    "field": "Phone",
+    "query": "RSH GLOBAL contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rshglobal.com/",
+      "https://thelinuxcode.com/executing-remote-command-rsh/",
+      "https://www.nhsrcl.in/",
+      "https://www.computerhope.com/unix/ursh.htm"
+    ],
+    "timestamp": "2026-08-29T12:21:54.209879",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0GVT89PTJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:21:59.299481"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-08-29T12:22:01.248715",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:22:18.700542",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "support@rkgaming.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkgamingstore.com/",
+    "timestamp": "2026-08-29T12:22:25.819870"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:22:38.025140",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:22:52.549485",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:23:13.295891",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Address",
+    "query": "RK World Infocom Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:23:29.674150",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Phone",
+    "query": "RK World Infocom Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:23:46.393576",
+    "status": "results_found"
+  },
+  {
+    "business": "GLOMAMA",
+    "field": "Business Name",
+    "value": "GLOMAMA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AG3DRMGAF4YJO&asin=B0GVVNBP4S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:24:02.150466"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "Website",
+    "query": "GLOMAMA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.northeastshooters.com/xen/threads/what-walmart-still-sells-guns.52528/",
+      "https://www.northeastshooters.com/xen/threads/walmart-ruger-10-22-vs-gunshop-ruger-10-22.52707/"
+    ],
+    "timestamp": "2026-08-29T12:24:03.862437",
+    "status": "results_found"
+  },
+  {
+    "business": "GLOMAMA",
+    "field": "Website URL",
+    "value": "https://www.glomama.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.glomama.in/",
+    "timestamp": "2026-08-29T12:24:11.317051"
+  },
+  {
+    "business": "GLOMAMA",
+    "field": "Legal Entity Name",
+    "value": "OUR-INGREDIENT\n\nABOUT GLO MAMA LLP",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.glomama.in/",
+    "timestamp": "2026-08-29T12:24:18.428743"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "PAN",
+    "query": "OUR-INGREDIENT\n\nABOUT GLO MAMA LLP PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/our",
+      "https://www.merriam-webster.com/dictionary/our",
+      "https://www.collinsdictionary.com/dictionary/english/our",
+      "https://www.thefreedictionary.com/our"
+    ],
+    "timestamp": "2026-08-29T12:24:32.531984",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "GST",
+    "query": "OUR-INGREDIENT\n\nABOUT GLO MAMA LLP GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/our",
+      "https://www.merriam-webster.com/dictionary/our",
+      "https://www.collinsdictionary.com/dictionary/english/our",
+      "https://www.thefreedictionary.com/our"
+    ],
+    "timestamp": "2026-08-29T12:24:47.194596",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "GST",
+    "query": "GLOMAMA GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sputnikglobe.com/",
+      "https://tass.com/",
+      "https://rossiyasegodnya.com/brand/94445.html",
+      "https://t.me/s/rianovostieng"
+    ],
+    "timestamp": "2026-08-29T12:25:03.261537",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "Owner",
+    "query": "OUR-INGREDIENT\n\nABOUT GLO MAMA LLP director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/our",
+      "https://www.merriam-webster.com/dictionary/our",
+      "https://www.collinsdictionary.com/dictionary/english/our",
+      "https://www.thefreedictionary.com/our"
+    ],
+    "timestamp": "2026-08-29T12:25:05.160964",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "Owner",
+    "query": "GLOMAMA founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bbs.ruliweb.com/"
+    ],
+    "timestamp": "2026-08-29T12:25:20.094006",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "Address",
+    "query": "OUR-INGREDIENT\n\nABOUT GLO MAMA LLP registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/dictionary/english/our",
+      "https://www.merriam-webster.com/dictionary/our",
+      "https://www.collinsdictionary.com/dictionary/english/our",
+      "https://www.thefreedictionary.com/our"
+    ],
+    "timestamp": "2026-08-29T12:25:22.510491",
+    "status": "results_found"
+  },
+  {
+    "seller": "GLOMAMA",
+    "field": "Phone",
+    "query": "GLOMAMA phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://glomama.in/pages/contact",
+      "https://glomama.in/",
+      "https://www.falconebiz.com/company/GLOMAMA-CARE-PRIVATE-LIMITED-U46491HR2024PTC124645",
+      "https://glomamaawards.com/"
+    ],
+    "timestamp": "2026-08-29T12:25:46.148442",
+    "status": "results_found"
+  },
+  {
+    "business": "GLOMAMA",
+    "field": "Phone Number",
+    "value": "+919818698421",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://glomama.in/pages/contact",
+    "timestamp": "2026-08-29T12:25:57.565953"
+  },
+  {
+    "business": "GLOMAMA",
+    "field": "Email Address",
+    "value": "info@glomama.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://glomama.in/pages/contact",
+    "timestamp": "2026-08-29T12:25:57.566291"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Business Name",
+    "value": "Mylo Family",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35G33O1RHHNWE&asin=B08Y8NX9M4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:26:00.134149"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "Website",
+    "query": "Mylo Family official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login"
+    ],
+    "timestamp": "2026-08-29T12:26:07.878530",
+    "status": "results_found"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Website URL",
+    "value": "https://www.mylofamily.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.mylofamily.com/",
+    "timestamp": "2026-08-29T12:26:12.178296"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Phone Number",
+    "value": "+918047190745",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T12:26:17.670714"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Email Address",
+    "value": "shop@mylofamily.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T12:26:17.670796"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "Billing Address",
+    "value": "shop@mylofamily.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T12:26:17.705260"
+  },
+  {
+    "business": "Mylo Family",
+    "field": "City",
+    "value": "shop@mylofamily.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mylofamily.com/contact-us",
+    "timestamp": "2026-08-29T12:26:17.705323"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "Legal Entity Name",
+    "query": "Mylo Family company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T12:26:20.696013",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "PAN",
+    "query": "Mylo Family PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T12:26:45.831365",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "GST",
+    "query": "Mylo Family GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T12:26:54.249720",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mylo Family",
+    "field": "Owner",
+    "query": "Mylo Family director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mylofamily.com/",
+      "https://mylo.utas.edu.au/login",
+      "https://mylofamily.com/about-mylo",
+      "https://www.teaching-learning.utas.edu.au/learning-activities-and-delivery-modes/modes-and-locations-of-delivery/online-mylo"
+    ],
+    "timestamp": "2026-08-29T12:27:17.150453",
+    "status": "results_found"
+  },
+  {
+    "business": "Wonder Care",
+    "field": "Business Name",
+    "value": "Wonder Care",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3CNF0WYEFIWGQ&asin=B0H719TXF6&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T12:27:26.780936"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "Website",
+    "query": "Wonder Care official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/search-in-windows-11-file-explorer.21789/",
+      "https://www.elevenforum.com/t/change-folder-to-open-file-explorer-to-by-default-in-windows-11.675/"
+    ],
+    "timestamp": "2026-08-29T12:27:28.745084",
+    "status": "results_found"
+  },
+  {
+    "business": "Wonder Care",
+    "field": "Website URL",
+    "value": "https://www.wondercare.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.wondercare.com/",
+    "timestamp": "2026-08-29T12:27:32.228966"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "Legal Entity Name",
+    "query": "Wonder Care company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sirup.online/wp/",
+      "https://sirup.online/wp/live/",
+      "https://sirup.online/5th/",
+      "https://sirup.online/wp/sirup-hall-tour-2026-p-s-%E8%BF%BD%E5%8A%A0%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E7%99%BA%E8%A1%A8%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E4%B8%80%E8%88%AC%E7%99%BA%E5%A3%B2%E6%B1%BA/"
+    ],
+    "timestamp": "2026-08-29T12:27:42.674294",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "PAN",
+    "query": "Wonder Care PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://helpdeskgeek.com/how-to-get-help-in-windows/",
+      "https://www.addictivetips.com/windows-tips/how-to-get-help-in-windows/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/",
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html"
+    ],
+    "timestamp": "2026-08-29T12:28:00.777873",
+    "status": "results_found"
+  },
+  {
+    "business": "Wonder Care",
+    "field": "Email Address",
+    "value": "raj@how2shout.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+    "timestamp": "2026-08-29T12:28:06.634169"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "PAN",
+    "query": "Wonder Care PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wondercare.in/",
+      "https://www.falconebiz.com/company/WONDER-HEALTHCARE-SOLUTIONS-INDIA-PRIVATE-LIMITED-U72200TZ2017PTC028846",
+      "https://npidb.org/organizations/suppliers/community-retail-pharmacy_3336c0003x/1659214146.aspx",
+      "https://npiprofile.com/npi/1659214146"
+    ],
+    "timestamp": "2026-08-29T12:28:12.500323",
+    "status": "results_found"
+  },
+  {
+    "business": "Wonder Care",
+    "field": "Phone Number",
+    "value": "+918139934388",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.wondercare.in/",
+    "timestamp": "2026-08-29T12:28:14.696996"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "GST",
+    "query": "Wonder Care GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://www.yozushi.com/",
+      "https://tabelog.com/okayama/A3301/A330101/33001229/?msockid=380e31ea8b6964041129262e8af56582",
+      "https://www.yozushi.com/agree/index.html",
+      "https://tabelog.com/okayama/A3301/A330101/33008197/?msockid=380e31ea8b6964041129262e8af56582"
+    ],
+    "timestamp": "2026-08-29T12:28:21.596465",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "Owner",
+    "query": "Wonder Care director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justwatch.com/us/movie/wonder",
+      "https://www.moviefone.com/movie/wonder/20088964/main/",
+      "https://www.merriam-webster.com/dictionary/wonder",
+      "https://www.justwatch.com/au/movie/wonder"
+    ],
+    "timestamp": "2026-08-29T12:28:37.366096",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "Owner",
+    "query": "Wonder Care founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justwatch.com/us/movie/wonder",
+      "https://www.moviefone.com/movie/wonder/20088964/main/",
+      "https://www.merriam-webster.com/dictionary/wonder",
+      "https://www.justwatch.com/au/movie/wonder"
+    ],
+    "timestamp": "2026-08-29T12:28:46.691274",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "Address",
+    "query": "Wonder Care registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justwatch.com/us/movie/wonder",
+      "https://www.moviefone.com/movie/wonder/20088964/main/",
+      "https://www.merriam-webster.com/dictionary/wonder",
+      "https://www.justwatch.com/au/movie/wonder"
+    ],
+    "timestamp": "2026-08-29T12:28:53.595695",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wonder Care",
+    "field": "Address",
+    "query": "Wonder Care registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justwatch.com/us/movie/wonder",
+      "https://www.moviefone.com/movie/wonder/20088964/main/",
+      "https://www.merriam-webster.com/dictionary/wonder",
+      "https://www.justwatch.com/au/movie/wonder"
+    ],
+    "timestamp": "2026-08-29T12:29:04.014947",
+    "status": "results_found"
+  }
+]

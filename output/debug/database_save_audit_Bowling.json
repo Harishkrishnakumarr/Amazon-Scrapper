@@ -1,0 +1,48 @@
+{
+  "category": "Bowling",
+  "records_before_save": 14,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Trinkets And More",
+      "database_id": 1501,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "admissions@cscqc.edu.ph",
+      "gst": "27AAMFT5986G1ZG",
+      "pan": "AAMFT5986G",
+      "website": "https://www.weartrinkets.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Evergreen Ent",
+      "database_id": 1502,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "reennila@gmail.com",
+      "gst": "33AABCE8002G2Z5",
+      "pan": "AABCE8002G",
+      "website": "https://www.evergreenent.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CRAFTS INDIA EMPORIUM",
+      "database_id": 1504,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919980232309",
+      "email": "indiacraftemporium@gmail.com",
+      "gst": "07AAAFI0067M2ZD",
+      "pan": "AAAFI0067M",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

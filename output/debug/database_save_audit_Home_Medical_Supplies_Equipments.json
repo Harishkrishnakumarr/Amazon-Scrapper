@@ -1,0 +1,87 @@
+{
+  "category": "Home Medical Supplies Equipments",
+  "records_before_save": 8,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SIFOZ",
+      "database_id": 849,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919819375136",
+      "email": "bioenergies@gmail.com",
+      "gst": "36HFWPS2002N1ZQ",
+      "pan": "HFWPS2002N",
+      "website": "https://www.sifoz.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ZCARE.PHARMA",
+      "database_id": 850,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919453048988",
+      "email": "info@supremetoday.ai",
+      "gst": "29AAACZ7463K1ZN",
+      "pan": "AAACZ7463K",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VENGANZA TRADING PVT LTD",
+      "database_id": 851,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "asharmaroc@gmail.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Bharat Retails\u00ae",
+      "database_id": 852,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "maxime@wisdomquotes.com",
+      "gst": "01AAIFB3898B1ZR",
+      "pan": "AAIFB3898B",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "GROWTOP BHARAT",
+      "database_id": 853,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TATA 1MG",
+      "database_id": 854,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918002098282",
+      "email": "Not Found",
+      "gst": "06AAACZ8318D1ZE",
+      "pan": "AAACZ8318D",
+      "website": "https://www.tata1mg.com/",
+      "status": "Verified"
+    }
+  ]
+}

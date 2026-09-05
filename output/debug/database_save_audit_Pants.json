@@ -1,0 +1,35 @@
+{
+  "category": "Pants",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Mehrang Exim",
+      "database_id": 1380,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919106443009",
+      "email": "mehrangexim@gmail.com",
+      "gst": "24AWNPJ7048J1Z5",
+      "pan": "AWNPJ7048J",
+      "website": "https://www.mehrang.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SAADAA",
+      "database_id": 1381,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919251998279",
+      "email": "support@saadaa.in",
+      "gst": "08ABBCS3086K2ZZ",
+      "pan": "ABBCS3086K",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

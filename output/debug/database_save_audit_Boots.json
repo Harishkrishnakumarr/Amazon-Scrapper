@@ -1,0 +1,87 @@
+{
+  "category": "Boots",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1329,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "OORA BY AS",
+      "database_id": 1330,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "a4medical@rediffmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KRAASA",
+      "database_id": 1331,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917303214335",
+      "email": "sheelafashionindustries@gmail.com",
+      "gst": "27CFYPS5557P1ZY",
+      "pan": "CFYPS5557P",
+      "website": "https://www.kraasa.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Eastern Eagles",
+      "database_id": 1332,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919711662045",
+      "email": "info@creativecommons.org",
+      "gst": "07NYWPS4232P1Z2",
+      "pan": "NYWPS4232P",
+      "website": "https://www.easterneagles.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+      "database_id": 1333,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "nyconsultants2005@gmail.com",
+      "gst": "09AAGCD4199Q1ZQ",
+      "pan": "AAGCD4199Q",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Do Bhai Bags & Luggage",
+      "database_id": 1334,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919953717914",
+      "email": "hello@pice.one",
+      "gst": "07AKVPP3694A1ZQ",
+      "pan": "AKVPP3694A",
+      "website": "https://www.exportersindia.com/",
+      "status": "Verified"
+    }
+  ]
+}

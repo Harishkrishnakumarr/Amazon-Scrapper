@@ -1,0 +1,529 @@
+[
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0G7Y4X9WD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T11:35:26.866461"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kaykaylabel.com/",
+      "https://www.dnb.com/business-directory/company-profiles.kay_kay_overseas_corporation.8e1bf685ceae90bd75002f077f0c930e.html"
+    ],
+    "timestamp": "2026-08-17T11:35:30.017282",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=303eae279b6a65733dc8b99f9a756460",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kaystore.in/",
+      "https://kayfashions.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-17T11:35:39.589802",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=303eae279b6a65733dc8b99f9a756460",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kaystore.in/",
+      "https://kayfashions.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-17T11:36:07.109746",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=303eae279b6a65733dc8b99f9a756460",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kaystore.in/",
+      "https://kayfashions.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-17T11:36:26.192486",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=303eae279b6a65733dc8b99f9a756460",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://kaystore.in/",
+      "https://kayfashions.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-17T11:36:57.573590",
+    "status": "results_found"
+  },
+  {
+    "business": "CloudNine India",
+    "field": "Business Name",
+    "value": "CloudNine India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3KMZP20167VB2&asin=B0GP6RQ8KL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T11:37:28.920842"
+  },
+  {
+    "seller": "CloudNine India",
+    "field": "Website",
+    "query": "CloudNine India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cloudninecare.com/",
+      "https://ip.cloudninecare.com/"
+    ],
+    "timestamp": "2026-08-17T11:37:31.305533",
+    "status": "results_found"
+  },
+  {
+    "business": "CloudNine India",
+    "field": "Website URL",
+    "value": "https://www.cloudninecare.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cloudninecare.com/",
+    "timestamp": "2026-08-17T11:37:45.134862"
+  },
+  {
+    "business": "CloudNine India",
+    "field": "Phone Number",
+    "value": "+910050379539",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cloudninecare.com/",
+    "timestamp": "2026-08-17T11:37:52.891864"
+  },
+  {
+    "business": "CloudNine India",
+    "field": "Email Address",
+    "value": "info@cloudninecare.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cloudninecare.com/",
+    "timestamp": "2026-08-17T11:37:52.893219"
+  },
+  {
+    "seller": "CloudNine India",
+    "field": "Legal Entity Name",
+    "query": "CloudNine India company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cloudninecare.com/",
+      "https://ip.cloudninecare.com/",
+      "https://www.cloudninecare.com/registration-and-appointments",
+      "https://adm.cloudninecare.com/",
+      "https://cloudnine.com/"
+    ],
+    "timestamp": "2026-08-17T11:38:26.187224",
+    "status": "results_found"
+  },
+  {
+    "seller": "CloudNine India",
+    "field": "PAN",
+    "query": "CloudNine India PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cloudninecare.com/",
+      "https://ip.cloudninecare.com/",
+      "https://www.cloudninecare.com/registration-and-appointments",
+      "https://adm.cloudninecare.com/",
+      "https://cloudnine.com/"
+    ],
+    "timestamp": "2026-08-17T11:38:42.462290",
+    "status": "results_found"
+  },
+  {
+    "seller": "CloudNine India",
+    "field": "GST",
+    "query": "CloudNine India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cloudninecare.com/",
+      "https://ip.cloudninecare.com/",
+      "https://www.cloudninecare.com/registration-and-appointments",
+      "https://adm.cloudninecare.com/",
+      "https://cloudnine.com/"
+    ],
+    "timestamp": "2026-08-17T11:39:11.803171",
+    "status": "results_found"
+  },
+  {
+    "seller": "CloudNine India",
+    "field": "Owner",
+    "query": "CloudNine India director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cloudninecare.com/",
+      "https://ip.cloudninecare.com/",
+      "https://www.cloudninecare.com/registration-and-appointments",
+      "https://adm.cloudninecare.com/",
+      "https://cloudnine.com/"
+    ],
+    "timestamp": "2026-08-17T11:39:37.727531",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Business Name",
+    "value": "SHREE LAXMI ENTERPRISE\u2122",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2MY4V1PYG7W6S&asin=B0DPHJJ26P&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T11:39:40.250079"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Website",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-17T11:39:43.166042",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Website URL",
+    "value": "https://www.shreelaxmienterprise.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shreelaxmienterprise.com/",
+    "timestamp": "2026-08-17T11:39:46.137970"
+  },
+  {
+    "business": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Phone Number",
+    "value": "+917275912985",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shreelaxmienterprise.com/",
+    "timestamp": "2026-08-17T11:39:47.191438"
+  },
+  {
+    "business": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "GST Number",
+    "value": "21BLUPB8527R2ZE",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shreelaxmienterprise.com/",
+    "timestamp": "2026-08-17T11:39:47.192373"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Legal Entity Name",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://shreemaruti.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://tracking.shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off"
+    ],
+    "timestamp": "2026-08-17T11:39:54.376657",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "PAN",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://shreemaruti.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://tracking.shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off"
+    ],
+    "timestamp": "2026-08-17T11:40:16.406470",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "PAN",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstserver.com/gst/29AXCPB6877F1ZA/",
+      "https://gst.unifers.ai/gst/24ABCFS8138G1Z5/shree-laxmi-enterprise",
+      "https://www.shreelaxmienterprise.com/our-products.html",
+      "https://gstverify.co.in/search/",
+      "https://www.shreelaxmienterprise.com/"
+    ],
+    "timestamp": "2026-08-17T11:40:38.909526",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Owner",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.revouninstaller.com/products/revo-uninstaller-free/",
+      "https://geekuninstaller.com/",
+      "https://helpdeskgeek.com/how-to-uninstall-apps-on-windows-11/",
+      "https://www.revouninstaller.com/",
+      "https://www.wisecleaner.com/wise-program-uninstaller.html"
+    ],
+    "timestamp": "2026-08-17T11:40:40.443183",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Owner",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://shreemaruti.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://tracking.shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off"
+    ],
+    "timestamp": "2026-08-17T11:41:02.296518",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Address",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://shreemaruti.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://tracking.shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off"
+    ],
+    "timestamp": "2026-08-17T11:41:04.277111",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Address",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://shreemaruti.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://tracking.shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off"
+    ],
+    "timestamp": "2026-08-17T11:41:25.503870",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Email",
+    "query": "SHREE LAXMI ENTERPRISE\u2122 email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://shreemaruti.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://tracking.shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off"
+    ],
+    "timestamp": "2026-08-17T11:41:27.593372",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREE LAXMI ENTERPRISE\u2122",
+    "field": "Email Address",
+    "value": "info@shreemaruti.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shreemaruti.com/",
+    "timestamp": "2026-08-17T11:41:32.951853"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FN7BW9LN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T11:41:33.717791"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-17T11:41:40.242958",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-17T11:41:46.528415"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+915600552026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-17T11:41:48.643094"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-17T11:41:48.656733"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ask.libreoffice.org/t/remote-files-google-drive-error-the-specified-device-is-invalid/37098",
+      "https://ask.libreoffice.org/t/libreoffice24-8/118771",
+      "https://www.zhihu.com/question/274432896",
+      "https://www.zhihu.com/question/321756360",
+      "https://forum.openoffice.org/pl/forum/"
+    ],
+    "timestamp": "2026-08-17T11:42:02.305694",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://eikaiwa.dmm.com/app/login",
+      "https://eikaiwa.dmm.com/app/daily-news",
+      "https://zhidao.baidu.com/question/526424581.html",
+      "http://zhidao.baidu.com/",
+      "https://eikaiwa.dmm.com/uknow/questions/3982/"
+    ],
+    "timestamp": "2026-08-17T11:42:13.253475",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.reddit.com/r/OsmAnd/comments/zx3jlg/how_to_export_saved_google_map_list_saved_place/",
+      "https://www.reddit.com/r/singapore/comments/155ha7j/why_is_google_maps_wayfinding_in_singapore/"
+    ],
+    "timestamp": "2026-08-17T11:42:28.440088",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pharmacynearmei.my/sarawak/sibu/alpro-pharmacy-pahlawan-minute-consult/",
+      "https://www.cybo.com/MY-biz/alpro-pharmacy-pahlawan-minute-consult",
+      "https://reviews.birdeye.com/alpro-pharmacy-pahlawan-minute-consult-177472455295350",
+      "https://my.readymap.info/262988/12196",
+      "https://www.bizmalay.com/zh/alpro-pharmacy-pahlawan-minute-consult-019-912-4923"
+    ],
+    "timestamp": "2026-08-17T11:42:36.959415",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/2031458671385911868",
+      "https://www.zhihu.com/question/2052047431735550018",
+      "https://jingyan.baidu.com/article/c33e3f483b65d5ea15cbb516.html",
+      "https://jingyan.baidu.com/article/c910274b3adbdf8d371d2d03.html",
+      "https://www.zhihu.com/question/309660435"
+    ],
+    "timestamp": "2026-08-17T11:42:54.066066",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/nri/comments/1avl8hy/icici_nri_account_headaches/",
+      "https://www.reddit.com/r/personalfinanceindia/comments/1blirkc/icicibank_desktop_browser_login_not_working_for_a/",
+      "https://www.reddit.com/r/usvisascheduling/comments/16qm8sc/neft_payment_account_number/",
+      "https://www.reddit.com/r/CreditCardsIndia/comments/1cuz20f/train_ticket_booking_amazon_pay_icici_vs_ixigo_au/",
+      "https://www.reddit.com/r/india/comments/3ep222/icici_bank_gives_unfettered_access_to_your/"
+    ],
+    "timestamp": "2026-08-17T11:43:24.090705",
+    "status": "results_found"
+  }
+]

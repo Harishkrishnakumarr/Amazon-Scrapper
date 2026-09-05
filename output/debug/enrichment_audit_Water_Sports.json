@@ -1,0 +1,578 @@
+[
+  {
+    "business": "RIV.",
+    "field": "Business Name",
+    "value": "RIV.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3LEHNB8Q098H4&asin=B0HBCGQSGR&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:33:05.235199"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Website",
+    "query": "RIV. official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:33:18.020175",
+    "status": "no_results"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Legal Entity Name",
+    "query": "RIV. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:33:36.261820",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "PAN",
+    "query": "RIV. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:33:50.860512",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "PAN",
+    "query": "RIV. PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:01.177789",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "GST",
+    "query": "RIV. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:05.618365",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "GST",
+    "query": "RIV. GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:12.170691",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Owner",
+    "query": "RIV. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:24.861320",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Owner",
+    "query": "RIV. founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:34.976227",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Address",
+    "query": "RIV. registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:37.804340",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Address",
+    "query": "RIV. registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:42.686502",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Phone",
+    "query": "RIV. phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:47.812296",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Phone",
+    "query": "RIV. contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:34:53.701430",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Email",
+    "query": "RIV. email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:35:01.161450",
+    "status": "results_found"
+  },
+  {
+    "seller": "RIV.",
+    "field": "Email",
+    "query": "RIV. contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.friv.com/",
+      "https://www.rive.rip/",
+      "https://rive.app/",
+      "https://rive.app/editor"
+    ],
+    "timestamp": "2026-08-26T10:35:06.364538",
+    "status": "results_found"
+  },
+  {
+    "business": "TOTAL SPORTS & FITNESS",
+    "field": "Business Name",
+    "value": "TOTAL SPORTS & FITNESS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NV3ZXSAQUBQR&asin=B0BZVQR2QV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:35:07.065961"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Website",
+    "query": "TOTAL SPORTS & FITNESS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india"
+    ],
+    "timestamp": "2026-08-26T10:35:08.829423",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Legal Entity Name",
+    "query": "TOTAL SPORTS & FITNESS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:35:34.858014",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Legal Entity Name",
+    "query": "TOTAL SPORTS & FITNESS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:35:45.805172",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "PAN",
+    "query": "TOTAL SPORTS & FITNESS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:35:52.886521",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "PAN",
+    "query": "TOTAL SPORTS & FITNESS PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:35:59.381920",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "GST",
+    "query": "TOTAL SPORTS & FITNESS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://totalenergies.com/"
+    ],
+    "timestamp": "2026-08-26T10:36:07.977724",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "GST",
+    "query": "TOTAL SPORTS & FITNESS GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:36:11.145687",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Owner",
+    "query": "TOTAL SPORTS & FITNESS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:36:22.543751",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Owner",
+    "query": "TOTAL SPORTS & FITNESS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:36:29.615222",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Address",
+    "query": "TOTAL SPORTS & FITNESS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://totalenergies.com/"
+    ],
+    "timestamp": "2026-08-26T10:36:39.489673",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Address",
+    "query": "TOTAL SPORTS & FITNESS registered address",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:36:50.103538",
+    "status": "no_results"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Phone",
+    "query": "TOTAL SPORTS & FITNESS phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:36:51.733089",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOTAL SPORTS & FITNESS",
+    "field": "Phone",
+    "query": "TOTAL SPORTS & FITNESS contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://totalenergies.com/",
+      "https://totalenergies.com/india",
+      "https://www.totalbusiness.com/in/home",
+      "https://totalenergies.in/"
+    ],
+    "timestamp": "2026-08-26T10:37:02.179736",
+    "status": "results_found"
+  },
+  {
+    "business": "PHBrands",
+    "field": "Business Name",
+    "value": "PHBrands",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2PN1O7TPISQR7&asin=B0BZWFL7F9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:37:08.364100"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Website",
+    "query": "PHBrands official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://phbrands.net/",
+      "https://phbrands.net/login"
+    ],
+    "timestamp": "2026-08-26T10:37:13.909604",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Legal Entity Name",
+    "query": "PHBrands company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-26T10:37:19.918550",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Legal Entity Name",
+    "query": "PHBrands Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://www.indiafilings.com/company-registration",
+      "https://vakilsearch.com/private-limited-company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india"
+    ],
+    "timestamp": "2026-08-26T10:37:31.023041",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "PAN",
+    "query": "PHBrands PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:37:38.433439",
+    "status": "no_results"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "PAN",
+    "query": "PHBrands PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.datosperu.org/empresa-ph-brands-sac-20602408397.php",
+      "https://compuempresa.com/info/ph-brands-sac-2D715B6CD2DCBC95",
+      "https://www.sellerratings.com/amazon/india/phbrands"
+    ],
+    "timestamp": "2026-08-26T10:37:43.072222",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "GST",
+    "query": "PHBrands GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thoughtstopaper.com/trademark-application/trademark-application.php?platform=microsoft&campaign=471281968&campaignname=Trademark%20Test%20Campaign&adgroup=1240250200139550&adgroupname=Ad%20group%201&keywordid=kwd-77516077511301:loc-90&matchtype=b&bidmatchtype=bb&network=o&device=c&adid=77515771528047&keyword=trademark%20your%20business&querystring=PHBrands%20GSTIN%20registration&extension=&locationinterest=&locationphysical=148988&msclkid=3ee39f13197215daa1b2f59d6ddc31a1&utm_source=bing&utm_medium=cpc&utm_campaign=Trademark%20Test%20Campaign&utm_term=trademark%20your%20business&utm_content=Ad%20group%201",
+      "https://gstverify.co.in/search/",
+      "https://www.thoughtstopaper.com/trademark-application/trademark-application.php?platform=microsoft&campaign=471281968&campaignname=Trademark%20Test%20Campaign&adgroup=1240250200139550&adgroupname=Ad%20group%201&keywordid=kwd-77516077511301:loc-90&matchtype=b&bidmatchtype=bb&network=o&device=c&adid=77515771528047&keyword=trademark%20your%20business&querystring=PHBrands%20GSTIN%20registration&extension=&locationinterest=&locationphysical=148988&msclkid=8ac76841c1db101319e102cfb575ac5b&utm_source=bing&utm_medium=cpc&utm_campaign=Trademark%20Test%20Campaign&utm_term=trademark%20your%20business&utm_content=Ad%20group%201",
+      "https://www.thoughtstopaper.com/patent-applications/provisional-patent-application.php?platform=microsoft&campaign=471281968&campaignname=Trademark%20Test%20Campaign&adgroup=1240250200139550&adgroupname=Ad%20group%201&keywordid=kwd-77516077511301:loc-90&matchtype=b&bidmatchtype=bb&network=o&device=c&adid=77515771528047&keyword=trademark%20your%20business&querystring=PHBrands%20GSTIN%20registration&extension=7627917826880&locationinterest=&locationphysical=148988&msclkid=9283f61229ec15d004659c9c5d421e68&utm_source=bing&utm_medium=cpc&utm_campaign=Trademark%20Test%20Campaign&utm_term=trademark%20your%20business&utm_content=Ad%20group%201"
+    ],
+    "timestamp": "2026-08-26T10:37:58.872162",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Owner",
+    "query": "PHBrands director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-16679915-droit-d-auteur-youtbue",
+      "https://forums.commentcamarche.net/forum/affich-38106222-musique-youtbue"
+    ],
+    "timestamp": "2026-08-26T10:38:09.661550",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Address",
+    "query": "PHBrands registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-26T10:38:22.729620",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Address",
+    "query": "PHBrands registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/phbrands",
+      "https://www.dnb.com/business-directory/company-profiles.ph_brands.7c8b42a44a16983743a9dd7cdb203217.html",
+      "https://www.flcompanyregistry.com/companies/ph-brands-llc/",
+      "https://texas-biz.com/co/ph-brands-llc"
+    ],
+    "timestamp": "2026-08-26T10:38:28.260499",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Phone",
+    "query": "PHBrands phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/30544268/create-google-maps-links-based-on-coordinates",
+      "https://stackoverflow.com/questions/50977913/google-maps-shows-for-development-purposes-only"
+    ],
+    "timestamp": "2026-08-26T10:38:36.237097",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Phone",
+    "query": "PHBrands contact phone",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.jiotv.com/",
+      "https://tvtcctvindia.com/"
+    ],
+    "timestamp": "2026-08-26T10:38:43.280385",
+    "status": "results_found"
+  },
+  {
+    "seller": "PHBrands",
+    "field": "Email",
+    "query": "PHBrands email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://worldflags.net/coloring/philippines",
+      "https://coloringlib.com/philippines/flag-of-philippines/",
+      "https://coloringlib.com/philippines/philippines-flag/",
+      "https://getcolorings.net/philippine-flag-coloring-page"
+    ],
+    "timestamp": "2026-08-26T10:38:56.683754",
+    "status": "results_found"
+  }
+]

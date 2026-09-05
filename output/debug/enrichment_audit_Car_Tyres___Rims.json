@@ -1,0 +1,668 @@
+[
+  {
+    "business": "LOVMOTO",
+    "field": "Business Name",
+    "value": "LOVMOTO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=APNVNJ8ZMHDL7&asin=B0F4DSF2MS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T21:57:51.109081"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "Website",
+    "query": "LOVMOTO official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://motogeniusstore.com/",
+      "https://manuals.plus/category/lovmoto"
+    ],
+    "timestamp": "2026-08-27T21:57:55.263625",
+    "status": "results_found"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "Legal Entity Name",
+    "query": "LOVMOTO company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=pvt%20company%20registration&utm_adgroup=1353501333030805&network=o&device=c&msclkid=cab6ca3a06851950655fa0aa6316baf5&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=pvt%20company%20registration&utm_content=SP%20-%20PVT%20-%20LCPC",
+      "https://entitysearch.us/",
+      "https://registry-lookup.com/",
+      "https://www.orsr.sk/Default.asp?lan=en"
+    ],
+    "timestamp": "2026-08-27T21:58:01.234686",
+    "status": "results_found"
+  },
+  {
+    "business": "LOVMOTO",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=pvt%20company%20registration&utm_adgroup=1353501333030805&network=o&device=c&msclkid=cab6ca3a06851950655fa0aa6316baf5&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=pvt%20company%20registration&utm_content=SP%20-%20PVT%20-%20LCPC",
+    "timestamp": "2026-08-27T21:58:01.895743"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "Legal Entity Name",
+    "query": "LOVMOTO Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxlegit.com/blogs/how-to-register-private-limited-company-india",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://golegally.com/mca-company-llp-search",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-27T21:58:10.196978",
+    "status": "results_found"
+  },
+  {
+    "business": "LOVMOTO",
+    "field": "Email Address",
+    "value": "121@taxlegit.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxlegit.com/blogs/how-to-register-private-limited-company-india",
+    "timestamp": "2026-08-27T21:58:11.275513"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "PAN",
+    "query": "LOVMOTO PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wetter.com/",
+      "https://www.wetter.com/italien/rom/IT0LA0153.html",
+      "https://www.meteoblue.com/de/wetter/woche/rom_italien_3169070",
+      "https://kachelmannwetter.com/de/wetter/3169070-rom"
+    ],
+    "timestamp": "2026-08-27T21:58:14.645527",
+    "status": "results_found"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "GST",
+    "query": "LOVMOTO GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tutorialspoint.com/python/index.htm",
+      "https://www.tutorialspoint.com/python/python_functions.htm"
+    ],
+    "timestamp": "2026-08-27T21:58:30.913631",
+    "status": "results_found"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "GST",
+    "query": "LOVMOTO GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-08-27T21:58:36.497656",
+    "status": "results_found"
+  },
+  {
+    "business": "LOVMOTO",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T21:58:37.267007"
+  },
+  {
+    "business": "LOVMOTO",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T21:58:37.267016"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "Owner",
+    "query": "LOVMOTO director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://propace.net/wp-content/uploads/2023/03/Profile_lovato_web.pdf",
+      "https://whoistheownerof.com/",
+      "https://companydata.com/business-owner-search/"
+    ],
+    "timestamp": "2026-08-27T21:58:40.663933",
+    "status": "results_found"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "Owner",
+    "query": "LOVMOTO founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat",
+      "https://github.com/rasbt/LLMs-from-scratch"
+    ],
+    "timestamp": "2026-08-27T21:58:46.318293",
+    "status": "results_found"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "Address",
+    "query": "LOVMOTO registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://okcalc.com/en/",
+      "https://www.calculatorsoup.com/calculators/math/math.php",
+      "https://www.calculator.io/integer-calculator/",
+      "https://www.calculator.net/basic-calculator.html"
+    ],
+    "timestamp": "2026-08-27T21:58:54.406920",
+    "status": "results_found"
+  },
+  {
+    "seller": "LOVMOTO",
+    "field": "Address",
+    "query": "LOVMOTO registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://thetechgorilla.com/how-to-get-help-in-windows-11/",
+      "https://mspoweruser.com/how-to-get-help-in-windows-11/"
+    ],
+    "timestamp": "2026-08-27T21:59:06.000050",
+    "status": "results_found"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "VALORACE INDIA PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARS9L7K2V88UU&asin=B0D486SJSF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T21:59:09.636974"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Website",
+    "query": "VALORACE INDIA PRIVATE LIMITED official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://valorace.com/about/",
+      "https://qorpiq.com/company/valorace-india-private-limited/U46694DL2024PTC426595"
+    ],
+    "timestamp": "2026-08-27T21:59:12.663217",
+    "status": "results_found"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Website URL",
+    "value": "https://qorpiq.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://qorpiq.com/company/valorace-india-private-limited/U46694DL2024PTC426595",
+    "timestamp": "2026-08-27T21:59:15.369515"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "team@qorpiq.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://qorpiq.com/",
+    "timestamp": "2026-08-27T21:59:16.187810"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Phone Number",
+    "value": "+916305014334",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://qorpiq.com/contact",
+    "timestamp": "2026-08-27T21:59:16.896681"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "VALORACE INDIA PRIVATE LIMITED company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=how%20to%20registration%20pvt%20ltd%20company&utm_adgroup=1364496441110559&network=o&device=c&msclkid=fd4ec968c3d11ff76eeea3f8a6324401&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=how%20to%20registration%20pvt%20ltd%20company&utm_content=Ad%20group%201",
+      "https://www.thecompanycheck.com/company/valorace-india-private-limited/U46694DL2024PTC426595",
+      "https://qorpiq.com/company/valorace-india-private-limited/U46694DL2024PTC426595",
+      "https://www.falconebiz.com/company/VALORACE-INDIA-PRIVATE-LIMITED-U46694DL2024PTC426595"
+    ],
+    "timestamp": "2026-08-27T21:59:21.115605",
+    "status": "results_found"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "VALORACE INDIA PRIVATE LIMITED PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/valorace-india-private-limited/__1IvVcwRixHPA0l55szYqjmBYSfVfXIPOYSqCPdR60sw",
+      "https://qorpiq.com/company/valorace-india-private-limited/U46694DL2024PTC426595",
+      "https://www.indiafilings.com/search/valorace-india-private-limited-cin-U46694DL2024PTC426595",
+      "https://www.falconebiz.com/company/VALORACE-INDIA-PRIVATE-LIMITED-U46694DL2024PTC426595"
+    ],
+    "timestamp": "2026-08-27T22:00:42.060802",
+    "status": "results_found"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/valorace-india-private-limited/__1IvVcwRixHPA0l55szYqjmBYSfVfXIPOYSqCPdR60sw",
+    "timestamp": "2026-08-27T22:00:42.729044"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/valorace-india-private-limited/__1IvVcwRixHPA0l55szYqjmBYSfVfXIPOYSqCPdR60sw",
+    "timestamp": "2026-08-27T22:00:42.729055"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/valorace-india-private-limited/__1IvVcwRixHPA0l55szYqjmBYSfVfXIPOYSqCPdR60sw",
+    "timestamp": "2026-08-27T22:00:42.729058"
+  },
+  {
+    "business": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/valorace-india-private-limited/__1IvVcwRixHPA0l55szYqjmBYSfVfXIPOYSqCPdR60sw",
+    "timestamp": "2026-08-27T22:00:42.729061"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "VALORACE INDIA PRIVATE LIMITED PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/company/valorace-india-private-limited/U46694DL2024PTC426595",
+      "https://tracxn.com/d/legal-entities/india/valorace-india-private-limited/__1IvVcwRixHPA0l55szYqjmBYSfVfXIPOYSqCPdR60sw",
+      "https://www.thecompanycheck.com/company/valorace-india-private-limited/U46694DL2024PTC426595",
+      "https://www.indiafilings.com/search/valorace-india-private-limited-cin-U46694DL2024PTC426595"
+    ],
+    "timestamp": "2026-08-27T22:00:48.389011",
+    "status": "results_found"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "GST",
+    "query": "VALORACE INDIA PRIVATE LIMITED GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.newton.com.tw/wiki/%E5%8D%97%E6%A5%B5%E6%B4%B2%20",
+      "https://www.newton.com.tw/wiki/%E5%8D%97%E6%A5%B5%E6%B4%B2",
+      "https://zh.wikivoyage.org/zh-tw/%E5%8D%97%E6%9E%81%E6%B4%B2",
+      "https://hk.trip.com/travel-guide/destination/antarctica-120481/?msockid=3e5c8b51ca0d673e181f9c93cbd3662a"
+    ],
+    "timestamp": "2026-08-27T22:00:52.618554",
+    "status": "results_found"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "GST",
+    "query": "VALORACE INDIA PRIVATE LIMITED GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://musci.io/ja/music-finder",
+      "https://aprico-media.com/posts/2840"
+    ],
+    "timestamp": "2026-08-27T22:00:59.978464",
+    "status": "results_found"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "VALORACE INDIA PRIVATE LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/enable-or-disable-usb-selective-suspend-in-windows-11.10251/"
+    ],
+    "timestamp": "2026-08-27T22:01:04.103396",
+    "status": "results_found"
+  },
+  {
+    "seller": "VALORACE INDIA PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "VALORACE INDIA PRIVATE LIMITED founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.calculator.io/integer-calculator/",
+      "https://www.calculatorsoup.com/calculators/math/math.php",
+      "https://www.web-rechner.eu/taschenrechner-online/",
+      "https://www.symbolab.com/"
+    ],
+    "timestamp": "2026-08-27T22:01:08.283450",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "Business Name",
+    "value": "Elyssion Designs",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AH0KEO6T9U8SH&asin=B0H2HCBH4K&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:01:11.642434"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Website",
+    "query": "Elyssion Designs official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.positivityblog.com/quote-of-the-day/",
+      "https://www.brainyquote.com/quote_of_the_day"
+    ],
+    "timestamp": "2026-08-27T22:01:12.896145",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Legal Entity Name",
+    "query": "Elyssion Designs company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.pizzahut.co.nz/",
+      "https://www.pizzahut.co.nz/order/pizzas",
+      "https://www.dominos.co.nz/",
+      "https://pizzaclub.co.nz/"
+    ],
+    "timestamp": "2026-08-27T22:01:16.550644",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "PAN",
+    "query": "Elyssion Designs PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://onmsft.com/news/play-weekly-bing-trends-quiz-see-if-you-really-know-your-news/",
+      "https://onmsft.com/news/check-out-the-top-search-trends-on-bing-this-past-year/",
+      "https://onmsft.com/news/bing-implements-three-new-experiences-provide-learning-opportunities/",
+      "https://onmsft.com/category/news/"
+    ],
+    "timestamp": "2026-08-27T22:01:33.240569",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "PAN",
+    "query": "Elyssion Designs PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+      "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-07AAFCE1472L1ZI/",
+      "https://www.volza.com/company-profile/elyssion-designs-pvt-ltd-17136565/",
+      "https://www.companydetails.in/company/elyssion-designs-private-limited"
+    ],
+    "timestamp": "2026-08-27T22:01:42.514034",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "GST Number",
+    "value": "06AAFCE1472L1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+    "timestamp": "2026-08-27T22:01:43.021210"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "PAN Number",
+    "value": "AAFCE1472L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+    "timestamp": "2026-08-27T22:01:43.021218"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Owner",
+    "query": "Elyssion Designs director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cnn.com/markets",
+      "https://markets.businessinsider.com/index/dow_jones",
+      "https://www.marketwatch.com/",
+      "https://www.cnbc.com/markets/?msockid=3e5c8b51ca0d673e181f9c93cbd3662a"
+    ],
+    "timestamp": "2026-08-27T22:01:44.719949",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Owner",
+    "query": "Elyssion Designs founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pressbooks.pub/umcoms101/chapter/chapter-1-introduction-to-communication/",
+      "https://www.britannica.com/topic/communication",
+      "https://www.scribd.com/document/261284849/CONCEPT-OF-COMMUNICATION-pdf",
+      "https://oercollective.caul.edu.au/communication-concepts/open/download?type=pdf"
+    ],
+    "timestamp": "2026-08-27T22:01:57.364651",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "Phone Number",
+    "value": "+918009378426",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://pressbooks.pub/umcoms101/chapter/chapter-1-introduction-to-communication/",
+    "timestamp": "2026-08-27T22:01:58.459815"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Address",
+    "query": "Elyssion Designs registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://bokeplot.com/category/bokep-indo/",
+      "https://www.pornhub.com/video/search?search=bokep+indo",
+      "https://www.eporner.com/tag/bokep/"
+    ],
+    "timestamp": "2026-08-27T22:01:59.764917",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Address",
+    "query": "Elyssion Designs registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/elyssion-designs-private-limited",
+      "https://testing.instafinancials.com/company/elyssion-designs-private-limited-U74999DL2018PTC337803",
+      "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+      "https://www.indiafilings.com/search/elyssion-designs-private-limited-cin-U74999DL2018PTC337803"
+    ],
+    "timestamp": "2026-08-27T22:02:10.033642",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Email",
+    "query": "Elyssion Designs email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T22:02:46.906123",
+    "status": "no_results"
+  },
+  {
+    "business": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Business Name",
+    "value": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3Q8QQRPV84YIJ&asin=B0DHY266G1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:02:47.169326"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Website",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.falconebiz.com/LLP/SUDHIRYADAV-DECO-WORLD-FURNISHINGS-LLP-ABC-3018",
+      "https://decoworld.in/"
+    ],
+    "timestamp": "2026-08-27T22:02:50.017147",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Legal Entity Name",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+      "https://www.falconebiz.com/LLP/SUDHIRYADAV-DECO-WORLD-FURNISHINGS-LLP-ABC-3018",
+      "https://www.thecompanycheck.com/company/sudhiryadav-deco-world-furnishings-llp/ABC-3018",
+      "https://www.indiafilings.com/search/sudhiryadav-deco-world-furnishings-llp-ABC-3018"
+    ],
+    "timestamp": "2026-08-27T22:02:53.979914",
+    "status": "results_found"
+  },
+  {
+    "business": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+    "timestamp": "2026-08-27T22:02:54.392264"
+  },
+  {
+    "business": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+    "timestamp": "2026-08-27T22:02:54.392278"
+  },
+  {
+    "business": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+    "timestamp": "2026-08-27T22:02:54.392282"
+  },
+  {
+    "business": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+    "timestamp": "2026-08-27T22:02:54.392285"
+  },
+  {
+    "business": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Email Address",
+    "value": "ffice07@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/LLP/SUDHIRYADAV-DECO-WORLD-FURNISHINGS-LLP-ABC-3018",
+    "timestamp": "2026-08-27T22:02:54.921309"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "Legal Entity Name",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cmoney.tw/forum/stock/2408",
+      "https://www.cmoney.tw/forum/stock/2408?s=technical-analysis",
+      "https://www.wantgoo.com/stock/2408",
+      "https://www.nanya.com/tw/"
+    ],
+    "timestamp": "2026-08-27T22:02:58.350154",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "PAN",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/sudhiryadav-deco-world-furnishings-llp/__6GPmyhLdianlKZ7mjqwPQIaMrYkZbGoU_Efy-4hMoII",
+      "https://www.falconebiz.com/LLP/SUDHIRYADAV-DECO-WORLD-FURNISHINGS-LLP-ABC-3018",
+      "https://www.filesure.in/company/sudhiryadav-deco-world-furnishings-llp/ABC-3018?tab=about",
+      "https://www.thecompanycheck.com/company/sudhiryadav-deco-world-furnishings-llp/ABC-3018"
+    ],
+    "timestamp": "2026-08-27T22:03:19.114077",
+    "status": "results_found"
+  },
+  {
+    "seller": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+    "field": "GST",
+    "query": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lifewire.com/how-to-delete-temporary-files-in-windows-2624709",
+      "https://www.thewindowsclub.com/different-ways-to-delete-temporary-files-on-windows-10",
+      "https://www.howtogeek.com/743633/how-to-delete-temporary-files-on-windows-10/",
+      "https://allthings.how/where-is-the-temp-folder-in-windows-11-and-how-to-access-it/"
+    ],
+    "timestamp": "2026-08-27T22:05:04.730238",
+    "status": "results_found"
+  }
+]

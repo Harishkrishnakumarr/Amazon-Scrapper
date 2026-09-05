@@ -1,0 +1,993 @@
+[
+  {
+    "business": "Plantex India",
+    "field": "Business Name",
+    "value": "Plantex India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K4UVV7PEP9L5&asin=B07CWMLKXV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T20:05:49.137070"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Website",
+    "query": "Plantex India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products"
+    ],
+    "timestamp": "2026-09-05T20:05:50.964466",
+    "status": "results_found"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Website URL",
+    "value": "https://www.plantex.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.plantex.in/",
+    "timestamp": "2026-09-05T20:05:55.733680"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Email Address",
+    "value": "cs@plantex.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.plantex.in/",
+    "timestamp": "2026-09-05T20:05:57.165212"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Legal Entity Name",
+    "query": "Plantex India company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/plantex-india-ltd",
+      "https://tracxn.com/d/legal-entities/india/plantex-india-ltd/__UZKgx_-t14E5NwppC5_aIB_Jp65hOgJZMhv3DYwbd5U",
+      "https://corporatedir.com/company/plantex-india-limited",
+      "https://www.indiafilings.com/search/plantex-india-ltd-cin-U01132WB1996PLC080316"
+    ],
+    "timestamp": "2026-09-05T20:06:03.259737",
+    "status": "results_found"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/plantex-india-ltd/__UZKgx_-t14E5NwppC5_aIB_Jp65hOgJZMhv3DYwbd5U",
+    "timestamp": "2026-09-05T20:06:20.638835"
+  },
+  {
+    "business": "Plantex India",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/plantex-india-ltd/__UZKgx_-t14E5NwppC5_aIB_Jp65hOgJZMhv3DYwbd5U",
+    "timestamp": "2026-09-05T20:06:20.638847"
+  },
+  {
+    "business": "Plantex India",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/plantex-india-ltd/__UZKgx_-t14E5NwppC5_aIB_Jp65hOgJZMhv3DYwbd5U",
+    "timestamp": "2026-09-05T20:06:20.638850"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/plantex-india-ltd/__UZKgx_-t14E5NwppC5_aIB_Jp65hOgJZMhv3DYwbd5U",
+    "timestamp": "2026-09-05T20:06:20.638852"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "PAN",
+    "query": "Plantex India PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/plantex-e-commerce-private-limited/__8pL2Jp7NjFyBMP1A8ObkgXGhWkrBk2Yp9w6qzMhjfgk",
+      "https://www.plantex.in/"
+    ],
+    "timestamp": "2026-09-05T20:06:23.573670",
+    "status": "results_found"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "PAN",
+    "query": "Plantex India PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products",
+      "https://www.plantexecommerce.com/",
+      "https://www.plantex.in/pages/who-we-are"
+    ],
+    "timestamp": "2026-09-05T20:06:27.966862",
+    "status": "results_found"
+  },
+  {
+    "business": "Plantex India",
+    "field": "Phone Number",
+    "value": "+918043890273",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.plantexecommerce.com/",
+    "timestamp": "2026-09-05T20:06:32.405021"
+  },
+  {
+    "business": "Plantex India",
+    "field": "GST Number",
+    "value": "24AALCP2951M1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.plantexecommerce.com/",
+    "timestamp": "2026-09-05T20:06:32.405364"
+  },
+  {
+    "business": "Plantex India",
+    "field": "PAN Number",
+    "value": "AALCP2951M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.plantexecommerce.com/",
+    "timestamp": "2026-09-05T20:06:32.405373"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Owner",
+    "query": "Plantex India director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/abhishek-chauhan-92fe",
+      "https://www.plantex.in/pages/who-we-are",
+      "https://www.plantexecommerce.com/profile.html",
+      "https://www.affluense.ai/profile/abhishek-chauhan-plantex-e-commerce-private-limited-27812a"
+    ],
+    "timestamp": "2026-09-05T20:06:35.343614",
+    "status": "results_found"
+  },
+  {
+    "seller": "Plantex India",
+    "field": "Owner",
+    "query": "Plantex India founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.plantex.in/",
+      "https://www.plantex.in/collections/all-products",
+      "https://www.plantexecommerce.com/",
+      "https://www.plantex.in/pages/who-we-are"
+    ],
+    "timestamp": "2026-09-05T20:06:39.837082",
+    "status": "results_found"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Business Name",
+    "value": "Gloxy Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AYRALURHHBHEF&asin=B09FJNRMWX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T20:06:44.831281"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Website",
+    "query": "Gloxy Store official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://stavianmetal.com/tam-ton-phang/"
+    ],
+    "timestamp": "2026-09-05T20:06:46.877312",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Legal Entity Name",
+    "query": "Gloxy Store company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hkcorporationsearch.com/companies/1302008/",
+      "https://www.ltddir.com/companies/gloxy-limited/",
+      "https://coltd.hk/company-50227175-details.htm",
+      "https://hkg.databasesets.com/en/gongsimingdan/number/1302008"
+    ],
+    "timestamp": "2026-09-05T20:06:53.102654",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Legal Entity Name",
+    "query": "Gloxy Store Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hkcorporationsearch.com/companies/1302008/",
+      "https://www.ltddir.com/companies/gloxy-limited/",
+      "https://coltd.hk/company-50227175-details.htm",
+      "https://hkg.databasesets.com/en/gongsimingdan/number/1302008"
+    ],
+    "timestamp": "2026-09-05T20:06:59.045324",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "PAN",
+    "query": "Gloxy Store PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.weforum.org/",
+      "https://www.weforum.org/stories/2024/01/2024-power-passport-visa-free-travel/"
+    ],
+    "timestamp": "2026-09-05T20:07:01.626162",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "PAN",
+    "query": "Gloxy Store PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://learn.mindspark.in/",
+      "https://learn.mindspark.in/Student/student/learn",
+      "https://www.mindspark.in/mindspark/login/en",
+      "https://stglearn.mindspark.in/Student/onboard/auto-login?setSession=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cGlkIjoiNjE0YjE2MTJkYzZmMDY2ZDczMjUzNWE3IiwiY2xzIjpmYWxzZSwibGFuZyI6ImVuLUlOIiwiY2F0IjoidGVhY2hlciIsInNpZCI6IjYxODBjNTlhMjU4NGE5MmFjZTU2MDg2YiIsImluVGltZSI6IjIwMjEtMTEtMDIgMTA6Mjk6MDYiLCJzZXNzVGltZSI6MzYwMCwidW4iOiI1MDAyNzY4LmVpYWRtaW4iLCJpcyI6dHJ1ZSwicmV0YWlsIjpmYWxzZSwiZ2lkIjoiICIsIm9mZmxpbmVVc2VyIjpmYWxzZSwic3ViIjoic2NpZW5jZSIsImRlYnVnIjpmYWxzZX0.FpYK6uatUp9T-f0eFnQDtwQQjJcUKwJEKcmi-0LVui0&origin=landingPage"
+    ],
+    "timestamp": "2026-09-05T20:07:05.624217",
+    "status": "results_found"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Phone Number",
+    "value": "+918047187451",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mindspark.in/mindspark/login/en",
+    "timestamp": "2026-09-05T20:07:08.839260"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Email Address",
+    "value": "mindspark@ei.study",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mindspark.in/mindspark/login/en",
+    "timestamp": "2026-09-05T20:07:08.839473"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "GST",
+    "query": "Gloxy Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/",
+      "https://github.com/github",
+      "https://docs.github.com/en",
+      "https://docs.github.com/en/actions/reference/workflows-and-actions/variables"
+    ],
+    "timestamp": "2026-09-05T20:07:11.978619",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "GST",
+    "query": "Gloxy Store GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/",
+      "https://www.knowyourgst.com/gst-number-search/gloxy-enterprise-33AAYFG9972F1ZO/",
+      "https://piceapp.com/gst-number-search/gloxy-enterprise-24aayfg9972f1zn/",
+      "https://gst.unifers.ai/gst/24AAYFG9972F1ZN/gloxy-enterprise"
+    ],
+    "timestamp": "2026-09-05T20:07:18.864756",
+    "status": "results_found"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "GST Number",
+    "value": "29AAYFG9972F1ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/",
+    "timestamp": "2026-09-05T20:07:21.836801"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "PAN Number",
+    "value": "AAYFG9972F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/",
+    "timestamp": "2026-09-05T20:07:21.836832"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/",
+    "timestamp": "2026-09-05T20:07:21.864751"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/",
+    "timestamp": "2026-09-05T20:07:21.864764"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/",
+    "timestamp": "2026-09-05T20:07:21.864769"
+  },
+  {
+    "business": "Gloxy Store",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/gloxy-enterprise-29aayfg9972f1zd/",
+    "timestamp": "2026-09-05T20:07:21.864772"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Owner",
+    "query": "Gloxy Store director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gloxy.in/pages/about-us",
+      "https://gloxy.in/pages/about-us-1"
+    ],
+    "timestamp": "2026-09-05T20:07:24.939492",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gloxy Store",
+    "field": "Owner",
+    "query": "Gloxy Store founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://indiaposttrackings.com/",
+      "https://trackingstatus.in/indian-speed-post-tracking/"
+    ],
+    "timestamp": "2026-09-05T20:07:30.945170",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0C7RJXHRM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T20:07:32.183361"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-09-05T20:07:33.581765",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:07:37.611530",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-09-05T20:07:38.227297"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:07:41.347004",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:07:44.921106",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://calculator.taxadda.com/gstin-details/CLICKTECH_RETAIL_PRIVATE_LIMITED-29AAJCC9783E2Z2"
+    ],
+    "timestamp": "2026-09-05T20:07:50.932207",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-05T20:07:51.582012"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-05T20:07:51.582031"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-05T20:07:51.582037"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-09-05T20:07:51.582043"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:08:14.295336",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:08:17.931315",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:08:21.516041",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:08:24.897512",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:08:29.028730",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Phone",
+    "query": "Clicktech Retail Private Ltd contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-09-05T20:08:32.297487",
+    "status": "results_found"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Business Name",
+    "value": "Adarsh Ent",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A4MF2QGKZV82C&asin=B07VH3PGSH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T20:08:34.439356"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Website",
+    "query": "Adarsh Ent official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://adarshenthospital.com/",
+      "https://adarshenthospital.com/services/"
+    ],
+    "timestamp": "2026-09-05T20:08:37.491428",
+    "status": "results_found"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Website URL",
+    "value": "https://www.adarshent.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.adarshent.in/",
+    "timestamp": "2026-09-05T20:08:39.692152"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Legal Entity Name",
+    "query": "Adarsh Ent company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://www.homznspace.com/adarsh-parkland-panathur-bangalore/",
+      "https://adarsh.ac.in/",
+      "https://www.adarshdevelopers.com/projects/residential/adarsh-palm-acres/"
+    ],
+    "timestamp": "2026-09-05T20:08:43.768751",
+    "status": "results_found"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Phone Number",
+    "value": "+916364921355",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.adarshdevelopers.com/",
+    "timestamp": "2026-09-05T20:08:46.535953"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Email Address",
+    "value": "sales@adarshdevelopers.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.adarshdevelopers.com/",
+    "timestamp": "2026-09-05T20:08:46.536138"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Legal Entity Name",
+    "query": "Adarsh Ent Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://www.homznspace.com/adarsh-parkland-panathur-bangalore/",
+      "https://adarsh.ac.in/",
+      "https://www.adarshdevelopers.com/projects/residential/adarsh-palm-acres/"
+    ],
+    "timestamp": "2026-09-05T20:08:53.273638",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "PAN",
+    "query": "Adarsh Ent PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://www.homznspace.com/adarsh-parkland-panathur-bangalore/",
+      "https://adarsh.ac.in/",
+      "https://www.adarshdevelopers.com/projects/residential/adarsh-palm-acres/"
+    ],
+    "timestamp": "2026-09-05T20:08:57.814367",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "PAN",
+    "query": "Adarsh Ent PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstpan.com/gst/09ATDPG6411H1ZW-m-s-adarsh-ent-bhatta-b-k-o",
+      "https://gst.iadv.io/M-S-ADARSH-ENT-UDYOG-09AAYFA6791J1ZH/",
+      "https://gst.iadv.io/M-S-ADARSH-ENT-UDYOG-09AHTPC6430A1ZK/",
+      "https://gstverify.co.in/gst/adarsh-medicine-house-27apopb3312h1z6/"
+    ],
+    "timestamp": "2026-09-05T20:09:03.889565",
+    "status": "results_found"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "GST Number",
+    "value": "09ATDPG6411H1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/gst/09ATDPG6411H1ZW-m-s-adarsh-ent-bhatta-b-k-o",
+    "timestamp": "2026-09-05T20:09:04.867394"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "PAN Number",
+    "value": "ATDPG6411H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/gst/09ATDPG6411H1ZW-m-s-adarsh-ent-bhatta-b-k-o",
+    "timestamp": "2026-09-05T20:09:04.867404"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Owner",
+    "query": "Adarsh Ent director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.adarshdevelopers.com/",
+      "https://www.homznspace.com/adarsh-parkland-panathur-bangalore/",
+      "https://adarsh.ac.in/",
+      "https://www.adarshdevelopers.com/projects/residential/adarsh-palm-acres/"
+    ],
+    "timestamp": "2026-09-05T20:09:06.358396",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Owner",
+    "query": "Adarsh Ent founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.hexahealth.com/bengaluru-rural/doctor/dr-adarsh-a-s-ent-specialist",
+      "https://adarshenthospital.com/about-us/",
+      "https://adarshenthospital.com/doctors/"
+    ],
+    "timestamp": "2026-09-05T20:09:12.129470",
+    "status": "results_found"
+  },
+  {
+    "seller": "Adarsh Ent",
+    "field": "Address",
+    "query": "Adarsh Ent registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://adarshenthospital.com/contact-us/",
+      "https://www.indiafilings.com/search/adarsh-consultancy-pvt-ltd-cin-U51909WB1996PTC078739",
+      "https://adarshenthospital.com/doctors/",
+      "https://www.justdial.com/Bangalore/Adarsh-Group-Corporate-Office-Langford-Garden/080PXX80-XX80-220302210008-X8Y6_BZDET"
+    ],
+    "timestamp": "2026-09-05T20:09:19.644481",
+    "status": "results_found"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Billing Address",
+    "value": "568, jamudi, shahgarh, azamgarh, uttar pradesh \u2013 276001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://adarshenthospital.com/contact-us/",
+    "timestamp": "2026-09-05T20:09:20.160342"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "City",
+    "value": "azamgarh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://adarshenthospital.com/contact-us/",
+    "timestamp": "2026-09-05T20:09:20.160356"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://adarshenthospital.com/contact-us/",
+    "timestamp": "2026-09-05T20:09:20.160361"
+  },
+  {
+    "business": "Adarsh Ent",
+    "field": "Pincode",
+    "value": "276001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://adarshenthospital.com/contact-us/",
+    "timestamp": "2026-09-05T20:09:20.160366"
+  },
+  {
+    "business": "Lukzer",
+    "field": "Business Name",
+    "value": "Lukzer",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2H4LOI753W1HZ&asin=B0GSF695KG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T20:09:20.436339"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "Website",
+    "query": "Lukzer official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.etalkingonline.com/",
+      "https://blog.etalkingonline.com/2017facebook/"
+    ],
+    "timestamp": "2026-09-05T20:09:22.036366",
+    "status": "results_found"
+  },
+  {
+    "business": "Lukzer",
+    "field": "Website URL",
+    "value": "https://www.lukzer.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.lukzer.com/",
+    "timestamp": "2026-09-05T20:09:26.247911"
+  },
+  {
+    "business": "Lukzer",
+    "field": "Phone Number",
+    "value": "+919987378140",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.lukzer.com/",
+    "timestamp": "2026-09-05T20:09:27.707887"
+  },
+  {
+    "business": "Lukzer",
+    "field": "Email Address",
+    "value": "info@lukzer.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.lukzer.com/",
+    "timestamp": "2026-09-05T20:09:27.708389"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "Legal Entity Name",
+    "query": "Lukzer company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://parks.wa.gov/find-parks/state-parks/steptoe-butte-state-park-heritage-site",
+      "https://explorewashingtonstate.com/state-parks/steptoe-butte-state-park-heritage-site/",
+      "https://www.wta.org/go-hiking/hikes/steptoe-butte-state-park-heritage-site",
+      "https://waparks.org/parks/steptoe-butte/"
+    ],
+    "timestamp": "2026-09-05T20:09:34.861787",
+    "status": "results_found"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "Legal Entity Name",
+    "query": "Lukzer Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://lukzer.com/",
+      "https://www.quickcompany.in/trademarks/3550703-lukzer",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://trademarking.in/details/Lukzer-6533323.html"
+    ],
+    "timestamp": "2026-09-05T20:09:46.535493",
+    "status": "results_found"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "PAN",
+    "query": "Lukzer PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://lukzer.com/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-05T20:09:52.432851",
+    "status": "results_found"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "PAN",
+    "query": "Lukzer PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://lukzer.com/",
+      "https://lukzer.com/pages/contact-us",
+      "https://gstserver.com/gst/07AACCL8467F1ZA/"
+    ],
+    "timestamp": "2026-09-05T20:09:58.356167",
+    "status": "results_found"
+  },
+  {
+    "business": "Lukzer",
+    "field": "GST Number",
+    "value": "07AACCL8467F1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/07AACCL8467F1ZA/",
+    "timestamp": "2026-09-05T20:10:03.145457"
+  },
+  {
+    "business": "Lukzer",
+    "field": "PAN Number",
+    "value": "AACCL8467F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/07AACCL8467F1ZA/",
+    "timestamp": "2026-09-05T20:10:03.145484"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "Owner",
+    "query": "Lukzer director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allevents.in/jakarta",
+      "https://allevents.in/dhaka",
+      "https://allevents.in/new-delhi",
+      "https://allevents.in/patna/all"
+    ],
+    "timestamp": "2026-09-05T20:10:04.687526",
+    "status": "results_found"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "Owner",
+    "query": "Lukzer founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mahjongsoul.com/",
+      "https://game.mahjongsoul.com/",
+      "https://dmg.mahjongsoul.com/",
+      "https://mahjongsoul.com/news/76"
+    ],
+    "timestamp": "2026-09-05T20:10:12.763331",
+    "status": "results_found"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "Address",
+    "query": "Lukzer registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.the-qrcode-generator.com/",
+      "https://www.the-qrcode-generator.com/text-to-qr-code",
+      "https://docs.the-qrcode-generator.com/en/articles/13009388-what-happens-to-qr-codes-when-my-subscription-or-trial-expires-and-can-i-reactivate-them",
+      "https://docs.the-qrcode-generator.com/en/articles/8885092-introduction-to-qr-codes"
+    ],
+    "timestamp": "2026-09-05T20:10:19.233998",
+    "status": "results_found"
+  },
+  {
+    "seller": "Lukzer",
+    "field": "Address",
+    "query": "Lukzer registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://lukzer.com/pages/contact-us",
+      "https://lukzer.com/",
+      "https://b2bhint.com/en/company/za/lukzer--K2024255490",
+      "https://www.who.is/whois/lukzer.com"
+    ],
+    "timestamp": "2026-09-05T20:10:25.864397",
+    "status": "results_found"
+  }
+]

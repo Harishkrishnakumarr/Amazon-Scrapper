@@ -1,0 +1,48 @@
+{
+  "category": "Books",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 383,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BooksMyLife",
+      "database_id": 384,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911196944101",
+      "email": "info@booksforlife.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://booklife.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RAVI_KUMAR",
+      "database_id": 385,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912512612517",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.jnu.ac.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

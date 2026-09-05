@@ -1,0 +1,1096 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0H4Z83C1Q&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T15:06:15.824575"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/e/t/user/login?msockid=2fef1b06bc0e65da1c8a0cbabd12640b"
+    ],
+    "timestamp": "2026-08-21T15:06:17.368399",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+    "timestamp": "2026-08-21T15:07:19.066620"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+912011132011",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-21T15:07:20.254046"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/e/t/user/login?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/what-we-offer/investment-choices?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/trade?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/knowledge/knowledge-center?msockid=2fef1b06bc0e65da1c8a0cbabd12640b"
+    ],
+    "timestamp": "2026-08-21T15:07:27.520171",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/e/t/user/login?msockid=2fef1b06bc0e65da1c8a0cbabd12640b"
+    ],
+    "timestamp": "2026-08-21T15:07:35.192156",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online legal entity",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2fef1b06bc0e65da1c8a0cbabd12640b"
+    ],
+    "timestamp": "2026-08-21T15:07:39.605513",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/e/t/user/login?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "http://www.etrade.com/activate"
+    ],
+    "timestamp": "2026-08-21T15:07:42.421501",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/e/t/user/login",
+      "https://us.etrade.com/e/t/user/xfr?Target=/etx/hw/accountshome?cnt=header_logon_startin_accounts",
+      "https://us.etrade.com/e/t/user/loginhelp",
+      "https://us.etrade.com/e/t/etpro/ETProLaunchPage",
+      "https://us.etrade.com/etx/trd/tradingcenter"
+    ],
+    "timestamp": "2026-08-21T15:08:00.290818",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/e/t/user/login?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "http://www.etrade.com/activate"
+    ],
+    "timestamp": "2026-08-21T15:08:03.666269",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://us.etrade.com/e/t/user/login?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://www.etrade.wallst.com/etrade-web/markets/overview",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "http://www.etrade.com/activate"
+    ],
+    "timestamp": "2026-08-21T15:08:12.645815",
+    "status": "results_found"
+  },
+  {
+    "business": "Fruit mist",
+    "field": "Business Name",
+    "value": "Fruit mist",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A24L37WQ0B9O1F&asin=B0H9Z7Y5HP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T15:08:17.441614"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "Website",
+    "query": "Fruit mist official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+      "https://www.liveeatlearn.com/list-of-fruits/"
+    ],
+    "timestamp": "2026-08-21T15:08:20.451778",
+    "status": "results_found"
+  },
+  {
+    "business": "Fruit mist",
+    "field": "Website URL",
+    "value": "https://www.nutritionadvance.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+    "timestamp": "2026-08-21T15:08:27.292667"
+  },
+  {
+    "business": "Fruit mist",
+    "field": "Phone Number",
+    "value": "+912920262026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.nutritionadvance.com/",
+    "timestamp": "2026-08-21T15:08:27.640490"
+  },
+  {
+    "business": "Fruit mist",
+    "field": "Email Address",
+    "value": "michael@nutritionadvance.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.nutritionadvance.com/contact",
+    "timestamp": "2026-08-21T15:08:36.405364"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "Legal Entity Name",
+    "query": "Fruit mist company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+      "https://www.liveeatlearn.com/list-of-fruits/",
+      "https://englishan.com/fruits-vocabulary/",
+      "https://www.britannica.com/science/fruit-plant-reproductive-body",
+      "https://florafaunafun.com/fruits-of-india/"
+    ],
+    "timestamp": "2026-08-21T15:08:44.667890",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "Legal Entity Name",
+    "query": "Fruit mist Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.legalwiz.in/private-limited-company-registration",
+      "https://www.legalwiz.in/file-dir-3-kyc-mca",
+      "https://www.legalwiz.in/trademark-registration",
+      "https://www.legalwiz.in/annual-compliances-for-pvt-ltd-company",
+      "https://www.legalwiz.in/extension-of-agreement"
+    ],
+    "timestamp": "2026-08-21T15:08:56.667016",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "Legal Entity Name",
+    "query": "Fruit mist legal entity",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/"
+    ],
+    "timestamp": "2026-08-21T15:09:01.129697",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "PAN",
+    "query": "Fruit mist PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.paisabazaar.com/pan-card/how-to-track-pan-card-status/",
+      "https://www.paisabazaar.com/pan-card/form-61/",
+      "https://www.paisabazaar.com/pan-card/tan-verification/",
+      "https://www.paisabazaar.com/pan-card/how-to-change-photo-and-signature-in-pan-card/"
+    ],
+    "timestamp": "2026-08-21T15:09:05.271215",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "PAN",
+    "query": "Fruit mist PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+      "https://www.liveeatlearn.com/list-of-fruits/"
+    ],
+    "timestamp": "2026-08-21T15:09:09.234280",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "PAN",
+    "query": "Fruit mist PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+      "https://www.liveeatlearn.com/list-of-fruits/",
+      "https://englishan.com/fruits-vocabulary/",
+      "https://www.britannica.com/science/fruit-plant-reproductive-body",
+      "https://florafaunafun.com/fruits-of-india/"
+    ],
+    "timestamp": "2026-08-21T15:09:12.946189",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "GST",
+    "query": "Fruit mist GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-21T15:09:23.036676",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "GST",
+    "query": "Fruit mist GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+      "https://www.liveeatlearn.com/list-of-fruits/",
+      "https://englishan.com/fruits-vocabulary/",
+      "https://www.britannica.com/science/fruit-plant-reproductive-body"
+    ],
+    "timestamp": "2026-08-21T15:09:27.941085",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "GST",
+    "query": "Fruit mist GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+      "https://www.liveeatlearn.com/list-of-fruits/",
+      "https://englishan.com/fruits-vocabulary/",
+      "https://www.britannica.com/science/fruit-plant-reproductive-body",
+      "https://florafaunafun.com/fruits-of-india/"
+    ],
+    "timestamp": "2026-08-21T15:09:33.501697",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "Owner",
+    "query": "Fruit mist director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.iconsofindianbusiness.com/article/t-sathish-kumar-is-the-founder-and-managing-director-of-milky-mist-dairy-products-mi",
+      "https://contactout.com/Sathishkumar-T-12516342",
+      "https://www.news18.com/photogallery/business/how-a-school-dropout-turned-his-fathers-failing-business-into-rs-20000-crore-dairy-empire-ws-kl-9608883.html",
+      "https://www.crunchbase.com/person/t-sathish-kumar-b111"
+    ],
+    "timestamp": "2026-08-21T15:09:42.712555",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "Owner",
+    "query": "Fruit mist managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nutritionadvance.com/healthy-foods/types-of-fruit/",
+      "https://www.liveeatlearn.com/list-of-fruits/",
+      "https://englishan.com/fruits-vocabulary/",
+      "https://www.britannica.com/science/fruit-plant-reproductive-body"
+    ],
+    "timestamp": "2026-08-21T15:09:58.091083",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fruit mist",
+    "field": "Address",
+    "query": "Fruit mist registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://opendatalei.com/lei/335800DLNTHC5KX2HD88",
+      "https://www.falconebiz.com/company/FATHIMUTHU-AMMA-MILLS-LIMITED-U26991TN1989PLC016710",
+      "https://mycorporateinfo.com/business/fathimuthu-amma-mills-limited",
+      "https://contactout.com/company/Milky-Mist-Dairy-2212",
+      "https://www.falconebiz.com/company/AMRL-HITECH-CITY-LIMITED-U70101TN2000PLC044980"
+    ],
+    "timestamp": "2026-08-21T15:10:02.453648",
+    "status": "results_found"
+  },
+  {
+    "business": "Fruit mist",
+    "field": "Billing Address",
+    "value": "3/346a, east street n h main road, nanguneri, munradaippu, tirunelveli, tirunelveli, in-tn, 627152, in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/335800DLNTHC5KX2HD88",
+    "timestamp": "2026-08-21T15:10:06.697770"
+  },
+  {
+    "business": "Fruit mist",
+    "field": "City",
+    "value": "in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/335800DLNTHC5KX2HD88",
+    "timestamp": "2026-08-21T15:10:06.697793"
+  },
+  {
+    "business": "Fruit mist",
+    "field": "Pincode",
+    "value": "627152",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/335800DLNTHC5KX2HD88",
+    "timestamp": "2026-08-21T15:10:06.697801"
+  },
+  {
+    "business": "Tails of Joy",
+    "field": "Business Name",
+    "value": "Tails of Joy",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A22OAGYOYIRWBZ&asin=B0HC78XX22&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T15:10:07.157481"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Website",
+    "query": "Tails of Joy official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:10:08.351788",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Legal Entity Name",
+    "query": "Tails of Joy company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://tails.net/"
+    ],
+    "timestamp": "2026-08-21T15:10:57.039300",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Legal Entity Name",
+    "query": "Tails of Joy Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:10:59.855742",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Legal Entity Name",
+    "query": "Tails of Joy legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.legalentityidentifier.in/?msclkid=0f3ebbabdedb13c5821ed123c3e15444",
+      "https://www.legalentityidentifier.in/lei-cost/?msclkid=1ca46cc15bae1adda0d0064946940da0",
+      "https://www.bizprofile.net/ca/los-angeles/tails-of-joy",
+      "https://plaincharity.com/org/912159894",
+      "https://app.candid.org/profile/8356426/tails-of-joy-inc-91-2159894"
+    ],
+    "timestamp": "2026-08-21T15:11:03.816016",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "PAN",
+    "query": "Tails of Joy PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:11:11.270639",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "PAN",
+    "query": "Tails of Joy PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tailsofjoy.net/",
+      "https://www.tailsofjoy.net/product-category/totes-and-bags/",
+      "https://www.tailsofjoy.net/little-guy-grants/",
+      "https://www.tailsofjoy.net/product-category/elaynes-fun-stuff/",
+      "https://www.tailsofjoy.net/you/"
+    ],
+    "timestamp": "2026-08-21T15:11:15.654249",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "PAN",
+    "query": "Tails of Joy PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:11:26.527028",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "GST",
+    "query": "Tails of Joy GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:11:29.282889",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "GST",
+    "query": "Tails of Joy GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html",
+      "https://sonic.fandom.com/wiki/Miles_%22Tails%22_Prower",
+      "https://www1.tails.net/news/version_7.0/"
+    ],
+    "timestamp": "2026-08-21T15:11:31.775467",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "GST",
+    "query": "Tails of Joy GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:11:43.114981",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Owner",
+    "query": "Tails of Joy director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:11:45.337606",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Owner",
+    "query": "Tails of Joy managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html",
+      "https://sonic.fandom.com/wiki/Miles_%22Tails%22_Prower",
+      "https://www1.tails.net/news/version_7.0/",
+      "https://www.techspot.com/downloads/6518-tails.html"
+    ],
+    "timestamp": "2026-08-21T15:11:46.931438",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Owner",
+    "query": "Tails of Joy founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html",
+      "https://sonic.fandom.com/wiki/Miles_%22Tails%22_Prower"
+    ],
+    "timestamp": "2026-08-21T15:11:55.047570",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Address",
+    "query": "Tails of Joy registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:12:00.725299",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Address",
+    "query": "Tails of Joy registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:12:03.004546",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Address",
+    "query": "Tails of Joy head office address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tails.net/",
+      "https://tails.net/install/index.en.html"
+    ],
+    "timestamp": "2026-08-21T15:12:05.270557",
+    "status": "results_found"
+  },
+  {
+    "seller": "Tails of Joy",
+    "field": "Phone",
+    "query": "Tails of Joy phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://tails.net/"
+    ],
+    "timestamp": "2026-08-21T15:12:07.720682",
+    "status": "results_found"
+  },
+  {
+    "business": "Dori.originals",
+    "field": "Business Name",
+    "value": "Dori.originals",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AIRBVNI81RKZ8&asin=B0HC7HYZZF&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T15:12:08.138678"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "Website",
+    "query": "Dori.originals official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/ko-KR/index/chatgpt/"
+    ],
+    "timestamp": "2026-08-21T15:12:11.131699",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "Legal Entity Name",
+    "query": "Dori.originals company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/1896721724942738108.html",
+      "http://zhidao.baidu.com/",
+      "https://www.zhihu.com/question/567480189"
+    ],
+    "timestamp": "2026-08-21T15:12:23.035820",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "PAN",
+    "query": "Dori.originals PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/ePANCardHome",
+      "https://www.pan.utiitsl.com/PAN/csf.html",
+      "https://www.pan.utiitsl.com/PAN/reprint.html",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/addresschangeHome"
+    ],
+    "timestamp": "2026-08-21T15:12:47.844619",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "PAN",
+    "query": "Dori.originals PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://kotoba-note.com/influencer-kol-tsukai-wake",
+      "https://www.marke-media.net/whitepaper/sns-052/",
+      "https://tatap.jp/knowledge/what-is-kol/"
+    ],
+    "timestamp": "2026-08-21T15:12:53.647217",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "GST",
+    "query": "Dori.originals GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.allianzstadium.com.au/",
+      "https://www.allianzstadium.com.au/events"
+    ],
+    "timestamp": "2026-08-21T15:13:10.518933",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "GST",
+    "query": "Dori.originals GSTIN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/125184-open-use-character-map-windows.html"
+    ],
+    "timestamp": "2026-08-21T15:13:16.043338",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "GST",
+    "query": "Dori.originals GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://archive.kdd.org/libweb/tEwktQ/270006/Quantitative-Investment__Analysis-4th-Edition.pdf",
+      "https://www.perlego.com/book/1812783/quantitative-investment-analysis-pdf",
+      "https://www.scribd.com/document/1061817396/Quantitative-Investment-Analysis-4th-Edition-Cfa-Institute-full-chapters-free",
+      "https://archive.kdd.org/book-search/tEwktQ/270006/Quantitative_Investment-Analysis_4th-Edition.pdf",
+      "https://www.scribd.com/document/1047466965/Quantitative-Investment-Analysis-4th-Edition-Cfa-Institute-Ebook-PDF-download"
+    ],
+    "timestamp": "2026-08-21T15:13:19.087247",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "Owner",
+    "query": "Dori.originals director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://theorg.com/org/dori-ai/org-chart/vivek-bansal",
+      "https://www.cbinsights.com/company/dori/people"
+    ],
+    "timestamp": "2026-08-21T15:13:42.267558",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "Owner",
+    "query": "Dori.originals managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tripadvisor.cl/Restaurants-g488175-c31-Copiapo_Atacama_Region.html",
+      "https://www.pizzapiero.cl/",
+      "https://www.ubereats.com/cl/store/pizza-piero/Zxq4yoG5WaGivZ-3X3BLLg?msockid=2fef1b06bc0e65da1c8a0cbabd12640b",
+      "https://www.rappi.cl/restaurantes/900074518-pizza-piero",
+      "https://maps.google.cl/mapfiles/home3.html"
+    ],
+    "timestamp": "2026-08-21T15:13:48.126932",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "Address",
+    "query": "Dori.originals registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.my-dori.com/pages/contact",
+      "https://contactout.com/company/Dori-Incorporated-54200",
+      "https://craft.co/dori/locations",
+      "https://craft.co/dori-ai/locations",
+      "https://www.doriofficial.com/en-gbp/pages/contact-information"
+    ],
+    "timestamp": "2026-08-21T15:13:58.830786",
+    "status": "results_found"
+  },
+  {
+    "business": "Dori.originals",
+    "field": "Billing Address",
+    "value": "cg-200, sanjay gandhi transport nagar, new delhi- 110088",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.my-dori.com/pages/contact",
+    "timestamp": "2026-08-21T15:14:01.168113"
+  },
+  {
+    "business": "Dori.originals",
+    "field": "City",
+    "value": "new delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.my-dori.com/pages/contact",
+    "timestamp": "2026-08-21T15:14:01.168156"
+  },
+  {
+    "business": "Dori.originals",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.my-dori.com/pages/contact",
+    "timestamp": "2026-08-21T15:14:01.168160"
+  },
+  {
+    "business": "Dori.originals",
+    "field": "Pincode",
+    "value": "110088",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.my-dori.com/pages/contact",
+    "timestamp": "2026-08-21T15:14:01.168163"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "Phone",
+    "query": "Dori.originals phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together"
+    ],
+    "timestamp": "2026-08-21T15:14:03.106996",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dori.originals",
+    "field": "Phone",
+    "query": "Dori.originals customer care number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.my-dori.com/pages/contact",
+      "https://www.my-dori.com/pages/faqs",
+      "https://www.doriofficial.com/pages/contact-information",
+      "https://www.my-dori.com/pages/about",
+      "https://www.my-dori.com/"
+    ],
+    "timestamp": "2026-08-21T15:14:07.878635",
+    "status": "results_found"
+  },
+  {
+    "business": "Dori.originals",
+    "field": "Phone Number",
+    "value": "+918092102026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.my-dori.com/pages/contact",
+    "timestamp": "2026-08-21T15:14:09.186784"
+  },
+  {
+    "business": "Wag & Wilder",
+    "field": "Business Name",
+    "value": "Wag & Wilder",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2YLD1KDRF7XRY&asin=B0HDHTP4XD&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T15:14:09.604023"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Website",
+    "query": "Wag & Wilder official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/"
+    ],
+    "timestamp": "2026-08-21T15:14:11.508428",
+    "status": "results_found"
+  },
+  {
+    "business": "Wag & Wilder",
+    "field": "Website URL",
+    "value": "https://www.wagwilder.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.wagwilder.com/",
+    "timestamp": "2026-08-21T15:14:13.397758"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Legal Entity Name",
+    "query": "Wag & Wilder company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker"
+    ],
+    "timestamp": "2026-08-21T15:14:21.436057",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "PAN",
+    "query": "Wag & Wilder PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/"
+    ],
+    "timestamp": "2026-08-21T15:14:42.190628",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "PAN",
+    "query": "Wag & Wilder PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker"
+    ],
+    "timestamp": "2026-08-21T15:15:00.001560",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "GST",
+    "query": "Wag & Wilder GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/"
+    ],
+    "timestamp": "2026-08-21T15:15:02.540306",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "GST",
+    "query": "Wag & Wilder GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker"
+    ],
+    "timestamp": "2026-08-21T15:15:08.665270",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "GST",
+    "query": "Wag & Wilder GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker"
+    ],
+    "timestamp": "2026-08-21T15:15:17.702982",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Owner",
+    "query": "Wag & Wilder director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker"
+    ],
+    "timestamp": "2026-08-21T15:15:23.115662",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Owner",
+    "query": "Wag & Wilder managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker",
+      "https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609",
+      "https://www.thefreedictionary.com/wag"
+    ],
+    "timestamp": "2026-08-21T15:15:29.600907",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Owner",
+    "query": "Wag & Wilder founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker",
+      "https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609",
+      "https://www.thefreedictionary.com/wag"
+    ],
+    "timestamp": "2026-08-21T15:15:37.755954",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Address",
+    "query": "Wag & Wilder registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/"
+    ],
+    "timestamp": "2026-08-21T15:15:43.150398",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Address",
+    "query": "Wag & Wilder registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://search-sos.org/",
+      "http://www.tnesevai.tn.gov.in/",
+      "https://www.411.com/",
+      "https://www.tnesevai.tn.gov.in/edistrict/"
+    ],
+    "timestamp": "2026-08-21T15:15:51.815341",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Phone",
+    "query": "Wag & Wilder phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/",
+      "https://wagwalking.com/dog-walker",
+      "https://apps.apple.com/us/app/wag-dog-walkers-sitters/id940734609",
+      "https://www.thefreedictionary.com/wag"
+    ],
+    "timestamp": "2026-08-21T15:16:04.406017",
+    "status": "results_found"
+  },
+  {
+    "business": "Wag & Wilder",
+    "field": "Phone Number",
+    "value": "+915515372026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://wag.co/",
+    "timestamp": "2026-08-21T15:16:04.979405"
+  },
+  {
+    "seller": "Wag & Wilder",
+    "field": "Email",
+    "query": "Wag & Wilder email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wag.co/",
+      "https://wagwalking.com/"
+    ],
+    "timestamp": "2026-08-21T15:16:06.837650",
+    "status": "results_found"
+  }
+]

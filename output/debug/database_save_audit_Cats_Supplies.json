@@ -1,0 +1,61 @@
+{
+  "category": "Cats Supplies",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 352,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914015114015",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "The Pet Project India",
+      "database_id": 353,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914665202618",
+      "email": "hello@thepetproject.com",
+      "gst": "27AAICP5848E1Z5",
+      "pan": "Not Found",
+      "website": "https://thepetproject.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "CRAZY PET SHOP",
+      "database_id": 354,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.crazypetshop.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BURAQ PETS \u00ae",
+      "database_id": 355,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910006922026",
+      "email": "ccburaqpets@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.buraqpets.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

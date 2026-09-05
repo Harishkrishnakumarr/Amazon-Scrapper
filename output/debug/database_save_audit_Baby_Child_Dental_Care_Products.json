@@ -1,0 +1,74 @@
+{
+  "category": "Baby Child Dental Care Products",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 333,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919501020304",
+      "email": "info@rk.world",
+      "gst": "24ABIFR2700F1ZM",
+      "pan": "Not Found",
+      "website": "https://rk.world/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GROUP PHARMA",
+      "database_id": 334,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912545452026",
+      "email": "bangalore@grouppharma.in",
+      "gst": "33AAACG8723H1ZR",
+      "pan": "AAACG8723H",
+      "website": "https://www.grouppharma.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Honasa Consumer Limited",
+      "database_id": 335,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915020162026",
+      "email": "mediaqueries@honasa.in",
+      "gst": "Not Found",
+      "pan": "AADCH9716L",
+      "website": "https://honasa.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "24X7healthstore",
+      "database_id": 336,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915269732026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Brand eStore",
+      "database_id": 337,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

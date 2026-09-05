@@ -1,0 +1,924 @@
+[
+  {
+    "business": "ExcitingDeals",
+    "field": "Business Name",
+    "value": "ExcitingDeals",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1UFU26BFNFSEF&asin=B0D9DDWJVZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T19:13:35.047746"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Website",
+    "query": "ExcitingDeals official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/enable-or-disable-usb-selective-suspend-in-windows-11.10251/",
+      "https://www.elevenforum.com/"
+    ],
+    "timestamp": "2026-09-04T19:13:41.535928",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Legal Entity Name",
+    "query": "ExcitingDeals company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cna.com.tw/list/aall.aspx",
+      "https://tvn.com.tw/",
+      "https://www.mirrordaily.news/section/latest",
+      "https://www.dotdotnews.com/immed"
+    ],
+    "timestamp": "2026-09-04T19:13:52.817332",
+    "status": "results_found"
+  },
+  {
+    "business": "ExcitingDeals",
+    "field": "Email Address",
+    "value": "services@cna.com.tw",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cna.com.tw/list/aall.aspx",
+    "timestamp": "2026-09-04T19:13:55.746404"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Legal Entity Name",
+    "query": "ExcitingDeals Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://the-crossword-solver.org/clues/lyrics-20260904_013043-Unknown",
+      "https://genius.com/",
+      "https://lyricfinder.net/",
+      "https://crosswordleak.com/crossword-solver/lyrics+aud-20260904-wa0029+unknown"
+    ],
+    "timestamp": "2026-09-04T19:14:06.566105",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "PAN",
+    "query": "ExcitingDeals PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cdc.gov/covid/hcp/clinical-care/overview-testing-sars-cov-2.html",
+      "https://stackoverflow.com/questions/346372/whats-the-difference-between-faking-mocking-and-stubbing",
+      "https://stackoverflow.com/questions/450027/uninstalling-an-msi-file-from-the-command-line-without-using-msiexec",
+      "https://www.cdc.gov/covid/testing/index.html"
+    ],
+    "timestamp": "2026-09-04T19:14:07.818873",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "PAN",
+    "query": "ExcitingDeals PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://b2bhint.com/en/company/ae-du/exciting-deals-trading-llc--1360261",
+      "https://find-and-update.company-information.service.gov.uk/company/16875106",
+      "https://www.sellerratings.com/amazon/india/excitingdeals-"
+    ],
+    "timestamp": "2026-09-04T19:14:17.460785",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "GST",
+    "query": "ExcitingDeals GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mf.nipponindiaim.com/investoreducation/active-fund-vs-passive-fund/",
+      "https://www.valueresearchonline.com/learn/mutual-funds/active-vs-passive-mutual-funds-india-decision-tree/",
+      "https://www.truedata.in/blog/active-vs-passive-mutual-funds",
+      "https://faurit.com/article/active-vs-passive-funds-differences-and-which-is-better"
+    ],
+    "timestamp": "2026-09-04T19:14:26.026344",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "GST",
+    "query": "ExcitingDeals GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/5569927/change-google-translate-dropdown-programmatically",
+      "https://stackoverflow.com/questions/4640378/translate-a-php-string-using-google-translator-api",
+      "https://ja.stackoverflow.com/questions/35504/transformtranslate10%E3%81%A8%E3%81%99%E3%82%8B%E3%81%A8%E3%81%9A%E3%82%8C%E3%82%8B",
+      "https://www.kaskus.co.id/register/googleregister"
+    ],
+    "timestamp": "2026-09-04T19:14:39.843196",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Owner",
+    "query": "ExcitingDeals director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/16875106",
+      "https://companydata.com/business-owner-search/",
+      "https://b2bhint.com/en/company/ae-du/exciting-deals-trading-llc--1360261",
+      "https://companycheck.co.uk/company/16875106/EXCITING-DEALS-LIMITED/companies-house-data"
+    ],
+    "timestamp": "2026-09-04T19:14:44.031791",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Owner",
+    "query": "ExcitingDeals founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.itsexcitingdeals.com/",
+      "https://www.inc.com/annabel-burba/this-founder-was-nearly-homeless-after-3-failed-startup-ideas-then-he-built-a-150-million-business/91277930",
+      "https://open.endole.co.uk/insight/company/16875106-exciting-deals-limited",
+      "https://find-and-update.company-information.service.gov.uk/company/16875106"
+    ],
+    "timestamp": "2026-09-04T19:14:54.271951",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Address",
+    "query": "ExcitingDeals registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/16875106",
+      "https://companycheck.co.uk/company/16875106/EXCITING-DEALS-LIMITED/companies-house-data",
+      "https://find-and-update.company-information.service.gov.uk/company/16875106/filing-history",
+      "https://open.endole.co.uk/insight/company/16875106-exciting-deals-limited"
+    ],
+    "timestamp": "2026-09-04T19:14:58.937670",
+    "status": "results_found"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Address",
+    "query": "ExcitingDeals registered address",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T19:15:06.326384",
+    "status": "no_results"
+  },
+  {
+    "seller": "ExcitingDeals",
+    "field": "Phone",
+    "query": "ExcitingDeals phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/excitingdeals-",
+      "https://www.custline.com/",
+      "https://www.bradsdeals.com/contact-us",
+      "https://www.contacthelp.com/companies"
+    ],
+    "timestamp": "2026-09-04T19:15:14.327231",
+    "status": "results_found"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "Business Name",
+    "value": "RAAS.PVT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2HLYVC34JJQ2D&asin=B0FXVP79GH&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T19:15:23.080129"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "Website",
+    "query": "RAAS.PVT official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas"
+    ],
+    "timestamp": "2026-09-04T19:15:24.994435",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "Legal Entity Name",
+    "query": "RAAS.PVT company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas",
+      "https://www.raashotels.com/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12390185/"
+    ],
+    "timestamp": "2026-09-04T19:15:33.891717",
+    "status": "results_found"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "Phone Number",
+    "value": "+918239926000",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.raashotels.com/",
+    "timestamp": "2026-09-04T19:15:44.659894"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "Email Address",
+    "value": "stay@raashotels.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.raashotels.com/",
+    "timestamp": "2026-09-04T19:15:44.660094"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "Legal Entity Name",
+    "query": "RAAS.PVT Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas",
+      "https://www.raashotels.com/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12390185/"
+    ],
+    "timestamp": "2026-09-04T19:15:49.186967",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "PAN",
+    "query": "RAAS.PVT PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas",
+      "https://www.raashotels.com/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12390185/"
+    ],
+    "timestamp": "2026-09-04T19:15:50.524649",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "PAN",
+    "query": "RAAS.PVT PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas",
+      "https://www.raashotels.com/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12390185/"
+    ],
+    "timestamp": "2026-09-04T19:16:04.251357",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "GST",
+    "query": "RAAS.PVT GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas",
+      "https://www.raashotels.com/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12390185/"
+    ],
+    "timestamp": "2026-09-04T19:16:05.395856",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "GST",
+    "query": "RAAS.PVT GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/raas-technology-india-private-limited-06AAFCR3556G1ZD/",
+      "https://fnshiftsolutions.com/gstin-search/raas-info-solutions-private-limited-23AAHCR1797F1ZA",
+      "https://www.knowyourgst.com/gst-number-search/raas-india-private-limited-08AAKCR8574M1ZF/",
+      "https://piceapp.com/gst-number-search/raas-info-solutions-private-limited-37aahcr1797f1z1/"
+    ],
+    "timestamp": "2026-09-04T19:16:18.366983",
+    "status": "results_found"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "GST Number",
+    "value": "06AAFCR3556G1ZD",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/raas-technology-india-private-limited-06AAFCR3556G1ZD/",
+    "timestamp": "2026-09-04T19:16:19.075647"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "PAN Number",
+    "value": "AAFCR3556G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/raas-technology-india-private-limited-06AAFCR3556G1ZD/",
+    "timestamp": "2026-09-04T19:16:19.075664"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "Owner",
+    "query": "RAAS.PVT director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas",
+      "https://www.raashotels.com/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12390185/"
+    ],
+    "timestamp": "2026-09-04T19:16:21.092049",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "Owner",
+    "query": "RAAS.PVT founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://teachmephysiology.com/urinary-system/regulation/the-renin-angiotensin-aldosterone-system/",
+      "https://my.clevelandclinic.org/health/articles/24175-renin-angiotensin-aldosterone-system-raas",
+      "https://www.raashotels.com/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12390185/"
+    ],
+    "timestamp": "2026-09-04T19:16:31.335116",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAAS.PVT",
+    "field": "Address",
+    "query": "RAAS.PVT registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/raas-india-private-limited-cin-U26960RJ2021PTC073937",
+      "https://tracxn.com/d/legal-entities/india/raas-india-private-limited/__bpTZpHpXQEoX8b0Q-he_9uG_Xvmai-q1DTJXaP5GGxM",
+      "https://www.thecompanycheck.com/company/raas-india-private-limited/U26960RJ2021PTC073937",
+      "https://www.companydetails.in/company/raas-india-private-limited"
+    ],
+    "timestamp": "2026-09-04T19:16:40.042297",
+    "status": "results_found"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raas-india-private-limited/__bpTZpHpXQEoX8b0Q-he_9uG_Xvmai-q1DTJXaP5GGxM",
+    "timestamp": "2026-09-04T19:16:42.797962"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raas-india-private-limited/__bpTZpHpXQEoX8b0Q-he_9uG_Xvmai-q1DTJXaP5GGxM",
+    "timestamp": "2026-09-04T19:16:42.797990"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raas-india-private-limited/__bpTZpHpXQEoX8b0Q-he_9uG_Xvmai-q1DTJXaP5GGxM",
+    "timestamp": "2026-09-04T19:16:42.797995"
+  },
+  {
+    "business": "RAAS.PVT",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/raas-india-private-limited/__bpTZpHpXQEoX8b0Q-he_9uG_Xvmai-q1DTJXaP5GGxM",
+    "timestamp": "2026-09-04T19:16:42.798000"
+  },
+  {
+    "business": "ROUXOUS INDUSTRIES",
+    "field": "Business Name",
+    "value": "ROUXOUS INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3UPMX26XWWQYT&asin=B0H2CVYNV7&ref_=dp_merchant_link",
+    "timestamp": "2026-09-04T19:16:43.778263"
+  },
+  {
+    "seller": "ROUXOUS INDUSTRIES",
+    "field": "Website",
+    "query": "ROUXOUS INDUSTRIES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://rouseindustries.com/start/",
+      "https://rouseindustries.com/start/products-mpd-2-1/"
+    ],
+    "timestamp": "2026-09-04T19:16:48.423232",
+    "status": "results_found"
+  },
+  {
+    "seller": "ROUXOUS INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "ROUXOUS INDUSTRIES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ilovepdf.com/",
+      "https://www.ilovepdf.com/merge_pdf",
+      "https://www.ilovepdf.io/",
+      "https://ilovepdf.org/"
+    ],
+    "timestamp": "2026-09-04T19:16:53.904814",
+    "status": "results_found"
+  },
+  {
+    "business": "ROUXOUS INDUSTRIES",
+    "field": "Email Address",
+    "value": "contact@ilovepdf.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ilovepdf.org/",
+    "timestamp": "2026-09-04T19:16:57.678685"
+  },
+  {
+    "seller": "ROUXOUS INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "ROUXOUS INDUSTRIES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.thecityceleb.com/biography/personality/content-creator/youtuber/jonah-singer-biography-jojo-asmr-girlfriend-net-worth-age-height-songs-youtube-nationalism/",
+      "https://www.thecityceleb.com/profile/jonah-singer/",
+      "https://www.jonahkagen.com/"
+    ],
+    "timestamp": "2026-09-04T19:16:59.408606",
+    "status": "results_found"
+  },
+  {
+    "seller": "ROUXOUS INDUSTRIES",
+    "field": "PAN",
+    "query": "ROUXOUS INDUSTRIES PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.godigit.com/pan-card/check-pan-card-details-online"
+    ],
+    "timestamp": "2026-09-04T19:17:11.028821",
+    "status": "results_found"
+  },
+  {
+    "business": "ROUXOUS INDUSTRIES",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-04T19:17:13.462330"
+  },
+  {
+    "business": "ROUXOUS INDUSTRIES",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-04T19:17:13.463215"
+  },
+  {
+    "business": "ROUXOUS INDUSTRIES",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-04T19:17:13.463232"
+  },
+  {
+    "seller": "ROUXOUS INDUSTRIES",
+    "field": "Owner",
+    "query": "ROUXOUS INDUSTRIES director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://companydata.com/business-owner-search/",
+      "https://rocketreach.co/iroquois-industries-inc-management_b5ccd1f1f42e0af2",
+      "https://www.dnb.com/business-directory/company-profiles.roux_industries_llc.96622a7082de029593c2c3fc158c2987.html",
+      "https://www.forbes.com/profile/theo-roussis/"
+    ],
+    "timestamp": "2026-09-04T19:17:17.130818",
+    "status": "results_found"
+  },
+  {
+    "seller": "ROUXOUS INDUSTRIES",
+    "field": "Owner",
+    "query": "ROUXOUS INDUSTRIES founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tootsie.com/history/",
+      "https://www.essentiallysports.com/nascar-news-jack-roush-net-worth/",
+      "https://www.forbes.com/profile/theo-roussis/",
+      "https://www.latimes.com/archives/la-xpm-1998-may-07-mn-47415-story.html"
+    ],
+    "timestamp": "2026-09-04T19:17:36.035713",
+    "status": "results_found"
+  },
+  {
+    "seller": "ROUXOUS INDUSTRIES",
+    "field": "Address",
+    "query": "ROUXOUS INDUSTRIES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://caselaw.findlaw.com/court/la-court-of-appeal/116769896.html",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365-0.html",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365.html",
+      "https://www.leagle.com/decision/inlaco20241219322"
+    ],
+    "timestamp": "2026-09-04T19:17:44.606394",
+    "status": "results_found"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "Business Name",
+    "value": "Bahucharaji Creation",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A1PEP0ZP42BHEG&isAmazonFulfilled=1&asin=B0CC9CL57R&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-04T19:17:55.280992"
+  },
+  {
+    "seller": "Bahucharaji Creation",
+    "field": "Website",
+    "query": "Bahucharaji Creation official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://www.bahucharajitemple.org/",
+      "http://www.bahucharaji.co.in/"
+    ],
+    "timestamp": "2026-09-04T19:18:00.373616",
+    "status": "results_found"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "Website URL",
+    "value": "http://www.bahucharajitemple.org/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "http://www.bahucharajitemple.org/",
+    "timestamp": "2026-09-04T19:18:07.704811"
+  },
+  {
+    "seller": "Bahucharaji Creation",
+    "field": "Legal Entity Name",
+    "query": "Bahucharaji Creation company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://mkt.swyftfilings.com/mkt/incorporation/?msclkid=9a79cd6864b6180e0f65a7f2a8860659&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=direct%20incorporation&utm_content=DirectIncorporation",
+      "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+      "https://gst.iadv.io/BAHUCHARAJI-CREATION-24AUAPM3971E2ZT/",
+      "https://www.knowyourgst.com/gst-number-search/bahucharaji-creation-24BBAPV6062R1Z0/"
+    ],
+    "timestamp": "2026-09-04T19:18:15.031927",
+    "status": "results_found"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "Email Address",
+    "value": "support@swyftlegal.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://mkt.swyftfilings.com/mkt/incorporation/?msclkid=9a79cd6864b6180e0f65a7f2a8860659&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=direct%20incorporation&utm_content=DirectIncorporation",
+    "timestamp": "2026-09-04T19:18:16.144905"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+    "timestamp": "2026-09-04T19:18:18.409476"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "GST Number",
+    "value": "27AAZFB0275D1ZB",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+    "timestamp": "2026-09-04T19:18:18.410586"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "PAN Number",
+    "value": "AAZFB0275D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+    "timestamp": "2026-09-04T19:18:18.410604"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+    "timestamp": "2026-09-04T19:18:18.416808"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+    "timestamp": "2026-09-04T19:18:18.416825"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+    "timestamp": "2026-09-04T19:18:18.416831"
+  },
+  {
+    "business": "Bahucharaji Creation",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/bahucharaji-creation-27aazfb0275d1zb/",
+    "timestamp": "2026-09-04T19:18:18.416835"
+  },
+  {
+    "seller": "Bahucharaji Creation",
+    "field": "Legal Entity Name",
+    "query": "Bahucharaji Creation Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bartenderstradingco.com/drinks/hot-sex/"
+    ],
+    "timestamp": "2026-09-04T19:18:24.018664",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bahucharaji Creation",
+    "field": "Owner",
+    "query": "Bahucharaji Creation director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.bahucharaji_creation.9eafcd77288e115701d7126b7462af57.html",
+      "https://www.dnb.com/business-directory/company-profiles.bahucharaji_creation.2351e0e9a2014724453cce229691ed84.html",
+      "https://www.tradeindia.com/bahucharji-creation-12809333/",
+      "https://piceapp.com/gst-number-search/bahucharaji-creation-27asmpm0093r1zy/"
+    ],
+    "timestamp": "2026-09-04T19:18:32.563492",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bahucharaji Creation",
+    "field": "Owner",
+    "query": "Bahucharaji Creation founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.bahucharaji_creation.9eafcd77288e115701d7126b7462af57.html",
+      "https://www.dnb.com/business-directory/company-profiles.bahucharaji_creation.2351e0e9a2014724453cce229691ed84.html",
+      "https://www.dnb.com/business-directory/company-profiles.bahucharaji_creation.40dcf709e09e3709cf8b5bd54ba2bc05.html"
+    ],
+    "timestamp": "2026-09-04T19:18:41.724700",
+    "status": "results_found"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "Business Name",
+    "value": "ADVAITH",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A9YDVIZ4M2R6J&isAmazonFulfilled=1&asin=B0CC9CL57R&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-04T19:18:44.170563"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "Website",
+    "query": "ADVAITH official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.aia.ac.in/",
+      "https://namediscoveries.com/names/advaith"
+    ],
+    "timestamp": "2026-09-04T19:18:48.505468",
+    "status": "results_found"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "Website URL",
+    "value": "https://www.aia.ac.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.aia.ac.in/",
+    "timestamp": "2026-09-04T19:18:55.644402"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "Phone Number",
+    "value": "+918792401404",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.aia.ac.in/",
+    "timestamp": "2026-09-04T19:18:56.157772"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "Legal Entity Name",
+    "query": "ADVAITH company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aia.ac.in/",
+      "https://namediscoveries.com/names/advaith",
+      "https://advaith.info/",
+      "https://www.momjunction.com/baby-names/advaith/"
+    ],
+    "timestamp": "2026-09-04T19:19:00.875129",
+    "status": "results_found"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "Legal Entity Name",
+    "query": "ADVAITH Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aia.ac.in/",
+      "https://namediscoveries.com/names/advaith",
+      "https://advaith.info/",
+      "https://www.momjunction.com/baby-names/advaith/"
+    ],
+    "timestamp": "2026-09-04T19:19:14.437931",
+    "status": "results_found"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "PAN",
+    "query": "ADVAITH PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T19:19:22.473975",
+    "status": "results_found"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "Email Address",
+    "value": "contact@jaagrukbharat.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+    "timestamp": "2026-09-04T19:19:27.116611"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T19:19:30.022227"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T19:19:30.022249"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-04T19:19:30.022255"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "GST",
+    "query": "ADVAITH GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aia.ac.in/",
+      "https://namediscoveries.com/names/advaith",
+      "https://advaith.info/",
+      "https://www.momjunction.com/baby-names/advaith/"
+    ],
+    "timestamp": "2026-09-04T19:19:31.923053",
+    "status": "results_found"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "GST",
+    "query": "ADVAITH GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/advaith-motors-pvtltd-29AADCA2399A1ZT/",
+      "https://gstverify.co.in/gst/advaith-motors-pvtltd-29aadca2399a1zt/",
+      "https://gst.jamku.app/gstin/29AADCA2399A1ZT",
+      "https://tenderkart.in/gst-number-search/29AADCA2399A1ZT"
+    ],
+    "timestamp": "2026-09-04T19:19:39.974460",
+    "status": "results_found"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "GST Number",
+    "value": "29AADCA2399A1ZT",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/advaith-motors-pvtltd-29AADCA2399A1ZT/",
+    "timestamp": "2026-09-04T19:19:41.929050"
+  },
+  {
+    "business": "ADVAITH",
+    "field": "PAN Number",
+    "value": "AADCA2399A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/advaith-motors-pvtltd-29AADCA2399A1ZT/",
+    "timestamp": "2026-09-04T19:19:41.929080"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "Owner",
+    "query": "ADVAITH director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aia.ac.in/",
+      "https://namediscoveries.com/names/advaith",
+      "https://advaith.info/",
+      "https://www.momjunction.com/baby-names/advaith/"
+    ],
+    "timestamp": "2026-09-04T19:19:44.378408",
+    "status": "results_found"
+  },
+  {
+    "seller": "ADVAITH",
+    "field": "Owner",
+    "query": "ADVAITH founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aia.ac.in/",
+      "https://namediscoveries.com/names/advaith",
+      "https://advaith.info/",
+      "https://www.momjunction.com/baby-names/advaith/"
+    ],
+    "timestamp": "2026-09-04T19:19:52.375774",
+    "status": "results_found"
+  }
+]

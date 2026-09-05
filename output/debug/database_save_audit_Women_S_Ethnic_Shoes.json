@@ -1,0 +1,35 @@
+{
+  "category": "Women'S Ethnic Shoes",
+  "records_before_save": 3,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AL-MALIK.INC",
+      "database_id": 1362,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "19GOXPK6107M1ZZ",
+      "pan": "GOXPK6107M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BALAJI FASHION IN",
+      "database_id": 1363,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918655719858",
+      "email": "compliance@angelone.in",
+      "gst": "33AADFB1244Q1ZI",
+      "pan": "AADFB1244Q",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+[
+  {
+    "business": "Friends of Furniture",
+    "field": "Business Name",
+    "value": "Friends of Furniture",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1OJACYAH1XOMS&asin=B0GX1TN4GS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T08:55:38.008193"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Website",
+    "query": "Friends of Furniture official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://friendsfurnier.com/origin.html",
+      "https://friendsfurnier.com/collection.html"
+    ],
+    "timestamp": "2026-08-17T08:55:39.545574",
+    "status": "results_found"
+  },
+  {
+    "business": "Friends of Furniture",
+    "field": "Website URL",
+    "value": "https://friendsfurnier.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://friendsfurnier.com/origin.html",
+    "timestamp": "2026-08-17T08:55:41.846525"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Legal Entity Name",
+    "query": "Friends of Furniture company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:55:44.776273",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Legal Entity Name",
+    "query": "Friends of Furniture Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:55:56.161079",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "PAN",
+    "query": "Friends of Furniture PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.paisabazaar.com/pan-card/how-to-track-pan-card-status/",
+      "https://www.paisabazaar.com/pan-card/form-61/",
+      "https://www.paisabazaar.com/pan-card/tan-verification/",
+      "https://www.paisabazaar.com/pan-card/how-to-change-photo-and-signature-in-pan-card/"
+    ],
+    "timestamp": "2026-08-17T08:56:07.670819",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "PAN",
+    "query": "Friends of Furniture PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:56:13.829499",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "GST",
+    "query": "Friends of Furniture GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/friends-furniture-33clfpk6878q1z7/",
+      "https://piceapp.com/gst-number-search/friends-furniture-33bszps7359q1z8/",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/friends-furniture-store-29BFXPA1088M3ZO/",
+      "https://reg.gst.gov.in/registration/"
+    ],
+    "timestamp": "2026-08-17T08:56:27.490464",
+    "status": "results_found"
+  },
+  {
+    "business": "Friends of Furniture",
+    "field": "GST Number",
+    "value": "33CLFPK6878Q1Z7",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/friends-furniture-33clfpk6878q1z7/",
+    "timestamp": "2026-08-17T08:56:29.428539"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Owner",
+    "query": "Friends of Furniture director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:56:30.857075",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Owner",
+    "query": "Friends of Furniture managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:56:42.868204",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Address",
+    "query": "Friends of Furniture registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:56:51.763456",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Phone",
+    "query": "Friends of Furniture phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:57:12.008106",
+    "status": "results_found"
+  },
+  {
+    "business": "Friends of Furniture",
+    "field": "Phone Number",
+    "value": "+914319902026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.imdb.com/title/tt0108778/",
+    "timestamp": "2026-08-17T08:57:14.687143"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Email",
+    "query": "Friends of Furniture email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-17T08:57:15.230811",
+    "status": "no_results"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Email",
+    "query": "Friends of Furniture official email id",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:57:17.024350",
+    "status": "results_found"
+  },
+  {
+    "seller": "Friends of Furniture",
+    "field": "Email",
+    "query": "Friends of Furniture contact email",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0108778/",
+      "https://www.netflix.com/in/title/70153404",
+      "https://www.hotstar.com/in/shows/friends/1271544270",
+      "https://www.primevideo.com/detail/0P05P1FJOJ6FO0M40PNM7KQ3YT/",
+      "https://www.netflix.com/in-hi/title/70153404"
+    ],
+    "timestamp": "2026-08-17T08:57:30.022125",
+    "status": "results_found"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Business Name",
+    "value": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39GN2KROD8K6M&asin=B0H1D441FF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T08:57:35.627850"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Website",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://swayam.gov.in/",
+      "https://vpupu.courses.store/"
+    ],
+    "timestamp": "2026-08-17T08:57:36.864715",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Legal Entity Name",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://swayam.gov.in/",
+      "https://vpupu.courses.store/",
+      "https://www.rudraksha-ratna.com/articles/lord-khatushyamji",
+      "https://hindi.webdunia.com/religious-stories/story-of-khatu-shyam-baba-hare-ka-sahara-125013000040_1.html",
+      "https://www.jiosaavn.com/album/khatu-shyam-bhajan-top-10/802C,EYEaLg_"
+    ],
+    "timestamp": "2026-08-17T08:57:40.626707",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Legal Entity Name",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.shyam_ji_trading_company.15cc10ff38a0da87097c117fd2d21fee.html",
+      "https://www.indiafilings.com/search/shree-shyam-ji-trading-private-limited-cin-U74999BR2020PTC046687",
+      "https://tracxn.com/d/legal-entities/india/shyam-trading-company-private-limited/__5cph5G0iphzD_Nhf9r5tF1khp6xH3wtl5MguUGiwQUE",
+      "https://www.shyamtrading.com/"
+    ],
+    "timestamp": "2026-08-17T08:57:49.666049",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.iadv.io/SHYAM-TRADING-COMPANY-07AFVPK2380M1ZS/",
+      "https://www.dnb.com/business-directory/company-profiles.shyam_ji_trading_company.15cc10ff38a0da87097c117fd2d21fee.html",
+      "https://gst.iadv.io/SHYAM-TRADING-COMPANY-07ABLPL1229N1ZD/",
+      "https://gst.jamku.app/gstin/04AEWPC9984P1ZD",
+      "https://www.tradeindia.com/shyam-ji-trading-company-38770800/"
+    ],
+    "timestamp": "2026-08-17T08:58:17.527601",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://swayam.gov.in/",
+      "https://vpupu.courses.store/"
+    ],
+    "timestamp": "2026-08-17T08:58:22.501321",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://swayam.gov.in/"
+    ],
+    "timestamp": "2026-08-17T08:58:25.272688",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/shyam-ji-trading-company-06aanpa5914c1z5/",
+      "https://www.knowyourgst.com/gst-number-search/shyam-ji-trading-company-04AEWPC9984P1ZD/",
+      "https://www.knowyourgst.com/gst-number-search/shyam-ji-trading-company-05CLRPJ0021Q1ZW/",
+      "https://cleartax.in/gst-number-search/",
+      "https://gst.jamku.app/gstin/04AEWPC9984P1ZD"
+    ],
+    "timestamp": "2026-08-17T08:58:29.220974",
+    "status": "results_found"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST Number",
+    "value": "06AANPA5914C1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shyam-ji-trading-company-06aanpa5914c1z5/",
+    "timestamp": "2026-08-17T08:58:30.767106"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://swayam.gov.in/"
+    ],
+    "timestamp": "2026-08-17T08:58:32.294374",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 managing director",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://swayam.gov.in/"
+    ],
+    "timestamp": "2026-08-17T08:58:34.445636",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://swayam.gov.in/",
+      "https://vpupu.courses.store/",
+      "https://www.rudraksha-ratna.com/articles/lord-khatushyamji",
+      "https://hindi.webdunia.com/religious-stories/story-of-khatu-shyam-baba-hare-ka-sahara-125013000040_1.html",
+      "https://www.jiosaavn.com/album/khatu-shyam-bhajan-top-10/802C,EYEaLg_"
+    ],
+    "timestamp": "2026-08-17T08:58:37.043326",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Address",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opendatalei.com/lei/3358009J9QBEEK8K3K93",
+      "https://www.tradeindia.com/shyam-ji-trading-company-38770800/",
+      "https://www.knowyourgst.com/gst-number-search/shyam-ji-trading-company-04AEWPC9984P1ZD/",
+      "https://www.dnb.com/business-directory/company-profiles.shyam_ji_trading_company.15cc10ff38a0da87097c117fd2d21fee.html"
+    ],
+    "timestamp": "2026-08-17T08:58:44.126859",
+    "status": "results_found"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Billing Address",
+    "value": "plot no. 815, industrial area-ii, chandigarh, in-ch, 160002, in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/3358009J9QBEEK8K3K93",
+    "timestamp": "2026-08-17T08:58:46.090450"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "City",
+    "value": "in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/3358009J9QBEEK8K3K93",
+    "timestamp": "2026-08-17T08:58:46.090460"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "State",
+    "value": "Chandigarh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/3358009J9QBEEK8K3K93",
+    "timestamp": "2026-08-17T08:58:46.090463"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Pincode",
+    "value": "160002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/3358009J9QBEEK8K3K93",
+    "timestamp": "2026-08-17T08:58:46.090466"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Phone",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://swayam.gov.in/",
+      "https://vpupu.courses.store/",
+      "https://www.rudraksha-ratna.com/articles/lord-khatushyamji",
+      "https://hindi.webdunia.com/religious-stories/story-of-khatu-shyam-baba-hare-ka-sahara-125013000040_1.html",
+      "https://www.jiosaavn.com/album/khatu-shyam-bhajan-top-10/802C,EYEaLg_"
+    ],
+    "timestamp": "2026-08-17T08:58:47.579238",
+    "status": "results_found"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Phone Number",
+    "value": "+916881243121",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.rudraksha-ratna.com/articles/lord-khatushyamji",
+    "timestamp": "2026-08-17T08:58:49.407594"
+  },
+  {
+    "seller": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Email",
+    "query": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50 email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://swayam.gov.in/",
+      "https://vpupu.courses.store/",
+      "https://www.rudraksha-ratna.com/articles/lord-khatushyamji",
+      "https://hindi.webdunia.com/religious-stories/story-of-khatu-shyam-baba-hare-ka-sahara-125013000040_1.html",
+      "https://www.jiosaavn.com/album/khatu-shyam-bhajan-top-10/802C,EYEaLg_"
+    ],
+    "timestamp": "2026-08-17T08:58:50.873419",
+    "status": "results_found"
+  },
+  {
+    "business": "Shyam Ji Trading Company \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Email Address",
+    "value": "contact@rudracentre.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.rudraksha-ratna.com/articles/lord-khatushyamji",
+    "timestamp": "2026-08-17T08:58:52.628059"
+  }
+]

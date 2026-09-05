@@ -1,0 +1,61 @@
+{
+  "category": "Health And Personal Care",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 861,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "29AAECR0564M2ZY",
+      "pan": "AAECR0564M",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Mosaic Wellness Private Ltd.",
+      "database_id": 862,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "iance@mosaicwellness.in",
+      "gst": "07AASCA5755D1ZG",
+      "pan": "AASCA5755D",
+      "website": "https://mosaicwellness.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Amazon Retail",
+      "database_id": 863,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "amazon-ir@amazon.com",
+      "gst": "37AAPCA6346P1ZU",
+      "pan": "AAPCA6346P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "The Whole Truth",
+      "database_id": 864,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "19AADCF7463N1ZZ",
+      "pan": "AADCF7463N",
+      "website": "https://thewholetruthfoods.com/",
+      "status": "Verified"
+    }
+  ]
+}

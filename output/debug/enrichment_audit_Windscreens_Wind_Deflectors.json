@@ -1,0 +1,1009 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CCV5X7XL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T06:24:20.083945"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180"
+    ],
+    "timestamp": "2026-08-27T06:24:22.266658",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:25:01.970889",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/e/t/user/login",
+      "https://us.etrade.com/e/t/user/xfr?Target=/etx/hw/accountshome?cnt=header_logon_startin_accounts",
+      "https://us.etrade.com/e/t/user/loginhelp",
+      "https://us.etrade.com/e/t/etpro/ETProLaunchPage"
+    ],
+    "timestamp": "2026-08-27T06:25:21.823138",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:25:29.137763",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-27T06:25:39.054736"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:25:40.602740",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:25:46.116650",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:25:57.735299",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:26:03.269105",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:26:15.363898",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Phone",
+    "query": "ETrade Online phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=22a90466439460f9071613a442c16180",
+      "https://us.etrade.com/e/t/user/login?msockid=22a90466439460f9071613a442c16180",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:26:18.053832",
+    "status": "results_found"
+  },
+  {
+    "business": "CHRUTRA",
+    "field": "Business Name",
+    "value": "CHRUTRA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TADZ014ET82L&asin=B0HF4BVV2W&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T06:26:22.381514"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Website",
+    "query": "CHRUTRA official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://chatra.com/apps/",
+      "https://chat.chatra.io/"
+    ],
+    "timestamp": "2026-08-27T06:26:25.504844",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Legal Entity Name",
+    "query": "CHRUTRA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kaskus.co.id/post/64a408fc26416c27216aad88",
+      "https://www.kaskus.co.id/thread/61830681b8951028c02c793c/10-game-18-yang-sekarang-tersedia-di-steam-harganya-murah-kok",
+      "https://www.kaskus.co.id/thread/000000000000000017014967/nonton-bokep--sakit-jiwa",
+      "https://www.kaskus.co.id/thread/5d359a79018e0d63221e4632/ome-tv-khusus-18"
+    ],
+    "timestamp": "2026-08-27T06:26:33.837958",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Legal Entity Name",
+    "query": "CHRUTRA Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=1bdd924e81e91d489236f8c10abe336c",
+      "https://www.inspex.in/",
+      "https://zauba.company/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-27T06:26:54.115829",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "PAN",
+    "query": "CHRUTRA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:26:57.319093",
+    "status": "no_results"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "PAN",
+    "query": "CHRUTRA PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://manuals.plus/ko/ae/1005005907881397",
+      "https://ko.manuals.plus/asin/B0CC8Z3TWS",
+      "https://www.digikey.com/en/products/detail/laser-tree/LT-80W-F45-12V/29336904?msockid=22a90466439460f9071613a442c16180",
+      "https://manuals.plus/ko/laser-tree/lt-80w-f45-laser-engraving-module-with-air-assist-manual"
+    ],
+    "timestamp": "2026-08-27T06:26:59.281488",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "GST",
+    "query": "CHRUTRA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:27:08.106633",
+    "status": "no_results"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "GST",
+    "query": "CHRUTRA GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/"
+    ],
+    "timestamp": "2026-08-27T06:27:09.354797",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Owner",
+    "query": "CHRUTRA director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.planify.in/investors/chitra-gurnani/",
+      "https://www.werisebyliftingothers.in/2024/07/biography-of-chitra-gurnani-dagaco.html",
+      "https://people.equilar.com/bio/person/tarun-chitra-robot-ventures-management-llc/37030442"
+    ],
+    "timestamp": "2026-08-27T06:27:17.880296",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Owner",
+    "query": "CHRUTRA founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bulsu.edu.ph/",
+      "https://bulsu.edu.ph/logo/logos.html",
+      "https://brandfetch.com/bulsu.edu.ph",
+      "https://www.pngwing.com/en/free-png-cmddt"
+    ],
+    "timestamp": "2026-08-27T06:27:24.766292",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Address",
+    "query": "CHRUTRA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://jo-sys.net/word-2in1-print/",
+      "https://it-kashihara.com/word-2pages-per-sheet/1412/",
+      "https://excelguidebook.com/excel-2pages-to-1sheet/",
+      "https://chiakimemoblog.com/pdf-2in1"
+    ],
+    "timestamp": "2026-08-27T06:27:28.379790",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Address",
+    "query": "CHRUTRA registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.youtubekids.com/"
+    ],
+    "timestamp": "2026-08-27T06:27:39.519203",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Phone",
+    "query": "CHRUTRA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://my.gov.au/",
+      "https://my.gov.au/en/about/help/mygov-website/sign-in-to-mygov",
+      "https://my.gov.au/en/about/help/digital-id/sign-in-with-digital-id",
+      "https://my.gov.au/en/about/help/mygov-website/help-using-your-account/mygov-sign-in-help"
+    ],
+    "timestamp": "2026-08-27T06:27:42.386301",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Phone",
+    "query": "CHRUTRA contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-38299350-impossible-de-me-connecter-a-canva-avec-mail-outlook",
+      "https://forums.commentcamarche.net/forum/affich-37536445-canva-document-termine-et-apres",
+      "https://forums.commentcamarche.net/forum/affich-37385953-probleme-pour-vectoriser-un-logo-degrade"
+    ],
+    "timestamp": "2026-08-27T06:27:49.018746",
+    "status": "results_found"
+  },
+  {
+    "business": "CHRUTRA",
+    "field": "Phone Number",
+    "value": "+917174142663",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+    "timestamp": "2026-08-27T06:27:50.755947"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Email",
+    "query": "CHRUTRA email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chouseisan.com/",
+      "https://chouseisan.com/auth/login",
+      "https://help.chouseisan.com/ja/articles/9969033-%E6%97%A5%E7%A8%8B%E5%80%99%E8%A3%9C%E3%81%AE%E8%BF%BD%E5%8A%A0-%E4%B8%A6%E3%81%B3%E6%9B%BF%E3%81%88-%E5%89%8A%E9%99%A4",
+      "https://help.chouseisan.com/ja/collections/10595730-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E3%81%94%E8%B3%AA%E5%95%8F"
+    ],
+    "timestamp": "2026-08-27T06:27:52.535253",
+    "status": "results_found"
+  },
+  {
+    "seller": "CHRUTRA",
+    "field": "Email",
+    "query": "CHRUTRA contact email",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zoominfo.com/p/Chitra-Dutta/6183378537",
+      "https://nocorruption.in/politician/chitra-g/",
+      "https://bookingagentinfo.com/celebrity/k-s-chithra/",
+      "https://www.arounddeal.com/p/chitra-h/s5ulxxgxus"
+    ],
+    "timestamp": "2026-08-27T06:28:01.199143",
+    "status": "results_found"
+  },
+  {
+    "business": "CHRUTRA",
+    "field": "Email Address",
+    "value": "support@bookingagentinfo.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bookingagentinfo.com/celebrity/k-s-chithra/",
+    "timestamp": "2026-08-27T06:28:06.661561"
+  },
+  {
+    "business": "Care Bear Beauty_",
+    "field": "Business Name",
+    "value": "Care Bear Beauty_",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2TU989K2XGHL0&asin=B0H4ZBR13J&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:28:08.642964"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "Website",
+    "query": "Care Bear Beauty_ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/"
+    ],
+    "timestamp": "2026-08-27T06:28:10.513017",
+    "status": "results_found"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "Legal Entity Name",
+    "query": "Care Bear Beauty_ company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/",
+      "https://www.carehospitals.com/",
+      "https://joinditto.in/articles/health-insurance/care-health-insurance-review/"
+    ],
+    "timestamp": "2026-08-27T06:28:16.516820",
+    "status": "results_found"
+  },
+  {
+    "business": "Care Bear Beauty_",
+    "field": "Phone Number",
+    "value": "+918860402452",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.careinsurance.com/",
+    "timestamp": "2026-08-27T06:28:17.285077"
+  },
+  {
+    "business": "Care Bear Beauty_",
+    "field": "Billing Address",
+    "value": "care health insurance limited, vipul tech square, tower c, 3rd floor, golf course road, sector - 43, gurugram - 122009 (haryana).",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.careinsurance.com/",
+    "timestamp": "2026-08-27T06:28:17.294696"
+  },
+  {
+    "business": "Care Bear Beauty_",
+    "field": "City",
+    "value": "gurugram   (haryana).",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.careinsurance.com/",
+    "timestamp": "2026-08-27T06:28:17.294715"
+  },
+  {
+    "business": "Care Bear Beauty_",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.careinsurance.com/",
+    "timestamp": "2026-08-27T06:28:17.294721"
+  },
+  {
+    "business": "Care Bear Beauty_",
+    "field": "Pincode",
+    "value": "122009",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.careinsurance.com/",
+    "timestamp": "2026-08-27T06:28:17.294726"
+  },
+  {
+    "business": "Care Bear Beauty_",
+    "field": "Email Address",
+    "value": "customerfirst@careinsurance.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://joinditto.in/articles/health-insurance/care-health-insurance-review/",
+    "timestamp": "2026-08-27T06:28:20.053397"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "Legal Entity Name",
+    "query": "Care Bear Beauty_ Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/",
+      "https://www.carehospitals.com/",
+      "https://joinditto.in/articles/health-insurance/care-health-insurance-review/"
+    ],
+    "timestamp": "2026-08-27T06:28:21.371926",
+    "status": "results_found"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "PAN",
+    "query": "Care Bear Beauty_ PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/",
+      "https://www.carehospitals.com/",
+      "https://joinditto.in/articles/health-insurance/care-health-insurance-review/"
+    ],
+    "timestamp": "2026-08-27T06:28:26.493920",
+    "status": "results_found"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "PAN",
+    "query": "Care Bear Beauty_ PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/",
+      "https://www.carehospitals.com/",
+      "https://joinditto.in/articles/health-insurance/care-health-insurance-review/"
+    ],
+    "timestamp": "2026-08-27T06:28:30.637332",
+    "status": "results_found"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "GST",
+    "query": "Care Bear Beauty_ GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/",
+      "https://www.carehospitals.com/",
+      "https://joinditto.in/articles/health-insurance/care-health-insurance-review/"
+    ],
+    "timestamp": "2026-08-27T06:28:35.764151",
+    "status": "results_found"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "GST",
+    "query": "Care Bear Beauty_ GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/",
+      "https://www.carehospitals.com/",
+      "https://joinditto.in/articles/health-insurance/care-health-insurance-review/"
+    ],
+    "timestamp": "2026-08-27T06:28:53.515405",
+    "status": "results_found"
+  },
+  {
+    "seller": "Care Bear Beauty_",
+    "field": "Owner",
+    "query": "Care Bear Beauty_ director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.careinsurance.com/",
+      "https://selfcare.careinsurance.com/",
+      "https://www.carehospitals.com/",
+      "https://joinditto.in/articles/health-insurance/care-health-insurance-review/"
+    ],
+    "timestamp": "2026-08-27T06:28:58.786234",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoDynamics",
+    "field": "Business Name",
+    "value": "AutoDynamics",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1V2VHR1GPWTDQ&asin=B0GMJF9ZYJ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:29:10.783440"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Website",
+    "query": "AutoDynamics official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-36078047-connection-fecebook"
+    ],
+    "timestamp": "2026-08-27T06:29:13.668268",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoDynamics",
+    "field": "Website URL",
+    "value": "https://www.autodynamics.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.autodynamics.in/",
+    "timestamp": "2026-08-27T06:29:18.951043"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Legal Entity Name",
+    "query": "AutoDynamics company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retrobowl.game/game.html",
+      "https://thepercentcalculator.com/game/retro-bowl",
+      "https://retro-bowl.gg/retro-bowl/",
+      "https://poki.com/en/g/retro-bowl?msockid=22a90466439460f9071613a442c16180"
+    ],
+    "timestamp": "2026-08-27T06:29:28.483415",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Legal Entity Name",
+    "query": "AutoDynamics Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=7fc4f7c23e1f1377ccb49d4db21fa748&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.falconebiz.com/company/AUTODYNAMICS-AUTO-INDIA-PRIVATE-LIMITED-U50102MH2014PTC252501",
+      "https://www.companydetails.in/company/autodynamics-auto-india-private-limited",
+      "https://autodynamics.ycstech.co.in/"
+    ],
+    "timestamp": "2026-08-27T06:29:44.301425",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "PAN",
+    "query": "AutoDynamics PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://secondchance.flalottery.com/secondchance/",
+      "https://secondchance.flalottery.com/secondchance/login",
+      "https://qa.flalottery.com/secondchance/millionaireraffle/winners.do",
+      "https://qa.flalottery.com/secondchance/millionaireraffle/prizes.do"
+    ],
+    "timestamp": "2026-08-27T06:29:45.698453",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "PAN",
+    "query": "AutoDynamics PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/autodynamic-technologies-solutions-private-limited/__eo32ejx7wrnRMYgtX1_HJwBCBQGVq-k2JBwVXZFAvZ0",
+      "https://www.dnb.com/business-directory/company-profiles.autodynamics_inc.5ad9fe3139862e9b664f4e07fd2c8b58.html",
+      "https://www.thecompanycheck.com/company/autodynamic-technologies-solutions-private-limited/U29309PN2016PTC164453",
+      "https://tracxn.com/d/legal-entities/india/autodynamics-process-software-india-private-limited/__mSZJgx-1oDX7pConukkNVm62zMWRr16795wKz1FQFdI"
+    ],
+    "timestamp": "2026-08-27T06:29:59.884744",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "GST",
+    "query": "AutoDynamics GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/autodynamics-auto-india-private-limited-27AAMCA6333M1Z9/",
+      "https://www.mastersindia.co/gst-search/?name=autodynamics-auto-india-private-limited&gstin=27AAMCA6333M1Z9"
+    ],
+    "timestamp": "2026-08-27T06:30:04.248457",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoDynamics",
+    "field": "GST Number",
+    "value": "27AAMCA6333M1Z9",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/autodynamics-auto-india-private-limited-27AAMCA6333M1Z9/",
+    "timestamp": "2026-08-27T06:30:05.028697"
+  },
+  {
+    "business": "AutoDynamics",
+    "field": "PAN Number",
+    "value": "AAMCA6333M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/autodynamics-auto-india-private-limited-27AAMCA6333M1Z9/",
+    "timestamp": "2026-08-27T06:30:05.028724"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Owner",
+    "query": "AutoDynamics director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-27T06:30:07.015489",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Owner",
+    "query": "AutoDynamics founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://grokipedia.com/page/autodynamics_race_car_manufacturer",
+      "https://www.conceptcarz.com/view/makeHistory/920/autodynamics_history.aspx",
+      "https://handwiki.org/wiki/Company:Autodynamics_(race_car_manufacturer)",
+      "https://formulaveeproject.com/news/f/ray-caldwell"
+    ],
+    "timestamp": "2026-08-27T06:30:13.320398",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Address",
+    "query": "AutoDynamics registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "http://128.199.175.251/tag/indonesia"
+    ],
+    "timestamp": "2026-08-27T06:30:23.172832",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Address",
+    "query": "AutoDynamics registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://faq.ikyu.com/app/answers/detail/a_id/1109/~/yahoo%21-japan-id%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A8%E3%81%AF%EF%BC%9F",
+      "https://faq.ikyu.com/app/answers/detail/a_id/556/~/yahoo%21-japan-id%E3%81%A8%E3%81%AF%EF%BC%9F"
+    ],
+    "timestamp": "2026-08-27T06:30:26.839499",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Phone",
+    "query": "AutoDynamics phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://news.mit.edu/topic/artificial-intelligence2",
+      "https://news.mit.edu/topic/artificial-intelligence2?type=2&page=1",
+      "https://www.sciencenews.org/topic/artificial-intelligence",
+      "https://www.sciencenews.org/topic/artificial-intelligence/page/2"
+    ],
+    "timestamp": "2026-08-27T06:30:31.850332",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Phone",
+    "query": "AutoDynamics contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jetpunk.com/quizzes/multiple-choice-city-quiz-cairo",
+      "https://www.sporcle.com/games/mucciniale/all-about-cairo",
+      "https://wordwall.net/resource/52589236/cairo",
+      "https://www.proprofs.com/quiz-school/story.php?title=pp-amazing-trivia-quiz-on-cairo"
+    ],
+    "timestamp": "2026-08-27T06:30:37.798065",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoDynamics",
+    "field": "Email",
+    "query": "AutoDynamics email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.douyin.com/",
+      "https://www.douyin.com/downloadpage/pc",
+      "https://doujia.douyin.com/",
+      "https://streamingtool.douyin.com/"
+    ],
+    "timestamp": "2026-08-27T06:30:50.711833",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoDynamics",
+    "field": "Email Address",
+    "value": "jubao@douyin.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://doujia.douyin.com/",
+    "timestamp": "2026-08-27T06:31:03.082049"
+  },
+  {
+    "business": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Business Name",
+    "value": "Wallnaw Accessories Pvt. Ltd.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1EKB6ECAGIQJF&asin=B0CRF6N9Q2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T06:31:03.700410"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Website",
+    "query": "Wallnaw Accessories Pvt. Ltd. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://blog.dentco.tw/dentist-teeth-treatment/dental-knowledge-prosthodontic-10/",
+      "https://ao4-implant.com/dental-news/dentures-and-all-ceramic-crowns/removable-denture/"
+    ],
+    "timestamp": "2026-08-27T06:31:05.593577",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Legal Entity Name",
+    "query": "Wallnaw Accessories Pvt. Ltd. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://en.xnxx.place/search/xnxx",
+      "https://en.xnxx.place/hits",
+      "https://xnxx.dev/",
+      "https://xhamster.com/tags/xnxx"
+    ],
+    "timestamp": "2026-08-27T06:31:15.473066",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Legal Entity Name",
+    "query": "Wallnaw Accessories Pvt. Ltd. Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/wallnaw-accessories-private-limited/U50400MH2018PTC308006",
+      "https://www.falconebiz.com/company/WALLNAW-ACCESSORIES-PRIVATE-LIMITED-U50400MH2018PTC308006",
+      "https://www.companydetails.in/company/wallnaw-accessories-private-limited",
+      "https://www.instafinancials.com/company/wallnaw-accessories-private-limited-U50400MH2018PTC308006/company-overview"
+    ],
+    "timestamp": "2026-08-27T06:31:27.213217",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "PAN",
+    "query": "Wallnaw Accessories Pvt. Ltd. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sukesanudon.com/",
+      "https://www.sukesanudon.com/menu/",
+      "https://www.sukesanudon.com/map/",
+      "https://www.sukesanudon.com/map/kanto/%e5%9f%bc%e7%8e%89%e7%9c%8c/"
+    ],
+    "timestamp": "2026-08-27T06:31:31.945811",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "PAN",
+    "query": "Wallnaw Accessories Pvt. Ltd. PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AACCW1895N1ZM/wallnaw-accessories-private-limited",
+      "https://tracxn.com/d/legal-entities/india/wallnaw-accessories-private-limited/__GrmIiEqArU82e8TbcqVlmJRSWAd-mlNN2MrVuXqBk5g",
+      "https://www.thecompanycheck.com/company/wallnaw-accessories-private-limited/U50400MH2018PTC308006",
+      "https://www.falconebiz.com/company/WALLNAW-ACCESSORIES-PRIVATE-LIMITED-U50400MH2018PTC308006"
+    ],
+    "timestamp": "2026-08-27T06:31:38.721207",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "GST",
+    "query": "Wallnaw Accessories Pvt. Ltd. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kkday.com/ko/blog/34466/asia-macau-travelcourse",
+      "https://kr.trip.com/blog/makao-trip-guide/",
+      "https://www.thechinajourney.com/ko/%EB%A7%88%EC%B9%B4%EC%98%A4-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C/",
+      "https://kr.trip.com/blog/visit-places-in-macau/"
+    ],
+    "timestamp": "2026-08-27T06:32:00.397327",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Owner",
+    "query": "Wallnaw Accessories Pvt. Ltd. director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/WALLNAW-ACCESSORIES-PRIVATE-LIMITED-U50400MH2018PTC308006",
+      "https://www.infyner.com/company/wallnaw-accessories-private-limited/U50400MH2018PTC308006",
+      "https://www.dnb.com/business-directory/company-profiles.wallnaw_accessories_private_limited.d4fc481e0603e1192ba828a81f9ea135.html",
+      "https://www.thecompanycheck.com/company/wallnaw-accessories-private-limited/U50400MH2018PTC308006"
+    ],
+    "timestamp": "2026-08-27T06:32:03.615861",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Owner",
+    "query": "Wallnaw Accessories Pvt. Ltd. founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.monsterhunter.com/wilds-ascendance/ja-jp/",
+      "https://www.game-nankaidays.com/mhwilds-76/",
+      "https://game-shinden.com/monster-hunter-wilds-ascendance-release-date-and-new-element/",
+      "https://burasut.com/blog/game/mhwilds-ascendance-mr-prediction/"
+    ],
+    "timestamp": "2026-08-27T06:32:12.672907",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Address",
+    "query": "Wallnaw Accessories Pvt. Ltd. registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.artificialintelligence-news.com/",
+      "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+      "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+      "https://www.artificialintelligence-news.com/categories/artificial-intelligence/"
+    ],
+    "timestamp": "2026-08-27T06:32:19.579754",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Address",
+    "query": "Wallnaw Accessories Pvt. Ltd. registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/WALLNAW-ACCESSORIES-PRIVATE-LIMITED-U50400MH2018PTC308006",
+      "https://tracxn.com/d/legal-entities/india/wallnaw-accessories-private-limited/__GrmIiEqArU82e8TbcqVlmJRSWAd-mlNN2MrVuXqBk5g",
+      "https://corpintel.io/WALLNAW-ACCESSORIES-PRIVATE-LIMITED-U50400MH2018PTC308006",
+      "https://www.infyner.com/company/wallnaw-accessories-private-limited/U50400MH2018PTC308006"
+    ],
+    "timestamp": "2026-08-27T06:32:25.420144",
+    "status": "results_found"
+  },
+  {
+    "business": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Email Address",
+    "value": "ish_31@hotmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/WALLNAW-ACCESSORIES-PRIVATE-LIMITED-U50400MH2018PTC308006",
+    "timestamp": "2026-08-27T06:32:26.613104"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Phone",
+    "query": "Wallnaw Accessories Pvt. Ltd. phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://www.izoate.com/blog/how-to-get-help-in-windows-11-complete-guide-to-windows-11-support/",
+      "https://www.techcommuters.com/how-to-get-help-in-windows-11/"
+    ],
+    "timestamp": "2026-08-27T06:32:36.832560",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wallnaw Accessories Pvt. Ltd.",
+    "field": "Phone",
+    "query": "Wallnaw Accessories Pvt. Ltd. contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://es.ccm.net/descargas/herramientas/8888-kmspico/",
+      "https://es.ccm.net/aplicaciones-e-internet/ofimatica/1854-como-conseguir-el-serial-de-office-2016/",
+      "https://es.ccm.net/forum/affich-1842715-serial-o-clave-de-activacion-office-365",
+      "https://es.ccm.net/descargas/profesional/5604-office-2016-profesional-para-pc/"
+    ],
+    "timestamp": "2026-08-27T06:32:49.472868",
+    "status": "results_found"
+  }
+]

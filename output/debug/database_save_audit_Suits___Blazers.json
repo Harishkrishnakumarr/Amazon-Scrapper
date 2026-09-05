@@ -1,0 +1,48 @@
+{
+  "category": "Suits & Blazers",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1400,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ROYALTY FAB",
+      "database_id": 1401,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918796104190",
+      "email": "info@royaltyfab.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://www.royaltyfab.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "S.D.M INTERNATIONAL",
+      "database_id": 1440,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "info@incorpx.co.in",
+      "gst": "33ABPCS3807G1Z9",
+      "pan": "ABPCS3807G",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

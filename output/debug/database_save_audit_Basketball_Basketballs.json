@@ -1,0 +1,35 @@
+{
+  "category": "Basketball Basketballs",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 474,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918252892026",
+      "email": "support@thecompanycheck.com",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "Not Found",
+      "website": "https://www.thecompanycheck.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "LISSE INDIA MART",
+      "database_id": 475,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911015600006",
+      "email": "sales@indiamart.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

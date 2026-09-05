@@ -1,0 +1,74 @@
+{
+  "category": "Sport Specific Clothing",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 150,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "PAROPKAR",
+      "database_id": 151,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "selloria",
+      "database_id": 152,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919700442026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://selloria.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "HEELIUM",
+      "database_id": 153,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910304052026",
+      "email": "hello@heelium.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.heelium.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SuperSox",
+      "database_id": 154,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917549920260",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.supersox.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+[
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0853LTFMF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T17:20:44.235538"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgroup.biz/",
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w"
+    ],
+    "timestamp": "2026-08-20T17:20:46.459721",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-20T17:20:52.229876"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:20:53.057093"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:20:53.346359"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:20:53.346380"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:20:53.346385"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T17:20:53.346389"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://golegally.com/mca-company-search",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-20T17:20:59.233992",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.reddit.com/r/writing/"
+    ],
+    "timestamp": "2026-08-20T17:21:11.807861",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://gstverify.co.in/search/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html"
+    ],
+    "timestamp": "2026-08-20T17:21:20.464291",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.indiaratings.co.in/pressrelease/78730",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://process.instafinancials.com/insta-tools/CIN-PAN.html"
+    ],
+    "timestamp": "2026-08-20T17:21:33.774957",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.marketwatch.com/investing/index/rut",
+      "https://www.lseg.com/en/ftse-russell/indices/russell-2000-index",
+      "https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?isManual=True&issueName=US2000USD",
+      "https://www.marketwatch.com/investing/Index/RUT/charts",
+      "https://www.investing.com/indices/smallcap-2000"
+    ],
+    "timestamp": "2026-08-20T17:21:40.303489",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/434170784",
+      "https://www.zhihu.com/question/659910671",
+      "https://www.zhihu.com/question/442054386",
+      "https://www.zhihu.com/question/440269482",
+      "https://www.zhihu.com/question/440465824"
+    ],
+    "timestamp": "2026-08-20T17:21:56.098237",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.zoominfo.com/c/rk-worldinfocom-private-ltd/1157501461",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-20T17:22:04.465294",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5519991",
+      "https://forum.lowyat.net/topic/5566080"
+    ],
+    "timestamp": "2026-08-20T17:22:14.209659",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.zoominfo.com/c/rk-worldinfocom-private-ltd/1157501461",
+      "https://www.marketscreener.com/insider/RAVINDRA-KISHORE-SINHA-A1I8NQ/",
+      "https://www.indiaratings.co.in/pressrelease/78730"
+    ],
+    "timestamp": "2026-08-20T17:22:24.164009",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Email",
+    "query": "RK World Infocom Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.thecompanycheck.com/company/rk-worldinfocom-private-limited/U32204KA2008PTC046634",
+      "https://www.zoominfo.com/c/rk-worldinfocom-private-ltd/1157501461",
+      "https://www.indiaratings.co.in/pressrelease/78730"
+    ],
+    "timestamp": "2026-08-20T17:22:26.030335",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "infogrp@indiaratings.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiaratings.co.in/pressrelease/78730",
+    "timestamp": "2026-08-20T17:22:31.156554"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0979JMR2N&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T17:22:32.186837"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/"
+    ],
+    "timestamp": "2026-08-20T17:22:33.979673",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-20T17:22:44.373547",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-20T17:23:06.066705",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-20T17:23:33.895504",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-20T17:23:47.883231",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-20T17:23:54.811487",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.datanyze.com/companies/kay-kay-overseas/447782697",
+      "https://www.thecompanycheck.com/company/b/kay-kay-overseas-corporation/760f84ca00c446e78",
+      "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+      "https://www.dnb.com/business-directory/company-profiles.kay_kay_overseas_corporation.8e1bf685ceae90bd75002f077f0c930e.html",
+      "https://www.crunchbase.com/person/sharad-khandelwal-78f2"
+    ],
+    "timestamp": "2026-08-20T17:24:06.780825",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-20T17:24:12.014930",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=1772d152bf2468761656c6e9bec7693f",
+      "https://kaystore.in/",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-20T17:24:14.832312",
+    "status": "results_found"
+  }
+]

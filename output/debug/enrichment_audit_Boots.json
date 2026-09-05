@@ -1,0 +1,1073 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0DJQXKJ3B&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:09:06.801387"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T10:09:09.009844",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:09:15.619867"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:09:17.295105"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:09:17.296681"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.unifers.ai/gst/03AAJCC8517E1ZV/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-09-02T10:09:31.259035",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/"
+    ],
+    "timestamp": "2026-09-02T10:09:57.658626",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T10:09:59.223619",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "37AAJCC8517E1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:10:00.429334"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:10:00.429359"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:10:00.437249"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:10:00.437267"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:10:00.437272"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:10:00.437276"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T10:10:05.576142"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.cocoblu.in/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U"
+    ],
+    "timestamp": "2026-09-02T10:10:08.388333",
+    "status": "results_found"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "Business Name",
+    "value": "OORA BY AS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3EXCWOG3AQ6A2&isAmazonFulfilled=1&asin=B0DJQY6LP8&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T10:10:16.789558"
+  },
+  {
+    "seller": "OORA BY AS",
+    "field": "Website",
+    "query": "OORA BY AS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.orra.co.in/",
+      "https://www.orra.co.in/necklace-sets"
+    ],
+    "timestamp": "2026-09-02T10:10:18.569618",
+    "status": "results_found"
+  },
+  {
+    "seller": "OORA BY AS",
+    "field": "Legal Entity Name",
+    "query": "OORA BY AS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/OORA-GREEN-AGRO-PRIVATE-LIMITED-U46305UP2025PTC235782",
+      "https://www.indiafilings.com/learn/how-to-register-a-company-in-india-checklist",
+      "https://www.companydetails.in/company/oarray-software-solutions-private-limited",
+      "https://www.companydetails.in/company/oora-group-private-limited"
+    ],
+    "timestamp": "2026-09-02T10:10:26.587919",
+    "status": "results_found"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "Email Address",
+    "value": "a4medical@rediffmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/OORA-GREEN-AGRO-PRIVATE-LIMITED-U46305UP2025PTC235782",
+    "timestamp": "2026-09-02T10:10:28.232536"
+  },
+  {
+    "seller": "OORA BY AS",
+    "field": "PAN",
+    "query": "OORA BY AS PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T10:10:54.524149",
+    "status": "results_found"
+  },
+  {
+    "seller": "OORA BY AS",
+    "field": "PAN",
+    "query": "OORA BY AS PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/income-tax/how-to-find-the-name-of-person-through-his-pan.html#:~:text=Simply%20visit%20this%20link%20https%3A%2F%2Fonlineservices.tin.nsdl.com%2Fetaxnew%2Ftdsnontds.jsp%20and%201.%20Select,other%20mandatory%20details%20which%20need%20not%20be%20yours.",
+      "https://taxguru.in/income-tax/how-to-find-the-name-of-person-through-his-pan.html",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T10:10:58.692473",
+    "status": "results_found"
+  },
+  {
+    "seller": "OORA BY AS",
+    "field": "GST",
+    "query": "OORA BY AS GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://www.indiafilings.com/learn/gst-registration-procedure",
+      "https://gstverify.co.in/search/",
+      "https://mygstindia.in/blog/gst-registration-process.html"
+    ],
+    "timestamp": "2026-09-02T10:11:00.515311",
+    "status": "results_found"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "Phone Number",
+    "value": "+918333024179",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+    "timestamp": "2026-09-02T10:11:01.955323"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T10:11:11.386580"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T10:11:11.386605"
+  },
+  {
+    "seller": "OORA BY AS",
+    "field": "Owner",
+    "query": "OORA BY AS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/orra/__QHtncCvR_wB_wdCe7qV0cipF-dyCuD_fyZoq5-3a9lI",
+      "https://www.falconebiz.com/company/OORA-GREEN-AGRO-PRIVATE-LIMITED-U46305UP2025PTC235782",
+      "https://www.indiaretailing.com/2018/10/22/vijay-jain-ceo-and-founder-director-orra",
+      "https://buy.oora.lk/about-us/"
+    ],
+    "timestamp": "2026-09-02T10:11:13.631756",
+    "status": "results_found"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/orra/__QHtncCvR_wB_wdCe7qV0cipF-dyCuD_fyZoq5-3a9lI",
+    "timestamp": "2026-09-02T10:11:14.733980"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/orra/__QHtncCvR_wB_wdCe7qV0cipF-dyCuD_fyZoq5-3a9lI",
+    "timestamp": "2026-09-02T10:11:14.733997"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/orra/__QHtncCvR_wB_wdCe7qV0cipF-dyCuD_fyZoq5-3a9lI",
+    "timestamp": "2026-09-02T10:11:14.734003"
+  },
+  {
+    "business": "OORA BY AS",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/orra/__QHtncCvR_wB_wdCe7qV0cipF-dyCuD_fyZoq5-3a9lI",
+    "timestamp": "2026-09-02T10:11:14.734007"
+  },
+  {
+    "seller": "OORA BY AS",
+    "field": "Owner",
+    "query": "OORA BY AS founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://buy.oora.lk/about-us/",
+      "https://www.oorla.com/pages/our-story",
+      "https://www.cbinsights.com/company/oura/people"
+    ],
+    "timestamp": "2026-09-02T10:11:25.968401",
+    "status": "results_found"
+  },
+  {
+    "business": "KRAASA",
+    "field": "Business Name",
+    "value": "KRAASA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2QX6NNXDXIFAE&asin=B0DTK7BZXD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:11:30.889299"
+  },
+  {
+    "seller": "KRAASA",
+    "field": "Website",
+    "query": "KRAASA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kraasa.com/",
+      "https://kraasa.com/return-policy"
+    ],
+    "timestamp": "2026-09-02T10:11:32.786271",
+    "status": "results_found"
+  },
+  {
+    "business": "KRAASA",
+    "field": "Website URL",
+    "value": "https://www.kraasa.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kraasa.in/",
+    "timestamp": "2026-09-02T10:11:39.281768"
+  },
+  {
+    "seller": "KRAASA",
+    "field": "Legal Entity Name",
+    "query": "KRAASA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kraasa.com/",
+      "https://kraasa.com/return-policy",
+      "https://kraasa.com/CLOGS---SLIPPERS/collection/Mrm7cUP8",
+      "https://kraasa.com/shipping-policy"
+    ],
+    "timestamp": "2026-09-02T10:11:48.686862",
+    "status": "results_found"
+  },
+  {
+    "business": "KRAASA",
+    "field": "Phone Number",
+    "value": "+917303214335",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kraasa.com/",
+    "timestamp": "2026-09-02T10:11:50.556772"
+  },
+  {
+    "business": "KRAASA",
+    "field": "Email Address",
+    "value": "sheelafashionindustries@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kraasa.com/",
+    "timestamp": "2026-09-02T10:11:50.556849"
+  },
+  {
+    "business": "KRAASA",
+    "field": "Billing Address",
+    "value": "sheela fashion industries private limited, plot no a-1/103, sector 17, kavi nagar industrial area, ghaziabad, 201002, uttar pradesh, ghaziabad, 201002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kraasa.com/",
+    "timestamp": "2026-09-02T10:11:50.584530"
+  },
+  {
+    "business": "KRAASA",
+    "field": "City",
+    "value": "ghaziabad",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kraasa.com/",
+    "timestamp": "2026-09-02T10:11:50.584547"
+  },
+  {
+    "business": "KRAASA",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kraasa.com/",
+    "timestamp": "2026-09-02T10:11:50.584552"
+  },
+  {
+    "business": "KRAASA",
+    "field": "Pincode",
+    "value": "201002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kraasa.com/",
+    "timestamp": "2026-09-02T10:11:50.584557"
+  },
+  {
+    "seller": "KRAASA",
+    "field": "Legal Entity Name",
+    "query": "KRAASA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kraasa.com/",
+      "https://kraasa.com/return-policy",
+      "https://kraasa.com/CLOGS---SLIPPERS/collection/Mrm7cUP8",
+      "https://kraasa.com/shipping-policy"
+    ],
+    "timestamp": "2026-09-02T10:11:55.274302",
+    "status": "results_found"
+  },
+  {
+    "seller": "KRAASA",
+    "field": "PAN",
+    "query": "KRAASA PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number#:~:text=You%20can%20find%20your%20PAN%20number%20through%20various,services%20also%20help%20retrieve%20PAN%20card%20details%20conveniently.",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-a-lost-pan-card-number-a-step-by-step-guide"
+    ],
+    "timestamp": "2026-09-02T10:12:01.073565",
+    "status": "results_found"
+  },
+  {
+    "seller": "KRAASA",
+    "field": "PAN",
+    "query": "KRAASA PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/KRAASA-27CFYPS5557P1ZY/",
+      "https://gst.iadv.io/KRAASA-19CFYPS5557P1ZV/",
+      "https://gstserver.com/gst/06CFYPS5557P2Z1/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T10:12:09.889254",
+    "status": "results_found"
+  },
+  {
+    "business": "KRAASA",
+    "field": "GST Number",
+    "value": "27CFYPS5557P1ZY",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/KRAASA-27CFYPS5557P1ZY/",
+    "timestamp": "2026-09-02T10:12:10.806996"
+  },
+  {
+    "business": "KRAASA",
+    "field": "PAN Number",
+    "value": "CFYPS5557P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/KRAASA-27CFYPS5557P1ZY/",
+    "timestamp": "2026-09-02T10:12:10.807024"
+  },
+  {
+    "seller": "KRAASA",
+    "field": "Owner",
+    "query": "KRAASA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/kraasa/__aJTLGaY9q2nLTwFDvbOGoSZtJ0cpY2EjhVYFErwOijQ",
+      "https://kraasa.com/about-us",
+      "https://krasainternational.com/about-us/",
+      "https://www.zoominfo.com/p/Ashish-Kukreja/1942849765"
+    ],
+    "timestamp": "2026-09-02T10:12:12.639619",
+    "status": "results_found"
+  },
+  {
+    "seller": "KRAASA",
+    "field": "Owner",
+    "query": "KRAASA founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/kraasa/__aJTLGaY9q2nLTwFDvbOGoSZtJ0cpY2EjhVYFErwOijQ",
+      "https://kraasa.com/about-us",
+      "https://kraasa.com/",
+      "https://www.kraasa.in/"
+    ],
+    "timestamp": "2026-09-02T10:12:23.111154",
+    "status": "results_found"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "Business Name",
+    "value": "Eastern Eagles",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2IP3RYD6TSY0F&asin=B0B12QVGDW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:12:33.834521"
+  },
+  {
+    "seller": "Eastern Eagles",
+    "field": "Website",
+    "query": "Eastern Eagles official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://goeasterneagles.com/",
+      "https://goeasterneagles.com/sports/womens-basketball"
+    ],
+    "timestamp": "2026-09-02T10:12:37.810300",
+    "status": "results_found"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "Website URL",
+    "value": "https://www.easterneagles.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.easterneagles.com/",
+    "timestamp": "2026-09-02T10:12:41.276363"
+  },
+  {
+    "seller": "Eastern Eagles",
+    "field": "Legal Entity Name",
+    "query": "Eastern Eagles company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U72200TZ2002PTC010144%20and%20its%20current%20status%20is%20Active.",
+      "https://www.companydetails.in/company/eastern-eagles-infocom-tamilnadu-pvt-ltd",
+      "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0",
+      "https://www.falconebiz.com/company/EASTERN-EAGLES-INFOCOM-TAMILNADU-PRIVATE-LIMITED-U72200TZ2002PTC010144"
+    ],
+    "timestamp": "2026-09-02T10:12:53.287600",
+    "status": "results_found"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U72200TZ2002PTC010144%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T10:12:54.492800"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U72200TZ2002PTC010144%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T10:12:54.492818"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U72200TZ2002PTC010144%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T10:12:54.492823"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U72200TZ2002PTC010144%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T10:12:54.492829"
+  },
+  {
+    "seller": "Eastern Eagles",
+    "field": "PAN",
+    "query": "Eastern Eagles PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T10:13:11.739773",
+    "status": "no_results"
+  },
+  {
+    "seller": "Eastern Eagles",
+    "field": "PAN",
+    "query": "Eastern Eagles PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/eastern-eagles-07NYWPS4232P1Z2/",
+      "https://www.knowyourgst.com/gst-number-search/eastern-eagles-29NYWPS4232P1ZW/",
+      "https://piceapp.com/gst-number-search/eastern-eagles-29nywps4232p1zw/",
+      "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0"
+    ],
+    "timestamp": "2026-09-02T10:13:14.308436",
+    "status": "results_found"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "GST Number",
+    "value": "07NYWPS4232P1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/eastern-eagles-07NYWPS4232P1Z2/",
+    "timestamp": "2026-09-02T10:13:14.943121"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "PAN Number",
+    "value": "NYWPS4232P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/eastern-eagles-07NYWPS4232P1Z2/",
+    "timestamp": "2026-09-02T10:13:14.943138"
+  },
+  {
+    "seller": "Eastern Eagles",
+    "field": "Owner",
+    "query": "Eastern Eagles director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.falconebiz.com/company/EASTERN-EAGLE-INFRA-PRIVATE-LIMITED-U68100HR2025PTC130006",
+      "https://find-and-update.company-information.service.gov.uk/company/14788665",
+      "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0"
+    ],
+    "timestamp": "2026-09-02T10:13:17.210626",
+    "status": "results_found"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "Email Address",
+    "value": "info@creativecommons.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "timestamp": "2026-09-02T10:13:18.318340"
+  },
+  {
+    "seller": "Eastern Eagles",
+    "field": "Owner",
+    "query": "Eastern Eagles founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://easterneagleglobal.com/about.php",
+      "https://tracxn.com/d/legal-entities/india/eastern-eagle-global-private-limited/__mzKyijHBaspn0lkTZb4jqkLkOunFenICK3Zk2B2BFPc",
+      "https://tracxn.com/d/legal-entities/india/eastern-eagles-infocom-tamilnadu-private-limited/__jkSiBnlgN3FQnZdllgWhcDB6ULcLZMhyMptPXgyD3c0"
+    ],
+    "timestamp": "2026-09-02T10:13:23.538522",
+    "status": "results_found"
+  },
+  {
+    "business": "Eastern Eagles",
+    "field": "Phone Number",
+    "value": "+919711662045",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://easterneagleglobal.com/about.php",
+    "timestamp": "2026-09-02T10:13:25.606318"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A5FM84ENCHATW&isAmazonFulfilled=0&asin=B0DJQXKJ3B&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T10:13:28.123816"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Website",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://aadishoes.in/",
+      "https://agra.idbf.in/4181208/dadwani-s-footwear-private-limited"
+    ],
+    "timestamp": "2026-09-02T10:13:30.220809",
+    "status": "results_found"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/dadwanis-footwear-private-limited-cin-U19200UP2017PTC098478",
+      "https://www.thecompanycheck.com/company/dadwanis-footwear-private-limited/U19200UP2017PTC098478",
+      "https://www.companydetails.in/company/dadwanis-footwear-private-limited-U19200UP2017PTC098478",
+      "https://www.falconebiz.com/company/DADWANI-S-FOOTWEAR-PRIVATE-LIMITED-U19200UP2017PTC098478"
+    ],
+    "timestamp": "2026-09-02T10:13:44.658417",
+    "status": "results_found"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "nyconsultants2005@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/dadwanis-footwear-private-limited-cin-U19200UP2017PTC098478",
+    "timestamp": "2026-09-02T10:13:47.360723"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/DADWANI-S-FOOTWEAR-PRIVATE-LIMITED-U19200UP2017PTC098478#:~:text=DADWANI%27S%20FOOTWEAR%20PVT%20LTD%20company%20registration%20number%20is,involved%20in%20activities%20such%20as%20Manufacture%20of%20footwear.",
+      "https://gst.unifers.ai/gst/27AAGCD4199Q2ZR/dadwani-s-footwear-private-limited",
+      "https://gst.unifers.ai/gst/19AAGCD4199Q1ZP/dadwani-s-footwear-private-limited",
+      "https://gst.iadv.io/DADWANI-S-FOOTWEAR-PRIVATE-LIMITED-09AAGCD4199Q1ZQ/"
+    ],
+    "timestamp": "2026-09-02T10:14:13.908062",
+    "status": "results_found"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "GST",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/dadwanis-footwear-private-limited-09AAGCD4199Q1ZQ",
+      "https://gst.unifers.ai/gst/27AAGCD4199Q2ZR/dadwani-s-footwear-private-limited",
+      "https://gst.iadv.io/DADWANI-S-FOOTWEAR-PRIVATE-LIMITED-09AAGCD4199Q1ZQ/",
+      "https://www.knowyourgst.com/gst-number-search/dadwanis-footwear-private-limited-07AAGCD4199Q1ZU/"
+    ],
+    "timestamp": "2026-09-02T10:14:15.704205",
+    "status": "results_found"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "GST Number",
+    "value": "09AAGCD4199Q1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/dadwanis-footwear-private-limited-09AAGCD4199Q1ZQ",
+    "timestamp": "2026-09-02T10:14:16.744533"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "PAN Number",
+    "value": "AAGCD4199Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/dadwanis-footwear-private-limited-09AAGCD4199Q1ZQ",
+    "timestamp": "2026-09-02T10:14:16.744550"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/company/dadwani-s-footwear-private-limited/U19200UP2017PTC098478?tab=about",
+      "https://www.indiafilings.com/search/dadwanis-footwear-private-limited-cin-U19200UP2017PTC098478",
+      "https://www.thecompanycheck.com/company/dadwanis-footwear-private-limited/U19200UP2017PTC098478",
+      "https://www.companydetails.in/Directorship/07911218%20/HARISH-KUMAR-DADWANI"
+    ],
+    "timestamp": "2026-09-02T10:14:19.009629",
+    "status": "results_found"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Address",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/dadwanis-footwear-private-limited/__7VVQ6bQpA1K8mTMc5xjltg2PZqRUURJAWMKsnpd1Ed0#:~:text=Its%20registered%20address%20is%205E%2F43%2C%20ASHOK%20NAGAR%20KEDAR,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+      "https://tracxn.com/d/legal-entities/india/dadwanis-footwear-private-limited/__7VVQ6bQpA1K8mTMc5xjltg2PZqRUURJAWMKsnpd1Ed0",
+      "https://www.falconebiz.com/company/DADWANI-S-FOOTWEAR-PRIVATE-LIMITED-U19200UP2017PTC098478",
+      "https://www.thecompanycheck.com/company/dadwanis-footwear-private-limited/U19200UP2017PTC098478"
+    ],
+    "timestamp": "2026-09-02T10:14:46.871739",
+    "status": "results_found"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dadwanis-footwear-private-limited/__7VVQ6bQpA1K8mTMc5xjltg2PZqRUURJAWMKsnpd1Ed0#:~:text=Its%20registered%20address%20is%205E%2F43%2C%20ASHOK%20NAGAR%20KEDAR,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T10:14:48.816620"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dadwanis-footwear-private-limited/__7VVQ6bQpA1K8mTMc5xjltg2PZqRUURJAWMKsnpd1Ed0#:~:text=Its%20registered%20address%20is%205E%2F43%2C%20ASHOK%20NAGAR%20KEDAR,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T10:14:48.816645"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dadwanis-footwear-private-limited/__7VVQ6bQpA1K8mTMc5xjltg2PZqRUURJAWMKsnpd1Ed0#:~:text=Its%20registered%20address%20is%205E%2F43%2C%20ASHOK%20NAGAR%20KEDAR,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T10:14:48.816657"
+  },
+  {
+    "business": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/dadwanis-footwear-private-limited/__7VVQ6bQpA1K8mTMc5xjltg2PZqRUURJAWMKsnpd1Ed0#:~:text=Its%20registered%20address%20is%205E%2F43%2C%20ASHOK%20NAGAR%20KEDAR,classification%20as%20per%20MCA%20is%20manufacture%20Of%20Footwear.",
+    "timestamp": "2026-09-02T10:14:48.816662"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Phone",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/DADWANI-S-FOOTWEAR-PRIVATE-LIMITED-U19200UP2017PTC098478",
+      "https://agra.idbf.in/4181208/dadwani-s-footwear-private-limited",
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNBB84621647204C1A&market=en-IN&src=SERPIC",
+      "https://www.justdial.com/Agra/Dadwanis-Footwear-Pvt-Ltd-Pratap-Nagar/0562PX562-X562-230504064449-S3R4_BZDET"
+    ],
+    "timestamp": "2026-09-02T10:14:51.336522",
+    "status": "results_found"
+  },
+  {
+    "seller": "DADWANI'S FOOTWEAR PRIVATE LIMITED",
+    "field": "Phone",
+    "query": "DADWANI'S FOOTWEAR PRIVATE LIMITED contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNBB84621647204C1A&market=en-IN&src=SERPIC",
+      "https://www.falconebiz.com/company/DADWANI-S-FOOTWEAR-PRIVATE-LIMITED-U19200UP2017PTC098478",
+      "https://agra.idbf.in/4181208/dadwani-s-footwear-private-limited",
+      "https://www.dnb.com/business-directory/company-profiles.dadwanis_footwear_private_limited.63a16ba67e95a58499c4d60d463d5f3f.html"
+    ],
+    "timestamp": "2026-09-02T10:15:02.754408",
+    "status": "results_found"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "Business Name",
+    "value": "Do Bhai Bags & Luggage",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3CXL7ODMNRQ5Z&isAmazonFulfilled=1&asin=B0BPC8S19D&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-02T10:15:06.154011"
+  },
+  {
+    "seller": "Do Bhai Bags & Luggage",
+    "field": "Website",
+    "query": "Do Bhai Bags & Luggage official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.exportersindia.com/do-bhai-bags-luggage/",
+      "https://www.duibhai.com/"
+    ],
+    "timestamp": "2026-09-02T10:15:07.810604",
+    "status": "results_found"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "Website URL",
+    "value": "https://www.exportersindia.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.exportersindia.com/do-bhai-bags-luggage/",
+    "timestamp": "2026-09-02T10:15:10.170024"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "Phone Number",
+    "value": "+919953717914",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.exportersindia.com/",
+    "timestamp": "2026-09-02T10:15:11.261916"
+  },
+  {
+    "seller": "Do Bhai Bags & Luggage",
+    "field": "Legal Entity Name",
+    "query": "Do Bhai Bags & Luggage company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/do-bhai-bags-luggage-07AKVPP3694A1ZQ/#:~:text=GST%20number%20of%20Do%20Bhai%20Bags%20%26%20Luggage,01%2F07%2F2017.%20This%20is%20GST%20number%20of%20Delhi%20state.",
+      "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+      "https://gstserver.com/gst/07AKVPP3694A1ZQ/",
+      "https://www.knowyourgst.com/gst-number-search/do-bhai-bags-luggage-07AKVPP3694A1ZQ/"
+    ],
+    "timestamp": "2026-09-02T10:15:18.286821",
+    "status": "results_found"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "GST Number",
+    "value": "07AKVPP3694A1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/do-bhai-bags-luggage-07AKVPP3694A1ZQ/#:~:text=GST%20number%20of%20Do%20Bhai%20Bags%20%26%20Luggage,01%2F07%2F2017.%20This%20is%20GST%20number%20of%20Delhi%20state.",
+    "timestamp": "2026-09-02T10:15:19.188650"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "PAN Number",
+    "value": "AKVPP3694A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/do-bhai-bags-luggage-07AKVPP3694A1ZQ/#:~:text=GST%20number%20of%20Do%20Bhai%20Bags%20%26%20Luggage,01%2F07%2F2017.%20This%20is%20GST%20number%20of%20Delhi%20state.",
+    "timestamp": "2026-09-02T10:15:19.188667"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "Email Address",
+    "value": "hello@pice.one",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+    "timestamp": "2026-09-02T10:15:21.281424"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+    "timestamp": "2026-09-02T10:15:21.285248"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+    "timestamp": "2026-09-02T10:15:21.285264"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+    "timestamp": "2026-09-02T10:15:21.285270"
+  },
+  {
+    "business": "Do Bhai Bags & Luggage",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+    "timestamp": "2026-09-02T10:15:21.285274"
+  },
+  {
+    "seller": "Do Bhai Bags & Luggage",
+    "field": "Legal Entity Name",
+    "query": "Do Bhai Bags & Luggage Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/#:~:text=Under%20the%20GST%20Act%202017%2C%20DO%20BHAI%20BAGS,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+      "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+      "https://gst.jamku.app/gstin/07AKVPP3694A1ZQ",
+      "https://www.knowyourgst.com/gst-number-search/do-bhai-bags-luggage-07AKVPP3694A1ZQ/"
+    ],
+    "timestamp": "2026-09-02T10:15:25.477587",
+    "status": "results_found"
+  },
+  {
+    "seller": "Do Bhai Bags & Luggage",
+    "field": "Owner",
+    "query": "Do Bhai Bags & Luggage director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/06AKVPP3694A2ZR",
+      "https://gst.jamku.app/gstin/07AKVPP3694A1ZQ",
+      "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+      "https://opencorpdata.com/lei/984500AC653E83BF7067"
+    ],
+    "timestamp": "2026-09-02T10:15:32.360295",
+    "status": "results_found"
+  },
+  {
+    "seller": "Do Bhai Bags & Luggage",
+    "field": "Owner",
+    "query": "Do Bhai Bags & Luggage founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/#:~:text=Who%20is%20the%20owner%20of%20DO%20BHAI%20BAGS,in%20Wholesale%20Business%2C%20Retail%20Business%20type%20of%20business.",
+      "https://gst.jamku.app/gstin/06AKVPP3694A2ZR",
+      "https://piceapp.com/gst-number-search/do-bhai-bags-luggage-07akvpp3694a1zq/",
+      "https://opencorpdata.com/lei/984500AC653E83BF7067"
+    ],
+    "timestamp": "2026-09-02T10:15:41.691374",
+    "status": "results_found"
+  }
+]

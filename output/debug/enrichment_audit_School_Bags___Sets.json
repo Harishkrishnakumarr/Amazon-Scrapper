@@ -1,0 +1,984 @@
+[
+  {
+    "business": "GIFTIFY INC",
+    "field": "Business Name",
+    "value": "GIFTIFY INC",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2UQX3GG6OM884&asin=B0DRP36FLZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T00:01:33.378096"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "Website",
+    "query": "GIFTIFY INC official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.tencent.com/zh-cn/products/qq-browser/"
+    ],
+    "timestamp": "2026-09-05T00:01:34.897728",
+    "status": "results_found"
+  },
+  {
+    "business": "GIFTIFY INC",
+    "field": "Website URL",
+    "value": "https://www.giftifyinc.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.giftifyinc.com/",
+    "timestamp": "2026-09-05T00:01:36.761551"
+  },
+  {
+    "business": "GIFTIFY INC",
+    "field": "Email Address",
+    "value": "media@giftifyinc.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.giftifyinc.com/",
+    "timestamp": "2026-09-05T00:01:38.695511"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "Legal Entity Name",
+    "query": "GIFTIFY INC company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=6e584b86d7d81dcfc8a3211dd97fcd92&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://giftifyinc.com/",
+      "https://www.sec.gov/edgar/browse/index.html?cik=1760233",
+      "https://giftifyinc.com/investor-relations"
+    ],
+    "timestamp": "2026-09-05T00:01:49.429137",
+    "status": "results_found"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "Legal Entity Name",
+    "query": "GIFTIFY INC Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tripadvisor.com/Restaurants-g58702-Redmond_Washington.html",
+      "https://www.restaurantji.com/wa/redmond/",
+      "https://www.yelp.com/search?cflt=restaurants&find_loc=Redmond%2C+WA+98052&msockid=0d35c41788e3653a222bd3dd89ba648a",
+      "https://www.yelp.com/search?find_desc=Redmond+restaurants&find_loc=Bellevue%2C+WA&msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:02:00.573937",
+    "status": "results_found"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "PAN",
+    "query": "GIFTIFY INC PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-05T00:02:06.981179",
+    "status": "no_results"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "PAN",
+    "query": "GIFTIFY INC PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.hy928.net/wnl/sjz/50922.shtml",
+      "https://www.toutiao.com/article/7352138075461452307/",
+      "https://sjz.fang.anjuke.com/loupan/xinle/"
+    ],
+    "timestamp": "2026-09-05T00:02:08.421032",
+    "status": "results_found"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "GST",
+    "query": "GIFTIFY INC GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.csdn.net/isnsb/article/details/146393788",
+      "https://blog.csdn.net/weixin_46124467/article/details/108838386",
+      "https://www.cnblogs.com/kaixin-wbl/p/16025595.html",
+      "https://www.toutiao.com/article/7515265483155784226/"
+    ],
+    "timestamp": "2026-09-05T00:02:19.313742",
+    "status": "results_found"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "GST",
+    "query": "GIFTIFY INC GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://giftifyinc.com/",
+      "https://www.knowyourgst.com/gst-number-search/giftify-india-private-limited-06AAICG0749B1ZY/",
+      "https://www.dnb.com/business-directory/company-profiles.giftify_inc.2950918faa4605fa8520a91780ffbf91.html",
+      "https://www.companyweb.be/en/0820246648/giftify"
+    ],
+    "timestamp": "2026-09-05T00:02:34.853942",
+    "status": "results_found"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "Owner",
+    "query": "GIFTIFY INC director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://giftifyinc.com/leadership",
+      "https://giftifyinc.com/board-of-directors",
+      "https://www.wsj.com/market-data/quotes/GIFT/company-people",
+      "https://stockanalysis.com/stocks/gift/company/"
+    ],
+    "timestamp": "2026-09-05T00:02:40.157464",
+    "status": "results_found"
+  },
+  {
+    "business": "GIFTIFY INC",
+    "field": "Billing Address",
+    "value": "1100 woodfield road, suite 510",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://stockanalysis.com/stocks/gift/company/",
+    "timestamp": "2026-09-05T00:02:44.484529"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "Owner",
+    "query": "GIFTIFY INC founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-37319755-compte-instagram-verrouille-et-irrecuperable",
+      "https://forums.commentcamarche.net/forum/affich-35360771-probleme-bouton-shopping-instagram"
+    ],
+    "timestamp": "2026-09-05T00:02:46.634311",
+    "status": "results_found"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "Phone",
+    "query": "GIFTIFY INC phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://translate.google.co.in/details",
+      "https://translate.google.co.in/m",
+      "https://translate.google.co.in/robots.txt"
+    ],
+    "timestamp": "2026-09-05T00:02:52.280502",
+    "status": "results_found"
+  },
+  {
+    "seller": "GIFTIFY INC",
+    "field": "Phone",
+    "query": "GIFTIFY INC contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://giftifyinc.com/",
+      "https://www.giftify.me/get-in-touch",
+      "https://www.zoominfo.com/c/giftify-inc/5000051603",
+      "https://www.giftify.me/help-faq"
+    ],
+    "timestamp": "2026-09-05T00:02:59.198914",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0GR9PZV5G&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T00:03:05.750519"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.urbanocotidiano.com/mapa_calles/argentina/buenos-aires/caba/palermo/Av-Cabildo.html",
+      "https://turismo.buenosaires.gob.ar/es/atractivo/avenida-cabildo"
+    ],
+    "timestamp": "2026-09-05T00:03:06.883766",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=private%20limited%20company%20registration%20in%20india&utm_adgroup=1353501333030805&network=o&device=c&msclkid=c7a95f301749189054f335ab18496eee&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=private%20limited%20company%20registration%20in%20india&utm_content=SP%20-%20PVT%20-%20LCPC",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=open%20private%20limited%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=open%20private%20limited%20company&target_name=kwd-83769913535097:loc-90&placement=&keyword_id=open%20private%20limited%20company&msclkid=72e02ec308b81d9aee15445807b8cbaf",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-05T00:03:18.751231",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=private%20limited%20company%20registration%20in%20india&utm_adgroup=1353501333030805&network=o&device=c&msclkid=c7a95f301749189054f335ab18496eee&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=private%20limited%20company%20registration%20in%20india&utm_content=SP%20-%20PVT%20-%20LCPC",
+    "timestamp": "2026-09-05T00:03:24.261878"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=open%20private%20limited%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=open%20private%20limited%20company&target_name=kwd-83769913535097:loc-90&placement=&keyword_id=open%20private%20limited%20company&msclkid=72e02ec308b81d9aee15445807b8cbaf",
+    "timestamp": "2026-09-05T00:03:29.104553"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://www.tasteatlas.com/best-rated-street-food-in-vietnam"
+    ],
+    "timestamp": "2026-09-05T00:03:31.382970",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fifthcircuit.org/searchopinions.aspx",
+      "https://ecourt.fifthcircuit.org/dashboard.aspx",
+      "https://www.theadvocate.com/baton_rouge/sports/lsu/judge-ncaa-ruling-baton-rouge-lsu-football-nfl-players/article_f6bee978-e5d4-5488-aa23-f877dd30e89d.html",
+      "https://courtcasefinder.com/"
+    ],
+    "timestamp": "2026-09-05T00:03:43.912219",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/"
+    ],
+    "timestamp": "2026-09-05T00:04:07.647485",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.rottentomatoes.com/m/xxx",
+      "https://sex.co.it/",
+      "https://www.zee5.com/movies/details/xxx/0-0-1z5238265",
+      "https://www.rottentomatoes.com/m/xxx/videos/1828701251997"
+    ],
+    "timestamp": "2026-09-05T00:04:09.133866",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.india.com/",
+      "https://www.india.com/viral/12-minute-angel-nuzhat-viral-video-is-it-fake-or-real-all-you-need-to-know-about-the-clip-8306381/"
+    ],
+    "timestamp": "2026-09-05T00:04:18.908731",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qubit.capital/blog/leading-pe-firms-investing-in-retail",
+      "https://www.cgaa.org/article/private-equity-funds-for-retail-investors",
+      "https://capitalranking.com/news/2026/05/202605288670",
+      "https://alternativesinvestor.com/resources/private-equity-funds"
+    ],
+    "timestamp": "2026-09-05T00:04:22.108521",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/NVlabs/INSTA",
+      "https://github.com/Insta360-Research-Team/UniSHARP",
+      "https://gist.github.com/GabrieleDattile/5ddd3f9fb61044c130a2e993a4538249",
+      "https://gist.github.com/eteamin/78a7753e2555275c03bab199c8cc7022"
+    ],
+    "timestamp": "2026-09-05T00:04:34.643686",
+    "status": "results_found"
+  },
+  {
+    "business": "Hamilton Housewares",
+    "field": "Business Name",
+    "value": "Hamilton Housewares",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3UVJB0FRWYAMC&isAmazonFulfilled=1&asin=B0GR9PZV5G&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-05T00:04:39.976202"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Website",
+    "query": "Hamilton Housewares official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/"
+    ],
+    "timestamp": "2026-09-05T00:04:45.909217",
+    "status": "results_found"
+  },
+  {
+    "business": "Hamilton Housewares",
+    "field": "Website URL",
+    "value": "https://www.hamiltonwatch.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.hamiltonwatch.com/",
+    "timestamp": "2026-09-05T00:04:55.849079"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Legal Entity Name",
+    "query": "Hamilton Housewares company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:05:12.372936",
+    "status": "results_found"
+  },
+  {
+    "business": "Hamilton Housewares",
+    "field": "Email Address",
+    "value": "info@hamiltonindia.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.hamiltonindia.in/",
+    "timestamp": "2026-09-05T00:05:16.067789"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "PAN",
+    "query": "Hamilton Housewares PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:05:30.877536",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "PAN",
+    "query": "Hamilton Housewares PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/"
+    ],
+    "timestamp": "2026-09-05T00:05:40.901251",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "GST",
+    "query": "Hamilton Housewares GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:05:46.121470",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "GST",
+    "query": "Hamilton Housewares GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/hamilton-housewares-private-limited-27AABCD1683Q2Z5/",
+      "https://gstverify.co.in/gst/hamilton-housewares-private-limited-27aabcd1683q2z5/",
+      "https://gstverify.co.in/gst/hamilton-housewares-pvt-ltd-26aabcd1683q1z8/",
+      "https://gst.iadv.io/HAMILTON-HOUSEWARES-PVT-LTD-26AABCD1683Q1Z8/"
+    ],
+    "timestamp": "2026-09-05T00:05:54.027563",
+    "status": "results_found"
+  },
+  {
+    "business": "Hamilton Housewares",
+    "field": "GST Number",
+    "value": "27AABCD1683Q2Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/hamilton-housewares-private-limited-27AABCD1683Q2Z5/",
+    "timestamp": "2026-09-05T00:05:54.783293"
+  },
+  {
+    "business": "Hamilton Housewares",
+    "field": "PAN Number",
+    "value": "AABCD1683Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/hamilton-housewares-private-limited-27AABCD1683Q2Z5/",
+    "timestamp": "2026-09-05T00:05:54.783315"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Owner",
+    "query": "Hamilton Housewares director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:05:56.349494",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Owner",
+    "query": "Hamilton Housewares founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:06:01.645856",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Address",
+    "query": "Hamilton Housewares registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:06:07.358092",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Address",
+    "query": "Hamilton Housewares registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:06:15.934411",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Phone",
+    "query": "Hamilton Housewares phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:06:24.647170",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hamilton Housewares",
+    "field": "Phone",
+    "query": "Hamilton Housewares contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hamiltonwatch.com/",
+      "https://www.hamiltonindia.in/",
+      "https://hamiltonmusical.com/new-york/",
+      "https://www.disneyplus.com/browse/entity-f7f12d79-cfbe-4eb4-b275-091fd34b6dde?msockid=0d35c41788e3653a222bd3dd89ba648a"
+    ],
+    "timestamp": "2026-09-05T00:06:34.794969",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Decor IN",
+    "field": "Business Name",
+    "value": "Global Decor IN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A30S8PHRFT7J36&isAmazonFulfilled=0&asin=B0GR9PZV5G&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-05T00:06:37.777838"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Website",
+    "query": "Global Decor IN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global"
+    ],
+    "timestamp": "2026-09-05T00:06:38.967096",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Decor IN",
+    "field": "Website URL",
+    "value": "https://www.merriam-webster.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.merriam-webster.com/dictionary/global",
+    "timestamp": "2026-09-05T00:06:47.312607"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Legal Entity Name",
+    "query": "Global Decor IN company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://globalgoals.org/",
+      "https://www.fortuneindia.com/world"
+    ],
+    "timestamp": "2026-09-05T00:06:54.106320",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Legal Entity Name",
+    "query": "Global Decor IN Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://globalgoals.org/",
+      "https://www.fortuneindia.com/world"
+    ],
+    "timestamp": "2026-09-05T00:07:09.078142",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "PAN",
+    "query": "Global Decor IN PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.desitoolkit.in/tools/government/pan-decoder",
+      "https://blog.idserve.in/index.php/how-to-find-details-using-a-pan-card-number"
+    ],
+    "timestamp": "2026-09-05T00:07:17.549603",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "PAN",
+    "query": "Global Decor IN PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://globalgoals.org/",
+      "https://www.fortuneindia.com/world"
+    ],
+    "timestamp": "2026-09-05T00:07:21.295710",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "GST",
+    "query": "Global Decor IN GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/global-decor-27CBJPS5369C1ZA/",
+      "https://piceapp.com/gst-number-search/global-decor-27cbjps5369c1za/",
+      "https://www.knowyourgst.com/gst-number-search/global-decor-24AIAPT7252P1ZQ/",
+      "https://calculator.taxadda.com/gstin-details/Misbahbanu_Ahmednoor_Tambuwala-24AIAPT7252P1ZQ-h6ysz7spt7umbdg"
+    ],
+    "timestamp": "2026-09-05T00:07:33.157885",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Decor IN",
+    "field": "GST Number",
+    "value": "27CBJPS5369C1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/global-decor-27CBJPS5369C1ZA/",
+    "timestamp": "2026-09-05T00:07:33.733465"
+  },
+  {
+    "business": "Global Decor IN",
+    "field": "PAN Number",
+    "value": "CBJPS5369C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/global-decor-27CBJPS5369C1ZA/",
+    "timestamp": "2026-09-05T00:07:33.733483"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Owner",
+    "query": "Global Decor IN director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://globalgoals.org/",
+      "https://www.fortuneindia.com/world"
+    ],
+    "timestamp": "2026-09-05T00:07:35.187066",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Owner",
+    "query": "Global Decor IN founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://globalgoals.org/",
+      "https://www.fortuneindia.com/world"
+    ],
+    "timestamp": "2026-09-05T00:07:47.234195",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Address",
+    "query": "Global Decor IN registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opengovny.com/corporation/7680728",
+      "https://globaldecor.in/",
+      "https://globedecor.com/contact-us/",
+      "https://opengovco.com/business/20251247546"
+    ],
+    "timestamp": "2026-09-05T00:07:52.111396",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Decor IN",
+    "field": "Email Address",
+    "value": "info@globedecor.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://globedecor.com/contact-us/",
+    "timestamp": "2026-09-05T00:08:01.282856"
+  },
+  {
+    "business": "Global Decor IN",
+    "field": "Billing Address",
+    "value": "135 west victoria street",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://globedecor.com/contact-us/",
+    "timestamp": "2026-09-05T00:08:01.283184"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Phone",
+    "query": "Global Decor IN phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://globalgoals.org/",
+      "https://www.fortuneindia.com/world"
+    ],
+    "timestamp": "2026-09-05T00:08:02.595834",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Decor IN",
+    "field": "Phone",
+    "query": "Global Decor IN contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://globalgoals.org/",
+      "https://www.fortuneindia.com/world"
+    ],
+    "timestamp": "2026-09-05T00:08:12.921937",
+    "status": "results_found"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Business Name",
+    "value": "SaiTech IT Private Limited (Since 2013)",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FPNGXJ2Z95CC&asin=B0F7RRN7Y2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-05T00:08:22.253225"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Website",
+    "query": "SaiTech IT Private Limited (Since 2013) official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://unicourt.com/courts/federal/us-district-courts-2"
+    ],
+    "timestamp": "2026-09-05T00:08:24.396081",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Legal Entity Name",
+    "query": "SaiTech IT Private Limited (Since 2013) company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+      "https://www.instafinancials.com/company/saitech-it-private-limited-U72900GJ2013PTC073793/company-overview",
+      "https://www.falconebiz.com/company/SAITECH-IT-PRIVATE-LIMITED-U72900GJ2013PTC073793",
+      "https://www.indiafilings.com/search/saitech-it-private-limited-cin-U72900GJ2013PTC073793"
+    ],
+    "timestamp": "2026-09-05T00:08:34.433027",
+    "status": "results_found"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-09-05T00:08:36.883713"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-09-05T00:08:36.883729"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-09-05T00:08:36.883735"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+    "timestamp": "2026-09-05T00:08:36.883738"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Email Address",
+    "value": "accounts@saitechit.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/company/saitech-it-private-limited-U72900GJ2013PTC073793/company-overview",
+    "timestamp": "2026-09-05T00:08:37.624329"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Legal Entity Name",
+    "query": "SaiTech IT Private Limited (Since 2013) Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kango-roo.com/learning/7245/",
+      "https://rehabilikunblog.com/breath-sounds-adventitious-sounds/",
+      "https://note.com/kanrens_hiro/n/nc0f5bdd5ae1c",
+      "https://www.kango-roo.com/learning/11416/"
+    ],
+    "timestamp": "2026-09-05T00:08:42.605004",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "PAN",
+    "query": "SaiTech IT Private Limited (Since 2013) PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/68462398/python-request-login-to-instagram",
+      "https://stackoverflow.com/questions/14422376/instagram-login-without-oauth",
+      "https://pt.stackoverflow.com/questions/210349/login-com-instagram-em-app-android",
+      "https://stackoverflow.com/questions/48966453/is-there-a-way-to-remove-force-classic-login-parameter"
+    ],
+    "timestamp": "2026-09-05T00:08:51.992010",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "PAN",
+    "query": "SaiTech IT Private Limited (Since 2013) PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/saitech-it-private-limited/__q3dTYRrOgbsRNUIzMEQRBxjpqrd9FCS_SYazYs3Iw1Q",
+      "https://gst.iadv.io/SAITECH-IT-PRIVATE-LIMITED-36AASCS7745M1ZC/",
+      "https://gst.iadv.io/SAITECH-IT-PRIVATE-LIMITED-27AASCS7745M2ZA/",
+      "https://www.credhive.in/ind/corporate/U72900GJ2013PTC073793/SAITECH%20IT%20PRIVATE%20LIMITED/overview"
+    ],
+    "timestamp": "2026-09-05T00:09:11.278329",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "GST",
+    "query": "SaiTech IT Private Limited (Since 2013) GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the",
+      "https://stackoverflow.com/questions/321865/how-to-clear-or-replace-a-cached-image",
+      "https://es.stackoverflow.com/questions/63716/como-evitar-el-cach%c3%a9-de-los-archivos-css-y-js",
+      "https://stackoverflow.com/questions/126772/how-to-force-a-web-browser-not-to-cache-images"
+    ],
+    "timestamp": "2026-09-05T00:09:19.379464",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "GST",
+    "query": "SaiTech IT Private Limited (Since 2013) GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.katyperry.com/",
+      "https://www.britannica.com/biography/Katy-Perry",
+      "https://people.com/katy-perry-told-therapist-she-wanted-legendary-love-then-met-justin-trudeau-exclusive-12075948",
+      "https://people.com/katy-perry-shares-new-photos-justin-trudeau-miranda-kerr-instagram-11964886"
+    ],
+    "timestamp": "2026-09-05T00:09:29.364183",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Owner",
+    "query": "SaiTech IT Private Limited (Since 2013) director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://hqtube.xxx/en/popular/",
+      "https://www.sexvid.xxx/",
+      "https://en.xnxx.place/search/XXxx+videos",
+      "https://www.18tubehd.com/"
+    ],
+    "timestamp": "2026-09-05T00:09:31.577998",
+    "status": "results_found"
+  },
+  {
+    "seller": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Phone",
+    "query": "SaiTech IT Private Limited (Since 2013) phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.saitechit.com/",
+      "https://www.saitechit.com/wholesale-usb-cable.html",
+      "https://www.saitechit.com/wholesale-usb-storage-device.html",
+      "https://www.saitechit.com/bags.html"
+    ],
+    "timestamp": "2026-09-05T00:10:04.355516",
+    "status": "results_found"
+  },
+  {
+    "business": "SaiTech IT Private Limited (Since 2013)",
+    "field": "Phone Number",
+    "value": "+919429577309",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.saitechit.com/",
+    "timestamp": "2026-09-05T00:10:10.410313"
+  }
+]

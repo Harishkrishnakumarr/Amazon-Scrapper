@@ -1,0 +1,509 @@
+[
+  {
+    "business": "VRP Telematics",
+    "field": "Business Name",
+    "value": "VRP Telematics",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JFLV2BUSJ5AK&asin=B01IQZPLEA&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T15:02:11.108349"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Website",
+    "query": "VRP Telematics official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:02:13.486751",
+    "status": "results_found"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Website URL",
+    "value": "https://www.vrptelematics.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vrptelematics.com/",
+    "timestamp": "2026-08-17T15:02:16.345159"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Phone Number",
+    "value": "+911100922026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vrptelematics.com/",
+    "timestamp": "2026-08-17T15:02:17.527210"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Email Address",
+    "value": "info@vrptl.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vrptelematics.com/",
+    "timestamp": "2026-08-17T15:02:17.528683"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Legal Entity Name",
+    "query": "VRP Telematics company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc"
+    ],
+    "timestamp": "2026-08-17T15:02:23.228948",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Legal Entity Name",
+    "query": "VRP Telematics Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:02:32.486289",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "PAN",
+    "query": "VRP Telematics PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:02:43.205421",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "PAN",
+    "query": "VRP Telematics PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:03:02.109262",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "GST",
+    "query": "VRP Telematics GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:03:04.596487",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "GST",
+    "query": "VRP Telematics GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:03:20.487478",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Owner",
+    "query": "VRP Telematics director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:03:28.087367",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Owner",
+    "query": "VRP Telematics managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:03:36.826133",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Address",
+    "query": "VRP Telematics registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:03:54.727050",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Address",
+    "query": "VRP Telematics registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vrptelematics.com/",
+      "https://www.invesco.com/us/en/financial-products/etfs/invesco-variable-rate-preferred-etf.html?msockid=08f1ccce5c166c8007afdb765d3b6ddc",
+      "https://github.com/VRPirates",
+      "https://vrptelematics.com/about-us.html"
+    ],
+    "timestamp": "2026-08-17T15:04:03.711245",
+    "status": "results_found"
+  },
+  {
+    "business": "Riddhika Ventures",
+    "field": "Business Name",
+    "value": "Riddhika Ventures",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AO61F7UHXYUV3&asin=B08BP9FV5Q&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T15:04:17.539289"
+  },
+  {
+    "seller": "Riddhika Ventures",
+    "field": "Website",
+    "query": "Riddhika Ventures official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-17T15:04:21.122254",
+    "status": "results_found"
+  },
+  {
+    "seller": "Riddhika Ventures",
+    "field": "Legal Entity Name",
+    "query": "Riddhika Ventures company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://soso-forum.tistory.com/6",
+      "https://www.zhihu.com/question/322530827",
+      "https://www.zhihu.com/question/19874329",
+      "https://www.zhihu.com/topic/19804452/intro",
+      "https://www.zhihu.com/question/308441705"
+    ],
+    "timestamp": "2026-08-17T15:04:31.916223",
+    "status": "results_found"
+  },
+  {
+    "seller": "Riddhika Ventures",
+    "field": "PAN",
+    "query": "Riddhika Ventures PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thecalculatorsite.com/conversions/common/cm-to-feet-inches.php",
+      "https://www.rapidtables.com/convert//length/cm-to-feet.html",
+      "https://www.freeconvert.com/unit/cm-to-feet",
+      "https://coolconversion.com/length/cm-to-feet-inches/",
+      "https://www.mega-calculator.com/conversion/cm-to-feet/"
+    ],
+    "timestamp": "2026-08-17T15:04:59.710479",
+    "status": "results_found"
+  },
+  {
+    "seller": "Riddhika Ventures",
+    "field": "GST",
+    "query": "Riddhika Ventures GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/329216939",
+      "https://www.zhihu.com/question/2056032883077386271",
+      "https://jingyan.baidu.com/article/066074d6d320b282c21cb0a0.html",
+      "https://jingyan.baidu.com/article/f006222857a62bbad2f0c82a.html",
+      "https://www.zhihu.com/question/19688134?sort=created"
+    ],
+    "timestamp": "2026-08-17T15:05:18.951875",
+    "status": "results_found"
+  },
+  {
+    "seller": "Riddhika Ventures",
+    "field": "Owner",
+    "query": "Riddhika Ventures director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/topic/20171192/hot",
+      "https://www.zhihu.com/people/kshir-sagar",
+      "https://www.zhihu.com/question/19874329",
+      "https://www.zhihu.com/question/21049681/answers/updated",
+      "https://www.zhihu.com/question/20076649"
+    ],
+    "timestamp": "2026-08-17T15:05:50.177203",
+    "status": "results_found"
+  },
+  {
+    "seller": "Riddhika Ventures",
+    "field": "Address",
+    "query": "Riddhika Ventures registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-17T15:06:17.024014",
+    "status": "results_found"
+  },
+  {
+    "business": "MJ 925 Silver/ Parnika",
+    "field": "Business Name",
+    "value": "MJ 925 Silver/ Parnika",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1VQZVH5RJ5Z0M&asin=B073YC2TSH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T15:06:19.738203"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "Website",
+    "query": "MJ 925 Silver/ Parnika official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home"
+    ],
+    "timestamp": "2026-08-17T15:06:23.377905",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "Legal Entity Name",
+    "query": "MJ 925 Silver/ Parnika company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:06:39.558507",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "Legal Entity Name",
+    "query": "MJ 925 Silver/ Parnika Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:06:54.060756",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "PAN",
+    "query": "MJ 925 Silver/ Parnika PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:06:59.103710",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "PAN",
+    "query": "MJ 925 Silver/ Parnika PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:07:10.127979",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "GST",
+    "query": "MJ 925 Silver/ Parnika GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:07:26.277897",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "GST",
+    "query": "MJ 925 Silver/ Parnika GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:07:40.394681",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "Owner",
+    "query": "MJ 925 Silver/ Parnika director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:07:44.538950",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "Owner",
+    "query": "MJ 925 Silver/ Parnika managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:08:05.101034",
+    "status": "results_found"
+  },
+  {
+    "seller": "MJ 925 Silver/ Parnika",
+    "field": "Address",
+    "query": "MJ 925 Silver/ Parnika registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.michaeljackson.com/",
+      "https://www.midjourney.com/home",
+      "https://starsunfolded.com/michael-jackson/",
+      "https://www.watchmojo.com/articles/top-20-greatest-michael-jackson-songs-of-all-time"
+    ],
+    "timestamp": "2026-08-17T15:08:07.154506",
+    "status": "results_found"
+  },
+  {
+    "business": "Meenakari",
+    "field": "Business Name",
+    "value": "Meenakari",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AHAGHJR4FPSF4&asin=B0744K4GMK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T15:08:20.381299"
+  },
+  {
+    "seller": "Meenakari",
+    "field": "Website",
+    "query": "Meenakari official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://everydaymani.com/meenakari-the-exquisite-art-of-enamel-jewelry/",
+      "https://culturalindia.net/jewellery/types/meenakari.html"
+    ],
+    "timestamp": "2026-08-17T15:08:22.378639",
+    "status": "results_found"
+  },
+  {
+    "seller": "Meenakari",
+    "field": "Legal Entity Name",
+    "query": "Meenakari company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tnesevai.tn.gov.in/edistrict/",
+      "https://www.registerkaro.in/company-registration",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/roc.html",
+      "http://www.tnesevai.tn.gov.in/",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-08-17T15:10:10.801205",
+    "status": "results_found"
+  },
+  {
+    "seller": "Meenakari",
+    "field": "PAN",
+    "query": "Meenakari PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://everydaymani.com/meenakari-the-exquisite-art-of-enamel-jewelry/",
+      "https://culturalindia.net/jewellery/types/meenakari.html",
+      "https://www.theculturegully.in/post/meenakari-its-origin-history-and-relevance",
+      "https://www.kalyanjewellers.net/Jewellery/meenakari-jewellery.php",
+      "https://ishhaara.com/collections/meenakari-jewellery"
+    ],
+    "timestamp": "2026-08-17T15:10:12.382725",
+    "status": "results_found"
+  }
+]

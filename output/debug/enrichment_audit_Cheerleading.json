@@ -1,0 +1,917 @@
+[
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B08KT4ZH4H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T22:20:03.314909"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.justdial.com/Mumbai/Kay-Kay-Overseas-Corporation-Grant-Road/022P8804885_BZDET",
+      "https://www.volza.com/company-profile/kay-kay-overseas-corporation-17434838/contacts/"
+    ],
+    "timestamp": "2026-09-02T22:20:05.145536",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Website URL",
+    "value": "https://www.justdial.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.justdial.com/Mumbai/Kay-Kay-Overseas-Corporation-Grant-Road/022P8804885_BZDET",
+    "timestamp": "2026-09-02T22:20:07.513401"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Phone Number",
+    "value": "+918888888888",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.justdial.com/",
+    "timestamp": "2026-09-02T22:20:08.500237"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-27aacfk0693d1zj/",
+      "https://www.indiafilings.com/search/kay-kay-overseas-corporation-gstin-33AACFK0693D1ZQ",
+      "https://fnshiftsolutions.com/gstin-search/kay-kay-overseas-corporation-09AACFK0693D2ZG",
+      "https://fnshiftsolutions.com/gstin-search/kay-kay-overseas-corporation-33AACFK0693D1ZQ"
+    ],
+    "timestamp": "2026-09-02T22:20:14.762303",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "GST Number",
+    "value": "33AACFK0693D1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/kay-kay-overseas-corporation-gstin-33AACFK0693D1ZQ",
+    "timestamp": "2026-09-02T22:20:16.234536"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "PAN Number",
+    "value": "AACFK0693D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/kay-kay-overseas-corporation-gstin-33AACFK0693D1ZQ",
+    "timestamp": "2026-09-02T22:20:16.234546"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/kay-kay-overseas-corporation-03AACFK0693D1ZT",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-27aacfk0693d1zj/",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-06aacfk0693d1zn/",
+      "https://gst.unifers.ai/gst/36AACFK0693D2ZJ/kay-kay-overseas-corporation"
+    ],
+    "timestamp": "2026-09-02T22:20:18.361041",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/sharad-khandelwal-78f2",
+      "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+      "https://www.datanyze.com/companies/kay-kay-overseas/447782697",
+      "https://www.thecompanycheck.com/company/b/kay-kay-overseas-corporation/760f84ca00c446e78"
+    ],
+    "timestamp": "2026-09-02T22:20:39.657240",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.verif.com/en/company/KAY-KAY-OVERSEAS-CORPORATION-68d9d4e412992303384c0e22/",
+      "https://www.cybo.com/IN-biz/kay-kay-overseas-corporation",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-27aacfk0693d1zj/",
+      "https://www.legalentityidentifier.in/leicert/33580093BP77J9IFE847/"
+    ],
+    "timestamp": "2026-09-02T22:20:41.275968",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Email Address",
+    "value": "hardcoded@mail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.verif.com/en/company/KAY-KAY-OVERSEAS-CORPORATION-68d9d4e412992303384c0e22/",
+    "timestamp": "2026-09-02T22:20:43.516962"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/KAY-KAY-OVERSEAS-CORPORATION-27AACFK0693D1ZJ/",
+      "https://www.verif.com/en/company/KAY-KAY-OVERSEAS-CORPORATION-68d9d4e412992303384c0e22/",
+      "https://www.tradeindia.com/kay-kay-overseas-corporation-3141549/",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-06aacfk0693d1zn/"
+    ],
+    "timestamp": "2026-09-02T22:20:46.327913",
+    "status": "results_found"
+  },
+  {
+    "business": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "KALAKARAM INDIA PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AQUCHZ7CASST2&asin=B09DYHBWK2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T22:20:49.895272"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "Website",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kalamkarishop.com/",
+      "https://kalmkari.in/"
+    ],
+    "timestamp": "2026-09-02T22:20:51.091996",
+    "status": "results_found"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/kalakaram-india-private-limited",
+      "https://www.thecompanycheck.com/company/kalakaram-india-private-limited/U74999HR2022PTC102176",
+      "https://tracxn.com/d/legal-entities/india/kalakaram-india-private-limited/__YyPvwQIyU7ukpoRqKBFU_uxJ_ynEUbw7mAuqA7fdJUI",
+      "https://www.indiafilings.com/search/kalakaram-india-private-limited-cin-U74999HR2022PTC102176"
+    ],
+    "timestamp": "2026-09-02T22:20:56.186448",
+    "status": "results_found"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.taxaj.com/learn/pan-card-status-check-by-name-india/",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp",
+      "https://quicko.com/tools/verify-pan-details",
+      "https://gstpan.com/"
+    ],
+    "timestamp": "2026-09-02T22:21:19.466198",
+    "status": "results_found"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "GST",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T22:21:55.165396",
+    "status": "no_results"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "GST",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T22:21:55.550308",
+    "status": "no_results"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/alkar-mewada-din-09597456",
+      "https://www.instafinancials.com/director/kirubakaran-kalamegam-03359907",
+      "https://www.forbes.com/profile/kalanithi-maran/",
+      "https://inc42.com/company/kalakaar-indiaa/latest/"
+    ],
+    "timestamp": "2026-09-02T22:21:57.002034",
+    "status": "results_found"
+  },
+  {
+    "business": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "support@instafinancials.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/director/kirubakaran-kalamegam-03359907",
+    "timestamp": "2026-09-02T22:21:58.612248"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/kalakaram-india-private-limited/U74999HR2022PTC102176",
+      "https://in.marketscreener.com/insider/KALYAN-RAMAN-KRISHNAMURTHY-A1MF3A/",
+      "https://www.marketscreener.com/insider/VENKATRAMAN-SRINIVASAN-A0AIN6/",
+      "https://qorpiq.com/company/kaalo-india-private-limited/U62011TN2026FTC192865"
+    ],
+    "timestamp": "2026-09-02T22:22:10.279545",
+    "status": "results_found"
+  },
+  {
+    "seller": "KALAKARAM INDIA PRIVATE LIMITED",
+    "field": "Address",
+    "query": "KALAKARAM INDIA PRIVATE LIMITED registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kalakaram-india-private-limited/__YyPvwQIyU7ukpoRqKBFU_uxJ_ynEUbw7mAuqA7fdJUI",
+      "https://www.thecompanycheck.com/company/kalakaram-india-private-limited/U74999HR2022PTC102176",
+      "https://www.companydetails.in/company/kalakaram-india-private-limited",
+      "https://www.instafinancials.com/company/kalakaram-india-private-limited-U74999HR2022PTC102176/company-overview"
+    ],
+    "timestamp": "2026-09-02T22:24:19.001350",
+    "status": "results_found"
+  },
+  {
+    "business": "Selibration",
+    "field": "Business Name",
+    "value": "Selibration",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ABJMDJN1DH4QU&asin=B0CDD5BBP2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T22:24:19.177989"
+  },
+  {
+    "seller": "Selibration",
+    "field": "Website",
+    "query": "Selibration official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.selibration.com/collections/frontpage",
+      "https://www.selibration.com/collections/all-products"
+    ],
+    "timestamp": "2026-09-02T22:24:20.563195",
+    "status": "results_found"
+  },
+  {
+    "business": "Selibration",
+    "field": "Website URL",
+    "value": "https://www.selibration.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.selibration.com/collections/frontpage",
+    "timestamp": "2026-09-02T22:24:27.917237"
+  },
+  {
+    "business": "Selibration",
+    "field": "Phone Number",
+    "value": "+918433852212",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.selibration.com/",
+    "timestamp": "2026-09-02T22:24:29.013936"
+  },
+  {
+    "business": "Selibration",
+    "field": "Email Address",
+    "value": "connect@selibration.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.selibration.com/",
+    "timestamp": "2026-09-02T22:24:29.014000"
+  },
+  {
+    "seller": "Selibration",
+    "field": "Legal Entity Name",
+    "query": "Selibration company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/company-law/roc-mca-dates-filing-forms.html",
+      "https://taxguru.in/company-law/changes-mca-forms-v2-v3.html",
+      "https://www.registerkaro.in/",
+      "https://www.registerkaro.in/company-registration"
+    ],
+    "timestamp": "2026-09-02T22:24:35.702228",
+    "status": "results_found"
+  },
+  {
+    "business": "Selibration",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T22:24:47.230807"
+  },
+  {
+    "seller": "Selibration",
+    "field": "Legal Entity Name",
+    "query": "Selibration Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamsearch.com/",
+      "https://www.registerkaro.in/",
+      "https://www.infossel.in/private-limited-company-registration/",
+      "https://taxclue.in/udyam-registration"
+    ],
+    "timestamp": "2026-09-02T22:24:48.718570",
+    "status": "results_found"
+  },
+  {
+    "seller": "Selibration",
+    "field": "PAN",
+    "query": "Selibration PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://savetaxs.com/blog/how-to-know-pan-card-number#:~:text=You%20can%20retrieve%20your%20PAN%20card%20number%20online,your%20Aadhar%20card%2C%20or%20via%20other%20official%20methods.",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T22:24:50.330892",
+    "status": "results_found"
+  },
+  {
+    "seller": "Selibration",
+    "field": "PAN",
+    "query": "Selibration PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-09-02T22:24:56.008725",
+    "status": "results_found"
+  },
+  {
+    "seller": "Selibration",
+    "field": "GST",
+    "query": "Selibration GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T22:25:15.015672",
+    "status": "no_results"
+  },
+  {
+    "seller": "Selibration",
+    "field": "GST",
+    "query": "Selibration GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T22:25:33.474915",
+    "status": "no_results"
+  },
+  {
+    "seller": "Selibration",
+    "field": "Owner",
+    "query": "Selibration director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T22:25:35.183776",
+    "status": "no_results"
+  },
+  {
+    "seller": "Selibration",
+    "field": "Owner",
+    "query": "Selibration founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T22:25:36.488628",
+    "status": "no_results"
+  },
+  {
+    "business": "SRIHANUMANAGENCY CREATION",
+    "field": "Business Name",
+    "value": "SRIHANUMANAGENCY CREATION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2KQGZQR5XSYC1&asin=B0BR3JRWX7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T22:25:36.766048"
+  },
+  {
+    "seller": "SRIHANUMANAGENCY CREATION",
+    "field": "Website",
+    "query": "SRIHANUMANAGENCY CREATION official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://quartzmine.com/Contact-us/",
+      "https://www.sellerratings.com/amazon/india/srihanumanagency-creation"
+    ],
+    "timestamp": "2026-09-02T22:25:38.094541",
+    "status": "results_found"
+  },
+  {
+    "business": "SRIHANUMANAGENCY CREATION",
+    "field": "Website URL",
+    "value": "https://www.sellerratings.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sellerratings.com/amazon/india/srihanumanagency-creation",
+    "timestamp": "2026-09-02T22:25:42.556464"
+  },
+  {
+    "seller": "SRIHANUMANAGENCY CREATION",
+    "field": "Legal Entity Name",
+    "query": "SRIHANUMANAGENCY CREATION company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/sri-hanuman-agency-33ASFPM8689N2ZT/",
+      "https://piceapp.com/gst-number-search/sri-hanuman-agency-33jumpk3458k1z1/",
+      "https://www.registerkaro.in/company-registration",
+      "https://piceapp.com/gst-number-search/sri-hanuman-agency-33asfpm8689n2zt/"
+    ],
+    "timestamp": "2026-09-02T22:25:46.571971",
+    "status": "results_found"
+  },
+  {
+    "business": "SRIHANUMANAGENCY CREATION",
+    "field": "GST Number",
+    "value": "33ASFPM8689N2ZT",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sri-hanuman-agency-33ASFPM8689N2ZT/",
+    "timestamp": "2026-09-02T22:25:48.437535"
+  },
+  {
+    "business": "SRIHANUMANAGENCY CREATION",
+    "field": "PAN Number",
+    "value": "ASFPM8689N",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sri-hanuman-agency-33ASFPM8689N2ZT/",
+    "timestamp": "2026-09-02T22:25:48.437552"
+  },
+  {
+    "business": "SRIHANUMANAGENCY CREATION",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T22:25:51.276875"
+  },
+  {
+    "business": "SRIHANUMANAGENCY CREATION",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T22:25:51.282930"
+  },
+  {
+    "seller": "SRIHANUMANAGENCY CREATION",
+    "field": "Legal Entity Name",
+    "query": "SRIHANUMANAGENCY CREATION Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/",
+      "https://npifund.com/article/steps-to-check-company-registration-status-on-mca"
+    ],
+    "timestamp": "2026-09-02T22:25:53.145084",
+    "status": "results_found"
+  },
+  {
+    "business": "SRIHANUMANAGENCY CREATION",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T22:25:53.586926"
+  },
+  {
+    "seller": "SRIHANUMANAGENCY CREATION",
+    "field": "Owner",
+    "query": "SRIHANUMANAGENCY CREATION director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/sri-hanuman-agency-33asfpm8689n2zt/",
+      "https://www.tradeindia.com/sri-hanuman-agency-3795102/",
+      "http://www.quartzmine.com/Contact-us/",
+      "https://www.dnb.com/business-directory/company-profiles.sri_hanuman_creation.ee6d7dcbe8b362abd8af03f8914257a0.html"
+    ],
+    "timestamp": "2026-09-02T22:25:58.485346",
+    "status": "results_found"
+  },
+  {
+    "seller": "SRIHANUMANAGENCY CREATION",
+    "field": "Owner",
+    "query": "SRIHANUMANAGENCY CREATION founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.sri_hanuman_agency.cccdbe7c7766e6bdca9e0fb69534be9c.html",
+      "https://www.dnb.com/business-directory/company-profiles.sri_hanuman_agency.0734bc038e05dbb2fe8c2c2f7ec37a53.html",
+      "https://www.tradeindia.com/sri-hanuman-agency-27801554/",
+      "http://www.quartzmine.com/Contact-us/"
+    ],
+    "timestamp": "2026-09-02T22:26:04.109821",
+    "status": "results_found"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "Business Name",
+    "value": "KAKU FANCY DRESSES.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3LYUKOI8YE6G7&asin=B0CSSM4DQL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T22:26:08.834424"
+  },
+  {
+    "seller": "KAKU FANCY DRESSES.",
+    "field": "Website",
+    "query": "KAKU FANCY DRESSES. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kayfashions.in/",
+      "https://www.kusvaa.com/"
+    ],
+    "timestamp": "2026-09-02T22:26:10.029080",
+    "status": "results_found"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "Website URL",
+    "value": "https://www.kakufancydresses.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kakufancydresses.com/",
+    "timestamp": "2026-09-02T22:26:13.684156"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "Phone Number",
+    "value": "+919711440786",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kakufancydresses.com/about-us",
+    "timestamp": "2026-09-02T22:26:20.695328"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "Email Address",
+    "value": "contact@martfury.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kakufancydresses.com/contact",
+    "timestamp": "2026-09-02T22:26:22.523904"
+  },
+  {
+    "seller": "KAKU FANCY DRESSES.",
+    "field": "Legal Entity Name",
+    "query": "KAKU FANCY DRESSES. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://mcalookup.in/",
+      "https://lemreveal.com/data/india"
+    ],
+    "timestamp": "2026-09-02T22:26:28.456242",
+    "status": "results_found"
+  },
+  {
+    "seller": "KAKU FANCY DRESSES.",
+    "field": "Legal Entity Name",
+    "query": "KAKU FANCY DRESSES. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamsearch.com/",
+      "https://mcalookup.in/",
+      "https://www.indiafilings.com/check-company-name-availability",
+      "https://npifund.com/article/steps-to-check-company-registration-status-on-mca"
+    ],
+    "timestamp": "2026-09-02T22:26:31.760729",
+    "status": "results_found"
+  },
+  {
+    "seller": "KAKU FANCY DRESSES.",
+    "field": "PAN",
+    "query": "KAKU FANCY DRESSES. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/kaku-fancy-dresses-27bitps6456g1zg/#:~:text=The%20GST%20number%20of%20KAKU%20FANCY%20DRESSES%20is,registered%20on%2007%20May%202018.%20Current%20status%3A%20Active.",
+      "https://gstverify.co.in/gst/kaku-fancy-dresses-27bitps6456g1zg/",
+      "https://gstverify.co.in/gst/kaku-fancy-dresses-24bitps6456g1zm/",
+      "https://kakufancydresses.com/contacts"
+    ],
+    "timestamp": "2026-09-02T22:26:35.646934",
+    "status": "results_found"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "GST Number",
+    "value": "07BITPS6456GIZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kakufancydresses.com/contacts",
+    "timestamp": "2026-09-02T22:26:37.187756"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "PAN Number",
+    "value": "BITPS6456G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kakufancydresses.com/contacts",
+    "timestamp": "2026-09-02T22:26:37.187772"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "Billing Address",
+    "value": "50, jangpura road, bhogal near shastri market, new delhi - 110014",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kakufancydresses.com/contacts",
+    "timestamp": "2026-09-02T22:26:37.188834"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "City",
+    "value": "new delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kakufancydresses.com/contacts",
+    "timestamp": "2026-09-02T22:26:37.188845"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kakufancydresses.com/contacts",
+    "timestamp": "2026-09-02T22:26:37.188849"
+  },
+  {
+    "business": "KAKU FANCY DRESSES.",
+    "field": "Pincode",
+    "value": "110014",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kakufancydresses.com/contacts",
+    "timestamp": "2026-09-02T22:26:37.188853"
+  },
+  {
+    "seller": "KAKU FANCY DRESSES.",
+    "field": "Owner",
+    "query": "KAKU FANCY DRESSES. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.kaku_fancy_dresses.20f41d00ced205fdd957f93d0ea6cb5f.html",
+      "https://kakufancydresses.com/about-us",
+      "https://piceapp.com/gst-number-search/kaku-fancy-dresses-07bitps6456g1zi/",
+      "https://gstverify.co.in/gst/kaku-fancy-dresses-27bitps6456g1zg/"
+    ],
+    "timestamp": "2026-09-02T22:26:38.992185",
+    "status": "results_found"
+  },
+  {
+    "seller": "KAKU FANCY DRESSES.",
+    "field": "Owner",
+    "query": "KAKU FANCY DRESSES. founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/kalki-fashion-private-limited/U46909MH2024PTC424839",
+      "https://www.forbes.com/profile/falguni-nayar/",
+      "https://tracxn.com/d/companies/zouk/__qQj7ctc5Cz7ut0EV51UriNOe0SXOYxFfAvVhYBuYnSs",
+      "https://intifashions.com/"
+    ],
+    "timestamp": "2026-09-02T22:26:43.582082",
+    "status": "results_found"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "Business Name",
+    "value": "Gujral Industries - Gisco",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ABQVJBQZ7XCIS&asin=B07NL2ZZZ5&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T22:26:56.286457"
+  },
+  {
+    "seller": "Gujral Industries - Gisco",
+    "field": "Website",
+    "query": "Gujral Industries - Gisco official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.justdial.com/Meerut/Sports-Goods-Manufacturers-Gisco-in-Suraj-Kund/nct-14591321",
+      "https://www.gipcl.com/"
+    ],
+    "timestamp": "2026-09-02T22:26:59.600641",
+    "status": "results_found"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "Website URL",
+    "value": "https://www.justdial.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.justdial.com/Meerut/Sports-Goods-Manufacturers-Gisco-in-Suraj-Kund/nct-14591321",
+    "timestamp": "2026-09-02T22:27:03.600826"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "Phone Number",
+    "value": "+918888888888",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.justdial.com/",
+    "timestamp": "2026-09-02T22:27:07.114082"
+  },
+  {
+    "seller": "Gujral Industries - Gisco",
+    "field": "Legal Entity Name",
+    "query": "Gujral Industries - Gisco company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://udyamsearch.com/",
+      "https://www.inspex.in/",
+      "https://mcalookup.in/",
+      "https://www.indiafilings.com/check-company-name-availability"
+    ],
+    "timestamp": "2026-09-02T22:27:16.551292",
+    "status": "results_found"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T22:27:17.450367"
+  },
+  {
+    "seller": "Gujral Industries - Gisco",
+    "field": "Legal Entity Name",
+    "query": "Gujral Industries - Gisco Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T22:27:19.964268",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gujral Industries - Gisco",
+    "field": "PAN",
+    "query": "Gujral Industries - Gisco PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstpan.com/",
+      "https://piceapp.com/gst-number-search/",
+      "https://gstextract.com/gstin-details",
+      "https://indiapost.org/tools/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T22:27:26.294439",
+    "status": "results_found"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T22:27:27.314991"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T22:27:27.315008"
+  },
+  {
+    "seller": "Gujral Industries - Gisco",
+    "field": "Owner",
+    "query": "Gujral Industries - Gisco director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justdial.com/Meerut/Sports-Goods-Manufacturers-Gisco-in-Suraj-Kund/nct-14591321",
+      "https://www.inspex.in/",
+      "https://www.forbes.com/profile/satyanarayan-nuwal-1/",
+      "https://qorpiq.com/company/gch-industries-private-limited/U14109MH2026PTC467516"
+    ],
+    "timestamp": "2026-09-02T22:27:29.183383",
+    "status": "results_found"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "Billing Address",
+    "value": "20, floor-1, plot-134/150, shrinathji building, kika street, gulalwadi, girgaon, girgaon, mumbai, mumbai, maharashtra, 400004",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/gch-industries-private-limited/U14109MH2026PTC467516",
+    "timestamp": "2026-09-02T22:27:35.161400"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/gch-industries-private-limited/U14109MH2026PTC467516",
+    "timestamp": "2026-09-02T22:27:35.161409"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/gch-industries-private-limited/U14109MH2026PTC467516",
+    "timestamp": "2026-09-02T22:27:35.161413"
+  },
+  {
+    "business": "Gujral Industries - Gisco",
+    "field": "Pincode",
+    "value": "400004",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/gch-industries-private-limited/U14109MH2026PTC467516",
+    "timestamp": "2026-09-02T22:27:35.161415"
+  },
+  {
+    "seller": "Gujral Industries - Gisco",
+    "field": "Owner",
+    "query": "Gujral Industries - Gisco founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justdial.com/Meerut/Sports-Goods-Manufacturers-Gisco-in-Suraj-Kund/nct-14591321",
+      "https://www.forbes.com/profile/satyanarayan-nuwal-1/",
+      "https://udyamsearch.com/",
+      "https://gisco-services.ec.europa.eu/distribution/v2/nuts/distribution/DK03-region-01m-3035-2016.geojson"
+    ],
+    "timestamp": "2026-09-02T22:27:36.710165",
+    "status": "results_found"
+  }
+]

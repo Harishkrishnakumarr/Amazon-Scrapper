@@ -1,0 +1,782 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CRDWXZM6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:09:56.051149"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-08-26T10:09:58.593732",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://retailez.co.in/"
+    ],
+    "timestamp": "2026-08-26T10:10:03.744622",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-26T10:10:04.541219"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=8ad1c585702417d31ebeaf0b1e0379f2&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20pvt%20ltd%20company&device=c&Adposition=&physical=148988&match_type=p&gclid=&network=registration%20of%20pvt%20ltd%20company&target_name=kwd-83769913535125:loc-90&placement=&keyword_id=registration%20of%20pvt%20ltd%20company&msclkid=59ed46948f901183ce342c1ae1b7ef4d",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-26T10:10:08.199885",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-08-26T10:10:46.542559",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:10:47.948634",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:10:55.661143"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:10:55.661167"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:10:55.661174"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-26T10:10:55.661181"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-29aalcr3173p1zj/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/"
+    ],
+    "timestamp": "2026-08-26T10:10:58.858882",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-26T10:11:03.881551"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-26T10:11:03.881569"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI"
+    ],
+    "timestamp": "2026-08-26T10:11:05.476811",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://retailez.co.in/",
+      "https://theorg.com/org/retailez-private-limited/org-chart/aparesh-agarwal"
+    ],
+    "timestamp": "2026-08-26T10:11:10.462525",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-08-26T10:11:16.917446",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/"
+    ],
+    "timestamp": "2026-08-26T10:11:21.848707",
+    "status": "results_found"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Business Name",
+    "value": "TRACK & FIELD INDIA MANUFACTURING",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A97X48V16DR1R&asin=B0HDD2MJHX&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:11:24.843966"
+  },
+  {
+    "seller": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Website",
+    "query": "TRACK & FIELD INDIA MANUFACTURING official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://trackandfields.in/",
+      "https://royalenfield.co.in/"
+    ],
+    "timestamp": "2026-08-26T10:11:27.841442",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Legal Entity Name",
+    "query": "TRACK & FIELD INDIA MANUFACTURING company registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+      "https://www.registerkaro.in/company-registration",
+      "https://www.onlinelegalindia.com/blogs/how-can-you-register-a-manufacturing-company/"
+    ],
+    "timestamp": "2026-08-26T10:11:34.778346",
+    "status": "results_found"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Email Address",
+    "value": "info@incorpx.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+    "timestamp": "2026-08-26T10:11:39.846520"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "GST Number",
+    "value": "33ABPCS3807G1Z9",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+    "timestamp": "2026-08-26T10:11:39.848345"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "PAN Number",
+    "value": "ABPCS3807G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+    "timestamp": "2026-08-26T10:11:39.848533"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Billing Address",
+    "value": "no. 1/60 ssjl vila, sri nagar, alinjivakkam, ponneri, tiruvallur, tamil nadu 600067",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+    "timestamp": "2026-08-26T10:11:39.858347"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+    "timestamp": "2026-08-26T10:11:39.858363"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "State",
+    "value": "Tamil Nadu",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+    "timestamp": "2026-08-26T10:11:39.858366"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Pincode",
+    "value": "600067",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/manufacturing-company-registration-factory-india",
+    "timestamp": "2026-08-26T10:11:39.858380"
+  },
+  {
+    "business": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-08-26T10:11:43.690858"
+  },
+  {
+    "seller": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Legal Entity Name",
+    "query": "TRACK & FIELD INDIA MANUFACTURING Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.practicemock.com/",
+      "https://www.practicemock.com/sbi-po-test-series/",
+      "https://www.practicemock.com/ibps-po-test-series/",
+      "https://www.practicemock.com/banking-live-tests-test-series/"
+    ],
+    "timestamp": "2026-08-26T10:11:46.434447",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRACK & FIELD INDIA MANUFACTURING",
+    "field": "Owner",
+    "query": "TRACK & FIELD INDIA MANUFACTURING director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:12:11.712761",
+    "status": "no_results"
+  },
+  {
+    "business": "D & O Ventures Pvt Ltd",
+    "field": "Business Name",
+    "value": "D & O Ventures Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2FC9O6C20OPO&asin=B0FMX3FY8S&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T10:12:14.970937"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "Website",
+    "query": "D & O Ventures Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://discord.com/",
+      "https://www.wikiwand.com/en/D"
+    ],
+    "timestamp": "2026-08-26T10:12:16.743414",
+    "status": "results_found"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "D & O Ventures Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=a2a83e1b25131aa10b2f54954bbed93d&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20service&device=c&Adposition=&physical=148988&match_type=p&gclid=&network=business%20registration%20service&target_name=kwd-84045335771847:loc-90&placement=&keyword_id=business%20registration%20service&msclkid=517b472ef73e17a7f9ea2da09993be8e",
+      "https://www.thecompanycheck.com/company/d-o-ventures-private-limited/U51900PB2014PTC038533",
+      "https://www.falconebiz.com/company/D-O-VENTURES-PRIVATE-LIMITED-U51900PB2014PTC038533"
+    ],
+    "timestamp": "2026-08-26T10:12:22.400636",
+    "status": "results_found"
+  },
+  {
+    "business": "D & O Ventures Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=a2a83e1b25131aa10b2f54954bbed93d&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-26T10:12:24.998814"
+  },
+  {
+    "business": "D & O Ventures Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20service&device=c&Adposition=&physical=148988&match_type=p&gclid=&network=business%20registration%20service&target_name=kwd-84045335771847:loc-90&placement=&keyword_id=business%20registration%20service&msclkid=517b472ef73e17a7f9ea2da09993be8e",
+    "timestamp": "2026-08-26T10:12:26.799007"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "PAN",
+    "query": "D & O Ventures Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:12:41.200475",
+    "status": "no_results"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "PAN",
+    "query": "D & O Ventures Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://discord.com/"
+    ],
+    "timestamp": "2026-08-26T10:12:42.927397",
+    "status": "results_found"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "GST",
+    "query": "D & O Ventures Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://discord.com/",
+      "https://www.wikiwand.com/en/D",
+      "https://www.thefreedictionary.com/D",
+      "https://www.britannica.com/dictionary/d"
+    ],
+    "timestamp": "2026-08-26T10:12:46.480524",
+    "status": "results_found"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "GST",
+    "query": "D & O Ventures Pvt Ltd GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://discord.com/",
+      "https://www.wikiwand.com/en/D",
+      "https://www.thefreedictionary.com/D"
+    ],
+    "timestamp": "2026-08-26T10:12:55.659241",
+    "status": "results_found"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "Owner",
+    "query": "D & O Ventures Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://discord.com/",
+      "https://www.wikiwand.com/en/D",
+      "https://www.thefreedictionary.com/D",
+      "https://www.britannica.com/dictionary/d"
+    ],
+    "timestamp": "2026-08-26T10:13:01.563489",
+    "status": "results_found"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "Owner",
+    "query": "D & O Ventures Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://discord.com/",
+      "https://www.wikiwand.com/en/D",
+      "https://www.thefreedictionary.com/D"
+    ],
+    "timestamp": "2026-08-26T10:13:08.650976",
+    "status": "results_found"
+  },
+  {
+    "seller": "D & O Ventures Pvt Ltd",
+    "field": "Address",
+    "query": "D & O Ventures Pvt Ltd registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/D-O-VENTURES-PRIVATE-LIMITED-U51900PB2014PTC038533",
+      "https://www.companydetails.in/company/do-ventures-private-limited",
+      "https://www.thecompanycheck.com/company/d-o-ventures-private-limited/U51900PB2014PTC038533",
+      "https://www.instafinancials.com/company/d-o-ventures-private-limited/U51900PB2014PTC038533/index.html"
+    ],
+    "timestamp": "2026-08-26T10:13:18.258718",
+    "status": "results_found"
+  },
+  {
+    "business": "Alan Jones Clothing\u00ae",
+    "field": "Business Name",
+    "value": "Alan Jones Clothing\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1G9CEWVFE2WQQ&asin=B07BTXM8RC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:13:32.127125"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Website",
+    "query": "Alan Jones Clothing\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im"
+    ],
+    "timestamp": "2026-08-26T10:13:33.601007",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Alan Jones Clothing\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en"
+    ],
+    "timestamp": "2026-08-26T10:13:38.248594",
+    "status": "results_found"
+  },
+  {
+    "business": "Alan Jones Clothing\u00ae",
+    "field": "Email Address",
+    "value": "privacy@alan.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://alan.com/en",
+    "timestamp": "2026-08-26T10:13:45.904515"
+  },
+  {
+    "business": "Alan Jones Clothing\u00ae",
+    "field": "Owner Name",
+    "value": "charles gorintin",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://alan.com/en",
+    "timestamp": "2026-08-26T10:13:45.909001"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Alan Jones Clothing\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://alanindia.net/"
+    ],
+    "timestamp": "2026-08-26T10:13:47.158425",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "PAN",
+    "query": "Alan Jones Clothing\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://alanindia.net/"
+    ],
+    "timestamp": "2026-08-26T10:14:23.843515",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "GST",
+    "query": "Alan Jones Clothing\u00ae GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:14:30.352890",
+    "status": "no_results"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "GST",
+    "query": "Alan Jones Clothing\u00ae GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://alanindia.net/"
+    ],
+    "timestamp": "2026-08-26T10:14:31.669186",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Address",
+    "query": "Alan Jones Clothing\u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://allen.in/"
+    ],
+    "timestamp": "2026-08-26T10:14:40.704877",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Address",
+    "query": "Alan Jones Clothing\u00ae registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://alanindia.net/"
+    ],
+    "timestamp": "2026-08-26T10:14:42.984421",
+    "status": "results_found"
+  },
+  {
+    "business": "Alan Jones Clothing\u00ae",
+    "field": "Phone Number",
+    "value": "+919513736499",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://allen.in/",
+    "timestamp": "2026-08-26T10:14:44.024316"
+  },
+  {
+    "business": "Global Sales Corporation",
+    "field": "Business Name",
+    "value": "Global Sales Corporation",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TF4EN4LCHKBO&asin=B0CSJVZQ37&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T10:14:49.143456"
+  },
+  {
+    "seller": "Global Sales Corporation",
+    "field": "Website",
+    "query": "Global Sales Corporation official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.moneycontrol.com/markets/global-indices/"
+    ],
+    "timestamp": "2026-08-26T10:14:50.968609",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Sales Corporation",
+    "field": "Website URL",
+    "value": "https://www.globalsalescorporation.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.globalsalescorporation.in/",
+    "timestamp": "2026-08-26T10:14:57.695924"
+  },
+  {
+    "business": "Global Sales Corporation",
+    "field": "Phone Number",
+    "value": "+917315122639",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.globalsalescorporation.in/",
+    "timestamp": "2026-08-26T10:14:58.344169"
+  },
+  {
+    "business": "Global Sales Corporation",
+    "field": "GST Number",
+    "value": "06BFJPT9824G1ZY",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.globalsalescorporation.in/",
+    "timestamp": "2026-08-26T10:14:58.345410"
+  },
+  {
+    "business": "Global Sales Corporation",
+    "field": "PAN Number",
+    "value": "BFJPT9824G",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.globalsalescorporation.in/",
+    "timestamp": "2026-08-26T10:14:58.345427"
+  },
+  {
+    "seller": "Global Sales Corporation",
+    "field": "Legal Entity Name",
+    "query": "Global Sales Corporation company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=148988&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=b217be775cbc14d612a8d4f933deb11b&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "http://www.shopperapproved.com/reviews/IncFile.com/?IG=0ae36e084d4b44178b6a8e6f62a72a01",
+      "https://opencorporates.com/companies/search",
+      "https://registry-lookup.com/"
+    ],
+    "timestamp": "2026-08-26T10:15:24.579897",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Sales Corporation",
+    "field": "Owner",
+    "query": "Global Sales Corporation director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://globle-game.com/"
+    ],
+    "timestamp": "2026-08-26T10:15:29.786444",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Sales Corporation",
+    "field": "Owner",
+    "query": "Global Sales Corporation founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://rocketreach.co/sachin-gupta-email_168425099",
+      "https://www.dnb.com/business-directory/company-profiles.global_sales_corporation.e74dd7956ac882cf06f0a8abfd50f285.html",
+      "https://www.globalsalescorporation.in/company-profile.html"
+    ],
+    "timestamp": "2026-08-26T10:15:35.079592",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Sales Corporation",
+    "field": "Address",
+    "query": "Global Sales Corporation registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://globle-game.com/",
+      "https://www.moneycontrol.com/markets/global-indices/",
+      "https://www.merriam-webster.com/dictionary/global",
+      "https://www.globalplayer.com/"
+    ],
+    "timestamp": "2026-08-26T10:15:41.753365",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Sales Corporation",
+    "field": "Email",
+    "query": "Global Sales Corporation email contact address customer care",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://globle-game.com/"
+    ],
+    "timestamp": "2026-08-26T10:16:06.610490",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Sales Corporation",
+    "field": "Email",
+    "query": "Global Sales Corporation contact email",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T10:16:20.762570",
+    "status": "no_results"
+  }
+]

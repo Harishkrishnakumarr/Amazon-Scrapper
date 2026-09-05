@@ -1,0 +1,48 @@
+{
+  "category": "Earbuds",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 819,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Alakh Enterprise .",
+      "database_id": 820,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Meena Enterprises9",
+      "database_id": 821,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918800973322",
+      "email": "support@gstzen.in",
+      "gst": "33BABPV9075L1Z3",
+      "pan": "BABPV9075L",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

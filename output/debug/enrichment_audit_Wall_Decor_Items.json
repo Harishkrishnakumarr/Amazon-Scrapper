@@ -1,0 +1,95 @@
+[
+  {
+    "business": "Premium Decor Hub",
+    "field": "Business Name",
+    "value": "Premium Decor Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3D80NZ5EPEVM9&asin=B0B5QL42QF&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T13:22:25.055870"
+  },
+  {
+    "seller": "Premium Decor Hub",
+    "field": "Website",
+    "query": "Premium Decor Hub official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:22:37.819283",
+    "status": "no_results"
+  },
+  {
+    "seller": "Premium Decor Hub",
+    "field": "Legal Entity Name",
+    "query": "Premium Decor Hub company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:23:05.841419",
+    "status": "no_results"
+  },
+  {
+    "seller": "Premium Decor Hub",
+    "field": "Legal Entity Name",
+    "query": "Premium Decor Hub Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search",
+      "https://www.indiafilings.com/gst-registration",
+      "https://www.indiafilings.com/trademark-registration",
+      "https://www.indiafilings.com/proprietorship"
+    ],
+    "timestamp": "2026-08-28T13:23:22.088850",
+    "status": "results_found"
+  },
+  {
+    "seller": "Premium Decor Hub",
+    "field": "PAN",
+    "query": "Premium Decor Hub PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://premiumdecor.in/",
+      "https://paneldecorhub.com/",
+      "https://decorahub.com/"
+    ],
+    "timestamp": "2026-08-28T13:23:37.356725",
+    "status": "results_found"
+  },
+  {
+    "seller": "Premium Decor Hub",
+    "field": "GST",
+    "query": "Premium Decor Hub GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.primevideo.com/",
+      "https://blog.youtube/topic-hub/youtube-premium/",
+      "https://dictionary.cambridge.org/dictionary/english/premium",
+      "https://www.merriam-webster.com/dictionary/premium"
+    ],
+    "timestamp": "2026-08-28T13:23:48.236701",
+    "status": "results_found"
+  },
+  {
+    "seller": "Premium Decor Hub",
+    "field": "Owner",
+    "query": "Premium Decor Hub director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:24:12.373073",
+    "status": "no_results"
+  },
+  {
+    "seller": "Premium Decor Hub",
+    "field": "Address",
+    "query": "Premium Decor Hub registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T13:24:31.014589",
+    "status": "no_results"
+  }
+]

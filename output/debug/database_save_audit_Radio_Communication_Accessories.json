@@ -1,0 +1,74 @@
+{
+  "category": "Radio Communication Accessories",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "NALINISHUBHRA E-SHOP",
+      "database_id": 708,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@bpoacademy.co.za",
+      "gst": "06AAUFN3641A1ZE",
+      "pan": "AAUFN3641A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Telecom Business World",
+      "database_id": 709,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919871963999",
+      "email": "info@edgetelecom.in",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://tele.net.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Zorbes Shop",
+      "database_id": 710,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919812644480",
+      "email": "info@bizex.ae",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Shopn Save",
+      "database_id": 711,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "support@hinovel.com",
+      "gst": "32BPVPP5271H1ZF",
+      "pan": "BPVPP5271H",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "zaoma",
+      "database_id": 712,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918655701484",
+      "email": "aibe.helpdesk@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

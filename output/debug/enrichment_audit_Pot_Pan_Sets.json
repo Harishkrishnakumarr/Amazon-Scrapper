@@ -1,0 +1,997 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0F5MC645F&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T17:11:06.589187"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T17:11:09.251365",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-18T17:11:11.896857"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:11:12.327865"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:11:12.361866"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:11:12.361891"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:11:12.361902"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-18T17:11:12.361909"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T17:11:17.756557",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx",
+      "https://golegally.com/mca-company-search"
+    ],
+    "timestamp": "2026-08-18T17:11:24.965148",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://www.indiaratings.co.in/pressrelease/69496"
+    ],
+    "timestamp": "2026-08-18T17:11:34.146884",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://gstverify.co.in/search/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-18T17:11:42.891572",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstpan.com/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-18T17:11:52.850558",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-18T17:12:02.787828",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T17:12:04.354088",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://gstverify.co.in/search/",
+      "https://services.gst.gov.in/services/searchIRN"
+    ],
+    "timestamp": "2026-08-18T17:12:14.324516",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-19AALCR3173P1ZK/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-29aalcr3173p1zj/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-18T17:12:20.256614",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-18T17:12:20.839404"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://www.indiaratings.co.in/pressrelease/76876",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd"
+    ],
+    "timestamp": "2026-08-18T17:12:23.035939",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://qorpiq.com/company/anav-retailez-llp/ADA-9388",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://www.planetexim.net/indian-company/shareholding/anav-retailez-llp/llpin/ADA-9388.html"
+    ],
+    "timestamp": "2026-08-18T17:12:37.947334",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://retailez.co.in/partner/",
+      "https://www.instafinancials.com/company/retailez-private-limited-U52602WB2021PTC248134/contact-us.html",
+      "https://retailez.co.in/about-us/",
+      "https://www.sellerratings.com/amazon/india/retailez-pvt-ltd",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-08-18T17:12:43.022293",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/partner/",
+    "timestamp": "2026-08-18T17:12:43.794817"
+  },
+  {
+    "business": "Cuisinart India Official",
+    "field": "Business Name",
+    "value": "Cuisinart India Official",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JUZQ85GSJP5A&asin=B076H4YDB3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T17:12:44.627838"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Website",
+    "query": "Cuisinart India Official official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cuisinart.ca/",
+      "https://carysil.com/"
+    ],
+    "timestamp": "2026-08-18T17:12:46.610789",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Legal Entity Name",
+    "query": "Cuisinart India Official company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx",
+      "https://www.startupindia.gov.in/",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-18T17:12:55.140363",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Legal Entity Name",
+    "query": "Cuisinart India Official Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+      "https://www.inspex.in/",
+      "https://www.ipindia.gov.in/",
+      "https://udyamregistration.gov.in/"
+    ],
+    "timestamp": "2026-08-18T17:13:12.035950",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "PAN",
+    "query": "Cuisinart India Official PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/verify-your-pan",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/videos/instant-e-pan",
+      "https://www.pan.utiitsl.com/",
+      "https://www.indiafilings.com/learn/know-your-pan-card"
+    ],
+    "timestamp": "2026-08-18T17:13:16.541251",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "PAN",
+    "query": "Cuisinart India Official PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://web.umang.gov.in/landing/department/my-pan.html",
+      "https://stahlkitchens.com/",
+      "https://ttkprestige.com/",
+      "https://www.snapdeal.com/product/cuisinart-black-quantanium-3-ltrs/816284824"
+    ],
+    "timestamp": "2026-08-18T17:13:30.725535",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "GST",
+    "query": "Cuisinart India Official GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-18T17:13:36.757105",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "GST",
+    "query": "Cuisinart India Official GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T17:13:41.240021",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "GST",
+    "query": "Cuisinart India Official GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://cleartax.in/s/gst-number-search-by-pan",
+      "https://cleartax.in/s/gst-hsn-lookup",
+      "https://accounts.cleartax.in/",
+      "https://cleartax.in/s/pricing"
+    ],
+    "timestamp": "2026-08-18T17:13:49.633705",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Owner",
+    "query": "Cuisinart India Official director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.companyseekers.com/company/cuisinart-restaurants-private-limited/U55101MH2009PTC197895",
+      "https://www.dnb.com/business-directory/company-profiles.cuisinart_india_inc.7ff1e901c255e5170d4c6ca693833bc5.html",
+      "https://www.falconebiz.com/company/CUISINART-RESTAURANTS-PRIVATE-LIMITED-U55101MH2009PTC197895",
+      "https://opengovco.com/business/19881078481"
+    ],
+    "timestamp": "2026-08-18T17:13:59.049063",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Owner",
+    "query": "Cuisinart India Official managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/culinary-brands-india-private-limited/__h9SzU9oLAYYqu6zAvCK0_bzWoT0R9Y5XgTQs3KrIvSA",
+      "https://www.rpsg.in/",
+      "https://www.goodreturns.in/company/nestle-india/management-team.html",
+      "https://www.nestle.in/about-us/our-leadership-team",
+      "https://www.investywise.com/nestle-india-senior-management-reorganization/"
+    ],
+    "timestamp": "2026-08-18T17:14:07.232791",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Owner",
+    "query": "Cuisinart India Official founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://hamariweb.com/profiles/deepinder-goyal_15694",
+      "https://wikitia.com/wiki/Deepinder_Goyal",
+      "https://www.rbi.org.in/Scripts/BS_NSDPDisplay.aspx?param=4",
+      "https://www.india.com/news/india/meet-zomato-founder-deepinder-goyal-stepped-down-as-eternal-limited-ceo-blinkit-10-minute-delivery-app-shark-tank-albinder-dhindsa-must-know-facts-about-him-8276451/",
+      "https://www.peoplematters.in/article/leadership/15-indian-origin-ceos-leading-the-worlds-biggest-companies-in-2026-50729"
+    ],
+    "timestamp": "2026-08-18T17:14:17.143872",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Address",
+    "query": "Cuisinart India Official registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/CUISINART-RESTAURANTS-PRIVATE-LIMITED-U55101MH2009PTC197895",
+      "https://www.instafinancials.com/company/cuisinart-restaurants-private-limited-U55101MH2009PTC197895/contact-us.html",
+      "https://www.companydetails.in/company/cuisinart-restaurants-private-limited",
+      "https://www.thecompanycheck.com/company/cuisinart-restaurants-private-limited/U55101MH2009PTC197895",
+      "https://www.indiafilings.com/search/cuisinart-restaurants-private-limited-cin-U55101MH2009PTC197895"
+    ],
+    "timestamp": "2026-08-18T17:14:19.077599",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Address",
+    "query": "Cuisinart India Official registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://inspex.in/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.rbi.org.in/scripts/bs_nbfclist.aspx/",
+      "https://simplysetup.com/company-search/",
+      "https://golegally.com/cin-number-search"
+    ],
+    "timestamp": "2026-08-18T17:14:32.168885",
+    "status": "results_found"
+  },
+  {
+    "business": "Cuisinart India Official",
+    "field": "Billing Address",
+    "value": "office no 1, samarth sankul, narhe, pune, 411041",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://simplysetup.com/company-search/",
+    "timestamp": "2026-08-18T17:14:37.175920"
+  },
+  {
+    "business": "Cuisinart India Official",
+    "field": "City",
+    "value": "pune",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://simplysetup.com/company-search/",
+    "timestamp": "2026-08-18T17:14:37.175936"
+  },
+  {
+    "business": "Cuisinart India Official",
+    "field": "Pincode",
+    "value": "411041",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://simplysetup.com/company-search/",
+    "timestamp": "2026-08-18T17:14:37.175941"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Phone",
+    "query": "Cuisinart India Official phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cuisinart.com/support/product-assistance.html",
+      "https://www.tollfreenumbers4u.com/",
+      "https://www.epfindia.gov.in/site_en/Contact.php",
+      "https://flipkart.pissedconsumer.com/customer-service.html"
+    ],
+    "timestamp": "2026-08-18T17:14:39.105928",
+    "status": "results_found"
+  },
+  {
+    "business": "Cuisinart India Official",
+    "field": "Phone Number",
+    "value": "+911180260067",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cuisinart.com/support/product-assistance.html",
+    "timestamp": "2026-08-18T17:14:40.160069"
+  },
+  {
+    "seller": "Cuisinart India Official",
+    "field": "Email",
+    "query": "Cuisinart India Official email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://flipkart.pissedconsumer.com/customer-service.html",
+      "https://www.samsung.com/in/support/contact/?msockid=006a13be32fb6cbd29a3040733bc6d21"
+    ],
+    "timestamp": "2026-08-18T17:14:41.986488",
+    "status": "results_found"
+  },
+  {
+    "business": "Cuisinart India Official",
+    "field": "Email Address",
+    "value": "grievance.officer@flipkart.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://flipkart.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-18T17:14:43.104068"
+  },
+  {
+    "business": "TIGMAAN",
+    "field": "Business Name",
+    "value": "TIGMAAN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3BU5LS8I7GCZM&asin=B0G44J3RH9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-18T17:14:43.878593"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Website",
+    "query": "TIGMAAN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tigmaan.in/",
+      "https://www.tigmaan.in/category"
+    ],
+    "timestamp": "2026-08-18T17:14:45.191156",
+    "status": "results_found"
+  },
+  {
+    "business": "TIGMAAN",
+    "field": "Website URL",
+    "value": "https://www.tigmaan.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.tigmaan.com/",
+    "timestamp": "2026-08-18T17:14:47.523160"
+  },
+  {
+    "business": "TIGMAAN",
+    "field": "Phone Number",
+    "value": "+913418202022",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.tigmaan.com/",
+    "timestamp": "2026-08-18T17:14:47.814066"
+  },
+  {
+    "business": "TIGMAAN",
+    "field": "Email Address",
+    "value": "pr@tigmaan.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.tigmaan.com/",
+    "timestamp": "2026-08-18T17:14:47.820511"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Legal Entity Name",
+    "query": "TIGMAAN company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/trademark-search/tigmaan-6955512",
+      "https://piceapp.com/gst-number-search/tigmaan-33aaqft4977r1zz/",
+      "https://www.tigmaan.in/",
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-07AAQFT4977R1ZU",
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-29AAQFT4977R1ZO"
+    ],
+    "timestamp": "2026-08-18T17:14:52.762488",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Legal Entity Name",
+    "query": "TIGMAAN Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.tigmaan.in/",
+      "https://tigmaan.com/",
+      "https://www.thecompanycheck.com/org/tigmaan/341acbcbbe",
+      "https://tnreginet.gov.in/portal/"
+    ],
+    "timestamp": "2026-08-18T17:15:08.467212",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "PAN",
+    "query": "TIGMAAN PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html"
+    ],
+    "timestamp": "2026-08-18T17:15:14.666968",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "PAN",
+    "query": "TIGMAAN PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tigmaan.in/category/539125a2-f42b-4993-8e53-4d915e8a308c/Frying%20Pans",
+      "https://www.tigmaan.in/",
+      "https://tigmaan.com/",
+      "https://www.knowyourgst.com/gst-number-search/tigmaan-27AAQFT4977R1ZS/",
+      "https://www.knowyourgst.com/gst-number-search/tigmaan-29AAQFT4977R1ZO/"
+    ],
+    "timestamp": "2026-08-18T17:15:28.008298",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "GST",
+    "query": "TIGMAAN GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/tigmaan-27aaqft4977r1zs/",
+      "https://www.knowyourgst.com/gst-number-search/tigmaan-27AAQFT4977R1ZS/",
+      "https://www.mastersindia.co/gst-search/?name=tigmaan&gstin=06AAQFT4977R1ZW",
+      "https://reg.gst.gov.in/registration/",
+      "https://www.knowyourgst.com/gst-number-search/tigmaan-19AAQFT4977R1ZP/"
+    ],
+    "timestamp": "2026-08-18T17:15:34.608221",
+    "status": "results_found"
+  },
+  {
+    "business": "TIGMAAN",
+    "field": "GST Number",
+    "value": "27AAQFT4977R1ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/tigmaan-27AAQFT4977R1ZS/",
+    "timestamp": "2026-08-18T17:15:35.584389"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Owner",
+    "query": "TIGMAAN director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-19AAQFT4977R1ZP",
+      "https://www.dnb.com/business-directory/company-profiles.tigmaan.334bfe07bf1c8d2cb03c2e30b9d16759.html",
+      "https://www.tigmaan.in/",
+      "https://piceapp.com/gst-number-search/tigmaan-33aaqft4977r1zz/",
+      "https://tigmaan.com/"
+    ],
+    "timestamp": "2026-08-18T17:15:37.246220",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Owner",
+    "query": "TIGMAAN managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tigmaan.in/",
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-19AAQFT4977R1ZP",
+      "https://tigmaan.com/",
+      "https://www.dnb.com/business-directory/company-profiles.tigmaan.334bfe07bf1c8d2cb03c2e30b9d16759.html",
+      "https://piceapp.com/gst-number-search/tigmaan-33aaqft4977r1zz/"
+    ],
+    "timestamp": "2026-08-18T17:15:43.785850",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Owner",
+    "query": "TIGMAAN founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tigmaan.com/",
+      "https://www.tigmaan.in/",
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-19AAQFT4977R1ZP",
+      "https://www.thecompanycheck.com/org/tigmaan/341acbcbbe",
+      "https://www.dnb.com/business-directory/company-profiles.tigmaan.334bfe07bf1c8d2cb03c2e30b9d16759.html"
+    ],
+    "timestamp": "2026-08-18T17:15:51.537904",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Address",
+    "query": "TIGMAAN registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.tigmaan.334bfe07bf1c8d2cb03c2e30b9d16759.html",
+      "https://tigmaan.com/",
+      "https://piceapp.com/gst-number-search/tigmaan-33aaqft4977r1zz/",
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-19AAQFT4977R1ZP",
+      "https://www.infobel.com/en/india/tigmaan/kancheepuram/IN123125383/businessdetails.aspx"
+    ],
+    "timestamp": "2026-08-18T17:15:59.430315",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Address",
+    "query": "TIGMAAN registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/tigmaan-27aaqft4977r1zs/",
+      "https://www.knowyourgst.com/gst-number-search/tigmaan-27AAQFT4977R1ZS/",
+      "https://piceapp.com/gst-number-search/tigmaan-33aaqft4977r1zz/",
+      "https://tigmaan.com/",
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-19AAQFT4977R1ZP"
+    ],
+    "timestamp": "2026-08-18T17:16:07.989810",
+    "status": "results_found"
+  },
+  {
+    "seller": "TIGMAAN",
+    "field": "Address",
+    "query": "TIGMAAN head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.tigmaan.334bfe07bf1c8d2cb03c2e30b9d16759.html",
+      "https://www.tigmaan.in/",
+      "https://tigmaan.com/",
+      "https://www.infobel.com/en/india/tigmaan/kancheepuram/IN123125383/businessdetails.aspx",
+      "https://fnshiftsolutions.com/gstin-search/tigmaan-19AAQFT4977R1ZP"
+    ],
+    "timestamp": "2026-08-18T17:16:13.577644",
+    "status": "results_found"
+  },
+  {
+    "business": "Pigeon By Stovekraft",
+    "field": "Business Name",
+    "value": "Pigeon By Stovekraft",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ZPXAEXZ50OR7&asin=B07KYPZHJ9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-18T17:16:19.631653"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "Website",
+    "query": "Pigeon By Stovekraft official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stovekraft.com/",
+      "https://stovekraft.com/contact-us/"
+    ],
+    "timestamp": "2026-08-18T17:16:21.368384",
+    "status": "results_found"
+  },
+  {
+    "business": "Pigeon By Stovekraft",
+    "field": "Website URL",
+    "value": "https://stovekraft.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://stovekraft.com/contact-us/",
+    "timestamp": "2026-08-18T17:16:25.158115"
+  },
+  {
+    "business": "Pigeon By Stovekraft",
+    "field": "Phone Number",
+    "value": "+910253872025",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://stovekraft.com/",
+    "timestamp": "2026-08-18T17:16:26.567790"
+  },
+  {
+    "business": "Pigeon By Stovekraft",
+    "field": "Email Address",
+    "value": "customercare@stovekraft.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://stovekraft.com/",
+    "timestamp": "2026-08-18T17:16:26.568262"
+  },
+  {
+    "business": "Pigeon By Stovekraft",
+    "field": "Billing Address",
+    "value": "#30, 2nd cross, CSI Compound, Mission Road, Bengaluru - 560027",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://stovekraft.com/",
+    "timestamp": "2026-08-18T17:16:27.117748"
+  },
+  {
+    "business": "Pigeon By Stovekraft",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://stovekraft.com/",
+    "timestamp": "2026-08-18T17:16:27.117768"
+  },
+  {
+    "business": "Pigeon By Stovekraft",
+    "field": "Pincode",
+    "value": "560027",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://stovekraft.com/",
+    "timestamp": "2026-08-18T17:16:27.117774"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "Legal Entity Name",
+    "query": "Pigeon By Stovekraft company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stovekraft.com/",
+      "https://stovekraft.com/contact-us/",
+      "https://stovekraft.com/pigeon/airfryer/",
+      "https://stovekraft.com/gilma/",
+      "https://tracxn.com/d/legal-entities/india/stove-kraft-limited/__NjI7qZRqDUn0QquL6nqvMMgmWSuHFDNo2waeLK-0Xaw"
+    ],
+    "timestamp": "2026-08-18T17:16:40.538504",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "Legal Entity Name",
+    "query": "Pigeon By Stovekraft Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stovekraft.com/",
+      "https://stovekraft.com/contact-us/",
+      "https://stovekraft.com/pigeon/airfryer/",
+      "https://stovekraft.com/gilma/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html"
+    ],
+    "timestamp": "2026-08-18T17:16:56.955545",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "PAN",
+    "query": "Pigeon By Stovekraft PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stovekraft.com/",
+      "https://stovekraft.com/contact-us/",
+      "https://stovekraft.com/pigeon/airfryer/",
+      "https://stovekraft.com/gilma/",
+      "https://pigeon-in.com/pages/online-warranty-registration"
+    ],
+    "timestamp": "2026-08-18T17:17:08.167128",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "GST",
+    "query": "Pigeon By Stovekraft GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stovekraft.com/",
+      "https://stovekraft.com/contact-us/",
+      "https://stovekraft.com/pigeon/airfryer/",
+      "https://stovekraft.com/gilma/",
+      "https://pigeon-in.com/pages/online-warranty-registration"
+    ],
+    "timestamp": "2026-08-18T17:17:24.212163",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "GST",
+    "query": "Pigeon By Stovekraft GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stovekraft.com/",
+      "https://stovekraft.com/contact-us/",
+      "https://stovekraft.com/pigeon/airfryer/",
+      "https://stovekraft.com/gilma/",
+      "https://pigeonstores.stovekraft.com/"
+    ],
+    "timestamp": "2026-08-18T17:17:35.911067",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "Owner",
+    "query": "Pigeon By Stovekraft director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://stovekraft.com/our-story",
+      "https://www.marketscreener.com/insider/RAJENDRA-J-GANDHI-A0LD27/",
+      "https://trendlyne.com/equity/about/409322/STOVEKRAFT/stove-kraft-ltd/",
+      "https://www.indianretailer.com/news/stovekraft-hits-300-pigeon-stores-eyes-500-exclusive-outlets-nationwide"
+    ],
+    "timestamp": "2026-08-18T17:17:46.542492",
+    "status": "results_found"
+  },
+  {
+    "seller": "Pigeon By Stovekraft",
+    "field": "Owner",
+    "query": "Pigeon By Stovekraft managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://stovekraft.com/index.php/our-story",
+      "https://trendlyne.com/equity/about/409322/STOVEKRAFT/stove-kraft-ltd/",
+      "https://www.indianretailer.com/brandlicense/archives/news/stovekraft-rolls-out-onam-campaign-promote-pigeon-kitchen-combos.n5796",
+      "https://m.dailyhunt.in/news/india/english/tvnews4u-epaper-tvnews/storvekaft+celebrates+onam+with+pigeon+onam+combotsavam+featuring+pearle+maaney+as+combo+rani-newsid-n723266130",
+      "https://www.aninews.in/news/business/stovekraft-accelerates-growth-with-target-of-500-exclusive-stores-by-202720251023172609/"
+    ],
+    "timestamp": "2026-08-18T17:17:58.204417",
+    "status": "results_found"
+  }
+]

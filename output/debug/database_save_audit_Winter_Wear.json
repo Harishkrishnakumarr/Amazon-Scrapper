@@ -1,0 +1,113 @@
+{
+  "category": "Winter Wear",
+  "records_before_save": 8,
+  "records_saved": 8,
+  "records_verified_after_save": 8,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1419,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1420,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ant.agarwal@retailez.co.in",
+      "gst": "09AALCR3173P1ZL",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "JockeyIndia",
+      "database_id": 1421,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "wecare@jockeyindia.com",
+      "gst": "32CHNPS1878N1ZI",
+      "pan": "CHNPS1878N",
+      "website": "https://www.jockeyindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "StarIndia.",
+      "database_id": 1421,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "customercare@starair.in",
+      "gst": "32CHNPS1878N1ZI",
+      "pan": "ACBPK7739F",
+      "website": "https://starair.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Add to Kart (Online Shop)",
+      "database_id": 1422,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919289055570",
+      "email": "contact@localekart.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MY CHOICE COLLECTION",
+      "database_id": 1419,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "arunjain25664@gmail.com",
+      "gst": "06AADCC9512B1Z4",
+      "pan": "AADCC9512B",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KUKU KI DUKAAN 4",
+      "database_id": 1423,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "33AKSPA2267R1ZN",
+      "pan": "AKSPA2267R",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1421,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "gsd@utiitsl.com",
+      "gst": "27AADCV4254H1Z8",
+      "pan": "AADCV4254H",
+      "website": "https://us.etrade.com/",
+      "status": "Verified"
+    }
+  ]
+}

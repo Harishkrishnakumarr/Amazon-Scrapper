@@ -1,0 +1,61 @@
+{
+  "category": "Software",
+  "records_before_save": 7,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "GPL GAMES",
+      "database_id": 802,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@gpl.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Key Bazaar UP",
+      "database_id": 803,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@keybr.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.keybr.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ZINCA SOFTWARES",
+      "database_id": 804,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "git@github.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "NagaTech Engineering Software Solutions",
+      "database_id": 805,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@persistent.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.persistent.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

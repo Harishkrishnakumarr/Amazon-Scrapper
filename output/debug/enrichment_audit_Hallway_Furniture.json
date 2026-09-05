@@ -1,0 +1,263 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0GWDT4162&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T08:42:54.614584"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://us.etrade.com/e/t/user/login?msockid=058bf0d22bec6bd61fc9e76a2ad96ada"
+    ],
+    "timestamp": "2026-08-17T08:42:56.162487",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+    "timestamp": "2026-08-17T08:44:00.321001"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+912011132011",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-17T08:44:02.909342"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://etrade.gov.et/main/customer/business-license/registration",
+      "https://us.etrade.com/home?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://us.etrade.com/l/welcome/new-account?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://us.etrade.com/e/t/user/login?msockid=058bf0d22bec6bd61fc9e76a2ad96ada"
+    ],
+    "timestamp": "2026-08-17T08:44:12.823744",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://us.etrade.com/e/t/user/login?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://us.etrade.com/platforms/web-platform?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://us.etrade.com/trade?msockid=058bf0d22bec6bd61fc9e76a2ad96ada"
+    ],
+    "timestamp": "2026-08-17T08:44:38.444689",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://us.etrade.com/e/t/user/login?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://us.etrade.com/platforms/web-platform?msockid=058bf0d22bec6bd61fc9e76a2ad96ada",
+      "https://us.etrade.com/trade?msockid=058bf0d22bec6bd61fc9e76a2ad96ada"
+    ],
+    "timestamp": "2026-08-17T08:44:50.399183",
+    "status": "results_found"
+  },
+  {
+    "business": "RAGHUNAYAK FABRIC",
+    "field": "Business Name",
+    "value": "RAGHUNAYAK FABRIC",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AVKN7RX6O9P71&asin=B0HC3RS19Z&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T08:44:55.812128"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "Website",
+    "query": "RAGHUNAYAK FABRIC official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/53198405/how-to-use-google-colab-to-work-with-local-files",
+      "https://stackoverflow.com/questions/62238690/running-docker-on-google-colab"
+    ],
+    "timestamp": "2026-08-17T08:44:57.904770",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "Legal Entity Name",
+    "query": "RAGHUNAYAK FABRIC company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://teamengland.org/team-england-athletes/john-smith",
+      "https://paralympics.org.uk/athletes/johnboy-smith",
+      "https://www.paralympic.org/johnboy-smith",
+      "https://www.bbc.co.uk/programmes/w172wsktfpky4r0",
+      "https://www.wikiwand.com/en/articles/Johnboy_Smith"
+    ],
+    "timestamp": "2026-08-17T08:45:03.714721",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "Legal Entity Name",
+    "query": "RAGHUNAYAK FABRIC Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.raghunayak_fabric.36dc8cbf412327a2b5d14ab6599f7879.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.inspex.in/",
+      "https://zauba.company/",
+      "https://golegally.com/mca-company-search"
+    ],
+    "timestamp": "2026-08-17T08:45:21.381299",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "PAN",
+    "query": "RAGHUNAYAK FABRIC PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.dnb.com/business-directory/company-profiles.raghunayak_fabric.36dc8cbf412327a2b5d14ab6599f7879.html",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://gstverify.co.in/search/",
+      "https://www.incometaxindia.gov.in/pan"
+    ],
+    "timestamp": "2026-08-17T08:45:26.359070",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "PAN",
+    "query": "RAGHUNAYAK FABRIC PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://myanimelist.net/anime/37450/seishun_buta_yarou_wa_bunny_girl_senpai_no_yume_wo_minai",
+      "https://www.filmweb.pl/serial/Seishun+Buta+Yar%C5%8D+wa+Bunny+Girl+senpai+no+Yume+wo+Minai-2018-818177",
+      "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai/reviews",
+      "https://www.filmweb.pl/serial/Seishun+Buta+Yar%C5%8D+wa+Bunny+Girl+senpai+no+Yume+wo+Minai-2018-818177/season/2",
+      "https://myanimelist.net/search/all?q=bunny+girl+senpai+&cat=all"
+    ],
+    "timestamp": "2026-08-17T08:45:35.826620",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "GST",
+    "query": "RAGHUNAYAK FABRIC GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/danny-avila/LibreChat",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://github.com/f/prompts.chat",
+      "https://cellphones.com.vn/sforum/chatgpt-bi-gioi-han-tin-nhan",
+      "https://cellphones.com.vn/sforum/cach-khoi-phuc-doan-chat-da-xoa-tren-chatgpt"
+    ],
+    "timestamp": "2026-08-17T08:45:47.985927",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "GST",
+    "query": "RAGHUNAYAK FABRIC GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://piceapp.com/gst-number-search/shree-raghunayak-industries-27aerpb5188h1z4/",
+      "https://www.dnb.com/business-directory/company-profiles.raghunayak_fabric.36dc8cbf412327a2b5d14ab6599f7879.html",
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/raghunayak-commercial-private-limited-29aamcr1581n1zm/"
+    ],
+    "timestamp": "2026-08-17T08:46:01.172475",
+    "status": "results_found"
+  },
+  {
+    "business": "RAGHUNAYAK FABRIC",
+    "field": "GST Number",
+    "value": "27AERPB5188H1Z4",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shree-raghunayak-industries-27aerpb5188h1z4/",
+    "timestamp": "2026-08-17T08:46:03.981136"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "Owner",
+    "query": "RAGHUNAYAK FABRIC director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.raghunayak_fabric.36dc8cbf412327a2b5d14ab6599f7879.html",
+      "https://www.masterdata.in/company/raghunayak_commercial_private_limited/U51909KA2022PTC165804",
+      "https://piceapp.com/gst-number-search/raghunayak-commercial-private-limited-29aamcr1581n1zm/",
+      "https://www.thecompanycheck.com/company/raghunayak-commercial-private-limited/U51909KA2022PTC165804"
+    ],
+    "timestamp": "2026-08-17T08:46:07.252884",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "Owner",
+    "query": "RAGHUNAYAK FABRIC managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kd.jd.com/v3/",
+      "https://www.claudezh.com/chatgpt/chatgpt-access-china.html",
+      "https://www.mca.gov.cn/n152/n165/c1662004999980012355/content.html",
+      "https://learn-jdm.jd.com/knowledge/hot-topic"
+    ],
+    "timestamp": "2026-08-17T08:46:13.313120",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAGHUNAYAK FABRIC",
+    "field": "Address",
+    "query": "RAGHUNAYAK FABRIC registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.raghunayak_fabric.36dc8cbf412327a2b5d14ab6599f7879.html",
+      "https://www.apnapanipat.com/raghunayak-fabrics/",
+      "https://suppliers.jimtrade.com/15/14640/",
+      "https://www.jimyellowpages.com/companies/raghunayak_fabrics_657733",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-17T08:47:00.642977",
+    "status": "results_found"
+  }
+]

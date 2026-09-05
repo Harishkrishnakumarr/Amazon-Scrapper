@@ -1,0 +1,87 @@
+{
+  "category": "Building Raw Materials",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1282,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919968071182",
+      "email": "pacer@psc.uscourts.gov",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PRIME BookSeller_9386835571",
+      "database_id": 1283,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919386835571",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "BOOK-AT-U",
+      "database_id": 1284,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "amelia@company.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.bookatu.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BOOKS & EQUIPMENT DISTRIBUTORS",
+      "database_id": 1285,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919860359463",
+      "email": "besafe@moneyworks4me.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Repro Books-On-Demand",
+      "database_id": 1286,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "helpdesk-mparivahan@gov.in",
+      "gst": "06AAECR4557N2ZV",
+      "pan": "AAECR4557N",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "British Terminal (TM)",
+      "database_id": 1287,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "unedygymraeg@companieshouse.gov.uk",
+      "gst": "07AABCB7987R1ZP",
+      "pan": "AABCB7987R",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

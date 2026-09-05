@@ -1,0 +1,61 @@
+{
+  "category": "Christening Wear",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "WH Supply Co.",
+      "database_id": 1469,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GOPAL.",
+      "database_id": 1469,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "i.anuganeshan13@gmail.com",
+      "gst": "20AVWPS7693C1Z1",
+      "pan": "AVWPS7693C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Saarya Purvansh Creations",
+      "database_id": 1469,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SERAH",
+      "database_id": 1469,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "rt@serahtravel.com",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://www.serah.com/",
+      "status": "Verified"
+    }
+  ]
+}

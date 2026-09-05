@@ -1,0 +1,399 @@
+[
+  {
+    "business": "Shopster\u2122",
+    "field": "Business Name",
+    "value": "Shopster\u2122",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ISHLC1K2WYWG&asin=B07KCHPF4H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T12:32:20.540675"
+  },
+  {
+    "seller": "Shopster\u2122",
+    "field": "Website",
+    "query": "Shopster\u2122 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.otosaigon.com/threads/ai-bit-chuyen-tu-vni-win-sang-unicode-chi-dum.350188/",
+      "https://www.otosaigon.com/threads/unikey-bi-loi-voi-trinh-duyet-ms-edge.8915271/page-2"
+    ],
+    "timestamp": "2026-08-24T12:32:23.554739",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shopster\u2122",
+    "field": "Legal Entity Name",
+    "query": "Shopster\u2122 company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/title/tt0070622/",
+      "https://pro.imdb.com/",
+      "https://www.imdb.com/title/tt32565993/",
+      "https://pro.imdb.com/login/ap",
+      "https://www.imdb.com/list/ls094046909/"
+    ],
+    "timestamp": "2026-08-24T12:33:58.509786",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shopster\u2122",
+    "field": "Legal Entity Name",
+    "query": "Shopster\u2122 Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.prominent.com/en/Products/Products/Metering-Pumps/pg-metering-pumps.html",
+      "https://www.pumpworld.com/categories/6593/chemical-metering-pumps",
+      "https://factoryworkbench.com/best-drum-pump-with-meter/",
+      "https://www.lmipumps.com/en/products/chemical-metering-pumps/",
+      "https://www.mcmaster.com/products/chemical-metering-pumps/"
+    ],
+    "timestamp": "2026-08-24T12:34:05.469500",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shopster\u2122",
+    "field": "PAN",
+    "query": "Shopster\u2122 PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sedai.io/blog/ai-tools-cloud-cost-optimization",
+      "https://copilot-experts.com/best-ai-cost-optimization-tools/",
+      "https://www.truefoundry.com/blog/ai-cost-optimization-tools",
+      "https://www.pointfive.co/guides/ai-cost-optimization"
+    ],
+    "timestamp": "2026-08-24T12:34:19.796017",
+    "status": "results_found"
+  },
+  {
+    "business": "Aston Andia",
+    "field": "Business Name",
+    "value": "Aston Andia",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2IKKCR161R2WU&asin=B0CNCTS2MZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T12:34:21.809248"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "Website",
+    "query": "Aston Andia official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/"
+    ],
+    "timestamp": "2026-08-24T12:34:25.240752",
+    "status": "results_found"
+  },
+  {
+    "business": "Aston Andia",
+    "field": "Website URL",
+    "value": "https://www.astonmartin.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.astonmartin.com/en",
+    "timestamp": "2026-08-24T12:34:29.036231"
+  },
+  {
+    "business": "Aston Andia",
+    "field": "Phone Number",
+    "value": "+916444412026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.astonmartin.com/contact-us",
+    "timestamp": "2026-08-24T12:34:42.663015"
+  },
+  {
+    "business": "Aston Andia",
+    "field": "Email Address",
+    "value": "digital@astonmartin.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.astonmartin.com/legal",
+    "timestamp": "2026-08-24T12:34:43.690275"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "Legal Entity Name",
+    "query": "Aston Andia company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/",
+      "https://www.carwale.com/aston-martin-cars/",
+      "https://www.astonmartin.com/en/models",
+      "https://www.aston.ac.uk/study/applicant-portal"
+    ],
+    "timestamp": "2026-08-24T12:34:52.770522",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "PAN",
+    "query": "Aston Andia PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/",
+      "https://www.carwale.com/aston-martin-cars/",
+      "https://www.astonmartin.com/en/models",
+      "https://www.aston.ac.uk/study/applicant-portal"
+    ],
+    "timestamp": "2026-08-24T12:35:16.175697",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "PAN",
+    "query": "Aston Andia PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/",
+      "https://www.carwale.com/aston-martin-cars/",
+      "https://www.astonmartin.com/en/models",
+      "https://www.aston.ac.uk/study/applicant-portal"
+    ],
+    "timestamp": "2026-08-24T12:35:29.808857",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "GST",
+    "query": "Aston Andia GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/",
+      "https://www.carwale.com/aston-martin-cars/",
+      "https://www.astonmartin.com/en/models",
+      "https://www.aston.ac.uk/study/applicant-portal"
+    ],
+    "timestamp": "2026-08-24T12:35:33.948898",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "GST",
+    "query": "Aston Andia GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/",
+      "https://www.carwale.com/aston-martin-cars/",
+      "https://www.astonmartin.com/en/models",
+      "https://www.aston.ac.uk/study/applicant-portal"
+    ],
+    "timestamp": "2026-08-24T12:35:48.997026",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "Owner",
+    "query": "Aston Andia director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/",
+      "https://www.carwale.com/aston-martin-cars/",
+      "https://www.astonmartin.com/en/models",
+      "https://www.aston.ac.uk/study/applicant-portal"
+    ],
+    "timestamp": "2026-08-24T12:35:56.231197",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aston Andia",
+    "field": "Owner",
+    "query": "Aston Andia managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astonmartin.com/en",
+      "https://www.aston.ac.uk/",
+      "https://www.carwale.com/aston-martin-cars/",
+      "https://www.astonmartin.com/en/models",
+      "https://www.aston.ac.uk/study/applicant-portal"
+    ],
+    "timestamp": "2026-08-24T12:36:11.023175",
+    "status": "results_found"
+  },
+  {
+    "business": "Wooden Boy",
+    "field": "Business Name",
+    "value": "Wooden Boy",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJOH1BNOW7OYR&asin=B0GHJZX64F&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T12:36:26.389381"
+  },
+  {
+    "seller": "Wooden Boy",
+    "field": "Website",
+    "query": "Wooden Boy official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.woodenstreet.com/",
+      "https://www.woodensure.com/dining-table"
+    ],
+    "timestamp": "2026-08-24T12:36:29.257515",
+    "status": "results_found"
+  },
+  {
+    "business": "Wooden Boy",
+    "field": "Website URL",
+    "value": "https://www.woodenboy.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.woodenboy.com/",
+    "timestamp": "2026-08-24T12:36:32.386613"
+  },
+  {
+    "business": "Wooden Boy",
+    "field": "Phone Number",
+    "value": "+910001192026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.woodenboy.com/",
+    "timestamp": "2026-08-24T12:36:33.578501"
+  },
+  {
+    "business": "Wooden Boy",
+    "field": "Email Address",
+    "value": "support@woodenboy.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.woodenboy.com/contact",
+    "timestamp": "2026-08-24T12:36:35.732786"
+  },
+  {
+    "seller": "Wooden Boy",
+    "field": "Legal Entity Name",
+    "query": "Wooden Boy company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.woodenstreet.com/",
+      "https://www.woodensure.com/dining-table",
+      "https://www.woodenstreet.com/furniture",
+      "https://www.pepperfry.com/",
+      "https://woodenslice.in/"
+    ],
+    "timestamp": "2026-08-24T12:36:38.235136",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wooden Boy",
+    "field": "PAN",
+    "query": "Wooden Boy PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.paisabazaar.com/pan-card/how-to-track-pan-card-status/",
+      "https://www.paisabazaar.com/pan-card/form-61/",
+      "https://www.paisabazaar.com/pan-card/tan-verification/",
+      "https://www.paisabazaar.com/pan-card/how-to-change-photo-and-signature-in-pan-card/"
+    ],
+    "timestamp": "2026-08-24T12:37:39.570795",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wooden Boy",
+    "field": "GST",
+    "query": "Wooden Boy GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.woodenstreet.com/",
+      "https://www.woodensure.com/dining-table",
+      "https://www.woodenstreet.com/furniture",
+      "https://www.pepperfry.com/",
+      "https://woodenslice.in/"
+    ],
+    "timestamp": "2026-08-24T12:37:44.878778",
+    "status": "results_found"
+  },
+  {
+    "seller": "Wooden Boy",
+    "field": "Owner",
+    "query": "Wooden Boy director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.woodenstreet.com/",
+      "https://www.woodensure.com/dining-table",
+      "https://www.woodenstreet.com/furniture",
+      "https://www.pepperfry.com/",
+      "https://woodenslice.in/"
+    ],
+    "timestamp": "2026-08-24T12:38:11.256616",
+    "status": "results_found"
+  },
+  {
+    "business": "BEYOND RETAIL",
+    "field": "Business Name",
+    "value": "BEYOND RETAIL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2B3Y35WD1Y93K&asin=B08LB3W3SZ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T12:38:28.471846"
+  },
+  {
+    "seller": "BEYOND RETAIL",
+    "field": "Website",
+    "query": "BEYOND RETAIL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.andbeyond.com/",
+      "https://beyondappliances.in/"
+    ],
+    "timestamp": "2026-08-24T12:38:32.212753",
+    "status": "results_found"
+  },
+  {
+    "seller": "BEYOND RETAIL",
+    "field": "Legal Entity Name",
+    "query": "BEYOND RETAIL company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.andbeyond.com/",
+      "https://beyondappliances.in/",
+      "https://www.scootersoftware.com/download.php",
+      "https://dictionary.cambridge.org/dictionary/english/beyond",
+      "https://www.merriam-webster.com/dictionary/beyond"
+    ],
+    "timestamp": "2026-08-24T12:40:11.306605",
+    "status": "results_found"
+  },
+  {
+    "seller": "BEYOND RETAIL",
+    "field": "Legal Entity Name",
+    "query": "BEYOND RETAIL Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.andbeyond.com/",
+      "https://beyondappliances.in/",
+      "https://www.scootersoftware.com/download.php",
+      "https://dictionary.cambridge.org/dictionary/english/beyond",
+      "https://www.merriam-webster.com/dictionary/beyond"
+    ],
+    "timestamp": "2026-08-24T12:40:27.822459",
+    "status": "results_found"
+  }
+]

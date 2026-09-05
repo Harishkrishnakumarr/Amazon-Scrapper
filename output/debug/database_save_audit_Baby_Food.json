@@ -1,0 +1,61 @@
+{
+  "category": "Baby Food",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Amazon Retail",
+      "database_id": 1177,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "37AAPCA6346P1ZU",
+      "pan": "AAPCA6346P",
+      "website": "https://www.primevideo.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "WENOVA BRANDS PRIVATE LIMITED",
+      "database_id": 1178,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917338923389",
+      "email": "r1980@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://wenovabrands.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Li'l Sprouts",
+      "database_id": 1179,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Jigajinni Industries Private Limited",
+      "database_id": 1180,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "snipaste.app@gmail.com",
+      "gst": "29AAECJ7480N1ZS",
+      "pan": "AAECJ7480N",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

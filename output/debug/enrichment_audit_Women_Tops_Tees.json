@@ -1,0 +1,426 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0792K23SS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T05:21:14.536469"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-15T05:21:16.848266",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T05:21:34.313574"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T05:21:35.641580"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-15T05:21:35.643087"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:21:47.770459",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-15T05:22:03.465652",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:22:10.345983",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:22:20.144476",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:22:28.391620",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:22:31.969497",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:22:38.278668",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-19AAJCC8517E1ZI/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-19aajcc8517e1zi/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://gst.jamku.app/gstin/19AAJCC8517E1ZI",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-15T05:22:47.987069",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-19AAJCC8517E1ZI/",
+    "timestamp": "2026-08-15T05:22:48.263708"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:22:49.821577",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:22:56.980652",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-15T05:23:04.686833",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-15T05:23:10.497036",
+    "status": "results_found"
+  },
+  {
+    "business": "Aahwan Creation",
+    "field": "Business Name",
+    "value": "Aahwan Creation",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1BKUK1S4635G8&asin=B0FLK58SDF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T05:23:15.638751"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "Website",
+    "query": "Aahwan Creation official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kaskus.co.id/post/64a408fc26416c27216aad88",
+      "https://m.kaskus.co.id/thread/5b3cf85edad770f0798b4568/inilah-25--presenter-dan-pembaca-berita-paling-cantik-di-indonesia/"
+    ],
+    "timestamp": "2026-08-15T05:23:17.185016",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "Legal Entity Name",
+    "query": "Aahwan Creation company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.visitorlando.com/things-to-do/theme-parks/",
+      "https://www.visitorlando.com/things-to-do/",
+      "https://de.visitorlando.com/aktivitaeten/themenparks/universal-orlando-resort/",
+      "https://de.visitorlando.com/aktivitaeten/themenparks/",
+      "https://www.visitorlando.com/things-to-do/theme-parks/walt-disney-world-resort/hollywood-studios/"
+    ],
+    "timestamp": "2026-08-15T05:23:25.617680",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "PAN",
+    "query": "Aahwan Creation PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mercedes-benz.fr/",
+      "https://www.mercedes-benz.fr/passengercars/configurator.html",
+      "https://occasion.mercedes-benz.fr/",
+      "https://media.mercedes-benz.fr/le-nouveau-mercedes-benz-eqs--plus-intelligent-que-jamais/",
+      "https://media.mercedes-benz.fr/la-nouvelle-mercedes-benz-classe-s--revisitee-dans-chaque-detail/"
+    ],
+    "timestamp": "2026-08-15T05:23:46.789203",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "GST",
+    "query": "Aahwan Creation GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://techbriefing.tistory.com/72",
+      "https://m.blog.naver.com/toruin84/222680906672",
+      "https://blog.naver.com/moosul0523/224274971816",
+      "https://blog.naver.com/moosul0523/223826028588",
+      "https://seoyido.com/appdata-%ed%8f%b4%eb%8d%94-%ec%a0%95%eb%a6%ac-%eb%b0%a9%eb%b2%95-windows-10-11-%ec%88%a8%ea%b2%a8%ec%a7%84-%ec%9a%a9%eb%9f%89-10gb-%ed%99%95%eb%b3%b4%ed%95%98%eb%8a%94-%eb%b2%95/"
+    ],
+    "timestamp": "2026-08-15T05:24:10.789134",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "Owner",
+    "query": "Aahwan Creation director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://medium.com/@vikkasjindal/the-best-way-to-return-responses-in-rest-apis-f248113e385e",
+      "https://stackoverflow.com/questions/24022928/what-should-i-do-when-there-is-no-data-to-return-from-a-rest-endpoint",
+      "https://stackoverflow.com/questions/11746894/what-is-the-proper-rest-response-code-for-a-valid-request-but-empty-data",
+      "https://learndrive.org/no-response-is-a-response/",
+      "https://www.sayanchor.com/post/sending-follow-up-email-sample"
+    ],
+    "timestamp": "2026-08-15T05:24:34.278918",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "Owner",
+    "query": "Aahwan Creation managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tiktok.com/",
+      "https://www.tiktok.com/login",
+      "https://m.tiktok.com/signup",
+      "https://www.tiktok.com/id-ID",
+      "https://www.tiktok.com/en%22"
+    ],
+    "timestamp": "2026-08-15T05:24:43.427211",
+    "status": "results_found"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "Address",
+    "query": "Aahwan Creation registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T05:25:06.604455",
+    "status": "no_results"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "Address",
+    "query": "Aahwan Creation registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/aahwan-creation-24awopv0868p1zi/",
+      "https://www.aahwan.in/pages/contact-us",
+      "https://www.knowyourgst.com/gst-number-search/aahwan-creation-24AWOPV0868P1ZI/",
+      "https://gst.jamku.app/gstin/24AWOPV0868P1ZI",
+      "https://www.dnb.com/business-directory/company-profiles.aahwan_creation.7806c8066f68c937d494c5559a3c73e1.html"
+    ],
+    "timestamp": "2026-08-15T05:25:09.984325",
+    "status": "results_found"
+  },
+  {
+    "business": "Aahwan Creation",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/aahwan-creation-24awopv0868p1zi/",
+    "timestamp": "2026-08-15T05:25:13.240897"
+  },
+  {
+    "business": "Aahwan Creation",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/aahwan-creation-24awopv0868p1zi/",
+    "timestamp": "2026-08-15T05:25:13.240916"
+  },
+  {
+    "business": "Aahwan Creation",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/aahwan-creation-24awopv0868p1zi/",
+    "timestamp": "2026-08-15T05:25:13.240920"
+  },
+  {
+    "business": "Aahwan Creation",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/aahwan-creation-24awopv0868p1zi/",
+    "timestamp": "2026-08-15T05:25:13.240923"
+  },
+  {
+    "seller": "Aahwan Creation",
+    "field": "Phone",
+    "query": "Aahwan Creation phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.moyaweb.com/"
+    ],
+    "timestamp": "2026-08-15T05:25:17.782562",
+    "status": "results_found"
+  }
+]

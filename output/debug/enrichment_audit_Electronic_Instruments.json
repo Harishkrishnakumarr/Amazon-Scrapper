@@ -1,0 +1,698 @@
+[
+  {
+    "business": "QAWACHH",
+    "field": "Business Name",
+    "value": "QAWACHH",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ACY0OFYKVDQX7&asin=B0198WHAQM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-22T23:35:51.119243"
+  },
+  {
+    "seller": "QAWACHH",
+    "field": "Website",
+    "query": "QAWACHH official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.qawachh.in/",
+      "https://www.qawachh.in/car-door-led-lights.html"
+    ],
+    "timestamp": "2026-08-22T23:35:53.579823",
+    "status": "results_found"
+  },
+  {
+    "business": "QAWACHH",
+    "field": "Website URL",
+    "value": "https://www.qawachh.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.qawachh.in/car-door-led-lights.html",
+    "timestamp": "2026-08-22T23:36:49.102034"
+  },
+  {
+    "business": "QAWACHH",
+    "field": "Phone Number",
+    "value": "+914781190585",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.qawachh.in/",
+    "timestamp": "2026-08-22T23:36:49.705260"
+  },
+  {
+    "business": "QAWACHH",
+    "field": "GST Number",
+    "value": "07APZPG3266N1Z2",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.qawachh.in/",
+    "timestamp": "2026-08-22T23:36:49.706639"
+  },
+  {
+    "seller": "QAWACHH",
+    "field": "Legal Entity Name",
+    "query": "QAWACHH company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-22T23:37:16.510964",
+    "status": "no_results"
+  },
+  {
+    "seller": "QAWACHH",
+    "field": "Legal Entity Name",
+    "query": "QAWACHH Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-22T23:37:19.234062",
+    "status": "no_results"
+  },
+  {
+    "seller": "QAWACHH",
+    "field": "Legal Entity Name",
+    "query": "QAWACHH legal entity",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.primevideo.com/"
+    ],
+    "timestamp": "2026-08-22T23:37:21.861402",
+    "status": "results_found"
+  },
+  {
+    "seller": "QAWACHH",
+    "field": "PAN",
+    "query": "QAWACHH PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://incometaxindia.gov.in/pan",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.utiitsl.com/"
+    ],
+    "timestamp": "2026-08-22T23:37:45.538382",
+    "status": "results_found"
+  },
+  {
+    "business": "VEBETO",
+    "field": "Business Name",
+    "value": "VEBETO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2LNKYIJ2FRFD8&asin=B0CHGDG9DJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T23:37:54.297760"
+  },
+  {
+    "seller": "VEBETO",
+    "field": "Website",
+    "query": "VEBETO official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://vebeto.com/",
+      "https://manuals.plus/category/vebeto"
+    ],
+    "timestamp": "2026-08-22T23:37:57.419763",
+    "status": "results_found"
+  },
+  {
+    "business": "YASHVI CREATION Electricals",
+    "field": "Business Name",
+    "value": "YASHVI CREATION Electricals",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15BG8KDOZY8B0&asin=B0H1QL6M15&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T23:40:11.301123"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "Website",
+    "query": "YASHVI CREATION Electricals official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rutube.ru/video/e36e99f0c20617f88f955bbf9c603517/",
+      "https://vk.ru/wall-213693290_223"
+    ],
+    "timestamp": "2026-08-22T23:40:12.492998",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "Legal Entity Name",
+    "query": "YASHVI CREATION Electricals company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indbingo.com/",
+      "https://www.bingo101.com/",
+      "https://yonogames.app/yono-games.html",
+      "https://www.winzogames.com/hi-in",
+      "https://winzo-gold.en.uptodown.com/android"
+    ],
+    "timestamp": "2026-08-22T23:40:24.040597",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "Legal Entity Name",
+    "query": "YASHVI CREATION Electricals Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.visitdublin.com/",
+      "https://www.lonelyplanet.com/articles/things-to-know-before-traveling-to-dublin",
+      "https://www.omio.com/travel/dublin",
+      "https://www.goindigo.in/international-destinations/dublin.html",
+      "https://travel.usnews.com/Dublin_Ireland/"
+    ],
+    "timestamp": "2026-08-22T23:40:31.578459",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "PAN",
+    "query": "YASHVI CREATION Electricals PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.yhkrenovation.com/top-7-plumber-services-in-kuantan/",
+      "https://www.caridancari.com/tukang-paip/kuantan/",
+      "https://www.findglocal.com/MY/Kuantan/1493377-34/genre/178867352155084/Plumbers"
+    ],
+    "timestamp": "2026-08-22T23:40:48.431118",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "PAN",
+    "query": "YASHVI CREATION Electricals PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.answers.com/manners-and-etiquette/What_does_epns_a1_sheffield_on_your_cutlery_mean",
+      "https://www.answers.com/telecommunications/What_is_the_correct_mobile_number_format_for_Ireland"
+    ],
+    "timestamp": "2026-08-22T23:40:55.863874",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "PAN",
+    "query": "YASHVI CREATION Electricals PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kenh14.vn/",
+      "https://kenh14.vn/kenh14.html",
+      "https://kenh14.vn/star.chn",
+      "https://soha.vn/kenh14.html",
+      "https://kenh14.vn/doi-song.chn"
+    ],
+    "timestamp": "2026-08-22T23:41:02.500849",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "GST",
+    "query": "YASHVI CREATION Electricals GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.police.pref.hokkaido.lg.jp/00ps/kitami-syo/index.html",
+      "https://xn--xlr83icu3dx9a7g725a.com/list/hokkaido/",
+      "https://www.police.pref.hokkaido.lg.jp/00ps/kitamihonbu/iinkai/02_public_service.html",
+      "https://car-me.jp/articles/14661",
+      "https://atomfirm.com/media/87108"
+    ],
+    "timestamp": "2026-08-22T23:41:08.057649",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "GST",
+    "query": "YASHVI CREATION Electricals GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://earthquake.tenki.jp/bousai/earthquake/",
+      "https://earthquake.tenki.jp/bousai/earthquake/entries/",
+      "https://earthquake.tenki.jp/bousai/earthquake/entries/level-4/",
+      "https://earthquake.tenki.jp/",
+      "https://earthquake.tenki.jp/bousai/earthquake/seismicity-map/7days/"
+    ],
+    "timestamp": "2026-08-22T23:41:25.567464",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "Owner",
+    "query": "YASHVI CREATION Electricals director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tripadvisor.in/Attractions-g528928-Activities-Bowral_Southern_Highlands_New_South_Wales.html",
+      "https://www.visitnsw.com/destinations/country-nsw/southern-highlands/bowral",
+      "https://www.australiantraveller.com/nsw/southern-highlands/bowral/things-to-do-in-bowral/",
+      "https://www.tripadvisor.com.au/Attractions-g528928-Activities-Bowral_Southern_Highlands_New_South_Wales.html",
+      "https://www.walkmyworld.com/posts/things-to-do-in-bowral"
+    ],
+    "timestamp": "2026-08-22T23:41:30.508008",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "Owner",
+    "query": "YASHVI CREATION Electricals managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.kaskus.co.id/",
+      "https://www.kaskus.co.id/post/64a408fc26416c27216aad88",
+      "https://m.kaskus.co.id/thread/5937d3f096bde6e3588b456b/kembaran-artis-indonesia-yang-mirip-dengan-bintang-jav/",
+      "https://m.kaskus.co.id/thread/000000000000000017014967/nonton-bokep--sakit-jiwa",
+      "https://m.kaskus.co.id/thread/5bdddc7092523384398b4567/pacar-pernah-di-grepe-grepe/"
+    ],
+    "timestamp": "2026-08-22T23:41:45.911972",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "Address",
+    "query": "YASHVI CREATION Electricals registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.yashvi_creation.c61ea3b0c799ea35ea22e2c504bf91ef.html",
+      "https://piceapp.com/gst-number-search/yashvi-creation-27aaqhs6357a1zu/",
+      "https://www.dnb.com/business-directory/company-profiles.yashvi_creation.8d565d51bc31eb72fbb9d0b85b521d7b.html",
+      "https://www.knowyourgst.com/gst-number-search/yashvi-creation-24ARKPP5638C1ZR/",
+      "https://rocketreach.co/yashvi-electrical-profile_b7f3ad3dc25db362"
+    ],
+    "timestamp": "2026-08-22T23:41:54.096160",
+    "status": "results_found"
+  },
+  {
+    "seller": "YASHVI CREATION Electricals",
+    "field": "Address",
+    "query": "YASHVI CREATION Electricals registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/3052f5a1ee2c6dd6f31f86de.html",
+      "http://jingyan.baidu.com",
+      "http://jingyan.baidu.com//list/10",
+      "http://jingyan.baidu.com//list/11",
+      "https://www.tenforums.com/tutorials/3539-sign-user-account-automatically-windows-10-startup.html"
+    ],
+    "timestamp": "2026-08-22T23:41:59.422450",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0FBJYMQ45&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T23:42:14.754797"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-22T23:42:16.125899",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-22T23:42:29.233468",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-22T23:42:58.292107",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-22T23:43:13.444853",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-22T23:43:18.933300",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-22T23:43:51.849314",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-22T23:43:58.031930",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://kaystore.in/",
+      "https://kayfashions.in/"
+    ],
+    "timestamp": "2026-08-22T23:44:05.278376",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.kay.com/?msockid=2a9c1a92c44e61d63d040d2fc55b6083",
+      "https://www.kaybeauty.com/en-gb/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433"
+    ],
+    "timestamp": "2026-08-22T23:44:12.532952",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B08GJT1WQX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T23:44:15.712892"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-22T23:44:17.091432",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T23:44:21.617500"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T23:44:22.020484"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-22T23:44:22.021110"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-36aajcc8517e1zm/",
+      "https://gst.unifers.ai/gst/18AAJCC8517E1ZK/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-08-22T23:44:28.840526",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:44:53.234706",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:45:02.612643",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:45:07.347666",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-22T23:45:10.282957",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+    "timestamp": "2026-08-22T23:45:11.070187"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:45:12.483696",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://theorg.com/org/cocoblu-retail",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.signalhire.com/profiles/mouli-venkataraman%27s-email/159940393",
+      "https://www.affluense.club/company/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-08-22T23:45:18.686912",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-22T23:45:24.658309",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-22T23:45:29.075172",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:45:32.401450"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:45:32.401458"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:45:32.401461"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-22T23:45:32.401462"
+  }
+]

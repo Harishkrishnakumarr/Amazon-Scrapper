@@ -1,0 +1,790 @@
+[
+  {
+    "business": "HARP MODZ",
+    "field": "Business Name",
+    "value": "HARP MODZ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A204N1UDIA7IHI&asin=B0H5D6KLY3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:34:50.486786"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Website",
+    "query": "HARP MODZ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/"
+    ],
+    "timestamp": "2026-08-27T06:34:52.697871",
+    "status": "results_found"
+  },
+  {
+    "business": "HARP MODZ",
+    "field": "Website URL",
+    "value": "https://www.harpmodz.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.harpmodz.in/",
+    "timestamp": "2026-08-27T06:34:59.118784"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Legal Entity Name",
+    "query": "HARP MODZ company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:35:12.380865",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Legal Entity Name",
+    "query": "HARP MODZ Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:35:25.486554",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "PAN",
+    "query": "HARP MODZ PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/"
+    ],
+    "timestamp": "2026-08-27T06:35:27.522383",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "PAN",
+    "query": "HARP MODZ PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:35:33.655134",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "GST",
+    "query": "HARP MODZ GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:35:45.199401",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "GST",
+    "query": "HARP MODZ GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:35:57.002403",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Owner",
+    "query": "HARP MODZ director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:35:58.154294",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Owner",
+    "query": "HARP MODZ founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:36:11.097028",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Address",
+    "query": "HARP MODZ registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:36:18.688240",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Phone",
+    "query": "HARP MODZ phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:36:32.964301",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Phone",
+    "query": "HARP MODZ contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/art/harp-musical-instrument",
+      "https://virtualpiano.net/virtual-harp/",
+      "https://organology.net/instrument/harp/",
+      "https://musiknerd.org/en/musical-instruments/harp/"
+    ],
+    "timestamp": "2026-08-27T06:36:42.864895",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARP MODZ",
+    "field": "Email",
+    "query": "HARP MODZ email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://harpmodz.in/policies/contact-information",
+      "https://harpmodz.in/pages/contact",
+      "https://harpmodz.in/",
+      "https://harpmodz.in/search"
+    ],
+    "timestamp": "2026-08-27T06:37:00.517881",
+    "status": "results_found"
+  },
+  {
+    "business": "Ficzny",
+    "field": "Business Name",
+    "value": "Ficzny",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1IR93J7LGJNJ0&asin=B0G6D4S9JD&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:37:02.771131"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "Website",
+    "query": "Ficzny official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida",
+      "https://www.universalorlando.com/web/en/us/tickets-packages/park-tickets"
+    ],
+    "timestamp": "2026-08-27T06:37:09.836272",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "Legal Entity Name",
+    "query": "Ficzny company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.gamer.com.tw/G2.php?bsn=1473&sn=453",
+      "https://forum.gamer.com.tw/search.php?bsn=18673&q=%E4%BC%BA%E6%9C%8D%E5%99%A8",
+      "https://forum.gamer.com.tw/C.php?bsn=16892&snA=7944",
+      "https://forum.gamer.com.tw/Co.php?bsn=18673&sn=324983"
+    ],
+    "timestamp": "2026-08-27T06:37:26.355336",
+    "status": "results_found"
+  },
+  {
+    "business": "Ficzny",
+    "field": "Phone Number",
+    "value": "+916025493505",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forum.gamer.com.tw/C.php?bsn=16892&snA=7944",
+    "timestamp": "2026-08-27T06:37:35.218999"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "PAN",
+    "query": "Ficzny PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.nanohana8.com/course.html",
+      "https://nanohana-harikyu.com/menu-price/",
+      "https://www.ise-shinkyuuseikotsuin.com/"
+    ],
+    "timestamp": "2026-08-27T06:37:42.455492",
+    "status": "results_found"
+  },
+  {
+    "business": "Ficzny",
+    "field": "Email Address",
+    "value": "nanohana-fujito@ezweb.ne.jp",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.nanohana8.com/course.html",
+    "timestamp": "2026-08-27T06:37:43.819169"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "PAN",
+    "query": "Ficzny PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dell.com/support/contractservices/en-uk/?msockid=243214ddc1866b8c2725031fc09c6a18",
+      "https://www.dell.com/support/order-status/en-us/order-support?msockid=243214ddc1866b8c2725031fc09c6a18",
+      "https://www.truckingboards.com/bb/threads/fedex.9274/",
+      "https://www.truckingboards.com/bb/forums/fedex-freight.53/page-4"
+    ],
+    "timestamp": "2026-08-27T06:37:56.083703",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "GST",
+    "query": "Ficzny GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.60millions-mag.com/",
+      "https://www.60millions-mag.com/commerce/article/amazon-haul-la-foire-aux-produits-non-conformes-20260506/",
+      "https://www.dvd-forum.at/",
+      "https://www.dvd-forum.at/amazon-startet-die-blockbuster-days-mit-starken-filmdeals"
+    ],
+    "timestamp": "2026-08-27T06:37:58.498912",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "GST",
+    "query": "Ficzny GST number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-27T06:38:10.822635",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "Owner",
+    "query": "Ficzny director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://asohata.com/hajimeshachounanimononenshuushinchou/",
+      "https://www.nikkansports.com/entertainment/news/202508300001088.html"
+    ],
+    "timestamp": "2026-08-27T06:38:17.487184",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "Owner",
+    "query": "Ficzny founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://learningmole.com/lesson-objectives/",
+      "https://www.researchgate.net/publication/363188275_Writing_and_Using_Learning_Objectives",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9582829/",
+      "https://researchmethod.net/research-objectives/"
+    ],
+    "timestamp": "2026-08-27T06:38:25.133399",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "Address",
+    "query": "Ficzny registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kampusbokep.com/bokep-hijab/",
+      "https://bokepindonesia.tokyo/kategori/bokep-hijab-terbaru",
+      "https://13.140.130.197/category/bokep-hijab/",
+      "https://13.140.130.211/category/bokep-hijab/"
+    ],
+    "timestamp": "2026-08-27T06:38:33.038019",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ficzny",
+    "field": "Address",
+    "query": "Ficzny registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-38299350-impossible-de-me-connecter-a-canva-avec-mail-outlook",
+      "https://forums.commentcamarche.net/forum/affich-37536445-canva-document-termine-et-apres",
+      "https://forums.commentcamarche.net/forum/affich-36453468-probleme-de-tabulations"
+    ],
+    "timestamp": "2026-08-27T06:38:43.747149",
+    "status": "results_found"
+  },
+  {
+    "business": "UCRAVO\u00ae",
+    "field": "Business Name",
+    "value": "UCRAVO\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARD8WWHV37X44&asin=B0HFD6K9DN&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:38:48.506136"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "Website",
+    "query": "UCRAVO\u00ae official website",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://sur.ly/i/ucravo.com/"
+    ],
+    "timestamp": "2026-08-27T06:38:59.914141",
+    "status": "results_found"
+  },
+  {
+    "business": "UCRAVO\u00ae",
+    "field": "Website URL",
+    "value": "https://www.ucravo.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.ucravo.com/",
+    "timestamp": "2026-08-27T06:39:04.038183"
+  },
+  {
+    "business": "UCRAVO\u00ae",
+    "field": "Phone Number",
+    "value": "+919924590629",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.ucravo.com/",
+    "timestamp": "2026-08-27T06:39:07.759177"
+  },
+  {
+    "business": "UCRAVO\u00ae",
+    "field": "Email Address",
+    "value": "ucravo2706@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.ucravo.com/",
+    "timestamp": "2026-08-27T06:39:07.761489"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "Legal Entity Name",
+    "query": "UCRAVO\u00ae company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=7589b3e9b6f91761db25d96638bfc8a6&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909812&utm_medium=ad&utm_content=&utm_term=pvt%20company%20registration&utm_adgroup=1352401813567748&network=o&device=c&msclkid=aa4124d4a81e1ffa259c4e5b2658c123&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20High%20CPC%20-%202023-G20658903333%20bing&utm_term=pvt%20company%20registration&utm_content=Ad%20group%201",
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=262576&loc_interest_ms=&adgroupid=1343605787129260&keywords=ltd%20company%20setup&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct&campaignid=606415592&device=c&domain=companyregistration.direct&placement=&msclkid=b105a6959ef6142b2e53cc1a10b059f8",
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=262576&loc_interest_ms=&adgroupid=1343605787129260&keywords=ltd%20company%20setup&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct%2Fcontact-us%2F&campaignid=606415592&device=c&domain=companyregistration.direct&placement=&msclkid=901b1fdc7d8c14a0113c7553f3ca127e"
+    ],
+    "timestamp": "2026-08-27T06:39:25.922067",
+    "status": "results_found"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "PAN",
+    "query": "UCRAVO\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://apparelfashionwiki.com/?%E7%94%9F%E5%9C%B0%E7%A8%AE%E9%A1%9E%E3%83%BB%E7%94%A8%E8%AA%9E",
+      "https://yamatomi.biz/labo/38495"
+    ],
+    "timestamp": "2026-08-27T06:39:34.501970",
+    "status": "results_found"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "PAN",
+    "query": "UCRAVO\u00ae PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-2495435-telecharger-aol-9-0fr",
+      "https://forums.commentcamarche.net/forum/affich-9191171-accuse-de-reception",
+      "https://forums.commentcamarche.net/forum/affich-24438751-messagerie-aol",
+      "https://forums.commentcamarche.net/forum/affich-33228526-aol"
+    ],
+    "timestamp": "2026-08-27T06:39:47.014287",
+    "status": "results_found"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "GST",
+    "query": "UCRAVO\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://chiiki-score.com/",
+      "https://lp.govtechbridge.com/dx-ranking/"
+    ],
+    "timestamp": "2026-08-27T06:39:49.072917",
+    "status": "results_found"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "GST",
+    "query": "UCRAVO\u00ae GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gowithshan.com/product/ucravo-double-sided-tape-heavy-duty-multipurpose-removable-traceless-mounting-adhesive-tape",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://taxgst.in/gst-number-verification/"
+    ],
+    "timestamp": "2026-08-27T06:40:05.349736",
+    "status": "results_found"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "Owner",
+    "query": "UCRAVO\u00ae director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cbinsights.com/company/groundbreaker/people",
+      "https://www.everand.com/podcast/492979219/JF2090-Marketing-With-Groundbreaker-Director-Ed-Cravo-Ed-Cravo-is-the-Co-Founder-and-Director-of-Marketing-at-Groundbreaker-Technologies-Inc-He-sh",
+      "https://wellfound.com/company/groundbreaker/people"
+    ],
+    "timestamp": "2026-08-27T06:40:11.700862",
+    "status": "results_found"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "Address",
+    "query": "UCRAVO\u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gemini.google/kr/about/?hl=ko",
+      "https://gemini.google/kr/subscriptions/?hl=ko",
+      "https://eziro.com/info/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80"
+    ],
+    "timestamp": "2026-08-27T06:40:24.421174",
+    "status": "results_found"
+  },
+  {
+    "seller": "UCRAVO\u00ae",
+    "field": "Address",
+    "query": "UCRAVO\u00ae registered address",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.quickcompany.in/trademarks/4432798-ucravo",
+      "https://www.sellerratings.com/amazon/india/ucravo",
+      "https://lextechsuite.com/TM--UCRAVO-IVY-GRIP-TAPE--class-16--5065552"
+    ],
+    "timestamp": "2026-08-27T06:40:33.335362",
+    "status": "results_found"
+  },
+  {
+    "business": "MANVI.",
+    "field": "Business Name",
+    "value": "MANVI.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2FZ00MHIVAL8I&asin=B0HBMWZTL7&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:40:40.953181"
+  },
+  {
+    "seller": "MANVI.",
+    "field": "Website",
+    "query": "MANVI. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.wikihow.com/Set-Your-Time-and-Time-Zone-Manually-Windows",
+      "https://geekzag.com/guides/computers/set-your-time-and-time-zone-manually-windows/"
+    ],
+    "timestamp": "2026-08-27T06:40:43.317341",
+    "status": "results_found"
+  },
+  {
+    "business": "MANVI.",
+    "field": "Website URL",
+    "value": "https://www.manvi.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.manvi.com/",
+    "timestamp": "2026-08-27T06:40:46.245768"
+  },
+  {
+    "seller": "MANVI.",
+    "field": "Legal Entity Name",
+    "query": "MANVI. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jabra.com/supportpages/jabra-connect-4h/100-55930000-02/faq/how-do-i-mute_unmute-the-microphone-on-my-jabra-headset",
+      "https://www.jabra.com/supportpages/jabra-evolve-40/6399-829-209/faq/how-do-i-mute_unmute-the-microphone-on-my-jabra-evolve-headset",
+      "https://ryanbytes.com/does-jabra-headset-have-a-mute-button/",
+      "https://www.hjalp.ai/article/troubleshooting-mute-function-on-jabra-headset/"
+    ],
+    "timestamp": "2026-08-27T06:40:50.268084",
+    "status": "results_found"
+  },
+  {
+    "seller": "MANVI.",
+    "field": "Legal Entity Name",
+    "query": "MANVI. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.casinoplus.com.ph/",
+      "https://www.casinoplus.com.ph/games/",
+      "https://www.casinoplus.com/home/games/",
+      "https://www.casinoplus.ai/"
+    ],
+    "timestamp": "2026-08-27T06:41:00.419628",
+    "status": "results_found"
+  },
+  {
+    "seller": "MANVI.",
+    "field": "PAN",
+    "query": "MANVI. PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-office-and-centres-in-manvi-c903.html",
+      "https://www.legalkamkaz.com/pan-card-manvi/",
+      "https://www.nyayagrah.com/pan-application/manvi",
+      "https://www.filingbazaar.com/service/pan-card-manvi"
+    ],
+    "timestamp": "2026-08-27T06:41:12.981018",
+    "status": "results_found"
+  },
+  {
+    "business": "MANVI.",
+    "field": "Phone Number",
+    "value": "+919380168388",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.goodreturns.in/pan-card-office-and-centres-in-manvi-c903.html",
+    "timestamp": "2026-08-27T06:41:16.005260"
+  },
+  {
+    "business": "MANVI.",
+    "field": "Email Address",
+    "value": "rahuluda@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.goodreturns.in/pan-card-office-and-centres-in-manvi-c903.html",
+    "timestamp": "2026-08-27T06:41:16.006049"
+  },
+  {
+    "business": "MANVI.",
+    "field": "Billing Address",
+    "value": "301, maruti nagar, sanganer, jaipur \u2013 302029",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalkamkaz.com/pan-card-manvi/",
+    "timestamp": "2026-08-27T06:41:21.689664"
+  },
+  {
+    "business": "MANVI.",
+    "field": "City",
+    "value": "jaipur",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalkamkaz.com/pan-card-manvi/",
+    "timestamp": "2026-08-27T06:41:21.689683"
+  },
+  {
+    "business": "MANVI.",
+    "field": "Pincode",
+    "value": "302029",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalkamkaz.com/pan-card-manvi/",
+    "timestamp": "2026-08-27T06:41:21.689689"
+  },
+  {
+    "seller": "MANVI.",
+    "field": "GST",
+    "query": "MANVI. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.xvideos.com/?k=%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84",
+      "https://www.xvideos.com/?k=%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E6%95%99%E3%81%88%E3%81%A6",
+      "https://jp.xhamster.com/videos/give-me-her-name-please-9475138",
+      "https://wav.tv/m/21352456/%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81"
+    ],
+    "timestamp": "2026-08-27T06:41:24.469546",
+    "status": "results_found"
+  },
+  {
+    "seller": "MANVI.",
+    "field": "Owner",
+    "query": "MANVI. director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:41:47.598277",
+    "status": "no_results"
+  },
+  {
+    "seller": "MANVI.",
+    "field": "Owner",
+    "query": "MANVI. founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:41:52.020649",
+    "status": "no_results"
+  },
+  {
+    "business": "Smit K",
+    "field": "Business Name",
+    "value": "Smit K",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANRD1JVWJK9JX&asin=B0CFH98R8P&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:41:52.655010"
+  },
+  {
+    "seller": "Smit K",
+    "field": "Website",
+    "query": "Smit K official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.smu.edu.in/smit/",
+      "https://www.smu.edu.in/"
+    ],
+    "timestamp": "2026-08-27T06:41:54.199923",
+    "status": "results_found"
+  },
+  {
+    "business": "Smit K",
+    "field": "Website URL",
+    "value": "https://www.smu.edu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.smu.edu.in/smit/",
+    "timestamp": "2026-08-27T06:42:41.101594"
+  },
+  {
+    "business": "Smit K",
+    "field": "Phone Number",
+    "value": "+919732947000",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.smu.edu.in/",
+    "timestamp": "2026-08-27T06:42:46.550554"
+  },
+  {
+    "seller": "Smit K",
+    "field": "Legal Entity Name",
+    "query": "Smit K company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.smu.edu.in/smit/",
+      "https://www.smu.edu.in/",
+      "https://smit.edu.in/",
+      "https://apply.applysmit.in/"
+    ],
+    "timestamp": "2026-08-27T06:43:17.864002",
+    "status": "results_found"
+  },
+  {
+    "business": "Smit K",
+    "field": "Email Address",
+    "value": "smitcollege1996@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://smit.edu.in/",
+    "timestamp": "2026-08-27T06:43:31.970930"
+  },
+  {
+    "seller": "Smit K",
+    "field": "PAN",
+    "query": "Smit K PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.smu.edu.in/smit/",
+      "https://www.smu.edu.in/",
+      "https://smit.edu.in/",
+      "https://apply.applysmit.in/"
+    ],
+    "timestamp": "2026-08-27T06:43:34.649255",
+    "status": "results_found"
+  },
+  {
+    "seller": "Smit K",
+    "field": "GST",
+    "query": "Smit K GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.smu.edu.in/smit/",
+      "https://www.smu.edu.in/",
+      "https://smit.edu.in/",
+      "https://apply.applysmit.in/"
+    ],
+    "timestamp": "2026-08-27T06:43:53.679667",
+    "status": "results_found"
+  }
+]

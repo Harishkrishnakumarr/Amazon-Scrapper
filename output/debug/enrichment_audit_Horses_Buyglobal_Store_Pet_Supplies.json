@@ -1,0 +1,1205 @@
+[
+  {
+    "business": "JSSDN",
+    "field": "Business Name",
+    "value": "JSSDN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A9CG8DYOTGWZE&asin=B09CTY55BL&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:22:57.636292"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Website",
+    "query": "JSSDN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.jharkhand.gov.in/(X(1)S(frtkboqwg11hvb4pwbfsumkl))/PDepartment?department=8a2502e2c83d86fea70db5da67e6d894",
+      "https://jssc.jharkhand.gov.in/"
+    ],
+    "timestamp": "2026-08-21T14:22:59.135973",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Legal Entity Name",
+    "query": "JSSDN company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.udyamregistration.gov.in/UdyamRegistration.aspx/",
+      "https://udyamregistration.gov.in/latlongtest.aspx?id=490",
+      "https://udyamregistration.gov.in/Udyam_Login.aspx",
+      "https://udyamregistration.gov.in/UA/PrintApplication_Pub.aspx",
+      "https://udyamregistration.gov.in/Udyam_Officer_Login.aspx"
+    ],
+    "timestamp": "2026-08-21T14:23:16.030565",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Legal Entity Name",
+    "query": "JSSDN Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.fandango.com/seattle_wa_movietimes"
+    ],
+    "timestamp": "2026-08-21T14:23:24.965180",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Legal Entity Name",
+    "query": "JSSDN legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.legalentityidentifier.in/?msclkid=69c91a8c92f31181e12b700480e4ebef",
+      "https://www.legalentityidentifier.in/lei-cost/?msclkid=3d71c1f4569e1204818bab7c4489598d",
+      "https://www.leikart.com/?msclkid=a60b71efd19611c11c9c1b67c381bca2",
+      "https://www.leikart.com/?msclkid=361bd88faa8211dd9059b207b8953823",
+      "https://entitysearch.us/"
+    ],
+    "timestamp": "2026-08-21T14:23:33.232992",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "PAN",
+    "query": "JSSDN PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/6f2f55a173acfbb5b93e6cc0.html",
+      "https://jingyan.baidu.com/article/f25ef2544a4988092c1b8285.html",
+      "http://jingyan.baidu.com"
+    ],
+    "timestamp": "2026-08-21T14:23:34.886559",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "GST",
+    "query": "JSSDN GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-21T14:23:59.772068",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "GST",
+    "query": "JSSDN GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://services.gst.gov.in/services/searchIRN",
+      "https://cleartax.in/s/gst-number-search-by-name/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-21T14:24:05.604946",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "GST",
+    "query": "JSSDN GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://services.gst.gov.in/services/searchIRN",
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-08-21T14:24:11.154662",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Owner",
+    "query": "JSSDN director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/search/sri-jss-traders-india-private-limited-cin-U46630TN2025PTC176423",
+      "https://www.emis.com/php/company-profile/MY/Js_Jasmine_Sdn_Bhd_en_4235743.html"
+    ],
+    "timestamp": "2026-08-21T14:24:17.802997",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Owner",
+    "query": "JSSDN managing director",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/search/sri-jss-traders-india-private-limited-cin-U46630TN2025PTC176423"
+    ],
+    "timestamp": "2026-08-21T14:24:25.929091",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Owner",
+    "query": "JSSDN founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/314685463",
+      "https://www.zhihu.com/question/277803363",
+      "https://www.zhihu.com/question/22049261"
+    ],
+    "timestamp": "2026-08-21T14:24:29.850674",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Address",
+    "query": "JSSDN registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jssgroupindia.com/contactus",
+      "https://www.registerkaro.in/company/jss-consultancy-private-limited-U68200HR2025PTC137895",
+      "https://www.insiderbiz.in/company-map/JINDAL-STEEL-AND-POWER-LIMITED",
+      "https://www.globaldata.com/company-profile/jsw-energy-ltd/locations/",
+      "https://www.jindalsteel.in/contact-us"
+    ],
+    "timestamp": "2026-08-21T14:24:37.027540",
+    "status": "results_found"
+  },
+  {
+    "business": "JSSDN",
+    "field": "Billing Address",
+    "value": "hno.c-125, street no.4, rajiv nagar west, gurgaon, gurgaon, sadar bazar, haryana, 122001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/jss-consultancy-private-limited-U68200HR2025PTC137895",
+    "timestamp": "2026-08-21T14:24:42.980632"
+  },
+  {
+    "business": "JSSDN",
+    "field": "City",
+    "value": "sadar bazar",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/jss-consultancy-private-limited-U68200HR2025PTC137895",
+    "timestamp": "2026-08-21T14:24:42.980647"
+  },
+  {
+    "business": "JSSDN",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/jss-consultancy-private-limited-U68200HR2025PTC137895",
+    "timestamp": "2026-08-21T14:24:42.980651"
+  },
+  {
+    "business": "JSSDN",
+    "field": "Pincode",
+    "value": "122001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/jss-consultancy-private-limited-U68200HR2025PTC137895",
+    "timestamp": "2026-08-21T14:24:42.980655"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Phone",
+    "query": "JSSDN phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/jssdn",
+      "https://www.jsbl.com/customer-touchpoints/",
+      "https://www.complaintsboard.com/just-dial-b126217/contacts",
+      "https://www.jssbus.com/contact",
+      "https://helpdesk.jjsbl.bank.in/helpdesk/"
+    ],
+    "timestamp": "2026-08-21T14:24:44.567788",
+    "status": "results_found"
+  },
+  {
+    "business": "JSSDN",
+    "field": "Phone Number",
+    "value": "+912667302026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sellerratings.com/amazon/india/jssdn",
+    "timestamp": "2026-08-21T14:24:48.634668"
+  },
+  {
+    "seller": "JSSDN",
+    "field": "Email",
+    "query": "JSSDN email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/jssdn",
+      "https://jsdcourier.in/",
+      "http://www.jssd.us/",
+      "https://www.sulekha.com/jssdn-consultants-manpower-services-g-t-b-nagar-delhi-contact-address",
+      "https://www.complaintsboard.com/joss-main-b115510/contacts"
+    ],
+    "timestamp": "2026-08-21T14:24:52.379858",
+    "status": "results_found"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Business Name",
+    "value": "shop_worldwide",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AKPH4HW0FR8BT&asin=B000VEH2SS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:25:11.026239"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Website",
+    "query": "shop_worldwide official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/"
+    ],
+    "timestamp": "2026-08-21T14:25:12.168303",
+    "status": "results_found"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Website URL",
+    "value": "https://www.shopworldwide.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shopworldwide.in/",
+    "timestamp": "2026-08-21T14:25:39.966199"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Phone Number",
+    "value": "+912471002025",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shopworldwide.in/",
+    "timestamp": "2026-08-21T14:25:42.886498"
+  },
+  {
+    "business": "shop_worldwide",
+    "field": "Email Address",
+    "value": "info@shopworldwide.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shopworldwide.in/contact",
+    "timestamp": "2026-08-21T14:25:47.864023"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Legal Entity Name",
+    "query": "shop_worldwide company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:25:57.083226",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Legal Entity Name",
+    "query": "shop_worldwide Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:26:05.320393",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Legal Entity Name",
+    "query": "shop_worldwide legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:26:11.273219",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "PAN",
+    "query": "shop_worldwide PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/s/how-to-know-pan-card-number",
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://incometaxindia.gov.in/pan-verification"
+    ],
+    "timestamp": "2026-08-21T14:26:17.836485",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "PAN",
+    "query": "shop_worldwide PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:26:27.795880",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "GST",
+    "query": "shop_worldwide GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:26:47.362896",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "GST",
+    "query": "shop_worldwide GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:26:56.865346",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "GST",
+    "query": "shop_worldwide GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:27:05.170258",
+    "status": "results_found"
+  },
+  {
+    "seller": "shop_worldwide",
+    "field": "Owner",
+    "query": "shop_worldwide director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.app/",
+      "https://www.shopsy.in/",
+      "https://www.shop.com/",
+      "https://shop.app/shop-pay/",
+      "https://www.meesho.com/"
+    ],
+    "timestamp": "2026-08-21T14:27:07.862335",
+    "status": "results_found"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Business Name",
+    "value": "TheGlobalGenie",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1BE4CFIAAE12Y&asin=B0B7KZBSXK&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:27:13.019533"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Website",
+    "query": "TheGlobalGenie official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://chat.zalo.me/",
+      "https://zalo.me/pc"
+    ],
+    "timestamp": "2026-08-21T14:27:14.125863",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Legal Entity Name",
+    "query": "TheGlobalGenie company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cars24.com/news/auto/maruti-ignis-discontinued-what-happened-and-why-its-still-worth-buying/"
+    ],
+    "timestamp": "2026-08-21T14:27:42.106267",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Legal Entity Name",
+    "query": "TheGlobalGenie Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://learn.mindspark.in/",
+      "https://learn.mindspark.in/Student/student/preview",
+      "https://stglearn.mindspark.in/Student/onboard/auto-login?setSession=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cGlkIjoiNjE0YjE2MTJkYzZmMDY2ZDczMjUzNWE3IiwiY2xzIjpmYWxzZSwibGFuZyI6ImVuLUlOIiwiY2F0IjoidGVhY2hlciIsInNpZCI6IjYxODBjNTlhMjU4NGE5MmFjZTU2MDg2YiIsImluVGltZSI6IjIwMjEtMTEtMDIgMTA6Mjk6MDYiLCJzZXNzVGltZSI6MzYwMCwidW4iOiI1MDAyNzY4LmVpYWRtaW4iLCJpcyI6dHJ1ZSwicmV0YWlsIjpmYWxzZSwiZ2lkIjoiICIsIm9mZmxpbmVVc2VyIjpmYWxzZSwic3ViIjoic2NpZW5jZSIsImRlYnVnIjpmYWxzZX0.FpYK6uatUp9T-f0eFnQDtwQQjJcUKwJEKcmi-0LVui0&origin=landingPage",
+      "https://www.mindspark.in/",
+      "https://v2.mindspark.in/mse/"
+    ],
+    "timestamp": "2026-08-21T14:27:45.587303",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Legal Entity Name",
+    "query": "TheGlobalGenie legal entity",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.google.co.in/",
+      "https://search.google/"
+    ],
+    "timestamp": "2026-08-21T14:27:55.552285",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "PAN",
+    "query": "TheGlobalGenie PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/?lang=uk",
+      "https://www.whatsapp.com/download?lang=de",
+      "https://faq.whatsapp.com/5481509731946576",
+      "https://faq.whatsapp.com/1166321223998129"
+    ],
+    "timestamp": "2026-08-21T14:28:00.723236",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "PAN",
+    "query": "TheGlobalGenie PAN",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theglobalgenie.com/",
+      "https://theglobalgenie.com/products/usa_pans_steel_pan",
+      "https://www.letfindout.com/the-global-genie",
+      "https://www.justdial.com/Mumbai/Theglobalgenie-Top-Brand-Products-Imported-From-Usa-To-India-Near-Hp-Petrol-Pump-Malad-Nadiyawala-Colony-2-Malad-West/022PXX22-XX22-250313230025-A2P6_BZDET"
+    ],
+    "timestamp": "2026-08-21T14:28:11.763570",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "PAN",
+    "query": "TheGlobalGenie PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/tax-services/online-pan-verification",
+      "https://tracxn.com/d/legal-entities/india/theglobalgenie-ecommerce-private-limited/__n8oZDmTWKBwD6dfRRTI3LF1VivX_ukufMN4eO8-qbEE",
+      "https://www.thecompanycheck.com/company/theglobalgenie-ecommerce-private-limited/U47912MH2012PTC234664",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.theglobalgenie.com/"
+    ],
+    "timestamp": "2026-08-21T14:28:18.809078",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "GST",
+    "query": "TheGlobalGenie GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kisskh.do/",
+      "https://www.reddit.com/r/PiracyBackup/comments/14hxlp7/soap2day_alternatives/?newUser=true"
+    ],
+    "timestamp": "2026-08-21T14:28:24.732786",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "GST",
+    "query": "TheGlobalGenie GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://www.theglobalgenie.com/pages/contact-information",
+      "https://www.theglobalgenie.com/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-21T14:28:33.969278",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "GST",
+    "query": "TheGlobalGenie GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/THEGLOBALGENIE-ECOMMERCE-PRIVATE-LIMITED-U47912MH2012PTC234664",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.theglobalgenie.com/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://mumbai.cataloxy.in/firms/theglobalgenie.com.htm"
+    ],
+    "timestamp": "2026-08-21T14:28:42.868373",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Owner",
+    "query": "TheGlobalGenie director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ameblo.jp/auti-seitai/entry-12840792227.html",
+      "https://ameblo.jp/megami-shimone/entry-12829796868.html",
+      "https://yukohomeo.life/2021/04/29/eggwhere-is/",
+      "https://note.com/femininecare_bio/n/n450a7a142ff8",
+      "https://ameblo.jp/naname38/entry-12752278958.html"
+    ],
+    "timestamp": "2026-08-21T14:28:44.272664",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Owner",
+    "query": "TheGlobalGenie managing director",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.naver.com/",
+      "https://blog.naver.com/planet56725/223841607123"
+    ],
+    "timestamp": "2026-08-21T14:29:00.203511",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Owner",
+    "query": "TheGlobalGenie founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.theglobalgenie.com/about-us",
+      "https://tracxn.com/d/legal-entities/india/theglobalgenie-ecommerce-private-limited/__n8oZDmTWKBwD6dfRRTI3LF1VivX_ukufMN4eO8-qbEE",
+      "https://www.theglobalgenie.com/",
+      "https://tracxn.com/d/companies/theglobalgenie/__bUs-9KphoBZFKfhh1Ec0jZpZL9jU4azQUoDRgplfhQw"
+    ],
+    "timestamp": "2026-08-21T14:29:06.708894",
+    "status": "results_found"
+  },
+  {
+    "seller": "TheGlobalGenie",
+    "field": "Address",
+    "query": "TheGlobalGenie registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/THEGLOBALGENIE-ECOMMERCE-PRIVATE-LIMITED-U47912MH2012PTC234664",
+      "https://www.theglobalgenie.com/about-us",
+      "https://tracxn.com/d/legal-entities/india/theglobalgenie-ecommerce-private-limited/__n8oZDmTWKBwD6dfRRTI3LF1VivX_ukufMN4eO8-qbEE",
+      "https://www.theglobalgenie.com/contact-us",
+      "https://www.falconebiz.com/company/GENIERA-GLOBAL-PRIVATE-LIMITED-U20233TN2026PTC189203"
+    ],
+    "timestamp": "2026-08-21T14:29:08.472225",
+    "status": "results_found"
+  },
+  {
+    "business": "TheGlobalGenie",
+    "field": "Billing Address",
+    "value": "theglobalgenie ecommerce private limited",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.theglobalgenie.com/about-us",
+    "timestamp": "2026-08-21T14:29:13.163822"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Business Name",
+    "value": "SKSB IMPORT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YZ9MMK17G6RH&asin=B001C46SQS&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:29:13.758423"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Website",
+    "query": "SKSB IMPORT official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.office.com/login"
+    ],
+    "timestamp": "2026-08-21T14:29:15.273710",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Legal Entity Name",
+    "query": "SKSB IMPORT company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.reddit.com/r/browsers/comments/1d2xonl/what_is_an_antiai_alternative_to_google_chrome/",
+      "https://www.reddit.com/r/linuxquestions/comments/bfftgp/chrome_vs_chromium_what_should_i_preferuse/"
+    ],
+    "timestamp": "2026-08-21T14:29:21.773052",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Legal Entity Name",
+    "query": "SKSB IMPORT Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.reddit.com/r/writing/"
+    ],
+    "timestamp": "2026-08-21T14:29:25.663959",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Legal Entity Name",
+    "query": "SKSB IMPORT legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login",
+      "https://www.zhihu.com/",
+      "https://www.zhihu.com/question/2058734226548250080",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models"
+    ],
+    "timestamp": "2026-08-21T14:29:38.070048",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "PAN",
+    "query": "SKSB IMPORT PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/login",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models",
+      "https://cellphones.com.vn/sforum/top-phan-mem-chat-ai-tot-nhat",
+      "https://cellphones.com.vn/sforum/cach-dung-chat-gpt-tieng-viet"
+    ],
+    "timestamp": "2026-08-21T14:29:43.373905",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "PAN",
+    "query": "SKSB IMPORT PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://modernize.com/hvac/best-air-conditioner-brands",
+      "https://modernize.com/hvac/best-hvac-brands",
+      "https://images.modernize.com/eyJ3aWR0aCI6MjUwLCJoZWlnaHQiOjI1MCwia2V5IjoiZDJhMWM0YTctNjgzMC00ODI5LTg4YmMtMTM3M2Q5ZDllMWJiLndlYnAiLCJyZXNpemUiOnsid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX0=",
+      "https://modernize.com/hvac/best-air-conditioner-brands/rheem"
+    ],
+    "timestamp": "2026-08-21T14:29:49.531886",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "PAN",
+    "query": "SKSB IMPORT PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.zhihu.com/explore"
+    ],
+    "timestamp": "2026-08-21T14:29:56.786930",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "GST",
+    "query": "SKSB IMPORT GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/domain/old.reddit.com/",
+      "https://www.reddit.com/r/SwitchPirates/comments/9e9fmu/good_source_to_download_nsp_roms/",
+      "https://www.reddit.com/r/FFCommish/",
+      "https://www.reddit.com/r/writing/comments/156qxfi/author_bio_for_an_unpublishedunaccredited_writer/",
+      "https://www.reddit.com/r/blog/"
+    ],
+    "timestamp": "2026-08-21T14:30:01.075359",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "GST",
+    "query": "SKSB IMPORT GSTIN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10110075020",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13172240533"
+    ],
+    "timestamp": "2026-08-21T14:30:10.029384",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "GST",
+    "query": "SKSB IMPORT GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://superuser.com/questions/1714345/change-of-wsl-installation-location",
+      "https://superuser.com/questions/1572834/is-there-any-way-to-install-wsl-on-non-c-drive",
+      "https://superuser.com/questions/1667969/create-wsl2-instance-from-vhdx",
+      "https://superuser.com/questions/1606213/how-do-i-get-back-unused-disk-space-from-ubuntu-on-wsl2",
+      "https://superuser.com/questions/1699352/how-to-install-wsl2-without-distro"
+    ],
+    "timestamp": "2026-08-21T14:30:15.035434",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Owner",
+    "query": "SKSB IMPORT director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pikarine.net/54336.html",
+      "https://hukusen-room.com/hakucho-to-komori-soukanzu/",
+      "https://nomidoku.com/swans-and-bats/",
+      "https://mangabookstory.com/hakuchou-to-koumori-soukanzu/",
+      "https://magokoro.wpx.jp/hakucho-to-komori-characters/"
+    ],
+    "timestamp": "2026-08-21T14:30:17.148929",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Owner",
+    "query": "SKSB IMPORT managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://sports.yahoo.co.jp/",
+      "https://www.yahoo.co.jp/",
+      "https://shopping.yahoo.co.jp/",
+      "https://news.yahoo.co.jp/",
+      "https://baseball.yahoo.co.jp/mlb/"
+    ],
+    "timestamp": "2026-08-21T14:30:31.959967",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Address",
+    "query": "SKSB IMPORT registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://sksb.in/resource/Contact_Us.aspx",
+      "https://www.sellerratings.com/amazon/india/sksb-import",
+      "https://www.sksb.in/",
+      "https://sksbassociates.com/contact/",
+      "https://www.dnb.com/business-directory/company-profiles.sksb_trading_private_limited.e7d6451f11f1c67ecbd4390ca3e0c872.html"
+    ],
+    "timestamp": "2026-08-21T14:30:42.286068",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Address",
+    "query": "SKSB IMPORT registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/991925355584235219.html",
+      "http://zhidao.baidu.com/",
+      "https://zhidao.baidu.com/question/1960540317682721108.html",
+      "https://zhidao.baidu.com/question/725567645356284605.html",
+      "https://zhidao.baidu.com/question/631046271960789092.html"
+    ],
+    "timestamp": "2026-08-21T14:30:56.496740",
+    "status": "results_found"
+  },
+  {
+    "seller": "SKSB IMPORT",
+    "field": "Phone",
+    "query": "SKSB IMPORT phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://shop.skbcases.com/form--contact",
+      "https://www.sellerratings.com/amazon/india/sksb-import",
+      "https://sksb.in/resource/Services/Business_Setup.aspx",
+      "https://shop.skbcases.com/form--contact/nocache--65800",
+      "https://sksb.in/resource/Contact_Us.aspx"
+    ],
+    "timestamp": "2026-08-21T14:31:10.434402",
+    "status": "results_found"
+  },
+  {
+    "business": "SKSB IMPORT",
+    "field": "Phone Number",
+    "value": "+916807436366",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shop.skbcases.com/form--contact",
+    "timestamp": "2026-08-21T14:31:15.364891"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Business Name",
+    "value": "Global Klamp",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ON2B5XK3AL27&asin=B079T2JC2W&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T14:31:15.658164"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Website",
+    "query": "Global Klamp official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://betsukai.jp/"
+    ],
+    "timestamp": "2026-08-21T14:31:17.514360",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Legal Entity Name",
+    "query": "Global Klamp company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.sellerratings.com/amazon/india/global-klamp",
+      "https://consumercomplaintscourt.com/tag/global-klamp/",
+      "https://registry-lookup.com/",
+      "https://www.falconebiz.com/company/KLAMP-INNOVATIONS-PRIVATE-LIMITED-U43210HR2024PTC126978"
+    ],
+    "timestamp": "2026-08-21T14:31:23.335800",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Legal Entity Name",
+    "query": "Global Klamp Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://www.office.com/login",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-21T14:31:30.855228",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Legal Entity Name",
+    "query": "Global Klamp legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.france.fr/de/",
+      "https://www.france.fr/de/artikel/steckbrief-frankreich/",
+      "https://www.traveloptimizer.de/frankreich-sehenswuerdigkeiten/",
+      "https://www.bmeia.gv.at/reise-services/reiseinformation/land/frankreich/showall",
+      "https://www.tagesschau.de/thema/frankreich"
+    ],
+    "timestamp": "2026-08-21T14:31:35.870544",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "PAN",
+    "query": "Global Klamp PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/ePANCardHome",
+      "https://www.pan.utiitsl.com/PAN/csf.html",
+      "https://www.pan.utiitsl.com/PAN/reprint.html",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/addresschangeHome"
+    ],
+    "timestamp": "2026-08-21T14:31:48.208985",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "PAN",
+    "query": "Global Klamp PAN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bbs.pku.edu.cn/v2/post-read.php?bid=3&threadid=18997993"
+    ],
+    "timestamp": "2026-08-21T14:31:53.183924",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "PAN",
+    "query": "Global Klamp PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-info/csr-data-summary.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/grievance-cell.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/enquire-din-status.html",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-21T14:31:58.646878",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "GST",
+    "query": "Global Klamp GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mastersindia.co/gst-search/?name=klamp-ecommerce&gstin=27AAUFK8597Q1ZR",
+      "https://piceapp.com/gst-number-search/klamp-ecommerce-27aaufk8597q1zr/",
+      "https://www.knowyourgst.com/gst-number-search/klamp-ecommerce-27AAUFK8597Q1ZR/",
+      "https://reg.gst.gov.in/registration/",
+      "https://cleartax.in/gst-number-search/"
+    ],
+    "timestamp": "2026-08-21T14:32:06.364838",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "GST Number",
+    "value": "27AAUFK8597Q1ZR",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/klamp-ecommerce-27aaufk8597q1zr/",
+    "timestamp": "2026-08-21T14:32:09.873664"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Owner",
+    "query": "Global Klamp director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/klamp/__Aq4R8rgAuQ8eiWsnhgbGoJFl_l4FZ-6MS5hYAMm275s#:~:text=klamp%20is%20a%20seed%20company%20based%20in%20United,including%2030%20funded%20and%2026%20that%20have%20exited.",
+      "https://www.cbinsights.com/company/klamp/people",
+      "https://rocketreach.co/arvind-shanmugasundaram-email_87371276",
+      "https://tracxn.com/d/companies/klamp/__Aq4R8rgAuQ8eiWsnhgbGoJFl_l4FZ-6MS5hYAMm275s",
+      "https://www.gtlinfra.com/mr-manoj-tirodkars-profile/"
+    ],
+    "timestamp": "2026-08-21T14:32:11.719556",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Owner",
+    "query": "Global Klamp managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cbinsights.com/company/klamp/people",
+      "https://consumercomplaintscourt.com/tag/global-klamp/",
+      "https://www.calamp.com/company/leadership-team/",
+      "https://credhive.in/ind/corporate/U74999PB2008PTC035732/KNACK%20GLOBAL%20PRIVATE%20LIMITED/management",
+      "https://www.goodreturns.in/company/global-knitfab/management-team.html"
+    ],
+    "timestamp": "2026-08-21T14:32:18.680395",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Owner",
+    "query": "Global Klamp founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://beststartup.in/kunal-shah-whatsapp-ceo-cred-founder-2026/",
+      "https://www.indiatoday.in/technology/news/story/kunal-shah-whatsapp-global-head-meta-900-million-investment-cred-2931971-2026-06-22",
+      "https://www.cbinsights.com/company/klamp/people",
+      "https://consumercomplaintscourt.com/tag/global-klamp/",
+      "https://rocketreach.co/arvind-shanmugasundaram-email_87371276"
+    ],
+    "timestamp": "2026-08-21T14:32:31.686702",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Address",
+    "query": "Global Klamp registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/GLOBAL-KAMBLE-OPC-PRIVATE-LIMITED-U46300MH2025OPC447126",
+      "https://www.falconebiz.com/company/GLOBAL-CLAP-PRIVATE-LIMITED-U96905UP2023PTC185059",
+      "https://www.companydetails.in/company/klampworks-india-private-limited",
+      "http://www.globalauto.co.in/contact-us",
+      "https://globalgreengroup.com/contact-us/"
+    ],
+    "timestamp": "2026-08-21T14:32:33.041654",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Address",
+    "query": "Global Klamp registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/global-klamp",
+      "https://www.mastersindia.co/gst-search/?name=klamp-ecommerce&gstin=27AAUFK8597Q1ZR",
+      "https://consumercomplaintscourt.com/non-delivery-of-ordered-product/",
+      "https://www.knowyourgst.com/gst-number-search/klamp-ecommerce-27AAUFK8597Q1ZR/",
+      "https://www.companydetails.in/company/klampworks-india-private-limited"
+    ],
+    "timestamp": "2026-08-21T14:32:39.841643",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Address",
+    "query": "Global Klamp head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kla.com/locations",
+      "https://www.sellerratings.com/amazon/india/global-klamp",
+      "https://www.mastersindia.co/gst-search/?name=klamp-ecommerce&gstin=27AAUFK8597Q1ZR",
+      "https://consumercomplaintscourt.com/non-delivery-of-ordered-product/",
+      "https://contactout.com/company/Globals-Inc-23632/headquarters"
+    ],
+    "timestamp": "2026-08-21T14:32:52.724741",
+    "status": "results_found"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Phone",
+    "query": "Global Klamp phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/global-klamp",
+      "https://consumercomplaintscourt.com/tag/global-klamp/",
+      "https://www.globalpayments.com/contact-us",
+      "https://www.kalmarglobal.com/contacts/Services/",
+      "https://www.global-e.com/en/contact-us/"
+    ],
+    "timestamp": "2026-08-21T14:32:53.961714",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Phone Number",
+    "value": "+910181312026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.sellerratings.com/amazon/india/global-klamp",
+    "timestamp": "2026-08-21T14:32:54.991584"
+  },
+  {
+    "seller": "Global Klamp",
+    "field": "Email",
+    "query": "Global Klamp email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/global-klamp",
+      "https://www.complaintsboard.com/global-tree-b123121/contacts",
+      "https://globalindustries.co.in/?page_id=11",
+      "https://consumercomplaintscourt.com/tag/global-klamp/",
+      "https://www.complaintsboard.com/global-industrial-b124847/contacts"
+    ],
+    "timestamp": "2026-08-21T14:32:56.381604",
+    "status": "results_found"
+  },
+  {
+    "business": "Global Klamp",
+    "field": "Email Address",
+    "value": "info@globaltree.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.complaintsboard.com/global-tree-b123121/contacts",
+    "timestamp": "2026-08-21T14:32:58.628984"
+  }
+]

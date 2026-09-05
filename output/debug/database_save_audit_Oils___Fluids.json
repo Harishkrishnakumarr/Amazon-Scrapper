@@ -1,0 +1,74 @@
+{
+  "category": "Oils & Fluids",
+  "records_before_save": 7,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1038,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919241728118",
+      "email": "info@registerease.in",
+      "gst": "27AADCV4254H1Z8",
+      "pan": "AADCV4254H",
+      "website": "https://us.etrade.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1039,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@rk.world",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "https://rk.world/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Autodrome",
+      "database_id": 1040,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "info@dubaiautodrome.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "JSAUX IN",
+      "database_id": 1040,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@inspex.in",
+      "gst": "27AAAPA1234A1Z5",
+      "pan": "AAAPA1234A",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DEEP OIL CORPORATION",
+      "database_id": 1040,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918045814817",
+      "email": "support@inspex.in",
+      "gst": "07AARFD4190P1ZO",
+      "pan": "AARFD4190P",
+      "website": "https://www.maxxronoils.com/",
+      "status": "Verified"
+    }
+  ]
+}

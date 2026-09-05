@@ -1,0 +1,74 @@
+{
+  "category": "Lounge Sofa",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Wood Decor City\u2122",
+      "database_id": 203,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912402212026",
+      "email": "info@woodcity.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://woodcity.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Wood Art City\u2122",
+      "database_id": 204,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913326482026",
+      "email": "info@woodartcity.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.woodartcity.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PREMIUM CART",
+      "database_id": 205,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910810962026",
+      "email": "support@premiumcart.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://premiumcart.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TIMBER CRAFT CREATIONS",
+      "database_id": 206,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915000112021",
+      "email": "sales@timberindia.in",
+      "gst": "36AAFFT8892A1ZX",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "WuduCasa",
+      "database_id": 207,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

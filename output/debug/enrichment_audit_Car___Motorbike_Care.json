@@ -1,0 +1,118 @@
+[
+  {
+    "business": "SIGMA CAR CARES",
+    "field": "Business Name",
+    "value": "SIGMA CAR CARES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1D1XESD08YA4D&asin=B0GZKLKLT5&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T09:44:26.333950"
+  },
+  {
+    "seller": "SIGMA CAR CARES",
+    "field": "Website",
+    "query": "SIGMA CAR CARES official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:44:43.464249",
+    "status": "no_results"
+  },
+  {
+    "seller": "SIGMA CAR CARES",
+    "field": "Legal Entity Name",
+    "query": "SIGMA CAR CARES company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:45:20.825398",
+    "status": "no_results"
+  },
+  {
+    "seller": "SIGMA CAR CARES",
+    "field": "PAN",
+    "query": "SIGMA CAR CARES PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://savetaxs.com/blog/pan-card-customer-care-number",
+      "https://tinpan.proteantech.in/customer-care.html"
+    ],
+    "timestamp": "2026-08-27T09:45:56.482564",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIGMA CAR CARES",
+    "field": "GST",
+    "query": "SIGMA CAR CARES GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:46:16.019018",
+    "status": "no_results"
+  },
+  {
+    "seller": "SIGMA CAR CARES",
+    "field": "Owner",
+    "query": "SIGMA CAR CARES director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zoominfo.com/p/Basel-Azzouz/-1622664199",
+      "https://rocketreach.co/basel-azzouz-email_52209629",
+      "https://www.cbinsights.com/company/sigmacare/people",
+      "https://prospeo.io/c/sigma-cars-revenue"
+    ],
+    "timestamp": "2026-08-27T09:46:31.692648",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CD7G88V8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T09:46:37.065420"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:46:52.188078",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:47:55.058968",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:48:15.444409",
+    "status": "no_results"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T09:48:36.579036",
+    "status": "no_results"
+  }
+]

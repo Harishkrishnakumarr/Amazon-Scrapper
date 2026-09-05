@@ -1,0 +1,35 @@
+{
+  "category": "Baby Soap",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1175,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@rk.world",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "https://rk.world/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Himalaya Wellness Company",
+      "database_id": 1176,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918017858472",
+      "email": "hello@himalayawellness.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.himalayawellnesscompany.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "category": "Lacrosse",
+  "records_before_save": 16,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RGR Global Solutions",
+      "database_id": 1565,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919429694959",
+      "email": "info@rgrlogistics.com",
+      "gst": "36CGVPR8783E1ZE",
+      "pan": "CGVPR8783E",
+      "website": "https://www.rgrlogistics.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "STS Shop",
+      "database_id": 1566,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@stsshop.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.stsshop.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "USA Warehouse.",
+      "database_id": 1567,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@shipcrow.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

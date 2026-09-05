@@ -1,0 +1,61 @@
+{
+  "category": "Martial Arts",
+  "records_before_save": 12,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SSNBooks",
+      "database_id": 1635,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "gsd@utiitsl.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 645,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "info@onlinelegalindia.com",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Sunrise Book store",
+      "database_id": 1571,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "sunrisebooks.shine@gmail.com",
+      "gst": "33ARYPB4586B1ZP",
+      "pan": "ARYPB4586B",
+      "website": "https://www.sunrisebookstore.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Peacockbooks",
+      "database_id": 1572,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919414952544",
+      "email": "secretariat@enviro.or.id",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.peacockbooks.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

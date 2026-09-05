@@ -1,0 +1,630 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0F26G4K48&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T22:33:10.067976"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-02T22:33:11.922838",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-02T22:33:16.177827",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T22:33:16.981392"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T22:33:16.981406"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T22:33:16.981409"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-02T22:33:16.981412"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-02T22:33:18.549381"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=%2Bprivate%20%2Blimited%20company%20%2Bregistration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=%2Bprivate%20%2Blimited%20company%20%2Bregistration&target_name=kwd-83769913535100:loc-90&placement=&keyword_id=%2Bprivate%20%2Blimited%20company%20%2Bregistration&msclkid=c78cccb258131a0354f6a62a0ef94405",
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=9394cd51a00e1a7c3c3ba7c9f6e4f46b&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-02T22:33:28.284017",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=%2Bprivate%20%2Blimited%20company%20%2Bregistration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=%2Bprivate%20%2Blimited%20company%20%2Bregistration&target_name=kwd-83769913535100:loc-90&placement=&keyword_id=%2Bprivate%20%2Blimited%20company%20%2Bregistration&msclkid=c78cccb258131a0354f6a62a0ef94405",
+    "timestamp": "2026-09-02T22:33:29.298621"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-02T22:33:37.130984",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "18AALCR3173P1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-02T22:33:40.350336"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+    "timestamp": "2026-09-02T22:33:40.350349"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://retailez.co.in/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-18AALCR3173P1ZM",
+      "https://gst.jamku.app/gstin/36AALCR3173P1ZO"
+    ],
+    "timestamp": "2026-09-02T22:33:42.328768",
+    "status": "results_found"
+  },
+  {
+    "business": "FabSeasons",
+    "field": "Business Name",
+    "value": "FabSeasons",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXAZBYD41UTUG&asin=B0GP1D19ND&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T22:33:59.788650"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "Website",
+    "query": "FabSeasons official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fabseasons.com/",
+      "https://www.fabseasons.com/collections/raincoats"
+    ],
+    "timestamp": "2026-09-02T22:34:01.110542",
+    "status": "results_found"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "Legal Entity Name",
+    "query": "FabSeasons company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fabseasons.com/",
+      "https://www.fabseasons.com/collections/raincoats",
+      "https://www.fabseasons.com/collections/caps",
+      "https://www.fabseasons.com/collections/scarf"
+    ],
+    "timestamp": "2026-09-02T22:34:28.221315",
+    "status": "results_found"
+  },
+  {
+    "business": "FabSeasons",
+    "field": "Phone Number",
+    "value": "+917305989003",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.fabseasons.com/",
+    "timestamp": "2026-09-02T22:34:31.152957"
+  },
+  {
+    "business": "FabSeasons",
+    "field": "Email Address",
+    "value": "support@fabseasons.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.fabseasons.com/",
+    "timestamp": "2026-09-02T22:34:31.153643"
+  },
+  {
+    "business": "FabSeasons",
+    "field": "Billing Address",
+    "value": "fabseasons\u00ae | arihant enterprise-",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.fabseasons.com/",
+    "timestamp": "2026-09-02T22:34:31.166341"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "Legal Entity Name",
+    "query": "FabSeasons Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://lemreveal.com/data/india",
+      "https://udyamsearch.com/",
+      "https://company.vakilsearch.com/"
+    ],
+    "timestamp": "2026-09-02T22:34:38.393142",
+    "status": "results_found"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "PAN",
+    "query": "FabSeasons PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-details-by-number-a-complete-guide"
+    ],
+    "timestamp": "2026-09-02T22:34:47.620747",
+    "status": "results_found"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "PAN",
+    "query": "FabSeasons PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fabseasons.com/",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan",
+      "https://www.fabseasons.com/collections/all",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-09-02T22:34:58.530172",
+    "status": "results_found"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "GST",
+    "query": "FabSeasons GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://smartgst.in/tools/gst-registration-status"
+    ],
+    "timestamp": "2026-09-02T22:35:07.714996",
+    "status": "results_found"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "GST",
+    "query": "FabSeasons GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fabseasons.com/",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://www.fabseasons.com/collections/all"
+    ],
+    "timestamp": "2026-09-02T22:35:16.179128",
+    "status": "results_found"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "Owner",
+    "query": "FabSeasons director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companyvakil.com/trademarksearch/FabSeasons/430243",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://lextechsuite.com/TM--FABSEASONS--class-28--5019337",
+      "https://www.fabseasons.com/"
+    ],
+    "timestamp": "2026-09-02T22:35:25.008120",
+    "status": "results_found"
+  },
+  {
+    "seller": "FabSeasons",
+    "field": "Owner",
+    "query": "FabSeasons founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companyvakil.com/trademarksearch/FabSeasons/430243",
+      "https://lextechsuite.com/TM--FABSEASONS--class-28--5019337",
+      "https://www.zoominfo.com/c/fabseasons/481026842",
+      "https://judge.me/reviews/stores/www.fabseasons.com"
+    ],
+    "timestamp": "2026-09-02T22:35:38.674819",
+    "status": "results_found"
+  },
+  {
+    "business": "RVG International",
+    "field": "Business Name",
+    "value": "RVG International",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1GBRLG9S7PP4N&asin=B0HBX8LC66&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T22:35:39.083550"
+  },
+  {
+    "seller": "RVG International",
+    "field": "Website",
+    "query": "RVG International official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.rvg-international-consulting-firm.org/services/",
+      "https://www.rvg-international-consulting-firm.org/"
+    ],
+    "timestamp": "2026-09-02T22:35:40.455540",
+    "status": "results_found"
+  },
+  {
+    "seller": "RVG International",
+    "field": "Legal Entity Name",
+    "query": "RVG International company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/rvg-international-27aiepg2547a1zs/#:~:text=GSTIN%2027AIEPG2547A1ZS%20was%20registered%20on%2001%20Jul%202017.,Suburban%2C%20Mumbai%20Suburban%2C%20Maharashtra%2C%20400104.%20Entity%20Type%3A%20Proprietorship.",
+      "https://gstverify.co.in/gst/rvg-international-27aiepg2547a1zs/",
+      "https://gst.iadv.io/RVG-INTERNATIONAL-27AIEPG2547A1ZS/",
+      "https://piceapp.com/gst-number-search/rvg-international-27aiepg2547a1zs/"
+    ],
+    "timestamp": "2026-09-02T22:35:53.400641",
+    "status": "results_found"
+  },
+  {
+    "business": "RVG International",
+    "field": "GST Number",
+    "value": "27AIEPG2547A1ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/RVG-INTERNATIONAL-27AIEPG2547A1ZS/",
+    "timestamp": "2026-09-02T22:35:57.232568"
+  },
+  {
+    "business": "RVG International",
+    "field": "PAN Number",
+    "value": "AIEPG2547A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/RVG-INTERNATIONAL-27AIEPG2547A1ZS/",
+    "timestamp": "2026-09-02T22:35:57.232584"
+  },
+  {
+    "seller": "RVG International",
+    "field": "Legal Entity Name",
+    "query": "RVG International Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/rvg-international-27aiepg2547a1zs/#:~:text=GSTIN%2027AIEPG2547A1ZS%20was%20registered%20on%2001%20Jul%202017.,Suburban%2C%20Mumbai%20Suburban%2C%20Maharashtra%2C%20400104.%20Entity%20Type%3A%20Proprietorship.",
+      "https://gstverify.co.in/gst/rvg-international-27aiepg2547a1zs/",
+      "https://gst.iadv.io/RVG-INTERNATIONAL-27AIEPG2547A1ZS/",
+      "https://piceapp.com/gst-number-search/rvg-international-27aiepg2547a1zs/"
+    ],
+    "timestamp": "2026-09-02T22:35:59.918372",
+    "status": "results_found"
+  },
+  {
+    "seller": "RVG International",
+    "field": "Owner",
+    "query": "RVG International director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.rvg-international-consulting-firm.org/about-us/click-here-for-consultants/",
+      "https://www.rvg-international-consulting-firm.org/about-us/",
+      "https://rvgflow.com/founder/",
+      "https://www.onlinegrctutorials.com/speakerdetails/Rossano-Gerald"
+    ],
+    "timestamp": "2026-09-02T22:36:07.782043",
+    "status": "results_found"
+  },
+  {
+    "business": "RVG International",
+    "field": "Email Address",
+    "value": "discover@rvgflow.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rvgflow.com/founder/",
+    "timestamp": "2026-09-02T22:36:22.212177"
+  },
+  {
+    "seller": "RVG International",
+    "field": "Address",
+    "query": "RVG International registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/RVG-INTERNATIONAL-27AIEPG2547A1ZS/",
+      "https://gstverify.co.in/gst/rvg-international-27aiepg2547a1zs/",
+      "https://piceapp.com/gst-number-search/rvg-international-27aiepg2547a1zs/",
+      "https://www.knowyourgst.com/gst-number-search/rvg-international-27AIEPG2547A1ZS/"
+    ],
+    "timestamp": "2026-09-02T22:36:23.774570",
+    "status": "results_found"
+  },
+  {
+    "seller": "RVG International",
+    "field": "Address",
+    "query": "RVG International registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/RVG-INTERNATIONAL-27AIEPG2547A1ZS/",
+      "https://gstverify.co.in/gst/rvg-international-27aiepg2547a1zs/",
+      "https://piceapp.com/gst-number-search/rvg-international-27aiepg2547a1zs/",
+      "https://www.knowyourgst.com/gst-number-search/rvg-international-27AIEPG2547A1ZS/"
+    ],
+    "timestamp": "2026-09-02T22:36:33.895601",
+    "status": "results_found"
+  },
+  {
+    "seller": "RVG International",
+    "field": "Phone",
+    "query": "RVG International phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justdial.com/Mumbai/Rvg-International-Near-Rameshwar-Mandir-Malad-West/022PXX22-XX22-180411205222-D9V6_BZDET?idx=0&jdmid=jdm-1490078-ent-5-28590014&nid=12057649&flow=result&searchfrom=b2b_srsltpg&bd=1&ncatid=12057649&mncatname=Nylon%20Green%20Men%20Swim%20Short",
+      "https://www.go4worldbusiness.com/member/view/1259394/rvg-international.html",
+      "https://www.indianyellowpages.com/thane/rvg-international-thane-west-thane-2691810/",
+      "https://magicpin.in/Mumbai/Malad-West/Fashion/Rvg-International/store/ba7ab/"
+    ],
+    "timestamp": "2026-09-02T22:36:39.029940",
+    "status": "results_found"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "Business Name",
+    "value": "Varda_ Exports",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2UABQBAYRJH15&asin=B0HDC8TH4J&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T22:36:57.199431"
+  },
+  {
+    "seller": "Varda_ Exports",
+    "field": "Website",
+    "query": "Varda_ Exports official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://vastrade.net/",
+      "https://www.dnb.com/business-directory/company-profiles/varda-exports-llp.b617eaf49548d5b0089a64a7ab2c4dd6/contacts"
+    ],
+    "timestamp": "2026-09-02T22:36:58.590498",
+    "status": "results_found"
+  },
+  {
+    "seller": "Varda_ Exports",
+    "field": "Legal Entity Name",
+    "query": "Varda_ Exports company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company/varda-traders-private-limited-U01123DC2026PTC471447",
+      "https://www.dnb.com/business-directory/company-profiles/varda-exports-llp.b617eaf49548d5b0089a64a7ab2c4dd6/contacts",
+      "https://udyamsearch.com/"
+    ],
+    "timestamp": "2026-09-02T22:37:13.142988",
+    "status": "results_found"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T22:37:13.531496"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T22:37:13.531930"
+  },
+  {
+    "seller": "Varda_ Exports",
+    "field": "Legal Entity Name",
+    "query": "Varda_ Exports Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.registerkaro.in/company/varda-traders-private-limited-U01123DC2026PTC471447",
+      "https://www.dnb.com/business-directory/company-profiles/varda-exports-llp.b617eaf49548d5b0089a64a7ab2c4dd6/contacts"
+    ],
+    "timestamp": "2026-09-02T22:37:19.800746",
+    "status": "results_found"
+  },
+  {
+    "seller": "Varda_ Exports",
+    "field": "PAN",
+    "query": "Varda_ Exports PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstpan.com/",
+      "https://quicko.com/tools/verify-pan-details",
+      "https://www.caclubindia.com/articles/know-your-pan-41909.asp",
+      "https://photocopywala.in/tools/smart-pan-card-maker/"
+    ],
+    "timestamp": "2026-09-02T22:37:23.638936",
+    "status": "results_found"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T22:37:24.739745"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T22:37:24.739769"
+  },
+  {
+    "seller": "Varda_ Exports",
+    "field": "Owner",
+    "query": "Varda_ Exports director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/company/varda-exports-llp/ABZ-1268?tab=about",
+      "https://www.planetexim.net/indian-company/directors/varda-exports-llp/llpin/ABZ-1268.html",
+      "https://www.masterdata.in/company/varda_exports_llp/ABZ-1268",
+      "https://www.dnb.com/business-directory/company-profiles/varda-exports-llp.b617eaf49548d5b0089a64a7ab2c4dd6"
+    ],
+    "timestamp": "2026-09-02T22:37:26.066999",
+    "status": "results_found"
+  },
+  {
+    "seller": "Varda_ Exports",
+    "field": "Owner",
+    "query": "Varda_ Exports founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/company/varda-exports-llp/ABZ-1268?tab=about",
+      "https://www.thecompanycheck.com/company/varda-exports-llp/ABZ-1268",
+      "https://www.dnb.com/business-directory/company-profiles/varda-exports-llp.b617eaf49548d5b0089a64a7ab2c4dd6",
+      "https://tracxn.com/d/legal-entities/india/varda-exports-llp/__3hjC5RZ3S0HUHyX5dv-KHVdeHLOrPerT8xwSoUouAYk"
+    ],
+    "timestamp": "2026-09-02T22:37:36.092805",
+    "status": "results_found"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/varda-exports-llp/__3hjC5RZ3S0HUHyX5dv-KHVdeHLOrPerT8xwSoUouAYk",
+    "timestamp": "2026-09-02T22:37:40.496786"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/varda-exports-llp/__3hjC5RZ3S0HUHyX5dv-KHVdeHLOrPerT8xwSoUouAYk",
+    "timestamp": "2026-09-02T22:37:40.496800"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/varda-exports-llp/__3hjC5RZ3S0HUHyX5dv-KHVdeHLOrPerT8xwSoUouAYk",
+    "timestamp": "2026-09-02T22:37:40.496804"
+  },
+  {
+    "business": "Varda_ Exports",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/varda-exports-llp/__3hjC5RZ3S0HUHyX5dv-KHVdeHLOrPerT8xwSoUouAYk",
+    "timestamp": "2026-09-02T22:37:40.496807"
+  }
+]

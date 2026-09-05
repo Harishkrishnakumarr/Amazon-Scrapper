@@ -1,0 +1,874 @@
+[
+  {
+    "business": "SANN INDIA",
+    "field": "Business Name",
+    "value": "SANN INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2XAP4F0IJ9XAL&asin=B0C1N9VCCV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:34:01.277089"
+  },
+  {
+    "business": "SANN INDIA",
+    "field": "Phone Number",
+    "value": "+919840080220",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2XAP4F0IJ9XAL&asin=B0C1N9VCCV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:34:01.280832"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "Website",
+    "query": "SANN INDIA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://sann.co.in/",
+      "https://sann.co.in/services.html"
+    ],
+    "timestamp": "2026-08-28T15:34:08.833610",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "Legal Entity Name",
+    "query": "SANN INDIA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sann.co.in/",
+      "https://sann.co.in/services.html",
+      "https://sann.in/",
+      "https://sann.com/"
+    ],
+    "timestamp": "2026-08-28T15:34:17.528527",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "Legal Entity Name",
+    "query": "SANN INDIA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sann.co.in/",
+      "https://sann.co.in/services.html",
+      "https://sann.in/",
+      "https://sann.com/"
+    ],
+    "timestamp": "2026-08-28T15:34:26.622387",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "PAN",
+    "query": "SANN INDIA PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sann.co.in/",
+      "https://sann.co.in/services.html",
+      "https://sann.in/",
+      "https://sann.com/"
+    ],
+    "timestamp": "2026-08-28T15:34:30.531097",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "PAN",
+    "query": "SANN INDIA PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sann.co.in/",
+      "https://sann.co.in/services.html",
+      "https://sann.in/",
+      "https://sann.com/"
+    ],
+    "timestamp": "2026-08-28T15:34:33.880000",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "GST",
+    "query": "SANN INDIA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/sann-india-09ALTPM5651P1Z1/",
+      "https://fnshiftsolutions.com/gstin-search/sann-india-ventures-llp-27ACUFS0973N1Z5"
+    ],
+    "timestamp": "2026-08-28T15:34:41.063921",
+    "status": "results_found"
+  },
+  {
+    "business": "SANN INDIA",
+    "field": "GST Number",
+    "value": "09ALTPM5651P1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sann-india-09ALTPM5651P1Z1/",
+    "timestamp": "2026-08-28T15:34:42.291014"
+  },
+  {
+    "business": "SANN INDIA",
+    "field": "PAN Number",
+    "value": "ALTPM5651P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sann-india-09ALTPM5651P1Z1/",
+    "timestamp": "2026-08-28T15:34:42.291034"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "Owner",
+    "query": "SANN INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sann.co.in/",
+      "https://sann.co.in/services.html",
+      "https://sann.in/",
+      "https://sann.com/"
+    ],
+    "timestamp": "2026-08-28T15:34:45.185509",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "Owner",
+    "query": "SANN INDIA founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.thecompanycheck.com/people-profile/atul-dhanpal-jindani/07089627",
+      "https://www.thecompanycheck.com/company/sann-india-ventures-llp/AAD-6596",
+      "https://fnshiftsolutions.com/gstin-search/sann-india-ventures-llp-27ACUFS0973N1Z5"
+    ],
+    "timestamp": "2026-08-28T15:34:54.141850",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "Address",
+    "query": "SANN INDIA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://sann.co.in/",
+      "https://sann.co.in/services.html",
+      "https://sann.in/",
+      "https://sann.com/"
+    ],
+    "timestamp": "2026-08-28T15:35:00.349665",
+    "status": "results_found"
+  },
+  {
+    "seller": "SANN INDIA",
+    "field": "Address",
+    "query": "SANN INDIA registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/sann-india-ventures-llp/AAD-6596",
+      "https://www.falconebiz.com/LLP/SANN-INDIA-VENTURES-LLP-AAD-6596",
+      "https://www.filesure.in/company/sann-india-ventures-llp/AAD-6596?tab=about",
+      "https://www.indiafilings.com/search/sann-india-ventures-llp-AAD-6596"
+    ],
+    "timestamp": "2026-08-28T15:35:05.358949",
+    "status": "results_found"
+  },
+  {
+    "business": "SANN INDIA",
+    "field": "Email Address",
+    "value": "ajindani@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/LLP/SANN-INDIA-VENTURES-LLP-AAD-6596",
+    "timestamp": "2026-08-28T15:35:16.866296"
+  },
+  {
+    "business": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Business Name",
+    "value": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1G8VBJ3WROITU&asin=B07DNJ4ZJW&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:35:17.486773"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Website",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ibm.com/think/topics/natural-language-processing",
+      "https://www.geeksforgeeks.org/nlp/introduction-to-natural-language-processing-nlp/"
+    ],
+    "timestamp": "2026-08-28T15:35:19.301644",
+    "status": "results_found"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Legal Entity Name",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686847x1273236128138508x506213434&adid=&device=c&location=258438&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686847&hsa_kw=llc%20registration%20in%20the%20USA&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=7b74ec76c5f01337d0b586e7987172c1&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=llc%20registration%20in%20the%20USA&utm_content=International%20-%20International%20-%20General",
+      "https://getemoji.com/",
+      "https://www.relume.ai/",
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686847x1273236128138508x506213434&adid=&device=c&location=258438&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686847&hsa_kw=llc%20registration%20in%20the%20USA&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=8d5e6b9a5a8916572541010b07085e7f&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=llc%20registration%20in%20the%20USA&utm_content=International%20-%20International%20-%20General"
+    ],
+    "timestamp": "2026-08-28T15:35:52.680598",
+    "status": "results_found"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://getemoji.com/",
+      "https://emojikeyboard.top/"
+    ],
+    "timestamp": "2026-08-28T15:36:02.412997",
+    "status": "results_found"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/gst-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=435857922&Adgroupid=1345803795394718&Adid=84113032835647&device=c&Adposition=&physical=258438&match_type=p&network=online%20apply%20gstin%20number&target_name=kwd-84113699729540:loc-90&placement=&keyword_id=online%20apply%20gstin%20number&msclkid=dd96d690f08b1cb84114bc01ad28b257"
+    ],
+    "timestamp": "2026-08-28T15:36:23.278333",
+    "status": "results_found"
+  },
+  {
+    "business": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/gst-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=435857922&Adgroupid=1345803795394718&Adid=84113032835647&device=c&Adposition=&physical=258438&match_type=p&network=online%20apply%20gstin%20number&target_name=kwd-84113699729540:loc-90&placement=&keyword_id=online%20apply%20gstin%20number&msclkid=dd96d690f08b1cb84114bc01ad28b257",
+    "timestamp": "2026-08-28T15:36:25.516570"
+  },
+  {
+    "business": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/gst-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=435857922&Adgroupid=1345803795394718&Adid=84113032835647&device=c&Adposition=&physical=258438&match_type=p&network=online%20apply%20gstin%20number&target_name=kwd-84113699729540:loc-90&placement=&keyword_id=online%20apply%20gstin%20number&msclkid=dd96d690f08b1cb84114bc01ad28b257",
+    "timestamp": "2026-08-28T15:36:25.517104"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.query-juriste.com/",
+      "https://www.query.ai/",
+      "https://http.dev/query"
+    ],
+    "timestamp": "2026-08-28T15:36:29.328546",
+    "status": "results_found"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bharatlyrics.com/tamil/imaikkaa-nodigal/",
+      "https://www.jiosaavn.com/album/imaikkaa-nodigal-original-motion-picture-soundtrack/zddWn7BZ0dM_",
+      "https://www.raaga.com/tamil/movie/Imaikkaa-Nodigal-songs-T0004557",
+      "https://gaana.com/album/imaikkaa-nodigal"
+    ],
+    "timestamp": "2026-08-28T15:36:34.987248",
+    "status": "results_found"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 founder",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://feno.co/products/founders-edition-bundle-one-time?variant=47302434849019"
+    ],
+    "timestamp": "2026-08-28T15:36:50.598347",
+    "status": "results_found"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Address",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T15:36:54.102692",
+    "status": "no_results"
+  },
+  {
+    "seller": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Address",
+    "query": "SMILE -BOX \u2b50\u2b50\u2b50\u2b50\u2b50 registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.douyin.com/",
+      "https://www.douyin.com/downloadpage/pc",
+      "https://doujia.douyin.com/",
+      "https://streamingtool.douyin.com/"
+    ],
+    "timestamp": "2026-08-28T15:36:55.486143",
+    "status": "results_found"
+  },
+  {
+    "business": "Genus Innovation Limited Company Outlet",
+    "field": "Business Name",
+    "value": "Genus Innovation Limited Company Outlet",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1FYGFHH9X8SV4&asin=B0CW3DJYNX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T15:37:09.497524"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "Website",
+    "query": "Genus Innovation Limited Company Outlet official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/"
+    ],
+    "timestamp": "2026-08-28T15:37:12.239929",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "Legal Entity Name",
+    "query": "Genus Innovation Limited Company Outlet company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:37:18.185641",
+    "status": "results_found"
+  },
+  {
+    "business": "Genus Innovation Limited Company Outlet",
+    "field": "Phone Number",
+    "value": "+919667123456",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shop.genusinnovation.com/",
+    "timestamp": "2026-08-28T15:37:24.215704"
+  },
+  {
+    "business": "Genus Innovation Limited Company Outlet",
+    "field": "Email Address",
+    "value": "info@genusinnovation.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shop.genusinnovation.com/",
+    "timestamp": "2026-08-28T15:37:24.216062"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "Legal Entity Name",
+    "query": "Genus Innovation Limited Company Outlet Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:37:27.116925",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "PAN",
+    "query": "Genus Innovation Limited Company Outlet PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:37:31.520692",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "PAN",
+    "query": "Genus Innovation Limited Company Outlet PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:37:39.033524",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "GST",
+    "query": "Genus Innovation Limited Company Outlet GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T15:37:59.325448",
+    "status": "no_results"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "GST",
+    "query": "Genus Innovation Limited Company Outlet GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:38:00.703233",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "Owner",
+    "query": "Genus Innovation Limited Company Outlet director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:38:01.906957",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "Owner",
+    "query": "Genus Innovation Limited Company Outlet founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:38:06.144772",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "Address",
+    "query": "Genus Innovation Limited Company Outlet registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:38:10.504334",
+    "status": "results_found"
+  },
+  {
+    "seller": "Genus Innovation Limited Company Outlet",
+    "field": "Address",
+    "query": "Genus Innovation Limited Company Outlet registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.genus.in/",
+      "https://biologynotesonline.com/genus/",
+      "https://apps.genus.in/",
+      "https://shop.genusinnovation.com/"
+    ],
+    "timestamp": "2026-08-28T15:38:15.883885",
+    "status": "results_found"
+  },
+  {
+    "business": "GENORA VENTURES",
+    "field": "Business Name",
+    "value": "GENORA VENTURES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SF7O1F047GUD&asin=B0DR2TBL4D&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:38:19.966270"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "Website",
+    "query": "GENORA VENTURES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.genoavc.com/",
+      "https://www.genoavc.com/about"
+    ],
+    "timestamp": "2026-08-28T15:38:25.202481",
+    "status": "results_found"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "Legal Entity Name",
+    "query": "GENORA VENTURES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cosplayrule34.com/jp/search/%E3%83%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E6%AC%A1%E6%92%AD%E6%94%BEjsjc%E5%85%A8%E8%A3%B8%E3%81%8A%E3%81%AA%E3%81%AB%E3%83%BC",
+      "https://p1.luolid.com/",
+      "https://www.scribd.com/document/522610947/%E5%88%9D%E4%B8%AD%E7%94%9F%E8%B5%84%E6%BA%90%E5%93%9F%E5%A5%B3%E5%B9%BC%E5%A5%B3%E8%B5%84%E6%BA%9011%E5%B2%81%E5%91%A6%E5%91%A6%E5%91%A6%E5%91%A6%E5%A5%B3%E8%B5%84%E6%BA%90%E8%90%9D%E8%8E%89%E6%B4%9B%E8%B5%84%E6%BA%90",
+      "https://students.aktiviti.org/js-jc-%E3%81%88%E3%82%8D-539-video-yandexte-bulundu/"
+    ],
+    "timestamp": "2026-08-28T15:38:34.902184",
+    "status": "results_found"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "Legal Entity Name",
+    "query": "GENORA VENTURES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://claude.ai/",
+      "https://claude.ai/login-Claude",
+      "https://downloads.claude.ai/releases/darwin/universal/RELEASES.json",
+      "https://downloads.claude.ai/claude-code-releases/2.1.179/manifest.json"
+    ],
+    "timestamp": "2026-08-28T15:38:47.445726",
+    "status": "results_found"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "PAN",
+    "query": "GENORA VENTURES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dominos.co.in/",
+      "https://lapinozpizza.in/",
+      "https://www.pizzahut.co.in/",
+      "https://www.dominos.co.in/menu"
+    ],
+    "timestamp": "2026-08-28T15:38:48.686946",
+    "status": "results_found"
+  },
+  {
+    "business": "GENORA VENTURES",
+    "field": "Email Address",
+    "value": "dominos.franchise@jublfood.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.dominos.co.in/",
+    "timestamp": "2026-08-28T15:38:49.537331"
+  },
+  {
+    "business": "GENORA VENTURES",
+    "field": "Phone Number",
+    "value": "+918238235444",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://lapinozpizza.in/",
+    "timestamp": "2026-08-28T15:38:52.052332"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "PAN",
+    "query": "GENORA VENTURES PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/",
+      "https://www.google.co.in/index.html",
+      "https://images.google.co.in/"
+    ],
+    "timestamp": "2026-08-28T15:38:56.473234",
+    "status": "results_found"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "GST",
+    "query": "GENORA VENTURES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-28T15:39:02.045756",
+    "status": "results_found"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "GST",
+    "query": "GENORA VENTURES GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.bug.hr/forum/topic/monitori/aoc-monitor/294153.aspx",
+      "https://forum.bug.hr/forum/topic/razni-hardverski-problemi/aoc-monitor-mrtvi-pixel/273055.aspx",
+      "https://forum.tomshw.it/threads/mi-bg-ss-a-mano-monitor-aoc-27-led-q27g3xmn.1245218/",
+      "https://forum.tomshw.it/threads/regolazione-settaggi-e-volume-aoc-gaming-q27g3xmn-mini-led.1232533/"
+    ],
+    "timestamp": "2026-08-28T15:39:05.012136",
+    "status": "results_found"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "Owner",
+    "query": "GENORA VENTURES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lazada.com.ph/tag/bulb-socket-toyota-vios/",
+      "https://www.aliexpress.com/s/wiki-ssr/article/toyota-vios-signal-light-bulb-size",
+      "https://www.lazada.com.ph/tag/signal-light-socket-toyota-vios/",
+      "https://shopee.ph/FOR-Toyota-Vios-Gen-1-2-3-2004-2018-LED-Reverse-Tail-Brake-Signal-Park-Light-Side-Fender-i.642828782.26338489308"
+    ],
+    "timestamp": "2026-08-28T15:39:09.718147",
+    "status": "results_found"
+  },
+  {
+    "seller": "GENORA VENTURES",
+    "field": "Address",
+    "query": "GENORA VENTURES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.douyin.com/",
+      "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3",
+      "https://creator.douyin.com/",
+      "https://live.douyin.com/"
+    ],
+    "timestamp": "2026-08-28T15:39:28.972069",
+    "status": "results_found"
+  },
+  {
+    "business": "Amayy Enterprises",
+    "field": "Business Name",
+    "value": "Amayy Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VZEB4CH91WT9&asin=B0FRXCQ9GV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:39:41.318389"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "Website",
+    "query": "Amayy Enterprises official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forums.whirlpool.net.au/",
+      "https://www.workshop.bunnings.com.au/2026-projects"
+    ],
+    "timestamp": "2026-08-28T15:39:43.336689",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "Legal Entity Name",
+    "query": "Amayy Enterprises company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://entitysearch.us/",
+      "https://secretaryofstate.com/",
+      "https://www.indiafilings.com/search",
+      "https://www.quickcompany.in/company/amaya-enterprises-private-limited"
+    ],
+    "timestamp": "2026-08-28T15:39:54.771141",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "Legal Entity Name",
+    "query": "Amayy Enterprises Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/",
+      "https://desktop.github.com/download/",
+      "https://github.com/asgeirtj/system_prompts_leaks"
+    ],
+    "timestamp": "2026-08-28T15:40:03.674497",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "PAN",
+    "query": "Amayy Enterprises PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafantasy.com/players/shane-warne-australian-cricketer-wife-age-records-photos/",
+      "https://starsunfolded.com/shane-warne-height-weight-age/",
+      "https://www.cricinfo.com/cricketers/shane-warne-8166",
+      "https://wikibio.in/shane-warne/"
+    ],
+    "timestamp": "2026-08-28T15:40:05.082074",
+    "status": "results_found"
+  },
+  {
+    "business": "Amayy Enterprises",
+    "field": "Billing Address",
+    "value": "melbourne, australia",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafantasy.com/players/shane-warne-australian-cricketer-wife-age-records-photos/",
+    "timestamp": "2026-08-28T15:40:06.501336"
+  },
+  {
+    "business": "Amayy Enterprises",
+    "field": "City",
+    "value": "australia",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafantasy.com/players/shane-warne-australian-cricketer-wife-age-records-photos/",
+    "timestamp": "2026-08-28T15:40:06.501435"
+  },
+  {
+    "business": "Amayy Enterprises",
+    "field": "Email Address",
+    "value": "admin@starsunfolded.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://starsunfolded.com/shane-warne-height-weight-age/",
+    "timestamp": "2026-08-28T15:40:07.609974"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "PAN",
+    "query": "Amayy Enterprises PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/23ANXPJ6229Q1Z4/",
+      "https://gstverify.co.in/search/",
+      "https://gstserver.com/gst/07BPIPK4752D1ZY/",
+      "https://www.falconebiz.com/company/AMAY-PANDEY-ENTERPRISES-PRIVATE-LIMITED-U11049MP2026PTC085533"
+    ],
+    "timestamp": "2026-08-28T15:40:12.102690",
+    "status": "results_found"
+  },
+  {
+    "business": "Amayy Enterprises",
+    "field": "GST Number",
+    "value": "23ANXPJ6229Q1Z4",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/23ANXPJ6229Q1Z4/",
+    "timestamp": "2026-08-28T15:40:13.526827"
+  },
+  {
+    "business": "Amayy Enterprises",
+    "field": "PAN Number",
+    "value": "ANXPJ6229Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/23ANXPJ6229Q1Z4/",
+    "timestamp": "2026-08-28T15:40:13.526849"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "Owner",
+    "query": "Amayy Enterprises director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ithelp.ithome.com.tw/questions/10200355",
+      "https://ithelp.ithome.com.tw/questions/10206577"
+    ],
+    "timestamp": "2026-08-28T15:40:15.695643",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "Owner",
+    "query": "Amayy Enterprises founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://config.office.com/",
+      "https://portal.office.com/AdminPortal/Home",
+      "https://portal.office.com/account?s=.................................................................0............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................."
+    ],
+    "timestamp": "2026-08-28T15:40:24.211887",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "Phone",
+    "query": "Amayy Enterprises phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tjgb.hongheiku.com/xjtjgb/xj2020/26132.html",
+      "https://tjgb.hongheiku.com/tag/%25e9%2584%2582%25e4%25bc%25a6%25e6%2598%25a5%25e8%2587%25aa%25e6%25b2%25bb%25e6%2597%2597",
+      "https://www.gcs66.com/document_detail/36753.html",
+      "https://www.gcs66.com/document_detail/40925.html"
+    ],
+    "timestamp": "2026-08-28T15:40:31.615837",
+    "status": "results_found"
+  },
+  {
+    "seller": "Amayy Enterprises",
+    "field": "Phone",
+    "query": "Amayy Enterprises contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.amayenterprises.com/contact/",
+      "https://www.amayenterprises.com/shipping-policy/",
+      "https://www.amayenterprises.com/about/",
+      "https://www.amayenterprises.com/compression-garments/"
+    ],
+    "timestamp": "2026-08-28T15:40:39.884476",
+    "status": "results_found"
+  },
+  {
+    "business": "Amayy Enterprises",
+    "field": "Phone Number",
+    "value": "+919999884109",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.amayenterprises.com/contact/",
+    "timestamp": "2026-08-28T15:40:45.221495"
+  }
+]

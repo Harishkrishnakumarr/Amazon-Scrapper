@@ -1,0 +1,61 @@
+{
+  "category": "Outdoor Recreation",
+  "records_before_save": 7,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Jupiter Industries",
+      "database_id": 653,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customerservice@jupiterindustries.com",
+      "gst": "33ALEPV4591L1ZJ",
+      "pan": "ALEPV4591L",
+      "website": "https://www.jupiterindustries.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Epitome Books",
+      "database_id": 654,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919500741224",
+      "email": "manoj@bhavishgraphics.com",
+      "gst": "33AAOCS0333F1ZN",
+      "pan": "AAOCS0333F",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SSNBooks",
+      "database_id": 655,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919871115366",
+      "email": "info@ssdnbooks.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "GalaxyBook",
+      "database_id": 667,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "Not Found",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "https://www.samsung.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

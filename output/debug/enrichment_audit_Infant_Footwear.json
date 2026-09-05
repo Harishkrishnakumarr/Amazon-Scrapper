@@ -1,0 +1,128 @@
+[
+  {
+    "business": "Shyamakid",
+    "field": "Business Name",
+    "value": "Shyamakid",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMHL5OOENIXXN&asin=B0GPF7FBDX&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "Shyamakid",
+    "field": "Billing Address",
+    "value": "naga cottagecircular road dimapur in797112",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.insiderbiz.in/company-map/SHYAMA-POWER-INDIA-LIMITED",
+    "search_attempts": 1
+  },
+  {
+    "business": "Shyamakid",
+    "field": "Phone Number",
+    "value": "+911995071387",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://www.samsung.com/in/support/contact/",
+    "search_attempts": 1
+  },
+  {
+    "business": "Shyamakid",
+    "field": "Email Address",
+    "value": "contact@shyamnamkeen.com",
+    "status": "VERIFIED",
+    "source": "Targeted Public Search",
+    "source_url": "https://shyamnamkeen.com/contact-us/",
+    "search_attempts": 1
+  },
+  {
+    "business": "PURESOLE",
+    "field": "Business Name",
+    "value": "PURESOLE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ATW6756LHMKQV&asin=B0GPDLDHKX&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "PURESOLE",
+    "field": "Website URL",
+    "value": "https://www.puresole.store/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.puresole.store/store",
+    "search_attempts": 1
+  },
+  {
+    "business": "PURESOLE",
+    "field": "Phone Number",
+    "value": "+917320242026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.puresole.store/",
+    "search_attempts": 1
+  },
+  {
+    "business": "PURESOLE",
+    "field": "PAN Number",
+    "value": "AAPCP4135R",
+    "status": "VERIFIED",
+    "source": "Extracted from Verified GSTIN (Entity Confirmed)",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/puresole-ecommerce-private-limited-27AAPCP4135R1ZL/",
+    "search_attempts": 1
+  },
+  {
+    "business": "PURESOLE",
+    "field": "GST Number",
+    "value": "27AAPCP4135R1ZL",
+    "status": "VERIFIED",
+    "source": "Entity Verified Search",
+    "source_url": "https://www.puresole.store/",
+    "search_attempts": 1
+  },
+  {
+    "business": "TECHSUN MART\u00ae",
+    "field": "Business Name",
+    "value": "TECHSUN MART\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35WOK9EQAE3F&asin=B0C36XWBH9&ref_=dp_merchant_link",
+    "search_attempts": 1
+  },
+  {
+    "business": "TECHSUN MART\u00ae",
+    "field": "Website URL",
+    "value": "https://www.sellerratings.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sellerratings.com/amazon/india/techsun-mart",
+    "search_attempts": 1
+  },
+  {
+    "business": "TECHSUN MART\u00ae",
+    "field": "Phone Number",
+    "value": "+914971232026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sellerratings.com/",
+    "search_attempts": 1
+  },
+  {
+    "business": "TECHSUN MART\u00ae",
+    "field": "PAN Number",
+    "value": "AQCPL4412D",
+    "status": "VERIFIED",
+    "source": "Extracted from Verified GSTIN (Entity Confirmed)",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/techsun-mart-24AQCPL4412D1ZH/",
+    "search_attempts": 1
+  },
+  {
+    "business": "TECHSUN MART\u00ae",
+    "field": "GST Number",
+    "value": "24AQCPL4412D1ZH; 29AQCPL4412D1Z7",
+    "status": "VERIFIED",
+    "source": "Entity Verified Search",
+    "source_url": "https://www.sellerratings.com/amazon/usa",
+    "search_attempts": 1
+  }
+]

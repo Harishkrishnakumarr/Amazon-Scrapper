@@ -1,0 +1,74 @@
+{
+  "category": "Dinnerware Serving Pieces",
+  "records_before_save": 8,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 278,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SHIV SHAKTI ARTS\u00ae",
+      "database_id": 279,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914999002026",
+      "email": "Not Found",
+      "gst": "27AAAPZ0646H1ZK",
+      "pan": "Not Found",
+      "website": "https://www.shivshaktiarts.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "LIMETRO_STEEL_KITCHEN_STORE_1",
+      "database_id": 280,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912445401107",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ExclusiveLane",
+      "database_id": 281,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919599198374",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.exclusivelane.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KiKiluxxa",
+      "database_id": 282,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919220202026",
+      "email": "support@kikiluxxa.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.kikiluxxa.com/",
+      "status": "Verified"
+    }
+  ]
+}

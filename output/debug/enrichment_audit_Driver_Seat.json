@@ -1,0 +1,412 @@
+[
+  {
+    "business": "HEEZOX",
+    "field": "Business Name",
+    "value": "HEEZOX",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1XE2K7YQMWL2U&asin=B0H4Z2SJB3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T07:51:36.618596"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Website",
+    "query": "HEEZOX official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://wise.com/au/currency-converter/aud-to-npr-rate",
+      "https://www.xe.com/en-au/currencyconverter/convert/?Amount=1&From=AUD&To=NPR"
+    ],
+    "timestamp": "2026-08-27T07:51:40.733370",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Legal Entity Name",
+    "query": "HEEZOX company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://www.registerkaro.in/company-details",
+      "https://companydata.com/company-registration-lookup/",
+      "https://opencorporates.com/"
+    ],
+    "timestamp": "2026-08-27T07:51:59.164877",
+    "status": "results_found"
+  },
+  {
+    "business": "HEEZOX",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-details",
+    "timestamp": "2026-08-27T07:52:03.669417"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "PAN",
+    "query": "HEEZOX PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bingquiz.com/bing-homepage-quiz/",
+      "https://bing.weeklyquiz.net/bing-homepage-quiz/",
+      "https://bingquizzes.com/bing-homepage-quiz-today/",
+      "https://bingquiz.com/"
+    ],
+    "timestamp": "2026-08-27T07:52:20.904365",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "GST",
+    "query": "HEEZOX GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rottenwifi.com/how-to-see-all-bing-related-searches/",
+      "https://metacpan.org/pod/Bing::Search::Source::RelatedSearch",
+      "https://blog.rottenwifi.com/how-to-see-all-bing-related-searches/",
+      "https://github.com/Provereno-Media/Bing-Search-Operators-Cheatsheet"
+    ],
+    "timestamp": "2026-08-27T07:52:33.402577",
+    "status": "results_found"
+  },
+  {
+    "business": "HEEZOX",
+    "field": "Email Address",
+    "value": "dhouston@cpan.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://metacpan.org/pod/Bing::Search::Source::RelatedSearch",
+    "timestamp": "2026-08-27T07:52:37.250761"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "GST",
+    "query": "HEEZOX GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-08-27T07:53:02.015559",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Owner",
+    "query": "HEEZOX director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://theorg.com/login",
+      "https://www.herzog.com/leadership/",
+      "https://www.cantonmaritime.com/meet-our-team-2/"
+    ],
+    "timestamp": "2026-08-27T07:53:15.385461",
+    "status": "results_found"
+  },
+  {
+    "seller": "HEEZOX",
+    "field": "Address",
+    "query": "HEEZOX registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.monotaro.com/k/store/%E4%BA%9C%E9%89%9B%E3%83%A1%E3%83%83%E3%82%AD%E7%AE%A1/?msockid=331eb0f958e96e200974a73b59946fe5",
+      "https://www.monotaro.com/k/store/%E4%BA%9C%E9%89%9B%E3%83%A1%E3%83%83%E3%82%AD%20%E9%8B%BC%E7%AE%A1/?msockid=331eb0f958e96e200974a73b59946fe5",
+      "https://jp.misumi-ec.com/vona2/mech_material/M1401000000/M1401070000/?CategorySpec=00000206805%3a%3af&msockid=331eb0f958e96e200974a73b59946fe5"
+    ],
+    "timestamp": "2026-08-27T07:53:22.214044",
+    "status": "results_found"
+  },
+  {
+    "business": "Q1 Beads Int.",
+    "field": "Business Name",
+    "value": "Q1 Beads Int.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VRDDF5GYJLRU&asin=B084DRPDNM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T07:53:37.697867"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Website",
+    "query": "Q1 Beads Int. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp"
+    ],
+    "timestamp": "2026-08-27T07:53:41.081949",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Legal Entity Name",
+    "query": "Q1 Beads Int. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:53:55.566431",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "PAN",
+    "query": "Q1 Beads Int. PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:54:13.860627",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "GST",
+    "query": "Q1 Beads Int. GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/q1-beads-19aujpp4884a1zb/",
+      "https://www.knowyourgst.com/gst-number-search/q1-beads-27AUJPP4884A1ZE/",
+      "https://piceapp.com/gst-number-search/q1-beads-29aujpp4884a1za/",
+      "https://q1beads.in/"
+    ],
+    "timestamp": "2026-08-27T07:54:46.414835",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Owner",
+    "query": "Q1 Beads Int. director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:54:59.865329",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Address",
+    "query": "Q1 Beads Int. registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T07:55:18.579044",
+    "status": "no_results"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Address",
+    "query": "Q1 Beads Int. registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://q1beads.in/pages/contact",
+      "https://q1beads.in/en-int/pages/contact-us",
+      "https://piceapp.com/gst-number-search/q1-beads-29aujpp4884a1za/",
+      "https://deepenrich.com/company/04ac/q1-beads-int-0011d5xr5"
+    ],
+    "timestamp": "2026-08-27T07:55:28.600723",
+    "status": "results_found"
+  },
+  {
+    "seller": "Q1 Beads Int.",
+    "field": "Phone",
+    "query": "Q1 Beads Int. phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/markets/earnings/",
+      "https://www.investopedia.com/terms/q/quarter.asp",
+      "https://www.financialexpress.com/about/q1-results/",
+      "https://www.financestrategists.com/wealth-management/financial-statements/quarter/"
+    ],
+    "timestamp": "2026-08-27T07:55:36.720617",
+    "status": "results_found"
+  },
+  {
+    "business": "BIGXEN",
+    "field": "Business Name",
+    "value": "BIGXEN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AD7A2Q70HLCUM&asin=B0DXDY7VFV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T07:55:45.635374"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "Website",
+    "query": "BIGXEN official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://bigten.org/",
+      "https://bigten.org/mbb/"
+    ],
+    "timestamp": "2026-08-27T07:55:53.594924",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "Legal Entity Name",
+    "query": "BIGXEN company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://secretaryofstate.com/",
+      "https://www.indiafilings.com/search/bigxen-tm-6403420",
+      "https://library.doc.gov/company/incorporation"
+    ],
+    "timestamp": "2026-08-27T07:56:22.186911",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "PAN",
+    "query": "BIGXEN PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.synonymer.com/de/deutsch/?q=bewerten",
+      "https://buchstaben.com/amp/synonym/bewerten",
+      "https://www.wortbedeutung.info/bewerten/"
+    ],
+    "timestamp": "2026-08-27T07:56:27.654509",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "GST",
+    "query": "BIGXEN GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://medley.life/diseases/54b71d9e6ef4587502f19995/",
+      "https://www.yoku-mite.care/sick/herpes-zoster/"
+    ],
+    "timestamp": "2026-08-27T07:56:44.280066",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "GST",
+    "query": "BIGXEN GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://codigopostalcl.com/region-metropolitana/maipo/san-bernardo/",
+      "https://xn--cdigos-postales-vrb.cybo.com/chile/8050000_san-bernardo-(chile)",
+      "https://postal-codes.net/codes/chile/8050000/",
+      "https://chl.postcodebase.com/es/node/259"
+    ],
+    "timestamp": "2026-08-27T07:56:51.920182",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "Owner",
+    "query": "BIGXEN director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/biogen/__rDDkVmBTZaWvVXd5G4nQIqydWfudiYCZdee3LDLtmDw",
+      "https://www.crunchbase.com/person/ignazio-di-gangi",
+      "https://www.revenuememo.com/p/who-owns-spacex",
+      "https://www.indiafilings.com/search/bigxen-tm-6403420"
+    ],
+    "timestamp": "2026-08-27T07:57:03.587989",
+    "status": "results_found"
+  },
+  {
+    "business": "BIGXEN",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/biogen/__rDDkVmBTZaWvVXd5G4nQIqydWfudiYCZdee3LDLtmDw",
+    "timestamp": "2026-08-27T07:57:04.987870"
+  },
+  {
+    "business": "BIGXEN",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/biogen/__rDDkVmBTZaWvVXd5G4nQIqydWfudiYCZdee3LDLtmDw",
+    "timestamp": "2026-08-27T07:57:04.987887"
+  },
+  {
+    "business": "BIGXEN",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/biogen/__rDDkVmBTZaWvVXd5G4nQIqydWfudiYCZdee3LDLtmDw",
+    "timestamp": "2026-08-27T07:57:04.987891"
+  },
+  {
+    "business": "BIGXEN",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/biogen/__rDDkVmBTZaWvVXd5G4nQIqydWfudiYCZdee3LDLtmDw",
+    "timestamp": "2026-08-27T07:57:04.987895"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "Phone",
+    "query": "BIGXEN phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bigcommerce.com/contact/",
+      "https://www.custline.com/",
+      "https://www.contacthelp.com/",
+      "https://gethuman.com/"
+    ],
+    "timestamp": "2026-08-27T07:57:27.200764",
+    "status": "results_found"
+  },
+  {
+    "seller": "BIGXEN",
+    "field": "Email",
+    "query": "BIGXEN email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://group.ntt/jp/",
+      "https://group.ntt/jp/ir/",
+      "https://www.rd.ntt/cs/",
+      "https://www.rd.ntt/organization/access/musashino.html"
+    ],
+    "timestamp": "2026-08-27T07:57:33.929529",
+    "status": "results_found"
+  }
+]

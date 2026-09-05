@@ -1,0 +1,915 @@
+[
+  {
+    "business": "Bata_India Ltd",
+    "field": "Business Name",
+    "value": "Bata_India Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AWRHVFFS77KOB&isAmazonFulfilled=0&asin=B0CFV6YKH3&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T11:25:32.925510"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Website",
+    "query": "Bata_India Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bata.com/in/",
+      "https://www.bata.com/in/women/"
+    ],
+    "timestamp": "2026-09-02T11:25:35.391044",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Website URL",
+    "value": "https://www.bata.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bata.com/in/",
+    "timestamp": "2026-09-02T11:25:40.362234"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Legal Entity Name",
+    "query": "Bata_India Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+      "https://www.registerkaro.in/company/bata-india-ltd-L19201WB1931PLC007261",
+      "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261",
+      "https://www.thecompanycheck.com/company/bata-india-ltd/L19201WB1931PLC007261"
+    ],
+    "timestamp": "2026-09-02T11:25:54.043230",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T11:25:55.091211"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T11:25:55.091230"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T11:25:55.091234"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T11:25:55.091240"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/bata-india-ltd-L19201WB1931PLC007261",
+    "timestamp": "2026-09-02T11:25:58.183463"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Email Address",
+    "value": "dept@bata.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261",
+    "timestamp": "2026-09-02T11:25:59.957927"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Legal Entity Name",
+    "query": "Bata_India Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261",
+      "https://www.filesure.in/company/bata-india-ltd/L19201WB1931PLC007261?tab=about",
+      "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-09-02T11:26:05.196030",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "PAN",
+    "query": "Bata_India Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/BATA-INDIA-LIMITED-22AABCB1043Q1ZW/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261",
+      "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4"
+    ],
+    "timestamp": "2026-09-02T11:26:09.815483",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "GST Number",
+    "value": "22AABCB1043Q1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BATA-INDIA-LIMITED-22AABCB1043Q1ZW/",
+    "timestamp": "2026-09-02T11:26:11.112780"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "PAN Number",
+    "value": "AABCB1043Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BATA-INDIA-LIMITED-22AABCB1043Q1ZW/",
+    "timestamp": "2026-09-02T11:26:11.112816"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Owner",
+    "query": "Bata_India Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://choiceindia.com/stocks/bata-india-ltd-board-of-directors",
+      "https://in.marketscreener.com/quote/stock/BATA-INDIA-LIMITED-46728582/company-governance/",
+      "https://www.thebusinessscroll.com/bata-shoes-origin-country-ceo-founder-owner/",
+      "https://www.businesstoday.in/latest/corporate/story/from-nike-and-zara-to-bata-who-is-sanjay-rao-the-new-md-and-ceo-of-bata-india-537836-2026-06-18"
+    ],
+    "timestamp": "2026-09-02T11:26:12.959584",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Owner Name",
+    "value": "the shoemaker who",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.thebusinessscroll.com/bata-shoes-origin-country-ceo-founder-owner/",
+    "timestamp": "2026-09-02T11:26:20.054319"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "Business Name",
+    "value": "AhanjalBrands",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15HI3YP389PS&asin=B0BVQWV2TV&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T11:26:20.629984"
+  },
+  {
+    "seller": "AhanjalBrands",
+    "field": "Website",
+    "query": "AhanjalBrands official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.patanjaliayurved.net/",
+      "https://www.patanjaliayurved.net/category/ayurvedic-medicine/4"
+    ],
+    "timestamp": "2026-09-02T11:26:22.416702",
+    "status": "results_found"
+  },
+  {
+    "seller": "AhanjalBrands",
+    "field": "Legal Entity Name",
+    "query": "AhanjalBrands company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://lemreveal.com/data/india",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-09-02T11:26:29.478609",
+    "status": "results_found"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T11:26:30.851250"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T11:26:30.851711"
+  },
+  {
+    "seller": "AhanjalBrands",
+    "field": "Legal Entity Name",
+    "query": "AhanjalBrands Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/search",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-02T11:26:42.759937",
+    "status": "results_found"
+  },
+  {
+    "seller": "AhanjalBrands",
+    "field": "PAN",
+    "query": "AhanjalBrands PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T11:26:44.902195",
+    "status": "results_found"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T11:26:46.835754"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T11:26:46.835795"
+  },
+  {
+    "seller": "AhanjalBrands",
+    "field": "Owner",
+    "query": "AhanjalBrands director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbes.com/profile/pawan-munjal/",
+      "https://www.forbes.com/profile/pawan-munjal-1/",
+      "https://tracxn.com/d/companies/anveshan/__BcvM6wRPSLYTwryBjOsT2enCHJNfIwJH3ZvnI-7B5Bc",
+      "https://www.heromotocorp.com/en-in/company/about-us/board-and-leadership.html"
+    ],
+    "timestamp": "2026-09-02T11:26:48.561029",
+    "status": "results_found"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/anveshan/__BcvM6wRPSLYTwryBjOsT2enCHJNfIwJH3ZvnI-7B5Bc",
+    "timestamp": "2026-09-02T11:26:55.373884"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/anveshan/__BcvM6wRPSLYTwryBjOsT2enCHJNfIwJH3ZvnI-7B5Bc",
+    "timestamp": "2026-09-02T11:26:55.373900"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/anveshan/__BcvM6wRPSLYTwryBjOsT2enCHJNfIwJH3ZvnI-7B5Bc",
+    "timestamp": "2026-09-02T11:26:55.373905"
+  },
+  {
+    "business": "AhanjalBrands",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/anveshan/__BcvM6wRPSLYTwryBjOsT2enCHJNfIwJH3ZvnI-7B5Bc",
+    "timestamp": "2026-09-02T11:26:55.373909"
+  },
+  {
+    "seller": "AhanjalBrands",
+    "field": "Owner",
+    "query": "AhanjalBrands founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.filesure.in/company/anjel-brand-private-limited/U52609MP2020PTC051622",
+      "https://www.forbes.com/profile/sachin-bansal/",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.republicworld.com/initiatives/satish-sanpal-dubai-entrepreneur-reshaping-uae-s-business-landscape-2026-06-25-129878"
+    ],
+    "timestamp": "2026-09-02T11:27:00.129253",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Business Name",
+    "value": "Campusactivewear",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2JTUMWXNY2SJF&isAmazonFulfilled=1&asin=B0BVQWV2TV&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T11:27:03.996080"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Website",
+    "query": "Campusactivewear official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.campusactivewear.com/",
+      "https://www.campusactivewear.com/our-history"
+    ],
+    "timestamp": "2026-09-02T11:27:05.599545",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Website URL",
+    "value": "https://www.campusactivewear.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.campusactivewear.com/",
+    "timestamp": "2026-09-02T11:27:09.655556"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Legal Entity Name",
+    "value": "Campus Activewear Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.campusactivewear.com/",
+    "timestamp": "2026-09-02T11:27:10.333991"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Phone Number",
+    "value": "+919667706012",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.campusactivewear.com/contact-us",
+    "timestamp": "2026-09-02T11:27:13.038360"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Email Address",
+    "value": "compliance@campusshoes.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.campusactivewear.com/contact-us",
+    "timestamp": "2026-09-02T11:27:13.038429"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "PAN",
+    "query": "Campus Activewear Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+      "https://gst.unifers.ai/gst/23AAHCA3072C1Z9/campus-activewear-limited",
+      "https://gst.unifers.ai/gst/10AAHCA3072C1ZG/campus-activewear-limited",
+      "https://www.knowyourgst.com/gst-number-search/campus-activewear-private-limited-07AAHCA3072C1Z3/"
+    ],
+    "timestamp": "2026-09-02T11:27:15.597020",
+    "status": "results_found"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:27:16.294892"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:27:16.294909"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:27:16.294913"
+  },
+  {
+    "business": "Campusactivewear",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/campus-activewear-limited/__lgkEDSP9kIcR0klFtmYbkdNujYayfyr2Evt2qzhy_Sc",
+    "timestamp": "2026-09-02T11:27:16.294917"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "GST",
+    "query": "Campus Activewear Limited GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T11:27:57.547823",
+    "status": "no_results"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Owner",
+    "query": "Campus Activewear Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html#:~:text=Hari%20Krishan%20Agarwal%20founded%20Campus%20Activewear%20Ltd%20in,an%20extensive%20product%20line%20for%20the%20whole%20family.",
+      "https://www.campusactivewear.com/sites/default/files/2025-04/Directorsprofile.pdf",
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html",
+      "https://choiceindia.com/stocks/campus-activewear-ltd-board-of-directors"
+    ],
+    "timestamp": "2026-09-02T11:27:59.843329",
+    "status": "results_found"
+  },
+  {
+    "seller": "Campusactivewear",
+    "field": "Owner",
+    "query": "Campusactivewear founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html#:~:text=Hari%20Krishan%20Agarwal%20founded%20Campus%20Activewear%20Ltd%20in,an%20extensive%20product%20line%20for%20the%20whole%20family.",
+      "https://www.campusactivewear.com/our-history",
+      "https://www.campusshoes.com/pages/about-us",
+      "https://studycafe.in/meet-hari-krishan-agarwal-self-made-man-who-built-leading-footwear-brand-campus-valued-more-than-10000-crores-214193.html"
+    ],
+    "timestamp": "2026-09-02T11:28:10.135446",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0CFV6YKH3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T11:28:13.204425"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T11:28:14.784728",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T11:28:18.318528"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T11:28:19.067910"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T11:28:19.068287"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T11:28:23.878271",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T11:28:25.079741"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T11:28:25.079755"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574?tab=about"
+    ],
+    "timestamp": "2026-09-02T11:28:26.719743",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:28:27.811240"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:28:27.811263"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:28:27.811272"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T11:28:27.811278"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T11:28:32.243982"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T11:28:34.576136",
+    "status": "results_found"
+  },
+  {
+    "business": "VK Traders Shoes",
+    "field": "Business Name",
+    "value": "VK Traders Shoes",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2IDC1JPA0KFXP&asin=B0GSZZ3NGH&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T11:28:39.759125"
+  },
+  {
+    "seller": "VK Traders Shoes",
+    "field": "Website",
+    "query": "VK Traders Shoes official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://vktraders.online/",
+      "https://www.vktraders.com/"
+    ],
+    "timestamp": "2026-09-02T11:28:41.262047",
+    "status": "results_found"
+  },
+  {
+    "seller": "VK Traders Shoes",
+    "field": "Legal Entity Name",
+    "query": "VK Traders Shoes company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T11:29:06.417564",
+    "status": "no_results"
+  },
+  {
+    "seller": "VK Traders Shoes",
+    "field": "Legal Entity Name",
+    "query": "VK Traders Shoes Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/vk-traders-private-limited",
+      "https://www.falconebiz.com/company/VK-TRADERS-PRIVATE-LIMITED-U22121TN1971PTC006005",
+      "https://www.inspex.in/",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-09-02T11:29:08.305662",
+    "status": "results_found"
+  },
+  {
+    "seller": "VK Traders Shoes",
+    "field": "PAN",
+    "query": "VK Traders Shoes PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.vktraders.com/"
+    ],
+    "timestamp": "2026-09-02T11:29:29.682248",
+    "status": "results_found"
+  },
+  {
+    "business": "VK Traders Shoes",
+    "field": "Email Address",
+    "value": "info@vktraders.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.vktraders.com/",
+    "timestamp": "2026-09-02T11:31:03.820231"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "Business Name",
+    "value": "Puma Sports India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A3L1OUG0B9LM6T&isAmazonFulfilled=1&asin=B0BSLKFM7S&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T11:31:04.312014"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "Website",
+    "query": "Puma Sports India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://in.puma.com/in/en",
+      "https://in.puma.com/in/en/sports"
+    ],
+    "timestamp": "2026-09-02T11:31:06.417550",
+    "status": "results_found"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "Website URL",
+    "value": "https://in.puma.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://in.puma.com/in/en",
+    "timestamp": "2026-09-02T11:31:11.130443"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "Legal Entity Name",
+    "query": "Puma Sports India company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+      "https://in.puma.com/in/en/pc-company-registration",
+      "https://www.instafinancials.com/company/puma-sports-india-private-limited-U51909KA2005PTC037319",
+      "https://www.thecompanycheck.com/company/puma-sports-india-private-limited/U51909KA2005PTC037319"
+    ],
+    "timestamp": "2026-09-02T11:31:32.747365",
+    "status": "results_found"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+    "timestamp": "2026-09-02T11:31:33.836894"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+    "timestamp": "2026-09-02T11:31:33.836909"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+    "timestamp": "2026-09-02T11:31:33.836913"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+    "timestamp": "2026-09-02T11:31:33.836917"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "Email Address",
+    "value": "cslegal.india@puma.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/company/puma-sports-india-private-limited-U51909KA2005PTC037319",
+    "timestamp": "2026-09-02T11:31:38.540063"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "Legal Entity Name",
+    "query": "Puma Sports India Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.instafinancials.com/company/puma-sports-india-private-limited-U51909KA2005PTC037319",
+      "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+      "https://www.indiafilings.com/search/puma-sports-india-private-limited-cin-U51909KA2005PTC037319",
+      "https://www.falconebiz.com/company/PUMA-SPORTS-INDIA-PRIVATE-LIMITED-U51909KA2005PTC037319"
+    ],
+    "timestamp": "2026-09-02T11:31:43.366917",
+    "status": "results_found"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "PAN",
+    "query": "Puma Sports India PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+      "https://gstserver.com/gst/30AADCP7081J1ZF/",
+      "https://www.knowyourgst.com/gst-number-search/puma-sports-india-pvt-ltd-27AADCP7081J1Z2/",
+      "https://www.knowyourgst.com/gst-number-search/puma-sports-india-private-limited-33AADCP7081J1Z9/"
+    ],
+    "timestamp": "2026-09-02T11:31:47.140395",
+    "status": "results_found"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "GST Number",
+    "value": "30AADCP7081J1ZF",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/30AADCP7081J1ZF/",
+    "timestamp": "2026-09-02T11:31:49.591505"
+  },
+  {
+    "business": "Puma Sports India",
+    "field": "PAN Number",
+    "value": "AADCP7081J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/30AADCP7081J1ZF/",
+    "timestamp": "2026-09-02T11:31:49.591529"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "Owner",
+    "query": "Puma Sports India director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.d2cindia.in/karthik.php",
+      "https://about.puma.com/en/newsroom/news/karthik-balagopalan-become-managing-director-puma-india",
+      "https://www.thecompanycheck.com/people/puma-sports-india/U51909KA2005PTC037319",
+      "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc"
+    ],
+    "timestamp": "2026-09-02T11:31:52.159539",
+    "status": "results_found"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "Owner",
+    "query": "Puma Sports India founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/puma-sports-india-private-limited/__yHKZ2etLrR9ofHxZc2JNvDGuGwqC9hKW6evEEB8EJgc",
+      "https://www.thecompanycheck.com/company/puma-sports-india-private-limited/U51909KA2005PTC037319",
+      "https://about.puma.com/en/puma/history",
+      "https://www.livemint.com/Companies/vF6E96XqOCVZdN0aWZU5JP/Man-behind-Pumas-success-in-India-launches-own-sports-brand.html"
+    ],
+    "timestamp": "2026-09-02T11:32:05.769038",
+    "status": "results_found"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "Phone",
+    "query": "Puma Sports India phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.puma.com/in/en/help",
+      "https://in.puma.com/in/en/help/my-account",
+      "https://in.puma.com/in/en/help/miscellaneous",
+      "https://sg.puma.com/"
+    ],
+    "timestamp": "2026-09-02T11:32:07.313727",
+    "status": "results_found"
+  },
+  {
+    "seller": "Puma Sports India",
+    "field": "Phone",
+    "query": "Puma Sports India contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://in.puma.com/in/en/help",
+      "https://in.puma.com/in/en/help/my-account",
+      "https://in.puma.com/in/en/help/miscellaneous",
+      "https://sg.puma.com/"
+    ],
+    "timestamp": "2026-09-02T11:32:18.514878",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "business": "Indian Classy Wear",
+    "field": "Business Name",
+    "value": "Indian Classy Wear",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEMJ2VGEMMDDH&asin=B0FXY665QD&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T09:56:43.543484"
+  },
+  {
+    "seller": "Indian Classy Wear",
+    "field": "Website",
+    "query": "Indian Classy Wear official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.houseofindya.com/",
+      "https://www.houseofindya.com/new-arrivals/women-clothing/cat"
+    ],
+    "timestamp": "2026-09-02T09:56:46.689170",
+    "status": "results_found"
+  },
+  {
+    "business": "Indian Classy Wear",
+    "field": "Website URL",
+    "value": "https://www.houseofindya.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.houseofindya.com/new-arrivals/women-clothing/cat",
+    "timestamp": "2026-09-02T09:56:55.565930"
+  },
+  {
+    "business": "Indian Classy Wear",
+    "field": "Phone Number",
+    "value": "+917303700176",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.houseofindya.com/",
+    "timestamp": "2026-09-02T09:57:00.370020"
+  },
+  {
+    "business": "Indian Classy Wear",
+    "field": "Billing Address",
+    "value": "High Street Essentials Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.houseofindya.com/",
+    "timestamp": "2026-09-02T09:57:00.377418"
+  },
+  {
+    "business": "Indian Classy Wear",
+    "field": "Email Address",
+    "value": "customercare@houseofindya.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.houseofindya.com/contact-us",
+    "timestamp": "2026-09-02T09:57:11.425642"
+  },
+  {
+    "seller": "Indian Classy Wear",
+    "field": "Legal Entity Name",
+    "query": "Indian Classy Wear company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://businessconnectindia.in/start-clothing-business-india/",
+      "https://www.startbusiness.co.in/",
+      "https://www.registerkaro.in/guides/how-to-start-a-small-clothing-business-from-home",
+      "https://www.indiahandmade.com/marketplace/"
+    ],
+    "timestamp": "2026-09-02T09:57:16.454145",
+    "status": "results_found"
+  },
+  {
+    "seller": "Indian Classy Wear",
+    "field": "Legal Entity Name",
+    "query": "Indian Classy Wear Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://businessconnectindia.in/start-clothing-business-india/",
+      "https://www.startbusiness.co.in/",
+      "https://company.vakilsearch.com/",
+      "https://www.indiafilings.com/check-company-name-availability"
+    ],
+    "timestamp": "2026-09-02T09:57:28.233414",
+    "status": "results_found"
+  },
+  {
+    "seller": "Indian Classy Wear",
+    "field": "PAN",
+    "query": "Indian Classy Wear PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxless.in/pan-card-validator",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/pan-card-number-search-by-name-a-complete-guide",
+      "https://stablemoney.in/blog/how-to-find-pan-number-by-name"
+    ],
+    "timestamp": "2026-09-02T09:57:35.237026",
+    "status": "results_found"
+  },
+  {
+    "seller": "Indian Classy Wear",
+    "field": "GST",
+    "query": "Indian Classy Wear GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://www.indiahandmade.com/marketplace/",
+      "https://gstextract.com/gstin-details",
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-02T09:57:52.185637",
+    "status": "results_found"
+  },
+  {
+    "seller": "Indian Classy Wear",
+    "field": "Owner",
+    "query": "Indian Classy Wear director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.forbesindia.com/article/leadership/nobody-imagined-that-a-foreign-pe-giant-would-invest-in-a-salwar-kameez-business-meena-bindra-of-biba/95878/1",
+      "https://blackberrys.com/pages/our-leaders",
+      "https://www.timesnownews.com/business-economy/meet-ravi-modi-founder-of-vedant-fashions-the-man-who-gave-indian-weddings-a-classy-touch-with-his-brand-manyavar-net-worth-article-101504653",
+      "http://creativecommons.org/licenses/by-sa/3.0/"
+    ],
+    "timestamp": "2026-09-02T09:58:08.374574",
+    "status": "results_found"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "Business Name",
+    "value": "Fausto Luckystar",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A173W2C6ZVF30Z&asin=B0C2C7QXWM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T09:58:22.827478"
+  },
+  {
+    "seller": "Fausto Luckystar",
+    "field": "Website",
+    "query": "Fausto Luckystar official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://fausto.in/",
+      "https://fausto.in/pages/men"
+    ],
+    "timestamp": "2026-09-02T09:58:24.818006",
+    "status": "results_found"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "Website URL",
+    "value": "https://fausto.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://fausto.in/pages/men",
+    "timestamp": "2026-09-02T09:58:37.290962"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "Phone Number",
+    "value": "+919625703614",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fausto.in/contact-us",
+    "timestamp": "2026-09-02T09:59:01.677955"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "Email Address",
+    "value": "support@fausto.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fausto.in/contact-us",
+    "timestamp": "2026-09-02T09:59:01.678111"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "Billing Address",
+    "value": "40A/9, Madan Mohan Malviya Marg, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh-201010",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fausto.in/contact-us",
+    "timestamp": "2026-09-02T09:59:01.681739"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "City",
+    "value": "Ghaziabad",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fausto.in/contact-us",
+    "timestamp": "2026-09-02T09:59:01.681759"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fausto.in/contact-us",
+    "timestamp": "2026-09-02T09:59:01.681764"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "Pincode",
+    "value": "201010",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://fausto.in/contact-us",
+    "timestamp": "2026-09-02T09:59:01.681783"
+  },
+  {
+    "seller": "Fausto Luckystar",
+    "field": "Legal Entity Name",
+    "query": "Fausto Luckystar company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://fausto.in/",
+      "https://fausto.in/pages/men",
+      "https://fausto.in/collections/bestsellers",
+      "https://fausto.in/pages/contact-us"
+    ],
+    "timestamp": "2026-09-02T09:59:06.605379",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fausto Luckystar",
+    "field": "PAN",
+    "query": "Fausto Luckystar PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide#:~:text=Another%20way%20to%20find%20your%20PAN%20number%20by,your%20personal%20details%2C%20complete%20the%20captcha%2C%20and%20submit.",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-for-a-name-using-a-pan-number-a-step-by-step-guide",
+      "https://fausto.in/"
+    ],
+    "timestamp": "2026-09-02T09:59:26.938539",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fausto Luckystar",
+    "field": "GST",
+    "query": "Fausto Luckystar GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://fausto.in/",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-02T09:59:43.054130",
+    "status": "results_found"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T09:59:44.637996"
+  },
+  {
+    "business": "Fausto Luckystar",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T09:59:44.638013"
+  },
+  {
+    "seller": "Fausto Luckystar",
+    "field": "Owner",
+    "query": "Fausto Luckystar director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.affluense.ai/profile/sumit-agarwal-fausto---lucky-star-136f95",
+      "https://rocketreach.co/fausto-lucky-star-management_b685a017c606b5f4",
+      "https://rocketreach.co/sumit-agarwal-email_23481209",
+      "https://fausto.in/"
+    ],
+    "timestamp": "2026-09-02T09:59:47.135541",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fausto Luckystar",
+    "field": "Owner",
+    "query": "Fausto Luckystar founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.affluense.ai/profile/sumit-agarwal-fausto---lucky-star-136f95#:~:text=Sumit%20Agarwal%20is%20the%20founder%20of%20FAUSTO%20-,a%20strong%20entrepreneurial%20spirit%20and%20commitment%20to%20innovation.",
+      "https://www.affluense.ai/profile/sumit-agarwal-fausto---lucky-star-136f95",
+      "https://fausto.in/",
+      "https://rocketreach.co/fausto-lucky-star-management_b685a017c606b5f4"
+    ],
+    "timestamp": "2026-09-02T10:00:02.015838",
+    "status": "results_found"
+  }
+]

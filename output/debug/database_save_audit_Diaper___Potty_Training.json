@@ -1,0 +1,61 @@
+{
+  "category": "Diaper & Potty Training",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Navashya Consumer Products Private Limited",
+      "database_id": 1169,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@thecompanycheck.com",
+      "gst": "33AAGCN2148B1ZZ",
+      "pan": "AAGCN2148B",
+      "website": "https://www.thecompanycheck.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BabyTeddy",
+      "database_id": 1170,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "33AZCPB6527G1ZS",
+      "pan": "AZCPB6527G",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DEVNIRDOSH",
+      "database_id": 1171,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "contact@foodvietnamese.com",
+      "gst": "24BOUPA8678D1ZL",
+      "pan": "BOUPA8678D",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VParents",
+      "database_id": 1172,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918050051173",
+      "email": "vparentsinfo@gmail.com",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "https://www.vparents.co.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

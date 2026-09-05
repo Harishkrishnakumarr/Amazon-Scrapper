@@ -1,0 +1,48 @@
+{
+  "category": "School Uniform",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "PUPPETNX",
+      "database_id": 155,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913800042026",
+      "email": "puppetnx1986@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://puppetnx.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Dress Emporium Pvt Ltd",
+      "database_id": 156,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ASHA TRADING & UNIFORM",
+      "database_id": 157,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

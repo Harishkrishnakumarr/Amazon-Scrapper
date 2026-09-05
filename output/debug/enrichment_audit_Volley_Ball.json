@@ -1,0 +1,1194 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B00ICCYIRO&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-23T00:22:49.169566"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-08-23T00:22:50.876829",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.xe.com/currencyconverter/",
+      "https://www.calculator.net/currency-calculator.html",
+      "https://wise.com/us/currency-converter/usd-to-eur-rate?amount=5.01",
+      "https://www.xe.com/en-au/currencyconverter/convert/?Amount=5&From=USD&To=EUR",
+      "https://www.exchange-rates.org/converter/usd-eur/5"
+    ],
+    "timestamp": "2026-08-23T00:22:56.146626",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-08-23T00:23:07.952437",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.daraz.pk/",
+      "https://www.daraz.pk/mobile-apps/",
+      "https://sellercenter.daraz.pk/",
+      "https://pages.daraz.pk/",
+      "https://sellercenter.daraz.pk/apps/seller/login?login=1"
+    ],
+    "timestamp": "2026-08-23T00:23:10.059407",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.elevenforum.com/t/change-power-plan-settings-in-windows-11.6918/"
+    ],
+    "timestamp": "2026-08-23T00:23:17.249075",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://earthquake.tenki.jp/bousai/earthquake/",
+      "https://earthquake.tenki.jp/bousai/earthquake/entries/",
+      "https://earthquake.tenki.jp/bousai/earthquake/entries/level-4/",
+      "https://earthquake.tenki.jp/bousai/earthquake/seismicity-map/7days/"
+    ],
+    "timestamp": "2026-08-23T00:23:21.467350",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://papago.naver.com/",
+      "https://papago.naver.com/docs",
+      "https://papago.naver.com/10th-anniversary"
+    ],
+    "timestamp": "2026-08-23T00:23:33.165901",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://gst.jamku.app/gstin/06AALCR3173P1ZR"
+    ],
+    "timestamp": "2026-08-23T00:23:42.718950",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-23T00:23:43.262268"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://mycorporateinfo.com/business/retailez-private-limited",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-23T00:23:46.522423",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://www.affluense.club/company/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-23T00:23:55.369305",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text",
+      "https://stackoverflow.com/questions/4810803/open-facebook-page-from-android-app",
+      "https://stackoverflow.com/questions/7543077/getting-fb-me-url",
+      "https://stackoverflow.com/questions/2925620/facebook-links-to-my-site-resolve-as-403-forbidden",
+      "https://stackoverflow.com/questions/5205652/facebook-profile-url-regular-expression"
+    ],
+    "timestamp": "2026-08-23T00:24:03.796654",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://faq.whatsapp.com/1513589699119080",
+      "https://faq.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-23T00:24:06.162174",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://jp.xhamster.com/",
+      "https://jp.xhamster.com/my/watch-history",
+      "https://xhamster.com/",
+      "https://xhamster.com/categories/british",
+      "https://nl.xhamster.com/"
+    ],
+    "timestamp": "2026-08-23T00:24:16.150159",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/e-waste-management/"
+    ],
+    "timestamp": "2026-08-23T00:24:35.791784",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+915600012023",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-23T00:24:36.980581"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.xnxx.com/",
+      "https://www.xnxx.com/tags",
+      "https://www.xnxx.com/todays-selection/1",
+      "https://forum.xnxx.com/",
+      "https://www.xnxx.com/search/xxx"
+    ],
+    "timestamp": "2026-08-23T00:24:38.550087",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "forum@xnxx.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forum.xnxx.com/",
+    "timestamp": "2026-08-23T00:24:45.512622"
+  },
+  {
+    "business": "Alan Jones Clothing\u00ae",
+    "field": "Business Name",
+    "value": "Alan Jones Clothing\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1G9CEWVFE2WQQ&asin=B01LXGXURD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-23T00:24:46.158182"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Website",
+    "query": "Alan Jones Clothing\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im"
+    ],
+    "timestamp": "2026-08-23T00:24:47.609072",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Alan Jones Clothing\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:24:53.469214",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Alan Jones Clothing\u00ae Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:25:04.078907",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "PAN",
+    "query": "Alan Jones Clothing\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:25:14.709345",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "PAN",
+    "query": "Alan Jones Clothing\u00ae PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:25:23.551123",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "PAN",
+    "query": "Alan Jones Clothing\u00ae PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en"
+    ],
+    "timestamp": "2026-08-23T00:25:31.386291",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "GST",
+    "query": "Alan Jones Clothing\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en"
+    ],
+    "timestamp": "2026-08-23T00:25:35.401364",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "GST",
+    "query": "Alan Jones Clothing\u00ae GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en"
+    ],
+    "timestamp": "2026-08-23T00:25:41.296584",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "GST",
+    "query": "Alan Jones Clothing\u00ae GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im"
+    ],
+    "timestamp": "2026-08-23T00:25:48.997763",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Owner",
+    "query": "Alan Jones Clothing\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en"
+    ],
+    "timestamp": "2026-08-23T00:25:53.147910",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Owner",
+    "query": "Alan Jones Clothing\u00ae managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:25:58.332528",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Owner",
+    "query": "Alan Jones Clothing\u00ae founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://allen.in/"
+    ],
+    "timestamp": "2026-08-23T00:26:05.764007",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Address",
+    "query": "Alan Jones Clothing\u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en"
+    ],
+    "timestamp": "2026-08-23T00:26:09.428845",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Address",
+    "query": "Alan Jones Clothing\u00ae registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:26:14.997999",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Address",
+    "query": "Alan Jones Clothing\u00ae head office address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:26:22.250974",
+    "status": "results_found"
+  },
+  {
+    "seller": "Alan Jones Clothing\u00ae",
+    "field": "Phone",
+    "query": "Alan Jones Clothing\u00ae phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allen.in/",
+      "https://www.dailymotion.com/video/x8s02im",
+      "https://alan.com/en",
+      "https://momlovesbest.com/alan-name-meaning",
+      "https://www.britannica.com/biography/Alan-Turing"
+    ],
+    "timestamp": "2026-08-23T00:26:29.098723",
+    "status": "results_found"
+  },
+  {
+    "business": "Alan Jones Clothing\u00ae",
+    "field": "Phone Number",
+    "value": "+910409707817",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://alan.com/en",
+    "timestamp": "2026-08-23T00:26:46.561165"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "Business Name",
+    "value": "Rey's Sparkle Pvt. Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2T6C6XJD99A72&asin=B016F79C78&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-23T00:26:47.106164"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Website",
+    "query": "Rey's Sparkle Pvt. Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.reyssparkle.com/",
+      "https://www.sellerratings.com/amazon/india/reys-sparkle-pvt-ltd"
+    ],
+    "timestamp": "2026-08-23T00:26:51.905416",
+    "status": "results_found"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "Website URL",
+    "value": "https://www.sellerratings.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sellerratings.com/amazon/india/reys-sparkle-pvt-ltd",
+    "timestamp": "2026-08-23T00:26:57.730121"
+  },
+  {
+    "business": "Rey's Sparkle Pvt. Ltd",
+    "field": "Phone Number",
+    "value": "+910611232026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.sellerratings.com/",
+    "timestamp": "2026-08-23T00:26:59.501988"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Legal Entity Name",
+    "query": "Rey's Sparkle Pvt. Ltd company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker"
+    ],
+    "timestamp": "2026-08-23T00:27:04.166755",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Legal Entity Name",
+    "query": "Rey's Sparkle Pvt. Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/reys-sparkle-private-limited/U51909DL2021PTC382931",
+      "https://www.falconebiz.com/company/REY-S-SPARKLE-PRIVATE-LIMITED-U51909DL2021PTC382931",
+      "https://www.companydetails.in/company/reys-sparkle-private-limited",
+      "https://www.instafinancials.com/company/rey-s-sparkle-private-limited-U51909DL2021PTC382931",
+      "https://company.vakilsearch.com/rey-s-sparkle-private-limited/U51909DL2021PTC382931"
+    ],
+    "timestamp": "2026-08-23T00:27:18.094693",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "PAN",
+    "query": "Rey's Sparkle Pvt. Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-23T00:27:23.478456",
+    "status": "no_results"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "PAN",
+    "query": "Rey's Sparkle Pvt. Ltd PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/reys-sparkle-private-limited-33AALCR0932J1ZD/",
+      "https://www.knowyourgst.com/gst-number-search/reys-sparkle-private-limited-07AALCR0932J1Z8/",
+      "https://www.reyssparkle.com/",
+      "https://gstverify.co.in/search/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html"
+    ],
+    "timestamp": "2026-08-23T00:27:27.042002",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "PAN",
+    "query": "Rey's Sparkle Pvt. Ltd PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/reys-sparkle-private-limited-33AALCR0932J1ZD/",
+      "https://www.falconebiz.com/company/REY-S-SPARKLE-PRIVATE-LIMITED-U51909DL2021PTC382931",
+      "https://www.companydetails.in/company/reys-sparkle-private-limited",
+      "https://www.thecompanycheck.com/company/reys-sparkle-private-limited/U51909DL2021PTC382931",
+      "https://www.knowyourgst.com/gst-number-search/reys-sparkle-private-limited-29AALCR0932J1Z2/"
+    ],
+    "timestamp": "2026-08-23T00:27:44.245214",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "GST",
+    "query": "Rey's Sparkle Pvt. Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker",
+      "https://www.starwars.com/databank/rey"
+    ],
+    "timestamp": "2026-08-23T00:27:48.449621",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "GST",
+    "query": "Rey's Sparkle Pvt. Ltd GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/reys-sparkle-private-limited-33AALCR0932J1ZD/",
+      "https://www.knowyourgst.com/gst-number-search/reys-sparkle-private-limited-29AALCR0932J1Z2/",
+      "https://www.mastersindia.co/gst-search/?name=reys-sparkle-private-limited&gstin=07AALCR0932J1Z8",
+      "https://www.mastersindia.co/gst-search/?name=reys-sparkle-private-limited&gstin=27AALCR0932J1Z6",
+      "https://cleartax.in/s/gst-number-search-by-name/"
+    ],
+    "timestamp": "2026-08-23T00:28:07.214478",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Owner",
+    "query": "Rey's Sparkle Pvt. Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker"
+    ],
+    "timestamp": "2026-08-23T00:28:10.283507",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Owner",
+    "query": "Rey's Sparkle Pvt. Ltd managing director",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker"
+    ],
+    "timestamp": "2026-08-23T00:28:26.013679",
+    "status": "results_found"
+  },
+  {
+    "seller": "Rey's Sparkle Pvt. Ltd",
+    "field": "Address",
+    "query": "Rey's Sparkle Pvt. Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://starwars.fandom.com/wiki/Rey_Skywalker",
+      "https://www.starwars.com/databank/rey",
+      "https://disney.fandom.com/wiki/Rey",
+      "https://www.imdb.com/name/nm5397459/",
+      "https://fandorable.com/movies/star-wars/characters-star-wars/rey/"
+    ],
+    "timestamp": "2026-08-23T00:28:35.634046",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0DKNXJK9C&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-23T00:28:48.859673"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-23T00:28:50.219228",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-23T00:28:54.549170"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-23T00:28:55.037849"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-23T00:28:55.038465"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-23T00:29:00.373010",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.indiafilings.com/search/cocoblu-retail-limited-cin-U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-23T00:29:13.681324",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-23T00:29:26.407751",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-23T00:29:40.110618",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-23T00:29:47.526037",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+    "timestamp": "2026-08-23T00:29:48.632116"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.affluense.club/company/cocoblu-retail-limited",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-23T00:29:52.840126",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-23T00:29:57.804787",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-23T00:30:03.485788",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-23T00:30:09.040883",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-23T00:30:11.513207",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail head office address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.rattanindia.com/cocoblu/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-23T00:30:17.116858",
+    "status": "results_found"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "Business Name",
+    "value": "BodyGlove Apparel Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AB57CX8LB83EF&asin=B0D1CHYM1T&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-23T00:30:20.201344"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Website",
+    "query": "BodyGlove Apparel Online official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.zhihu.com/market/albums/1015279292325797888/manuscript/1015333413548662784"
+    ],
+    "timestamp": "2026-08-23T00:30:21.945140",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Legal Entity Name",
+    "query": "BodyGlove Apparel Online company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://ttlc.intuit.com/community/get-your-taxes-done-using-turbotax-6/issue-activating-turbotax-2025-after-installation-on-windows-11-pro-127259"
+    ],
+    "timestamp": "2026-08-23T00:30:27.898584",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Legal Entity Name",
+    "query": "BodyGlove Apparel Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.health.harvard.edu/mind-and-mood/5-stages-of-grief-coping-with-the-loss-of-a-loved-one"
+    ],
+    "timestamp": "2026-08-23T00:30:34.317681",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Legal Entity Name",
+    "query": "BodyGlove Apparel Online legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reflex.dev/blog/top-python-web-frameworks/",
+      "https://www.geeksforgeeks.org/blogs/best-python-frameworks/",
+      "https://www.browserstack.com/guide/top-python-web-development-frameworks",
+      "https://github.com/sfermigier/awesome-python-web-frameworks",
+      "https://www.djangoproject.com/"
+    ],
+    "timestamp": "2026-08-23T00:30:38.135993",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "PAN",
+    "query": "BodyGlove Apparel Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.scribd.com/document/958456492/Invoice-SwS-1",
+      "https://gstserver.com/gst/33AAGFB9325B1ZW/",
+      "https://fnshiftsolutions.com/gstin-search/bodyglove-apparel-india-18AAGFB9325B1ZO",
+      "https://www.scribd.com/document/929143626/Invoice",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-23T00:30:48.855930",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "GST",
+    "query": "BodyGlove Apparel Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://discussionschinese.apple.com/thread/251261196"
+    ],
+    "timestamp": "2026-08-23T00:31:08.406156",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "GST",
+    "query": "BodyGlove Apparel Online GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-9756b4d62a6c8af60f70ce3de3b9669e/pdf/GOVPUB-CS1-9756b4d62a6c8af60f70ce3de3b9669e-2.pdf",
+      "https://www.sun-sentinel.com/2000/10/05/sentence-in-killing-is-cut/",
+      "https://www.palmbeachpost.com/story/news/crime/2013/09/22/from-archives-she-pleaded-for/7819719007/",
+      "https://seconddistrict.nmcourts.gov/about-this-district/court-dockets/bernalillo-county-district-court-docket/",
+      "https://murderpedia.org/male.C/images/caballero_luis_c/op-sc01-651.pdf"
+    ],
+    "timestamp": "2026-08-23T00:31:12.411585",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "GST",
+    "query": "BodyGlove Apparel Online GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/bodyglove-apparel-india-33AAGFB9325B1ZW/",
+      "https://piceapp.com/gst-number-search/bodyglove-apparel-india-33aagfb9325b1zw/",
+      "https://gst.jamku.app/gstin/33AAGFB9325B1ZW",
+      "https://gstserver.com/gst/33AAGFB9325B1ZW/",
+      "https://www.knowyourgst.com/gst-number-search/bodyglove-apparel-india-29AAGFB9325B1ZL/"
+    ],
+    "timestamp": "2026-08-23T00:31:25.525834",
+    "status": "results_found"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "GST Number",
+    "value": "33AAGFB9325B1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/bodyglove-apparel-india-33AAGFB9325B1ZW/",
+    "timestamp": "2026-08-23T00:31:30.351504"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Owner",
+    "query": "BodyGlove Apparel Online director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dell.com/support/contractservices/en-uk/?msockid=1c63e0fd467c663a10dcf74047976770",
+      "https://www.dell.com/support/home/en-vn?app=drivers&msockid=1c63e0fd467c663a10dcf74047976770",
+      "https://www.truckingboards.com/bb/threads/fedex.9274/",
+      "https://www.truckingboards.com/bb/",
+      "https://sensorstechforum.com/pt/fedex-tracking-scam/"
+    ],
+    "timestamp": "2026-08-23T00:31:32.035727",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Owner",
+    "query": "BodyGlove Apparel Online managing director",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/enable-or-disable-tips-and-suggestions-notifications-in-windows-11.5206/",
+      "https://www.elevenforum.com/t/remove-get-started.30654/"
+    ],
+    "timestamp": "2026-08-23T00:31:38.059354",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Owner",
+    "query": "BodyGlove Apparel Online founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://onlinesbi.sbi.bank.in/",
+      "https://corp.sbi.bank.in/cuguser/login.htm",
+      "https://www.sbicard.com/creditcards/app/user/login",
+      "https://sbi.bank.in/web/personal-banking/digital/internet-banking",
+      "https://merchant.onlinesbi.sbi/thirdparties/login.htm"
+    ],
+    "timestamp": "2026-08-23T00:31:43.452000",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Address",
+    "query": "BodyGlove Apparel Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.legit.ng/education/1719797-how-original-waec-certificate-physical-copy-digital-one/",
+      "https://campuscybercafe.com/blog/post/waec-original-certificate-collection-time/"
+    ],
+    "timestamp": "2026-08-23T00:31:53.507782",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Address",
+    "query": "BodyGlove Apparel Online registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/bodyglove-apparel-india-33aagfb9325b1zw/",
+      "https://opendatalei.com/lei/335800JQBX53YMTFGA39",
+      "https://www.falconebiz.com/company/BODYGLOVE-APPAREL-INDIA-PRIVATE-LIMITED-U14101TZ2024PTC033150",
+      "https://gst.jamku.app/gstin/19AAGFB9325B2ZL",
+      "https://www.thecompanycheck.com/company/bodyglove-apparel-india-private-limited/U14101TZ2024PTC033150"
+    ],
+    "timestamp": "2026-08-23T00:32:00.789788",
+    "status": "results_found"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "Billing Address",
+    "value": "no.21 muthusamy 6th cross steeet, college road, knp puram, no.21 muthusamy 6th cross steeet, college road, knp puram, tirupur, in-tn, 641602, in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/335800JQBX53YMTFGA39",
+    "timestamp": "2026-08-23T00:32:03.272823"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "City",
+    "value": "in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/335800JQBX53YMTFGA39",
+    "timestamp": "2026-08-23T00:32:03.272847"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "Pincode",
+    "value": "641602",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opendatalei.com/lei/335800JQBX53YMTFGA39",
+    "timestamp": "2026-08-23T00:32:03.272855"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Phone",
+    "query": "BodyGlove Apparel Online phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bodyglove.com/pages/contact-us",
+      "http://www.bodyglovemobile.com/contact-us.html",
+      "https://www.bodyglovemobile.com/us/en/aboutus/Pages/contact-us.html",
+      "https://www.bodyglove.com/pages/help-center?hcUrl=%2Fembed%2Fhelp-centers%2Fi5g0e4wa",
+      "https://www.bodyglove.com/collections/apparel"
+    ],
+    "timestamp": "2026-08-23T00:32:06.509028",
+    "status": "results_found"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "Phone Number",
+    "value": "+918773007723",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://www.bodyglovemobile.com/contact-us.html",
+    "timestamp": "2026-08-23T00:32:17.287231"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Email",
+    "query": "BodyGlove Apparel Online email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bodyglove.com/pages/contact-us",
+      "https://www.bodyglovemobile.com/contact-us.html",
+      "https://www.bodyglove.com/pages/help-center?hcUrl=%2Fembed%2Fhelp-centers%2Fi5g0e4wa",
+      "https://prospeo.io/c/body-glove",
+      "https://www.bodyglovemobile.com/us"
+    ],
+    "timestamp": "2026-08-23T00:32:21.358895",
+    "status": "results_found"
+  }
+]

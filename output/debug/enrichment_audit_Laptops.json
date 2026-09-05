@@ -1,0 +1,717 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0F8P844W2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:38:15.263227"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T13:38:19.241721",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T13:38:25.716737"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T13:38:27.501477"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:38:35.695447",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T13:38:45.753268"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:38:50.623972",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:38:52.090700",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:38:59.790941",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:39:09.535085",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:39:19.901430",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:39:23.719487",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:39:35.191361",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:39:38.461087",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:39:46.845956",
+    "status": "results_found"
+  },
+  {
+    "business": "SellerNow",
+    "field": "Business Name",
+    "value": "SellerNow",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1FD6IF5XR2IOV&asin=B0CL7CMTXS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:39:55.576417"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "Website",
+    "query": "SellerNow official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://science.nasa.gov/sun/auroras/",
+      "https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html"
+    ],
+    "timestamp": "2026-08-26T13:39:57.645839",
+    "status": "results_found"
+  },
+  {
+    "business": "SellerNow",
+    "field": "Website URL",
+    "value": "https://science.nasa.gov/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://science.nasa.gov/sun/auroras/",
+    "timestamp": "2026-08-26T13:40:06.249945"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "Legal Entity Name",
+    "query": "SellerNow company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=7e0087bafc161a48e7bbed34637801ef&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://secretaryofstate.com/",
+      "https://secretaryofstate.com/texas",
+      "https://secretaryofstate.com/california"
+    ],
+    "timestamp": "2026-08-26T13:40:23.409347",
+    "status": "results_found"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "PAN",
+    "query": "SellerNow PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://neal.fun/",
+      "https://neal.fun/password-game/",
+      "https://neal.fun/auction-game/",
+      "https://neal.fun/not-a-robot/"
+    ],
+    "timestamp": "2026-08-26T13:40:33.279057",
+    "status": "results_found"
+  },
+  {
+    "business": "SellerNow",
+    "field": "Email Address",
+    "value": "hi@neal.fun",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://neal.fun/",
+    "timestamp": "2026-08-26T13:40:34.917237"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "PAN",
+    "query": "SellerNow PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.watotowalwanga.or.ke/",
+      "https://www.schoolandcollegelistings.com/KE/Nairobi/245653025583036/St-Charles-Lwanga--Vocational-Training-Institute---Kibera",
+      "https://www.watotowalwanga.or.ke/about-us/",
+      "https://maps.google.co.ke/mapfiles/home3.html"
+    ],
+    "timestamp": "2026-08-26T13:40:38.951195",
+    "status": "results_found"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "GST",
+    "query": "SellerNow GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T13:40:47.196461",
+    "status": "no_results"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "GST",
+    "query": "SellerNow GST number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-08-26T13:40:50.647370",
+    "status": "results_found"
+  },
+  {
+    "business": "SellerNow",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-26T13:40:51.591117"
+  },
+  {
+    "business": "SellerNow",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-26T13:40:51.591139"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "Owner",
+    "query": "SellerNow director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://companydata.com/business-owner-search/",
+      "https://contactout.com/Jay-Reno-950023",
+      "https://www.forbes.com/profile/noubar-afeyan/"
+    ],
+    "timestamp": "2026-08-26T13:40:56.795581",
+    "status": "results_found"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "Owner",
+    "query": "SellerNow founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://tracxn.com/d/companies/sellergeni/__2G4RM4RvbIU2IPpaZRPci9EFfzroxMld4d8E8064Q4Y",
+      "https://consumercomplaintscourt.com/sellernow-cc-fraud-scam/",
+      "https://consumercomplaintscourt.com/sellernow-cc/"
+    ],
+    "timestamp": "2026-08-26T13:41:10.959692",
+    "status": "results_found"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "Address",
+    "query": "SellerNow registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/sellernow",
+      "https://www.servicenow.com/company/locations.html",
+      "https://headquarterlocation.com/california/servicenow-headquarters-corporate-office/",
+      "https://www.corporateoffice.com/"
+    ],
+    "timestamp": "2026-08-26T13:41:16.069380",
+    "status": "results_found"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "Address",
+    "query": "SellerNow registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.azquotes.com/quote_of_the_day.html",
+      "https://www.azquotes.com/",
+      "https://ja.hinative.com/questions/6562590",
+      "https://ja.hinative.com/questions/19515539"
+    ],
+    "timestamp": "2026-08-26T13:41:28.671672",
+    "status": "results_found"
+  },
+  {
+    "seller": "SellerNow",
+    "field": "Phone",
+    "query": "SellerNow phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.monotaro.com/login?msockid=37d7e7a874056ccb2abef06975626ddf",
+      "https://www.monotaro.com/s/?msockid=37d7e7a874056ccb2abef06975626ddf",
+      "https://corp.monotaro.com/overview.html",
+      "https://corp.monotaro.com/ir/index.html"
+    ],
+    "timestamp": "2026-08-26T13:41:32.745605",
+    "status": "results_found"
+  },
+  {
+    "business": "GreatIndianFestival",
+    "field": "Business Name",
+    "value": "GreatIndianFestival",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3C6WXI8NH6ZX2&asin=B0D37T35JP&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:41:45.667698"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "Website",
+    "query": "GreatIndianFestival official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/"
+    ],
+    "timestamp": "2026-08-26T13:41:47.306360",
+    "status": "results_found"
+  },
+  {
+    "business": "GreatIndianFestival",
+    "field": "Website URL",
+    "value": "https://www.greatindianfestival.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.greatindianfestival.in/",
+    "timestamp": "2026-08-26T13:41:54.227213"
+  },
+  {
+    "business": "GreatIndianFestival",
+    "field": "Email Address",
+    "value": "greatindianfestival.in@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.greatindianfestival.in/about-us",
+    "timestamp": "2026-08-26T13:41:57.969065"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "Legal Entity Name",
+    "query": "GreatIndianFestival company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.walmart.com/store-finder",
+      "https://www.walmart.com/",
+      "https://www.walmart.com/store-directory/[state]/store-finder",
+      "https://corporate.walmart.com/askwalmart/how-do-i-find-information-about-my-local-stores"
+    ],
+    "timestamp": "2026-08-26T13:42:03.352331",
+    "status": "results_found"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "Legal Entity Name",
+    "query": "GreatIndianFestival Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.usercheck.com/domain/ygwpr.com",
+      "https://pro25.emailserver.vn:2096/"
+    ],
+    "timestamp": "2026-08-26T13:42:13.060680",
+    "status": "results_found"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "PAN",
+    "query": "GreatIndianFestival PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-08-26T13:42:17.406843",
+    "status": "results_found"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "PAN",
+    "query": "GreatIndianFestival PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T13:42:22.023031",
+    "status": "no_results"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "GST",
+    "query": "GreatIndianFestival GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T13:42:25.525329",
+    "status": "no_results"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "GST",
+    "query": "GreatIndianFestival GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.readmusk.com/zh-hant/x",
+      "https://apps.apple.com/cn/app/x-%E5%89%8D%E8%BA%AB%E4%B8%BAtwitter/id333903271",
+      "https://apps.apple.com/us/app/x/id333903271"
+    ],
+    "timestamp": "2026-08-26T13:42:27.881157",
+    "status": "results_found"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "Owner",
+    "query": "GreatIndianFestival director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://greatindianfestival.in/about-us/",
+      "https://www.thecompanycheck.com/company/pranam-bharat-great-indian-festival-limited/U92419MH2019PLC328617",
+      "https://greatindiatravel.com/about-us/"
+    ],
+    "timestamp": "2026-08-26T13:42:52.900970",
+    "status": "results_found"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "Address",
+    "query": "GreatIndianFestival registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://greatindianfestival.com/contact/",
+      "https://greatindianfestival.in/contact-us/",
+      "https://www.thecompanycheck.com/company/pranam-bharat-great-indian-festival-limited/U92419MH2019PLC328617",
+      "https://www.sellerratings.com/amazon/india/greatindianfestival"
+    ],
+    "timestamp": "2026-08-26T13:43:00.157423",
+    "status": "results_found"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "Address",
+    "query": "GreatIndianFestival registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://greatindianfestival.com/contact/",
+      "https://greatindianfestival.in/contact-us/",
+      "https://greatindianfestival.in/about-us/",
+      "https://greatindianfestival.com/terms-and-conditions/"
+    ],
+    "timestamp": "2026-08-26T13:43:11.056210",
+    "status": "results_found"
+  },
+  {
+    "seller": "GreatIndianFestival",
+    "field": "Phone",
+    "query": "GreatIndianFestival phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.csdn.net/weixin_31534091/article/details/163989413",
+      "https://docs.espressif.com/projects/esp-idf/zh_CN/v4.2.3/esp32/get-started/vscode-setup.html",
+      "https://blog.csdn.net/qq_15181569/article/details/157643322",
+      "https://docs.espressif.com/projects/esp-idf/zh_CN/v4.3.2/esp32/get-started/vscode-setup.html"
+    ],
+    "timestamp": "2026-08-26T13:43:14.337766",
+    "status": "results_found"
+  },
+  {
+    "business": "DEALS IT INDIA",
+    "field": "Business Name",
+    "value": "DEALS IT INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ODYWIW8GBBFZ&asin=B0D7PTFFZH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:43:27.980715"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "Website",
+    "query": "DEALS IT INDIA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.grabon.in/deals/",
+      "https://www.desidime.com/"
+    ],
+    "timestamp": "2026-08-26T13:43:29.806544",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "Legal Entity Name",
+    "query": "DEALS IT INDIA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.grabon.in/deals/",
+      "https://www.desidime.com/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T13:43:36.410505",
+    "status": "results_found"
+  },
+  {
+    "business": "DEALS IT INDIA",
+    "field": "Phone Number",
+    "value": "+917997443334",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.grabon.in/deals/",
+    "timestamp": "2026-08-26T13:43:37.502512"
+  },
+  {
+    "business": "DEALS IT INDIA",
+    "field": "Email Address",
+    "value": "contact@grabon.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.grabon.in/deals/",
+    "timestamp": "2026-08-26T13:43:37.502970"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "Legal Entity Name",
+    "query": "DEALS IT INDIA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.grabon.in/deals/",
+      "https://www.desidime.com/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T13:43:49.493322",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "PAN",
+    "query": "DEALS IT INDIA PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.grabon.in/deals/",
+      "https://www.desidime.com/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T13:43:50.876929",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "PAN",
+    "query": "DEALS IT INDIA PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.grabon.in/deals/",
+      "https://www.desidime.com/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T13:43:59.161887",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "GST",
+    "query": "DEALS IT INDIA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.gs1india.org/register-for-barcodes",
+      "https://www.indiafilings.com/gst-registration"
+    ],
+    "timestamp": "2026-08-26T13:44:36.858541",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "Owner",
+    "query": "DEALS IT INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.grabon.in/deals/",
+      "https://www.desidime.com/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T13:44:38.509045",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEALS IT INDIA",
+    "field": "Address",
+    "query": "DEALS IT INDIA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.grabon.in/deals/",
+      "https://www.desidime.com/",
+      "https://dealofthedayindia.com/",
+      "https://dealsanytime.in/"
+    ],
+    "timestamp": "2026-08-26T13:45:20.555745",
+    "status": "results_found"
+  }
+]

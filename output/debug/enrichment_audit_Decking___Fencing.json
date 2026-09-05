@@ -1,0 +1,367 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0GK8SNQ9H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T14:39:14.821895"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T14:39:27.284369",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-28T14:39:30.739794"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-28T14:39:33.070149"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T14:39:44.983718",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-28T14:39:57.803449"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://gst.unifers.ai/gst/29AAJCC9783E1Z3/clicktech-retail-private-limited",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-03aajcc9783e1zh/"
+    ],
+    "timestamp": "2026-08-28T14:40:12.968311",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T14:40:37.502326",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T14:40:39.473716",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T14:40:55.199742",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktech.co.in/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-28T14:41:10.715741",
+    "status": "results_found"
+  },
+  {
+    "business": "FAB Innovations",
+    "field": "Business Name",
+    "value": "FAB Innovations",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1PFFRQSY0LBI2&asin=B0GHP4SZL1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T14:41:11.602925"
+  },
+  {
+    "seller": "FAB Innovations",
+    "field": "Website",
+    "query": "FAB Innovations official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fab.com/",
+      "https://www.bankfab.com/en-ae/personal"
+    ],
+    "timestamp": "2026-08-28T14:41:13.644845",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAB Innovations",
+    "field": "Legal Entity Name",
+    "query": "FAB Innovations company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fab.com/",
+      "https://www.bankfab.com/en-ae/personal",
+      "https://www.bankfab.bank.in/en-in",
+      "https://www.fab.com/channels/unreal-engine?lang=en"
+    ],
+    "timestamp": "2026-08-28T14:41:32.721854",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAB Innovations",
+    "field": "PAN",
+    "query": "FAB Innovations PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fab.com/",
+      "https://www.bankfab.com/en-ae/personal",
+      "https://www.bankfab.bank.in/en-in",
+      "https://www.fab.com/channels/unreal-engine?lang=en"
+    ],
+    "timestamp": "2026-08-28T14:41:52.831146",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAB Innovations",
+    "field": "GST",
+    "query": "FAB Innovations GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/fab-innovation-27AIMPC3056A1ZQ/"
+    ],
+    "timestamp": "2026-08-28T14:42:17.337707",
+    "status": "results_found"
+  },
+  {
+    "business": "FAB Innovations",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T14:42:21.414028"
+  },
+  {
+    "business": "FAB Innovations",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T14:42:21.414051"
+  },
+  {
+    "seller": "FAB Innovations",
+    "field": "Owner",
+    "query": "FAB Innovations director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fab.com/",
+      "https://www.bankfab.com/en-ae/personal",
+      "https://www.bankfab.bank.in/en-in",
+      "https://www.fab.com/channels/unreal-engine?lang=en"
+    ],
+    "timestamp": "2026-08-28T14:42:27.346852",
+    "status": "results_found"
+  },
+  {
+    "seller": "FAB Innovations",
+    "field": "Address",
+    "query": "FAB Innovations registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T14:42:54.322942",
+    "status": "no_results"
+  },
+  {
+    "seller": "FAB Innovations",
+    "field": "Address",
+    "query": "FAB Innovations registered address",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T14:43:12.189581",
+    "status": "no_results"
+  },
+  {
+    "business": "Kids Station India",
+    "field": "Business Name",
+    "value": "Kids Station India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2WJC01VM7CHQJ&asin=B0CVL1TFQY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T14:43:17.193571"
+  },
+  {
+    "seller": "Kids Station India",
+    "field": "Website",
+    "query": "Kids Station India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://www.youtubekids.com/?hl=en-IN"
+    ],
+    "timestamp": "2026-08-28T14:43:22.100022",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kids Station India",
+    "field": "Legal Entity Name",
+    "query": "Kids Station India company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://www.youtubekids.com/?hl=en-IN",
+      "https://kids.nationalgeographic.com/",
+      "https://pbskids.org/"
+    ],
+    "timestamp": "2026-08-28T14:43:33.788329",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kids Station India",
+    "field": "PAN",
+    "query": "Kids Station India PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/minor-pan-card",
+      "https://www.proteantech.in/articles/minor-pan-card-complete-guide/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-28T14:44:06.596166",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kids Station India",
+    "field": "GST",
+    "query": "Kids Station India GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/trademark-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=403741929&Adgroupid=1335907225705653&Adid=83494598968972&device=c&Adposition=&physical=262576&match_type=p&network=brand%20name%20registration&target_name=kwd-83494716304230:loc-90&placement=&keyword_id=brand%20name%20registration&msclkid=16b5e2f7947315bca17b8866c51c93fe",
+      "https://gstverify.co.in/gst/kids-junction-27airpt7798m1zq/",
+      "https://www.onlinelegalindia.com/services/trademark-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=403741929&Adgroupid=1335907225705653&Adid=83494598968972&device=c&Adposition=&physical=262576&match_type=p&network=brand%20name%20registration&target_name=kwd-83494716304230:loc-90&placement=&keyword_id=brand%20name%20registration&msclkid=97815ae0c6e9159122fa307197869d8b"
+    ],
+    "timestamp": "2026-08-28T14:44:24.288235",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kids Station India",
+    "field": "Owner",
+    "query": "Kids Station India director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://kidstation.in/pages/about-us",
+      "https://rocketreach.co/kids-station-management_b6df989cc72a5f73"
+    ],
+    "timestamp": "2026-08-28T14:44:51.467506",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kids Station India",
+    "field": "Address",
+    "query": "Kids Station India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://www.youtubekids.com/?hl=en-IN",
+      "https://kids.nationalgeographic.com/",
+      "https://pbskids.org/"
+    ],
+    "timestamp": "2026-08-28T14:44:58.666358",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kids Station India",
+    "field": "Phone",
+    "query": "Kids Station India phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://kidstation.in/pages/contact-us",
+      "https://kidstation.in/",
+      "https://www.trustpilot.com/review/kidstation.in",
+      "https://www.helloindia.co/Mumbai/Kids-Station/Mulund-West"
+    ],
+    "timestamp": "2026-08-28T14:45:19.482012",
+    "status": "results_found"
+  }
+]

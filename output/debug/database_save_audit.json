@@ -1,0 +1,87 @@
+{
+  "category": "Womens Casual Shoes",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 34,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH; 07AAJCC8517E1ZN; 09AAJCC8517E1ZJ; 18AAJCC8517E1ZK; 27AAJCC8517E1ZL; 06AAJCC8517E1ZP; 36AAJCC8517E1ZM; 24AAJCC8517E1ZR; 33AAJCC8517E1ZS; 19AAJCC8517E1ZI; 08AAJCC8517E1ZL; 03AAJCC8517E1ZV; 23AAJCC8517E1ZT; 10AAJCC8517E1Z0; 32AAJCC8517E1ZU; 37AAJCC8517E1ZK; 21AAJCC8517E1ZX; 04AAJCC8517E1ZT; 30AAJCC8517E1ZY; 05AAJCC8517E1ZR; 20AAJCC8517E1ZZ; 29AAJCC8517E3ZF",
+      "pan": "AAJCC8517E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Campusactivewear",
+      "database_id": 35,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914110002026",
+      "email": "compliance@campusshoes.com",
+      "gst": "27AAHCA3072C1Z1; 07AAHCA3072C1Z3; 09AAHCA3072C1ZZ; 24AAHCA3072C1Z7; 29AAHCA3072C1ZX; 33AAHCA3072C1Z8; 07AAHCA3072C2Z2; 02AAHCA3072C1ZD; 06AAHCA3072C1Z5; 05AAHCA3072C1Z7; 10AAHCA3072C1ZG; 03AAHCA3072C1ZB; 08AAHCA3072C1Z1; 23AAHCA3072C1Z9; 07AAHCA3072C3Z1; 19AAHCA3072C1ZY; 36AAHCA3072C1Z2; 01AAHCA3072C1ZF; 21AAHCA3072C1ZD; 37AAHCA3072C1Z0; 20AAHCA3072C1ZF; 22AAHCA3072C1ZB; 06AAHCA3072C2Z4",
+      "pan": "AAHCA3072C",
+      "website": "https://www.campusactivewear.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "REDTAPE LIMITED",
+      "database_id": 36,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914041762024",
+      "email": "customercare@redtapeindia.com",
+      "gst": "09AALCR5032R1ZN; 03AALCR5032R1ZZ; 10AALCR5032R1Z4; 01AALCR5032R1Z3; 02AALCR5032R1Z1; 05AALCR5032R1ZV; 06AALCR5032R1ZT; 07AALCR5032R1ZR; 08AALCR5032R1ZP; 14AALCR5032R1ZW; 20AALCR5032R1Z3; 22AALCR5032R1ZZ; 23AALCR5032R1ZX; 21AALCR5032R1Z1; 24AALCR5032R1ZV; 27AALCR5032R1ZP; 36AALCR5032R1ZQ; 29AALCR5032R1ZL; 37AALCR5032R1ZO; 32AALCR5032R1ZY; 19AALCR5032R1ZM; 04AALCR5032R1ZX; 18AALCR5032R1ZO; 12AALCR5032R1Z0",
+      "pan": "AALCR5032R",
+      "website": "https://about.redtape.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FOOT UP",
+      "database_id": 37,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917120102026",
+      "email": "customercare@upstep.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Yoho Lifestyle",
+      "database_id": 38,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913661102026",
+      "email": "support@yoholifestyle.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://getyoholifestyle.shop/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Westbury Sportswear",
+      "database_id": 39,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910062472026",
+      "email": "info@westburysports.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

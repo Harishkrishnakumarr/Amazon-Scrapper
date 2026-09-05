@@ -1,0 +1,321 @@
+[
+  {
+    "business": "Mehrang Exim",
+    "field": "Business Name",
+    "value": "Mehrang Exim",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1EGVUZ2PQZFQ8&asin=B0DGL9F6SN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T12:52:30.526483"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Website",
+    "query": "Mehrang Exim official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mehrang.co.in/",
+      "https://www.mehrang.co.in/about-us.htm"
+    ],
+    "timestamp": "2026-09-02T12:52:32.695452",
+    "status": "results_found"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "Website URL",
+    "value": "https://www.mehrang.co.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T12:52:39.645505"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "Phone Number",
+    "value": "+919106443009",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T12:52:42.726190"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "Email Address",
+    "value": "mehrangexim@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T12:52:42.727280"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "GST Number",
+    "value": "24AWNPJ7048J1Z5",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T12:52:42.728832"
+  },
+  {
+    "business": "Mehrang Exim",
+    "field": "PAN Number",
+    "value": "AWNPJ7048J",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.mehrang.co.in/",
+    "timestamp": "2026-09-02T12:52:42.728851"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Legal Entity Name",
+    "query": "Mehrang Exim company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mehrang.co.in/",
+      "https://www.mehrang.co.in/about-us.htm",
+      "https://www.mehrang.co.in/mens-wear.htm",
+      "https://www.mehrang.co.in/contact-us.htm"
+    ],
+    "timestamp": "2026-09-02T12:53:09.181829",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Legal Entity Name",
+    "query": "Mehrang Exim Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mehrang.co.in/",
+      "https://www.mehrang.co.in/about-us.htm",
+      "https://www.mehrang.co.in/mens-wear.htm",
+      "https://www.mehrang.co.in/contact-us.htm"
+    ],
+    "timestamp": "2026-09-02T12:53:19.213979",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Owner",
+    "query": "Mehrang Exim director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mehrang.co.in/about-us.htm",
+      "https://www.mehrang.co.in/",
+      "https://piceapp.com/gst-number-search/mehrang-exim-24awnpj7048j1z5/",
+      "https://www.tradeindia.com/mehrang-exim-64551617/"
+    ],
+    "timestamp": "2026-09-02T12:53:26.352388",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Owner",
+    "query": "Mehrang Exim founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mehrang.co.in/about-us.htm",
+      "https://www.mehrang.co.in/",
+      "https://karvan.in/sellers/mehrang-exim.html",
+      "https://www.tradeindia.com/mehrang-exim-64551617/"
+    ],
+    "timestamp": "2026-09-02T12:53:41.355414",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mehrang Exim",
+    "field": "Address",
+    "query": "Mehrang Exim registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.exportersindia.com/mehrang-exim/contact.htm#:~:text=Plot%20No.%20A-5%2F15%20Gate%20No-2%2C%20Road%20No.10%2C,Venz%2C%20Hojiwala%20Industrial%20Estate%2C%20Surat%2C%20Gujarat%20-%20394230",
+      "https://www.mehrang.co.in/contact-us.htm",
+      "https://www.mehrang.co.in/",
+      "https://www.exportersindia.com/mehrang-exim/about-us.htm"
+    ],
+    "timestamp": "2026-09-02T12:53:46.145668",
+    "status": "results_found"
+  },
+  {
+    "business": "SAADAA",
+    "field": "Business Name",
+    "value": "SAADAA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YNF5S88EEPCF&asin=B09M3HDJV5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T12:54:01.077549"
+  },
+  {
+    "seller": "SAADAA",
+    "field": "Website",
+    "query": "SAADAA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://saadaa.in/",
+      "https://saadaa.in/account"
+    ],
+    "timestamp": "2026-09-02T12:54:03.561586",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAADAA",
+    "field": "Legal Entity Name",
+    "query": "SAADAA company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T12:54:40.085910",
+    "status": "no_results"
+  },
+  {
+    "seller": "SAADAA",
+    "field": "Legal Entity Name",
+    "query": "SAADAA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://saadaa.in/",
+      "https://www.falconebiz.com/company/SAADAA-SUSTAINABLE-DESIGNS-AND-TECHNOLOGIES-PRIVATE-LIMITED-U52100RJ2018PTC063377",
+      "https://register-lei.in/d/335800C9HEPPBKMCGJ17/",
+      "https://fnshiftsolutions.com/gstin-search/saadaa-sustainable-designs-and-technologies-private-limited-36ABBCS3086K1Z1"
+    ],
+    "timestamp": "2026-09-02T12:54:46.459922",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAADAA",
+    "field": "PAN",
+    "query": "SAADAA PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://saadaa.in/",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-09-02T12:54:50.491827",
+    "status": "results_found"
+  },
+  {
+    "seller": "SAADAA",
+    "field": "GST",
+    "query": "SAADAA GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/saadaa-sustainable-designs-and-technologies-private-limited-08ABBCS3086K2ZZ/",
+      "https://saadaa.in/",
+      "https://smartgst.in/tools/gst-registration-status"
+    ],
+    "timestamp": "2026-09-02T12:55:07.097506",
+    "status": "results_found"
+  },
+  {
+    "business": "SAADAA",
+    "field": "GST Number",
+    "value": "08ABBCS3086K2ZZ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/saadaa-sustainable-designs-and-technologies-private-limited-08ABBCS3086K2ZZ/",
+    "timestamp": "2026-09-02T12:55:08.797734"
+  },
+  {
+    "business": "SAADAA",
+    "field": "PAN Number",
+    "value": "ABBCS3086K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/saadaa-sustainable-designs-and-technologies-private-limited-08ABBCS3086K2ZZ/",
+    "timestamp": "2026-09-02T12:55:08.797757"
+  },
+  {
+    "seller": "SAADAA",
+    "field": "Owner",
+    "query": "SAADAA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/saadaa/__nIO9WnLof393wK29weoVpSW_xbNIrox4Mwx58dAyRyE#:~:text=SAADAA%20is%20an%20unfunded%20company%20based%20in%20Jaipur,women.%20SAADAA%20has%20not%20raised%20any%20funding%20yet.",
+      "https://saadaa.in/pages/about-us",
+      "https://tracxn.com/d/companies/saadaa/__nIO9WnLof393wK29weoVpSW_xbNIrox4Mwx58dAyRyE",
+      "https://www.indianstartuptimes.com/interviews/simplicity-in-style-the-saadaa-journey-redefining-basics-in-home-furnishing-and-apparel/"
+    ],
+    "timestamp": "2026-09-02T12:55:12.010049",
+    "status": "results_found"
+  },
+  {
+    "business": "SAADAA",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/saadaa/__nIO9WnLof393wK29weoVpSW_xbNIrox4Mwx58dAyRyE#:~:text=SAADAA%20is%20an%20unfunded%20company%20based%20in%20Jaipur,women.%20SAADAA%20has%20not%20raised%20any%20funding%20yet.",
+    "timestamp": "2026-09-02T12:55:14.194018"
+  },
+  {
+    "business": "SAADAA",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/saadaa/__nIO9WnLof393wK29weoVpSW_xbNIrox4Mwx58dAyRyE#:~:text=SAADAA%20is%20an%20unfunded%20company%20based%20in%20Jaipur,women.%20SAADAA%20has%20not%20raised%20any%20funding%20yet.",
+    "timestamp": "2026-09-02T12:55:14.194039"
+  },
+  {
+    "business": "SAADAA",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/saadaa/__nIO9WnLof393wK29weoVpSW_xbNIrox4Mwx58dAyRyE#:~:text=SAADAA%20is%20an%20unfunded%20company%20based%20in%20Jaipur,women.%20SAADAA%20has%20not%20raised%20any%20funding%20yet.",
+    "timestamp": "2026-09-02T12:55:14.194045"
+  },
+  {
+    "business": "SAADAA",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/saadaa/__nIO9WnLof393wK29weoVpSW_xbNIrox4Mwx58dAyRyE#:~:text=SAADAA%20is%20an%20unfunded%20company%20based%20in%20Jaipur,women.%20SAADAA%20has%20not%20raised%20any%20funding%20yet.",
+    "timestamp": "2026-09-02T12:55:14.194051"
+  },
+  {
+    "seller": "SAADAA",
+    "field": "Phone",
+    "query": "SAADAA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://saadaa.in/pages/contact-us",
+      "https://saadaa.in/",
+      "https://trackings.in/saadaa/",
+      "https://contactout.com/company/SAADAA-22679/headquarters"
+    ],
+    "timestamp": "2026-09-02T12:55:26.484912",
+    "status": "results_found"
+  },
+  {
+    "business": "SAADAA",
+    "field": "Phone Number",
+    "value": "+919251998279",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://saadaa.in/pages/contact-us",
+    "timestamp": "2026-09-02T12:55:30.213555"
+  },
+  {
+    "business": "SAADAA",
+    "field": "Email Address",
+    "value": "support@saadaa.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://saadaa.in/pages/contact-us",
+    "timestamp": "2026-09-02T12:55:30.213635"
+  }
+]

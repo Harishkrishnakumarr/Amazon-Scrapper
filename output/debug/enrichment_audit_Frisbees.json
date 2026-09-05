@@ -1,0 +1,515 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0824329ST&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T14:02:36.222381"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://dailybrief.net/",
+      "https://www.thebriefing.net/"
+    ],
+    "timestamp": "2026-08-24T14:02:38.890377",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://taxpowergst.com/",
+      "https://taxpowergst.com/download-gst-software/",
+      "https://www.magnuminfosystem.com/Download",
+      "https://www.magnuminfosystem.com/",
+      "https://www.capterra.in/software/1076616/TaxPower-GST-Software"
+    ],
+    "timestamp": "2026-08-24T14:02:48.340816",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5565190",
+      "https://forum.lowyat.net/topic/5519991"
+    ],
+    "timestamp": "2026-08-24T14:03:00.237115",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://maps.google.co.jp/help/maps/streetview/privacy.html",
+      "https://maps.google.co.jp/intl/ja/help/maps/streetview/privacy.html",
+      "https://maps.google.co.jp/intl/ja/help/terms_maps/",
+      "https://maps.google.co.jp/intl/ja/streetview/explore/",
+      "https://maps.google.co.jp/help/maps/floorplans/"
+    ],
+    "timestamp": "2026-08-24T14:03:10.639321",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044",
+      "https://www.zhihu.com/question/382486986"
+    ],
+    "timestamp": "2026-08-24T14:03:23.434816",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://translate.google.co.in/details",
+      "https://translate.google.co.in/m",
+      "https://translate.google.co.in/robots.txt",
+      "https://translate.google.co.in/.well-known/assetlinks.json"
+    ],
+    "timestamp": "2026-08-24T14:03:47.686491",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.policybazaar.com/",
+      "https://www.policybazaar.com/motor-insurance/two-wheeler-insurance/",
+      "https://www.policybazaar.com/health-insurance/health-insurance-india/",
+      "https://www.policybazaar.com/motor-insurance/car-insurance/",
+      "https://www.policybazaar.com/life-insurance/term-insurance/"
+    ],
+    "timestamp": "2026-08-24T14:03:52.429986",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.spray.com/ja-jp/%E8%A3%BD%E5%93%81/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89/%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88",
+      "https://www.directindustry.com/ja/prod/spraying-systems-co/product-5300-2461647.html",
+      "https://www.incom.co.jp/products/detail.php?company_id=472&product_id=16128"
+    ],
+    "timestamp": "2026-08-24T14:04:07.426389",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://delishkitchen.tv/recipes/202239849552413719",
+      "https://www.nichireifoods.co.jp/media/46848/",
+      "https://cookpad.com/jp/recipes/20058224",
+      "https://delishkitchen.tv/recipes/358257887895617830",
+      "https://howtocook.jp/dfkqbkynh2m/"
+    ],
+    "timestamp": "2026-08-24T14:04:17.395650",
+    "status": "results_found"
+  },
+  {
+    "business": "Planet of Toys",
+    "field": "Business Name",
+    "value": "Planet of Toys",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3I36WVWUSC0ZZ&asin=B0FHKJN9MJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T14:04:37.935820"
+  },
+  {
+    "seller": "Planet of Toys",
+    "field": "Website",
+    "query": "Planet of Toys official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://science.nasa.gov/solar-system/planets/",
+      "https://astrobackyard.com/planets-in-order/"
+    ],
+    "timestamp": "2026-08-24T14:04:42.839772",
+    "status": "results_found"
+  },
+  {
+    "business": "Planet of Toys",
+    "field": "Website URL",
+    "value": "https://astrobackyard.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://astrobackyard.com/planets-in-order/",
+    "timestamp": "2026-08-24T14:05:46.367194"
+  },
+  {
+    "business": "Planet of Toys",
+    "field": "Phone Number",
+    "value": "+910713072026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://astrobackyard.com/",
+    "timestamp": "2026-08-24T14:05:48.514496"
+  },
+  {
+    "business": "Planet of Toys",
+    "field": "Email Address",
+    "value": "info@astrobackyard.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://astrobackyard.com/contact",
+    "timestamp": "2026-08-24T14:05:52.504317"
+  },
+  {
+    "seller": "Planet of Toys",
+    "field": "Legal Entity Name",
+    "query": "Planet of Toys company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://science.nasa.gov/solar-system/planets/",
+      "https://astrobackyard.com/planets-in-order/",
+      "https://www.planet.com/",
+      "https://www.galactic-hunter.com/post/planets-in-order",
+      "https://www.britannica.com/science/planet"
+    ],
+    "timestamp": "2026-08-24T14:05:58.189794",
+    "status": "results_found"
+  },
+  {
+    "seller": "Planet of Toys",
+    "field": "PAN",
+    "query": "Planet of Toys PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://science.nasa.gov/solar-system/planets/",
+      "https://astrobackyard.com/planets-in-order/",
+      "https://www.planet.com/",
+      "https://www.galactic-hunter.com/post/planets-in-order",
+      "https://www.britannica.com/science/planet"
+    ],
+    "timestamp": "2026-08-24T14:06:22.445233",
+    "status": "results_found"
+  },
+  {
+    "seller": "Planet of Toys",
+    "field": "PAN",
+    "query": "Planet of Toys PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://science.nasa.gov/solar-system/planets/",
+      "https://astrobackyard.com/planets-in-order/",
+      "https://www.planet.com/",
+      "https://www.galactic-hunter.com/post/planets-in-order",
+      "https://www.britannica.com/science/planet"
+    ],
+    "timestamp": "2026-08-24T14:06:40.228319",
+    "status": "results_found"
+  },
+  {
+    "business": "PLAYNXT & PLAYNXT Kids",
+    "field": "Business Name",
+    "value": "PLAYNXT & PLAYNXT Kids",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1R4FEUUXWCEHP&asin=B07MWH1B7L&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T14:06:41.455637"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "Website",
+    "query": "PLAYNXT & PLAYNXT Kids official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.playnext.com/",
+      "https://playnxt.co/"
+    ],
+    "timestamp": "2026-08-24T14:06:46.824186",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "Legal Entity Name",
+    "query": "PLAYNXT & PLAYNXT Kids company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.wukongsch.com/blog/greater-than-sign-less-than-equal-symbols-post-42823/",
+      "https://symbolsdb.com/inequality-symbols",
+      "https://www.mathsisfun.com/equal-less-greater.html",
+      "https://wumbo.net/symbols/greater-than-or-equal/",
+      "https://blog.prepscholar.com/greater-than-sign-less-than-sign"
+    ],
+    "timestamp": "2026-08-24T14:06:52.069047",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "Legal Entity Name",
+    "query": "PLAYNXT & PLAYNXT Kids Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://maps.google.co.jp/intl/ja/help/maps/streetview/privacy.html",
+      "https://maps.google.co.jp/help/legalnotices_maps/",
+      "https://maps.google.co.jp/mapfiles/home3.html",
+      "https://maps.google.co.jp/intl/ja/earth/download/gep/agree.html",
+      "https://maps.google.co.jp/mapfiles/home2.html"
+    ],
+    "timestamp": "2026-08-24T14:07:08.369951",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "PAN",
+    "query": "PLAYNXT & PLAYNXT Kids PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.hellowork.mhlw.go.jp/",
+      "https://kyujin.hellowork.mhlw.go.jp/kyujin/GEAB040010.do?action=initDisp&screenId=GEAB040010",
+      "https://www.hellowork.mhlw.go.jp/enterprise/ent_top.html",
+      "https://kyushoku.hellowork.mhlw.go.jp/kyushoku/GEAA040010.do?action=initDisp&screenId=GEAA040010",
+      "https://www.hellowork.mhlw.go.jp/member/mem_top.html"
+    ],
+    "timestamp": "2026-08-24T14:07:13.389799",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "PAN",
+    "query": "PLAYNXT & PLAYNXT Kids PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://maps.google.co.id/intl/en/about/appsecurity/tools/",
+      "https://maps.google.co.id/intl/id/about/appsecurity/patch-rewards/",
+      "https://maps.google.co.id/intl/en/policies/privacy/archive/20090311/",
+      "https://maps.google.co.id/intl/en/policies/privacy/archive/20090127/",
+      "https://maps.google.co.id/mapfiles/home3.html"
+    ],
+    "timestamp": "2026-08-24T14:07:27.148617",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "PAN",
+    "query": "PLAYNXT & PLAYNXT Kids PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://in.bookmyshow.com/explore/upcoming-movies",
+      "https://www.district.in/movies/upcoming-movies",
+      "https://www.imdb.com/calendar/",
+      "https://www.sacnilk.com/entertainmenttopbar/Upcoming_Movies",
+      "https://www.metacritic.com/browse/movie/?releaseType=coming-soon"
+    ],
+    "timestamp": "2026-08-24T14:07:32.339532",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "GST",
+    "query": "PLAYNXT & PLAYNXT Kids GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://plm.pinnacle.edu.ph/aims/students/index.php",
+      "https://web-v3.pinnacleonline.com.ph/",
+      "https://pinnacle.pnc.edu.ph/faculty",
+      "https://pinnacleonline.com.ph/",
+      "https://www.pinnacle.com/en/"
+    ],
+    "timestamp": "2026-08-24T14:07:34.333486",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "GST",
+    "query": "PLAYNXT & PLAYNXT Kids GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byjus.com/physics/what-is-scattering-of-light/",
+      "https://byjus.com/ncert-solutions-class-10-science-chapter-11-human-eye-and-colorful-world/",
+      "https://cdn1.byjus.com/wp-content/uploads/2019/11/NCERT-Book-for-Class-6-Geography-Chapter-1.pdf",
+      "https://cdn1.byjus.com/wp-content/uploads/2023/12/Grade-10_Science_Chapter11_The-Human-Eye-and-Colourful-World-1.pdf",
+      "https://byjus.com/ncert-solutions-class-8-english/unit-8-a-short-monsoon-diary/"
+    ],
+    "timestamp": "2026-08-24T14:07:55.307047",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "Owner",
+    "query": "PLAYNXT & PLAYNXT Kids director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.courant.com/2026/07/29/check-out-the-latest-town-by-town-real-estate-transactions-throughout-ct/",
+      "https://www.azfamily.com/news/",
+      "https://www.shorelinemedia.net/ludington_daily_news/",
+      "https://www.jacksonlewis.com/",
+      "https://deadline.com/"
+    ],
+    "timestamp": "2026-08-24T14:07:57.205839",
+    "status": "results_found"
+  },
+  {
+    "seller": "PLAYNXT & PLAYNXT Kids",
+    "field": "Address",
+    "query": "PLAYNXT & PLAYNXT Kids registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.saltwire.com/category/newfoundland-labrador/",
+      "https://robbreport.com/shelter/celebrity-homes/",
+      "https://www.azfamily.com/news/",
+      "https://www.shorelinemedia.net/ludington_daily_news/"
+    ],
+    "timestamp": "2026-08-24T14:08:26.618698",
+    "status": "results_found"
+  },
+  {
+    "business": "Emm Emm",
+    "field": "Business Name",
+    "value": "Emm Emm",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1B5G2XLNIQCSO&asin=B0GY42LRRX&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T14:08:48.569983"
+  },
+  {
+    "seller": "Emm Emm",
+    "field": "Website",
+    "query": "Emm Emm official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kellton.com/kellton-tech-blog/what-is-enterprise-mobility-management",
+      "https://www.ibm.com/think/topics/enterprise-mobility-management"
+    ],
+    "timestamp": "2026-08-24T14:08:59.796363",
+    "status": "results_found"
+  },
+  {
+    "business": "Emm Emm",
+    "field": "Website URL",
+    "value": "https://www.emmemm.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.emmemm.com/",
+    "timestamp": "2026-08-24T14:09:03.080170"
+  },
+  {
+    "business": "Emm Emm",
+    "field": "Phone Number",
+    "value": "+919305522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.emmemm.com/",
+    "timestamp": "2026-08-24T14:09:04.988061"
+  },
+  {
+    "seller": "Emm Emm",
+    "field": "Legal Entity Name",
+    "query": "Emm Emm company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kellton.com/kellton-tech-blog/what-is-enterprise-mobility-management",
+      "https://www.ibm.com/think/topics/enterprise-mobility-management",
+      "http://www.emm.com/",
+      "https://www.computerworld.com/article/1713505/what-is-enterprise-mobility-management-emm.html",
+      "https://www.nature.com/emm/"
+    ],
+    "timestamp": "2026-08-24T14:09:29.016876",
+    "status": "results_found"
+  },
+  {
+    "seller": "Emm Emm",
+    "field": "PAN",
+    "query": "Emm Emm PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kellton.com/kellton-tech-blog/what-is-enterprise-mobility-management",
+      "https://www.ibm.com/think/topics/enterprise-mobility-management",
+      "http://www.emm.com/",
+      "https://www.computerworld.com/article/1713505/what-is-enterprise-mobility-management-emm.html",
+      "https://www.nature.com/emm/"
+    ],
+    "timestamp": "2026-08-24T14:09:44.803690",
+    "status": "results_found"
+  },
+  {
+    "seller": "Emm Emm",
+    "field": "GST",
+    "query": "Emm Emm GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kellton.com/kellton-tech-blog/what-is-enterprise-mobility-management",
+      "https://www.ibm.com/think/topics/enterprise-mobility-management",
+      "http://www.emm.com/",
+      "https://www.computerworld.com/article/1713505/what-is-enterprise-mobility-management-emm.html",
+      "https://www.nature.com/emm/"
+    ],
+    "timestamp": "2026-08-24T14:10:12.311470",
+    "status": "results_found"
+  },
+  {
+    "seller": "Emm Emm",
+    "field": "Owner",
+    "query": "Emm Emm director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kellton.com/kellton-tech-blog/what-is-enterprise-mobility-management",
+      "https://www.ibm.com/think/topics/enterprise-mobility-management",
+      "http://www.emm.com/",
+      "https://www.computerworld.com/article/1713505/what-is-enterprise-mobility-management-emm.html",
+      "https://www.nature.com/emm/"
+    ],
+    "timestamp": "2026-08-24T14:10:41.661400",
+    "status": "results_found"
+  }
+]

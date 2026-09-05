@@ -1,0 +1,645 @@
+[
+  {
+    "business": "VWretails\u00ae",
+    "field": "Business Name",
+    "value": "VWretails\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1E5CZE20XURK9&asin=B000051ZHS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T10:55:09.270188"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "Website",
+    "query": "VWretails\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-24T10:55:16.682031",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "Legal Entity Name",
+    "query": "VWretails\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.naver.com/",
+      "https://www.naver.co.kr/index.html",
+      "https://map.naver.com/p/",
+      "https://land.naver.com/",
+      "https://dict.naver.com/"
+    ],
+    "timestamp": "2026-08-24T10:55:27.445167",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "PAN",
+    "query": "VWretails\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://caselaw.findlaw.com/court/la-court-of-appeal/117393130.html",
+      "https://law.justia.com/cases/louisiana/first-circuit-court-of-appeal/2014/2014ca0065.html",
+      "https://court-records.org/louisiana-court-records/",
+      "https://law.justia.com/cases/federal/appellate-courts/ca5/15-50880/15-50880-2016-04-14.html",
+      "https://law.justia.com/cases/louisiana/supreme-court/2022/2021-k-01788.html"
+    ],
+    "timestamp": "2026-08-24T10:55:47.803348",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "PAN",
+    "query": "VWretails\u00ae PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://chrome.en.softonic.com/download",
+      "https://google-chrome.en.uptodown.com/windows",
+      "https://www.techspot.com/downloads/4718-google-chrome.html"
+    ],
+    "timestamp": "2026-08-24T10:55:55.318596",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "GST",
+    "query": "VWretails\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/news/",
+      "https://www.reddit.com/r/AITAH/",
+      "https://www.reddit.com/r/SatisfactoryGame/comments/poc898/alternate_recipes_indepth_analysis_an_objective/",
+      "https://www.reddit.com/r/all/",
+      "https://www.reddit.com/r/all+/"
+    ],
+    "timestamp": "2026-08-24T10:56:13.332602",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "GST",
+    "query": "VWretails\u00ae GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/213777070.html",
+      "https://zhidao.baidu.com/question/1546725629839187987.html",
+      "https://www.justanswer.com/computer/21xx4-went-control-unsaved-document-chance-retrieving.html?msockid=3220ceb3dc6d64623eded90cdd9765dc",
+      "https://www.justanswer.com/computer/40uaj-recover-closed-read-only-word-document.html?msockid=3220ceb3dc6d64623eded90cdd9765dc",
+      "https://zhidao.baidu.com/question/2022695547070414548.html"
+    ],
+    "timestamp": "2026-08-24T10:56:35.727372",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "Owner",
+    "query": "VWretails\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://apps.apple.com/us/app/youtube/id544007664",
+      "https://blog.youtube/",
+      "https://www.britannica.com/topic/YouTube"
+    ],
+    "timestamp": "2026-08-24T10:56:38.733223",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "Owner",
+    "query": "VWretails\u00ae managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.steakholycow.com/",
+      "https://www.steakholycow.com/camp/holycow/jakarta-sekitarnya",
+      "https://mail.steakholycow.com/blog/campbandung-is-saling-goodbyefor-now",
+      "https://mail.steakholycow.com/blog/holycow-meat-shop",
+      "https://www.steakholycow.com/camp/detail/holycow/batam"
+    ],
+    "timestamp": "2026-08-24T10:56:48.084943",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "Owner",
+    "query": "VWretails\u00ae founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/news/",
+      "https://www.reddit.com/r/ja/",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13323303748",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14288005069",
+      "https://www.reddit.com/r/mlb/"
+    ],
+    "timestamp": "2026-08-24T10:56:58.529907",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "Address",
+    "query": "VWretails\u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://perfectteethcairns.com.au/",
+      "https://perfectteethcairns.com.au/service/emergency-dentistry/",
+      "https://perfectteethcairns.com.au/our-team/",
+      "https://perfectteethcairns.com.au/team-member/dr-neale-chiu-chong/",
+      "https://perfectteethcairns.com.au/team-member/dr-karen-pettigrew/"
+    ],
+    "timestamp": "2026-08-24T10:56:59.785747",
+    "status": "results_found"
+  },
+  {
+    "seller": "VWretails\u00ae",
+    "field": "Address",
+    "query": "VWretails\u00ae registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.google.co.in/intl/en_uk/chrome/",
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/index.html",
+      "https://translate.google.co.in/details",
+      "https://books.google.co.in/"
+    ],
+    "timestamp": "2026-08-24T10:57:09.825114",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0B2RMSD4H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T10:57:10.832514"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cht.com.tw/"
+    ],
+    "timestamp": "2026-08-24T10:57:13.771826",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/44969655",
+      "https://www.zhihu.com/people/he-yu-feng-82-53",
+      "https://bbs.kakaku.com/bbs/K0000397860/SortID=15281764/",
+      "https://bbs.kakaku.com/bbs/K0000319117/SortID=22781535/",
+      "https://www.zhihu.com/question/33701295"
+    ],
+    "timestamp": "2026-08-24T10:57:26.675427",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://translate.google.co.jp/",
+      "https://translate.google.co.jp/details",
+      "https://translate.google.co.jp/m"
+    ],
+    "timestamp": "2026-08-24T10:58:00.544604",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.invesco.com/qqq-etf/en/home.html?msockid=3220ceb3dc6d64623eded90cdd9765dc",
+      "https://www.invesco.com/qqq-etf/en/performance.html?msockid=3220ceb3dc6d64623eded90cdd9765dc",
+      "https://www.tiktok.com/tag/qqqqqqqqqqq",
+      "https://www.tiktok.com/tag/qqqqqqqqqqqqqqqaqqqqqqqqqq",
+      "https://giphy.com/explore/QQQQQQQQQQQ"
+    ],
+    "timestamp": "2026-08-24T10:58:05.955230",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tribune.net.ph/2025/01/05/bcda-hails-scs-john-hay-ruling",
+      "https://manilastandard.net/business/314546473/bcda-eyes-p10-b-ventureto-redevelop-camp-john-hay.html",
+      "https://newsinfo.inquirer.net/1954483/baguio-mayor-bcda-eyeing-multiple-developers-for-camp-john-hay",
+      "https://bilyonaryo.com/2025/03/03/bcdas-golden-touch-camp-john-hay-secures-p1b-in-lease-deals-in-just-two-months/property/",
+      "https://bcda.gov.ph/news/bcdas-supreme-court-victory-win-all-filipinos"
+    ],
+    "timestamp": "2026-08-24T10:58:19.323823",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/kay-kay-overseas-corporation-33AACFK0693D1ZQ/",
+      "https://www.knowyourgst.com/gst-number-search/kay-kay-overseas-corporation-27AACFK0693D1ZJ/",
+      "https://piceapp.com/gst-number-search/kay-kay-overseas-corporation-07aacfk0693d2zk/",
+      "https://gstverify.co.in/gst/kay-kay-overseas-corporation-06aacfk0693d1zn/",
+      "https://gst.jamku.app/gstin/36AACFK0693D2ZJ"
+    ],
+    "timestamp": "2026-08-24T10:58:30.348596",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "GST Number",
+    "value": "33AACFK0693D1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/kay-kay-overseas-corporation-33AACFK0693D1ZQ/",
+    "timestamp": "2026-08-24T10:58:30.872844"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.samsung.com/au/smartphones/?msockid=3220ceb3dc6d64623eded90cdd9765dc",
+      "https://www.samsung.com/au/mobile/find-your-galaxy/?msockid=3220ceb3dc6d64623eded90cdd9765dc",
+      "https://www.officeworks.com.au/shop/officeworks/c/technology/mobile-phones/samsung-galaxy-phones?msockid=3220ceb3dc6d64623eded90cdd9765dc",
+      "https://www.thegoodguys.com.au/samsung/phones-and-wearables/mobile-phones",
+      "https://www.jbhifi.com.au/pages/samsung-galaxy-unpacked"
+    ],
+    "timestamp": "2026-08-24T10:58:32.372231",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kakaocorp.com/page/service/all",
+      "https://www.kakaocorp.com/page/service/service/KakaoTalk",
+      "https://talk-apps.kakao.com/scheme/kakaotalk",
+      "https://itsoftpedia.com/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-kakaotalk-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-pc%EB%B2%84%EC%A0%84-%EB%AC%B4%EB%A3%8C-%EC%84%A4%EC%B9%98/",
+      "https://kakaotalk.softonic.kr/"
+    ],
+    "timestamp": "2026-08-24T10:58:54.558225",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Address",
+    "query": "Kay Kay Overseas Corporation Store registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044",
+      "https://www.zhihu.com/question/382486986"
+    ],
+    "timestamp": "2026-08-24T10:59:06.427090",
+    "status": "results_found"
+  },
+  {
+    "business": "A.SHARIF",
+    "field": "Business Name",
+    "value": "A.SHARIF",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2C27X9IA8MJGP&asin=B08GCQK9N8&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:59:24.093392"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Website",
+    "query": "A.SHARIF official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/"
+    ],
+    "timestamp": "2026-08-24T10:59:31.893738",
+    "status": "results_found"
+  },
+  {
+    "business": "A.SHARIF",
+    "field": "Website URL",
+    "value": "https://www.asharif.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.asharif.com/",
+    "timestamp": "2026-08-24T10:59:34.923900"
+  },
+  {
+    "business": "A.SHARIF",
+    "field": "Phone Number",
+    "value": "+919305522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.asharif.com/",
+    "timestamp": "2026-08-24T10:59:36.482706"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Legal Entity Name",
+    "query": "A.SHARIF company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/",
+      "https://www.merriam-webster.com/dictionary/a",
+      "https://dictionary.cambridge.org/dictionary/english/a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/`a"
+    ],
+    "timestamp": "2026-08-24T10:59:47.377085",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Legal Entity Name",
+    "query": "A.SHARIF Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/",
+      "https://www.merriam-webster.com/dictionary/a",
+      "https://dictionary.cambridge.org/dictionary/english/a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/`a"
+    ],
+    "timestamp": "2026-08-24T10:59:58.788684",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Legal Entity Name",
+    "query": "A.SHARIF legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/",
+      "https://www.merriam-webster.com/dictionary/a",
+      "https://dictionary.cambridge.org/dictionary/english/a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/`a"
+    ],
+    "timestamp": "2026-08-24T11:00:04.200713",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "PAN",
+    "query": "A.SHARIF PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html"
+    ],
+    "timestamp": "2026-08-24T11:00:12.752165",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "GST",
+    "query": "A.SHARIF GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/",
+      "https://www.merriam-webster.com/dictionary/a",
+      "https://dictionary.cambridge.org/dictionary/english/a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/`a"
+    ],
+    "timestamp": "2026-08-24T11:00:33.604664",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "GST",
+    "query": "A.SHARIF GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/",
+      "https://www.merriam-webster.com/dictionary/a",
+      "https://dictionary.cambridge.org/dictionary/english/a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/`a"
+    ],
+    "timestamp": "2026-08-24T11:00:44.552200",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Owner",
+    "query": "A.SHARIF director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/",
+      "https://www.merriam-webster.com/dictionary/a",
+      "https://dictionary.cambridge.org/dictionary/english/a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/`a"
+    ],
+    "timestamp": "2026-08-24T11:00:53.322704",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Owner",
+    "query": "A.SHARIF managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a",
+      "https://ilifehacks.com/a-with-accent/",
+      "https://www.merriam-webster.com/dictionary/a",
+      "https://dictionary.cambridge.org/dictionary/english/a",
+      "https://dictionary.cambridge.org/dictionary/learner-english/`a"
+    ],
+    "timestamp": "2026-08-24T11:01:00.979848",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Owner",
+    "query": "A.SHARIF founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gamesbeat.com/ashes-of-creation-creator-and-founder-leaves-as-production-shuts-after-10-years-of-development/",
+      "https://grokipedia.com/page/Steven_Sharif",
+      "https://kotaku.com/ashes-of-creation-mmo-intrepid-studios-kickstarter-2000676732",
+      "https://gamefragger.com/multiplatform/massively-multiplayer/ashes-of-creation-studio-founder-steven-sharif-denies-allegations-of-misusing-kickstarter-funds-a28233",
+      "https://wccftech.com/ashes-creation-investor-alleges-140-million-fraud/"
+    ],
+    "timestamp": "2026-08-24T11:01:14.019996",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.SHARIF",
+    "field": "Address",
+    "query": "A.SHARIF registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://en.wiktionary.org/wiki/a"
+    ],
+    "timestamp": "2026-08-24T11:01:17.574355",
+    "status": "results_found"
+  },
+  {
+    "business": "Delzon",
+    "field": "Business Name",
+    "value": "Delzon",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3E1ZKWUN9CIF7&asin=B0DRVWNPQ1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T11:01:21.242193"
+  },
+  {
+    "seller": "Delzon",
+    "field": "Website",
+    "query": "Delzon official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forums.whirlpool.net.au/",
+      "https://forums.whirlpool.net.au/archive/2764598"
+    ],
+    "timestamp": "2026-08-24T11:01:24.423753",
+    "status": "results_found"
+  },
+  {
+    "seller": "Delzon",
+    "field": "Legal Entity Name",
+    "query": "Delzon company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.tennessean.com/story/sports/nfl/2026/04/23/washington-commanders-nfl-draft-picks-tracker-grades/89650175007/"
+    ],
+    "timestamp": "2026-08-24T11:02:09.703899",
+    "status": "results_found"
+  },
+  {
+    "seller": "Delzon",
+    "field": "Legal Entity Name",
+    "query": "Delzon Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://openai.com/",
+      "https://chatgpt.com/features",
+      "https://deepai.org/chat/gpt-chat",
+      "https://openai.com/index/chatgpt/"
+    ],
+    "timestamp": "2026-08-24T11:02:20.465087",
+    "status": "results_found"
+  },
+  {
+    "seller": "Delzon",
+    "field": "PAN",
+    "query": "Delzon PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://translate.google.co.uk/",
+      "https://www.spanishenglish.com/",
+      "https://www.wordreference.com/enes/",
+      "https://www.spanishdict.com/",
+      "https://www.linguee.com/spanish-english"
+    ],
+    "timestamp": "2026-08-24T11:02:38.644465",
+    "status": "results_found"
+  },
+  {
+    "seller": "Delzon",
+    "field": "GST",
+    "query": "Delzon GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cmoney.tw/forum/stock/00919",
+      "https://www.cmoney.tw/forum/stock/00712",
+      "https://www.answers.com/telecommunications/Where_is_telephone_country_code_919",
+      "https://www.cmoney.tw/forum/article/180840164",
+      "https://www.cmoney.tw/forum/article/179664438"
+    ],
+    "timestamp": "2026-08-24T11:02:53.444090",
+    "status": "results_found"
+  },
+  {
+    "seller": "Delzon",
+    "field": "GST",
+    "query": "Delzon GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/21040260",
+      "https://www.zhihu.com/tardis/zm/art/376305519",
+      "https://www.zhihu.com/people/cao-feng-ze-37",
+      "https://www.zhihu.com/people/lancelu",
+      "https://www.zhihu.com/question/30432177"
+    ],
+    "timestamp": "2026-08-24T11:03:17.693864",
+    "status": "results_found"
+  },
+  {
+    "seller": "Delzon",
+    "field": "Owner",
+    "query": "Delzon director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://play.coupang.com/",
+      "https://www.coupangplay.com/catalog",
+      "https://www.coupang.com/",
+      "https://www.coupangplay.com/tac",
+      "https://coupangplay.app.link/SpGWRhuvSqb"
+    ],
+    "timestamp": "2026-08-24T11:03:21.207644",
+    "status": "results_found"
+  }
+]

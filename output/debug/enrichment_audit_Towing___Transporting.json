@@ -1,0 +1,698 @@
+[
+  {
+    "business": "Cart2Globe",
+    "field": "Business Name",
+    "value": "Cart2Globe",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A324FKG9CG7HUT&asin=B0D7QF3WVY&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T11:08:06.428944"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Website",
+    "query": "Cart2Globe official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://track.cart2india.com/",
+      "https://www.cart2india.com/"
+    ],
+    "timestamp": "2026-08-28T11:08:11.474116",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Website URL",
+    "value": "https://www.cart2india.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cart2india.com/",
+    "timestamp": "2026-08-28T11:08:14.886308"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Legal Entity Name",
+    "query": "Cart2Globe company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bluestacks.com/pt-br/index.html",
+      "https://www.bluestacks.com/",
+      "https://windows11.bluestacks.com/about-us/",
+      "https://support.bluestacks.com/hc/en-us/articles/34359017537549-BlueStacks-5-22-Release-Notes"
+    ],
+    "timestamp": "2026-08-28T11:08:18.488405",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "PAN",
+    "query": "Cart2Globe PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-08-28T11:08:54.138110",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "GST",
+    "query": "Cart2Globe GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/gst-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=435857922&Adgroupid=1345803795394718&Adid=84113032835647&device=c&Adposition=&physical=231560&match_type=e&network=apply%20for%20gst%20number&target_name=kwd-84113699729504:loc-90&placement=&keyword_id=apply%20for%20gst%20number&msclkid=c63ac05751421df57a15aac64fbb52fd",
+      "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+      "https://www.instaspaces.in/virtual-office/?source=bing&keyword=virtual%20space%20for%20gst%20registration&campaignid=486548135&matchtype=p&device=c&creative=&target=&placement=&msclkid=f1b4f0a4c2a41899420a9a35dc5d0569",
+      "https://www.instaspaces.in/virtual-office/?source=bing&keyword=virtual%20space%20for%20gst%20registration&campaignid=486548135&matchtype=p&device=c&creative=&target=&placement=&msclkid=1e6ffc2cc1411cccb39196bddfb806ba"
+    ],
+    "timestamp": "2026-08-28T11:09:02.568685",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "GST Number",
+    "value": "27AAECC4477E1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "timestamp": "2026-08-28T11:09:15.407289"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "PAN Number",
+    "value": "AAECC4477E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cart-2-india-online-retail-private-limited-27AAECC4477E1ZN/",
+    "timestamp": "2026-08-28T11:09:15.407309"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Owner",
+    "query": "Cart2Globe director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tiktok.com/",
+      "https://www.tiktok.com/login",
+      "https://m.tiktok.com/login",
+      "https://m.tiktok.com/login/phone-or-email/email"
+    ],
+    "timestamp": "2026-08-28T11:09:20.046294",
+    "status": "results_found"
+  },
+  {
+    "business": "Cart2Globe",
+    "field": "Email Address",
+    "value": "mercuriojohn_mercurio@motionpictures.orgbytedance",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tiktok.com/",
+    "timestamp": "2026-08-28T11:09:23.738328"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Address",
+    "query": "Cart2Globe registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/97162-powershell-scripting-run-script-shortcut.html",
+      "https://www.tenforums.com/tutorials/25581-open-windows-powershell-windows-10-a.html"
+    ],
+    "timestamp": "2026-08-28T11:09:56.673825",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cart2Globe",
+    "field": "Phone",
+    "query": "Cart2Globe phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://community.qlik.com/t5/Japan/googlemap%E3%81%8C%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84/td-p/477402"
+    ],
+    "timestamp": "2026-08-28T11:10:08.746774",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Business Name",
+    "value": "Kosliya Lab",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANS81TAC3TJNF&asin=B0HD81Y23R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T11:10:11.461838"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Website",
+    "query": "Kosliya Lab official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.conservativepolicyforum.com/",
+      "https://www.conservativepolicyforum.com/event-details/winning-wednesdays-connect-calling-5"
+    ],
+    "timestamp": "2026-08-28T11:10:15.537129",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Lab company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://www.dnb.com/business-directory/company-profiles.kosliya_enterprise_llp.3497fd8b13ee6a3c8f426f7707e4b5c6.html",
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877",
+      "https://b2bhint.com/en/company/lt/koslita-uab--149562782"
+    ],
+    "timestamp": "2026-08-28T11:10:26.040863",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T11:10:26.769424"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T11:10:26.769452"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T11:10:26.769732"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T11:10:26.769772"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Lab Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=72d9ec858bd31ac6d5f286149484d6cf&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.companydetails.in/company/khosla-labs-private-limited",
+      "https://www.companydetails.in/company/khosla-labs-pvt-ltd",
+      "https://tracxn.com/d/legal-entities/india/khosla-labs-private-limited/__iuqG1NM15KbRBsGehtkb9HKBj1jXIzWbqDV98l_Bs1c"
+    ],
+    "timestamp": "2026-08-28T11:10:35.336228",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=72d9ec858bd31ac6d5f286149484d6cf&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-28T11:10:36.217709"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "PAN",
+    "query": "Kosliya Lab PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/exportiva-international-trader-private-limited-cin-U51909TN2022PTC149184",
+      "https://www.companydetails.in/company/exportiva-international-trader-private-limited",
+      "https://www.thecompanycheck.com/company/exportiva-international-trader-private-limited/U51909TN2022PTC149184",
+      "https://www.inspex.in/company/EXPORTIVA-INTERNATIONAL-TRADER-PRIVATE-LIMITED-U51909TN2022PTC149184"
+    ],
+    "timestamp": "2026-08-28T11:10:38.489554",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "GST",
+    "query": "Kosliya Lab GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/",
+      "https://forum.lowyat.net/topic/5556445"
+    ],
+    "timestamp": "2026-08-28T11:11:53.075966",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Owner",
+    "query": "Kosliya Lab director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kknews.cc/zh-tw/health/8a93o5g.html",
+      "https://www.healthforall.com.tw/?action=article_in&id=4520",
+      "https://www.whbydcc.com/%e9%98%b2%e8%85%90%e5%8a%91%e5%90%83%e5%a4%9a%e4%ba%86%e6%9c%83%e6%80%8e%e6%a8%a3/",
+      "https://www.whbydcc.com/%E9%98%B2%E8%85%90%E5%8A%91%E5%90%83%E4%BA%86%E6%9C%83%E6%80%8E%E6%A8%A3/"
+    ],
+    "timestamp": "2026-08-28T11:12:11.123552",
+    "status": "results_found"
+  },
+  {
+    "business": "NITYAECOMMERCE",
+    "field": "Business Name",
+    "value": "NITYAECOMMERCE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3M3Z37T2TXO7M&asin=B0GPDW9NRC&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T11:12:12.462247"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Website",
+    "query": "NITYAECOMMERCE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.nuffield.com.au/scholars",
+      "https://www.nuffield.com.au/news/new-scholars-to-make-their-mark-with-nuffield-in-2026"
+    ],
+    "timestamp": "2026-08-28T11:12:15.312315",
+    "status": "results_found"
+  },
+  {
+    "business": "NITYAECOMMERCE",
+    "field": "Website URL",
+    "value": "https://www.nityaecommerce.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.nityaecommerce.com/",
+    "timestamp": "2026-08-28T11:12:17.401565"
+  },
+  {
+    "business": "NITYAECOMMERCE",
+    "field": "Phone Number",
+    "value": "+917971191632",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.nityaecommerce.com/",
+    "timestamp": "2026-08-28T11:12:18.427497"
+  },
+  {
+    "business": "NITYAECOMMERCE",
+    "field": "GST Number",
+    "value": "27ADPPY7552F1ZT",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.nityaecommerce.com/",
+    "timestamp": "2026-08-28T11:12:18.428114"
+  },
+  {
+    "business": "NITYAECOMMERCE",
+    "field": "PAN Number",
+    "value": "ADPPY7552F",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.nityaecommerce.com/",
+    "timestamp": "2026-08-28T11:12:18.428131"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Legal Entity Name",
+    "query": "NITYAECOMMERCE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5538738"
+    ],
+    "timestamp": "2026-08-28T11:12:32.359246",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Legal Entity Name",
+    "query": "NITYAECOMMERCE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m365.cloud.microsoft/?omkt=ja-jp",
+      "https://www.ntt.com/bizon/copilot.html?msockid=22c0abb51dd063011e5abc761c4b62e1"
+    ],
+    "timestamp": "2026-08-28T11:12:42.403105",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Owner",
+    "query": "NITYAECOMMERCE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.carsales.com.au/",
+      "https://www.carsales.com.au/cars/",
+      "https://www.carsales.com.au/cars/used/",
+      "https://www.carsales.com.au/cars/queensland-state/brisbane-region/"
+    ],
+    "timestamp": "2026-08-28T11:12:49.386489",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Owner",
+    "query": "NITYAECOMMERCE founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/karpathy/nanochat"
+    ],
+    "timestamp": "2026-08-28T11:12:55.243323",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Address",
+    "query": "NITYAECOMMERCE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/6815-set-network-location-private-public-domain-windows-10-a.html",
+      "https://www.tenforums.com/network-sharing/39934-wifi-username-password-issue.html",
+      "https://www.tenforums.com/network-sharing/125963-my-wi-fi-adapter-displays-wi-fi-2-a.html"
+    ],
+    "timestamp": "2026-08-28T11:13:05.608818",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Address",
+    "query": "NITYAECOMMERCE registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/thesaurus/navigating",
+      "https://www.wordhippo.com/what-is/another-word-for/navigating.html",
+      "https://www.merriam-webster.com/thesaurus/navigate",
+      "https://www.thesaurus.com/browse/navigate"
+    ],
+    "timestamp": "2026-08-28T11:13:14.462688",
+    "status": "results_found"
+  },
+  {
+    "seller": "NITYAECOMMERCE",
+    "field": "Email",
+    "query": "NITYAECOMMERCE email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nityaecommerce.com/",
+      "https://www.whois.com/whois/nityaecommerce.com",
+      "https://www.tradeindia.com/nitya-ecommerce-150798296/",
+      "https://nityaenterprises2603.github.io/ecommerce-site/"
+    ],
+    "timestamp": "2026-08-28T11:13:25.160725",
+    "status": "results_found"
+  },
+  {
+    "business": "NITYAECOMMERCE",
+    "field": "Email Address",
+    "value": "domainabuse@tucows.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.whois.com/whois/nityaecommerce.com",
+    "timestamp": "2026-08-28T11:13:30.678674"
+  },
+  {
+    "business": "EXOTIQUE MART INDIA",
+    "field": "Business Name",
+    "value": "EXOTIQUE MART INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A208OH9593SH72&asin=B0F37ZJ26T&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T11:13:32.333804"
+  },
+  {
+    "seller": "EXOTIQUE MART INDIA",
+    "field": "Website",
+    "query": "EXOTIQUE MART INDIA official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://exotiqueindia.com/contact-us",
+      "https://exotiquestore.in/collections/all"
+    ],
+    "timestamp": "2026-08-28T11:13:37.893161",
+    "status": "results_found"
+  },
+  {
+    "seller": "EXOTIQUE MART INDIA",
+    "field": "Legal Entity Name",
+    "query": "EXOTIQUE MART INDIA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.therams.com/",
+      "https://www.therams.com/schedule/",
+      "https://www.therams.com/team/players-roster/",
+      "https://www.therams.com/news/"
+    ],
+    "timestamp": "2026-08-28T11:13:51.456180",
+    "status": "results_found"
+  },
+  {
+    "seller": "EXOTIQUE MART INDIA",
+    "field": "PAN",
+    "query": "EXOTIQUE MART INDIA PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.kocpc.com.tw/archives/382500",
+      "https://tw.easeus.com/partition-manager-tips/where-is-file-explorer-on-my-computer.html",
+      "https://www.kocpc.com.tw/archives/478590"
+    ],
+    "timestamp": "2026-08-28T11:14:09.039278",
+    "status": "results_found"
+  },
+  {
+    "seller": "EXOTIQUE MART INDIA",
+    "field": "GST",
+    "query": "EXOTIQUE MART INDIA GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://apps.apple.com/us/app/youtube/id544007664",
+      "https://blog.youtube/"
+    ],
+    "timestamp": "2026-08-28T11:14:25.546003",
+    "status": "results_found"
+  },
+  {
+    "seller": "EXOTIQUE MART INDIA",
+    "field": "GST",
+    "query": "EXOTIQUE MART INDIA GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kingbokep.tv/",
+      "http://66.29.129.113/",
+      "https://kingbokep.vu/",
+      "https://kingbokeps.fun/"
+    ],
+    "timestamp": "2026-08-28T11:14:39.774785",
+    "status": "results_found"
+  },
+  {
+    "seller": "EXOTIQUE MART INDIA",
+    "field": "Owner",
+    "query": "EXOTIQUE MART INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jalan.net/onsen/?msockid=22c0abb51dd063011e5abc761c4b62e1",
+      "https://www.ikyu.com/theme/h000000",
+      "https://www.yukoyuko.net/onsen",
+      "https://www.yukoyuko.net/"
+    ],
+    "timestamp": "2026-08-28T11:14:42.008412",
+    "status": "results_found"
+  },
+  {
+    "seller": "EXOTIQUE MART INDIA",
+    "field": "Address",
+    "query": "EXOTIQUE MART INDIA registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://exotiqueindia.com/contact-us",
+      "https://www.exotique.in/contact-us/",
+      "https://exotiqueindia.com/about-us",
+      "https://www.exotiqueindia.com/about-us/"
+    ],
+    "timestamp": "2026-08-28T11:15:09.609568",
+    "status": "results_found"
+  },
+  {
+    "business": "EXOTIQUE MART INDIA",
+    "field": "Phone Number",
+    "value": "+918800222776",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://exotiqueindia.com/contact-us",
+    "timestamp": "2026-08-28T11:15:13.339821"
+  },
+  {
+    "business": "EXOTIQUE MART INDIA",
+    "field": "Email Address",
+    "value": "info@exotique.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://exotiqueindia.com/contact-us",
+    "timestamp": "2026-08-28T11:15:13.340028"
+  },
+  {
+    "business": "EXOTIQUE MART INDIA",
+    "field": "GST Number",
+    "value": "07AABCE2211M1ZX",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://exotiqueindia.com/contact-us",
+    "timestamp": "2026-08-28T11:15:13.340440"
+  },
+  {
+    "business": "EXOTIQUE MART INDIA",
+    "field": "PAN Number",
+    "value": "AABCE2211M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://exotiqueindia.com/contact-us",
+    "timestamp": "2026-08-28T11:15:13.340450"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "Business Name",
+    "value": "Elyssion Designs",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AH0KEO6T9U8SH&asin=B0HFRS518K&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T11:15:18.625180"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Website",
+    "query": "Elyssion Designs official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://chatgpt.com/ko-KR/",
+      "https://chatgpt.com/ko-KR/overview/"
+    ],
+    "timestamp": "2026-08-28T11:15:20.729798",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Legal Entity Name",
+    "query": "Elyssion Designs company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/elyssion-designs-private-limited",
+      "https://www.indiafilings.com/search/elyssion-designs-private-limited-cin-U74999DL2018PTC337803",
+      "https://www.knowyourgst.com/gst-number-search/elyssion-designs-private-limited-06AAFCE1472L1ZK/",
+      "https://testing.instafinancials.com/company/elyssion-designs-private-limited-U74999DL2018PTC337803"
+    ],
+    "timestamp": "2026-08-28T11:15:26.444706",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "PAN",
+    "query": "Elyssion Designs PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tripadvisor.com/Restaurants-g58349-Bellevue_Washington.html",
+      "https://seattlesecrets.org/best-restaurants-in-bellevue-seattle",
+      "https://downtownbellevue.com/best-restaurants-downtown-bellevue/",
+      "https://nomsmagazine.com/best-bellevue-restaurants/"
+    ],
+    "timestamp": "2026-08-28T11:16:20.626662",
+    "status": "results_found"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "Billing Address",
+    "value": "450 108th avenue ne, bellevue, wa 98004",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nomsmagazine.com/best-bellevue-restaurants/",
+    "timestamp": "2026-08-28T11:16:33.743809"
+  },
+  {
+    "business": "Elyssion Designs",
+    "field": "City",
+    "value": "bellevue",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nomsmagazine.com/best-bellevue-restaurants/",
+    "timestamp": "2026-08-28T11:16:33.743836"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "GST",
+    "query": "Elyssion Designs GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://game-world-life-story.vi.softonic.com/android",
+      "https://game-world-life-story.en.softonic.com/android",
+      "https://game-world-babybus.en.aptoide.com/app",
+      "https://apps.apple.com/us/app/game-world-life-story/id6557045941"
+    ],
+    "timestamp": "2026-08-28T11:16:36.327466",
+    "status": "results_found"
+  },
+  {
+    "seller": "Elyssion Designs",
+    "field": "Owner",
+    "query": "Elyssion Designs director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://apps.apple.com/vn/app/google-d%E1%BB%8Bch/id414706506?l=vi",
+      "https://www.thegioididong.com/game-app/google-dich-cong-cu-dich-ngon-ngu-thong-minh-220700",
+      "https://google-translate.vi.softonic.com/"
+    ],
+    "timestamp": "2026-08-28T11:16:55.257822",
+    "status": "results_found"
+  }
+]

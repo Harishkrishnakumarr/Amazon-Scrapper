@@ -1,0 +1,675 @@
+[
+  {
+    "business": "JHABAK'S",
+    "field": "Business Name",
+    "value": "JHABAK'S",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AOINLJWLW34WK&asin=B0H2BN46RL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T16:39:13.029576"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "Website",
+    "query": "JHABAK'S official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.52pojie.cn/thread-2095059-1-1.html",
+      "https://www.52pojie.cn/thread-2077829-1-1.html"
+    ],
+    "timestamp": "2026-08-14T16:39:14.670591",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "Legal Entity Name",
+    "query": "JHABAK'S company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://sports.yahoo.co.jp/",
+      "https://weather.yahoo.co.jp/weather/",
+      "https://www.yahoo.co.jp/",
+      "https://finance.yahoo.co.jp/",
+      "https://map.yahoo.co.jp/"
+    ],
+    "timestamp": "2026-08-14T16:39:35.133946",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "Legal Entity Name",
+    "query": "JHABAK'S Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ilmeteo.it/",
+      "https://www.3bmeteo.com/",
+      "https://www.meteoam.it/it/home",
+      "https://www.ilmeteo.it/meteo/roma",
+      "https://www.meteo.it/meteo/rome-0058091"
+    ],
+    "timestamp": "2026-08-14T16:39:49.676074",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "PAN",
+    "query": "JHABAK'S PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.trackpan.utiitsl.com/PANONLINE/",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/verify-your-pan",
+      "https://www.incometaxindia.gov.in/tax-services/online-pan-verification",
+      "https://www.pan.utiitsl.com/PAN/"
+    ],
+    "timestamp": "2026-08-14T16:40:02.390919",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "GST",
+    "query": "JHABAK'S GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-14T16:40:23.868617",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "GST",
+    "query": "JHABAK'S GSTIN",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-14T16:40:41.158221",
+    "status": "no_results"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "Owner",
+    "query": "JHABAK'S director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://maps.google.co.in/intl/en/policies/privacy/archive/20080807/",
+      "https://maps.google.co.in/intl/en/policies/terms/archive/",
+      "https://maps.google.co.in/intl/en/maps/about/behind-the-scenes/streetview/treks/gombe-tanzania/",
+      "https://maps.google.co.in/maps?t=m&z=13",
+      "https://maps.google.co.in/intl/hu/policies/privacy/example/collect-information.html"
+    ],
+    "timestamp": "2026-08-14T16:40:43.196735",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "Owner",
+    "query": "JHABAK'S managing director",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.falconebiz.com/director/08386499/DEVAM-JHABAK-SANJAY",
+      "https://www.falconebiz.com/LLP/JHABAK-FINANCIAL-SERVICES-LLP-ACM-9770"
+    ],
+    "timestamp": "2026-08-14T16:40:57.654243",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "Owner",
+    "query": "JHABAK'S founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.expedia.com/Amsterdam.d178229.Destination-Travel-Guides?msockid=309d56b878846b921316410d79f36a55",
+      "https://www.kayak.com/packages/amsterdam?msockid=309d56b878846b921316410d79f36a55",
+      "https://www.expedia.com.ph/Amsterdam.d178229.Trip",
+      "https://www.costcotravel.com/Vacation-Packages/Europe/Netherlands/Amsterdam",
+      "https://www.makemytrip.com/holidays-international/amsterdam-vacation-tour-packages.html?msockid=309d56b878846b921316410d79f36a55"
+    ],
+    "timestamp": "2026-08-14T16:41:01.332190",
+    "status": "results_found"
+  },
+  {
+    "seller": "JHABAK'S",
+    "field": "Address",
+    "query": "JHABAK'S registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/300929209",
+      "https://www.zhihu.com/question/2031458671385911868",
+      "https://jingyan.baidu.com/article/c910274b3adbdf8d371d2d03.html",
+      "https://jingyan.baidu.com/article/c33e3f483b65d5ea15cbb516.html",
+      "https://www.zhihu.com/question/20871360"
+    ],
+    "timestamp": "2026-08-14T16:41:02.861134",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0H3BH1ZK7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T16:41:26.224693"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-14T16:41:28.013504",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-14T16:41:32.408722"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-14T16:41:33.245828"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-14T16:41:33.255696"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T16:41:41.683746",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T16:42:04.303497",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-14T16:42:30.545788",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+    "timestamp": "2026-08-14T16:42:31.279148"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T16:42:32.734270",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-14T16:42:51.636874",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T16:42:53.942641",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-14T16:43:04.625592"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-14T16:43:04.625615"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-14T16:43:04.625620"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+    "timestamp": "2026-08-14T16:43:04.625624"
+  },
+  {
+    "business": "Fetiya trendz",
+    "field": "Business Name",
+    "value": "Fetiya trendz",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3BV4MCQ26B46H&asin=B0H49ZYWLR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T16:43:07.833514"
+  },
+  {
+    "seller": "Fetiya trendz",
+    "field": "Website",
+    "query": "Fetiya trendz official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-14T16:43:15.343607",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fetiya trendz",
+    "field": "Legal Entity Name",
+    "query": "Fetiya trendz company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/766415369107442124.html",
+      "http://zhidao.baidu.com/",
+      "https://zhidao.baidu.com/question/254619546357192884.html"
+    ],
+    "timestamp": "2026-08-14T16:43:29.438127",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fetiya trendz",
+    "field": "PAN",
+    "query": "Fetiya trendz PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cricbuzz.com/",
+      "https://www.cricbuzz.com/cricket-match/live-scores/recent-matches",
+      "https://m.cricbuzz.com/cricket-series",
+      "https://m.cricbuzz.com/cricket-series/9638/india-v-south-africa",
+      "https://www.cricbuzz.com/cricket-schedule/upcoming-series/international"
+    ],
+    "timestamp": "2026-08-14T16:44:19.296487",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fetiya trendz",
+    "field": "GST",
+    "query": "Fetiya trendz GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://allevents.in/jakarta",
+      "https://allevents.in/dhaka",
+      "https://allevents.in/karachi",
+      "https://allevents.in/polokwane/limpopo",
+      "https://allevents.in/patna/all"
+    ],
+    "timestamp": "2026-08-14T16:44:29.166173",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fetiya trendz",
+    "field": "GST",
+    "query": "Fetiya trendz GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.iloveimg.com/ja/resize-image/resize-jpg",
+      "https://www.saruwakakun.com/tools/image-resize/",
+      "https://lifestyle.assist-all.co.jp/jpg-size-change-guide/",
+      "https://inakadaisuki.com/image_resize/",
+      "https://www.adobe.com/jp/express/feature/image/resize/jpg?msockid=309d56b878846b921316410d79f36a55"
+    ],
+    "timestamp": "2026-08-14T16:44:39.065954",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fetiya trendz",
+    "field": "Owner",
+    "query": "Fetiya trendz director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gem.gov.in/",
+      "https://bestprice.gem.gov.in/login",
+      "https://mkp.gem.gov.in/parking"
+    ],
+    "timestamp": "2026-08-14T16:44:53.072124",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fetiya trendz",
+    "field": "Owner",
+    "query": "Fetiya trendz managing director",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.fetiya_trendz.2f1fb26ee5c7249d794b9775c7fbbc71.html",
+      "https://gst.iadv.io/FETIYA-TRENDZ-24DISPK7549K1ZG/",
+      "https://www.knowyourgst.com/gst-number-search/fetiya-trendz-24DISPK7549K1ZG/"
+    ],
+    "timestamp": "2026-08-14T16:45:03.869164",
+    "status": "results_found"
+  },
+  {
+    "business": "Leo Fabric",
+    "field": "Business Name",
+    "value": "Leo Fabric",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AGBMV3DFRYRNU&asin=B0H2WGKP6Z&ref_=dp_merchant_link",
+    "timestamp": "2026-08-14T16:45:08.395312"
+  },
+  {
+    "seller": "Leo Fabric",
+    "field": "Website",
+    "query": "Leo Fabric official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m.imdb.com/title/tt15654328/",
+      "https://www.horoscope.com/zodiac-signs/leo"
+    ],
+    "timestamp": "2026-08-14T16:45:11.595010",
+    "status": "results_found"
+  },
+  {
+    "business": "Leo Fabric",
+    "field": "Website URL",
+    "value": "https://www.horoscope.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.horoscope.com/zodiac-signs/leo",
+    "timestamp": "2026-08-14T16:45:28.660585"
+  },
+  {
+    "business": "Leo Fabric",
+    "field": "Phone Number",
+    "value": "+912026820261",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.horoscope.com/",
+    "timestamp": "2026-08-14T16:45:36.655971"
+  },
+  {
+    "seller": "Leo Fabric",
+    "field": "Legal Entity Name",
+    "query": "Leo Fabric company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt15654328/",
+      "https://www.horoscope.com/zodiac-signs/leo",
+      "https://www.leo.org/german-english",
+      "https://www.astrology.com/zodiac-signs/leo",
+      "https://m.imdb.com/title/tt15654328/fullcredits/"
+    ],
+    "timestamp": "2026-08-14T16:46:02.912928",
+    "status": "results_found"
+  },
+  {
+    "seller": "Leo Fabric",
+    "field": "PAN",
+    "query": "Leo Fabric PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt15654328/",
+      "https://www.horoscope.com/zodiac-signs/leo",
+      "https://www.leo.org/german-english",
+      "https://www.astrology.com/zodiac-signs/leo",
+      "https://m.imdb.com/title/tt15654328/fullcredits/"
+    ],
+    "timestamp": "2026-08-14T16:46:27.695258",
+    "status": "results_found"
+  },
+  {
+    "seller": "Leo Fabric",
+    "field": "GST",
+    "query": "Leo Fabric GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt15654328/",
+      "https://www.horoscope.com/zodiac-signs/leo",
+      "https://www.leo.org/german-english",
+      "https://www.astrology.com/zodiac-signs/leo",
+      "https://m.imdb.com/title/tt15654328/fullcredits/"
+    ],
+    "timestamp": "2026-08-14T16:46:53.820306",
+    "status": "results_found"
+  },
+  {
+    "business": "RKclothing",
+    "field": "Business Name",
+    "value": "RKclothing",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A9LLNJB4E5QAC&asin=B0H6SQS2W4&ref_=dp_merchant_link",
+    "timestamp": "2026-08-14T16:47:09.728041"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "Website",
+    "query": "RKclothing official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://colours.co.jp/",
+      "https://colours.co.jp/company/"
+    ],
+    "timestamp": "2026-08-14T16:47:12.072878",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "Legal Entity Name",
+    "query": "RKclothing company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://soso-forum.tistory.com/6",
+      "https://www.zhihu.com/people/bu-xiang-shang-diao-wang-cheng-en",
+      "https://www.zhihu.com/topic/19804452/intro",
+      "https://www.zhihu.com/question/322530827",
+      "https://www.zhihu.com/question/308441705"
+    ],
+    "timestamp": "2026-08-14T16:47:33.767124",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "PAN",
+    "query": "RKclothing PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.eporner.com/pornstar/yumi-kazama-i7Mjr/",
+      "https://jav.ninja/id/actress/616087679/kazama-yumi",
+      "https://goldtits.com/pornstars/yumi-kazama/",
+      "https://www.uncenx.com/id/stars/yumi-kazama",
+      "https://missav.live/id/search/yumi%20kazama"
+    ],
+    "timestamp": "2026-08-14T16:48:06.521946",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "GST",
+    "query": "RKclothing GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rathnastores.in/product/stainless-steel-anda",
+      "https://silveradda.com/",
+      "https://vbjsilver.com/product/prasadam-bowl-21",
+      "https://nav-ananda.licindia.in/",
+      "https://silveradda.com/pages/about-us"
+    ],
+    "timestamp": "2026-08-14T16:48:24.774814",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "Owner",
+    "query": "RKclothing director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-14T16:48:46.606103",
+    "status": "no_results"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "Owner",
+    "query": "RKclothing managing director",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://contactout.com/Romy-Kang-3435185",
+      "https://www.ukcompanydir.com/companies/rk-clothing-limited/",
+      "https://www.rkclothings.com/contact",
+      "https://www.rkclothings.com/about-us"
+    ],
+    "timestamp": "2026-08-14T16:48:51.504271",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "Owner",
+    "query": "RKclothing founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.marketbeat.com/stocks/NASDAQ/MSFT/news/",
+      "https://stockanalysis.com/stocks/msft/",
+      "https://www.marketbeat.com/stocks/NASDAQ/MSFT/",
+      "https://www.nasdaq.com/market-activity/stocks/msft",
+      "https://www.marketwatch.com/investing/stock/msft"
+    ],
+    "timestamp": "2026-08-14T16:48:57.758504",
+    "status": "results_found"
+  },
+  {
+    "seller": "RKclothing",
+    "field": "Address",
+    "query": "RKclothing registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.rkclothings.com/contact",
+      "https://find-and-update.company-information.service.gov.uk/company/08861012",
+      "https://www.thecompanycheck.com/org/rk-clothing-co/41ad42ec17",
+      "https://www.thecompanycheck.com/org/rkclothing/6df37df9b6",
+      "https://www.rkclothings.com/about-us"
+    ],
+    "timestamp": "2026-08-14T16:49:11.110417",
+    "status": "results_found"
+  }
+]

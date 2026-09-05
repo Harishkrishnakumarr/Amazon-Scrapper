@@ -1,0 +1,74 @@
+{
+  "category": "Shorts",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "A.A FASHION ZONE",
+      "database_id": 1382,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "auditbalaram@yahoo.co.in",
+      "gst": "33AZMPJ6644G1Z8",
+      "pan": "AZMPJ6644G",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1382,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "33AAJCC8517E1ZS",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Azorte .",
+      "database_id": 1383,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917483286182",
+      "email": "rize-registrations@razorpay.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Magnet Clothing",
+      "database_id": 1384,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663256370",
+      "email": "contactmagnetclothing@gmail.com",
+      "gst": "29CCZPR5503E1Z1",
+      "pan": "CCZPR5503E",
+      "website": "https://www.magnetclothing.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "zerone",
+      "database_id": 1385,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "tininfo@proteantech.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

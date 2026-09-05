@@ -1,0 +1,677 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0CGV8W9FH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T17:39:06.454182"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-14T17:39:09.811169",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-14T17:39:16.344175"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+915600712026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-14T17:39:17.234737"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-14T17:39:17.236867"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "query": "Cocoblu Retail company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T17:39:25.726825",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-14T17:39:46.893503",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T17:39:54.732072",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T17:40:05.917987",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Cocoblu Retail GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-14T17:40:24.687839",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-29AAJCC8517E1ZH/",
+    "timestamp": "2026-08-14T17:40:25.744058"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T17:40:27.183220",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-14T17:40:38.369444",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-14T17:40:44.443998",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/"
+    ],
+    "timestamp": "2026-08-14T17:40:48.495893",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Cocoblu Retail registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/contact-us/",
+      "https://www.knowyourgst.com/gst-number-search/cocoblu-retail-limited-33AAJCC8517E1ZS/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-27aajcc8517e1zl/",
+      "https://piceapp.com/gst-number-search/cocoblu-retail-limited-27aajcc8517e1zl/"
+    ],
+    "timestamp": "2026-08-14T17:40:58.784142",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-14T17:41:00.160383"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-14T17:41:00.160406"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-14T17:41:00.160411"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-14T17:41:00.160415"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "Business Name",
+    "value": "BodyGlove Apparel Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AB57CX8LB83EF&asin=B0D1CHYM1T&ref_=dp_merchant_link",
+    "timestamp": "2026-08-14T17:41:01.222858"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Website",
+    "query": "BodyGlove Apparel Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.donga.com/",
+      "https://kids.donga.com/"
+    ],
+    "timestamp": "2026-08-14T17:41:05.345898",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Legal Entity Name",
+    "query": "BodyGlove Apparel Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.aol.com/",
+      "https://www.aol.co.uk/",
+      "https://mail.aol.com/",
+      "https://login.aol.com/",
+      "https://www.aol.com/?_"
+    ],
+    "timestamp": "2026-08-14T17:41:31.658530",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Legal Entity Name",
+    "query": "BodyGlove Apparel Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-14T17:41:48.656384",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "PAN",
+    "query": "BodyGlove Apparel Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/",
+      "https://www.zhihu.com/selection/",
+      "https://baike.baidu.com/item/%E7%9F%A5%E4%B9%8E/4691322",
+      "https://www.zhihu.com/?lang=zh-Hant",
+      "https://tophub.today/n/mproPpoq6O"
+    ],
+    "timestamp": "2026-08-14T17:41:50.376595",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "GST",
+    "query": "BodyGlove Apparel Online GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-14T17:42:22.727273",
+    "status": "no_results"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "GST",
+    "query": "BodyGlove Apparel Online GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/bodyglove-apparel-india-33AAGFB9325B1ZW/",
+      "https://gst.jamku.app/gstin/18AAGFB9325B1ZO",
+      "https://gst.jamku.app/gstin/33AAGFB9325B1ZW",
+      "https://piceapp.com/gst-number-search/bodyglove-apparel-india-29aagfb9325b1zl/",
+      "https://www.knowyourgst.com/gst-number-search/bodyglove-apparel-india-29AAGFB9325B1ZL/"
+    ],
+    "timestamp": "2026-08-14T17:42:27.438700",
+    "status": "results_found"
+  },
+  {
+    "business": "BodyGlove Apparel Online",
+    "field": "GST Number",
+    "value": "33AAGFB9325B1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/bodyglove-apparel-india-33AAGFB9325B1ZW/",
+    "timestamp": "2026-08-14T17:42:28.315096"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Owner",
+    "query": "BodyGlove Apparel Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/5755942/how-do-you-auto-format-code-in-visual-studio",
+      "https://stackoverflow.com/questions/5569927/change-google-translate-dropdown-programmatically",
+      "https://www.kaskus.co.id/register/googleregister",
+      "https://stackoverflow.com/questions/4640378/translate-a-php-string-using-google-translator-api"
+    ],
+    "timestamp": "2026-08-14T17:42:30.961406",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Owner",
+    "query": "BodyGlove Apparel Online managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://www.solveyourtech.com/how-to-get-help-in-windows-11-a-complete-guide-for-users/",
+      "https://www.solveyourtech.com/how-to-get-help-in-windows-11-a-comprehensive-guide-3/",
+      "https://geekzag.com/guides/computers/how-to-get-help-in-windows-11-10/"
+    ],
+    "timestamp": "2026-08-14T17:42:35.232176",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Owner",
+    "query": "BodyGlove Apparel Online founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bodyglove.com/pages/company-history",
+      "https://www.bodyglove.com/pages/copy-of-history-timeline",
+      "https://www.marqueebrands.com/body-glove",
+      "https://waterfrontsport.com/where-was-body-glove-founded-3/"
+    ],
+    "timestamp": "2026-08-14T17:42:50.994454",
+    "status": "results_found"
+  },
+  {
+    "seller": "BodyGlove Apparel Online",
+    "field": "Address",
+    "query": "BodyGlove Apparel Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.detik.com/sulsel/berita/d-8560959/17-agustus-2026-hut-ri-ke-berapa-ini-jawabannya",
+      "https://www.antaranews.com/berita/5674081/hut-ri-2026-tema-logo-resmi-makna-dan-jadwal-upacara-17-agustus",
+      "https://news.detik.com/berita/d-8614796/susunan-upacara-17-agustus-2026-resmi-peringati-hut-ke-81-ri",
+      "https://www.detik.com/sulsel/berita/d-8557260/17-agustus-2026-hut-ri-ke-berapa-ini-informasi-lengkap-tema-dan-logonya",
+      "https://janalokajournal.id/susunan-upacara-17-agustus-2026/"
+    ],
+    "timestamp": "2026-08-14T17:42:53.637646",
+    "status": "results_found"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "Business Name",
+    "value": "Frost Clothings",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2K7Y7FODK72TS&asin=B0FFTJ5P2X&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T17:43:10.914107"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Website",
+    "query": "Frost Clothings official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/"
+    ],
+    "timestamp": "2026-08-14T17:43:12.343600",
+    "status": "results_found"
+  },
+  {
+    "business": "Frost Clothings",
+    "field": "Website URL",
+    "value": "https://www.thedailyeco.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+    "timestamp": "2026-08-14T17:43:16.451685"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Legal Entity Name",
+    "query": "Frost Clothings company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:43:27.959273",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "PAN",
+    "query": "Frost Clothings PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:43:43.995594",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "PAN",
+    "query": "Frost Clothings PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:44:03.701666",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "GST",
+    "query": "Frost Clothings GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:44:06.406217",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "GST",
+    "query": "Frost Clothings GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:44:21.026647",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Owner",
+    "query": "Frost Clothings director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:44:33.094666",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Owner",
+    "query": "Frost Clothings managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:44:50.572784",
+    "status": "results_found"
+  },
+  {
+    "seller": "Frost Clothings",
+    "field": "Address",
+    "query": "Frost Clothings registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thedailyeco.com/what-is-frost-and-how-is-it-different-from-freeze-935.html",
+      "https://www.frost.com/",
+      "https://www.britannica.com/science/frost-meteorology",
+      "https://frostclient.eu/",
+      "https://education.nationalgeographic.org/resource/frost/"
+    ],
+    "timestamp": "2026-08-14T17:44:52.111162",
+    "status": "results_found"
+  },
+  {
+    "business": "MACK JONNEY",
+    "field": "Business Name",
+    "value": "MACK JONNEY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2U9BFQLL94DDT&asin=B0GS7786BN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T17:45:22.514885"
+  },
+  {
+    "seller": "MACK JONNEY",
+    "field": "Website",
+    "query": "MACK JONNEY official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thesaurus.com/browse/hatred",
+      "https://www.thesaurus.com/browse/dislike"
+    ],
+    "timestamp": "2026-08-14T17:45:36.579857",
+    "status": "results_found"
+  },
+  {
+    "seller": "MACK JONNEY",
+    "field": "Legal Entity Name",
+    "query": "MACK JONNEY company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/facebook/comments/1be80cx/facebook_sending_confirmation_to_whatsapp_not_sms/",
+      "https://www.reddit.com/r/whatsapp/comments/12rkpwn/how_to_transfer_whatsapp_to_new_phone_when_old/",
+      "https://www.nextpit.de/ratgeber/whatsapp-am-pc-nutzen",
+      "https://www.reddit.com/r/whatsapp/comments/15jqglx/how_to_move_to_new_phone_without_old_phone/",
+      "https://www.reddit.com/r/whatsapp/comments/1btvz3m/whatsapp_temporarily_unavailable_for_1_hour_but/"
+    ],
+    "timestamp": "2026-08-14T17:46:02.436116",
+    "status": "results_found"
+  },
+  {
+    "seller": "MACK JONNEY",
+    "field": "PAN",
+    "query": "MACK JONNEY PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pl.ccm.net/download/pobierz-163-facebook-messenger-na-windows-pobrac",
+      "https://pl.ccm.net/download/pobierz-785-facebook-messenger-android",
+      "https://pl.ccm.net/faq/7788-jak-zalogowac-sie-do-facebook-messenger-na-komputerze",
+      "https://pl.ccm.net/forum/affich-25305-messenger-bez-facebooka",
+      "https://pl.ccm.net/forum/affich-23785-zablokowany-messenger"
+    ],
+    "timestamp": "2026-08-14T17:46:17.336524",
+    "status": "results_found"
+  },
+  {
+    "seller": "MACK JONNEY",
+    "field": "GST",
+    "query": "MACK JONNEY GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.dongchedi.com/",
+      "https://www.dongchedi.com/?zt=pc_xcar_friendly_link",
+      "https://www.dongchediapp.com/motor/m/car_series/rank",
+      "https://dongchedi-com.com.cn/",
+      "https://baike.baidu.com/item/%E6%87%82%E8%BD%A6%E5%B8%9D/22162147"
+    ],
+    "timestamp": "2026-08-14T17:46:36.214519",
+    "status": "results_found"
+  },
+  {
+    "seller": "MACK JONNEY",
+    "field": "Owner",
+    "query": "MACK JONNEY director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ph.sunniesstudios.com/pages/tints-rx",
+      "https://easyinfohub.com/how-to-tint-eyeglasses-lenses/",
+      "https://www.worldoptic.com/sunglasses-eyeglasses-lens-tints-coatings/tints-coatings.php",
+      "https://www.laramyk.com/all-about-lens-tints/",
+      "https://www.zeiss.com/vision-care/en/newsroom/news/articles-and-stories/how-to-tint-eyeglasses.html"
+    ],
+    "timestamp": "2026-08-14T17:47:01.131832",
+    "status": "results_found"
+  },
+  {
+    "seller": "MACK JONNEY",
+    "field": "Address",
+    "query": "MACK JONNEY registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bilibili.com/",
+      "https://www.bilibili.com/v/popular/rank/all/",
+      "https://app.bilibili.com/",
+      "https://t.bilibili.com/index.html",
+      "https://big.bilibili.com/pc/video"
+    ],
+    "timestamp": "2026-08-14T17:47:23.642941",
+    "status": "results_found"
+  }
+]

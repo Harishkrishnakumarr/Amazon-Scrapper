@@ -1,0 +1,48 @@
+{
+  "category": "Flip Flops For Women Office Wear",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AnKaHu Enterprises",
+      "database_id": 47,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919439720250",
+      "email": "info@ankahu.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://ankahu.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 48,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH; 07AAJCC8517E1ZN; 09AAJCC8517E1ZJ; 18AAJCC8517E1ZK; 27AAJCC8517E1ZL; 06AAJCC8517E1ZP; 36AAJCC8517E1ZM; 24AAJCC8517E1ZR; 33AAJCC8517E1ZS; 19AAJCC8517E1ZI; 08AAJCC8517E1ZL; 03AAJCC8517E1ZV; 23AAJCC8517E1ZT; 10AAJCC8517E1Z0; 32AAJCC8517E1ZU; 37AAJCC8517E1ZK; 21AAJCC8517E1ZX; 04AAJCC8517E1ZT; 30AAJCC8517E1ZY; 05AAJCC8517E1ZR; 20AAJCC8517E1ZZ; 29AAJCC8517E3ZF",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Bata_India Ltd",
+      "database_id": 49,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911931007261",
+      "email": "Not Found",
+      "gst": "07AABCB1043Q1ZO; 15AABCB1043Q1ZR; 04AABCB1043Q1ZU; 19AABCB1043Q1ZJ; 33AABCB1043Q1ZT; 21AABCB1043Q1ZY; 01AABCB1043Q1Z0; 10AABCB1043Q1Z1; 11AABCB1043Q1ZZ; 12AABCB1043Q1ZX; 16AABCB1043Q1ZP; 17AABCB1043Q1ZN; 22AABCB1043Q1ZW; 34AABCB1043Q1ZR; 13AABCB1043Q1ZV; 27AABCB1043Q1ZM; 20AABCB1043Q1Z0; 36AABCB1043Q1ZN; 30AABCB1043Q1ZZ; 08AABCB1043Q1ZM; 24AABCB1043Q1ZS; 09AABCB1043Q1ZK; 05AABCB1043Q1ZS; 02AABCB1043Q1ZY; 06AABCB1043Q3ZO; 29AABCB1043Q1ZI; 06AABCB1043Q1ZQ; 32AABCB1043Q1ZV; 03AABCB1043Q1ZW; 23AABCB1043Q1ZU; 37AABCB1043Q1ZL; 18AABCB1043Q1ZL; 06AABCB1043Q2ZP; 04AABCB1043Q2ZT; 18AABCB1043Q2ZK",
+      "pan": "AABCB1043Q",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

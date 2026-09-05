@@ -1,0 +1,61 @@
+{
+  "category": "Laptops",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 736,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SellerNow",
+      "database_id": 737,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "hi@neal.fun",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://science.nasa.gov/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GreatIndianFestival",
+      "database_id": 738,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "greatindianfestival.in@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.greatindianfestival.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DEALS IT INDIA",
+      "database_id": 739,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917997443334",
+      "email": "contact@grabon.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

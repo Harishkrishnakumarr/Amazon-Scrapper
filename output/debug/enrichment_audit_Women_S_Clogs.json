@@ -1,0 +1,457 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B096KQMSF1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T12:06:37.845432"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T12:06:40.195904",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T12:06:44.658862"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T12:06:45.603069"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T12:06:45.603822"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T12:06:53.274313",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T12:06:54.590511"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T12:06:54.590537"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T12:06:56.128964",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:06:56.873900"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:06:56.873944"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:06:56.873953"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T12:06:56.873965"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T12:07:02.158369"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T12:07:05.078110",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Business Name",
+    "value": "Liberty Shoes Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2O1WMEGRLRLDW&isAmazonFulfilled=1&asin=B096KQMSF1&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T12:07:11.353205"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Website",
+    "query": "Liberty Shoes Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.libertyshoesonline.com/",
+      "https://www.libertyshoesonline.com/pages/contact"
+    ],
+    "timestamp": "2026-09-02T12:07:13.393771",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Website URL",
+    "value": "https://www.libertyshoesonline.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.libertyshoesonline.com/",
+    "timestamp": "2026-09-02T12:07:20.872585"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Phone Number",
+    "value": "+919354111126",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.libertyshoesonline.com/",
+    "timestamp": "2026-09-02T12:07:24.614536"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Email Address",
+    "value": "lsocare@libertyshoes.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.libertyshoesonline.com/",
+    "timestamp": "2026-09-02T12:07:24.614896"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Legal Entity Name",
+    "query": "Liberty Shoes Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.libertyshoes.com/company-profile",
+      "https://www.registerkaro.in/company/liberty-shoes-limited-L19201HR1986PLC033185",
+      "https://www.instafinancials.com/company/liberty-shoes-limited-L19201HR1986PLC033185/company-overview",
+      "https://www.instafinancials.com/company/liberty-shoes-limited-L19201HR1986PLC033185"
+    ],
+    "timestamp": "2026-09-02T12:07:40.738257",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "PAN",
+    "query": "Liberty Shoes Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.microvistatech.com/gstin-search/liberty-shoes-limited-27aaacl3146k1zh#:~:text=GST%20Number%20of%20Liberty%20Shoes%20Limited%20is%2027AAACL3146K1ZH,much%20more%20at%20Microvista%20Technologies%20GST%20Search%20Tool.",
+      "https://gstserver.com/gst/27AAACL3146K1ZH/",
+      "https://tracxn.com/d/legal-entities/india/liberty-shoes-limited/__ajU7_U7r7KEOPYuUc-HFoi8F0zkeioHcdhWV0692qfs",
+      "https://www.libertyshoes.com/company-profile"
+    ],
+    "timestamp": "2026-09-02T12:07:58.253275",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "GST Number",
+    "value": "27AAACL3146K1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/27AAACL3146K1ZH/",
+    "timestamp": "2026-09-02T12:08:00.252713"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "PAN Number",
+    "value": "AAACL3146K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/27AAACL3146K1ZH/",
+    "timestamp": "2026-09-02T12:08:00.252734"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Owner",
+    "query": "Liberty Shoes Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://adeshkumargupta.com/about/",
+      "https://www.libertyshoes.com/board-of-directors",
+      "http://www.libertyshoes.com/sites/default/files/2025-09/Register-of-Directors-and-KMPs-and-shareholding.pdf",
+      "https://www.marketscreener.com/quote/stock/LIBERTY-SHOES-LTD-7604829/company-governance/"
+    ],
+    "timestamp": "2026-09-02T12:08:02.162810",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Owner",
+    "query": "Liberty Shoes Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://trendlyne.com/equity/about/789/LIBERTSHOE/liberty-shoes-ltd/",
+      "https://www.libertyshoesonline.com/pages/about-us",
+      "https://www.libertyshoes.com/company-profile",
+      "https://www.libertyshoes.com/about-us"
+    ],
+    "timestamp": "2026-09-02T12:08:14.539439",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Address",
+    "query": "Liberty Shoes Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.libertyshoes.com/contact-us",
+      "https://newuat.olive.co.in/liberty/web/contact-us",
+      "https://www.libertyshoes.com/contact-details",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f7d216e6-b492-4cce-b3f7-96ea38256230.pdf"
+    ],
+    "timestamp": "2026-09-02T12:08:17.521792",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Billing Address",
+    "value": "registered office libertypuram, 13th milestone, g.t. karnal road, kutail, p.o. bastara, distt. karnal - 132114, haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T12:08:23.011893"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "City",
+    "value": "distt. karnal",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T12:08:23.011909"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T12:08:23.011914"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Pincode",
+    "value": "132114",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T12:08:23.011918"
+  },
+  {
+    "business": "MANGO FOOTWEAR",
+    "field": "Business Name",
+    "value": "MANGO FOOTWEAR",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SED3NQ2J072W&asin=B0FV8VSMFQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T12:08:23.610878"
+  },
+  {
+    "seller": "MANGO FOOTWEAR",
+    "field": "Website",
+    "query": "MANGO FOOTWEAR official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shop.mango.com/in/en?msockid=29910bf7bd9865e925241c3fbcb264c2",
+      "https://shop.mango.com/in/en/h/women?msockid=29910bf7bd9865e925241c3fbcb264c2"
+    ],
+    "timestamp": "2026-09-02T12:08:25.726484",
+    "status": "results_found"
+  },
+  {
+    "seller": "MANGO FOOTWEAR",
+    "field": "Legal Entity Name",
+    "query": "MANGO FOOTWEAR company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/mango-fashion-india-private-limited/__OJW4LZ9MDefh8wzWRWXbp1i6SYqByvW-pMMRHUiqvbk#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18201DL2023FTC409911%20and%20its%20current%20status%20is%20Active.",
+      "https://www.legalfidelity.com/private-limited-company-registration/mango",
+      "https://www.knowyourgst.com/gst-number-search/mango-footwear-07BQIPG6093G1ZO/",
+      "https://startupstudio.mango.com/en/registration"
+    ],
+    "timestamp": "2026-09-02T12:08:32.969553",
+    "status": "results_found"
+  },
+  {
+    "business": "MANGO FOOTWEAR",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/mango-fashion-india-private-limited/__OJW4LZ9MDefh8wzWRWXbp1i6SYqByvW-pMMRHUiqvbk#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18201DL2023FTC409911%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T12:08:34.588256"
+  },
+  {
+    "business": "MANGO FOOTWEAR",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/mango-fashion-india-private-limited/__OJW4LZ9MDefh8wzWRWXbp1i6SYqByvW-pMMRHUiqvbk#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18201DL2023FTC409911%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T12:08:34.588272"
+  },
+  {
+    "business": "MANGO FOOTWEAR",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/mango-fashion-india-private-limited/__OJW4LZ9MDefh8wzWRWXbp1i6SYqByvW-pMMRHUiqvbk#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18201DL2023FTC409911%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T12:08:34.588277"
+  },
+  {
+    "business": "MANGO FOOTWEAR",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/mango-fashion-india-private-limited/__OJW4LZ9MDefh8wzWRWXbp1i6SYqByvW-pMMRHUiqvbk#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U18201DL2023FTC409911%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T12:08:34.588280"
+  },
+  {
+    "business": "MANGO FOOTWEAR",
+    "field": "Phone Number",
+    "value": "+918368353855",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalfidelity.com/private-limited-company-registration/mango",
+    "timestamp": "2026-09-02T12:08:36.472559"
+  },
+  {
+    "business": "MANGO FOOTWEAR",
+    "field": "Email Address",
+    "value": "contact@legalfidelity.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalfidelity.com/private-limited-company-registration/mango",
+    "timestamp": "2026-09-02T12:08:36.473717"
+  },
+  {
+    "seller": "MANGO FOOTWEAR",
+    "field": "PAN",
+    "query": "MANGO FOOTWEAR PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-details-by-number-a-complete-guide",
+      "https://blog.idserve.in/index.php/how-to-find-details-using-a-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T12:09:40.476593",
+    "status": "results_found"
+  },
+  {
+    "seller": "MANGO FOOTWEAR",
+    "field": "PAN",
+    "query": "MANGO FOOTWEAR PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/mango-footwear-07BQIPG6093G1ZO/#:~:text=GST%20number%20of%20Mango%20Footwear%20is%2007BQIPG6093G1ZO.%20This,a%20Proprietorship.%2007BQIPG6093G1ZO%20is%20registered%20in%20Delhi%20state.",
+      "https://www.knowyourgst.com/gst-number-search/mango-footwear-07BQIPG6093G1ZO/",
+      "https://gst.jamku.app/gstin/07BQIPG6093G1ZO",
+      "https://www.falconebiz.com/company/MANGO-FASHION-INDIA-PRIVATE-LIMITED-U18201DL2023FTC409911"
+    ],
+    "timestamp": "2026-09-02T12:09:46.469774",
+    "status": "results_found"
+  }
+]

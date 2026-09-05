@@ -1,0 +1,61 @@
+{
+  "category": "Boomeranghttps://Www.Amazon.In/S?K=Bowling",
+  "records_before_save": 9,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Evergreen Ent",
+      "database_id": 513,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912624202613",
+      "email": "info@evergreenent.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.evergreenent.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 514,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "JAY_ENTERPRISE1",
+      "database_id": 515,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Morya ji ki dukan",
+      "database_id": 516,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912533544552",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://majhamorya.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

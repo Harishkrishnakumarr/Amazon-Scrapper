@@ -1,0 +1,810 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0BSN8B3K9&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T10:48:28.779584"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+      "https://us.etrade.com/e/t/user/login?msockid=35d2c0e1d45e66a23de4d722d52e67ce"
+    ],
+    "timestamp": "2026-08-28T10:48:30.911046",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+    "timestamp": "2026-08-28T10:49:01.887469"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+      "https://us.etrade.com/l/welcome/new-account?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/home?msockid=35d2c0e1d45e66a23de4d722d52e67ce"
+    ],
+    "timestamp": "2026-08-28T10:49:09.912076",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/what-we-offer/our-accounts/brokerage-account?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+      "https://us.etrade.com/forms-applications?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+      "https://registerease.in/services/private-limited-company-registration",
+      "https://www.startupwala.com/private-limited-company-registration.html"
+    ],
+    "timestamp": "2026-08-28T10:49:16.923839",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+919241728118",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/services/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:49:23.396277"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "info@registerease.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/services/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:49:23.396356"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Billing Address",
+    "value": "dlf tower, 10th road, dlf cyber city, phase 2, sector 24, gurugram, haryana 122002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/services/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:49:23.403162"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "City",
+    "value": "gurugram",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/services/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:49:23.403176"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/services/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:49:23.403179"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Pincode",
+    "value": "122002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/services/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:49:23.403183"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://online.bobworldetrade.com/",
+      "https://us.etrade.com/contact-us?msockid=35d2c0e1d45e66a23de4d722d52e67ce"
+    ],
+    "timestamp": "2026-08-28T10:49:25.447142",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/frequently-asked-questions/account-info?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+      "https://us.etrade.com/contact-us?msockid=35d2c0e1d45e66a23de4d722d52e67ce",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html",
+      "https://online.bobworldetrade.com/"
+    ],
+    "timestamp": "2026-08-28T10:49:29.250152",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://taxguru.in/goods-and-service-tax/online-gst-registration-e-commerce-businesses-guide.html",
+      "https://www.indiafilings.com/learn/gst-registration-for-e-commerce-business",
+      "https://etrade.gov.et/"
+    ],
+    "timestamp": "2026-08-28T10:49:35.791339",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Owner Name",
+    "value": "the pan card",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/learn/gst-registration-for-e-commerce-business",
+    "timestamp": "2026-08-28T10:49:40.256602"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://gst.jamku.app/gstin/27AADCV4254H1Z8",
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-33AADCV4254H1ZF/",
+      "https://piceapp.com/gst-number-search/etrade-marketing-private-limited-27aadcv4254h1z8/"
+    ],
+    "timestamp": "2026-08-28T10:49:47.972460",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "GST Number",
+    "value": "27AADCV4254H1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-28T10:49:48.475545"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "PAN Number",
+    "value": "AADCV4254H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-28T10:49:48.475577"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0GL88VJDT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T10:49:49.641814"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rk.world/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-08-28T10:49:51.338877",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://rk.world/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://rk.world/",
+    "timestamp": "2026-08-28T10:49:54.597239"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@rk.world",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://rk.world/",
+    "timestamp": "2026-08-28T10:49:55.820185"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Owner Name",
+    "value": "Mahendra Chordia",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://rk.world/about",
+    "timestamp": "2026-08-28T10:49:58.110775"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.companydetails.in/company/rk-worldinfocom-private-limited",
+      "https://www.indiafilings.com/search/rk-worldinfocom-private-limited-cin-U32204KA2008PTC046634",
+      "https://www.instafinancials.com/company/rk-worldinfocom-private-limited-U32204KA2008PTC046634/index.html"
+    ],
+    "timestamp": "2026-08-28T10:50:03.876433",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "GST Number",
+    "value": "37AAECR0564M1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-28T10:50:04.720769"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AAECR0564M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-28T10:50:04.720793"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-28T10:50:04.725119"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-28T10:50:04.725143"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-28T10:50:04.725153"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-28T10:50:04.725161"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Phone",
+    "query": "RK World Infocom Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YN12D922F0EAA4533B&market=en-IN&src=SERPIC",
+      "https://rk.world/contact-us/",
+      "https://www.companydetails.in/company/rk-worldinfocom-private-limited/contact",
+      "https://www.justdial.com/Bangalore/Rk-World-Infocom-Pvt-Ltd-Koramangala/080PXX80-XX80-220511021612-L1C6_BZDET"
+    ],
+    "timestamp": "2026-08-28T10:51:08.901370",
+    "status": "results_found"
+  },
+  {
+    "business": "Autodrome",
+    "field": "Business Name",
+    "value": "Autodrome",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1EP2CH1LBZT3J&asin=B00LH5BK9M&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T10:52:13.612535"
+  },
+  {
+    "seller": "Autodrome",
+    "field": "Website",
+    "query": "Autodrome official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://auto-drome.in/",
+      "https://auto-drome.in/cars/accessories.html"
+    ],
+    "timestamp": "2026-08-28T10:52:15.089890",
+    "status": "results_found"
+  },
+  {
+    "seller": "Autodrome",
+    "field": "Legal Entity Name",
+    "query": "Autodrome company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dubaiautodrome.ae/",
+      "https://www.registerkaro.in/company-registration",
+      "https://www.dnb.com/business-directory/company-profiles.autodrome.931567ea73ddf8f5ede8ff9c417ffe01.html",
+      "http://www.autodrome.lk/downloads/dealer_registration_form.pdf"
+    ],
+    "timestamp": "2026-08-28T10:52:27.489723",
+    "status": "results_found"
+  },
+  {
+    "business": "Autodrome",
+    "field": "Email Address",
+    "value": "info@dubaiautodrome.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://dubaiautodrome.ae/",
+    "timestamp": "2026-08-28T10:52:32.329803"
+  },
+  {
+    "business": "Autodrome",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-08-28T10:52:33.927678"
+  },
+  {
+    "business": "Autodrome",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-08-28T10:52:33.961179"
+  },
+  {
+    "seller": "Autodrome",
+    "field": "Legal Entity Name",
+    "query": "Autodrome Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-08-28T10:52:38.007610",
+    "status": "results_found"
+  },
+  {
+    "seller": "Autodrome",
+    "field": "PAN",
+    "query": "Autodrome PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://gentools.io/pan-card-generator",
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-28T10:52:42.840800",
+    "status": "results_found"
+  },
+  {
+    "seller": "Autodrome",
+    "field": "PAN",
+    "query": "Autodrome PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://auto-drome.in/",
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html",
+      "https://projects.instafinancials.com/cin-finder/cin-finder-by-name.aspx"
+    ],
+    "timestamp": "2026-08-28T10:52:48.757585",
+    "status": "results_found"
+  },
+  {
+    "business": "Autodrome",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T10:52:49.829975"
+  },
+  {
+    "business": "Autodrome",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T10:52:49.830004"
+  },
+  {
+    "seller": "Autodrome",
+    "field": "Owner",
+    "query": "Autodrome director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rocketreach.co/autodrome-india-management_b7885a43c249bb06",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.irec.asia/bengaluru/narain.php",
+      "https://www.palmersport.com/about-palmersport"
+    ],
+    "timestamp": "2026-08-28T10:52:51.669686",
+    "status": "results_found"
+  },
+  {
+    "seller": "Autodrome",
+    "field": "Owner",
+    "query": "Autodrome founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.zoominfo.com/c/autodrome/476491921",
+      "https://tracxn.com/d/companies/autodrome/__I7AJkTV_JIRBCr7DwXg2SZ8qOayIu865nMRK8Kb_dVY",
+      "https://dubaiautodrome.ae/about-us/"
+    ],
+    "timestamp": "2026-08-28T10:53:02.739595",
+    "status": "results_found"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Business Name",
+    "value": "JSAUX IN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2UNEPI5W13YX9&asin=B0F6NJ4TFS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T10:53:05.741522"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Website",
+    "query": "JSAUX IN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://jsauxhq.shop/",
+      "https://jsauxshop.shop/"
+    ],
+    "timestamp": "2026-08-28T10:53:07.358476",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Legal Entity Name",
+    "query": "JSAUX IN company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/trademark-search/jsaux-5150820",
+      "https://trademarks.justia.com/872/98/jsaux-87298068.html",
+      "https://www.inspex.in/",
+      "https://www.trademarkelite.com/europe/trademark/trademark-detail/019197385/JSAUX-GAMING"
+    ],
+    "timestamp": "2026-08-28T10:53:13.877192",
+    "status": "results_found"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/trademark-search/jsaux-5150820",
+    "timestamp": "2026-08-28T10:53:18.304004"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-28T10:53:19.710048"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Legal Entity Name",
+    "query": "JSAUX IN Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://taxguru.in/company-law/private-limited-company-registration-company-law-compliance-india.html"
+    ],
+    "timestamp": "2026-08-28T10:53:22.377363",
+    "status": "results_found"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Billing Address",
+    "value": "the company must have a registered office (commercial, residential, or virtual office) for receiving official correspondence. address proof and the pr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:53:24.754542"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "City",
+    "value": "residential",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-08-28T10:53:24.754558"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "PAN",
+    "query": "JSAUX IN PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://gentools.io/pan-card-generator"
+    ],
+    "timestamp": "2026-08-28T10:53:28.993917",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "PAN",
+    "query": "JSAUX IN PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gentools.io/pan-card-generator",
+      "https://jsonlineservices.in/portallogin/login",
+      "https://www.thecurrentindia.com/govt/pan-number-meaning/",
+      "https://jsonlineservices.in/"
+    ],
+    "timestamp": "2026-08-28T10:53:32.563358",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "GST",
+    "query": "JSAUX IN GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/decoding-the-gst-registration-number",
+      "https://gstverify.co.in/search/",
+      "https://smartgst.in/tools/gst-registration-status"
+    ],
+    "timestamp": "2026-08-28T10:53:39.959218",
+    "status": "results_found"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "GST Number",
+    "value": "27AAAPA1234A1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/learn/decoding-the-gst-registration-number",
+    "timestamp": "2026-08-28T10:53:41.007256"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "PAN Number",
+    "value": "AAAPA1234A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/learn/decoding-the-gst-registration-number",
+    "timestamp": "2026-08-28T10:53:41.007275"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Owner",
+    "query": "JSAUX IN director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.datanyze.com/companies/jsaux/465081047",
+      "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg",
+      "https://parsers.vc/startup/jsaux.com/",
+      "https://www.zoominfo.com/c/jsaux/465081047"
+    ],
+    "timestamp": "2026-08-28T10:53:42.792577",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Owner",
+    "query": "JSAUX IN founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/b/jsaux/d264e411f5094a7ab",
+      "https://en.everybodywiki.com/Jsaux",
+      "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg",
+      "https://parsers.vc/startup/jsaux.com/"
+    ],
+    "timestamp": "2026-08-28T10:53:48.403459",
+    "status": "results_found"
+  },
+  {
+    "business": "DEEP OIL CORPORATION",
+    "field": "Business Name",
+    "value": "DEEP OIL CORPORATION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AIHIK45T25DFE&asin=B0FBMDSVMK&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T10:53:52.932298"
+  },
+  {
+    "seller": "DEEP OIL CORPORATION",
+    "field": "Website",
+    "query": "DEEP OIL CORPORATION official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.maxxronoils.com/",
+      "https://www.maxxronoils.com/contact-us.html"
+    ],
+    "timestamp": "2026-08-28T10:53:54.525951",
+    "status": "results_found"
+  },
+  {
+    "business": "DEEP OIL CORPORATION",
+    "field": "Website URL",
+    "value": "https://www.maxxronoils.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.maxxronoils.com/",
+    "timestamp": "2026-08-28T10:53:57.140465"
+  },
+  {
+    "business": "DEEP OIL CORPORATION",
+    "field": "Phone Number",
+    "value": "+918045814817",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.maxxronoils.com/",
+    "timestamp": "2026-08-28T10:53:57.805755"
+  },
+  {
+    "seller": "DEEP OIL CORPORATION",
+    "field": "Legal Entity Name",
+    "query": "DEEP OIL CORPORATION company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.deep_oil_corporation.ead4625436d1aaeb97364254c8221d4f.html",
+      "https://www.tradeindia.com/deep-oil-corporation-35354362/",
+      "https://www.inspex.in/",
+      "https://opencorporates.com/companies/search"
+    ],
+    "timestamp": "2026-08-28T10:54:13.811459",
+    "status": "results_found"
+  },
+  {
+    "business": "DEEP OIL CORPORATION",
+    "field": "GST Number",
+    "value": "07AARFD4190P1ZO",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tradeindia.com/deep-oil-corporation-35354362/",
+    "timestamp": "2026-08-28T10:54:18.562338"
+  },
+  {
+    "business": "DEEP OIL CORPORATION",
+    "field": "PAN Number",
+    "value": "AARFD4190P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tradeindia.com/deep-oil-corporation-35354362/",
+    "timestamp": "2026-08-28T10:54:18.562465"
+  },
+  {
+    "business": "DEEP OIL CORPORATION",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-28T10:54:19.438161"
+  },
+  {
+    "seller": "DEEP OIL CORPORATION",
+    "field": "Legal Entity Name",
+    "query": "DEEP OIL CORPORATION Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://zauba.company/",
+      "https://www.companydetails.in/"
+    ],
+    "timestamp": "2026-08-28T10:54:22.055226",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEP OIL CORPORATION",
+    "field": "Owner",
+    "query": "DEEP OIL CORPORATION director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.deep_oil_corporation.ead4625436d1aaeb97364254c8221d4f.html",
+      "https://www.stocklens.co.in/ceo/paras-shantilal-savla",
+      "https://tracxn.com/d/companies/deep-oil/__KiYaj8GB6m3a9WcklpG7EAQMJWqzJJhAA4PkjG9iLwM",
+      "https://www.crunchbase.com/person/rupesh-savla"
+    ],
+    "timestamp": "2026-08-28T10:55:25.492711",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEP OIL CORPORATION",
+    "field": "Address",
+    "query": "DEEP OIL CORPORATION registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.maxxronoils.com/contact-us.html",
+      "https://www.dnb.com/business-directory/company-profiles.deep_oil_corporation.ead4625436d1aaeb97364254c8221d4f.html",
+      "https://www.tradeindia.com/deep-oil-corporation-35354362/",
+      "https://www.maxxronlubricants.com/profile.html"
+    ],
+    "timestamp": "2026-08-28T10:55:26.897138",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEP OIL CORPORATION",
+    "field": "Address",
+    "query": "DEEP OIL CORPORATION registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.deep_oil_corporation.ead4625436d1aaeb97364254c8221d4f.html",
+      "https://www.maxxronoils.com/contact-us.html",
+      "https://www.tradeindia.com/deep-oil-corporation-35354362/",
+      "https://www.justdial.com/Delhi/Deep-Oil-Corporation/011PXX11-XX11-250814115631-Y7D4_BZDET"
+    ],
+    "timestamp": "2026-08-28T10:55:34.086406",
+    "status": "results_found"
+  }
+]

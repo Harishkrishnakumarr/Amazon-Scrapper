@@ -1,0 +1,74 @@
+{
+  "category": "Bodysuits",
+  "records_before_save": 10,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ExcitingDeals",
+      "database_id": 1631,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "services@cna.com.tw",
+      "gst": "29CZJPA8997E1ZR",
+      "pan": "CZJPA8997E",
+      "website": "https://www.dealsofamerica.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RAAS.PVT",
+      "database_id": 1479,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918239926000",
+      "email": "stay@raashotels.com",
+      "gst": "06AAFCR3556G1ZD",
+      "pan": "AAFCR3556G",
+      "website": "https://www.sellerratings.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ROUXOUS INDUSTRIES",
+      "database_id": 1632,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "contact@ilovepdf.org",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Bahucharaji Creation",
+      "database_id": 1554,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "support@swyftlegal.com",
+      "gst": "27AAZFB0275D1ZB",
+      "pan": "AAZFB0275D",
+      "website": "http://www.bahucharajitemple.org/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ADVAITH",
+      "database_id": 1480,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918792401404",
+      "email": "contact@jaagrukbharat.com",
+      "gst": "29AADCA2399A1ZT",
+      "pan": "AADCA2399A",
+      "website": "https://www.aia.ac.in/",
+      "status": "Verified"
+    }
+  ]
+}

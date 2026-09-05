@@ -1,0 +1,612 @@
+[
+  {
+    "business": "Excel India Online",
+    "field": "Business Name",
+    "value": "Excel India Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3J9LOQ9AST9EC&asin=B0H6V9ZQ6H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:12:14.709611"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Website",
+    "query": "Excel India Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/"
+    ],
+    "timestamp": "2026-08-15T12:12:16.923767",
+    "status": "results_found"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Website URL",
+    "value": "https://excelindiaonline.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://excelindiaonline.in/",
+    "timestamp": "2026-08-15T12:12:23.588073"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Phone Number",
+    "value": "+913128860123",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://excelindiaonline.in/",
+    "timestamp": "2026-08-15T12:12:25.435274"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Email Address",
+    "value": "excelindiaweb123@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://excelindiaonline.in/",
+    "timestamp": "2026-08-15T12:12:25.435951"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Legal Entity Name",
+    "query": "Excel India Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel",
+      "https://www.w3schools.com/excel/index.php"
+    ],
+    "timestamp": "2026-08-15T12:12:36.052757",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Legal Entity Name",
+    "query": "Excel India Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel",
+      "https://www.w3schools.com/excel/index.php"
+    ],
+    "timestamp": "2026-08-15T12:12:50.380800",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "PAN",
+    "query": "Excel India Online PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel",
+      "https://www.w3schools.com/excel/index.php"
+    ],
+    "timestamp": "2026-08-15T12:12:57.240709",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "PAN",
+    "query": "Excel India Online PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/ePANCardHome",
+      "https://www.pan.utiitsl.com/PAN/csf.html",
+      "https://www.pan.utiitsl.com/PAN/reprint.html",
+      "https://www.pan.utiitsl.com/PAN_ONLINE/addresschangeHome"
+    ],
+    "timestamp": "2026-08-15T12:13:09.740787",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "GST",
+    "query": "Excel India Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel",
+      "https://www.w3schools.com/excel/index.php"
+    ],
+    "timestamp": "2026-08-15T12:13:20.127372",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "GST",
+    "query": "Excel India Online GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://www.gstnex.in/",
+      "https://gstextract.com/",
+      "https://nikash.in/bulk-gstin-validator-tool/"
+    ],
+    "timestamp": "2026-08-15T12:13:35.918660",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Owner",
+    "query": "Excel India Online director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel",
+      "https://www.w3schools.com/excel/index.php"
+    ],
+    "timestamp": "2026-08-15T12:13:43.005403",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Owner",
+    "query": "Excel India Online managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel",
+      "https://www.w3schools.com/excel/index.php"
+    ],
+    "timestamp": "2026-08-15T12:13:54.690800",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Owner",
+    "query": "Excel India Online founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel",
+      "https://www.w3schools.com/excel/index.php"
+    ],
+    "timestamp": "2026-08-15T12:14:02.570441",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Address",
+    "query": "Excel India Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-gb/",
+      "https://excel.cloud.microsoft/create/en/spreadsheet-maker/",
+      "https://microsoft-excel.en.softonic.com/",
+      "https://gizmodo.com/download/microsoft-excel"
+    ],
+    "timestamp": "2026-08-15T12:14:04.101435",
+    "status": "results_found"
+  },
+  {
+    "business": "The Peppy Tend",
+    "field": "Business Name",
+    "value": "The Peppy Tend",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ZGOUG8FP276B&asin=B0H3HD2N71&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T12:14:20.035228"
+  },
+  {
+    "seller": "The Peppy Tend",
+    "field": "Website",
+    "query": "The Peppy Tend official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.peppyforall.com/collections/all",
+      "https://thepeppystore.in/"
+    ],
+    "timestamp": "2026-08-15T12:14:21.806502",
+    "status": "results_found"
+  },
+  {
+    "business": "The Peppy Tend",
+    "field": "Website URL",
+    "value": "https://www.thepeppytend.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.thepeppytend.com/",
+    "timestamp": "2026-08-15T12:14:35.551650"
+  },
+  {
+    "business": "The Peppy Tend",
+    "field": "Phone Number",
+    "value": "+910123452025",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.thepeppytend.com/",
+    "timestamp": "2026-08-15T12:14:40.834853"
+  },
+  {
+    "business": "The Peppy Tend",
+    "field": "Email Address",
+    "value": "thepeppytend@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.thepeppytend.com/contact",
+    "timestamp": "2026-08-15T12:14:48.654289"
+  },
+  {
+    "seller": "The Peppy Tend",
+    "field": "Legal Entity Name",
+    "query": "The Peppy Tend company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.peppyforall.com/collections/all",
+      "https://thepeppystore.in/",
+      "https://peppy.health/",
+      "https://www.peppyforall.com/pages/our-story",
+      "https://thepeppystore.in/collections/official-hot-wheels-mattel-toys"
+    ],
+    "timestamp": "2026-08-15T12:14:57.107885",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Peppy Tend",
+    "field": "PAN",
+    "query": "The Peppy Tend PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.peppyforall.com/collections/all",
+      "https://thepeppystore.in/",
+      "https://peppy.health/",
+      "https://www.peppyforall.com/pages/our-story",
+      "https://thepeppystore.in/collections/official-hot-wheels-mattel-toys"
+    ],
+    "timestamp": "2026-08-15T12:15:30.365708",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Peppy Tend",
+    "field": "GST",
+    "query": "The Peppy Tend GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.peppyforall.com/collections/all",
+      "https://thepeppystore.in/",
+      "https://peppy.health/",
+      "https://www.peppyforall.com/pages/our-story",
+      "https://thepeppystore.in/collections/official-hot-wheels-mattel-toys"
+    ],
+    "timestamp": "2026-08-15T12:15:44.280566",
+    "status": "results_found"
+  },
+  {
+    "seller": "The Peppy Tend",
+    "field": "Owner",
+    "query": "The Peppy Tend director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.peppyforall.com/collections/all",
+      "https://thepeppystore.in/",
+      "https://peppy.health/",
+      "https://www.peppyforall.com/pages/our-story",
+      "https://thepeppystore.in/collections/official-hot-wheels-mattel-toys"
+    ],
+    "timestamp": "2026-08-15T12:16:07.390972",
+    "status": "results_found"
+  },
+  {
+    "business": "USHAS INC.",
+    "field": "Business Name",
+    "value": "USHAS INC.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AG1LD35EV3DKS&asin=B0H9F88QZF&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T12:16:21.320893"
+  },
+  {
+    "seller": "USHAS INC.",
+    "field": "Website",
+    "query": "USHAS INC. official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://kakaku.com/item/K0000055429/?msockid=13d365cd7886658426b6727b79e5644f"
+    ],
+    "timestamp": "2026-08-15T12:16:22.889544",
+    "status": "results_found"
+  },
+  {
+    "seller": "USHAS INC.",
+    "field": "Legal Entity Name",
+    "query": "USHAS INC. company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=149586&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=43b73020baa81697dec15aa0b1f5fe31&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://entitysearch.us/",
+      "https://www.thecompanycheck.com/org/ushas-inc/1418853773",
+      "https://www.bizapedia.com/ca/ushas-inc.html",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-15T12:16:53.772576",
+    "status": "results_found"
+  },
+  {
+    "seller": "USHAS INC.",
+    "field": "PAN",
+    "query": "USHAS INC. PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.incometaxindia.gov.in/pan",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-15T12:17:12.150161",
+    "status": "results_found"
+  },
+  {
+    "seller": "USHAS INC.",
+    "field": "GST",
+    "query": "USHAS INC. GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-15T12:17:51.341853",
+    "status": "no_results"
+  },
+  {
+    "seller": "USHAS INC.",
+    "field": "GST",
+    "query": "USHAS INC. GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/ushas-inc-06ayapg3151g1zy/",
+      "https://piceapp.com/gst-number-search/ushas-inc-27ayapg3151g1zu/",
+      "https://www.knowyourgst.com/gst-number-search/ushas-inc-27AYAPG3151G1ZU/",
+      "https://cleartax.in/gst-number-search/",
+      "https://gst.jamku.app/gstin/32ALUPJ4814C1ZA"
+    ],
+    "timestamp": "2026-08-15T12:18:08.287186",
+    "status": "results_found"
+  },
+  {
+    "business": "USHAS INC.",
+    "field": "GST Number",
+    "value": "06AYAPG3151G1ZY",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/ushas-inc-06ayapg3151g1zy/",
+    "timestamp": "2026-08-15T12:18:10.822322"
+  },
+  {
+    "seller": "USHAS INC.",
+    "field": "Owner",
+    "query": "USHAS INC. director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://rocketreach.co/babywish-management_b68068a3c9edf4a1",
+      "https://piceapp.com/gst-number-search/ushas-inc-06ayapg3151g1zy/"
+    ],
+    "timestamp": "2026-08-15T12:18:13.953720",
+    "status": "results_found"
+  },
+  {
+    "seller": "USHAS INC.",
+    "field": "Owner",
+    "query": "USHAS INC. managing director",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://code.visualstudio.com/download",
+      "https://code.visualstudio.com/"
+    ],
+    "timestamp": "2026-08-15T12:18:18.370123",
+    "status": "results_found"
+  },
+  {
+    "business": "Oxyliv Products Pvt Ltd",
+    "field": "Business Name",
+    "value": "Oxyliv Products Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A162TCABYNF0JO&asin=B0H2DJ3W2M&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-15T12:18:33.889315"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "Website",
+    "query": "Oxyliv Products Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.britannica.com/biography/Elvis-Presley",
+      "https://www.elvisthemusic.com/"
+    ],
+    "timestamp": "2026-08-15T12:18:35.306598",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "Oxyliv Products Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/OXYLIV-PRODUCTS-PRIVATE-LIMITED-U52609KA2017PTC105056",
+      "https://www.companydetails.in/company/oxyliv-products-private-limited",
+      "https://www.instafinancials.com/company/oxyliv-products-private-limited-U52609KA2017PTC105056",
+      "https://www.indiafilings.com/search/oxyliv-products-private-limited-cin-U52609KA2017PTC105056",
+      "https://tracxn.com/d/legal-entities/india/oxyliv-products-private-limited/__myH1z4bQ-9rZJny2Kmx3mNhaDhvonDEoeex1uCfYoyk"
+    ],
+    "timestamp": "2026-08-15T12:18:53.510160",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "Oxyliv Products Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044",
+      "https://www.zhihu.com/question/382486986"
+    ],
+    "timestamp": "2026-08-15T12:19:01.285977",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "PAN",
+    "query": "Oxyliv Products Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/en/answer/1266904185",
+      "https://www.zhihu.com/en/answer/84618733",
+      "https://www.jeuxvideo.com/forums/42-51-76984889-1-0-1-0-fin-de-partie-pour-akinator-chatgpt-le-termine-j-ai-fait-le-test.htm",
+      "https://www.jeuxvideo.com/forums/42-51-51791371-1-0-1-0-defi-akinator-recevoir-le-black-award.htm",
+      "https://forums.redflagdeals.com/rogers-automated-call-about-disabling-my-internet-due-virus-583857/"
+    ],
+    "timestamp": "2026-08-15T12:19:14.291086",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "PAN",
+    "query": "Oxyliv Products Pvt Ltd PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.oxylivproducts.com/",
+      "https://www.oxylivproducts.com/about-us/",
+      "https://tracxn.com/d/legal-entities/india/oxyliv-products-private-limited/__myH1z4bQ-9rZJny2Kmx3mNhaDhvonDEoeex1uCfYoyk",
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://www.dnb.com/business-directory/company-profiles.oxyliv_products_private_limited.c3225b4b86d42adda00993d9d58aa04c.html"
+    ],
+    "timestamp": "2026-08-15T12:19:25.150697",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "GST",
+    "query": "Oxyliv Products Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://classic-mahjong.com/",
+      "https://themahjong.com/mahjong/classic-free-mahjong",
+      "https://solitaired.com/mahjong",
+      "https://www.silvergames.com/en/mahjong-solitaire-classic",
+      "https://solitaired.com/mahjong-solitaire"
+    ],
+    "timestamp": "2026-08-15T12:19:33.900199",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "GST",
+    "query": "Oxyliv Products Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.forbes.com/advisor/business/free-domain-name/",
+      "https://www.wix.com/blog/how-to-get-a-free-domain-name",
+      "https://www.hostinger.com/tutorials/how-to-get-a-free-domain-name/",
+      "https://www.networksolutions.com/blog/free-domain-name/",
+      "https://www.ovhcloud.com/en-in/domains/free-domain-name/"
+    ],
+    "timestamp": "2026-08-15T12:19:45.989572",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "Owner",
+    "query": "Oxyliv Products Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rphang.net/whats-new/",
+      "https://www.thiendia.to/threads/tim-some-cho-ghe-tai-thai-binh.22441/"
+    ],
+    "timestamp": "2026-08-15T12:19:55.201808",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "Owner",
+    "query": "Oxyliv Products Pvt Ltd managing director",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.falconebiz.com/company/OXYLIV-PRODUCTS-PRIVATE-LIMITED-U52609KA2017PTC105056",
+      "https://www.oxylivproducts.com/about-us/",
+      "https://www.easyleadz.com/company/oxyliv-products-private-limited-U52609KA2017PTC105056/contacts"
+    ],
+    "timestamp": "2026-08-15T12:20:03.050899",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "Owner",
+    "query": "Oxyliv Products Pvt Ltd founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ynos.in/startup/oxyliv-products-pvt-ltd-343730",
+      "https://www.oxylivproducts.com/about-us/",
+      "https://www.companydetails.in/company/oxyliv-products-private-limited",
+      "https://tracxn.com/d/legal-entities/india/oxyliv-products-private-limited/__myH1z4bQ-9rZJny2Kmx3mNhaDhvonDEoeex1uCfYoyk"
+    ],
+    "timestamp": "2026-08-15T12:20:08.608836",
+    "status": "results_found"
+  },
+  {
+    "seller": "Oxyliv Products Pvt Ltd",
+    "field": "Address",
+    "query": "Oxyliv Products Pvt Ltd registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.oxylivproducts.com/contact-us/",
+      "https://www.falconebiz.com/company/OXYLIV-PRODUCTS-PRIVATE-LIMITED-U52609KA2017PTC105056",
+      "https://tracxn.com/d/legal-entities/india/oxyliv-products-private-limited/__myH1z4bQ-9rZJny2Kmx3mNhaDhvonDEoeex1uCfYoyk",
+      "https://www.indiafilings.com/search/oxyliv-products-private-limited-cin-U52609KA2017PTC105056",
+      "https://www.instafinancials.com/company/oxyliv-products-private-limited-U52609KA2017PTC105056"
+    ],
+    "timestamp": "2026-08-15T12:21:29.788622",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,825 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0DN11V4YC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:50:37.169573"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c"
+    ],
+    "timestamp": "2026-08-27T05:50:38.567034",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+    "timestamp": "2026-08-27T05:51:15.767537"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:51:22.104205",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-27T05:51:29.504621"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c"
+    ],
+    "timestamp": "2026-08-27T05:51:31.207185",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:51:34.165393",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:51:42.752438",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:51:50.186870",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://gstserver.com/gst/27AADCV4254H1Z8/",
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-33AADCV4254H1ZF/",
+      "https://piceapp.com/gst-number-search/etrade-marketing-private-limited-27aadcv4254h1z8/"
+    ],
+    "timestamp": "2026-08-27T05:52:03.203358",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "GST Number",
+    "value": "27AADCV4254H1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-27T05:52:03.621922"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "PAN Number",
+    "value": "AADCV4254H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-27T05:52:03.621931"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c"
+    ],
+    "timestamp": "2026-08-27T05:52:05.004501",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:52:07.233977",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:52:16.300027",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:52:23.754939",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Phone",
+    "query": "ETrade Online phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=1d83f59358426f340446e25159586e0c",
+      "https://us.etrade.com/e/t/user/login?msockid=1d83f59358426f340446e25159586e0c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T05:52:31.880120",
+    "status": "results_found"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Business Name",
+    "value": "NILKANTH ECOMMERCE HUB",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1A14WMCV3SA2Q&asin=B0H99L8QLL&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:52:37.672451"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "Website",
+    "query": "NILKANTH ECOMMERCE HUB official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://nilkanthdham.org/",
+      "https://www.tripadvisor.in/Attraction_Review-g16731241-d8744156-Reviews-Nilkanth_Dham_Swaminarayan_Temple-Poicha_Vadodara_District_Gujarat.html"
+    ],
+    "timestamp": "2026-08-27T05:52:38.902733",
+    "status": "results_found"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "Legal Entity Name",
+    "query": "NILKANTH ECOMMERCE HUB company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nilkanthdham.org/",
+      "https://www.tripadvisor.in/Attraction_Review-g16731241-d8744156-Reviews-Nilkanth_Dham_Swaminarayan_Temple-Poicha_Vadodara_District_Gujarat.html",
+      "https://www.neelkanth.co.in/",
+      "https://blog.yatradham.org/nilkanth-dham-poicha/"
+    ],
+    "timestamp": "2026-08-27T05:52:46.283880",
+    "status": "results_found"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Phone Number",
+    "value": "+919099621000",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nilkanthdham.org/",
+    "timestamp": "2026-08-27T05:52:48.644499"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Email Address",
+    "value": "pro@nilkanthdham.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nilkanthdham.org/",
+    "timestamp": "2026-08-27T05:52:48.645015"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Billing Address",
+    "value": "nilkanthdham po. poicha, ta. rajpipla district narmada, gujarat- 393145",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blog.yatradham.org/nilkanth-dham-poicha/",
+    "timestamp": "2026-08-27T05:52:56.928698"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "City",
+    "value": "nilkanthdham po. poicha",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blog.yatradham.org/nilkanth-dham-poicha/",
+    "timestamp": "2026-08-27T05:52:56.928723"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "State",
+    "value": "Gujarat",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blog.yatradham.org/nilkanth-dham-poicha/",
+    "timestamp": "2026-08-27T05:52:56.928728"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Pincode",
+    "value": "393145",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://blog.yatradham.org/nilkanth-dham-poicha/",
+    "timestamp": "2026-08-27T05:52:56.928733"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "Legal Entity Name",
+    "query": "NILKANTH ECOMMERCE HUB Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nilkanthdham.org/",
+      "https://www.tripadvisor.in/Attraction_Review-g16731241-d8744156-Reviews-Nilkanth_Dham_Swaminarayan_Temple-Poicha_Vadodara_District_Gujarat.html",
+      "https://www.neelkanth.co.in/",
+      "https://blog.yatradham.org/nilkanth-dham-poicha/"
+    ],
+    "timestamp": "2026-08-27T05:52:59.389046",
+    "status": "results_found"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "PAN",
+    "query": "NILKANTH ECOMMERCE HUB PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nilkanthdham.org/",
+      "https://www.tripadvisor.in/Attraction_Review-g16731241-d8744156-Reviews-Nilkanth_Dham_Swaminarayan_Temple-Poicha_Vadodara_District_Gujarat.html",
+      "https://www.neelkanth.co.in/",
+      "https://blog.yatradham.org/nilkanth-dham-poicha/"
+    ],
+    "timestamp": "2026-08-27T05:53:00.883495",
+    "status": "results_found"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "GST",
+    "query": "NILKANTH ECOMMERCE HUB GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20online&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=business%20registration%20online&target_name=kwd-84045335771843:loc-90&placement=&keyword_id=business%20registration%20online&msclkid=e73b693dbcfb171473f503b23f7282b2",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20online&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=business%20registration%20online&target_name=kwd-84045335771843:loc-90&placement=&keyword_id=business%20registration%20online&msclkid=da0d0d2b694e1484503767a4eac73de4",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20online&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=business%20registration%20online&target_name=kwd-84045335771843:loc-90&placement=&keyword_id=business%20registration%20online&msclkid=1dcc72c69bf1175fa14218491878c90f"
+    ],
+    "timestamp": "2026-08-27T05:53:40.121197",
+    "status": "results_found"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "Owner",
+    "query": "NILKANTH ECOMMERCE HUB director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nilkanthdham.org/",
+      "https://www.tripadvisor.in/Attraction_Review-g16731241-d8744156-Reviews-Nilkanth_Dham_Swaminarayan_Temple-Poicha_Vadodara_District_Gujarat.html",
+      "https://www.neelkanth.co.in/",
+      "https://blog.yatradham.org/nilkanth-dham-poicha/"
+    ],
+    "timestamp": "2026-08-27T05:53:42.523896",
+    "status": "results_found"
+  },
+  {
+    "business": "AKSHRESH HOMES",
+    "field": "Business Name",
+    "value": "AKSHRESH HOMES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3LTXQODB3XKV&asin=B0H6PK4RX7&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:53:57.964985"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "Website",
+    "query": "AKSHRESH HOMES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kirklandsshop.com/",
+      "https://kisskh.co/?s=kisskh+websitee"
+    ],
+    "timestamp": "2026-08-27T05:54:01.998303",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "Legal Entity Name",
+    "query": "AKSHRESH HOMES company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "http://duckgo.com/chrome_newtab",
+      "https://dd53jyxmgchu8.cloudfront.net/",
+      "https://gizmodo.com/download/duckduckgo"
+    ],
+    "timestamp": "2026-08-27T05:54:10.792951",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "Legal Entity Name",
+    "query": "AKSHRESH HOMES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD"
+    ],
+    "timestamp": "2026-08-27T05:54:16.769295",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "PAN",
+    "query": "AKSHRESH HOMES PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-27T05:54:20.207275",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "PAN",
+    "query": "AKSHRESH HOMES PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://map.ultra-zone.net/g/35.682515/139.766148/16"
+    ],
+    "timestamp": "2026-08-27T05:54:24.672054",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "GST",
+    "query": "AKSHRESH HOMES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://bbs.ruliweb.com/pc/board/300006/read/2234904",
+      "https://bbs.ruliweb.com/community/board/300143/read/54811682",
+      "https://dpg.danawa.com/news/view?boardSeq=62&listSeq=5675981"
+    ],
+    "timestamp": "2026-08-27T05:54:27.873335",
+    "status": "results_found"
+  },
+  {
+    "business": "AKSHRESH HOMES",
+    "field": "Phone Number",
+    "value": "+919200115383",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://bbs.ruliweb.com/pc/board/300006/read/2234904",
+    "timestamp": "2026-08-27T05:54:30.703070"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "GST",
+    "query": "AKSHRESH HOMES GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://mapfan.com/",
+      "https://www.its-mo.com/"
+    ],
+    "timestamp": "2026-08-27T05:55:02.855449",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "Owner",
+    "query": "AKSHRESH HOMES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pinyin.sogou.com/index.php",
+      "https://pinyin.sogou.com/skins/",
+      "https://pc.profile.pinyin.sogou.com/equipment/login.php?ra=NvzilBEwQO0oF3GnN8ToYa4vMDzlgE09RTgwQTlCOUM2QzEzRUFDMkNFODUO0O0O",
+      "http://dl.pinyin.sogou.com/wapdl/symbian/SogouInput_2.6.0_Symbian3_sweb.sisx"
+    ],
+    "timestamp": "2026-08-27T05:55:06.177578",
+    "status": "results_found"
+  },
+  {
+    "business": "AKSHRESH HOMES",
+    "field": "Email Address",
+    "value": "hci_bd@tencent.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://pinyin.sogou.com/index.php",
+    "timestamp": "2026-08-27T05:55:10.601840"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "Owner",
+    "query": "AKSHRESH HOMES founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.state.gov/press-releases/",
+      "https://www.reuters.com/",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2026/"
+    ],
+    "timestamp": "2026-08-27T05:55:17.714129",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "Address",
+    "query": "AKSHRESH HOMES registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/",
+      "https://find-and-update.company-information.service.gov.uk/?CompanyNumber=00444452",
+      "https://find-and-update.company-information.service.gov.uk/company-name-availability",
+      "https://find-and-update.company-information.service.gov.uk/help/other-filings"
+    ],
+    "timestamp": "2026-08-27T05:55:23.628913",
+    "status": "results_found"
+  },
+  {
+    "seller": "AKSHRESH HOMES",
+    "field": "Address",
+    "query": "AKSHRESH HOMES registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tikla.com.tr/heros-pizza-sisli-osmanbey.html",
+      "https://www.rahatza.com/osmanbey-deki-pizza-restoranlari-cesitlilik-ve-ulasilabilirlik-analizi",
+      "https://food.turkeyturism.com/tr/oz-anteplioglu-pide-lahmacun-durum-ve-pizza-salonu-90-212-479-00-15.html",
+      "https://tr.restaurantguru.com/Tatbak-Istanbul"
+    ],
+    "timestamp": "2026-08-27T05:55:27.133735",
+    "status": "results_found"
+  },
+  {
+    "business": "HK-Store",
+    "field": "Business Name",
+    "value": "HK-Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8S7XU55C2OEM&asin=B0FFZGJN8F&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T05:55:42.822668"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "Website",
+    "query": "HK-Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.heckler-koch.com/en/",
+      "https://www.hkvitals.com/"
+    ],
+    "timestamp": "2026-08-27T05:55:44.985043",
+    "status": "results_found"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "Legal Entity Name",
+    "query": "HK-Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.heckler-koch.com/en/",
+      "https://www.hkvitals.com/",
+      "https://www.discoverhongkong.com/eng/index.html",
+      "https://www.gov.hk/"
+    ],
+    "timestamp": "2026-08-27T05:55:57.448294",
+    "status": "results_found"
+  },
+  {
+    "business": "HK-Store",
+    "field": "Email Address",
+    "value": "hkinfoboard@heckler-koch-de.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.heckler-koch.com/en/",
+    "timestamp": "2026-08-27T05:55:59.306445"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "PAN",
+    "query": "HK-Store PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T05:56:16.603326",
+    "status": "no_results"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "PAN",
+    "query": "HK-Store PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/hk-store-opc-private-limited-09AAGCH6240N1Z6/",
+      "https://www.dondondonki.com/hk/",
+      "https://hk-usa.com/",
+      "https://www.gov.hk/tc/residents/taxes/etax/services/brn_enquiry.htm"
+    ],
+    "timestamp": "2026-08-27T05:56:25.484677",
+    "status": "results_found"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "GST",
+    "query": "HK-Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.heckler-koch.com/en/",
+      "https://www.hkvitals.com/",
+      "https://www.discoverhongkong.com/eng/index.html",
+      "https://www.gov.hk/"
+    ],
+    "timestamp": "2026-08-27T05:56:27.846330",
+    "status": "results_found"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "Owner",
+    "query": "HK-Store director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.abc.net.au/news/2026-03-25/hong-kong-police-arrest-bookstore-owner-and-staff/106494210",
+      "https://www.marketscreener.com/news/hong-kong-police-arrest-bookstore-owner-and-staff-for-selling-jimmy-lai-biography-broadcaster-repor-ce7e5ed2d88efe26",
+      "https://www.bworldonline.com/world/2026/03/25/738624/hong-kong-police-arrest-bookstore-owner-staff-for-selling-jimmy-lai-biography-tvb-says/"
+    ],
+    "timestamp": "2026-08-27T05:56:55.671219",
+    "status": "results_found"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "Address",
+    "query": "HK-Store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.heckler-koch.com/en/",
+      "https://www.hkvitals.com/",
+      "https://www.discoverhongkong.com/eng/index.html",
+      "https://www.gov.hk/"
+    ],
+    "timestamp": "2026-08-27T05:57:14.880615",
+    "status": "results_found"
+  },
+  {
+    "seller": "HK-Store",
+    "field": "Phone",
+    "query": "HK-Store phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://hk-usa.com/contact/",
+      "https://www.apple.com/hk/en/contact/",
+      "https://catalog.hkstore.com/catalog_en_us/contact-us",
+      "https://us.hkwebshop.com/hkstorefront/hk/en/quickOrder"
+    ],
+    "timestamp": "2026-08-27T05:57:44.540624",
+    "status": "results_found"
+  },
+  {
+    "business": "DAZZLIQ",
+    "field": "Business Name",
+    "value": "DAZZLIQ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A23K45F3JSCJWH&asin=B0D98C8936&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T05:57:45.604146"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Website",
+    "query": "DAZZLIQ official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://dazzledry.com/",
+      "https://dazzledry.com/collections/once-upon-a-daydream"
+    ],
+    "timestamp": "2026-08-27T05:57:55.265100",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Legal Entity Name",
+    "query": "DAZZLIQ company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://dazzlincompany.com/account/register",
+      "https://entitysearch.us/",
+      "https://registry-lookup.com/",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-27T05:58:14.206921",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "PAN",
+    "query": "DAZZLIQ PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-27T05:58:28.689826",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "PAN",
+    "query": "DAZZLIQ PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://taxguru.in/income-tax/searching-pan-number-details.html"
+    ],
+    "timestamp": "2026-08-27T05:58:36.898863",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "GST",
+    "query": "DAZZLIQ GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.solidworks.com/",
+      "https://forum.solidworks.com/thread/225501",
+      "https://forum.solidworks.com/thread/65958",
+      "https://forum.solidworks.com/thread/115129"
+    ],
+    "timestamp": "2026-08-27T05:58:39.084156",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Owner",
+    "query": "DAZZLIQ director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.saku-bangkok.net/entry/khaolak-hotels",
+      "https://note.com/sumikiki/n/nf77fedad10b5"
+    ],
+    "timestamp": "2026-08-27T05:58:57.887063",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Owner",
+    "query": "DAZZLIQ founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.techinasia.com/news/wix-cofounder-extiktok-execs-startup-raises-10m-seed",
+      "https://www.calcalistech.com/ctechnews/article/r130sqh9ex",
+      "https://www.forbes.com/profile/min-liang-tan/",
+      "https://www.eweek.com/news/ai-startup-dazzle-funding/"
+    ],
+    "timestamp": "2026-08-27T05:59:13.686256",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Address",
+    "query": "DAZZLIQ registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tnebltd.org/en/tneb/",
+      "https://www.tnebltd.org/en/tneb/disclaimer/",
+      "https://www.tnebltd.org/en/tneb/about-us/corporate-profile/",
+      "https://www.tnebltd.org/en/tneb/latestnews/"
+    ],
+    "timestamp": "2026-08-27T05:59:23.397233",
+    "status": "results_found"
+  },
+  {
+    "business": "DAZZLIQ",
+    "field": "Phone Number",
+    "value": "+919498794987",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tnebltd.org/en/tneb/",
+    "timestamp": "2026-08-27T05:59:25.200949"
+  },
+  {
+    "business": "DAZZLIQ",
+    "field": "Email Address",
+    "value": "safetymanual@tnebnet.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tnebltd.org/en/tneb/latestnews/",
+    "timestamp": "2026-08-27T05:59:26.665213"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Address",
+    "query": "DAZZLIQ registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://ios.chat.openai.com/cdn-cgi/trace"
+    ],
+    "timestamp": "2026-08-27T05:59:29.768032",
+    "status": "results_found"
+  }
+]

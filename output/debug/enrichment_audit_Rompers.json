@@ -1,0 +1,600 @@
+[
+  {
+    "business": "Excel India Online",
+    "field": "Business Name",
+    "value": "Excel India Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3J9LOQ9AST9EC&asin=B07ZFNM3P4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:58:32.237056"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Website",
+    "query": "Excel India Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://excel.cloud.microsoft/en-us/?wdOrigin=OFFICEWEBAPPHOME.SHELL",
+      "https://excelindiaonline.in/"
+    ],
+    "timestamp": "2026-09-02T20:58:35.497088",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Legal Entity Name",
+    "query": "Excel India Online company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:58:38.828144",
+    "status": "no_results"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Legal Entity Name",
+    "query": "Excel India Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration",
+      "https://www.legalwiz.in/private-limited-company-registration",
+      "https://www.startupwala.com/private-limited-company-registration.html",
+      "https://www.registerkaro.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-09-02T20:58:40.299849",
+    "status": "results_found"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Phone Number",
+    "value": "+918980685509",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalwiz.in/private-limited-company-registration",
+    "timestamp": "2026-09-02T20:58:43.557279"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Email Address",
+    "value": "support@legalwiz.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.legalwiz.in/private-limited-company-registration",
+    "timestamp": "2026-09-02T20:58:43.557689"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "Billing Address",
+    "value": "the company must have a registered office (commercial, residential, or virtual office) for receiving official correspondence. address proof and the pr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-02T20:58:52.137615"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "City",
+    "value": "residential",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-02T20:58:52.137629"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "PAN",
+    "query": "Excel India Online PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/download-epan-card",
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T20:58:53.601962",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "PAN",
+    "query": "Excel India Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nikash.in/bulk-pan-validation-tool/",
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/",
+      "https://gentools.io/pan-card-generator",
+      "https://www.indiafilings.com/learn/download-epan-card"
+    ],
+    "timestamp": "2026-09-02T20:58:57.707784",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "GST",
+    "query": "Excel India Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/online-gst-number-apply-complete-guide-gstin.html"
+    ],
+    "timestamp": "2026-09-02T20:59:03.533633",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "GST",
+    "query": "Excel India Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/excel-india-online-29brypa9735l1zs/",
+      "https://ankeshan.com/gst/",
+      "https://gstextract.com/",
+      "https://nikash.in/bulk-gstin-validator-tool/"
+    ],
+    "timestamp": "2026-09-02T20:59:06.738224",
+    "status": "results_found"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "GST Number",
+    "value": "27ABCDE1234F1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstextract.com/",
+    "timestamp": "2026-09-02T20:59:09.789032"
+  },
+  {
+    "business": "Excel India Online",
+    "field": "PAN Number",
+    "value": "ABCDE1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstextract.com/",
+    "timestamp": "2026-09-02T20:59:09.789041"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Owner",
+    "query": "Excel India Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.insidertrades.com/exlservice-holdings-inc-stock/rohit-kapoor/#:~:text=Rohit%20Kapoor%20is%20Chairman%20and%20Chief%20Executive%20Officer%2C,a%20global%20leader%20in%20analytics%20and%20digital%20solutions.",
+      "https://tracxn.com/d/companies/excelr/__ORiyJAki343DLLOfZZdpw2EGcJ_ATuCIODMsytXjkAc",
+      "https://www.exlservice.com/bio/rohit-kapoor",
+      "https://www.thecompanycheck.com/company/excel-industries-limited/L24200MH1960PLC011807"
+    ],
+    "timestamp": "2026-09-02T20:59:11.080564",
+    "status": "results_found"
+  },
+  {
+    "seller": "Excel India Online",
+    "field": "Owner",
+    "query": "Excel India Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://excelindiaonline.in/about-us/",
+      "https://www.cinebuster.in/every-story-was-unique-excel-entertainment-co-founder-ritesh-sidhwani-reflects-on-25-years-from-dil-chahta-hai-to-don/",
+      "https://excelindiaonline.in/today-magazine/",
+      "https://www.thecompanycheck.com/company/b/excel-india-online/kdgpqift60yoq7qiy"
+    ],
+    "timestamp": "2026-09-02T20:59:25.475883",
+    "status": "results_found"
+  },
+  {
+    "business": "MONTALY",
+    "field": "Business Name",
+    "value": "MONTALY",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2JCKNR88GHEX5&asin=B0DRTFSTS9&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:59:25.681273"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "Website",
+    "query": "MONTALY official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.montalyfashion.com/collections/all",
+      "https://www.montaleparfums.com/en/"
+    ],
+    "timestamp": "2026-09-02T20:59:26.969737",
+    "status": "results_found"
+  },
+  {
+    "business": "MONTALY",
+    "field": "Website URL",
+    "value": "https://www.montaly.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.montaly.com/",
+    "timestamp": "2026-09-02T20:59:29.572505"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "Legal Entity Name",
+    "query": "MONTALY company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://registerease.in/",
+      "https://www.startyourcompany.in/",
+      "https://digifiling.in/service/company-registration",
+      "https://tallysolutions.com/business-guides/guide-to-company-registration/"
+    ],
+    "timestamp": "2026-09-02T20:59:33.688635",
+    "status": "results_found"
+  },
+  {
+    "business": "MONTALY",
+    "field": "Phone Number",
+    "value": "+919241728118",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/",
+    "timestamp": "2026-09-02T20:59:39.613255"
+  },
+  {
+    "business": "MONTALY",
+    "field": "Email Address",
+    "value": "info@registerease.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/",
+    "timestamp": "2026-09-02T20:59:39.613867"
+  },
+  {
+    "business": "MONTALY",
+    "field": "Billing Address",
+    "value": "dlf tower, 10th road, dlf cyber city, phase 2, sector 24, gurugram, haryana 122002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/",
+    "timestamp": "2026-09-02T20:59:39.617113"
+  },
+  {
+    "business": "MONTALY",
+    "field": "City",
+    "value": "gurugram",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/",
+    "timestamp": "2026-09-02T20:59:39.617124"
+  },
+  {
+    "business": "MONTALY",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/",
+    "timestamp": "2026-09-02T20:59:39.617128"
+  },
+  {
+    "business": "MONTALY",
+    "field": "Pincode",
+    "value": "122002",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://registerease.in/",
+    "timestamp": "2026-09-02T20:59:39.617131"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "Legal Entity Name",
+    "query": "MONTALY Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://corpbuddy.in/service/private-limited-company/",
+      "https://www.formsy.in/Services/private-limited-company-registration",
+      "https://registerease.in/",
+      "https://targolegal.com/private-limited-company-registration/"
+    ],
+    "timestamp": "2026-09-02T20:59:45.680356",
+    "status": "results_found"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "PAN",
+    "query": "MONTALY PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-09-02T20:59:49.675503",
+    "status": "results_found"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "PAN",
+    "query": "MONTALY PAN number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tin.tin.proteantech.in/pantan/StatusTrack.html",
+      "https://onlineservices.proteantech.in/paam/endUserRegisterContact.html"
+    ],
+    "timestamp": "2026-09-02T20:59:54.646825",
+    "status": "results_found"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "GST",
+    "query": "MONTALY GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-rule-14a-fast-track-gst-registration-practical-issues-solutions.html",
+      "https://taxguru.in/goods-and-service-tax/gst-registration-rule-14a-3-day-auto-approval.html",
+      "https://www.indiafilings.com/gst",
+      "https://www.indiafilings.com/gst-registration"
+    ],
+    "timestamp": "2026-09-02T21:00:02.796995",
+    "status": "results_found"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "GST",
+    "query": "MONTALY GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstextract.com/gstin-details",
+      "https://www.knowyourgst.com/gst-number-search/bulk/",
+      "https://www.invoizzy.in/gst-number-search",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-02T21:00:06.538540",
+    "status": "results_found"
+  },
+  {
+    "business": "MONTALY",
+    "field": "GST Number",
+    "value": "27ABCDE1234F1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.invoizzy.in/gst-number-search",
+    "timestamp": "2026-09-02T21:00:19.154029"
+  },
+  {
+    "business": "MONTALY",
+    "field": "PAN Number",
+    "value": "ABCDE1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.invoizzy.in/gst-number-search",
+    "timestamp": "2026-09-02T21:00:19.154042"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "Owner",
+    "query": "MONTALY director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.crunchbase.com/organization/mondly",
+      "https://hkg.databasesets.com/en/gongsimingdan/number/0560156",
+      "https://www.vcbacked.co/company/mountly"
+    ],
+    "timestamp": "2026-09-02T21:00:20.631374",
+    "status": "results_found"
+  },
+  {
+    "seller": "MONTALY",
+    "field": "Owner",
+    "query": "MONTALY founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.moneycontrol.com/news/business/markets/meet-abhishek-agarwal-aerospace-engineer-turned-banker-behind-rs-4600-crore-purple-style-labs-ipo-backed-by-srk-salman-sachin-madhuri-shraddha-14015943.html",
+      "https://lextechsuite.com/TM--MONTALY-DEVICE--class-25--2713393",
+      "https://whop.com/felix-friends/founder-monthly/",
+      "https://www.bhaskarenglish.in/business/news/purple-style-labs-ipo-mumbai-shah-rukh-salman-sachin-invest-138878410.html"
+    ],
+    "timestamp": "2026-09-02T21:00:26.515016",
+    "status": "results_found"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "Business Name",
+    "value": "KidBee Baby",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AYFW4VPTL8W56&asin=B0GG545HRN&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T21:00:35.396151"
+  },
+  {
+    "seller": "KidBee Baby",
+    "field": "Website",
+    "query": "KidBee Baby official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kidbea.com/",
+      "https://kidbeestore.com/collection/all-products"
+    ],
+    "timestamp": "2026-09-02T21:00:37.226188",
+    "status": "results_found"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "Website URL",
+    "value": "https://www.kidbea.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kidbea.com/",
+    "timestamp": "2026-09-02T21:00:42.047184"
+  },
+  {
+    "seller": "KidBee Baby",
+    "field": "Legal Entity Name",
+    "query": "KidBee Baby company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/KIDBEE-GLOBAL-PRIVATE-LIMITED-U10790UP2026PTC248308",
+      "https://qorpiq.com/company/kidbee-global-private-limited/U10790UP2026PTC248308",
+      "https://companies.dubleu.co/company/kidbee-global-private-limited-U10790UP2026PTC248308",
+      "https://www.kidbea.com/"
+    ],
+    "timestamp": "2026-09-02T21:00:49.302821",
+    "status": "results_found"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "Email Address",
+    "value": "tradersbst@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/KIDBEE-GLOBAL-PRIVATE-LIMITED-U10790UP2026PTC248308",
+    "timestamp": "2026-09-02T21:00:50.101331"
+  },
+  {
+    "seller": "KidBee Baby",
+    "field": "Legal Entity Name",
+    "query": "KidBee Baby Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://qorpiq.com/company/kidbee-global-private-limited/U10790UP2026PTC248308",
+      "https://www.falconebiz.com/company/KIDBEE-GLOBAL-PRIVATE-LIMITED-U10790UP2026PTC248308",
+      "https://www.registerkaro.in/company-details",
+      "https://www.kidbea.com/"
+    ],
+    "timestamp": "2026-09-02T21:00:56.765312",
+    "status": "results_found"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "Billing Address",
+    "value": "2227 marwatiya, raja mali tola, basti, basti, basti, uttar pradesh, 272001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/kidbee-global-private-limited/U10790UP2026PTC248308",
+    "timestamp": "2026-09-02T21:00:58.469253"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/kidbee-global-private-limited/U10790UP2026PTC248308",
+    "timestamp": "2026-09-02T21:00:58.469266"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/kidbee-global-private-limited/U10790UP2026PTC248308",
+    "timestamp": "2026-09-02T21:00:58.469270"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "Pincode",
+    "value": "272001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://qorpiq.com/company/kidbee-global-private-limited/U10790UP2026PTC248308",
+    "timestamp": "2026-09-02T21:00:58.469273"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-details",
+    "timestamp": "2026-09-02T21:01:00.625551"
+  },
+  {
+    "seller": "KidBee Baby",
+    "field": "PAN",
+    "query": "KidBee Baby PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://www.kidbea.com/"
+    ],
+    "timestamp": "2026-09-02T21:01:04.283436",
+    "status": "results_found"
+  },
+  {
+    "seller": "KidBee Baby",
+    "field": "PAN",
+    "query": "KidBee Baby PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.kidbea.com/",
+      "https://gstpan.com/",
+      "https://www.apollopharmacy.in/otc/kidbee-baby-wash-shampoo-150-ml"
+    ],
+    "timestamp": "2026-09-02T21:01:09.554598",
+    "status": "results_found"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "GST Number",
+    "value": "27AABCR1718E1ZP",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T21:01:13.624601"
+  },
+  {
+    "business": "KidBee Baby",
+    "field": "PAN Number",
+    "value": "AABCR1718E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstpan.com/",
+    "timestamp": "2026-09-02T21:01:13.624614"
+  },
+  {
+    "seller": "KidBee Baby",
+    "field": "Owner",
+    "query": "KidBee Baby director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/kidbea/__Zqb_U0zQ2UmTs-zqP7qylo9QRgzCpSgooLR5MzjUGnw",
+      "https://theorg.com/org/kidbea/org-chart/swapnil-srivastav",
+      "https://www.affluense.ai/profile/swapnil-srivastav-kidbea-c1ce1c",
+      "https://www.cbinsights.com/company/kidbea/people"
+    ],
+    "timestamp": "2026-09-02T21:01:15.274213",
+    "status": "results_found"
+  },
+  {
+    "seller": "KidBee Baby",
+    "field": "Owner",
+    "query": "KidBee Baby founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://d2cbazaar.com/baby-kids/kidbea/#:~:text=Kidbea%20was%20founded%20in%202021%20by%20Swapnil%20Srivastav%2C,Mohammad%20Hussain%2C%20and%20Aman%20Kumar%20Mahto%20in%20Noida.",
+      "https://tracxn.com/d/companies/kidbea/__Zqb_U0zQ2UmTs-zqP7qylo9QRgzCpSgooLR5MzjUGnw",
+      "https://d2cbazaar.com/baby-kids/kidbea/",
+      "https://theorg.com/org/kidbea/org-chart/swapnil-srivastav"
+    ],
+    "timestamp": "2026-09-02T21:01:27.055711",
+    "status": "results_found"
+  }
+]

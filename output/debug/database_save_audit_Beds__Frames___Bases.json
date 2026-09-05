@@ -1,0 +1,74 @@
+{
+  "category": "Beds, Frames & Bases",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Lutown-Teen",
+      "database_id": 1696,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@morelaw.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Nagar And Empire",
+      "database_id": 1697,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918929683196",
+      "email": "apoorv@mappingdigiworld.com",
+      "gst": "08AZCPN6673K1ZT",
+      "pan": "AZCPN6673K",
+      "website": "https://www.mapsofindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AARAM CHARPAI UDYOG",
+      "database_id": 1698,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919354866020",
+      "email": "aaramudyog@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "DEV INTERIOR",
+      "database_id": 1699,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919820456510",
+      "email": "info.devinterio@gmail.com",
+      "gst": "32CBHPR0261G1ZX",
+      "pan": "CBHPR0261G",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "NATTNAK",
+      "database_id": 1700,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ak.pvt.ltd@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

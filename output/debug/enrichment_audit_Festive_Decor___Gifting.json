@@ -1,0 +1,421 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0H4WBXGT1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T12:17:39.276172"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/home/welcome-back?msockid=18d8af52b8e660b00597b891b99461e9"
+    ],
+    "timestamp": "2026-08-28T12:17:46.304254",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/forms-applications?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/l/welcome/new-account?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/home?msockid=18d8af52b8e660b00597b891b99461e9"
+    ],
+    "timestamp": "2026-08-28T12:18:23.857144",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/what-we-offer/our-accounts/brokerage-account?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/forms-applications?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://registerease.in/services/private-limited-company-registration",
+      "https://www.startupwala.com/private-limited-company-registration.html"
+    ],
+    "timestamp": "2026-08-28T12:18:35.251804",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/e/t/user/login?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T12:18:43.239777",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-28T12:18:55.208014"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/e/t/user/login?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T12:18:59.544398",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/e/t/user/login?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T12:19:15.390813",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/e/t/user/login?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T12:19:30.269887",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://us.etrade.com/e/t/user/login?msockid=18d8af52b8e660b00597b891b99461e9",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-28T12:19:31.704722",
+    "status": "results_found"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "Business Name",
+    "value": "METSCAPE INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A5OZL0LXMI6YD&asin=B0GW8D8YZW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T12:19:48.906229"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "Website",
+    "query": "METSCAPE INDIA official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://metscapeindia.com/",
+      "https://metscapeindia.com/about-us"
+    ],
+    "timestamp": "2026-08-28T12:20:04.224940",
+    "status": "results_found"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "Website URL",
+    "value": "https://www.metscapeindia.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.metscapeindia.com/",
+    "timestamp": "2026-08-28T12:20:08.351724"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "Phone Number",
+    "value": "+919927605178",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.metscapeindia.com/",
+    "timestamp": "2026-08-28T12:20:09.926795"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "Email Address",
+    "value": "metscapeindia65@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.metscapeindia.com/",
+    "timestamp": "2026-08-28T12:20:09.926937"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "Billing Address",
+    "value": "NEAR KHUSRO BEG WALI MASJID, MUGHALPURA FIRST, Uttar Pradesh, Moradabad, 244001",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.metscapeindia.com/",
+    "timestamp": "2026-08-28T12:20:09.935307"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "City",
+    "value": "Moradabad",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.metscapeindia.com/",
+    "timestamp": "2026-08-28T12:20:09.935326"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.metscapeindia.com/",
+    "timestamp": "2026-08-28T12:20:09.935506"
+  },
+  {
+    "business": "METSCAPE INDIA",
+    "field": "Pincode",
+    "value": "244001",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.metscapeindia.com/",
+    "timestamp": "2026-08-28T12:20:09.935517"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "Legal Entity Name",
+    "query": "METSCAPE INDIA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://en-in.topographic-map.com/",
+      "https://opentopomap.org/",
+      "https://www.topomap.org/",
+      "https://topoexport.com/"
+    ],
+    "timestamp": "2026-08-28T12:20:23.576300",
+    "status": "results_found"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "PAN",
+    "query": "METSCAPE INDIA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:20:50.406180",
+    "status": "no_results"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "PAN",
+    "query": "METSCAPE INDIA PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://metscapeindia.com/",
+      "https://tinpan.proteantech.in/",
+      "https://www.knowyourgst.com/gst-number-search/metscape-india-09CMTPN8257P1ZO/"
+    ],
+    "timestamp": "2026-08-28T12:21:06.975976",
+    "status": "results_found"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "GST",
+    "query": "METSCAPE INDIA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:21:14.209785",
+    "status": "no_results"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "GST",
+    "query": "METSCAPE INDIA GST number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/metscape-india-09CMTPN8257P1ZO/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-28T12:21:25.861257",
+    "status": "results_found"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "Owner",
+    "query": "METSCAPE INDIA director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:21:34.677963",
+    "status": "no_results"
+  },
+  {
+    "seller": "METSCAPE INDIA",
+    "field": "Owner",
+    "query": "METSCAPE INDIA founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://metscapeindia.com/about-us",
+      "https://metscapeindia.com/",
+      "https://en.everybodywiki.com/Dr_Sunita_Dube",
+      "http://drsunitadube.com/2021/05/17/dr-suita-dube-founder-medscapeindia-gets-national-recognition-for-successfully-implementing-fit-india-movement-by-honourable-prime-minister-shri-narendra-modi/"
+    ],
+    "timestamp": "2026-08-28T12:21:43.051890",
+    "status": "results_found"
+  },
+  {
+    "business": "Behoma",
+    "field": "Business Name",
+    "value": "Behoma",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A22TU1UQZHAJZB&asin=B0D2T51RC7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T12:21:45.424767"
+  },
+  {
+    "seller": "Behoma",
+    "field": "Website",
+    "query": "Behoma official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.behoma.in/",
+      "https://www.behoma.in/collections/photo-frames"
+    ],
+    "timestamp": "2026-08-28T12:21:52.289964",
+    "status": "results_found"
+  },
+  {
+    "business": "Behoma",
+    "field": "Website URL",
+    "value": "https://www.behoma.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.behoma.com/",
+    "timestamp": "2026-08-28T12:21:56.208631"
+  },
+  {
+    "seller": "Behoma",
+    "field": "Legal Entity Name",
+    "query": "Behoma company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:22:45.503773",
+    "status": "no_results"
+  },
+  {
+    "seller": "Behoma",
+    "field": "PAN",
+    "query": "Behoma PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.behoma.in/"
+    ],
+    "timestamp": "2026-08-28T12:22:54.421522",
+    "status": "results_found"
+  },
+  {
+    "seller": "Behoma",
+    "field": "PAN",
+    "query": "Behoma PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T12:23:16.773186",
+    "status": "no_results"
+  },
+  {
+    "seller": "Behoma",
+    "field": "GST",
+    "query": "Behoma GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/behoma-private-limited-07aakcb8242j1ze/",
+      "https://www.knowyourgst.com/gst-number-search/behoma-private-limited-07AAKCB8242J1ZE/",
+      "https://www.mastersindia.co/gst-search/?name=behoma-private-limited&gstin=07AAKCB8242J1ZE",
+      "https://gst.unifers.ai/gst/06AAKCB8242J1ZG/behoma-private-limited"
+    ],
+    "timestamp": "2026-08-28T12:23:23.493709",
+    "status": "results_found"
+  },
+  {
+    "business": "Behoma",
+    "field": "GST Number",
+    "value": "07AAKCB8242J1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/behoma-private-limited-07AAKCB8242J1ZE/",
+    "timestamp": "2026-08-28T12:23:34.208353"
+  },
+  {
+    "business": "Behoma",
+    "field": "PAN Number",
+    "value": "AAKCB8242J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/behoma-private-limited-07AAKCB8242J1ZE/",
+    "timestamp": "2026-08-28T12:23:34.208376"
+  },
+  {
+    "seller": "Behoma",
+    "field": "Owner",
+    "query": "Behoma director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.proprofs.com/quiz-school/story.php?title=online-cricket-quiz",
+      "https://www.proprofs.com/quiz-school/story.php?title=3dq-test-your-basic-general-knowledge",
+      "https://www.proprofs.com/quiz-school/story.php?title=friends-tv-show-quiz",
+      "https://www.proprofs.com/quiz-school/story.php?title=how-well-do-you-know-ncis_1"
+    ],
+    "timestamp": "2026-08-28T12:23:38.238794",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,1547 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B071GYQ6T2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:16:02.202842"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T20:16:04.163350",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:16:06.981076"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:16:07.476806"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:16:07.477132"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T20:16:11.270500",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T20:16:11.859200"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T20:16:11.859213"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-09-02T20:16:13.470171",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:16:13.962580"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:16:13.962590"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:16:13.962592"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:16:13.962595"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T20:16:17.807977"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T20:16:19.654982",
+    "status": "results_found"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "Business Name",
+    "value": "Angle and Curves",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AFJDBRG0DWWSE&asin=B014215DHM&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:16:22.082953"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "Website",
+    "query": "Angle and Curves official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://angleandcurve.com/collections",
+      "https://www.angelcurves.com/collections/shapewear"
+    ],
+    "timestamp": "2026-09-02T20:16:23.739457",
+    "status": "results_found"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "Legal Entity Name",
+    "query": "Angle and Curves company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686890x1273236128138508x506213434&adid=&device=c&location=262576&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686890&hsa_kw=company%20registration%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=acbcc21b7ae01d873e87a8834c3240f0&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=company%20registration%20usa&utm_content=International%20-%20International%20-%20General",
+      "https://find-and-update.company-information.service.gov.uk/company/07012967",
+      "https://companycheck.co.uk/company/07012967/ANGLE-AND-CURVE-LIMITED/companies-house-data",
+      "https://companycheck.co.uk/company/04968258/ANGLES--CURVES-LIMITED/companies-house-data"
+    ],
+    "timestamp": "2026-09-02T20:16:29.810146",
+    "status": "results_found"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "Legal Entity Name",
+    "query": "Angle and Curves Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.planetexim.net/indian-company/remuneration/anglecurve-interior-infrastructure/cin/U74999KA2019PTC119918.html",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-02T20:16:38.051357",
+    "status": "results_found"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:16:38.507667"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:16:38.507831"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "PAN",
+    "query": "Angle and Curves PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.desitoolkit.in/tools/government/pan-decoder",
+      "https://www.mymudra.com/blog/pan-card-10-digit-meaning",
+      "https://tooldekho.in/tools/india/pan-card-validator",
+      "https://pyrelo.in/blog/pan-card-format-decoded"
+    ],
+    "timestamp": "2026-09-02T20:16:43.874560",
+    "status": "results_found"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "PAN",
+    "query": "Angle and Curves PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mymudra.com/blog/pan-card-10-digit-meaning",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.desitoolkit.in/tools/government/pan-decoder"
+    ],
+    "timestamp": "2026-09-02T20:16:48.371051",
+    "status": "results_found"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:16:50.550772"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:16:50.550782"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "Owner",
+    "query": "Angle and Curves director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/07012967",
+      "https://www.companieslist.co.uk/07012967-angle-and-curve-limited",
+      "https://open.endole.co.uk/insight/company/07012967-angle-and-curve-limited",
+      "https://companycheck.co.uk/company/04968258/ANGLES--CURVES-LIMITED/companies-house-data"
+    ],
+    "timestamp": "2026-09-02T20:16:52.017619",
+    "status": "results_found"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "Owner",
+    "query": "Angle and Curves founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://angleandcurve.com/pages/about-us",
+      "https://angleandcurve.com/",
+      "https://www.letstalk-tech.com/angle-curve-carboncans-headphones-review-exceptional-craftsmanship/",
+      "https://open.endole.co.uk/insight/company/07012967-angle-and-curve-limited"
+    ],
+    "timestamp": "2026-09-02T20:16:57.002562",
+    "status": "results_found"
+  },
+  {
+    "seller": "Angle and Curves",
+    "field": "Address",
+    "query": "Angle and Curves registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/anglecurve-interior-infrastructure-private-limited/__RujrpENxauJf0Bhuzc1kjSl9d8llDir_Hb2YyV4PGwA#:~:text=Its%20registered%20address%20is%20Shop%20%231%2C%20%23231%2C%20Muthanallur,%28CIN%29%20U74999KA2019PTC119918%20and%20its%20current%20status%20is%20Active.",
+      "https://contactout.com/company/Angel-One-32090",
+      "https://www.insiderbiz.in/company-map/ANGEL-BROKING-LIMITED",
+      "https://tracxn.com/d/legal-entities/india/anglecurve-interior-infrastructure-private-limited/__RujrpENxauJf0Bhuzc1kjSl9d8llDir_Hb2YyV4PGwA"
+    ],
+    "timestamp": "2026-09-02T20:17:02.306290",
+    "status": "results_found"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anglecurve-interior-infrastructure-private-limited/__RujrpENxauJf0Bhuzc1kjSl9d8llDir_Hb2YyV4PGwA#:~:text=Its%20registered%20address%20is%20Shop%20%231%2C%20%23231%2C%20Muthanallur,%28CIN%29%20U74999KA2019PTC119918%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:17:03.203466"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anglecurve-interior-infrastructure-private-limited/__RujrpENxauJf0Bhuzc1kjSl9d8llDir_Hb2YyV4PGwA#:~:text=Its%20registered%20address%20is%20Shop%20%231%2C%20%23231%2C%20Muthanallur,%28CIN%29%20U74999KA2019PTC119918%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:17:03.203475"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anglecurve-interior-infrastructure-private-limited/__RujrpENxauJf0Bhuzc1kjSl9d8llDir_Hb2YyV4PGwA#:~:text=Its%20registered%20address%20is%20Shop%20%231%2C%20%23231%2C%20Muthanallur,%28CIN%29%20U74999KA2019PTC119918%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:17:03.203477"
+  },
+  {
+    "business": "Angle and Curves",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/anglecurve-interior-infrastructure-private-limited/__RujrpENxauJf0Bhuzc1kjSl9d8llDir_Hb2YyV4PGwA#:~:text=Its%20registered%20address%20is%20Shop%20%231%2C%20%23231%2C%20Muthanallur,%28CIN%29%20U74999KA2019PTC119918%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:17:03.203479"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "Business Name",
+    "value": "KUKU KI DUKAAN 4",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A4W41YNQDG1U9&isAmazonFulfilled=0&asin=B014215DHM&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T20:17:03.363585"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "Website",
+    "query": "KUKU KI DUKAAN 4 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://kuku.app/",
+      "https://kukukidukaan.com/"
+    ],
+    "timestamp": "2026-09-02T20:17:04.642982",
+    "status": "results_found"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "Legal Entity Name",
+    "query": "KUKU KI DUKAAN 4 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kukukidukaan.com/",
+      "https://www.inspex.in/",
+      "https://weedoo.in/udyam-companies",
+      "https://www.quickcompany.in/company"
+    ],
+    "timestamp": "2026-09-02T20:17:08.002968",
+    "status": "results_found"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:17:08.999334"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:17:08.999508"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "Legal Entity Name",
+    "query": "KUKU KI DUKAAN 4 Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://kukukidukaan.com/",
+      "https://www.quickcompany.in/company",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca"
+    ],
+    "timestamp": "2026-09-02T20:17:11.487546",
+    "status": "results_found"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "PAN",
+    "query": "KUKU KI DUKAAN 4 PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://www.desitoolkit.in/tools/government/pan-decoder"
+    ],
+    "timestamp": "2026-09-02T20:17:15.602237",
+    "status": "results_found"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T20:17:17.451126"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T20:17:17.451141"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T20:17:17.451145"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "PAN",
+    "query": "KUKU KI DUKAAN 4 PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kukukidukaan.com/",
+      "https://maps.google.co.in/mapfiles/home3.html",
+      "https://chatgpt.com/hi-IN/",
+      "https://kukukidukaan.com/pages/contact"
+    ],
+    "timestamp": "2026-09-02T20:17:19.013976",
+    "status": "results_found"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "GST",
+    "query": "KUKU KI DUKAAN 4 GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:17:22.766093",
+    "status": "no_results"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "GST",
+    "query": "KUKU KI DUKAAN 4 GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://piceapp.com/gst-number-search/kuku-company-33akspa2267r1zn/",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-02T20:17:24.296867",
+    "status": "results_found"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "GST Number",
+    "value": "01AAUCM7837L1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search",
+    "timestamp": "2026-09-02T20:17:26.047951"
+  },
+  {
+    "business": "KUKU KI DUKAAN 4",
+    "field": "PAN Number",
+    "value": "AAUCM7837L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search",
+    "timestamp": "2026-09-02T20:17:26.047969"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "Owner",
+    "query": "KUKU KI DUKAAN 4 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://starsunfolded.com/kuku-kohli/",
+      "https://kuku.app/teams/",
+      "https://www.republicworld.com/entertainment/phool-aur-kaante-director-kuku-kohli-dies-at-77-after-heart-attack-in-mumbai-2026-08-26-135558"
+    ],
+    "timestamp": "2026-09-02T20:17:27.331358",
+    "status": "results_found"
+  },
+  {
+    "seller": "KUKU KI DUKAAN 4",
+    "field": "Owner",
+    "query": "KUKU KI DUKAAN 4 founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kukukidukaan.com/",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://kukukidukaan.com/collections/",
+      "https://mydukaan.io/about-us"
+    ],
+    "timestamp": "2026-09-02T20:17:32.109725",
+    "status": "results_found"
+  },
+  {
+    "business": "JockeyIndia",
+    "field": "Business Name",
+    "value": "JockeyIndia",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AQ5SVNKH72QRZ&isAmazonFulfilled=1&asin=B014213X8I&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T20:17:36.886731"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "Website",
+    "query": "JockeyIndia official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.jockey.in/",
+      "https://www.jockey.in/collections/women-bras"
+    ],
+    "timestamp": "2026-09-02T20:17:38.473057",
+    "status": "results_found"
+  },
+  {
+    "business": "JockeyIndia",
+    "field": "Website URL",
+    "value": "https://www.jockeyindia.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.jockeyindia.com/",
+    "timestamp": "2026-09-02T20:17:40.630646"
+  },
+  {
+    "business": "JockeyIndia",
+    "field": "Email Address",
+    "value": "wecare@jockeyindia.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.jockeyindia.com/",
+    "timestamp": "2026-09-02T20:17:42.216686"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "Legal Entity Name",
+    "query": "JockeyIndia company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jockey.in/pages/franchise",
+      "https://nextwhatbusiness.com/jockey-franchise/",
+      "https://www.jockey.in/",
+      "https://franticc.com/brands/jockey-india"
+    ],
+    "timestamp": "2026-09-02T20:17:52.271331",
+    "status": "results_found"
+  },
+  {
+    "business": "JockeyIndia",
+    "field": "Billing Address",
+    "value": "page industries limited",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nextwhatbusiness.com/jockey-franchise/",
+    "timestamp": "2026-09-02T20:17:55.959855"
+  },
+  {
+    "business": "JockeyIndia",
+    "field": "City",
+    "value": "page industries limited",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nextwhatbusiness.com/jockey-franchise/",
+    "timestamp": "2026-09-02T20:17:55.959864"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "Legal Entity Name",
+    "query": "JockeyIndia Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jockey.in/pages/franchise",
+      "https://franticc.com/brands/jockey-india",
+      "https://www.jockey.in/",
+      "https://franchisediscovery.in/content/unnamed-blog/jockey-dealership-cost-and-investment-in-2026%3A-roi--application-process-and-paperwork-franchise?id=689c6b108153bb3f2bfa39a8"
+    ],
+    "timestamp": "2026-09-02T20:18:00.391179",
+    "status": "results_found"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "PAN",
+    "query": "JockeyIndia PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.jockey.in/",
+      "https://www.jockey.in/pages/contact",
+      "https://www.citizennest.com/guide/pan-card-status-check-online"
+    ],
+    "timestamp": "2026-09-02T20:18:06.611993",
+    "status": "results_found"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "PAN",
+    "query": "JockeyIndia PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jockey.in/pages/get-in-touch",
+      "https://www.jockey.in/pages/contact",
+      "https://www.thecompanycheck.com/company/b/jockey/zb86ytzgsrrjc9qm3",
+      "https://www.zoominfo.com/c/jockey/483204620"
+    ],
+    "timestamp": "2026-09-02T20:18:11.819565",
+    "status": "results_found"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "GST",
+    "query": "JockeyIndia GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://www.jockey.in/",
+      "https://www.indiafilings.com/gst-registration/track",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T20:18:18.914355",
+    "status": "results_found"
+  },
+  {
+    "business": "JockeyIndia",
+    "field": "Phone Number",
+    "value": "+918333024179",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+    "timestamp": "2026-09-02T20:18:20.350667"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "GST",
+    "query": "JockeyIndia GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/jockey-nx-27bchpj1524j1zo/",
+      "https://www.infyner.com/company/page-industries-limited/L18101KA1994PLC016554",
+      "https://gstverify.co.in/search/",
+      "https://piceapp.com/gst-number-search/sms-jockey-27aqepb2919b1zf/"
+    ],
+    "timestamp": "2026-09-02T20:18:23.872976",
+    "status": "results_found"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "Owner",
+    "query": "JockeyIndia director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.infyner.com/company/page-industries-limited/L18101KA1994PLC016554",
+      "https://www.jockey.in/pages/about-us",
+      "https://www.cbinsights.com/company/jockey-india/people"
+    ],
+    "timestamp": "2026-09-02T20:18:28.877515",
+    "status": "results_found"
+  },
+  {
+    "seller": "JockeyIndia",
+    "field": "Owner",
+    "query": "JockeyIndia founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jockey.in/pages/about-us",
+      "https://www.jockey.in/",
+      "https://thebusinessrule.com/the-jockey-success-story-how-jockey-fell-rose-back-in-india/",
+      "https://www.infyner.com/company/page-industries-limited/L18101KA1994PLC016554"
+    ],
+    "timestamp": "2026-09-02T20:18:33.852462",
+    "status": "results_found"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "Business Name",
+    "value": "Geeta Trading",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A15J9EXSGU7D2M&isAmazonFulfilled=0&asin=B014215DHM&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-02T20:18:43.168081"
+  },
+  {
+    "seller": "Geeta Trading",
+    "field": "Website",
+    "query": "Geeta Trading official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://geetatradingcompany.com/",
+      "http://www.geetatradingcompany.com/index.html"
+    ],
+    "timestamp": "2026-09-02T20:18:44.374733",
+    "status": "results_found"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "Website URL",
+    "value": "https://geetatradingcompany.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://geetatradingcompany.com/",
+    "timestamp": "2026-09-02T20:18:47.570421"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "Phone Number",
+    "value": "+919028242042",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://geetatradingcompany.com/",
+    "timestamp": "2026-09-02T20:18:47.684104"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "Email Address",
+    "value": "geetatradingcompany01@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://geetatradingcompany.com/",
+    "timestamp": "2026-09-02T20:18:47.684176"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "Billing Address",
+    "value": "85, Kabra Chambers, CA Road, Sewa SAdan Chowk, Nagpur - 440018",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://geetatradingcompany.com/",
+    "timestamp": "2026-09-02T20:18:47.684735"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "City",
+    "value": "Nagpur",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://geetatradingcompany.com/",
+    "timestamp": "2026-09-02T20:18:47.684742"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "Pincode",
+    "value": "440018",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://geetatradingcompany.com/",
+    "timestamp": "2026-09-02T20:18:47.684746"
+  },
+  {
+    "seller": "Geeta Trading",
+    "field": "Legal Entity Name",
+    "query": "Geeta Trading company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.geetatradingcompany.in/about-us.html",
+      "https://www.instafinancials.com/company/geeta-trading-company-private-limited-U51900MH1951PTC008441",
+      "https://www.companydetails.in/company/geeta-trading-company-pvt-ltd",
+      "https://www.indiafilings.com/search/geeta-trading-company-private-limited-cin-U51900MH1951PTC008441"
+    ],
+    "timestamp": "2026-09-02T20:18:51.556668",
+    "status": "results_found"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "GST Number",
+    "value": "27AALPB3305N1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geetatradingcompany.in/about-us.html",
+    "timestamp": "2026-09-02T20:18:53.233372"
+  },
+  {
+    "business": "Geeta Trading",
+    "field": "PAN Number",
+    "value": "AALPB3305N",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geetatradingcompany.in/about-us.html",
+    "timestamp": "2026-09-02T20:18:53.233391"
+  },
+  {
+    "seller": "Geeta Trading",
+    "field": "Owner",
+    "query": "Geeta Trading director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://www.geetatradingcompany.com/aboutus.html",
+      "https://www.geetatradingcompany.in/about-us.html",
+      "https://www.datanyze.com/companies/geeta-trading/466689183",
+      "https://www.dnb.com/business-directory/company-profiles.geeta_trading_company.e16221f859def76e5c086f3801e3e075.html"
+    ],
+    "timestamp": "2026-09-02T20:19:29.185350",
+    "status": "results_found"
+  },
+  {
+    "seller": "Geeta Trading",
+    "field": "Owner",
+    "query": "Geeta Trading founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.geetatradingcompany.in/about-us.html",
+      "http://www.geetatradingcompany.com/aboutus.html",
+      "https://www.datanyze.com/companies/geeta-trading/466689183",
+      "https://www.geetatradingcompany.in/profile.html"
+    ],
+    "timestamp": "2026-09-02T20:19:34.969550",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Business Name",
+    "value": "RAVR India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20ZUMPRRI5G7L&asin=B0GWR47YVD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:19:37.104525"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Website",
+    "query": "RAVR India official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.toyotabharat.com/",
+      "https://www.toyotabharat.com/pricelist/"
+    ],
+    "timestamp": "2026-09-02T20:19:38.450562",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Website URL",
+    "value": "https://www.toyotabharat.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.toyotabharat.com/pricelist/",
+    "timestamp": "2026-09-02T20:19:42.447935"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Email Address",
+    "value": "voc@toyota-kirloskar.co.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.toyotabharat.com/contact-us",
+    "timestamp": "2026-09-02T20:19:44.240746"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Legal Entity Name",
+    "query": "RAVR India company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U17299TN2022PTC154064%20and%20its%20current%20status%20is%20Active.",
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+      "https://www.registerkaro.in/company/ravr-industries-private-limited-U17299TN2022PTC154064",
+      "https://www.falconebiz.com/company/RAVR-INDUSTRIES-PRIVATE-LIMITED-U17299TN2022PTC154064"
+    ],
+    "timestamp": "2026-09-02T20:19:46.033727",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U17299TN2022PTC154064%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:19:46.925688"
+  },
+  {
+    "business": "RAVR India",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U17299TN2022PTC154064%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:19:46.925702"
+  },
+  {
+    "business": "RAVR India",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U17299TN2022PTC154064%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:19:46.925707"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0#:~:text=It%20is%20registered%20at%20Registrar%20of%20Companies%2C%20ROC,%28CIN%29%20U17299TN2022PTC154064%20and%20its%20current%20status%20is%20Active.",
+    "timestamp": "2026-09-02T20:19:46.925710"
+  },
+  {
+    "business": "RAVR India",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/ravr-industries-private-limited-U17299TN2022PTC154064",
+    "timestamp": "2026-09-02T20:19:49.631471"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Legal Entity Name",
+    "query": "RAVR India Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+      "https://www.instafinancials.com/company/ravr-industries-private-limited/U17299TN2022PTC154064",
+      "https://cin.iadv.io/RAVR-INDUSTRIES-PRIVATE-LIMITED-U17299TN2022PTC154064/",
+      "https://www.falconebiz.com/company/RAVR-INDUSTRIES-PRIVATE-LIMITED-U17299TN2022PTC154064"
+    ],
+    "timestamp": "2026-09-02T20:19:51.980890",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://savetaxs.com/blog/how-to-know-pan-card-number#:~:text=Use%20the%20PAN%20mobile%20app%2C%20select%20%22Know%20Your,to%20get%20your%20Permanent%20Account%20Number%20after%20verification.",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://gentools.io/pan-card-generator",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T20:19:55.425672",
+    "status": "results_found"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "PAN",
+    "query": "RAVR India PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+      "https://www.comxport.com/co/ravr_enterprises-india-49545.php",
+      "https://www.thecompanycheck.com/company/ravr-industries-private-limited/U17299TN2022PTC154064",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-09-02T20:20:00.923344",
+    "status": "results_found"
+  },
+  {
+    "business": "RAVR India",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:20:03.352660"
+  },
+  {
+    "business": "RAVR India",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-09-02T20:20:03.352672"
+  },
+  {
+    "seller": "RAVR India",
+    "field": "Owner",
+    "query": "RAVR India director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/ravr-industries-private-limited/__OkTEas_OBneDAOKm8bS1YDT1kcg3LqgS_U1h84cf1A0",
+      "https://www.companydetails.in/company/ravr-industries-private-limited",
+      "https://www.falconebiz.com/company/RAVR-INDUSTRIES-PRIVATE-LIMITED-U17299TN2022PTC154064",
+      "https://www.companydetails.in/Director/ravr-industries-private-limited/U17299TN2022PTC154064"
+    ],
+    "timestamp": "2026-09-02T20:20:05.164405",
+    "status": "results_found"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "Business Name",
+    "value": "LUX INDUSTRIES LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2OB3WM2P6ASAX&isAmazonFulfilled=1&asin=B071GYQ6T2&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T20:20:22.847206"
+  },
+  {
+    "seller": "LUX INDUSTRIES LIMITED",
+    "field": "Website",
+    "query": "LUX INDUSTRIES LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://luxindustries.com/",
+      "https://luxindustries.com/overview/"
+    ],
+    "timestamp": "2026-09-02T20:20:24.183042",
+    "status": "results_found"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "Website URL",
+    "value": "https://luxindustries.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://luxindustries.com/overview/",
+    "timestamp": "2026-09-02T20:20:30.848117"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "Legal Entity Name",
+    "value": "LUX Industries Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://luxindustries.com/",
+    "timestamp": "2026-09-02T20:20:31.571466"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "Email Address",
+    "value": "info@luxindustries.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://luxindustries.com/",
+    "timestamp": "2026-09-02T20:20:31.571714"
+  },
+  {
+    "seller": "LUX INDUSTRIES LIMITED",
+    "field": "PAN",
+    "query": "LUX Industries Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/LUX-INDUSTRIES-LIMITED-27AAACL5023B1Z4/",
+      "https://tracxn.com/d/legal-entities/india/lux-industries-limited/__G3ME8QllgIQGQH-0DqS7zHDPlbTCJE8ma9tJQ4vim-Y",
+      "https://gst.iadv.io/LUX-INDUSTRIES-LIMITED-19AAACL5023B3ZZ/",
+      "https://luxindustries.com/"
+    ],
+    "timestamp": "2026-09-02T20:20:37.755540",
+    "status": "results_found"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "GST Number",
+    "value": "27AAACL5023B1Z4",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/LUX-INDUSTRIES-LIMITED-27AAACL5023B1Z4/",
+    "timestamp": "2026-09-02T20:20:38.269476"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "PAN Number",
+    "value": "AAACL5023B",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/LUX-INDUSTRIES-LIMITED-27AAACL5023B1Z4/",
+    "timestamp": "2026-09-02T20:20:38.269484"
+  },
+  {
+    "seller": "LUX INDUSTRIES LIMITED",
+    "field": "Owner",
+    "query": "LUX Industries Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://luxindustries.com/management/",
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://www.luxinnerwear.com/management/board-of-directors/",
+      "https://luxindustries.com/about-us/"
+    ],
+    "timestamp": "2026-09-02T20:20:39.798411",
+    "status": "results_found"
+  },
+  {
+    "seller": "LUX INDUSTRIES LIMITED",
+    "field": "Owner",
+    "query": "LUX INDUSTRIES LIMITED founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://luxindustries.com/about-us/",
+      "https://luxindustries.com/",
+      "https://tracxn.com/d/legal-entities/india/lux-industries-limited/__G3ME8QllgIQGQH-0DqS7zHDPlbTCJE8ma9tJQ4vim-Y"
+    ],
+    "timestamp": "2026-09-02T20:20:51.252444",
+    "status": "results_found"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/lux-industries-limited/__G3ME8QllgIQGQH-0DqS7zHDPlbTCJE8ma9tJQ4vim-Y",
+    "timestamp": "2026-09-02T20:20:53.996377"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/lux-industries-limited/__G3ME8QllgIQGQH-0DqS7zHDPlbTCJE8ma9tJQ4vim-Y",
+    "timestamp": "2026-09-02T20:20:53.996387"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/lux-industries-limited/__G3ME8QllgIQGQH-0DqS7zHDPlbTCJE8ma9tJQ4vim-Y",
+    "timestamp": "2026-09-02T20:20:53.996389"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/lux-industries-limited/__G3ME8QllgIQGQH-0DqS7zHDPlbTCJE8ma9tJQ4vim-Y",
+    "timestamp": "2026-09-02T20:20:53.996391"
+  },
+  {
+    "seller": "LUX INDUSTRIES LIMITED",
+    "field": "Phone",
+    "query": "LUX INDUSTRIES LIMITED phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNF7C19723FE2AA426&market=en-IN&src=SERPIC",
+      "https://luxglobal.co.in/contact/",
+      "https://www.luxinnerwear.com/contacts/new",
+      "https://luxindustries.com/contact-for-export/"
+    ],
+    "timestamp": "2026-09-02T20:20:55.684462",
+    "status": "results_found"
+  },
+  {
+    "business": "LUX INDUSTRIES LIMITED",
+    "field": "Phone Number",
+    "value": "+919787100030",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://luxglobal.co.in/contact/",
+    "timestamp": "2026-09-02T20:21:00.267258"
+  },
+  {
+    "business": "AMAREE",
+    "field": "Business Name",
+    "value": "AMAREE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AL3BCT7I2LP8M&isAmazonFulfilled=1&asin=B014213BHG&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T20:21:00.994635"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "Website",
+    "query": "AMAREE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://amareeindia.com/collections/frontpage",
+      "https://amaree.in/"
+    ],
+    "timestamp": "2026-09-02T20:21:02.271100",
+    "status": "results_found"
+  },
+  {
+    "business": "AMAREE",
+    "field": "Website URL",
+    "value": "https://amareeindia.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://amareeindia.com/collections/frontpage",
+    "timestamp": "2026-09-02T20:21:09.373184"
+  },
+  {
+    "business": "AMAREE",
+    "field": "Email Address",
+    "value": "support@amareeindia.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://amareeindia.com/",
+    "timestamp": "2026-09-02T20:21:10.301795"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "Legal Entity Name",
+    "query": "AMAREE company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://amareeindia.com/",
+      "https://www.registerkaro.in/company-registration",
+      "https://udyamregisteration.org/",
+      "https://www.amare.com/"
+    ],
+    "timestamp": "2026-09-02T20:21:14.832857",
+    "status": "results_found"
+  },
+  {
+    "business": "AMAREE",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T20:21:17.432441"
+  },
+  {
+    "business": "AMAREE",
+    "field": "Billing Address",
+    "value": "legal address of the company.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company-registration",
+    "timestamp": "2026-09-02T20:21:17.439693"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "PAN",
+    "query": "AMAREE PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan"
+    ],
+    "timestamp": "2026-09-02T20:21:30.737404",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "PAN",
+    "query": "AMAREE PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://udyamregistration.grih.in/blog/udyam-search-by-pan",
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-for-a-name-using-a-pan-number-a-step-by-step-guide",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T20:21:34.553682",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "GST",
+    "query": "AMAREE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html"
+    ],
+    "timestamp": "2026-09-02T20:21:37.962089",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "GST",
+    "query": "AMAREE GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-02T20:21:40.659519",
+    "status": "results_found"
+  },
+  {
+    "business": "AMAREE",
+    "field": "GST Number",
+    "value": "01AAUCM7837L1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search",
+    "timestamp": "2026-09-02T20:21:41.569134"
+  },
+  {
+    "business": "AMAREE",
+    "field": "PAN Number",
+    "value": "AAUCM7837L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/gst-number-search",
+    "timestamp": "2026-09-02T20:21:41.569150"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "Owner",
+    "query": "AMAREE director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://amaree.in/pages/about-us",
+      "https://amareeindia.com/pages/about-us",
+      "https://dynamicbusiness.com/featured/founder-friday/how-amaree-collection-grew-to-200k-in-annual-revenue-entirely-on-word-of-mouth.html",
+      "https://amareecollection.com.au/"
+    ],
+    "timestamp": "2026-09-02T20:21:43.028470",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMAREE",
+    "field": "Owner",
+    "query": "AMAREE founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://amareeindia.com/pages/about-us",
+      "https://amaree.in/pages/about-us",
+      "https://www.amare.com/corporate/en-US/our-team/David-C-Chung",
+      "https://www.amare.com/corporate/en-us/our-story"
+    ],
+    "timestamp": "2026-09-02T20:21:53.694153",
+    "status": "results_found"
+  },
+  {
+    "business": "webrand seller",
+    "field": "Business Name",
+    "value": "webrand seller",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3G6VGZKOOO98J&asin=B0H1CBCRNS&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:22:01.538912"
+  },
+  {
+    "seller": "webrand seller",
+    "field": "Website",
+    "query": "webrand seller official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://webrand.com/",
+      "https://shop.webrand.com/login"
+    ],
+    "timestamp": "2026-09-02T20:22:03.150029",
+    "status": "results_found"
+  },
+  {
+    "seller": "webrand seller",
+    "field": "Legal Entity Name",
+    "query": "webrand seller company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://webrand.com/",
+      "https://webrand.com/resources/help-center/",
+      "https://swcybernetics.in/knowledge-base/how-to-sell-on-myntra-complete-guide-2026",
+      "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers"
+    ],
+    "timestamp": "2026-09-02T20:22:09.630834",
+    "status": "results_found"
+  },
+  {
+    "business": "webrand seller",
+    "field": "Email Address",
+    "value": "info@incorpx.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers",
+    "timestamp": "2026-09-02T20:22:16.944133"
+  },
+  {
+    "business": "webrand seller",
+    "field": "GST Number",
+    "value": "33ABPCS3807G1Z9",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers",
+    "timestamp": "2026-09-02T20:22:16.945156"
+  },
+  {
+    "business": "webrand seller",
+    "field": "PAN Number",
+    "value": "ABPCS3807G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers",
+    "timestamp": "2026-09-02T20:22:16.945171"
+  },
+  {
+    "business": "webrand seller",
+    "field": "Billing Address",
+    "value": "no. 1/60 ssjl vila, sri nagar, alinjivakkam, ponneri, tiruvallur, tamil nadu 600067",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers",
+    "timestamp": "2026-09-02T20:22:16.949379"
+  },
+  {
+    "business": "webrand seller",
+    "field": "City",
+    "value": "india.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers",
+    "timestamp": "2026-09-02T20:22:16.949394"
+  },
+  {
+    "business": "webrand seller",
+    "field": "State",
+    "value": "Tamil Nadu",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers",
+    "timestamp": "2026-09-02T20:22:16.949397"
+  },
+  {
+    "business": "webrand seller",
+    "field": "Pincode",
+    "value": "600067",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.incorpx.io/blog/d2c-brand-registration-online-sellers",
+    "timestamp": "2026-09-02T20:22:16.949400"
+  },
+  {
+    "seller": "webrand seller",
+    "field": "Legal Entity Name",
+    "query": "webrand seller Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://webrandcorp.com/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.registerkaro.in/private-limited-company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited"
+    ],
+    "timestamp": "2026-09-02T20:22:18.519975",
+    "status": "results_found"
+  },
+  {
+    "business": "webrand seller",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/private-limited-company-registration",
+    "timestamp": "2026-09-02T20:22:21.693813"
+  },
+  {
+    "seller": "webrand seller",
+    "field": "Owner",
+    "query": "webrand seller director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://webrand.co.in/our-team/",
+      "https://www.crunchbase.com/person/simon-cooper-957e",
+      "https://www.webrandmedia.in/about-us",
+      "https://theorg.com/org/webrand/org-chart/alexander-r"
+    ],
+    "timestamp": "2026-09-02T20:22:24.096126",
+    "status": "results_found"
+  }
+]

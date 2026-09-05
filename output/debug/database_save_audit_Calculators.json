@@ -1,0 +1,87 @@
+{
+  "category": "Calculators",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 393,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 394,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600552026",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "THE BIG VASU",
+      "database_id": 395,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Goyal Trading Com",
+      "database_id": 396,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917127914011",
+      "email": "cs@iforex-one.com",
+      "gst": "07AFRPA2526H1ZL",
+      "pan": "Not Found",
+      "website": "https://www.iforex-one.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Sheetal Impex",
+      "database_id": 397,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910007302014",
+      "email": "info@sheetalimpex.com",
+      "gst": "27ACDFS6938E1ZW",
+      "pan": "Not Found",
+      "website": "https://www.sheetalimpex.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Purnpurshottam Trading",
+      "database_id": 398,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

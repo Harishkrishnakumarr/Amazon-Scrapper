@@ -1,0 +1,960 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0C6QWCXJ1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T16:27:12.844946"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051"
+    ],
+    "timestamp": "2026-08-14T16:27:15.635692",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://youtube.en.uptodown.com/android"
+    ],
+    "timestamp": "2026-08-14T16:27:32.611009",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/"
+    ],
+    "timestamp": "2026-08-14T16:27:44.927251",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.pagalguy.com/articles/upsc-epfo-result-2017-848-candidates-clear-written-exam-qualify-for-interview-1064"
+    ],
+    "timestamp": "2026-08-14T16:27:54.468680",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/",
+      "https://www.elevenforum.com/t/open-settings-in-windows-11.311/"
+    ],
+    "timestamp": "2026-08-14T16:28:08.060014",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://gst.jamku.app/gstin/06AALCR3173P1ZR",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/"
+    ],
+    "timestamp": "2026-08-14T16:28:18.621152",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-14T16:28:31.828766"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.me/facebook.com/",
+      "https://m.me/t?locale=vi_VN",
+      "https://www.messenger.com/login",
+      "https://alolike.vn/get-id-fb/"
+    ],
+    "timestamp": "2026-08-14T16:28:37.262231",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.virustotal.com/gui/domain/refpa38551.com",
+      "https://www.ipaddress.com/website/refpa38551.com/",
+      "https://www.semrush.com/website/refpa38551.com/overview/?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://urlquery.net/report/77c2daac-ac79-43d5-aaf6-6df4cd7215fc",
+      "https://urlquery.net/report/b92e0ef2-53b6-4605-8238-82bdf214186c"
+    ],
+    "timestamp": "2026-08-14T16:28:50.802955",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ultraviewer.net/",
+      "https://www.ultraviewer.net/en/download.html",
+      "https://ultraviewer.en.softonic.com/",
+      "https://ultraviewer.io/"
+    ],
+    "timestamp": "2026-08-14T16:28:56.586572",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-29aalcr3173p1zj/",
+      "https://retailez.co.in/"
+    ],
+    "timestamp": "2026-08-14T16:29:12.654041",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0GMXJQ8M7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T16:29:13.053393"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://us.etrade.com/e/t/user/login?msockid=218cb794d25c68ad3a41a021d36b6985"
+    ],
+    "timestamp": "2026-08-14T16:29:14.537917",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+    "timestamp": "2026-08-14T16:29:41.482499"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151623015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-14T16:29:42.747037"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://us.etrade.com/e/t/user/login?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt",
+      "https://express.etrade.com/etx/rtao/ma/account-category"
+    ],
+    "timestamp": "2026-08-14T16:29:51.255593",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://us.etrade.com/e/t/user/login?msockid=218cb794d25c68ad3a41a021d36b6985"
+    ],
+    "timestamp": "2026-08-14T16:30:20.311517",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://us.etrade.com/e/t/user/login?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt",
+      "https://express.etrade.com/etx/rtao/ma/account-category"
+    ],
+    "timestamp": "2026-08-14T16:30:28.227987",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://us.etrade.com/e/t/user/login?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt",
+      "https://express.etrade.com/etx/rtao/ma/account-category"
+    ],
+    "timestamp": "2026-08-14T16:30:38.886127",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://us.etrade.com/e/t/user/login?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+      "https://patrd.etrade.com/etx/trdclt",
+      "https://express.etrade.com/etx/rtao/ma/account-category"
+    ],
+    "timestamp": "2026-08-14T16:30:54.696975",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://us.etrade.com/e/t/user/login?msockid=218cb794d25c68ad3a41a021d36b6985",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-14T16:31:02.607185",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://craft.co/etrade/executives",
+      "https://www.crunchbase.com/organization/e-trade/profiles_and_contacts",
+      "https://www.cbinsights.com/company/etrade-financial/people",
+      "https://www.optionseducation.org/abouttheoptionsindustrycouncil/oic-biographies-en/christopher-larkin",
+      "https://www.morganstanley.com/about-us-governance/operating-committee/michael-pizzi"
+    ],
+    "timestamp": "2026-08-14T16:31:09.133607",
+    "status": "results_found"
+  },
+  {
+    "business": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "Business Name",
+    "value": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A214HLCUBYZ3R9&asin=B0CCLKPCT4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T16:31:13.024776"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "Website",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/"
+    ],
+    "timestamp": "2026-08-14T16:31:14.772042",
+    "status": "results_found"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "Legal Entity Name",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/",
+      "https://voters.eci.gov.in/",
+      "https://www.citizenwatches.co.in/products/",
+      "https://www.swisstimehouse.com/citizen-watches"
+    ],
+    "timestamp": "2026-08-14T16:31:22.245187",
+    "status": "results_found"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "Legal Entity Name",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/",
+      "https://voters.eci.gov.in/",
+      "https://www.citizenwatches.co.in/products/",
+      "https://www.swisstimehouse.com/citizen-watches"
+    ],
+    "timestamp": "2026-08-14T16:31:37.951571",
+    "status": "results_found"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "PAN",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/",
+      "https://voters.eci.gov.in/",
+      "https://www.citizenwatches.co.in/products/",
+      "https://www.swisstimehouse.com/citizen-watches"
+    ],
+    "timestamp": "2026-08-14T16:31:43.451335",
+    "status": "results_found"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "GST",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/",
+      "https://voters.eci.gov.in/",
+      "https://www.citizenwatches.co.in/products/",
+      "https://www.swisstimehouse.com/citizen-watches"
+    ],
+    "timestamp": "2026-08-14T16:32:04.942389",
+    "status": "results_found"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "Owner",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/",
+      "https://voters.eci.gov.in/",
+      "https://www.citizenwatches.co.in/products/",
+      "https://www.swisstimehouse.com/citizen-watches"
+    ],
+    "timestamp": "2026-08-14T16:32:28.517444",
+    "status": "results_found"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "Address",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/",
+      "https://voters.eci.gov.in/",
+      "https://www.citizenwatches.co.in/products/",
+      "https://www.swisstimehouse.com/citizen-watches"
+    ],
+    "timestamp": "2026-08-14T16:32:51.843794",
+    "status": "results_found"
+  },
+  {
+    "seller": "CITIZEN UMBRELLA MANUFACTURERS LIMITED",
+    "field": "Phone",
+    "query": "CITIZEN UMBRELLA MANUFACTURERS LIMITED phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.citizenwatches.co.in/",
+      "https://www.citizenwatch.com/us/en/",
+      "https://voters.eci.gov.in/",
+      "https://www.citizenwatches.co.in/products/",
+      "https://www.swisstimehouse.com/citizen-watches"
+    ],
+    "timestamp": "2026-08-14T16:33:14.568179",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREE JEE TRADING CO INDIA",
+    "field": "Business Name",
+    "value": "SHREE JEE TRADING CO INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3MFN4LPLUNJS5&asin=B0H98BMWY7&ref_=dp_merchant_link",
+    "timestamp": "2026-08-14T16:33:14.838945"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Website",
+    "query": "SHREE JEE TRADING CO INDIA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking"
+    ],
+    "timestamp": "2026-08-14T16:33:16.189982",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Legal Entity Name",
+    "query": "SHREE JEE TRADING CO INDIA company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:33:23.381433",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Legal Entity Name",
+    "query": "SHREE JEE TRADING CO INDIA Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:33:33.211626",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Legal Entity Name",
+    "query": "SHREE JEE TRADING CO INDIA legal entity",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off"
+    ],
+    "timestamp": "2026-08-14T16:33:43.006305",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "PAN",
+    "query": "SHREE JEE TRADING CO INDIA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/09ADIFS5307B1Z8/shree-jee-trading-company",
+      "https://gst.unifers.ai/gst/23AEKFS1513C1ZK/shree-jee-trading-company",
+      "https://gst.iadv.io/SHREE-JEE-TRADING-CO-07AAKPK2963J1ZE/",
+      "https://gst.iadv.io/SHREE-JEE-TRADING-COMPANY-06ABOPM2680H1ZF/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-14T16:33:47.405497",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "PAN",
+    "query": "SHREE JEE TRADING CO INDIA PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:33:53.927183",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "PAN",
+    "query": "SHREE JEE TRADING CO INDIA PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:05.190287",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "GST",
+    "query": "SHREE JEE TRADING CO INDIA GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:07.696139",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "GST",
+    "query": "SHREE JEE TRADING CO INDIA GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:18.886247",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "GST",
+    "query": "SHREE JEE TRADING CO INDIA GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/shree-jee-trading-company-07adgpl7633k1z8/",
+      "https://piceapp.com/gst-number-search/shree-jee-trading-co-06bdipr7495g1zy/",
+      "https://gst.unifers.ai/gst/23AEKFS1513C1ZK/shree-jee-trading-company",
+      "https://www.knowyourgst.com/gst-number-search/shree-jee-trading-co-07AJJPT0001A1ZX/",
+      "https://gst.iadv.io/SHREE-JEE-TRADING-COMPANY-07AGJPB2023R1ZD/"
+    ],
+    "timestamp": "2026-08-14T16:34:26.723396",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Owner",
+    "query": "SHREE JEE TRADING CO INDIA director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:27.916564",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Owner",
+    "query": "SHREE JEE TRADING CO INDIA managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:36.232660",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Owner",
+    "query": "SHREE JEE TRADING CO INDIA founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:44.755268",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Address",
+    "query": "SHREE JEE TRADING CO INDIA registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:49.260449",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Address",
+    "query": "SHREE JEE TRADING CO INDIA registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:34:58.217551",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Phone",
+    "query": "SHREE JEE TRADING CO INDIA phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:35:09.762165",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREE JEE TRADING CO INDIA",
+    "field": "Phone Number",
+    "value": "+917026252026",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://byshree.com/",
+    "timestamp": "2026-08-14T16:35:11.567211"
+  },
+  {
+    "seller": "SHREE JEE TRADING CO INDIA",
+    "field": "Email",
+    "query": "SHREE JEE TRADING CO INDIA email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://byshree.com/",
+      "https://trackcourier.io/shree-maruti-courier-tracking",
+      "https://shreemaruti.com/",
+      "https://byshree.com/collections/flat-50-off",
+      "https://tracking.shreemaruti.com/"
+    ],
+    "timestamp": "2026-08-14T16:35:13.357315",
+    "status": "results_found"
+  },
+  {
+    "business": "N Z seasonal wear Pvt Ltd",
+    "field": "Business Name",
+    "value": "N Z seasonal wear Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2E3P2DPIXEB03&asin=B08947GQCM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-14T16:35:15.316409"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Website",
+    "query": "N Z seasonal wear Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n"
+    ],
+    "timestamp": "2026-08-14T16:35:16.617553",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "N Z seasonal wear Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:35:24.728841",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "N Z seasonal wear Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:35:32.754023",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "N Z seasonal wear Pvt Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:35:41.705786",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "PAN",
+    "query": "N Z seasonal wear Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:35:46.460881",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "PAN",
+    "query": "N Z seasonal wear Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.netflix.com/"
+    ],
+    "timestamp": "2026-08-14T16:35:57.130212",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "PAN",
+    "query": "N Z seasonal wear Pvt Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:36:02.157126",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "GST",
+    "query": "N Z seasonal wear Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://capcut.en.softonic.com/",
+      "https://www.capcut.com/tools/desktop-video-editor",
+      "https://www.capcut.com/help/download-and-install",
+      "https://capcut.en.softonic.com/android"
+    ],
+    "timestamp": "2026-08-14T16:36:07.388094",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "GST",
+    "query": "N Z seasonal wear Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.netflix.com/"
+    ],
+    "timestamp": "2026-08-14T16:36:15.098196",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "GST",
+    "query": "N Z seasonal wear Pvt Ltd GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:36:19.822905",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Owner",
+    "query": "N Z seasonal wear Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:36:28.331754",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Owner",
+    "query": "N Z seasonal wear Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:36:36.387264",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Owner",
+    "query": "N Z seasonal wear Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:36:46.096494",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Address",
+    "query": "N Z seasonal wear Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n"
+    ],
+    "timestamp": "2026-08-14T16:36:51.098984",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Address",
+    "query": "N Z seasonal wear Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:36:59.439832",
+    "status": "results_found"
+  },
+  {
+    "seller": "N Z seasonal wear Pvt Ltd",
+    "field": "Phone",
+    "query": "N Z seasonal wear Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://en.wiktionary.org/wiki/n",
+      "https://howtotypeanything.com/n-with-accent/"
+    ],
+    "timestamp": "2026-08-14T16:37:12.824214",
+    "status": "results_found"
+  }
+]

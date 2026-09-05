@@ -1,0 +1,777 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B07T1LJTY2&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T12:29:00.880092"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://banyantree.in/delhi/contact-us/",
+      "https://dwello.in/locations/lodhi-road-quarters-lodi-colony-delhi-overview/schools"
+    ],
+    "timestamp": "2026-08-25T12:29:02.847742",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/3286197/what-does-do-in-excel-formulas",
+      "https://stackoverflow.com/questions/981655/how-to-represent-a-datetime-in-excel",
+      "https://stackoverflow.com/questions/854693/printing-excel-using-interop",
+      "https://stackoverflow.com/questions/3549000/return-values-from-the-row-above-to-the-current-row",
+      "https://stackoverflow.com/questions/6934169/how-to-show-current-user-name-in-a-cell"
+    ],
+    "timestamp": "2026-08-25T12:29:11.033152",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://kouseikyoku.mhlw.go.jp/chugokushikoku/index.html",
+      "https://kouseikyoku.mhlw.go.jp/chugokushikoku/shinsei/shido_kansa/shitei_kijun/h24_index.html",
+      "https://kouseikyoku.mhlw.go.jp/chugokushikoku/chousaka/iryoukikanshitei.html",
+      "https://kouseikyoku.mhlw.go.jp/chugokushikoku/chousaka/teireihoukoku.html",
+      "https://kouseikyoku.mhlw.go.jp/shikoku/index.html"
+    ],
+    "timestamp": "2026-08-25T12:29:13.758311",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd legal entity",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.pinkbike.com/",
+      "https://www.pinkbike.com/news/interview-vali-hll-on-3-in-a-row-her-new-team-and-a-game-changing-frankenstein-bike.html"
+    ],
+    "timestamp": "2026-08-25T12:29:19.262272",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://gst.unifers.ai/gst/36AALCR3173P1ZO/retailez-private-limited",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-08-25T12:29:26.581332",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://gst.jamku.app/gstin/06AALCR3173P1ZR"
+    ],
+    "timestamp": "2026-08-25T12:29:50.024946",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-25T12:29:50.680179"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://mycorporateinfo.com/business/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-25T12:29:54.245295",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://stackoverflow.com/questions/5569927/change-google-translate-dropdown-programmatically",
+      "https://stackoverflow.com/questions/4640378/translate-a-php-string-using-google-translator-api",
+      "https://www.kaskus.co.id/register/googleregister"
+    ],
+    "timestamp": "2026-08-25T12:29:59.884978",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kocpc.com.tw/archives/382500",
+      "https://www.kocpc.com.tw/archives/478590",
+      "https://tw.easeus.com/partition-manager-tips/where-is-file-explorer-on-my-computer.html",
+      "https://ithelp.ithome.com.tw/articles/10255123",
+      "https://uptogo.com.tw/%e7%a7%91%e6%8a%80/%e9%9b%bb%e8%85%a6/%e6%aa%94%e6%a1%88%e7%ae%a1%e7%90%86%e5%93%a1%e6%80%8e%e9%ba%bc%e5%8f%ab%e5%87%ba%e4%be%86%ef%bc%9f/"
+    ],
+    "timestamp": "2026-08-25T12:30:02.749813",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://retailez.co.in/partner/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-25T12:30:16.580589",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:30:17.016623"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:30:17.016636"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:30:17.016641"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-25T12:30:17.016644"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/539577836",
+      "https://www.zhihu.com/question/15483265712",
+      "https://www.zhihu.com/question/523846896",
+      "https://www.zhihu.com/pin/1953458719611421474",
+      "https://www.zhihu.com/question/420303640"
+    ],
+    "timestamp": "2026-08-25T12:30:18.049265",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912202200334",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.zhihu.com/question/15483265712",
+    "timestamp": "2026-08-25T12:30:25.087997"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources",
+      "https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python",
+      "https://www.zhihu.com/question/38817640",
+      "https://www.zhihu.com/topic/19552832/intro",
+      "https://es.stackoverflow.com/questions/tagged/python?tab=Newest"
+    ],
+    "timestamp": "2026-08-25T12:30:27.485151",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd official email id",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/e-waste-management/"
+    ],
+    "timestamp": "2026-08-25T12:30:38.590367",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-25T12:30:39.599440"
+  },
+  {
+    "business": "Kinder Tales",
+    "field": "Business Name",
+    "value": "Kinder Tales",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1YDFOX7XSUZR0&asin=B0FQC87L21&ref_=dp_merchant_link",
+    "timestamp": "2026-08-25T12:30:40.068468"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "Website",
+    "query": "Kinder Tales official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.ferrero.com/int/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:30:42.181551",
+    "status": "results_found"
+  },
+  {
+    "business": "Kinder Tales",
+    "field": "Website URL",
+    "value": "https://www.kindertales.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.kindertales.com/",
+    "timestamp": "2026-08-25T12:30:44.470019"
+  },
+  {
+    "business": "Kinder Tales",
+    "field": "Phone Number",
+    "value": "+911232502026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kindertales.com/",
+    "timestamp": "2026-08-25T12:30:45.589766"
+  },
+  {
+    "business": "Kinder Tales",
+    "field": "Email Address",
+    "value": "support@kindertales.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.kindertales.com/",
+    "timestamp": "2026-08-25T12:30:45.589961"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "Legal Entity Name",
+    "query": "Kinder Tales company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kindertales.com/",
+      "https://login.kindertales.com/oauth/account/login",
+      "https://www.kindertales.com/owners-directors",
+      "https://www.kindertales.com/teachers",
+      "https://www.kindertales.com/enterprise"
+    ],
+    "timestamp": "2026-08-25T12:31:10.491773",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "Legal Entity Name",
+    "query": "Kinder Tales Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:31:18.761337",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "Legal Entity Name",
+    "query": "Kinder Tales legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kindertales.com/",
+      "https://login.kindertales.com/oauth/account/login",
+      "https://www.kindertales.com/owners-directors",
+      "https://www.kindertales.com/teachers",
+      "https://www.kindertales.com/enterprise"
+    ],
+    "timestamp": "2026-08-25T12:31:29.387337",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "PAN",
+    "query": "Kinder Tales PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:31:31.104500",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "PAN",
+    "query": "Kinder Tales PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:31:38.192125",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "PAN",
+    "query": "Kinder Tales PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:31:44.707832",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "GST",
+    "query": "Kinder Tales GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:31:52.061663",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "GST",
+    "query": "Kinder Tales GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder",
+      "https://cococart.in/collections/kinder"
+    ],
+    "timestamp": "2026-08-25T12:31:58.968500",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "GST",
+    "query": "Kinder Tales GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:32:11.035594",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "Owner",
+    "query": "Kinder Tales director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder"
+    ],
+    "timestamp": "2026-08-25T12:32:12.782577",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "Owner",
+    "query": "Kinder Tales managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder",
+      "https://cococart.in/collections/kinder"
+    ],
+    "timestamp": "2026-08-25T12:32:19.396990",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kinder Tales",
+    "field": "Address",
+    "query": "Kinder Tales registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.kinder.com/in/en/",
+      "https://www.kinder.com/in/en/xp/kinder-digital-catalogue/hub-en-in",
+      "https://www.ferrero.com/int/en/our-brands/kinder",
+      "https://www.ferrero.com/in/en/our-brands/kinder",
+      "https://cococart.in/collections/kinder"
+    ],
+    "timestamp": "2026-08-25T12:32:42.144742",
+    "status": "results_found"
+  },
+  {
+    "business": "AMBIKA SPORTS WORLDWIDE",
+    "field": "Business Name",
+    "value": "AMBIKA SPORTS WORLDWIDE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SLFOX3OQ59P2&asin=B0FW4GB2T7&ref_=dp_merchant_link",
+    "timestamp": "2026-08-25T12:32:42.814673"
+  },
+  {
+    "seller": "AMBIKA SPORTS WORLDWIDE",
+    "field": "Website",
+    "query": "AMBIKA SPORTS WORLDWIDE official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "http://ambicaaspot.com/"
+    ],
+    "timestamp": "2026-08-25T12:32:44.915212",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMBIKA SPORTS WORLDWIDE",
+    "field": "Legal Entity Name",
+    "query": "AMBIKA SPORTS WORLDWIDE company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://opencorporates.com/registers",
+      "https://tenderkart.in/gst-number-search/33ALOPH7013D1ZH",
+      "https://opencorporates.com/",
+      "https://www.dnb.com/business-directory/company-profiles.ambika_sports.81ccfa23f0556fdf7731d41056f76fd1.html"
+    ],
+    "timestamp": "2026-08-25T12:33:06.292526",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMBIKA SPORTS WORLDWIDE",
+    "field": "PAN",
+    "query": "AMBIKA SPORTS WORLDWIDE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://ambicaaspot.com/",
+      "https://www.imdb.com/name/nm0024302/",
+      "https://www.imdb.com/name/nm0024302/bio/",
+      "https://ambika.group/",
+      "https://www.filmibeat.com/celebs/ambika.html"
+    ],
+    "timestamp": "2026-08-25T12:34:12.307994",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMBIKA SPORTS WORLDWIDE",
+    "field": "GST",
+    "query": "AMBIKA SPORTS WORLDWIDE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://ambicaaspot.com/",
+      "https://www.imdb.com/name/nm0024302/",
+      "https://www.imdb.com/name/nm0024302/bio/",
+      "https://ambika.group/",
+      "https://www.filmibeat.com/celebs/ambika.html"
+    ],
+    "timestamp": "2026-08-25T12:34:36.859587",
+    "status": "results_found"
+  },
+  {
+    "business": "Nirmala trading",
+    "field": "Business Name",
+    "value": "Nirmala trading",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A5WY4AHOEJXJ&asin=B075JJ5GQG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T12:34:44.457045"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Website",
+    "query": "Nirmala trading official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.radio-uk.co.uk/",
+      "https://www.radio-uk.co.uk/talkradio"
+    ],
+    "timestamp": "2026-08-25T12:34:46.742854",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Legal Entity Name",
+    "query": "Nirmala trading company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://nl.puzzelwoord.com/puzzelwoord/-/uit+welke+kunststijl+ontwikkelde+zich+het+surrealisme/",
+      "https://www.puzzelwoordenboeknu.com/uit-welke-kunststijl-ontwikkelde-zich-het-surrealisme-4-letters/",
+      "https://www.puzzelwoordenmijn.com/uit-welke-kunststijl-ontwikkelde-zich-het-surrealisme-4-letters/",
+      "https://www.woordenpuzzel.com/kruiswoordpuzzel/uit-welke-kunststijl-ontwikkelde-zich-het-surrealisme",
+      "https://wedostudio.nl/uit-welke-kunststijl-ontwikkelde-zich-het-surrealisme-4-letters/"
+    ],
+    "timestamp": "2026-08-25T12:34:57.058518",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Legal Entity Name",
+    "query": "Nirmala trading Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://opendatalei.com/lei/6488IT36IT69M44EO070",
+      "https://weedoo.in/udyam-companies/nirmala-trading/gfi5Dp9boZc7Kinm",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.dnb.com/business-directory/company-profiles.nirmala_trading_company.51ae3ac2c5164fead8b49d0c5f5f323d.html",
+      "https://lei.info/6488IT36IT69M44EO070"
+    ],
+    "timestamp": "2026-08-25T12:35:12.771163",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "PAN",
+    "query": "Nirmala trading PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.timeanddate.com/worldclock/india",
+      "https://www.timeanddate.com/worldclock/india/hyderabad",
+      "https://dev.timeanddate.com/time/",
+      "https://www.timeanddate.com/time/zone/india",
+      "https://www.timeanddate.com/worldclock/india/bengaluru"
+    ],
+    "timestamp": "2026-08-25T12:35:16.460741",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "PAN",
+    "query": "Nirmala trading PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bnpparibasfortis.be/nl/public/particulieren/dagelijks-bankieren/betalingen/easy-banking-web",
+      "https://www.bnpparibasfortis.be/nl/generic/logon",
+      "https://www.bnpparibasfortis.be/nl/public/particulieren/",
+      "https://www.bnpparibasfortis.be/nl/public/particulieren/dagelijks-bankieren/betalingen/easy-banking-app"
+    ],
+    "timestamp": "2026-08-25T12:35:24.833430",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "GST",
+    "query": "Nirmala trading GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://global-protect.de/stelle/initiativbewerbung-bei-global-protect-744000143989299/",
+      "https://global-protect.de/",
+      "https://global-protect.de/stelle/objektleiter-im-sicherheitsdienst-744000144687219/",
+      "https://global-protect.de/stelle/sicherheitsmitarbeiter-fuer-klinikum-in-hellersdorf-744000143814661/",
+      "https://global-protect.de/stelle/sicherheitsmitarbeiter-fuer-verwaltungsgebaeude-in-neukoelln-744000143502450/"
+    ],
+    "timestamp": "2026-08-25T12:35:37.411178",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "GST",
+    "query": "Nirmala trading GSTIN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://outlook.office.com/mail/",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-25T12:35:52.204889",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "GST",
+    "query": "Nirmala trading GST number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/nirmala-trading-company-29aaifn1472b1zf/",
+      "https://piceapp.com/gst-number-search/nirmala-trading-co-27aaahr4962a1zc/",
+      "https://www.knowyourgst.com/gst-number-search/nirmala-trading-co-27AAAHR4962A1ZC/",
+      "https://www.knowyourgst.com/gst-number-search/nirmala-trading-company-29AAIFN1472B1ZF/",
+      "https://gst.unifers.ai/gst/29AAIFN1472B1ZF/nirmala-trading-company"
+    ],
+    "timestamp": "2026-08-25T12:35:59.153729",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Owner",
+    "query": "Nirmala trading director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://www.kumthekarscommercialkitchen.com/profile.html",
+      "https://www.tradeindia.com/nirmala-trading-co-2408166/"
+    ],
+    "timestamp": "2026-08-25T12:36:03.154450",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Owner",
+    "query": "Nirmala trading managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://clarifiedby.diligenciagroup.com/company/summary/9237098-nirmala-trading-fze/",
+      "https://www.verif.com/en/company/NIRMALA-TRADING-68d9dfdf1299230338e53cfd/",
+      "https://nirmalatradingcompany.com/",
+      "https://blinkx.in/insights/p-v-nirmala-raju",
+      "https://www.zoominfo.com/p/Pratibha-Kumthekar/8778402700"
+    ],
+    "timestamp": "2026-08-25T12:36:10.272470",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Owner",
+    "query": "Nirmala trading founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.zhihu.com/question/526676715"
+    ],
+    "timestamp": "2026-08-25T12:36:22.491269",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Address",
+    "query": "Nirmala trading registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://my.jh.edu/",
+      "https://my.jh.edu/myJH/",
+      "https://my.jh.edu/html/myjh.html?emergencyAlerts",
+      "https://my.jh.edu/people/sevans29"
+    ],
+    "timestamp": "2026-08-25T12:36:25.941527",
+    "status": "results_found"
+  },
+  {
+    "seller": "Nirmala trading",
+    "field": "Address",
+    "query": "Nirmala trading registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://geekzag.com/guides/computers/get-help-with-file-explorer-in-windows/",
+      "https://www.wikihow.com/Get-Help-with-File-Explorer-in-Windows",
+      "https://www.wikihow.com/Open-Windows-Explorer",
+      "https://techpilipinas.com/get-help-file-explorer-windows/",
+      "https://windowsreport.com/get-help-with-file-explorer-in-windows/"
+    ],
+    "timestamp": "2026-08-25T12:36:36.771486",
+    "status": "results_found"
+  }
+]

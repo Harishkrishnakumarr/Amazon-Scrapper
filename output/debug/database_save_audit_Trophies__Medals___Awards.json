@@ -1,0 +1,61 @@
+{
+  "category": "Trophies, Medals & Awards",
+  "records_before_save": 7,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SURYA ECOMMERCE",
+      "database_id": 685,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Memento World",
+      "database_id": 686,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MUSA INTERNATIONAL",
+      "database_id": 687,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ODESTAR INDIA TECHNOLOGIES",
+      "database_id": 688,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916610234967",
+      "email": "sharkey@odestar.com",
+      "gst": "09EKQPS6021D1ZV",
+      "pan": "EKQPS6021D",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

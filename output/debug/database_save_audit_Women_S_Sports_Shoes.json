@@ -1,0 +1,48 @@
+{
+  "category": "Women'S Sports Shoes",
+  "records_before_save": 7,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1352,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Campusactivewear",
+      "database_id": 1353,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "27AAHCA3072C1Z1",
+      "pan": "AAHCA3072C",
+      "website": "https://www.campusactivewear.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "BansalEnterprises",
+      "database_id": 1354,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918071793182",
+      "email": "kochar45@gmail.com",
+      "gst": "03AUBPB2518F1ZH",
+      "pan": "AUBPB2518F",
+      "website": "https://www.bansalenterprises.com/",
+      "status": "Verified"
+    }
+  ]
+}

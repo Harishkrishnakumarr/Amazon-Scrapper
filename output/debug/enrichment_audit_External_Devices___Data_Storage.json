@@ -1,0 +1,443 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0CNKMDTCB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:16:35.517229"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T13:16:41.476327",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T13:16:45.456314"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T13:16:47.575338"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:17:00.676915",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:17:18.082942",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://gst.jamku.app/gstin/33AAJCC9783E1ZE",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://piceapp.com/gst-number-search/clicktech-retail-private-limited-29aajcc9783e1z3/"
+    ],
+    "timestamp": "2026-08-26T13:18:13.543938",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://powerpoint.cloud.microsoft/ko-kr/",
+      "https://powerpoint.cloud.microsoft/en-gb/",
+      "https://microsoft-powerpoint.en.softonic.com/"
+    ],
+    "timestamp": "2026-08-26T13:18:19.717115",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T13:18:38.815979",
+    "status": "results_found"
+  },
+  {
+    "business": "JOGI COM",
+    "field": "Business Name",
+    "value": "JOGI COM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2S9BLJQUOKQDQ&asin=B0DXKXG9LC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T13:18:40.143473"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "Website",
+    "query": "JOGI COM official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hindusanatanvahini.com/en/history-of-the-jogi-caste/",
+      "https://hindusanatanvahini.com/jogi-caste/"
+    ],
+    "timestamp": "2026-08-26T13:18:44.485454",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "Legal Entity Name",
+    "query": "JOGI COM company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hindusanatanvahini.com/en/history-of-the-jogi-caste/",
+      "https://hindusanatanvahini.com/jogi-caste/"
+    ],
+    "timestamp": "2026-08-26T13:18:59.883832",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "Legal Entity Name",
+    "query": "JOGI COM Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hindusanatanvahini.com/en/history-of-the-jogi-caste/",
+      "https://hindusanatanvahini.com/jogi-caste/"
+    ],
+    "timestamp": "2026-08-26T13:19:11.402357",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "PAN",
+    "query": "JOGI COM PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hindusanatanvahini.com/en/history-of-the-jogi-caste/",
+      "https://hindusanatanvahini.com/jogi-caste/"
+    ],
+    "timestamp": "2026-08-26T13:19:14.559221",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "PAN",
+    "query": "JOGI COM PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-26T13:19:25.473800",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "GST",
+    "query": "JOGI COM GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Online%20brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Online%20brand%20registration&target_name=kwd-83976071688703:loc-90&placement=&keyword_id=Online%20brand%20registration&msclkid=cadac32844561079663ca9a6dec6fd2a",
+      "https://www.easytax.live/s/gst-number-search",
+      "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Online%20brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Online%20brand%20registration&target_name=kwd-83976071688703:loc-90&placement=&keyword_id=Online%20brand%20registration&msclkid=fc3ae595c31f1f7752748f1b598f7bdd"
+    ],
+    "timestamp": "2026-08-26T13:19:37.148654",
+    "status": "results_found"
+  },
+  {
+    "business": "JOGI COM",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Online%20brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Online%20brand%20registration&target_name=kwd-83976071688703:loc-90&placement=&keyword_id=Online%20brand%20registration&msclkid=cadac32844561079663ca9a6dec6fd2a",
+    "timestamp": "2026-08-26T13:19:40.528974"
+  },
+  {
+    "business": "JOGI COM",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Online%20brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Online%20brand%20registration&target_name=kwd-83976071688703:loc-90&placement=&keyword_id=Online%20brand%20registration&msclkid=cadac32844561079663ca9a6dec6fd2a",
+    "timestamp": "2026-08-26T13:19:40.531707"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "Owner",
+    "query": "JOGI COM director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://companydata.com/business-owner-search/",
+      "https://whoistheownerof.com/"
+    ],
+    "timestamp": "2026-08-26T13:19:54.195006",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "Owner",
+    "query": "JOGI COM founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://sogc.org/",
+      "https://learning.sogc.org/topclass/login.do",
+      "https://sogc.org/en/en/rise/Events/event-display.aspx?EventKey=ONCME25V",
+      "https://sogc.org/en/en/content/events/Online-Course-Pages/Online-Course-FAQ-s.aspx"
+    ],
+    "timestamp": "2026-08-26T13:20:08.279676",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "Address",
+    "query": "JOGI COM registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/",
+      "https://find-and-update.company-information.service.gov.uk/?CompanyNumber=00444452",
+      "https://find-and-update.company-information.service.gov.uk/company-name-availability",
+      "https://find-and-update.company-information.service.gov.uk/help/other-filings"
+    ],
+    "timestamp": "2026-08-26T13:20:17.863943",
+    "status": "results_found"
+  },
+  {
+    "seller": "JOGI COM",
+    "field": "Address",
+    "query": "JOGI COM registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.whois.com/whois/",
+      "https://www.whois.com/whois/nokings.org",
+      "https://www.whois.com/whois/ju.edu.jo",
+      "https://www.whois.com/whois/224.0.0.251"
+    ],
+    "timestamp": "2026-08-26T13:20:33.317363",
+    "status": "results_found"
+  },
+  {
+    "business": "Karan Insan",
+    "field": "Business Name",
+    "value": "Karan Insan",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28ORH6PLXVQSI&asin=B0DPKXZBZP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T13:20:39.485546"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "Website",
+    "query": "Karan Insan official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starsunfolded.com/karan-johar/",
+      "https://www.postoast.com/karan-johar-movies/"
+    ],
+    "timestamp": "2026-08-26T13:20:47.301065",
+    "status": "results_found"
+  },
+  {
+    "business": "Karan Insan",
+    "field": "Website URL",
+    "value": "https://starsunfolded.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://starsunfolded.com/karan-johar/",
+    "timestamp": "2026-08-26T13:20:53.199428"
+  },
+  {
+    "business": "Karan Insan",
+    "field": "Email Address",
+    "value": "admin@starsunfolded.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://starsunfolded.com/about",
+    "timestamp": "2026-08-26T13:20:59.182219"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "Legal Entity Name",
+    "query": "Karan Insan company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starsunfolded.com/karan-johar/",
+      "https://www.postoast.com/karan-johar-movies/"
+    ],
+    "timestamp": "2026-08-26T13:21:09.193035",
+    "status": "results_found"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "Legal Entity Name",
+    "query": "Karan Insan Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://golegally.com/mca-company-llp-search",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-08-26T13:21:20.270365",
+    "status": "results_found"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "PAN",
+    "query": "Karan Insan PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starsunfolded.com/karan-johar/",
+      "https://www.postoast.com/karan-johar-movies/"
+    ],
+    "timestamp": "2026-08-26T13:21:25.182163",
+    "status": "results_found"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "GST",
+    "query": "Karan Insan GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/gst/karan-enterprises-27aidpk6058k1zy/",
+      "https://www.mastersindia.co/gst-search/?name=karan&gstin=09CZKPK6376A1Z5"
+    ],
+    "timestamp": "2026-08-26T13:21:49.035232",
+    "status": "results_found"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "Owner",
+    "query": "Karan Insan director owner founder",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.vestfin.com/about-us/bio/KaranSood/"
+    ],
+    "timestamp": "2026-08-26T13:22:04.463328",
+    "status": "results_found"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "Owner",
+    "query": "Karan Insan founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://starsunfolded.com/karan-johar/",
+      "https://www.postoast.com/karan-johar-movies/"
+    ],
+    "timestamp": "2026-08-26T13:22:10.553990",
+    "status": "results_found"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "Address",
+    "query": "Karan Insan registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://starsunfolded.com/karan-johar/"
+    ],
+    "timestamp": "2026-08-26T13:22:12.408022",
+    "status": "results_found"
+  },
+  {
+    "seller": "Karan Insan",
+    "field": "Address",
+    "query": "Karan Insan registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/01ADFPI0799G1ZS",
+      "https://gst.unifers.ai/gst/03ADFPI0799G1ZO/rakesh-insan",
+      "https://www.mastersindia.co/gst-search/?name=rakesh--insan&gstin=03ADFPI0799G1ZO",
+      "https://www.falconebiz.com/LLP/KARAN-INFRABUILD-LLP-ADB-3583"
+    ],
+    "timestamp": "2026-08-26T13:22:17.918497",
+    "status": "results_found"
+  },
+  {
+    "business": "Karan Insan",
+    "field": "GST Number",
+    "value": "01ADFPI0799G1ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/01ADFPI0799G1ZS",
+    "timestamp": "2026-08-26T13:22:19.430111"
+  },
+  {
+    "business": "Karan Insan",
+    "field": "PAN Number",
+    "value": "ADFPI0799G",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/01ADFPI0799G1ZS",
+    "timestamp": "2026-08-26T13:22:19.432312"
+  }
+]

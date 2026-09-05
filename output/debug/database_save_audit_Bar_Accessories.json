@@ -1,0 +1,74 @@
+{
+  "category": "Bar Accessories",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 249,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "info@retailez.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ETrade Online",
+      "database_id": 250,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910111701011",
+      "email": "Not Found",
+      "gst": "27AADCV4254H1Z8",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Parage Unify Crafts",
+      "database_id": 251,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910600102026",
+      "email": "riya.paragunifycrafts@gmail.com",
+      "gst": "07BUGPG2443E1Z0",
+      "pan": "Not Found",
+      "website": "https://www.parageunifycrafts.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "A1 BIZ",
+      "database_id": 252,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910124720261",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Winkelen",
+      "database_id": 253,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919911042026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://winkelen.nl/",
+      "status": "Partially Verified"
+    }
+  ]
+}

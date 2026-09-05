@@ -1,0 +1,74 @@
+{
+  "category": "Baby Hair Brush",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1191,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TONY STARK \u00ae",
+      "database_id": 1192,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "info@domain.example",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "WALNUT INDIA PRIVATE LIMITED",
+      "database_id": 1193,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918899937924",
+      "email": "contact@kashmironlinestore.com",
+      "gst": "01DBGPB6214P1ZU",
+      "pan": "DBGPB6214P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Minku Creations",
+      "database_id": 1194,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919878016007",
+      "email": "info@minkucabs.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://minku.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MOMMAS BABY INDIA",
+      "database_id": 1195,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919789057957",
+      "email": "info@mommasbabyindia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.mommasbabyindia.com/",
+      "status": "Verified"
+    }
+  ]
+}

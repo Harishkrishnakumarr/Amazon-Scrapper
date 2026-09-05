@@ -1,0 +1,74 @@
+{
+  "category": "School Bags & Sets",
+  "records_before_save": 9,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "GIFTIFY INC",
+      "database_id": 1605,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "media@giftifyinc.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.giftifyinc.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1606,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "info@onlinelegalindia.com",
+      "gst": "18AALCR3173P1ZM",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Hamilton Housewares",
+      "database_id": 1607,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@hamiltonindia.in",
+      "gst": "27AABCD1683Q2Z5",
+      "pan": "AABCD1683Q",
+      "website": "https://www.hamiltonwatch.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Global Decor IN",
+      "database_id": 1608,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@globedecor.com",
+      "gst": "27CBJPS5369C1ZA",
+      "pan": "CBJPS5369C",
+      "website": "https://www.merriam-webster.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SaiTech IT Private Limited (Since 2013)",
+      "database_id": 1646,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919429577309",
+      "email": "accounts@saitechit.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

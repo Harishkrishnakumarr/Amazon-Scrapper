@@ -1,0 +1,541 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B07QYM4SFP&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T10:41:51.354749"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://stackoverflow.com/questions/32359814/displaying-lakhs-and-crores-in-google-sheets",
+      "https://stackoverflow.com/questions/6600475/how-do-i-avoid-the-div-0-error-in-google-docs-spreadsheet"
+    ],
+    "timestamp": "2026-08-24T10:41:57.910846",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13300318538",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13256072993"
+    ],
+    "timestamp": "2026-08-24T10:42:10.700574",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://apps.apple.com/us/app/youtube/id544007664",
+      "https://blog.youtube/",
+      "https://www.britannica.com/topic/YouTube"
+    ],
+    "timestamp": "2026-08-24T10:42:23.828390",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/signin",
+      "https://www.zhihu.com/tardis/jm/art/2028764495510615793",
+      "https://www.zhihu.com/question/1923175555286689467",
+      "https://www.zhihu.com/question/1936375725931361485",
+      "https://www.zhihu.com/question/1973709336363701431"
+    ],
+    "timestamp": "2026-08-24T10:42:27.074826",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/8878500909",
+      "https://zhidao.baidu.com/question/65919627.html",
+      "https://zhidao.baidu.com/question/680528696169521332.html",
+      "https://www.zhihu.com/question/535080623",
+      "https://www.zhihu.com/question/271458738"
+    ],
+    "timestamp": "2026-08-24T10:42:53.268573",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://roma.bakeca.it/annunci/offerte-di-lavoro/",
+      "https://it.indeed.com/Roma,-Lazio-offerte-lavoro-Lavoro-A-Roma",
+      "https://www.subito.it/annunci-lazio/vendita/offerte-lavoro/roma/roma/",
+      "https://www.cercolavoro.com/offerte-di-lavoro-roma",
+      "https://offertedilavororoma.it/"
+    ],
+    "timestamp": "2026-08-24T10:43:28.294545",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.techyv.com/article/top-10-interesting-facts-about-alexa/",
+      "https://www.techyv.com/questions/explain-english-pdf-to-hindi-pdf-converter-online-free-2/",
+      "https://www.techyv.com/questions/convert-english-hindi-java-mobiles/",
+      "https://www.techyv.com/questions/how-can-we-use-mangal-font-free-download-for-ms-word-2007-in-daily-life/",
+      "https://www.techyv.com/questions/want-know-shortcutkey-active-bijoy-unicode-english/"
+    ],
+    "timestamp": "2026-08-24T10:43:48.658358",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://accounts.crypto.com/login",
+      "https://accounts.crypto.com/"
+    ],
+    "timestamp": "2026-08-24T10:43:53.888997",
+    "status": "results_found"
+  },
+  {
+    "business": "PRAKASHILA\u00ae ZONED",
+    "field": "Business Name",
+    "value": "PRAKASHILA\u00ae ZONED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A854B5WCKV88G&asin=B096KSH942&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:43:54.777894"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "Website",
+    "query": "PRAKASHILA\u00ae ZONED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://allevents.in/dhaka",
+      "https://allevents.in/jakarta"
+    ],
+    "timestamp": "2026-08-24T10:43:57.704996",
+    "status": "results_found"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "Legal Entity Name",
+    "query": "PRAKASHILA\u00ae ZONED company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.skyscanner.co.in/",
+      "https://www.skyscanner.co.in/flights",
+      "https://www.skyscanner.co.in/flights-from/maa/cheap-flights-from-chennai-airport.html",
+      "https://www.skyscanner.co.in/routes/pnq/del/pune-to-delhi-indira-gandhi-international.html",
+      "https://www.skyscanner.co.in/routes/pnq/maa/pune-to-chennai.html"
+    ],
+    "timestamp": "2026-08-24T10:44:10.706051",
+    "status": "results_found"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "Legal Entity Name",
+    "query": "PRAKASHILA\u00ae ZONED Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.hentaied.com/",
+      "https://forum.hentaied.com/threads/juniper-ren.2168/",
+      "https://ttlc.intuit.com/turbotax-support/en-us/help-article/prior-year-tax-return/access-prior-year-return/L7opE9vDA_US_en_US",
+      "https://ttlc.intuit.com/turbotax-support/en-us/help-article/tax-return/find-last-year-tax-data-file-tax-file-computer/L0XJvPaJr_US_en_US",
+      "https://forum.hentaied.com/threads/cosplaying-known-characters.131/"
+    ],
+    "timestamp": "2026-08-24T10:44:17.883324",
+    "status": "results_found"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "Legal Entity Name",
+    "query": "PRAKASHILA\u00ae ZONED legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.pinterest.com/ideas/scenery-paintings-aesthetic/926543573865/",
+      "https://www.pinterest.com/ideas/aesthetic-landscape-painting-easy/916903016194/",
+      "https://www.shutterstock.com/search/aesthetic-painting-landscape?msockid=105fb27ebe956caf32cfa5c1bfe06da3",
+      "https://kreafolk.com/blogs/inspirations/landscape-painting",
+      "https://in.pinterest.com/atti_kiho/aesthetic-nature-paintings/"
+    ],
+    "timestamp": "2026-08-24T10:44:30.710991",
+    "status": "results_found"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "PAN",
+    "query": "PRAKASHILA\u00ae ZONED PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/leetcode/comments/1bmo2io/400_done_in_3_months_time_to_move_on_to_harder/",
+      "https://www.reddit.com/r/leetcode/comments/wufn1l/which_language_should_be_used_for_leetcode/",
+      "https://www.zhihu.com/column/lingkou",
+      "https://www.zhihu.com/org/ling-kou-leetcode",
+      "https://www.reddit.com/r/leetcode/comments/1c1wpc4/amazon_sde_oa_tips_needed/"
+    ],
+    "timestamp": "2026-08-24T10:44:33.492372",
+    "status": "results_found"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "GST",
+    "query": "PRAKASHILA\u00ae ZONED GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zendesk.com/blog/ai/workflow-automation/ai-powered-ticketing/",
+      "https://www.kommunicate.io/blog/best-ai-tools-for-customer-service/",
+      "https://ones.com/blog/tool-guide/best-ai-ticket-management-tools-a-2026-comparison/",
+      "https://geekflare.com/software/best-customer-service-software/",
+      "https://www.guideflow.com/blog/ai-customer-service-software"
+    ],
+    "timestamp": "2026-08-24T10:44:56.240939",
+    "status": "results_found"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "Owner",
+    "query": "PRAKASHILA\u00ae ZONED director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://encykorea.aks.ac.kr/Article/E0070794",
+      "https://www.korean.go.kr/front/mcfaq/mcfaqView.do?mcfaq_seq=8415",
+      "https://m.blog.naver.com/whtjsdud85/223843709036",
+      "https://blog.naver.com/PostView.naver?blogId=uzings&logNo=222557754338",
+      "https://ko.wiktionary.org/wiki/%E3%85%94"
+    ],
+    "timestamp": "2026-08-24T10:45:22.336236",
+    "status": "results_found"
+  },
+  {
+    "seller": "PRAKASHILA\u00ae ZONED",
+    "field": "Address",
+    "query": "PRAKASHILA\u00ae ZONED registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jma.go.jp/jp/yoho/",
+      "https://tenki.jp/",
+      "https://weathernews.jp/",
+      "https://tenki.jp/forecast/3/16/4410/13104/1hour.html",
+      "https://weathernews.jp/onebox/tenki/tokyo/13104/"
+    ],
+    "timestamp": "2026-08-24T10:45:44.787901",
+    "status": "results_found"
+  },
+  {
+    "business": "Gurfateh Trading Company",
+    "field": "Business Name",
+    "value": "Gurfateh Trading Company",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AVURL67KUFR03&asin=B0FN7M4CM8&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:46:02.210394"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Website",
+    "query": "Gurfateh Trading Company official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-24T10:46:05.039308",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Legal Entity Name",
+    "query": "Gurfateh Trading Company company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.npmjs.com/package/nocache",
+      "https://github.com/Feh/nocache",
+      "https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the",
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control",
+      "https://github.com/Feh/nocache/blob/master/README"
+    ],
+    "timestamp": "2026-08-24T10:46:15.191028",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Legal Entity Name",
+    "query": "Gurfateh Trading Company Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.imdb.com/name/nm4043618/",
+      "https://www.imdb.com/name/nm4043618/bio/",
+      "https://www.idntimes.com/hype/entertainment/profil-dan-biodata-tom-holland-q9t03-00-v8jyb-5m7xhd",
+      "https://www.biography.com/actors/a71594699/tom-holland-profile",
+      "https://www.themoviedb.org/person/1136406-tom-holland"
+    ],
+    "timestamp": "2026-08-24T10:46:34.016736",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "PAN",
+    "query": "Gurfateh Trading Company PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.gurfateh_trading_company.9449b761e6853b5d5b86e77079346b54.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://gstverify.co.in/search/",
+      "https://www.knowyourgst.com/gst-number-search/gurfateh-trading-co-03CKKPS0433H2ZA/"
+    ],
+    "timestamp": "2026-08-24T10:46:50.828150",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "GST",
+    "query": "Gurfateh Trading Company GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/Scams/comments/wip14o/unsolicited_your_new_account_on_xnxx_gold_email/",
+      "https://www.reddit.com/r/datingoverfifty/",
+      "https://www.typologycentral.com/threads/candy-mountain.13040/",
+      "https://www.typologycentral.com/threads/world-of-warcraft-classes-matching-archetypes-with-archetypes.21665/",
+      "https://www.reddit.com/r/TikTok/"
+    ],
+    "timestamp": "2026-08-24T10:47:04.153327",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "GST",
+    "query": "Gurfateh Trading Company GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.nagoya-info.jp/",
+      "https://www.city.nagoya.jp/",
+      "https://travel.rakuten.co.jp/mytrip/ranking/spot-nagoya",
+      "https://www.tabemaro.jp/column/nagoya-tourism/",
+      "https://www.nagoya-info.jp/spot/standard/"
+    ],
+    "timestamp": "2026-08-24T10:47:28.632115",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Owner",
+    "query": "Gurfateh Trading Company director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://openai.com/",
+      "https://chatgpt.com/features",
+      "https://www.techtarget.com/whatis/definition/ChatGPT",
+      "https://deepai.org/chat/gpt-chat"
+    ],
+    "timestamp": "2026-08-24T10:47:30.841670",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Owner",
+    "query": "Gurfateh Trading Company managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://soso-forum.tistory.com/6",
+      "https://www.zhihu.com/question/322530827",
+      "https://www.zhihu.com/question/645441066",
+      "https://www.zhihu.com/tardis/bd/ans/2798147623",
+      "https://www.zhihu.com/people/nogirlnotalk"
+    ],
+    "timestamp": "2026-08-24T10:47:42.463812",
+    "status": "results_found"
+  },
+  {
+    "seller": "Gurfateh Trading Company",
+    "field": "Address",
+    "query": "Gurfateh Trading Company registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.reddit.com/r/GoogleMaps/"
+    ],
+    "timestamp": "2026-08-24T10:48:00.478098",
+    "status": "results_found"
+  },
+  {
+    "business": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "Business Name",
+    "value": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AZL32CYY13RNE&asin=B085CNBJG1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T10:48:05.699477"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "Website",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://court-records.org/louisiana-court-records/",
+      "https://pcl.uscourts.gov/pcl/pages/search/results/cases.jsf"
+    ],
+    "timestamp": "2026-08-24T10:48:07.052938",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "Legal Entity Name",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.manawin.jp/languagegap/general/moshikuwa-matawa/",
+      "https://kotonoha-dictionary.com/or-2/",
+      "https://kotobanomado.com/mataha-mosikuha/",
+      "https://keiyaku-watch.jp/media/kisochishiki/matawa-moshikuwa/",
+      "https://reibuncnt.jp/21674"
+    ],
+    "timestamp": "2026-08-24T10:48:19.218698",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "PAN",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.adairs.com.au/bathroom/towels/",
+      "https://www.bedbathntable.com.au/bath/towels",
+      "https://www.kmart.com.au/category/home-and-living/towels/?msockid=105fb27ebe956caf32cfa5c1bfe06da3",
+      "https://www.spotlightstores.com/en-au/c/towels?msockid=105fb27ebe956caf32cfa5c1bfe06da3",
+      "https://www.myer.com.au/c/home/allbathroom/bath-towels"
+    ],
+    "timestamp": "2026-08-24T10:48:43.211561",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "GST",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/SatisfactoryGame/comments/poc898/alternate_recipes_indepth_analysis_an_objective/",
+      "https://www.reddit.com/r/recipes/comments/ehjgcx/seans_famous_mac_and_cheese/",
+      "https://www.reddit.com/r/DashDiet/comments/eifapv/recipes/",
+      "https://www.reddit.com/r/glutenfree/",
+      "https://www.reddit.com/r/safe_food/"
+    ],
+    "timestamp": "2026-08-24T10:49:07.372788",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "GST",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/golden-sports-surgical-industries-03agjpv1890j1z0/",
+      "https://tenderkart.in/gst-number-search/03AGJPV1890J1Z0",
+      "https://cleartax.in/gst-number-search/",
+      "https://www.tradeindia.com/golden-sports-industries-14366017/",
+      "https://www.justdial.com/Jalandhar/Golden-Sports-And-Surgical-Industries-Near-Bada-Gurudwara-Basti-Sheikh/0181PX181-X181-190727002003-S1I4_BZDET?cat_b2b_flag=1&searchfrom=lst&bd=1&mncatname=Bathroom%20Scale%20Distributors&ncatid=11541857"
+    ],
+    "timestamp": "2026-08-24T10:49:29.004919",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "Owner",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/Lowes/comments/8agyzl/home_depot_or_lowes_who_pays_better/",
+      "https://www.reddit.com/r/HomeImprovement/comments/ryezne/water_heater_from_home_depot_vs_one_from_plumber/",
+      "https://www.reddit.com/r/personalfinance/comments/dbzemp/home_depot_consumer_credit_card_questions_on_6/",
+      "https://www.reddit.com/r/HomeDepot/comments/7jeai2/question_on_renting_a_truck_from_home_depot/",
+      "https://www.reddit.com/r/HomeImprovement/comments/6c4fwz/home_depot_vs_lowes_who_do_you_prefer_and_why/"
+    ],
+    "timestamp": "2026-08-24T10:49:31.561040",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "Owner",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/21040260",
+      "https://www.zhihu.com/question/311272916",
+      "https://www.zhihu.com/question/35029288",
+      "https://www.zhihu.com/question/66165881",
+      "https://www.zhihu.com/question/20295741"
+    ],
+    "timestamp": "2026-08-24T10:49:50.258102",
+    "status": "results_found"
+  },
+  {
+    "seller": "GOLDEN SPORTS & SURGICAL INDUSTRIES",
+    "field": "Address",
+    "query": "GOLDEN SPORTS & SURGICAL INDUSTRIES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_NEWS.html",
+      "https://www.twipcam.com/weather/typhoon",
+      "https://beemi.cc/58",
+      "https://watch.ncdr.nat.gov.tw/watch_typhoon.aspx",
+      "https://typhoon.ebc.net.tw/"
+    ],
+    "timestamp": "2026-08-24T10:49:51.993676",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FM38MRWL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:24:18.735293"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T17:24:23.444516",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T17:24:30.723983"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T17:24:33.758417"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T17:24:43.511584",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T17:24:58.747017"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://gst.unifers.ai/gst/29AAJCC9783E1Z3/clicktech-retail-private-limited",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-27aajcc9783e1z7/"
+    ],
+    "timestamp": "2026-08-26T17:25:09.148349",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T17:25:10.645334"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T17:25:10.645352"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T17:25:10.645364"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+    "timestamp": "2026-08-26T17:25:10.645369"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=0d2f556cfac61e7abcc03fe22efde181",
+      "https://www.knowyourgst.com/gst-number-search/clicktech-retail-private-limited-33AAJCC9783E1ZE/",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/",
+      "https://gst.jamku.app/gstin/33AAJCC9783E1ZE"
+    ],
+    "timestamp": "2026-08-26T17:25:45.363374",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T17:26:01.383511",
+    "status": "results_found"
+  },
+  {
+    "business": "Primebasket99",
+    "field": "Business Name",
+    "value": "Primebasket99",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3RFYKN32795JN&asin=B0H4WB1JSY&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T17:26:02.462951"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "Website",
+    "query": "Primebasket99 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://blog.youtube/"
+    ],
+    "timestamp": "2026-08-26T17:26:10.849493",
+    "status": "results_found"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "Legal Entity Name",
+    "query": "Primebasket99 company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://entitysearch.us/",
+      "https://secretaryofstate.com/",
+      "https://registry-lookup.com/",
+      "https://asic.gov.au/online-services/search-asic-registers/company-and-organisation-registers"
+    ],
+    "timestamp": "2026-08-26T17:26:34.508566",
+    "status": "results_found"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "PAN",
+    "query": "Primebasket99 PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-08-26T17:26:51.128886",
+    "status": "results_found"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "GST",
+    "query": "Primebasket99 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.google.co.in/",
+      "https://search.google/",
+      "https://ai.google/",
+      "https://about.google/company-info/"
+    ],
+    "timestamp": "2026-08-26T17:26:59.379187",
+    "status": "results_found"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "Owner",
+    "query": "Primebasket99 director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T17:27:22.972998",
+    "status": "no_results"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "Owner",
+    "query": "Primebasket99 founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "http://primebasket.info/",
+      "https://www.sellerratings.com/amazon/india/primebasket99",
+      "https://primebasket.co.za/about-us/",
+      "https://www.theprimebasket.com/"
+    ],
+    "timestamp": "2026-08-26T17:27:28.425620",
+    "status": "results_found"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "Address",
+    "query": "Primebasket99 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.pinkbike.com/buysell/list/?region=3&q=yt%20capra",
+      "https://www.pinkbike.com/buysell/list/?region=3&q=yt%20tues&category=1",
+      "https://www.pinkbike.com/news/yt-jeffsy-29-cf-pro-race-first-ride.html",
+      "https://www.pinkbike.com/news/tags/yt-industries/"
+    ],
+    "timestamp": "2026-08-26T17:27:32.409614",
+    "status": "results_found"
+  },
+  {
+    "seller": "Primebasket99",
+    "field": "Phone",
+    "query": "Primebasket99 phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/primebasket99",
+      "https://amazon-india.pissedconsumer.com/customer-service.html",
+      "https://www.wikihow.com/Call-Amazon",
+      "https://www.amazonforum.com/s/question/0D56Q0000DvoiDNSQY/what-is-the-phone-number-for-customer-service"
+    ],
+    "timestamp": "2026-08-26T17:27:55.178557",
+    "status": "results_found"
+  },
+  {
+    "business": "Primebasket99",
+    "field": "Email Address",
+    "value": "grievance-officer@amazon.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://amazon-india.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-26T17:27:59.760520"
+  },
+  {
+    "business": "Primebasket99",
+    "field": "Billing Address",
+    "value": "amazon.com, inc nos. 1401 to 1421, 14th floor block - e, international trade tower nehru place new delhi, delhi 110019 india. use it if you plan to se",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://amazon-india.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-26T17:27:59.779017"
+  },
+  {
+    "business": "Primebasket99",
+    "field": "City",
+    "value": "amazon.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://amazon-india.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-26T17:27:59.779035"
+  },
+  {
+    "business": "Primebasket99",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://amazon-india.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-26T17:27:59.779041"
+  },
+  {
+    "business": "Primebasket99",
+    "field": "Pincode",
+    "value": "110019",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://amazon-india.pissedconsumer.com/customer-service.html",
+    "timestamp": "2026-08-26T17:27:59.779046"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0FGDKPM9K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:28:02.062467"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-08-26T17:28:05.856291",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T17:28:10.040002"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T17:28:11.625016"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-26T17:28:11.625543"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor"
+    ],
+    "timestamp": "2026-08-26T17:28:21.287342",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Cocoblu Retail PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T17:28:38.846617",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/floor",
+      "https://dictionary.cambridge.org/dictionary/english/floor",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://www.aboutcivil.org/Floors.html"
+    ],
+    "timestamp": "2026-08-26T17:28:41.762687",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM"
+    ],
+    "timestamp": "2026-08-26T17:29:07.689276",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "BEFPD2962E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+    "timestamp": "2026-08-26T17:29:09.630230"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T17:29:10.658031"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T17:29:10.658052"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T17:29:10.658056"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-08-26T17:29:10.658060"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-26T17:29:17.701325",
+    "status": "results_found"
+  }
+]

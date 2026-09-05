@@ -1,0 +1,87 @@
+{
+  "category": "Vehicle Music System",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "TODO DEALS.",
+      "database_id": 891,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "user@example.com",
+      "gst": "24AASFT6060D1Z3",
+      "pan": "AASFT6060D",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VRAJ POWERTRONICS",
+      "database_id": 892,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "sales@vrajev.com",
+      "gst": "07AAHFV4165E1Z4",
+      "pan": "AAHFV4165E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 893,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Crust\u00ae",
+      "database_id": 891,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "24AASFT6060D1Z3",
+      "pan": "AASFT6060D",
+      "website": "https://www.britannica.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "EASYSHOP OVERSEAS",
+      "database_id": 894,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@cbinsights.com",
+      "gst": "07BRXPA2925H2ZL",
+      "pan": "BRXPA2925H",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Gear guard",
+      "database_id": 895,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "hello.theengineerspost@gmail.com",
+      "gst": "09AOFPA8271A1ZA",
+      "pan": "AOFPA8271A",
+      "website": "https://shopmygear.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "category": "Hockey",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "CF SPORTS",
+      "database_id": 548,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "itsport1@gmail.com",
+      "gst": "03DUZPB6423C1ZS",
+      "pan": "DUZPB6423C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Rioff Sports",
+      "database_id": 545,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919815563978",
+      "email": "ajtraders1927@gmail.com",
+      "gst": "09JSIPS8096H1ZN",
+      "pan": "JSIPS8096H",
+      "website": "https://rioff.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "The Play, Your Way !",
+      "database_id": 546,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918847044419",
+      "email": "sales@theplayyourway.com",
+      "gst": "03ARMPN4900B1ZA",
+      "pan": "ARMPN4900B",
+      "website": "https://www.theplayyourway.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Liffo Store",
+      "database_id": 547,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919915184368",
+      "email": "helpliffo@gmail.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.liffostore.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FunBlast",
+      "database_id": 1530,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918595494570",
+      "email": "support@inspex.in",
+      "gst": "24AAHFF8457F1ZB",
+      "pan": "AAHFF8457F",
+      "website": "https://funblast.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "MSKR ENTERPRISE",
+      "database_id": 1531,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918239685690",
+      "email": "contact@ctosbasis.com.my",
+      "gst": "36ANKPM5654M2ZB",
+      "pan": "ANKPM5654M",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

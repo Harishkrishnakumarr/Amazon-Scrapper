@@ -1,0 +1,370 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B09G9MVJ64&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T15:06:52.577759"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/enable-or-disable-usb-selective-suspend-in-windows-11.10251/",
+      "https://www.elevenforum.com/"
+    ],
+    "timestamp": "2026-08-28T15:06:56.970477",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apple.com/jp/iphone/",
+      "https://www.maturikun.com/iphone-hikaku-7ikou",
+      "https://www.apple.com/jp/iphone/buy/",
+      "https://sakidori.co/article/1035579"
+    ],
+    "timestamp": "2026-08-28T15:07:07.265206",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://stackoverflow.com/questions/1734005/in-php-what-is-a-binary-string-bxxxx",
+      "https://stackoverflow.com/questions/105034/how-do-i-create-a-guid-uuid",
+      "https://ja.stackoverflow.com/questions/57046/video-src-blobhttps-xxxx-video%e3%81%ae%e5%8b%95%e7%94%bb%e3%81%af%e3%81%a9%e3%81%93%e3%81%ab%e3%81%82%e3%82%8a%e3%81%be%e3%81%99%e3%81%8b",
+      "https://stackoverflow.com/questions/8024440/what-causes-the-error-undefined-reference-to-some-function"
+    ],
+    "timestamp": "2026-08-28T15:07:25.318812",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-28T15:07:34.064393",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T15:07:36.487707"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T15:07:36.487729"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T15:07:36.487733"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-28T15:07:36.487737"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-28T15:07:37.347863"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-28T15:07:37.347889"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://mycorporateinfo.com/business/retailez-private-limited"
+    ],
+    "timestamp": "2026-08-28T15:07:42.550758",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "siddhant@rupa.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://mycorporateinfo.com/business/retailez-private-limited",
+    "timestamp": "2026-08-28T15:07:50.487544"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://local-media.heteml.net/archives/30757",
+      "https://oncasi-debut.biz/5slot-tokyo/",
+      "https://5yenslot.beaminglife.com/archives/152",
+      "http://5slot-search.com/search/3350/3387/"
+    ],
+    "timestamp": "2026-08-28T15:07:53.083939",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ko.windowsnoticias.com/Windows-11%EC%97%90%EC%84%9C-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/",
+      "https://it-curator.com/entry/Windows-11-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%99%84%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9E%A5%EC%B9%98-%EA%B4%80%EB%A6%AC%EC%9E%90%EC%99%80-%EC%A0%9C%EC%A1%B0%EC%82%AC-%ED%88%B4%EA%B9%8C%EC%A7%80-%EC%B4%9D%EC%A0%95%EB%A6%AC-2025",
+      "https://ko.windows.day/?p=28168",
+      "https://nbkomputer.com/windows-11%EC%97%90%EC%84%9C-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84%EB%A5%BC-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-%ED%95%84%EC%88%98-%EB%B0%A9/"
+    ],
+    "timestamp": "2026-08-28T15:07:55.429679",
+    "status": "results_found"
+  },
+  {
+    "business": "GALAXY INCORPORATION",
+    "field": "Business Name",
+    "value": "GALAXY INCORPORATION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AAKCXIO5G6AF4&asin=B0FV8PJFMT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T15:08:11.056546"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Website",
+    "query": "GALAXY INCORPORATION official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/"
+    ],
+    "timestamp": "2026-08-28T15:08:16.005477",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Legal Entity Name",
+    "query": "GALAXY INCORPORATION company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:08:44.144980",
+    "status": "results_found"
+  },
+  {
+    "business": "GALAXY INCORPORATION",
+    "field": "Billing Address",
+    "value": "6th floor, dlf centre, sansad marg, new delhi-110001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9",
+    "timestamp": "2026-08-28T15:08:55.992832"
+  },
+  {
+    "business": "GALAXY INCORPORATION",
+    "field": "City",
+    "value": "new delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9",
+    "timestamp": "2026-08-28T15:08:55.992853"
+  },
+  {
+    "business": "GALAXY INCORPORATION",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9",
+    "timestamp": "2026-08-28T15:08:55.992859"
+  },
+  {
+    "business": "GALAXY INCORPORATION",
+    "field": "Pincode",
+    "value": "110001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9",
+    "timestamp": "2026-08-28T15:08:55.992864"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Legal Entity Name",
+    "query": "GALAXY INCORPORATION Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:09:00.017562",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "PAN",
+    "query": "GALAXY INCORPORATION PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:09:02.319520",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "GST",
+    "query": "GALAXY INCORPORATION GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:09:18.633384",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Owner",
+    "query": "GALAXY INCORPORATION director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:09:35.000465",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Owner",
+    "query": "GALAXY INCORPORATION founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:09:44.027274",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Phone",
+    "query": "GALAXY INCORPORATION phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:09:48.722394",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Phone",
+    "query": "GALAXY INCORPORATION contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:09:56.854145",
+    "status": "results_found"
+  },
+  {
+    "seller": "GALAXY INCORPORATION",
+    "field": "Email",
+    "query": "GALAXY INCORPORATION email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://science.nasa.gov/universe/galaxies/",
+      "https://usegalaxy.org/",
+      "https://www.britannica.com/science/galaxy",
+      "https://www.samsung.com/in/smartphones/?msockid=19c02ef90cf0660f192e393a0d9b67a9"
+    ],
+    "timestamp": "2026-08-28T15:10:06.021265",
+    "status": "results_found"
+  }
+]

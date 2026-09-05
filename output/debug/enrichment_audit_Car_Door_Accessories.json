@@ -1,0 +1,752 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B089QLVCY5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T06:02:18.063724"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c"
+    ],
+    "timestamp": "2026-08-27T06:02:19.834778",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+    "timestamp": "2026-08-27T06:02:49.895251"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:02:57.985378",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc",
+    "timestamp": "2026-08-27T06:03:09.456197"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:03:11.283684",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:03:12.471793",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:03:20.873602",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:03:28.588889",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:03:36.065334",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:03:43.597592",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:03:55.370983",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:04:00.681722",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:04:10.297922",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Phone",
+    "query": "ETrade Online phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "https://us.etrade.com/e/t/user/login?msockid=30b85831e2bc62bd0c5c4ff3e334630c",
+      "http://www.etrade.com/global.html",
+      "https://corpserviceshome.etrade.com/e/t/cspuser/login_csp?vanity=csc"
+    ],
+    "timestamp": "2026-08-27T06:04:18.900703",
+    "status": "results_found"
+  },
+  {
+    "business": "DAZZLIQ",
+    "field": "Business Name",
+    "value": "DAZZLIQ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A23K45F3JSCJWH&asin=B0D98C8936&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:04:19.366794"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Website",
+    "query": "DAZZLIQ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://ko.padlet.com/",
+      "https://padlet.com/"
+    ],
+    "timestamp": "2026-08-27T06:04:20.520077",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Legal Entity Name",
+    "query": "DAZZLIQ company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://dazzlincompany.com/account/register",
+      "https://entitysearch.us/",
+      "https://registry-lookup.com/",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-27T06:04:26.554144",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Legal Entity Name",
+    "query": "DAZZLIQ Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=0e38ed6bab261a74b81987e42d3c26dd&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india"
+    ],
+    "timestamp": "2026-08-27T06:04:33.734368",
+    "status": "results_found"
+  },
+  {
+    "business": "DAZZLIQ",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=0e38ed6bab261a74b81987e42d3c26dd&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-27T06:04:34.690556"
+  },
+  {
+    "business": "DAZZLIQ",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-27T06:04:35.351960"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "PAN",
+    "query": "DAZZLIQ PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing",
+      "https://github.com/eosphoros-ai/DB-GPT",
+      "https://docs.github.com/ja/copilot"
+    ],
+    "timestamp": "2026-08-27T06:04:40.455731",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "PAN",
+    "query": "DAZZLIQ PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://taxguru.in/income-tax/searching-pan-number-details.html"
+    ],
+    "timestamp": "2026-08-27T06:04:55.740269",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "GST",
+    "query": "DAZZLIQ GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/dazzle-09agppn2674n1zi/",
+      "https://piceapp.com/gst-number-search/dazzle-29aamfd4826f1z9/"
+    ],
+    "timestamp": "2026-08-27T06:04:58.795564",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Owner",
+    "query": "DAZZLIQ director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.calcalistech.com/ctechnews/article/r130sqh9ex",
+      "https://en.globes.co.il/en/article-wix-cofounders-new-venture-revealed-1001521089",
+      "https://www.forbes.com/profile/deepinder-goyal/"
+    ],
+    "timestamp": "2026-08-27T06:05:15.044102",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Owner",
+    "query": "DAZZLIQ founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-38299350-impossible-de-me-connecter-a-canva-avec-mail-outlook",
+      "https://forums.commentcamarche.net/forum/affich-38299352-impossible-de-recevoir-le-code-verif-canva",
+      "https://forums.commentcamarche.net/forum/affich-37536445-canva-document-termine-et-apres"
+    ],
+    "timestamp": "2026-08-27T06:05:26.183388",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Address",
+    "query": "DAZZLIQ registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bokep88.vip/cat/bokep-colmek",
+      "https://id.xhamster.com/search/colmek+tete+gede",
+      "https://spankbang.com/ecytw/playlist/indonesia+colmek+terbaru/",
+      "https://dicrotin.com/category/bokep-indonesia/bokep-colmek"
+    ],
+    "timestamp": "2026-08-27T06:05:27.378108",
+    "status": "results_found"
+  },
+  {
+    "seller": "DAZZLIQ",
+    "field": "Address",
+    "query": "DAZZLIQ registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.analog.com/en/products/AD9084.html",
+      "https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/eval-ad9084.html",
+      "https://octopart.com/part/analog-devices/AD9084-FMCA-EBZ",
+      "https://developer.analog.com/docs/system-level/solutions/reference-designs/ad9084_ebz/"
+    ],
+    "timestamp": "2026-08-27T06:05:35.629106",
+    "status": "results_found"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Business Name",
+    "value": "NILKANTH ECOMMERCE HUB",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1A14WMCV3SA2Q&asin=B0H99L8QLL&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:05:41.880932"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "Website",
+    "query": "NILKANTH ECOMMERCE HUB official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://nilkanthdham.org/",
+      "https://www.tripadvisor.in/Attraction_Review-g16731241-d8744156-Reviews-Nilkanth_Dham_Swaminarayan_Temple-Poicha_Vadodara_District_Gujarat.html"
+    ],
+    "timestamp": "2026-08-27T06:05:44.300097",
+    "status": "results_found"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "Legal Entity Name",
+    "query": "NILKANTH ECOMMERCE HUB company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:06:19.363769",
+    "status": "no_results"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "PAN",
+    "query": "NILKANTH ECOMMERCE HUB PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://nilkanth.org/pan.php",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-27T06:07:31.165919",
+    "status": "results_found"
+  },
+  {
+    "seller": "NILKANTH ECOMMERCE HUB",
+    "field": "GST",
+    "query": "NILKANTH ECOMMERCE HUB GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://nilkanthdham.org/",
+      "https://www.tripadvisor.in/Attraction_Review-g16731241-d8744156-Reviews-Nilkanth_Dham_Swaminarayan_Temple-Poicha_Vadodara_District_Gujarat.html",
+      "https://www.neelkanth.co.in/",
+      "https://blog.yatradham.org/nilkanth-dham-poicha/"
+    ],
+    "timestamp": "2026-08-27T06:07:35.328136",
+    "status": "results_found"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Phone Number",
+    "value": "+919099621000",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nilkanthdham.org/",
+    "timestamp": "2026-08-27T06:07:41.483636"
+  },
+  {
+    "business": "NILKANTH ECOMMERCE HUB",
+    "field": "Email Address",
+    "value": "pro@nilkanthdham.org",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://nilkanthdham.org/",
+    "timestamp": "2026-08-27T06:07:41.484305"
+  },
+  {
+    "business": "CLOTHVILLA",
+    "field": "Business Name",
+    "value": "CLOTHVILLA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1J7MIFTR70P4P&asin=B0GWW6CF7B&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:07:52.022782"
+  },
+  {
+    "seller": "CLOTHVILLA",
+    "field": "Website",
+    "query": "CLOTHVILLA official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://clothsvilla.com/",
+      "https://clothsvilla.com/collections/new-arrivals"
+    ],
+    "timestamp": "2026-08-27T06:07:58.710877",
+    "status": "results_found"
+  },
+  {
+    "seller": "CLOTHVILLA",
+    "field": "Legal Entity Name",
+    "query": "CLOTHVILLA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bbs.ruliweb.com/family/242/board/300087/read/1445718",
+      "https://bbs.ruliweb.com/community/board/300143/read/75016313",
+      "https://bbs.ruliweb.com/community/board/300143/read/59848470",
+      "https://bbs.ruliweb.com/family/496/board/102230/read/4297907"
+    ],
+    "timestamp": "2026-08-27T06:09:02.982348",
+    "status": "results_found"
+  },
+  {
+    "seller": "CLOTHVILLA",
+    "field": "PAN",
+    "query": "CLOTHVILLA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:09:20.221492",
+    "status": "no_results"
+  },
+  {
+    "seller": "CLOTHVILLA",
+    "field": "PAN",
+    "query": "CLOTHVILLA PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sjmanhua.com/author/20507.html",
+      "https://adultcomic.dbsearch.net/author/%E5%B1%B1%E6%9C%AC%E7%9B%B4%E6%A8%B9.html",
+      "https://stage1st.com/2b/thread-2007934-1-1.html",
+      "https://www.manhzj.com/manga-author/shan-ben-zhi-shu"
+    ],
+    "timestamp": "2026-08-27T06:09:21.568493",
+    "status": "results_found"
+  },
+  {
+    "seller": "CLOTHVILLA",
+    "field": "GST",
+    "query": "CLOTHVILLA GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.otokokimonokato.com/kouza/obimusubi.html",
+      "https://shitate.org/musubi-kainokuchi/",
+      "https://www.kyozome.info/kitsuke_obi_otoko_k.php",
+      "https://3shisuimei.com/5674.html"
+    ],
+    "timestamp": "2026-08-27T06:09:31.832841",
+    "status": "results_found"
+  },
+  {
+    "seller": "CLOTHVILLA",
+    "field": "GST",
+    "query": "CLOTHVILLA GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:09:46.514176",
+    "status": "no_results"
+  },
+  {
+    "seller": "CLOTHVILLA",
+    "field": "Owner",
+    "query": "CLOTHVILLA director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://clothsvilla.com/pages/about-us",
+      "https://lextechsuite.com/TM--D-CLOTHVILLA--class-25--5368254",
+      "https://tracxn.com/d/companies/clothsvilla/__XZmPNoKCIrfHouBs4gkznMk-cJaydPih7jWz2jWQEb8",
+      "https://www.dnb.com/business-directory/company-profiles.clothvilla_fashion.c90a73a80b185dc26449a1ee5ad06a43.html"
+    ],
+    "timestamp": "2026-08-27T06:09:54.248007",
+    "status": "results_found"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "Business Name",
+    "value": "VASANLADII",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2XTSW5KXKZAK5&asin=B0H6JQPH55&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:09:54.598783"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Website",
+    "query": "VASANLADII official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tirumala.org/Advancebooking.aspx",
+      "https://www.tirumala.org/Sarvadarshanam.aspx"
+    ],
+    "timestamp": "2026-08-27T06:09:57.578917",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Legal Entity Name",
+    "query": "VASANLADII company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://signup.live.com/",
+      "https://outlook.office.com/mail/inbox"
+    ],
+    "timestamp": "2026-08-27T06:10:01.681607",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Legal Entity Name",
+    "query": "VASANLADII Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mytax.hasil.gov.my/",
+      "https://mytax.hasil.gov.my/dashboard-content",
+      "https://mytax.hasil.gov.my/ett/",
+      "https://mytax.hasil.gov.my/userlogin.aspx"
+    ],
+    "timestamp": "2026-08-27T06:10:05.610419",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "PAN",
+    "query": "VASANLADII PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:10:14.887030",
+    "status": "no_results"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "PAN",
+    "query": "VASANLADII PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+      "https://www.wikihow.com/Get-Help-in-Windows-11",
+      "https://thetechgorilla.com/how-to-get-help-in-windows-11/",
+      "https://www.techcommuters.com/how-to-get-help-in-windows-11/"
+    ],
+    "timestamp": "2026-08-27T06:10:15.922050",
+    "status": "results_found"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "Email Address",
+    "value": "raj@how2shout.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.how2shout.com/how-to/how-to-get-help-in-windows-11.html",
+    "timestamp": "2026-08-27T06:10:17.602180"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "GST",
+    "query": "VASANLADII GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://lojen.com.tw/",
+      "https://tn.lojen.com.tw/",
+      "https://lojen.com.tw/montessori",
+      "https://tn.lojen.com.tw/contact"
+    ],
+    "timestamp": "2026-08-27T06:10:25.456218",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Owner",
+    "query": "VASANLADII director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/vasan-health-care-private-limited/__MT4d60g5IpJQTYprPs8AKcvf1fO0_CjO4WCAdRPoNNg",
+      "https://www.marketscreener.com/quote/stock/VADILAL-ENTERPRISES-LIMIT-20706055/company-governance/",
+      "https://companydata.com/business-owner-search/",
+      "https://www.forbes.com/profile/b-partha-saradhi-reddy/"
+    ],
+    "timestamp": "2026-08-27T06:10:45.001660",
+    "status": "results_found"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasan-health-care-private-limited/__MT4d60g5IpJQTYprPs8AKcvf1fO0_CjO4WCAdRPoNNg",
+    "timestamp": "2026-08-27T06:10:46.883536"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasan-health-care-private-limited/__MT4d60g5IpJQTYprPs8AKcvf1fO0_CjO4WCAdRPoNNg",
+    "timestamp": "2026-08-27T06:10:46.883575"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasan-health-care-private-limited/__MT4d60g5IpJQTYprPs8AKcvf1fO0_CjO4WCAdRPoNNg",
+    "timestamp": "2026-08-27T06:10:46.883582"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/vasan-health-care-private-limited/__MT4d60g5IpJQTYprPs8AKcvf1fO0_CjO4WCAdRPoNNg",
+    "timestamp": "2026-08-27T06:10:46.883588"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Owner",
+    "query": "VASANLADII founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wellsfargo.com/",
+      "https://www.wellsfargo.com/mobile-online-banking/",
+      "https://locations.wellsfargo.com/fl/miami",
+      "https://locations.wellsfargo.com/search"
+    ],
+    "timestamp": "2026-08-27T06:10:57.102186",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Phone",
+    "query": "VASANLADII phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://samsung-india.pissedconsumer.com/customer-service.html",
+      "https://help.uber.com/en/",
+      "https://www.contacthelp.com/",
+      "https://www.tollfreenumbers4u.com/"
+    ],
+    "timestamp": "2026-08-27T06:11:00.561247",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Phone",
+    "query": "VASANLADII contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://genius.com/Queen-bohemian-rhapsody-lyrics",
+      "https://www.azlyrics.com/lyrics/queen/bohemianrhapsody.html",
+      "https://www.songtexte.com/songtext/queen/bohemian-rhapsody-73da0ed5.html",
+      "https://lyricstranslate.com/en/Queen-Bohemian-Rhapsody-lyrics.html"
+    ],
+    "timestamp": "2026-08-27T06:11:10.779878",
+    "status": "results_found"
+  }
+]

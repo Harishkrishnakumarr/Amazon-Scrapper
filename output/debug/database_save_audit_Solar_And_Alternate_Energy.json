@@ -1,0 +1,74 @@
+{
+  "category": "Solar And Alternate Energy",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "BOOKBUZZ",
+      "database_id": 1290,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917748980700",
+      "email": "publicity@bookbuzz.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.bookbuzz.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Repro Books-On-Demand",
+      "database_id": 1291,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "contact@kiddihub.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Book Wings- USA",
+      "database_id": 1292,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@booksarewings.org",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.booksarewings.org/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1293,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "raj@how2shout.com",
+      "gst": "37AAJCC8517E1ZK",
+      "pan": "AAJCC8517E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "booksone",
+      "database_id": 1294,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "newslinecl1031fm@outlook.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.booksone.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

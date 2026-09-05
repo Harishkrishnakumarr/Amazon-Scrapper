@@ -1,0 +1,100 @@
+{
+  "category": "Tights & Leggings",
+  "records_before_save": 7,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Neu Look Fashion",
+      "database_id": 1453,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1454,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "JockeyIndia",
+      "database_id": 1455,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "wecare@jockeyindia.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.jockeyindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SHREE Retails",
+      "database_id": 1456,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918925879881",
+      "email": "amazon@gmail.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "webrand seller",
+      "database_id": 1457,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919355582897",
+      "email": "cleartaaxadvisors@taxslabs.com",
+      "gst": "06AAICT6751C1ZD",
+      "pan": "AAICT6751C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "StarIndia.",
+      "database_id": 1455,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918333024179",
+      "email": "ic@jiostar.com",
+      "gst": "07AAACN1335Q1ZA",
+      "pan": "AAACN1335Q",
+      "website": "https://www.jiostar.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GOYAL_STORE",
+      "database_id": 1453,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "ain.revo@gmail.com",
+      "gst": "07ALZPG0024A1ZJ",
+      "pan": "ALZPG0024A",
+      "website": "https://www.goyalstore.com/",
+      "status": "Verified"
+    }
+  ]
+}

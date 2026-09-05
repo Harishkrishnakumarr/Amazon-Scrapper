@@ -1,0 +1,61 @@
+{
+  "category": "Book Covers",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1165,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "care@cocoblu.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.cocoblu.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Qzep",
+      "database_id": 1166,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "sales@kdksoftware.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+      "database_id": 1167,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.velveri.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Regal utility",
+      "database_id": 1168,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919819939302",
+      "email": "orders@regalshoes.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.regaljewellers.net/",
+      "status": "Verified"
+    }
+  ]
+}

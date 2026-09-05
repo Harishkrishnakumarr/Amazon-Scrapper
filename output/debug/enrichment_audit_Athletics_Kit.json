@@ -1,0 +1,689 @@
+[
+  {
+    "business": "SHELLMAN",
+    "field": "Business Name",
+    "value": "SHELLMAN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2R6OFR7D24AIB&asin=B0995HBS2Q&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:30:13.034184"
+  },
+  {
+    "seller": "SHELLMAN",
+    "field": "Website",
+    "query": "SHELLMAN official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.schellman.com/",
+      "https://github.com/Shellman-Project/shellman"
+    ],
+    "timestamp": "2026-08-24T10:30:19.295639",
+    "status": "results_found"
+  },
+  {
+    "business": "SHELLMAN",
+    "field": "Website URL",
+    "value": "https://www.shellman.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shellman.com/",
+    "timestamp": "2026-08-24T10:30:23.153482"
+  },
+  {
+    "business": "SHELLMAN",
+    "field": "Phone Number",
+    "value": "+910030585034",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.shellman.com/",
+    "timestamp": "2026-08-24T10:30:23.478740"
+  },
+  {
+    "seller": "SHELLMAN",
+    "field": "Legal Entity Name",
+    "query": "SHELLMAN company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.schellman.com/",
+      "https://github.com/Shellman-Project/shellman",
+      "https://www.schellman.com/about-us",
+      "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman",
+      "https://www.shellman.dev/guide/"
+    ],
+    "timestamp": "2026-08-24T10:30:32.587239",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHELLMAN",
+    "field": "PAN",
+    "query": "SHELLMAN PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.schellman.com/",
+      "https://github.com/Shellman-Project/shellman",
+      "https://www.schellman.com/about-us",
+      "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman",
+      "https://www.shellman.dev/guide/"
+    ],
+    "timestamp": "2026-08-24T10:31:01.993080",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHELLMAN",
+    "field": "PAN",
+    "query": "SHELLMAN PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.schellman.com/",
+      "https://github.com/Shellman-Project/shellman",
+      "https://www.schellman.com/about-us",
+      "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman",
+      "https://www.shellman.dev/guide/"
+    ],
+    "timestamp": "2026-08-24T10:31:17.053560",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHELLMAN",
+    "field": "GST",
+    "query": "SHELLMAN GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.schellman.com/",
+      "https://github.com/Shellman-Project/shellman",
+      "https://www.schellman.com/about-us",
+      "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman",
+      "https://www.shellman.dev/guide/"
+    ],
+    "timestamp": "2026-08-24T10:31:19.177940",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHELLMAN",
+    "field": "Owner",
+    "query": "SHELLMAN director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.schellman.com/",
+      "https://github.com/Shellman-Project/shellman",
+      "https://www.schellman.com/about-us",
+      "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman",
+      "https://www.shellman.dev/guide/"
+    ],
+    "timestamp": "2026-08-24T10:31:45.679973",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHELLMAN",
+    "field": "Address",
+    "query": "SHELLMAN registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.schellman.com/",
+      "https://github.com/Shellman-Project/shellman",
+      "https://www.schellman.com/about-us",
+      "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman",
+      "https://www.shellman.dev/guide/"
+    ],
+    "timestamp": "2026-08-24T10:32:05.553511",
+    "status": "results_found"
+  },
+  {
+    "business": "Shivani Plastics",
+    "field": "Business Name",
+    "value": "Shivani Plastics",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JFQSM97G13LC&asin=B0GHNXFMXC&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:32:14.029723"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "Website",
+    "query": "Shivani Plastics official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.protolabs.com/services/injection-molding/plastic-injection-molding/?utm_source=bing&utm_medium=cpc&utm_campaign=US-IM_Bing_SEM_NB_InjectionMolding_Processes_D&msclkid=5c7e3437acd217ddf0195ebc7cbeee29&utm_term=plastics%20molding%20service&utm_content=IM%20%3E%20Processes%20%3E%20Plastic%20Injection%20Molding%20%3E%20Plastic%20Molding%20Service",
+      "https://www.shivaniplastic.co.in/"
+    ],
+    "timestamp": "2026-08-24T10:32:22.059136",
+    "status": "results_found"
+  },
+  {
+    "business": "Shivani Plastics",
+    "field": "Website URL",
+    "value": "https://www.protolabs.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.protolabs.com/services/injection-molding/plastic-injection-molding/?utm_source=bing&utm_medium=cpc&utm_campaign=US-IM_Bing_SEM_NB_InjectionMolding_Processes_D&msclkid=5c7e3437acd217ddf0195ebc7cbeee29&utm_term=plastics%20molding%20service&utm_content=IM%20%3E%20Processes%20%3E%20Plastic%20Injection%20Molding%20%3E%20Plastic%20Molding%20Service",
+    "timestamp": "2026-08-24T10:32:27.024199"
+  },
+  {
+    "business": "Shivani Plastics",
+    "field": "Phone Number",
+    "value": "+910319992026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.protolabs.com/",
+    "timestamp": "2026-08-24T10:32:29.418237"
+  },
+  {
+    "business": "Shivani Plastics",
+    "field": "Email Address",
+    "value": "customerservice@protolabs.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.protolabs.com/",
+    "timestamp": "2026-08-24T10:32:29.419073"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "Legal Entity Name",
+    "query": "Shivani Plastics company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/"
+    ],
+    "timestamp": "2026-08-24T10:32:41.693585",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "Legal Entity Name",
+    "query": "Shivani Plastics Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:32:48.428816",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "Legal Entity Name",
+    "query": "Shivani Plastics legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:32:58.943102",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "PAN",
+    "query": "Shivani Plastics PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:33:01.033055",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "PAN",
+    "query": "Shivani Plastics PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:33:08.798462",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "GST",
+    "query": "Shivani Plastics GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:33:27.207493",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "GST",
+    "query": "Shivani Plastics GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:33:37.665377",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "Owner",
+    "query": "Shivani Plastics director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.shivani_plastic.7c4bc946a5822759caa83cff612c6b22.html",
+      "https://www.shivaniplasticindustries.com/company-profile.html",
+      "https://wefru.com/contact/STZUMS93bERiT25RUVd1QnNUOEJtZz09"
+    ],
+    "timestamp": "2026-08-24T10:33:49.805370",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "Owner",
+    "query": "Shivani Plastics managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:33:58.818498",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shivani Plastics",
+    "field": "Address",
+    "query": "Shivani Plastics registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shivvani.in/",
+      "https://www.momjunction.com/baby-names/shivani/",
+      "https://www.myupchar.com/baby-names/meaning-of-shivani"
+    ],
+    "timestamp": "2026-08-24T10:34:05.739408",
+    "status": "results_found"
+  },
+  {
+    "business": "serveuttam india",
+    "field": "Business Name",
+    "value": "serveuttam india",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SZBDZ05A1P39&asin=B09G3LDHB6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T10:34:15.825290"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Website",
+    "query": "serveuttam india official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.liqui-moly.com/",
+      "https://www.liqui-moly.com/en/in/engine-oils.html"
+    ],
+    "timestamp": "2026-08-24T10:34:18.118767",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Legal Entity Name",
+    "query": "serveuttam india company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/blogs/containerization-using-docker/",
+      "https://www.docker.com/resources/what-container/",
+      "https://www.docker.com/products/docker-desktop/",
+      "https://www.geeksforgeeks.org/devops/docker-tutorial/",
+      "https://docs.docker.com/"
+    ],
+    "timestamp": "2026-08-24T10:34:27.391501",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Legal Entity Name",
+    "query": "serveuttam india Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "http://school-m.com/",
+      "http://school-m.com/gb5/bbs/board.php?bo_table=s2&wr_id=3",
+      "http://school-m.com/gb5/bbs/board.php?bo_table=s2&wr_id=17",
+      "http://school-m.com/s/",
+      "http://school-m.com/gb5/bbs/board.php?bo_table=s5&wr_id=16&page=2"
+    ],
+    "timestamp": "2026-08-24T10:34:43.282498",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "PAN",
+    "query": "serveuttam india PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan",
+      "https://www.pan.utiitsl.com/PAN/",
+      "https://cleartax.in/s/how-to-know-pan-card-number",
+      "https://incometaxindia.gov.in/tax-services/status-of-pan-utitsl",
+      "https://www.utiitsl.com/"
+    ],
+    "timestamp": "2026-08-24T10:35:00.207583",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "GST",
+    "query": "serveuttam india GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.office.com/login",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-24T10:35:19.036220",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "GST",
+    "query": "serveuttam india GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://app.codemonkey.com/login",
+      "https://app.codemonkey.com/language_modal",
+      "https://www.codemonkey.com/",
+      "https://app.codemonkey.com/login/scan-qr",
+      "https://app.codemonkey.com/games/bD5J9M8n"
+    ],
+    "timestamp": "2026-08-24T10:35:29.995675",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Owner",
+    "query": "serveuttam india director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jrkyushu.co.jp/",
+      "https://www.jrkyushu.co.jp/railway/netyoyaku/",
+      "https://www.jrkyushu.co.jp/railway/routemap/",
+      "https://www.jrkyushu.co.jp/hello/",
+      "https://www.jrkyushu.co.jp/railway/ticket/rule/04/"
+    ],
+    "timestamp": "2026-08-24T10:35:44.603007",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Owner",
+    "query": "serveuttam india managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/",
+      "https://github.com/2dust/v2rayN/releases",
+      "https://docs.github.com/en/copilot/concepts/agents/about-agent-skills",
+      "https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13",
+      "https://docs.github.com/zh/github-cli/github-cli/quickstart"
+    ],
+    "timestamp": "2026-08-24T10:35:59.571444",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Address",
+    "query": "serveuttam india registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.onthisday.com/today/events.php",
+      "https://www.onthisday.com/",
+      "https://www.britannica.com/on-this-day",
+      "https://www.timeanddate.com/on-this-day/",
+      "https://todayinhistory.app/"
+    ],
+    "timestamp": "2026-08-24T10:36:05.487909",
+    "status": "results_found"
+  },
+  {
+    "seller": "serveuttam india",
+    "field": "Address",
+    "query": "serveuttam india registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.lowyat.net/",
+      "https://forum.lowyat.net/topic/5572270",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-24T10:36:13.843399",
+    "status": "results_found"
+  },
+  {
+    "business": "TRENDING SALE",
+    "field": "Business Name",
+    "value": "TRENDING SALE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANK40F0MALBLT&asin=B0H8P3W5R8&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T10:36:16.260556"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "Website",
+    "query": "TRENDING SALE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/"
+    ],
+    "timestamp": "2026-08-24T10:36:17.820262",
+    "status": "results_found"
+  },
+  {
+    "business": "TRENDING SALE",
+    "field": "Website URL",
+    "value": "https://www.trendingsale.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.trendingsale.com/",
+    "timestamp": "2026-08-24T10:36:20.904793"
+  },
+  {
+    "business": "TRENDING SALE",
+    "field": "Phone Number",
+    "value": "+919305522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.trendingsale.com/",
+    "timestamp": "2026-08-24T10:36:22.304499"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "Legal Entity Name",
+    "query": "TRENDING SALE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:36:31.179412",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "Legal Entity Name",
+    "query": "TRENDING SALE Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:36:43.105106",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "PAN",
+    "query": "TRENDING SALE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:36:52.291762",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "PAN",
+    "query": "TRENDING SALE PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:37:05.724726",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "GST",
+    "query": "TRENDING SALE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:37:16.185100",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "GST",
+    "query": "TRENDING SALE GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:37:32.231346",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "Owner",
+    "query": "TRENDING SALE director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:37:33.552230",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "Owner",
+    "query": "TRENDING SALE managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:37:46.207909",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "Address",
+    "query": "TRENDING SALE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:37:57.211501",
+    "status": "results_found"
+  },
+  {
+    "seller": "TRENDING SALE",
+    "field": "Email",
+    "query": "TRENDING SALE email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ndtv.com/trends",
+      "https://trends.google.co.in/trends/",
+      "https://trends.google.co.in/trending",
+      "https://mostviewed.today/",
+      "https://explodingtopics.com/blog/trending-topics"
+    ],
+    "timestamp": "2026-08-24T10:38:17.934442",
+    "status": "results_found"
+  }
+]

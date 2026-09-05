@@ -1,0 +1,74 @@
+{
+  "category": "Radio Communication",
+  "records_before_save": 9,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Melodymedia",
+      "database_id": 774,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916363772699",
+      "email": "support@melodymedia.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.melodymedia.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Khanna Publishers",
+      "database_id": 775,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919910909320",
+      "email": "contact@khannabooks.com",
+      "gst": "07AAIFK6845K1ZU",
+      "pan": "AAIFK6845K",
+      "website": "https://www.khannapublishers.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Carzy frog",
+      "database_id": 776,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Needs Review"
+    },
+    {
+      "business_name": "AMOOCA STORE",
+      "database_id": 777,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917406346660",
+      "email": "support@pw.live",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 778,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

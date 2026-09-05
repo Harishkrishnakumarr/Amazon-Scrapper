@@ -1,0 +1,61 @@
+{
+  "category": "Athletics Kit",
+  "records_before_save": 10,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SHELLMAN",
+      "database_id": 497,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910030585034",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.shellman.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Shivani Plastics",
+      "database_id": 498,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910319992026",
+      "email": "customerservice@protolabs.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.protolabs.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "serveuttam india",
+      "database_id": 499,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TRENDING SALE",
+      "database_id": 500,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919305522026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.trendingsale.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

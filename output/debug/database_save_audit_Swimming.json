@@ -1,0 +1,61 @@
+{
+  "category": "Swimming",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 476,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "support@statusfield.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "PrimeNest Retail 221",
+      "database_id": 477,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918201220267",
+      "email": "info@primenestbrandsllc.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "A.P. ENTERPRISES",
+      "database_id": 478,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918022912026",
+      "email": "info@apenterprises.net",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.apenterprises.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Ozean World",
+      "database_id": 479,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913613242026",
+      "email": "forum@xnxx.com",
+      "gst": "Not Found",
+      "pan": "DARPM6290L",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

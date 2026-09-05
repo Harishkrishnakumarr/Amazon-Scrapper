@@ -1,0 +1,877 @@
+[
+  {
+    "business": "SuperSox",
+    "field": "Business Name",
+    "value": "SuperSox",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1SW84PY9R8PD9&asin=B0CKHZKMR8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:46:02.504574"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "Website",
+    "query": "SuperSox official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://supersox.in/collections/men/men-socks",
+      "https://supersoxofficial.shop/about"
+    ],
+    "timestamp": "2026-09-02T20:46:04.543508",
+    "status": "results_found"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Website URL",
+    "value": "https://supersoxofficial.shop/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://supersoxofficial.shop/about",
+    "timestamp": "2026-09-02T20:46:14.370858"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Email Address",
+    "value": "support@supersox.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://supersoxofficial.shop/contact",
+    "timestamp": "2026-09-02T20:46:17.298712"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "Legal Entity Name",
+    "query": "SuperSox company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/search",
+      "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY"
+    ],
+    "timestamp": "2026-09-02T20:46:19.634700",
+    "status": "results_found"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:46:20.660893"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY",
+    "timestamp": "2026-09-02T20:46:26.611448"
+  },
+  {
+    "business": "SuperSox",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY",
+    "timestamp": "2026-09-02T20:46:26.611461"
+  },
+  {
+    "business": "SuperSox",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY",
+    "timestamp": "2026-09-02T20:46:26.611464"
+  },
+  {
+    "business": "SuperSox",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY",
+    "timestamp": "2026-09-02T20:46:26.611468"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "Legal Entity Name",
+    "query": "SuperSox Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://company.vakilsearch.com/",
+      "https://udyamsearch.com/",
+      "https://www.infossel.in/private-limited-company-registration/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T20:46:27.872562",
+    "status": "results_found"
+  },
+  {
+    "business": "SuperSox",
+    "field": "GST Number",
+    "value": "33AABCU7650C1ZM",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://company.vakilsearch.com/",
+    "timestamp": "2026-09-02T20:46:28.820390"
+  },
+  {
+    "business": "SuperSox",
+    "field": "PAN Number",
+    "value": "AABCU7650C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://company.vakilsearch.com/",
+    "timestamp": "2026-09-02T20:46:28.820408"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "Owner",
+    "query": "SuperSox director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY",
+      "https://superknit.com/team-member/harsh-saraf/",
+      "https://superknit.com/our-team/",
+      "https://investor.wedbush.com/wedbush/article/getnews-2023-12-19-supersox-a-brand-by-super-knit-industries-is-here-to-make-people-rethink-whats-on-their-feet"
+    ],
+    "timestamp": "2026-09-02T20:46:34.277180",
+    "status": "results_found"
+  },
+  {
+    "seller": "SuperSox",
+    "field": "Owner",
+    "query": "SuperSox founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/supersox/__e6WmYClfY61VGzFOBEzJiL6vOD1AWwLhpFtNKkJkoKY",
+      "https://superknit.com/team-member/harsh-saraf/",
+      "https://superknit.com/about-us/",
+      "https://www.zoominfo.com/c/supersox/1340961217"
+    ],
+    "timestamp": "2026-09-02T20:46:42.111829",
+    "status": "results_found"
+  },
+  {
+    "business": "AddonHolding",
+    "field": "Business Name",
+    "value": "AddonHolding",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A31WLMQ64YY61M&isAmazonFulfilled=1&asin=B08R8ZZ2ZS&ref_=olp_merch_name_2",
+    "timestamp": "2026-09-02T20:46:45.393588"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "Website",
+    "query": "AddonHolding official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://addonbooking.com/",
+      "https://addonbooking.com"
+    ],
+    "timestamp": "2026-09-02T20:46:46.595943",
+    "status": "results_found"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "Legal Entity Name",
+    "query": "AddonHolding company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/addon-holdings-private-limited#:~:text=The%20Corporate%20Identification%20Number%20%28CIN%29%20is%20U74900MH1996PTC098586%20and,capital%20is%20%E2%82%B915000000%20and%20paid-up%20capital%20is%20%E2%82%B912481250.",
+      "https://www.companydetails.in/company/addon-holdings-private-limited",
+      "https://www.thecompanycheck.com/company/addon-holdings-private-limited/U74900MH1996PTC098586",
+      "https://www.quickcompany.in/company/addon-holdings-private-limited"
+    ],
+    "timestamp": "2026-09-02T20:46:49.676681",
+    "status": "results_found"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "PAN",
+    "query": "AddonHolding PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-02T20:47:37.781028",
+    "status": "no_results"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "GST",
+    "query": "AddonHolding GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/addon-holding-pvt-ltd-27aaaca8827a1zz/",
+      "https://fnshiftsolutions.com/gstin-search/addon-holdings-private-limited-27AAACA8827A1ZZ",
+      "https://www.mastersindia.co/gst-search/?name=addon-holdings-private-limited&gstin=27AAACA8827A1ZZ",
+      "https://www.knowyourgst.com/gst-number-search/addon-holding-pvt-ltd-27AAACA8827A1ZZ/"
+    ],
+    "timestamp": "2026-09-02T20:47:39.553593",
+    "status": "results_found"
+  },
+  {
+    "business": "AddonHolding",
+    "field": "GST Number",
+    "value": "27AAACA8827A1ZZ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/addon-holdings-private-limited-27AAACA8827A1ZZ",
+    "timestamp": "2026-09-02T20:47:40.387889"
+  },
+  {
+    "business": "AddonHolding",
+    "field": "PAN Number",
+    "value": "AAACA8827A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/addon-holdings-private-limited-27AAACA8827A1ZZ",
+    "timestamp": "2026-09-02T20:47:40.387898"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "Owner",
+    "query": "AddonHolding director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/addon-holdings-private-limited",
+      "https://www.thecompanycheck.com/company/addon-holdings-private-limited/U74900MH1996PTC098586",
+      "https://www.emis.com/php/company-profile/IN/Addon_Holdings_Private_Limited_en_6087919.html",
+      "https://www.indiafilings.com/search/addon-holdings-private-limited-cin-U74900MH1996PTC098586"
+    ],
+    "timestamp": "2026-09-02T20:47:41.628502",
+    "status": "results_found"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "Address",
+    "query": "AddonHolding registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/addon-holdings-private-limited",
+      "https://www.thecompanycheck.com/company/addon-holdings-private-limited/U74900MH1996PTC098586",
+      "https://www.masterdata.in/company/addon_holdings_private_limited/U74900MH1996PTC098586",
+      "https://www.insiderbiz.in/company-map/ADDON-HOLDINGS-PRIVATE-LIMITED"
+    ],
+    "timestamp": "2026-09-02T20:48:00.562594",
+    "status": "results_found"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "Phone",
+    "query": "AddonHolding phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://addonbooking.com/index.php?route=information/contact&language=en-gb",
+      "https://php.worldindia.in/addon_holding/",
+      "https://php.worldindia.in/addon_holding/about-us",
+      "https://www.indiaindustry.biz/company-addon-holding-pvt-in-maharashtra-135893"
+    ],
+    "timestamp": "2026-09-02T20:48:32.385774",
+    "status": "results_found"
+  },
+  {
+    "business": "AddonHolding",
+    "field": "Email Address",
+    "value": "info@addonholdings.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://php.worldindia.in/addon_holding/",
+    "timestamp": "2026-09-02T20:48:37.130073"
+  },
+  {
+    "seller": "AddonHolding",
+    "field": "Phone",
+    "query": "AddonHolding contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://php.worldindia.in/addon_holding/",
+      "https://php.worldindia.in/addon_holding/about-us",
+      "https://www.indiaindustry.biz/company-addon-holding-pvt-in-maharashtra-135893",
+      "https://www.dnb.com/business-directory/company-profiles.addon_holdings_private_limited.71f81580a137213a1e2df01780b859c7.html"
+    ],
+    "timestamp": "2026-09-02T20:48:40.085255",
+    "status": "results_found"
+  },
+  {
+    "business": "QNIMSWAM",
+    "field": "Business Name",
+    "value": "QNIMSWAM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2VQTJGBPQOYX8&asin=B0HDP4TVF5&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T20:48:43.200859"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "Website",
+    "query": "QNIMSWAM official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ad.doubleclick.net/searchads/link/click?&ds_a_cid=127445227&ds_a_caid=506251605&ds_a_agid=1269937718297897&ds_a_fiid=&ds_a_lid=kwd-79371632639434:loc-90&ds_a_extid={extensionid}&&ds_e_adid=&ds_e_matchtype=search&ds_e_device=c&ds_e_network=o&&ds_url_v=2&ds_dest_url=https://www.woodcraft.com/search?options%5Bprefix%5D=last&q=Maksiwa&view=products&gclsrc=3p.ds&&msclkid=ca10fd86938e1dec6d77971eaded1bd2&utm_source=bing&utm_medium=cpc&utm_campaign=Search%20%7C%20Maksiwa%20%7C%2008%2F05%2F2026&utm_term=maksiwa&utm_content=Brand%20%7C%20Maksiwa%20Machines",
+      "https://ad.doubleclick.net/searchads/link/click?&ds_a_cid=127445227&ds_a_caid=506251605&ds_a_agid=1269937718297897&ds_a_fiid=8864935446485&ds_a_lid=kwd-79371632639434:loc-90&ds_a_extid={extensionid}&&ds_e_adid=&ds_e_matchtype=search&ds_e_device=c&ds_e_network=o&&ds_url_v=2&ds_dest_url=https://www.woodcraft.com/products/rikon-8-slow-speed-grinder-1-2-hp?gclsrc=3p.ds&&msclkid=074903ad9b701579b5866935a5136756&utm_source=bing&utm_medium=cpc&utm_campaign=Search%20%7C%20Maksiwa%20%7C%2008%2F05%2F2026&utm_term=maksiwa&utm_content=Brand%20%7C%20Maksiwa%20Machines"
+    ],
+    "timestamp": "2026-09-02T20:48:46.414559",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "Legal Entity Name",
+    "query": "QNIMSWAM company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://udyamsearch.com/",
+      "https://www.quickcompany.in/company"
+    ],
+    "timestamp": "2026-09-02T20:48:51.813084",
+    "status": "results_found"
+  },
+  {
+    "business": "QNIMSWAM",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:48:52.198462"
+  },
+  {
+    "business": "QNIMSWAM",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:48:52.198637"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "Legal Entity Name",
+    "query": "QNIMSWAM Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://udyamsearch.com/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-02T20:48:54.478637",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "PAN",
+    "query": "QNIMSWAM PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://savetaxs.com/blog/how-to-know-pan-card-number#:~:text=Use%20the%20PAN%20mobile%20app%2C%20select%20%22Know%20Your,to%20get%20your%20Permanent%20Account%20Number%20after%20verification.",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://savetaxs.com/blog/how-to-know-pan-card-number",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-09-02T20:48:58.085773",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "PAN",
+    "query": "QNIMSWAM PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide#:~:text=The%20first%20step%20is%20to%20visit%20the%20official,including%20retrieving%20your%20PAN%20card%20number%20by%20name.",
+      "https://blog.pancardonlineindia.com/index.php/how-to-search-for-a-name-using-a-pan-number-a-step-by-step-guide",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-02T20:49:02.776150",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "GST",
+    "query": "QNIMSWAM GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://taxguru.in/goods-and-service-tax/gst-registration-small-proprietorship-firm.html",
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-02T20:49:06.748890",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "GST",
+    "query": "QNIMSWAM GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://findgst.in/gstin-by-name"
+    ],
+    "timestamp": "2026-09-02T20:49:10.856538",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "Owner",
+    "query": "QNIMSWAM director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://zauba.company/",
+      "https://www.inspex.in/",
+      "https://www.companyseekers.com/",
+      "https://www.wintro.in/"
+    ],
+    "timestamp": "2026-09-02T20:49:17.456115",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "Owner",
+    "query": "QNIMSWAM founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://creativecommons.org/licenses/by-sa/3.0/",
+      "https://beststartup.in/kunal-shah-whatsapp-ceo-cred-founder-2026/",
+      "https://animism-spirit-world.weebly.com/history.html",
+      "https://qz.com/india/1006647/freshworks-the-cto-of-this-chennai-startup-is-proof-that-the-passion-to-code-matters-more-than-an-iit-degree"
+    ],
+    "timestamp": "2026-09-02T20:49:24.852354",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "Address",
+    "query": "QNIMSWAM registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.scribd.com/document/633574518/Latest-Contact-details-Circlewise",
+      "https://lemreveal.com/data/india",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-09-02T20:49:30.766191",
+    "status": "results_found"
+  },
+  {
+    "seller": "QNIMSWAM",
+    "field": "Address",
+    "query": "QNIMSWAM registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.registrationwala.com/company-search",
+      "https://gstdetails.com/get-address-using-gst/",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-09-02T20:49:39.870832",
+    "status": "results_found"
+  },
+  {
+    "business": "DIVUE\u00ae",
+    "field": "Business Name",
+    "value": "DIVUE\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A316ZAX4LK1FTD&asin=B0FPRJKXF7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:49:44.480171"
+  },
+  {
+    "seller": "DIVUE\u00ae",
+    "field": "Website",
+    "query": "DIVUE\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "http://www.divue.com/",
+      "https://tastedive.com/"
+    ],
+    "timestamp": "2026-09-02T20:49:45.884641",
+    "status": "results_found"
+  },
+  {
+    "seller": "DIVUE\u00ae",
+    "field": "Legal Entity Name",
+    "query": "DIVUE\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://www.divue.com/",
+      "https://www.inspex.in/",
+      "https://www.knowyourgst.com/gst-number-search/divue-enterprise-27BYQPD7450L1ZV/",
+      "https://www.quickcompany.in/company"
+    ],
+    "timestamp": "2026-09-02T20:51:12.969795",
+    "status": "results_found"
+  },
+  {
+    "business": "DIVUE\u00ae",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:51:55.600194"
+  },
+  {
+    "business": "DIVUE\u00ae",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:51:55.600364"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B08R8ZZ2ZS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T20:51:55.756922"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T20:51:56.938012",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:51:59.488271"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:51:59.885988"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T20:51:59.886480"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-32AAJCC8517E1ZU/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T20:52:03.607637",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T20:52:04.095823"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T20:52:04.095837"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T20:52:05.415181",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:52:05.827778"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:52:05.827788"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:52:05.827790"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T20:52:05.827792"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T20:52:09.174841"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T20:52:11.618312",
+    "status": "results_found"
+  },
+  {
+    "business": "AARNA BHL",
+    "field": "Business Name",
+    "value": "AARNA BHL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/details/?seller=A1U767DEXHXYN2&sshmPath=shipping-rates",
+    "timestamp": "2026-09-02T20:52:13.678382"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "Website",
+    "query": "AARNA BHL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bhel.com/",
+      "https://www.bhel.com/bhel-glance"
+    ],
+    "timestamp": "2026-09-02T20:52:14.906215",
+    "status": "results_found"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "Legal Entity Name",
+    "query": "AARNA BHL company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company/aarna-global-industries-private-limited-U25920KA2026PTC220651",
+      "https://www.thecompanycheck.com/company/aarna-global-business-consultancy-private-limited/U70200GJ2024PTC156481",
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/search/aarna-corp-private-limited-cin-U74900KA2024PTC195969"
+    ],
+    "timestamp": "2026-09-02T20:52:23.468141",
+    "status": "results_found"
+  },
+  {
+    "business": "AARNA BHL",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/aarna-global-industries-private-limited-U25920KA2026PTC220651",
+    "timestamp": "2026-09-02T20:52:24.432532"
+  },
+  {
+    "business": "AARNA BHL",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T20:52:26.057208"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "Legal Entity Name",
+    "query": "AARNA BHL Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/aarna-business-private-limited",
+      "https://www.dnb.com/business-directory/company-profiles.aarna_business_private_limited.76b0e0ebd9f334f8d908fe19fef2b8ba.html",
+      "https://legalsuvidha.com/blog/how-to-check-company-registration-status-in-india-2",
+      "https://mycorporateinfo.com/"
+    ],
+    "timestamp": "2026-09-02T20:52:28.155493",
+    "status": "results_found"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "PAN",
+    "query": "AARNA BHL PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://my.gstzen.in/m/taxpayers/pan/aarna-ventures-private-limited/AATCA0996P/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-number-by-name-search-a-complete-guide",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-09-02T20:52:52.445670",
+    "status": "results_found"
+  },
+  {
+    "business": "AARNA BHL",
+    "field": "GST Number",
+    "value": "03AATCA0996P1ZX",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/aarna-ventures-private-limited/AATCA0996P/",
+    "timestamp": "2026-09-02T20:52:53.806914"
+  },
+  {
+    "business": "AARNA BHL",
+    "field": "PAN Number",
+    "value": "AATCA0996P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://my.gstzen.in/m/taxpayers/pan/aarna-ventures-private-limited/AATCA0996P/",
+    "timestamp": "2026-09-02T20:52:53.806927"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "Owner",
+    "query": "AARNA BHL director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aarnaholdings.com/our-team",
+      "https://www.weforum.org/people/ameya-prabhu/",
+      "https://www.aarnaholdings.com/about-us",
+      "https://grupowerthein.com/wp-content/uploads/2024/06/Grupo-Werthein-and-Aarna.pdf"
+    ],
+    "timestamp": "2026-09-02T20:52:55.474677",
+    "status": "results_found"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "Owner",
+    "query": "AARNA BHL founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aarnaholdings.com/our-team",
+      "https://merolagani.com/CompanyDetail.aspx?symbol=BHL",
+      "https://www.weforum.org/people/ameya-prabhu/",
+      "https://www.registerkaro.in/company/aarna-global-industries-private-limited-U25920KA2026PTC220651"
+    ],
+    "timestamp": "2026-09-02T20:53:04.085461",
+    "status": "results_found"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "Address",
+    "query": "AARNA BHL registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://craft.co/aarna/locations",
+      "https://www.indiafilings.com/search/aarna-corp-private-limited-cin-U74900KA2024PTC195969",
+      "https://craft.co/bhel/locations",
+      "https://www.thecompanycheck.com/company/aarna-corp-private-limited/U74900KA2024PTC195969"
+    ],
+    "timestamp": "2026-09-02T20:53:09.881049",
+    "status": "results_found"
+  },
+  {
+    "seller": "AARNA BHL",
+    "field": "Address",
+    "query": "AARNA BHL registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company/aarna-global-industries-private-limited-U25920KA2026PTC220651",
+      "https://craft.co/aarna/locations",
+      "https://www.aarnalaw.com/",
+      "https://www.aarnalaw.com/contact-us"
+    ],
+    "timestamp": "2026-09-02T20:53:14.806295",
+    "status": "results_found"
+  }
+]

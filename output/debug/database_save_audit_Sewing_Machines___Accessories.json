@@ -1,0 +1,61 @@
+{
+  "category": "Sewing Machines & Accessories",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Jay Gurudev Craft & Tailoring Materials",
+      "database_id": 1118,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "uprsby@yahoo.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Perfect deal",
+      "database_id": 1119,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.azlyrics.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Megnetron Alpha",
+      "database_id": 1120,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@imgupscaler.ai",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cartell Mart",
+      "database_id": 1121,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917174142663",
+      "email": "info@cartell.com",
+      "gst": "27AADCC5617R1Z5",
+      "pan": "AADCC5617R",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

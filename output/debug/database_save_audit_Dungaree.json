@@ -1,0 +1,61 @@
+{
+  "category": "Dungaree",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 133,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600552026",
+      "email": "customercare@clicktechretail.in",
+      "gst": "33AAJCC9783E1ZE",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 134,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Woven Fabric Company.",
+      "database_id": 135,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911400117025",
+      "email": "info@wovenfabriccompany.com",
+      "gst": "29AAAFW8351Q1ZB",
+      "pan": "Not Found",
+      "website": "https://www.wovenfabriccompany.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "StyleStone",
+      "database_id": 136,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916064602026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.stylestone.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

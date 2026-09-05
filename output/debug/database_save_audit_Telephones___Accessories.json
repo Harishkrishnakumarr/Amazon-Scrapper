@@ -1,0 +1,87 @@
+{
+  "category": "Telephones & Accessories",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "CuteCritters Mart",
+      "database_id": 779,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "27DPNPS3715F1ZK",
+      "pan": "DPNPS3715F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 780,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Goodwill Retail",
+      "database_id": 781,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918012278000",
+      "email": "grievance@gwcindia.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.goodwillretail.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Zorbes Shop",
+      "database_id": 782,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919812644480",
+      "email": "support@orami.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://veriluxhub.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Rudra Traders - Hakuho",
+      "database_id": 783,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CPU Tech",
+      "database_id": 784,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.geeksforgeeks.org/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+[
+  {
+    "business": "VIKI FURNITURE",
+    "field": "Business Name",
+    "value": "VIKI FURNITURE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2VQOLRW0XTGMB&asin=B0FP8YX4P9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:44:24.163731"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "Website",
+    "query": "VIKI FURNITURE official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.vikifurniture.com/",
+      "https://www.vikifurniture.com/collections/coffee-side-tables-1"
+    ],
+    "timestamp": "2026-08-17T09:44:25.755726",
+    "status": "results_found"
+  },
+  {
+    "business": "VIKI FURNITURE",
+    "field": "Website URL",
+    "value": "https://www.vikifurniture.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vikifurniture.com/",
+    "timestamp": "2026-08-17T09:44:30.058290"
+  },
+  {
+    "business": "VIKI FURNITURE",
+    "field": "Phone Number",
+    "value": "+917891020263",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vikifurniture.com/",
+    "timestamp": "2026-08-17T09:44:33.243134"
+  },
+  {
+    "business": "VIKI FURNITURE",
+    "field": "Email Address",
+    "value": "info@vikifurniture.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vikifurniture.com/",
+    "timestamp": "2026-08-17T09:44:33.243716"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "Legal Entity Name",
+    "query": "VIKI FURNITURE company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:44:42.523380",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "PAN",
+    "query": "VIKI FURNITURE PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:45:02.209008",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "PAN",
+    "query": "VIKI FURNITURE PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:45:12.793876",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "GST",
+    "query": "VIKI FURNITURE GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:45:26.581919",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "GST",
+    "query": "VIKI FURNITURE GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:45:37.329540",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "Owner",
+    "query": "VIKI FURNITURE director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:45:47.109982",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "Owner",
+    "query": "VIKI FURNITURE managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:45:55.786472",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "Address",
+    "query": "VIKI FURNITURE registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:46:13.430779",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKI FURNITURE",
+    "field": "Address",
+    "query": "VIKI FURNITURE registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.viki.com/",
+      "https://www.viki.com/sign-in",
+      "https://www.viki.com/apps",
+      "https://www.viki.com/movies",
+      "https://www.justwatch.com/us/provider/rakuten-viki"
+    ],
+    "timestamp": "2026-08-17T09:46:25.545666",
+    "status": "results_found"
+  },
+  {
+    "business": "DEION",
+    "field": "Business Name",
+    "value": "DEION",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1SZSWTXND0LP5&asin=B0GFBGKWJ9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:46:26.343518"
+  },
+  {
+    "seller": "DEION",
+    "field": "Website",
+    "query": "DEION official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.spotlightstores.com/en-au?msockid=2c6ee573cf346c5d3ef1f2cbcecd6d64",
+      "https://www.spotlightstores.com/en-nz/home-decor?msockid=2c6ee573cf346c5d3ef1f2cbcecd6d64"
+    ],
+    "timestamp": "2026-08-17T09:46:28.499314",
+    "status": "results_found"
+  },
+  {
+    "business": "DEION",
+    "field": "Website URL",
+    "value": "https://www.deion.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.deion.com/",
+    "timestamp": "2026-08-17T09:46:31.832645"
+  },
+  {
+    "business": "DEION",
+    "field": "Phone Number",
+    "value": "+917368662026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.deion.com/",
+    "timestamp": "2026-08-17T09:46:34.127138"
+  },
+  {
+    "seller": "DEION",
+    "field": "Legal Entity Name",
+    "query": "DEION company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bokepviral.cc/category/bokep-indo/",
+      "https://bokepjepang.me/category/bokep-indo/page/2/",
+      "https://www.eporner.com/tag/indo-terbaru/",
+      "https://bokepindo.video/bokep-indo-terbaru/",
+      "https://www.porndig.com/channels/1241/bokep"
+    ],
+    "timestamp": "2026-08-17T09:46:41.132281",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEION",
+    "field": "Legal Entity Name",
+    "query": "DEION Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://cgv.co.kr/",
+      "https://cgv.co.kr/cnm/bzplcCgv/0059001",
+      "https://cgv.co.kr/cnm/specialCnm/detail?sscnsNo=1",
+      "https://cgv.co.kr/cnm/bzplcCgv/0013001",
+      "https://cgv.co.kr/cnm/bzplcCgv/0160001"
+    ],
+    "timestamp": "2026-08-17T09:46:54.641439",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEION",
+    "field": "PAN",
+    "query": "DEION PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://comfort-inn-bay-city.hotelsinvictoria.net/en/",
+      "https://www.baycitygeelongmotel.top/",
+      "https://www.booking.com/hotel/au/comfort-inn-bay-city-motel.html?msockid=2c6ee573cf346c5d3ef1f2cbcecd6d64",
+      "https://www.hotel.com.au/geelong/bay-city(geelong)-motel.htm",
+      "https://www.hotel.com.au/geelong/bay-city-(geelong)-motel.htm"
+    ],
+    "timestamp": "2026-08-17T09:47:01.714352",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEION",
+    "field": "PAN",
+    "query": "DEION PAN",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-17T09:47:32.762842",
+    "status": "no_results"
+  },
+  {
+    "seller": "DEION",
+    "field": "GST",
+    "query": "DEION GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://apps.apple.com/ru/app/instagram/id389801252",
+      "https://apps.apple.com/gb/app/instagram/id389801252",
+      "https://www.reddit.com/r/Instagramreality/",
+      "https://www.reddit.com/r/Chaewon/",
+      "https://dailythemedcrosswordanswers.com/___-cerny-instagram-and-youtube-mega-influencer-who-is-known-for-her-comedy-sketches-daily-themed-crossword"
+    ],
+    "timestamp": "2026-08-17T09:47:34.021312",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEION",
+    "field": "GST",
+    "query": "DEION GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.studyassist.gov.au/",
+      "https://www.money.com.au/personal-loans/education-loans",
+      "https://www.ato.gov.au/individuals-and-families/study-and-training-support-loans/types-of-loans",
+      "https://www.studyassist.gov.au/financial-and-study-support",
+      "https://www.education.gov.au/higher-education-loan-program"
+    ],
+    "timestamp": "2026-08-17T09:47:46.353702",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEION",
+    "field": "Owner",
+    "query": "DEION director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.whenwewereyoungfestival.com/",
+      "https://www.whenwewereyoungfestival.com/privacy",
+      "https://shop.whenwewereyoungfestival.com/"
+    ],
+    "timestamp": "2026-08-17T09:47:56.710325",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEION",
+    "field": "Owner",
+    "query": "DEION managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044",
+      "https://www.zhihu.com/question/382486986"
+    ],
+    "timestamp": "2026-08-17T09:48:06.439388",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEION",
+    "field": "Address",
+    "query": "DEION registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/2031458671385911868",
+      "https://www.zhihu.com/question/2052047431735550018",
+      "https://jingyan.baidu.com/article/c33e3f483b65d5ea15cbb516.html",
+      "https://jingyan.baidu.com/article/c910274b3adbdf8d371d2d03.html",
+      "https://www.zhihu.com/question/309660435"
+    ],
+    "timestamp": "2026-08-17T09:48:19.203447",
+    "status": "results_found"
+  },
+  {
+    "business": "Walia trader",
+    "field": "Business Name",
+    "value": "Walia trader",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1CB4ZBCFJ1DW6&asin=B0FYNBNYZY&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:48:37.095117"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Website",
+    "query": "Walia trader official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia"
+    ],
+    "timestamp": "2026-08-17T09:48:41.315443",
+    "status": "results_found"
+  },
+  {
+    "business": "Walia trader",
+    "field": "Website URL",
+    "value": "https://www.waliagroup.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.waliagroup.in/",
+    "timestamp": "2026-08-17T09:48:45.693739"
+  },
+  {
+    "business": "Walia trader",
+    "field": "Phone Number",
+    "value": "+917940202425",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.waliagroup.in/",
+    "timestamp": "2026-08-17T09:48:47.025615"
+  },
+  {
+    "business": "Walia trader",
+    "field": "Email Address",
+    "value": "sales@waliagroup.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.waliagroup.in/",
+    "timestamp": "2026-08-17T09:48:47.025709"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Legal Entity Name",
+    "query": "Walia trader company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:48:54.011324",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Legal Entity Name",
+    "query": "Walia trader Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:49:02.280734",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Legal Entity Name",
+    "query": "Walia trader legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:49:08.169490",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "PAN",
+    "query": "Walia trader PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:49:15.196105",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "PAN",
+    "query": "Walia trader PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia"
+    ],
+    "timestamp": "2026-08-17T09:49:21.443370",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "PAN",
+    "query": "Walia trader PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.waliagroup.in/"
+    ],
+    "timestamp": "2026-08-17T09:49:26.444253",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "GST",
+    "query": "Walia trader GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:49:29.179015",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "GST",
+    "query": "Walia trader GSTIN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.waliagroup.in/"
+    ],
+    "timestamp": "2026-08-17T09:49:33.718432",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "GST",
+    "query": "Walia trader GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:49:35.692147",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Owner",
+    "query": "Walia trader director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:49:41.344063",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Owner",
+    "query": "Walia trader managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:49:48.699251",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Address",
+    "query": "Walia trader registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.waliagroup.in/",
+      "https://forebears.io/surnames/walia",
+      "https://walia.com/?page_id=101"
+    ],
+    "timestamp": "2026-08-17T09:50:03.368818",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Address",
+    "query": "Walia trader registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.waliagroup.in/"
+    ],
+    "timestamp": "2026-08-17T09:50:08.913950",
+    "status": "results_found"
+  },
+  {
+    "seller": "Walia trader",
+    "field": "Address",
+    "query": "Walia trader head office address",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.footballdb.com/teams/nfl/philadelphia-eagles/teamvsteam?opp=16",
+      "https://www.footballdb.com/teams/nfl/kansas-city-chiefs/teamvsteam?opp=24",
+      "https://www.pro-football-reference.com/boxscores/game_query.cgi?tm1=phi&tm2=kan&yr=all"
+    ],
+    "timestamp": "2026-08-17T09:50:11.390327",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "category": "Foosball",
+  "records_before_save": 7,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 533,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Step Over",
+      "database_id": 534,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911112026930",
+      "email": "info@stepover.de",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.stepover.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "EchoKart",
+      "database_id": 535,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://echokart.in/",
+      "status": "Partially Verified"
+    }
+  ]
+}

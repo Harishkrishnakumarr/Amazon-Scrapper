@@ -1,0 +1,87 @@
+{
+  "category": "Disposables",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Times Retail Inc",
+      "database_id": 283,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913072492012",
+      "email": "info@theretailtimes.co.in",
+      "gst": "03AYJPB2999N1ZZ",
+      "pan": "Not Found",
+      "website": "https://theretailtimes.co.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 284,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600552026",
+      "email": "customercare@clicktechretail.in",
+      "gst": "27AAJCC9783E1Z7",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Eco Soul Home",
+      "database_id": 285,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912120262024",
+      "email": "care.india@ecosoulhome.com",
+      "gst": "29AAGCE4809A1ZV",
+      "pan": "Not Found",
+      "website": "https://www.ecosoulhome.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "POTENT BRANDS",
+      "database_id": 286,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912101222026",
+      "email": "info@potentproducts.in",
+      "gst": "37AAOCP4409M1ZU",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "HEEMAKSHI ENTERPRISES",
+      "database_id": 287,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918293031444",
+      "email": "grievance-officer@amazon.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Medical Device store",
+      "database_id": 288,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "27AACFF0843J1ZJ",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

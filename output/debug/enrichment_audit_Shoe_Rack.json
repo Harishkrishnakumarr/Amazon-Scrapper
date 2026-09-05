@@ -1,0 +1,410 @@
+[
+  {
+    "business": "FLIPZON",
+    "field": "Business Name",
+    "value": "FLIPZON",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A181PXQL5SYILU&asin=B09T3GWM4H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T11:25:45.719518"
+  },
+  {
+    "seller": "FLIPZON",
+    "field": "Website",
+    "query": "FLIPZON official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.flipzonapp.com/",
+      "https://flipzon.online/"
+    ],
+    "timestamp": "2026-08-17T11:25:47.641476",
+    "status": "results_found"
+  },
+  {
+    "business": "FLIPZON",
+    "field": "Website URL",
+    "value": "https://www.flipzonapp.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.flipzonapp.com/",
+    "timestamp": "2026-08-17T11:26:00.532126"
+  },
+  {
+    "business": "FLIPZON",
+    "field": "Phone Number",
+    "value": "+916720072026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.flipzonapp.com/",
+    "timestamp": "2026-08-17T11:26:01.814630"
+  },
+  {
+    "business": "FLIPZON",
+    "field": "Email Address",
+    "value": "contact.flipzon@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.flipzonapp.com/",
+    "timestamp": "2026-08-17T11:26:01.816775"
+  },
+  {
+    "seller": "FLIPZON",
+    "field": "Legal Entity Name",
+    "query": "FLIPZON company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/asgeirtj/system_prompts_leaks",
+      "https://www.reddit.com/r/writing/",
+      "https://www.zhihu.com/question/2058849029027632241",
+      "https://www.reddit.com/r/AirForce/"
+    ],
+    "timestamp": "2026-08-17T11:26:16.006705",
+    "status": "results_found"
+  },
+  {
+    "seller": "FLIPZON",
+    "field": "PAN",
+    "query": "FLIPZON PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.oppo.com/my/smartphones/series-reno/reno8-5g/specs/",
+      "https://www.gsmarena.com/oppo_reno8-11684.php",
+      "https://www.oppo.com/en/smartphones/series-reno/reno8-5g/specs/",
+      "https://www.mobilesundar.com/Oppo-Reno-8-5G-9798.html",
+      "https://gsmchina.com/smartphones/oppo-reno8-5g/"
+    ],
+    "timestamp": "2026-08-17T11:26:41.404255",
+    "status": "results_found"
+  },
+  {
+    "seller": "FLIPZON",
+    "field": "PAN",
+    "query": "FLIPZON PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/",
+      "https://github.com/alvr-org/alvr",
+      "https://gist.github.com/spiiin/85711b2f2be6918bd1977d7ca79c29da",
+      "https://gist.github.com/roachhd/d579b58148d7e36a6b72",
+      "https://github.com/mubaraknumann/unifideck"
+    ],
+    "timestamp": "2026-08-17T11:26:57.405517",
+    "status": "results_found"
+  },
+  {
+    "seller": "FLIPZON",
+    "field": "GST",
+    "query": "FLIPZON GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1473969934",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1146776141",
+      "https://hasunoha.jp/questions/71632",
+      "https://hasunoha.jp/questions/76946",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1016216535"
+    ],
+    "timestamp": "2026-08-17T11:27:06.690605",
+    "status": "results_found"
+  },
+  {
+    "seller": "FLIPZON",
+    "field": "Owner",
+    "query": "FLIPZON director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/forum/threads/displaying-youtube-livechat-comments-on-stream-without-streamyard-free.144897/",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-08-17T11:27:27.779581",
+    "status": "results_found"
+  },
+  {
+    "seller": "FLIPZON",
+    "field": "Owner",
+    "query": "FLIPZON managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://manus.im/",
+      "https://manus.im/app",
+      "https://baike.baidu.com/item/Manus/65463546",
+      "https://www.aigc.cn/manus",
+      "https://manusai.bot/agent"
+    ],
+    "timestamp": "2026-08-17T11:27:34.818822",
+    "status": "results_found"
+  },
+  {
+    "business": "Studio Kook",
+    "field": "Business Name",
+    "value": "Studio Kook",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1RRQ2A5WMCDV3&asin=B0CZ9C2FXB&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T11:27:47.004732"
+  },
+  {
+    "seller": "Studio Kook",
+    "field": "Website",
+    "query": "Studio Kook official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://app.studio.com/",
+      "https://studiomumbai.com/"
+    ],
+    "timestamp": "2026-08-17T11:27:49.627717",
+    "status": "results_found"
+  },
+  {
+    "business": "Studio Kook",
+    "field": "Website URL",
+    "value": "https://www.studiokook.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.studiokook.com/",
+    "timestamp": "2026-08-17T11:27:57.156189"
+  },
+  {
+    "business": "Studio Kook",
+    "field": "Phone Number",
+    "value": "+912577882026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.studiokook.com/",
+    "timestamp": "2026-08-17T11:28:01.357401"
+  },
+  {
+    "business": "Studio Kook",
+    "field": "Email Address",
+    "value": "info@studiokook.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.studiokook.com/",
+    "timestamp": "2026-08-17T11:28:01.358243"
+  },
+  {
+    "seller": "Studio Kook",
+    "field": "Legal Entity Name",
+    "query": "Studio Kook company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://app.studio.com/",
+      "https://studiomumbai.com/",
+      "https://developer.android.com/studio",
+      "https://www.archdaily.com/office/studio-mumbai"
+    ],
+    "timestamp": "2026-08-17T11:28:14.525313",
+    "status": "results_found"
+  },
+  {
+    "seller": "Studio Kook",
+    "field": "PAN",
+    "query": "Studio Kook PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://app.studio.com/",
+      "https://studiomumbai.com/",
+      "https://developer.android.com/studio",
+      "https://www.archdaily.com/office/studio-mumbai"
+    ],
+    "timestamp": "2026-08-17T11:28:41.035906",
+    "status": "results_found"
+  },
+  {
+    "seller": "Studio Kook",
+    "field": "GST",
+    "query": "Studio Kook GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://app.studio.com/",
+      "https://studiomumbai.com/",
+      "https://developer.android.com/studio",
+      "https://www.archdaily.com/office/studio-mumbai"
+    ],
+    "timestamp": "2026-08-17T11:29:20.548067",
+    "status": "results_found"
+  },
+  {
+    "seller": "Studio Kook",
+    "field": "Owner",
+    "query": "Studio Kook director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://app.studio.com/",
+      "https://studiomumbai.com/",
+      "https://developer.android.com/studio",
+      "https://www.archdaily.com/office/studio-mumbai"
+    ],
+    "timestamp": "2026-08-17T11:29:25.292706",
+    "status": "results_found"
+  },
+  {
+    "seller": "Studio Kook",
+    "field": "Owner",
+    "query": "Studio Kook managing director",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://app.studio.com/",
+      "https://studiomumbai.com/",
+      "https://developer.android.com/studio",
+      "https://www.archdaily.com/office/studio-mumbai"
+    ],
+    "timestamp": "2026-08-17T11:29:35.452700",
+    "status": "results_found"
+  },
+  {
+    "seller": "Studio Kook",
+    "field": "Address",
+    "query": "Studio Kook registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://app.studio.com/",
+      "https://studiomumbai.com/",
+      "https://developer.android.com/studio",
+      "https://www.archdaily.com/office/studio-mumbai"
+    ],
+    "timestamp": "2026-08-17T11:29:50.246586",
+    "status": "results_found"
+  },
+  {
+    "business": "MEVIGO",
+    "field": "Business Name",
+    "value": "MEVIGO",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A18BS4H3LYB2AK&asin=B0HBPMCMNN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T11:29:51.481640"
+  },
+  {
+    "seller": "MEVIGO",
+    "field": "Website",
+    "query": "MEVIGO official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.croxyproxy.com/",
+      "https://www.proxysite.com/"
+    ],
+    "timestamp": "2026-08-17T11:29:56.004963",
+    "status": "results_found"
+  },
+  {
+    "seller": "MEVIGO",
+    "field": "Legal Entity Name",
+    "query": "MEVIGO company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ithelp.ithome.com.tw/questions/10214285",
+      "https://www.zhihu.com/question/447253187",
+      "https://ithelp.ithome.com.tw/articles/10347654",
+      "https://www.zhihu.com/question/29711587",
+      "https://jingyan.baidu.com/article/425e69e6f05b9eff15fc1684.html"
+    ],
+    "timestamp": "2026-08-17T11:30:14.016816",
+    "status": "results_found"
+  },
+  {
+    "seller": "MEVIGO",
+    "field": "PAN",
+    "query": "MEVIGO PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.thaiairways.com/flights/en/flights-from-dubai-to-bangkok",
+      "https://www.thaiairways.com/flights/en-ae/flights-from-dubai",
+      "https://mythai.thaiairways.com/CustomerSignIn/",
+      "https://flight-status.com/thai-airways-route/dxb-to-bkk",
+      "https://www.yatra.com/international-airlines/thai-airways-flight-status"
+    ],
+    "timestamp": "2026-08-17T11:30:36.919870",
+    "status": "results_found"
+  },
+  {
+    "seller": "MEVIGO",
+    "field": "GST",
+    "query": "MEVIGO GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/mevigo-24AURPS6022R1ZS/",
+      "https://gst.unifers.ai/gst/24AURPS6022R1ZS/rameshbhai-ghelabhai-sutaria",
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/searchtp",
+      "https://reg.gst.gov.in/registration/generateuid"
+    ],
+    "timestamp": "2026-08-17T11:31:01.701546",
+    "status": "results_found"
+  },
+  {
+    "business": "MEVIGO",
+    "field": "GST Number",
+    "value": "24AURPS6022R1ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/mevigo-24AURPS6022R1ZS/",
+    "timestamp": "2026-08-17T11:31:02.657254"
+  },
+  {
+    "seller": "MEVIGO",
+    "field": "Owner",
+    "query": "MEVIGO director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/asgeirtj/system_prompts_leaks",
+      "https://www.reddit.com/r/writing/",
+      "https://www.zhihu.com/question/2058849029027632241",
+      "https://www.reddit.com/r/AirForce/"
+    ],
+    "timestamp": "2026-08-17T11:31:04.869844",
+    "status": "results_found"
+  },
+  {
+    "seller": "MEVIGO",
+    "field": "Address",
+    "query": "MEVIGO registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/48674326/is-there-a-way-to-use-vim-keybindings-in-google-colaboratory",
+      "https://zhidao.baidu.com/question/317623538569467444.html",
+      "https://stackoverflow.com/questions/56503567/googleauth-modulenotfounderror-no-module-named-google-colab",
+      "https://www.zhihu.com/question/599661916?write",
+      "https://www.zhihu.com/question/451550546"
+    ],
+    "timestamp": "2026-08-17T11:31:31.471791",
+    "status": "results_found"
+  },
+  {
+    "seller": "MEVIGO",
+    "field": "Phone",
+    "query": "MEVIGO phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.verizon.com/support/contact-us/",
+      "https://www.verizon.com/digital/nsa/secure/ui/contactus/signinlanding",
+      "https://www.verizon.com/support/devices/",
+      "https://espanol.verizon.com/digital/nsa/nos/ui/contactus/nonsigninlanding",
+      "https://www.verizon.com/support/residential/home"
+    ],
+    "timestamp": "2026-08-17T11:32:14.224416",
+    "status": "results_found"
+  }
+]

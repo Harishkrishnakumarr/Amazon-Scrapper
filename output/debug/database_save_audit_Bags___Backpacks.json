@@ -1,0 +1,87 @@
+{
+  "category": "Bags & Backpacks",
+  "records_before_save": 8,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1600,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918530557058",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Shaba Bags",
+      "database_id": 1598,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919150744245",
+      "email": "info@example.com",
+      "gst": "07BMKPA4435N1ZV",
+      "pan": "BMKPA4435N",
+      "website": "https://www.shababags.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Swati Trader",
+      "database_id": 1601,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919776415555",
+      "email": "marudharservices@gmail.com",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SB NTERPRISES",
+      "database_id": 1599,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919234864950",
+      "email": "info@companyregistration.direct",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SHRI NARAYAN LUGGAGE",
+      "database_id": 1645,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "08BURPS4236C1ZC",
+      "pan": "BURPS4236C",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "naveenbags",
+      "database_id": 1645,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "33AAJPE0068K1ZW",
+      "pan": "AAJPE0068K",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

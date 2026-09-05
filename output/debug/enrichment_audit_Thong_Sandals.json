@@ -1,0 +1,668 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0BB19TVF1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T10:28:18.465164"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T10:28:20.545396",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:28:25.339222"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:28:26.227698"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T10:28:26.228354"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.unifers.ai/gst/03AAJCC8517E1ZV/cocoblu-retail-limited"
+    ],
+    "timestamp": "2026-09-02T10:28:32.286740",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "29AAJCC8517E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+    "timestamp": "2026-09-02T10:28:36.747871"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/#:~:text=The%20GST%20number%20of%20COCOBLU%20RETAIL%20LIMITED%20is,GSTIN%2029AAJCC8517E1ZH%20was%20registered%20on%2022%20Nov%202021.",
+    "timestamp": "2026-09-02T10:28:36.747891"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T10:28:38.511368",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:28:39.538303"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:28:39.538338"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:28:39.538347"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T10:28:39.538353"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T10:28:46.230968"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T10:28:48.461311",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Business Name",
+    "value": "Liberty Shoes Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=A2O1WMEGRLRLDW&isAmazonFulfilled=1&asin=B0BB19TVF1&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T10:28:53.882264"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Website",
+    "query": "Liberty Shoes Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.libertyshoesonline.com/",
+      "https://www.libertyshoesonline.com/pages/contact"
+    ],
+    "timestamp": "2026-09-02T10:28:55.978152",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Legal Entity Name",
+    "query": "Liberty Shoes Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.libertyshoes.com/company-profile",
+      "https://www.registerkaro.in/company/liberty-shoes-limited-L19201HR1986PLC033185",
+      "https://www.instafinancials.com/company/liberty-shoes-limited-L19201HR1986PLC033185/company-overview",
+      "https://www.instafinancials.com/company/liberty-shoes-limited-L19201HR1986PLC033185"
+    ],
+    "timestamp": "2026-09-02T10:29:04.239441",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/liberty-shoes-limited-L19201HR1986PLC033185",
+    "timestamp": "2026-09-02T10:29:10.165017"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Email Address",
+    "value": "rajeevsharma@libertyshoes.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.instafinancials.com/company/liberty-shoes-limited-L19201HR1986PLC033185/company-overview",
+    "timestamp": "2026-09-02T10:29:11.323773"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Legal Entity Name",
+    "query": "Liberty Shoes Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.libertyshoes.com/company-profile",
+      "https://www.instafinancials.com/company/liberty-shoes-limited-L19201HR1986PLC033185",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3bfbbbbc-85ce-46a6-923d-b8b8402f7887.pdf",
+      "https://www.filesure.in/company/liberty-shoes-limited/U19201DL1986PLC025335?tab=about"
+    ],
+    "timestamp": "2026-09-02T10:29:13.543580",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "PAN",
+    "query": "Liberty Shoes Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/27AAACL3146K1ZH/",
+      "https://tracxn.com/d/legal-entities/india/liberty-shoes-limited/__ajU7_U7r7KEOPYuUc-HFoi8F0zkeioHcdhWV0692qfs",
+      "https://www.libertyshoes.com/company-profile",
+      "https://gstverify.co.in/gst/liberty-shoes-ltd-06aaacl3146k1zl/"
+    ],
+    "timestamp": "2026-09-02T10:29:18.861153",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "GST Number",
+    "value": "27AAACL3146K1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/27AAACL3146K1ZH/",
+    "timestamp": "2026-09-02T10:29:20.353513"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "PAN Number",
+    "value": "AAACL3146K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/27AAACL3146K1ZH/",
+    "timestamp": "2026-09-02T10:29:20.353531"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Owner",
+    "query": "Liberty Shoes Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://adeshkumargupta.com/about/",
+      "https://www.libertyshoes.com/board-of-directors",
+      "https://www.marketscreener.com/quote/stock/LIBERTY-SHOES-LTD-7604829/company-governance/",
+      "https://investor.libertyshoes.com/board_of_directors.html"
+    ],
+    "timestamp": "2026-09-02T10:29:23.291293",
+    "status": "results_found"
+  },
+  {
+    "seller": "Liberty Shoes Ltd",
+    "field": "Address",
+    "query": "Liberty Shoes Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.libertyshoes.com/contact-us",
+      "https://www.libertyshoes.com/contact-details",
+      "https://newuat.olive.co.in/liberty/web/contact-us",
+      "https://investor.libertyshoes.com/contact-details.html"
+    ],
+    "timestamp": "2026-09-02T10:29:40.953649",
+    "status": "results_found"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Billing Address",
+    "value": "registered office libertypuram, 13th milestone, g.t. karnal road, kutail, p.o. bastara, distt. karnal - 132114, haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T10:29:46.926358"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "City",
+    "value": "distt. karnal",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T10:29:46.926378"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "State",
+    "value": "Haryana",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T10:29:46.926384"
+  },
+  {
+    "business": "Liberty Shoes Ltd",
+    "field": "Pincode",
+    "value": "132114",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.libertyshoes.com/contact-details",
+    "timestamp": "2026-09-02T10:29:46.926389"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Business Name",
+    "value": "Bata_India Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=AWRHVFFS77KOB&isAmazonFulfilled=0&asin=B09QQMKYK1&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-02T10:29:47.638602"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Website",
+    "query": "Bata_India Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.bata.com/in/",
+      "https://www.bata.com/in/women/"
+    ],
+    "timestamp": "2026-09-02T10:29:49.506017",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Website URL",
+    "value": "https://www.bata.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.bata.com/in/",
+    "timestamp": "2026-09-02T10:29:53.754084"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Legal Entity Name",
+    "query": "Bata_India Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+      "https://www.registerkaro.in/company/bata-india-ltd-L19201WB1931PLC007261",
+      "https://www.thecompanycheck.com/company/bata-india-ltd/L19201WB1931PLC007261",
+      "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261"
+    ],
+    "timestamp": "2026-09-02T10:30:14.174568",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T10:30:15.239208"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T10:30:15.239239"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T10:30:15.239244"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+    "timestamp": "2026-09-02T10:30:15.239250"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/bata-india-ltd-L19201WB1931PLC007261",
+    "timestamp": "2026-09-02T10:30:16.744283"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Legal Entity Name",
+    "query": "Bata_India Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261",
+      "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+      "https://www.filesure.in/company/bata-india-ltd/L19201WB1931PLC007261?tab=about",
+      "https://www.moneycontrol.com/company-facts/bataindia/management/BI01"
+    ],
+    "timestamp": "2026-09-02T10:30:26.894897",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Email Address",
+    "value": "dept@bata.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261",
+    "timestamp": "2026-09-02T10:30:27.577892"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "PAN",
+    "query": "Bata_India Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/BATA-INDIA-LIMITED-L19201WB1931PLC007261",
+      "https://gst.iadv.io/BATA-INDIA-LTD-03AABCB1043Q1ZW/",
+      "https://tracxn.com/d/legal-entities/india/bata-india-ltd/__I8YDO7vgfwtUzMyl1BPYwINIZ7EDGtp8H7W-_HQ8qT4",
+      "https://www.scribd.com/document/945635192/BataClub-Receipt-123499594145"
+    ],
+    "timestamp": "2026-09-02T10:30:30.368759",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "GST Number",
+    "value": "03AABCB1043Q1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BATA-INDIA-LTD-03AABCB1043Q1ZW/",
+    "timestamp": "2026-09-02T10:30:32.257961"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "PAN Number",
+    "value": "AABCB1043Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/BATA-INDIA-LTD-03AABCB1043Q1ZW/",
+    "timestamp": "2026-09-02T10:30:32.257977"
+  },
+  {
+    "seller": "Bata_India Ltd",
+    "field": "Owner",
+    "query": "Bata_India Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://choiceindia.com/stocks/bata-india-ltd-board-of-directors",
+      "https://trendlyne.com/equity/about/168/BATAINDIA/bata-india-ltd/",
+      "https://www.thebusinessscroll.com/bata-shoes-origin-country-ceo-founder-owner/",
+      "https://in.marketscreener.com/quote/stock/BATA-INDIA-LIMITED-46728582/company-governance/"
+    ],
+    "timestamp": "2026-09-02T10:30:34.368670",
+    "status": "results_found"
+  },
+  {
+    "business": "Bata_India Ltd",
+    "field": "Owner Name",
+    "value": "the shoemaker who",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.thebusinessscroll.com/bata-shoes-origin-country-ceo-founder-owner/",
+    "timestamp": "2026-09-02T10:30:39.490281"
+  },
+  {
+    "business": "GG360",
+    "field": "Business Name",
+    "value": "GG360",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3629M689AT2IG&asin=B0H7RYVHXP&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T10:30:40.294801"
+  },
+  {
+    "seller": "GG360",
+    "field": "Website",
+    "query": "GG360 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.gg360.games/home",
+      "https://www.gg360.games/about"
+    ],
+    "timestamp": "2026-09-02T10:30:42.238157",
+    "status": "results_found"
+  },
+  {
+    "business": "GG360",
+    "field": "Website URL",
+    "value": "https://www.gg360.games/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.gg360.games/home",
+    "timestamp": "2026-09-02T10:30:47.235841"
+  },
+  {
+    "business": "GG360",
+    "field": "Email Address",
+    "value": "gg360enquiries@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.gg360.games/contact",
+    "timestamp": "2026-09-02T10:30:55.660008"
+  },
+  {
+    "seller": "GG360",
+    "field": "Legal Entity Name",
+    "query": "GG360 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://ca360pro.com/business-setup-services-in-india/#:~:text=We%20manage%20company%20incorporation%2C%20GST%20registration%2C%20MSME%2FUdyam%2C%20ESI%2FPF%2C,statutory%20support%20%E2%80%94%20handled%20by%20qualified%20Chartered%20Accountants.",
+      "https://company360.in/",
+      "https://ca360pro.com/company-registration-in-india/",
+      "https://360bizservice.com/"
+    ],
+    "timestamp": "2026-09-02T10:31:00.623844",
+    "status": "results_found"
+  },
+  {
+    "business": "GG360",
+    "field": "Phone Number",
+    "value": "+919643340938",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://company360.in/",
+    "timestamp": "2026-09-02T10:31:08.396285"
+  },
+  {
+    "seller": "GG360",
+    "field": "PAN",
+    "query": "GG360 PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://blog.pancardonlineindia.com/index.php/how-to-find-pan-card-details-by-number-a-complete-guide"
+    ],
+    "timestamp": "2026-09-02T10:31:22.775590",
+    "status": "results_found"
+  },
+  {
+    "business": "GG360",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T10:31:26.981035"
+  },
+  {
+    "business": "GG360",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T10:31:26.981054"
+  },
+  {
+    "business": "GG360",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-09-02T10:31:26.981060"
+  },
+  {
+    "seller": "GG360",
+    "field": "PAN",
+    "query": "GG360 PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://my.gstzen.in/m/taxpayers/search/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-09-02T10:31:30.270918",
+    "status": "results_found"
+  },
+  {
+    "business": "GG360",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T10:31:33.754515"
+  },
+  {
+    "business": "GG360",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-09-02T10:31:33.754533"
+  },
+  {
+    "seller": "GG360",
+    "field": "Owner",
+    "query": "GG360 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://yourstory.com/companies/g360-india",
+      "https://www.cbinsights.com/company/g360-surveys/people",
+      "https://leadiq.com/c/g360/5a1da19e2300005b00930e59/employee-directory",
+      "https://pitchbook.com/profiles/company/122276-71"
+    ],
+    "timestamp": "2026-09-02T10:31:35.389082",
+    "status": "results_found"
+  },
+  {
+    "seller": "GG360",
+    "field": "Owner",
+    "query": "GG360 founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.glassdoor.co.in/Overview/Working-at-Greenway-Growth-360-EI_IE10271867.11,30.htm",
+      "https://www.gg360.games/about",
+      "https://inc42.com/company/gadgets-360/people/",
+      "https://tracxn.com/d/companies/giraffe360/__N9uzNI-dAdmF80DOOdTlz7ZW08njQt0Q_ELy1LYxVKs"
+    ],
+    "timestamp": "2026-09-02T10:31:45.558712",
+    "status": "results_found"
+  }
+]

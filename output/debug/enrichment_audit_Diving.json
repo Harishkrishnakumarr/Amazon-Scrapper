@@ -1,0 +1,528 @@
+[
+  {
+    "business": "Creative Corporation.",
+    "field": "Business Name",
+    "value": "Creative Corporation.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A5DAN5433CFBL&asin=B0G3B3P5KQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T13:23:01.732314"
+  },
+  {
+    "seller": "Creative Corporation.",
+    "field": "Website",
+    "query": "Creative Corporation. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://asia.creative.com/",
+      "https://www.adobe.com/creativecloud.html?msockid=1d6821f99e456c643c5536469fdb6d42"
+    ],
+    "timestamp": "2026-08-24T13:23:03.893380",
+    "status": "results_found"
+  },
+  {
+    "business": "Creative Corporation.",
+    "field": "Website URL",
+    "value": "https://www.creativecorporation.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.creativecorporation.com/",
+    "timestamp": "2026-08-24T13:23:05.741833"
+  },
+  {
+    "business": "Creative Corporation.",
+    "field": "Phone Number",
+    "value": "+912632118595",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.creativecorporation.com/",
+    "timestamp": "2026-08-24T13:23:06.189155"
+  },
+  {
+    "business": "Creative Corporation.",
+    "field": "Email Address",
+    "value": "dan@creativecorporation.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.creativecorporation.com/",
+    "timestamp": "2026-08-24T13:23:06.218858"
+  },
+  {
+    "seller": "Creative Corporation.",
+    "field": "Legal Entity Name",
+    "query": "Creative Corporation. company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://asia.creative.com/",
+      "https://www.adobe.com/creativecloud.html?msockid=1d6821f99e456c643c5536469fdb6d42",
+      "https://india-creative.com/shop/",
+      "https://www.merriam-webster.com/dictionary/creative",
+      "https://en.creative.com/"
+    ],
+    "timestamp": "2026-08-24T13:23:11.769512",
+    "status": "results_found"
+  },
+  {
+    "seller": "Creative Corporation.",
+    "field": "PAN",
+    "query": "Creative Corporation. PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://asia.creative.com/",
+      "https://www.adobe.com/creativecloud.html?msockid=1d6821f99e456c643c5536469fdb6d42",
+      "https://india-creative.com/shop/",
+      "https://www.merriam-webster.com/dictionary/creative",
+      "https://en.creative.com/"
+    ],
+    "timestamp": "2026-08-24T13:23:33.155328",
+    "status": "results_found"
+  },
+  {
+    "seller": "Creative Corporation.",
+    "field": "GST",
+    "query": "Creative Corporation. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://asia.creative.com/",
+      "https://www.adobe.com/creativecloud.html?msockid=1d6821f99e456c643c5536469fdb6d42",
+      "https://india-creative.com/shop/",
+      "https://www.merriam-webster.com/dictionary/creative",
+      "https://en.creative.com/"
+    ],
+    "timestamp": "2026-08-24T13:23:53.165261",
+    "status": "results_found"
+  },
+  {
+    "seller": "Creative Corporation.",
+    "field": "Owner",
+    "query": "Creative Corporation. director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://asia.creative.com/",
+      "https://www.adobe.com/creativecloud.html?msockid=1d6821f99e456c643c5536469fdb6d42",
+      "https://india-creative.com/shop/",
+      "https://www.merriam-webster.com/dictionary/creative",
+      "https://en.creative.com/"
+    ],
+    "timestamp": "2026-08-24T13:24:33.629507",
+    "status": "results_found"
+  },
+  {
+    "seller": "Creative Corporation.",
+    "field": "Address",
+    "query": "Creative Corporation. registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.creative.com/contactus/",
+      "https://en.creative.com/contactus/storeenquiry",
+      "https://us.creative.com/contactus/corporatesales",
+      "https://register.creative.com/",
+      "https://us.creative.com/contactus/receivedwrongdamageitem"
+    ],
+    "timestamp": "2026-08-24T13:25:18.961921",
+    "status": "results_found"
+  },
+  {
+    "business": "PrimeNest Retail 221",
+    "field": "Business Name",
+    "value": "PrimeNest Retail 221",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A8UEOCYBWG0JL&asin=B0H6K216DT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T13:25:24.022084"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "Website",
+    "query": "PrimeNest Retail 221 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://unlimited.book.dmm.co.jp/",
+      "https://eromon.net/ranking?span=day"
+    ],
+    "timestamp": "2026-08-24T13:25:28.988605",
+    "status": "results_found"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "Legal Entity Name",
+    "query": "PrimeNest Retail 221 company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stamps.hasil.gov.my/stamps/bayarankelompok/bayarankelompok/cari",
+      "https://stamps.hasil.gov.my/stamps/files/announcement/MANUAL%20PENGGUNA%20-%20PENYETEMAN%20INDIVIDU_14062021.pdf",
+      "https://stamps.hasil.gov.my/stamps/register/ejen",
+      "https://stamps.hasil.gov.my/stamps/files/announcement/1766952079.pdf",
+      "https://stamps.hasil.gov.my/stamps/byrhasil/main/carianAdj"
+    ],
+    "timestamp": "2026-08-24T13:25:43.190497",
+    "status": "results_found"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "Legal Entity Name",
+    "query": "PrimeNest Retail 221 Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://medical.nikkeibp.co.jp/inc/all/drugdic/prd/33/3332001F1024.html"
+    ],
+    "timestamp": "2026-08-24T13:25:52.697989",
+    "status": "results_found"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "Legal Entity Name",
+    "query": "PrimeNest Retail 221 legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pcl.uscourts.gov/pcl/pages/search/results/cases.jsf",
+      "https://courtcasefinder.com/",
+      "https://pacer.uscourts.gov/find-case/search-national-index",
+      "https://unicourt.com/courts/federal",
+      "https://unicourt.com/courts/state/ventura-county-superior-courts-45"
+    ],
+    "timestamp": "2026-08-24T13:25:58.724592",
+    "status": "results_found"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "PAN",
+    "query": "PrimeNest Retail 221 PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://sports.yahoo.co.jp/",
+      "https://weather.yahoo.co.jp/weather/",
+      "https://www.yahoo.co.jp/",
+      "https://finance.yahoo.co.jp/",
+      "https://baseball.yahoo.co.jp/npb/"
+    ],
+    "timestamp": "2026-08-24T13:26:05.744605",
+    "status": "results_found"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "GST",
+    "query": "PrimeNest Retail 221 GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-24T13:26:27.935811",
+    "status": "results_found"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "GST",
+    "query": "PrimeNest Retail 221 GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://maps.google.co.jp/",
+      "https://map.yahoo.co.jp/",
+      "https://maps.google.co.jp/?source=embed",
+      "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%83%E3%83%97/id915056765",
+      "https://mapfan.com/"
+    ],
+    "timestamp": "2026-08-24T13:26:32.597864",
+    "status": "results_found"
+  },
+  {
+    "seller": "PrimeNest Retail 221",
+    "field": "Owner",
+    "query": "PrimeNest Retail 221 director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://primenestllc.com/about-us",
+      "https://find-and-update.company-information.service.gov.uk/company/17002047",
+      "https://find-and-update.company-information.service.gov.uk/company/17002047/filing-history",
+      "https://www.falconebiz.com/company/PRIMENEST-PRIVATE-LIMITED-U68100MP2026PTC081470",
+      "https://open.endole.co.uk/insight/company/17002047-primenest-retail-ltd"
+    ],
+    "timestamp": "2026-08-24T13:27:03.040266",
+    "status": "results_found"
+  },
+  {
+    "business": "SIMPLEX SHOP",
+    "field": "Business Name",
+    "value": "SIMPLEX SHOP",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FA4ZHJV4Z832&asin=B0D1VXV6GV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T13:27:27.318890"
+  },
+  {
+    "seller": "SIMPLEX SHOP",
+    "field": "Website",
+    "query": "SIMPLEX SHOP official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://simplex.chat/",
+      "https://www.simplexfire.com/"
+    ],
+    "timestamp": "2026-08-24T13:27:30.587905",
+    "status": "results_found"
+  },
+  {
+    "business": "SIMPLEX SHOP",
+    "field": "Website URL",
+    "value": "https://simplexshop.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://simplexshop.com/",
+    "timestamp": "2026-08-24T13:28:01.720370"
+  },
+  {
+    "business": "SIMPLEX SHOP",
+    "field": "Phone Number",
+    "value": "+919305522026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://simplexshop.com/terms",
+    "timestamp": "2026-08-24T13:28:40.438579"
+  },
+  {
+    "seller": "SIMPLEX SHOP",
+    "field": "Legal Entity Name",
+    "query": "SIMPLEX SHOP company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://simplex.chat/",
+      "https://www.simplexfire.com/",
+      "https://www.simplex.com/",
+      "https://www.simplexinfra.com/",
+      "https://simplex.chat/messaging/"
+    ],
+    "timestamp": "2026-08-24T13:28:44.081164",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIMPLEX SHOP",
+    "field": "PAN",
+    "query": "SIMPLEX SHOP PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://simplex.chat/",
+      "https://www.simplexfire.com/",
+      "https://www.simplex.com/",
+      "https://www.simplexinfra.com/",
+      "https://simplex.chat/messaging/"
+    ],
+    "timestamp": "2026-08-24T13:29:05.890950",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIMPLEX SHOP",
+    "field": "GST",
+    "query": "SIMPLEX SHOP GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://simplex.chat/",
+      "https://www.simplexfire.com/",
+      "https://www.simplex.com/",
+      "https://www.simplexinfra.com/",
+      "https://simplex.chat/messaging/"
+    ],
+    "timestamp": "2026-08-24T13:29:28.750564",
+    "status": "results_found"
+  },
+  {
+    "business": "SWINYA TRADERS",
+    "field": "Business Name",
+    "value": "SWINYA TRADERS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3P4XZR4UPTQR7&asin=B0B5V42ZC5&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T13:29:32.038107"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "Website",
+    "query": "SWINYA TRADERS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://procera.pl/?sLanguage=en",
+      "https://zhuanlan.zhihu.com/p/622614571"
+    ],
+    "timestamp": "2026-08-24T13:29:33.837767",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "Legal Entity Name",
+    "query": "SWINYA TRADERS company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://online.gov.sz/",
+      "https://www.indiafilings.com/search",
+      "https://www.indiafilings.com/learn/check-company-registration-status-mca",
+      "https://www.quickcompany.in/company"
+    ],
+    "timestamp": "2026-08-24T13:29:51.696911",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "PAN",
+    "query": "SWINYA TRADERS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mobile01.com/topicdetail.php?f=37&t=114083",
+      "https://www.mobile01.com/topicdetail.php?f=174&t=562363",
+      "https://www.52pojie.cn/thread-1844519-1-1.html",
+      "https://www.52pojie.cn/thread-1894943-1-1.html"
+    ],
+    "timestamp": "2026-08-24T13:30:07.301996",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "PAN",
+    "query": "SWINYA TRADERS PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://purble-place.en.softonic.com/",
+      "https://purble-place.en.softonic.com/mac",
+      "https://www.purble-place.en.softonic.com/best-recommended-apps?appId=7ef4684f-225e-4b10-b050-dd3977d21299&categoryId=puzzle&pageId=app&developerSlug=oberon-media&platformId=windows&locale=en-US&programName=Purble+Place&browserName=chrome&browserVersion=128.0.0.0&countryCode=US&deviceType=desktop&isEU=false&isCalifornia=false&region=NY&userPlatformId=linux&placementId=download-intent&position=63"
+    ],
+    "timestamp": "2026-08-24T13:30:22.519330",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "GST",
+    "query": "SWINYA TRADERS GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://reg.gst.gov.in/registration/generateuid",
+      "https://services.gst.gov.in/services/trackstatus",
+      "https://services.gst.gov.in/services/login",
+      "https://www.gst.gov.in/download/gststatistics"
+    ],
+    "timestamp": "2026-08-24T13:30:28.664851",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "GST",
+    "query": "SWINYA TRADERS GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bayaudiology.co.nz/",
+      "https://www.bayaudiology.co.nz/hearing-aids/costs-and-prices",
+      "https://www.bayaudiology.co.nz/store-locator",
+      "https://www.bayaudiology.co.nz/store-locator/hearing-aids-clinics-christchurch/bay-audiology-christchurch-s8",
+      "https://www.bayaudiology.co.nz/store-locator/hearing-aids-clinics-nelson/bay-audiology-nelson-s76"
+    ],
+    "timestamp": "2026-08-24T13:30:33.444291",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "GST",
+    "query": "SWINYA TRADERS GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://oceanapi.cwb.gov.tw/opendap/ASCAT/20220211/contents.html",
+      "https://oceanapi.cwb.gov.tw/opendap/MODIS_AQUA_Chl_a/202201/contents.html",
+      "https://oceanapi.cwb.gov.tw/opendap/ECK5/20220225/contents.html",
+      "https://oceanapi.cwb.gov.tw/opendap/SHIP-COMFORT2OD/20211115/12/9999/contents.html",
+      "https://oceanapi.cwb.gov.tw/opendap/WW3H10KM_Analysis/202301/WH.202301.nc.info"
+    ],
+    "timestamp": "2026-08-24T13:30:48.542434",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "Owner",
+    "query": "SWINYA TRADERS director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ultraviewer.net/en/download.html",
+      "https://www.ultraviewer.net/es/",
+      "https://www.ultraviewer.net/vi/download.html",
+      "https://www.ultraviewer.net/es/download.html",
+      "https://www.ultraviewer.net/pt/download.html"
+    ],
+    "timestamp": "2026-08-24T13:30:51.128918",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "Owner",
+    "query": "SWINYA TRADERS managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pcl.uscourts.gov/pcl/pages/search/results/cases.jsf",
+      "https://courtcasefinder.com/",
+      "https://unicourt.com/courts/federal",
+      "https://pacer.uscourts.gov/find-case/search-national-index",
+      "https://recordsfinder.com/court/"
+    ],
+    "timestamp": "2026-08-24T13:30:59.288403",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "Address",
+    "query": "SWINYA TRADERS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://en.surece.co.jp/ptapp/",
+      "https://en.surece.co.jp/syurou/public/login.php",
+      "https://en.surece.co.jp/byoushou_sien26/guide/guide.pdf",
+      "https://en.surece.co.jp/2510nouryoku/",
+      "https://en.surece.co.jp/2106probeperson/info_index.html"
+    ],
+    "timestamp": "2026-08-24T13:31:11.648746",
+    "status": "results_found"
+  },
+  {
+    "seller": "SWINYA TRADERS",
+    "field": "Address",
+    "query": "SWINYA TRADERS registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rtps.bihar.gov.in/rtps/",
+      "https://rtps.bihar.gov.in/dscertificateview/webcopy/verifyCertificates.aspx",
+      "https://rtps.bihar.gov.in/rtps/(S(ot540n2vbeiqgz45w11s4j55))/OnlineApplyAck/printtest.aspx",
+      "https://rtps.bihar.gov.in/dscertificateview/webcopy/dscertificatedownload.aspx",
+      "https://rtps.bihar.gov.in/rtps/Login.aspx"
+    ],
+    "timestamp": "2026-08-24T13:31:20.246599",
+    "status": "results_found"
+  }
+]

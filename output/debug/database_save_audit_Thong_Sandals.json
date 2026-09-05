@@ -1,0 +1,61 @@
+{
+  "category": "Thong Sandals",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1340,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Liberty Shoes Ltd",
+      "database_id": 1340,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "rajeevsharma@libertyshoes.com",
+      "gst": "27AAACL3146K1ZH",
+      "pan": "AAACL3146K",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Bata_India Ltd",
+      "database_id": 1340,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "dept@bata.com",
+      "gst": "03AABCB1043Q1ZW",
+      "pan": "AABCB1043Q",
+      "website": "https://www.bata.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "GG360",
+      "database_id": 1341,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919643340938",
+      "email": "gg360enquiries@gmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.gg360.games/",
+      "status": "Verified"
+    }
+  ]
+}

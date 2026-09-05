@@ -1,0 +1,825 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B07Q61C57P&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T19:27:19.836823"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50"
+    ],
+    "timestamp": "2026-08-26T19:27:23.555429",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+    "timestamp": "2026-08-26T19:27:54.647672"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-26T19:28:07.922322",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-26T19:28:20.454721",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-26T19:28:23.250023",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50"
+    ],
+    "timestamp": "2026-08-26T19:28:33.291777",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html"
+    ],
+    "timestamp": "2026-08-26T19:28:37.983904",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-26T19:28:47.704000",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html"
+    ],
+    "timestamp": "2026-08-26T19:28:54.226728",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://grokipedia.com/page/William_A._Porter",
+      "https://www.company-histories.com/ETrade-Financial-Corporation-Company-History.html",
+      "https://us.etrade.com/why-etrade"
+    ],
+    "timestamp": "2026-08-26T19:29:05.517568",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+919387399500",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://grokipedia.com/page/William_A._Porter",
+    "timestamp": "2026-08-26T19:29:06.377632"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-26T19:29:08.425163",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://us.etrade.com/home/welcome-back?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "http://www.etrade.com/global.html",
+      "https://mobile.etrade.com/e/t/user/login"
+    ],
+    "timestamp": "2026-08-26T19:29:20.375291",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoClow",
+    "field": "Business Name",
+    "value": "AutoClow",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A5XDKQRI2UB7&asin=B0D86YT3KL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T19:29:21.573977"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "Website",
+    "query": "AutoClow official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/machine-learning/machine-learning-algorithms/",
+      "https://www.geeksforgeeks.org/machine-learning/machine-learning/"
+    ],
+    "timestamp": "2026-08-26T19:29:23.161761",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoClow",
+    "field": "Website URL",
+    "value": "https://www.geeksforgeeks.org/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.geeksforgeeks.org/machine-learning/machine-learning-algorithms/",
+    "timestamp": "2026-08-26T19:29:25.876297"
+  },
+  {
+    "business": "AutoClow",
+    "field": "Billing Address",
+    "value": "A-143, 6th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305)",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:29:26.535500"
+  },
+  {
+    "business": "AutoClow",
+    "field": "City",
+    "value": "Uttar Pradesh ()",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:29:26.535518"
+  },
+  {
+    "business": "AutoClow",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:29:26.535523"
+  },
+  {
+    "business": "AutoClow",
+    "field": "Pincode",
+    "value": "201305",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:29:26.535527"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "Legal Entity Name",
+    "query": "AutoClow company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.canva.com/download/?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://www.canva.com/de_de/herunterladen/windows/?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://www.canva.com/en_in/download/windows/?msockid=352b813fe31a6f6631af96fee2f86e50",
+      "https://www.canva.com/de_de/?msockid=352b813fe31a6f6631af96fee2f86e50"
+    ],
+    "timestamp": "2026-08-26T19:29:30.320491",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "Legal Entity Name",
+    "query": "AutoClow Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_adgroup=1355700361712359&network=o&device=c&msclkid=a827244a2e521eba010b4ec4df1d2862&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_content=Search%20Query%20-%20LCPC",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20company&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=registration%20of%20company&target_name=kwd-83770041157869:loc-90&placement=&keyword_id=registration%20of%20company&msclkid=76af2ac6c24e1ac7e6d8404833017b61",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=registration%20of%20company&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=registration%20of%20company&target_name=kwd-83770041157869:loc-90&placement=&keyword_id=registration%20of%20company&msclkid=a3dfbd986a2c1dfd3aefd7169b63bad2",
+      "https://www.indiafilings.com/company-registration"
+    ],
+    "timestamp": "2026-08-26T19:29:43.899674",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "PAN",
+    "query": "AutoClow PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T19:29:48.971811",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "PAN",
+    "query": "AutoClow PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/autoclow-07FCRPK3481F1Z8/",
+      "https://piceapp.com/gst-number-search/autoclow-07fcrpk3481f1z8/"
+    ],
+    "timestamp": "2026-08-26T19:29:55.184261",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoClow",
+    "field": "GST Number",
+    "value": "07FCRPK3481F1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/autoclow-07FCRPK3481F1Z8/",
+    "timestamp": "2026-08-26T19:29:55.617713"
+  },
+  {
+    "business": "AutoClow",
+    "field": "PAN Number",
+    "value": "FCRPK3481F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/autoclow-07FCRPK3481F1Z8/",
+    "timestamp": "2026-08-26T19:29:55.617725"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "Owner",
+    "query": "AutoClow director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.speedtest.net/",
+      "https://www.speedtest.net/ar",
+      "https://ciscoconnect.speedtest.net/",
+      "https://intelligence.speedtest.net/"
+    ],
+    "timestamp": "2026-08-26T19:29:56.833545",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "Owner",
+    "query": "AutoClow founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://autoflow.com/ai-info/",
+      "https://www.crunchbase.com/person/brian-sloan",
+      "https://tracxn.com/d/companies/autoflow/__x-OJt1ANHOqjjXs9HF65qn3K2CwuYroef7C3JaQrVrY"
+    ],
+    "timestamp": "2026-08-26T19:30:11.488087",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "Phone",
+    "query": "AutoClow phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://gist.github.com/burkeholland/88af0249c4b6aff3820bf37898c8bacf",
+      "https://docs.github.com/en/copilot/reference/ai-models/supported-models"
+    ],
+    "timestamp": "2026-08-26T19:30:13.057303",
+    "status": "results_found"
+  },
+  {
+    "seller": "AutoClow",
+    "field": "Email",
+    "query": "AutoClow email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://weaverapps.com/contact/",
+      "https://autoflow.com/help-center/support/general/contact-us/",
+      "https://autoflow.com/contact/",
+      "https://autoflow.com/help-center/support/"
+    ],
+    "timestamp": "2026-08-26T19:30:34.065910",
+    "status": "results_found"
+  },
+  {
+    "business": "AutoClow",
+    "field": "Email Address",
+    "value": "support@autoflow.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://weaverapps.com/contact/",
+    "timestamp": "2026-08-26T19:30:39.024191"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "Business Name",
+    "value": "Humus & Hue",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3MDV9SHJTNE8E&asin=B0HBRDSJMW&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T19:30:39.406931"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "Website",
+    "query": "Humus & Hue official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/biology/humus/",
+      "https://www.themediterraneandish.com/how-to-make-hummus/"
+    ],
+    "timestamp": "2026-08-26T19:30:40.875518",
+    "status": "results_found"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "Website URL",
+    "value": "https://www.geeksforgeeks.org/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.geeksforgeeks.org/biology/humus/",
+    "timestamp": "2026-08-26T19:30:43.085963"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "Billing Address",
+    "value": "A-143, 6th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305)",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:30:43.683182"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "City",
+    "value": "Uttar Pradesh ()",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:30:43.683204"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:30:43.683208"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "Pincode",
+    "value": "201305",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.geeksforgeeks.org/",
+    "timestamp": "2026-08-26T19:30:43.683213"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "Legal Entity Name",
+    "query": "Humus & Hue company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/biology/humus/"
+    ],
+    "timestamp": "2026-08-26T19:30:47.788014",
+    "status": "results_found"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "Legal Entity Name",
+    "query": "Humus & Hue Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/biology/humus/"
+    ],
+    "timestamp": "2026-08-26T19:30:51.091451",
+    "status": "results_found"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "PAN",
+    "query": "Humus & Hue PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.colorxs.com/color/pantone-15-1304-tcx-humus",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://www.pantone.com/color-finder/15-1304-tcx"
+    ],
+    "timestamp": "2026-08-26T19:30:56.666905",
+    "status": "results_found"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "PAN",
+    "query": "Humus & Hue PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.colorxs.com/color/pantone-15-1304-tcx-humus",
+      "https://www.pantone.com/color-finder/15-1304-tcx",
+      "https://www.pantone.com/na/en-us/color-finder/15-1304-tpg",
+      "https://colorshunter.com/colors/pantone/pq-15-1304tcx"
+    ],
+    "timestamp": "2026-08-26T19:31:07.490786",
+    "status": "results_found"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "GST",
+    "query": "Humus & Hue GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/gst-registration/gst-registration-online"
+    ],
+    "timestamp": "2026-08-26T19:31:11.155542",
+    "status": "results_found"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "GST",
+    "query": "Humus & Hue GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.knowyourgst.com/gst-number-search/humus-32AAPFH1362K1ZB/"
+    ],
+    "timestamp": "2026-08-26T19:31:19.692397",
+    "status": "results_found"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-26T19:31:21.786898"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-26T19:31:21.786911"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "Owner",
+    "query": "Humus & Hue director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/humus/people",
+      "https://www.crunchbase.com/person/camila-hoffman-261a",
+      "https://wellfound.com/company/hue-7/people",
+      "https://leadiq.com/c/hue/5f11d448de5d70046c787589"
+    ],
+    "timestamp": "2026-08-26T19:31:25.167706",
+    "status": "results_found"
+  },
+  {
+    "business": "Humus & Hue",
+    "field": "Email Address",
+    "value": "info@cbinsights.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.cbinsights.com/company/humus/people",
+    "timestamp": "2026-08-26T19:31:29.389274"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "Owner",
+    "query": "Humus & Hue founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://humusandhue.com/",
+      "https://hukitchen.com/pages/about-us",
+      "https://www.scribd.com/document/1068387983/Humus-Man-And-The-Hue-Man-The-Cosmic-Dance-Of-Existence"
+    ],
+    "timestamp": "2026-08-26T19:31:36.839902",
+    "status": "results_found"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "Phone",
+    "query": "Humus & Hue phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/biology/humus/",
+      "https://www.themediterraneandish.com/how-to-make-hummus/",
+      "https://www.thespruce.com/understanding-humus-in-soil-5209565",
+      "https://www.britannica.com/science/humus-soil-component"
+    ],
+    "timestamp": "2026-08-26T19:31:38.243346",
+    "status": "results_found"
+  },
+  {
+    "seller": "Humus & Hue",
+    "field": "Phone",
+    "query": "Humus & Hue contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.geeksforgeeks.org/biology/humus/",
+      "https://www.themediterraneandish.com/how-to-make-hummus/",
+      "https://www.thespruce.com/understanding-humus-in-soil-5209565",
+      "https://www.britannica.com/science/humus-soil-component"
+    ],
+    "timestamp": "2026-08-26T19:31:49.120128",
+    "status": "results_found"
+  },
+  {
+    "business": "Continental Auto",
+    "field": "Business Name",
+    "value": "Continental Auto",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SC41OMLA28UW&asin=B0GRN4GNWW&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T19:31:53.867085"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Website",
+    "query": "Continental Auto official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.continental.com/en/",
+      "https://www.continental-tires.com/in/en/"
+    ],
+    "timestamp": "2026-08-26T19:31:55.691075",
+    "status": "results_found"
+  },
+  {
+    "business": "Continental Auto",
+    "field": "Website URL",
+    "value": "https://www.continental.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.continental.com/en/",
+    "timestamp": "2026-08-26T19:32:05.061493"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Legal Entity Name",
+    "query": "Continental Auto company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.continental.com/en/",
+      "https://www.continental-tires.com/in/en/",
+      "https://www.continental.com/en/company/",
+      "https://www.continental-tires.com/"
+    ],
+    "timestamp": "2026-08-26T19:32:11.743540",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Legal Entity Name",
+    "query": "Continental Auto Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.continental.com/en/",
+      "https://www.continental-tires.com/in/en/",
+      "https://www.continental.com/en/company/",
+      "https://www.continental-tires.com/"
+    ],
+    "timestamp": "2026-08-26T19:32:18.721757",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "PAN",
+    "query": "Continental Auto PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.continental.com/en/"
+    ],
+    "timestamp": "2026-08-26T19:32:25.344982",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "PAN",
+    "query": "Continental Auto PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/06AAKCS9578C1ZX/",
+      "https://www.knowyourgst.com/gst-number-search/continental-automotive-components-india-pvt-ltd-29AAKCS9578C1ZP/",
+      "https://www.knowyourgst.com/gst-number-search/continental-automotive-components-india-private-limited-06AAKCS9578C1ZX/",
+      "https://gst.jamku.app/gstin/29AAKCS9578C1ZP"
+    ],
+    "timestamp": "2026-08-26T19:32:30.315335",
+    "status": "results_found"
+  },
+  {
+    "business": "Continental Auto",
+    "field": "Email Address",
+    "value": "info@gstserver.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/06AAKCS9578C1ZX/",
+    "timestamp": "2026-08-26T19:32:32.021675"
+  },
+  {
+    "business": "Continental Auto",
+    "field": "GST Number",
+    "value": "06AAKCS9578C1ZX",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/06AAKCS9578C1ZX/",
+    "timestamp": "2026-08-26T19:32:32.021840"
+  },
+  {
+    "business": "Continental Auto",
+    "field": "PAN Number",
+    "value": "AAKCS9578C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/06AAKCS9578C1ZX/",
+    "timestamp": "2026-08-26T19:32:32.021846"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Owner",
+    "query": "Continental Auto director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.continental.com/en/"
+    ],
+    "timestamp": "2026-08-26T19:32:34.979419",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Owner",
+    "query": "Continental Auto founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.continental.com/en/",
+      "https://www.continental-tires.com/in/en/",
+      "https://www.continental.com/en/company/",
+      "https://www.continental-tires.com/"
+    ],
+    "timestamp": "2026-08-26T19:32:37.127414",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Address",
+    "query": "Continental Auto registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.continental.com/en/press/media-library/continental-headquarter/",
+      "https://www.continental.com/en/general/contact-us/",
+      "https://craft.co/continental-automotive/locations",
+      "https://www.continental-tires.com/us/en/legal-pages/imprint/"
+    ],
+    "timestamp": "2026-08-26T19:32:46.184586",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Address",
+    "query": "Continental Auto registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.continental.com/en/"
+    ],
+    "timestamp": "2026-08-26T19:32:53.686946",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Phone",
+    "query": "Continental Auto phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.continental.com/en/",
+      "https://www.continental-tires.com/in/en/",
+      "https://www.continental.com/en/company/",
+      "https://www.continental-tires.com/"
+    ],
+    "timestamp": "2026-08-26T19:32:57.064190",
+    "status": "results_found"
+  },
+  {
+    "seller": "Continental Auto",
+    "field": "Phone",
+    "query": "Continental Auto contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.daum.net/",
+      "https://on.daum.net/site.daum",
+      "https://m.mail.daum.net/",
+      "http://go.daum.net/"
+    ],
+    "timestamp": "2026-08-26T19:33:03.101671",
+    "status": "results_found"
+  }
+]

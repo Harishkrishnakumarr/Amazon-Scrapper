@@ -1,0 +1,585 @@
+[
+  {
+    "business": "STORE HELETT",
+    "field": "Business Name",
+    "value": "STORE HELETT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A17FIWG8NM5OD1&asin=B0CPDPTHVN&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T14:19:45.194790"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Website",
+    "query": "STORE HELETT official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.techspot.com/downloads/6105-google-play-store.html"
+    ],
+    "timestamp": "2026-08-26T14:19:49.567412",
+    "status": "results_found"
+  },
+  {
+    "business": "STORE HELETT",
+    "field": "Website URL",
+    "value": "https://www.storehelett.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.storehelett.com/",
+    "timestamp": "2026-08-26T14:19:51.904765"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Legal Entity Name",
+    "query": "STORE HELETT company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.techspot.com/downloads/6105-google-play-store.html"
+    ],
+    "timestamp": "2026-08-26T14:19:58.322786",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Legal Entity Name",
+    "query": "STORE HELETT Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.techspot.com/downloads/6105-google-play-store.html"
+    ],
+    "timestamp": "2026-08-26T14:20:06.107119",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "PAN",
+    "query": "STORE HELETT PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/",
+      "https://desktop.github.com/download/",
+      "https://github.com/features/copilot"
+    ],
+    "timestamp": "2026-08-26T14:20:12.751351",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "GST",
+    "query": "STORE HELETT GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.techspot.com/downloads/6105-google-play-store.html",
+      "https://www.apple.com/store"
+    ],
+    "timestamp": "2026-08-26T14:20:30.578827",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "GST",
+    "query": "STORE HELETT GST number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.techspot.com/downloads/6105-google-play-store.html"
+    ],
+    "timestamp": "2026-08-26T14:20:38.440195",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Owner",
+    "query": "STORE HELETT director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.mystore.in/",
+      "https://www.dellstore.com/",
+      "https://www.thesouledstore.com/"
+    ],
+    "timestamp": "2026-08-26T14:20:44.864224",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Address",
+    "query": "STORE HELETT registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.mystore.in/",
+      "https://www.dellstore.com/",
+      "https://www.thesouledstore.com/"
+    ],
+    "timestamp": "2026-08-26T14:20:59.475626",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Address",
+    "query": "STORE HELETT registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.mystore.in/",
+      "https://www.dellstore.com/",
+      "https://www.thesouledstore.com/"
+    ],
+    "timestamp": "2026-08-26T14:21:12.533336",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Phone",
+    "query": "STORE HELETT phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.helett.in/contact-us",
+      "https://www.myhelett.com/warranty",
+      "https://www.helett.in/",
+      "https://www.helett.in/products/Helett"
+    ],
+    "timestamp": "2026-08-26T14:21:20.961479",
+    "status": "results_found"
+  },
+  {
+    "business": "STORE HELETT",
+    "field": "Phone Number",
+    "value": "+919513784194",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.helett.in/contact-us",
+    "timestamp": "2026-08-26T14:21:21.444322"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Email",
+    "query": "STORE HELETT email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.mystore.in/",
+      "https://www.dellstore.com/",
+      "https://www.thesouledstore.com/"
+    ],
+    "timestamp": "2026-08-26T14:21:22.995933",
+    "status": "results_found"
+  },
+  {
+    "seller": "STORE HELETT",
+    "field": "Email",
+    "query": "STORE HELETT contact email",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.apple.com/in/store",
+      "https://www.mystore.in/",
+      "https://www.dellstore.com/"
+    ],
+    "timestamp": "2026-08-26T14:21:29.963932",
+    "status": "results_found"
+  },
+  {
+    "business": "fronix",
+    "field": "Business Name",
+    "value": "fronix",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A34R309ZI05XRM&asin=B08PRQQKQM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T14:21:34.567091"
+  },
+  {
+    "seller": "fronix",
+    "field": "Website",
+    "query": "fronix official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-26T14:21:36.289329",
+    "status": "results_found"
+  },
+  {
+    "seller": "fronix",
+    "field": "Legal Entity Name",
+    "query": "fronix company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracking.deepsearch.adlucent.com/adlucent/Redirector?kwid=kwd-79577766686895x1273236128138508x506213434&adid=&device=c&location=258438&retailer=bizee&url=https://bizee.com/form/global-entrepreneurs&hsa_acc=7525761879&hsa_cam=21169793217&hsa_grp=1273236128138508&hsa_ad=&hsa_src=o&hsa_tgt=kwd-79577766686895&hsa_kw=how%20to%20register%20a%20company%20in%20usa&hsa_mt=p&hsa_net=adwords&hsa_ver=3&msclkid=75d19becd2ea103ffdd7f1627bd9a0d5&utm_source=bing&utm_medium=cpc&utm_campaign=2%20International&utm_term=how%20to%20register%20a%20company%20in%20usa&utm_content=International%20-%20International%20-%20General",
+      "http://www.bbb.org/houston/business-reviews/incorporating-companies/incfile-com-llc-in-houston-tx-51001358/?IG=0ae3261ca4754500b86a8ea933812d9f",
+      "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/1316767H/FRONIX-SDN-BHD-",
+      "https://www.falconebiz.com/company/FRONIX-SOLUTIONS-PRIVATE-LIMITED-U74900TG2018PTC124465"
+    ],
+    "timestamp": "2026-08-26T14:22:04.251795",
+    "status": "results_found"
+  },
+  {
+    "business": "fronix",
+    "field": "Email Address",
+    "value": "contact@ctosbasis.com.my",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://businessreport.ctoscredit.com.my/oneoffreport_api/single-report/malaysia-company/1316767H/FRONIX-SDN-BHD-",
+    "timestamp": "2026-08-26T14:22:12.401294"
+  },
+  {
+    "seller": "fronix",
+    "field": "Legal Entity Name",
+    "query": "fronix Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T14:22:14.901510",
+    "status": "no_results"
+  },
+  {
+    "seller": "fronix",
+    "field": "PAN",
+    "query": "fronix PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20260826/281814290714783",
+      "https://manilastandard.net/business/314783422/nickel-group-hails-eo-122-as-boost-for-ph-critical-minerals.html",
+      "https://www.gmanetwork.com/news/money/companies/999784/nickel-industry-group-backs-eo-on-critical-minerals/story/",
+      "https://businessmirror.com.ph/2026/08/25/nickel-miners-welcome-green-group-nixes-marcos-eo-122/"
+    ],
+    "timestamp": "2026-08-26T14:22:16.730561",
+    "status": "results_found"
+  },
+  {
+    "seller": "fronix",
+    "field": "PAN",
+    "query": "fronix PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5519991"
+    ],
+    "timestamp": "2026-08-26T14:22:26.076898",
+    "status": "results_found"
+  },
+  {
+    "seller": "fronix",
+    "field": "GST",
+    "query": "fronix GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sombattour.com/th/schedule/%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF-%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2%20Update",
+      "https://www.busandvan.com/route-info/bangkok/phayao",
+      "https://booking.myontour.com/routes-and-bus-operators/bangkok-to-phayao/",
+      "https://www.thaibusbooking.com/%e0%b8%a3%e0%b8%96%e0%b8%97%e0%b8%b1%e0%b8%a7%e0%b8%a3%e0%b9%8c%e0%b9%84%e0%b8%9b%e0%b8%9e%e0%b8%b0%e0%b9%80%e0%b8%a2%e0%b8%b2/"
+    ],
+    "timestamp": "2026-08-26T14:22:31.910499",
+    "status": "results_found"
+  },
+  {
+    "seller": "fronix",
+    "field": "GST",
+    "query": "fronix GST number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T14:22:49.771334",
+    "status": "no_results"
+  },
+  {
+    "seller": "fronix",
+    "field": "Owner",
+    "query": "fronix director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/fronix/people",
+      "https://inc42.com/company/fronix-solutions/people/",
+      "https://www.quickcompany.in/directors/08133829-pallabothu-srinath",
+      "https://www.issuewire.com/diljeet-singh-sran-the-17-year-old-prodigy-redefining-success-1804727908934305"
+    ],
+    "timestamp": "2026-08-26T14:22:55.015650",
+    "status": "results_found"
+  },
+  {
+    "seller": "fronix",
+    "field": "Address",
+    "query": "fronix registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.floridaregisteredagent.com/llc-building-ppc?utm_source=bing&utm_medium=cpc&utm_campaign=Florida%20-%20BF%20-%20LLC&utm_content=Florida%20-%20BF%20-%20LLC&utm_term=florida%20business%20address&msclkid=3b2f0496fc6f129f97ff6e18551ae639",
+      "https://www.falconebiz.com/company/FRONIX-SOLUTIONS-PRIVATE-LIMITED-U74900TG2018PTC124465",
+      "https://contactout.com/company/FRONIX-SOLUTIONS-PVT-LTD-20261/headquarters",
+      "https://www.bizmalay.com/en/fronix-sdn-bhd-03-7802-8472"
+    ],
+    "timestamp": "2026-08-26T14:23:09.995221",
+    "status": "results_found"
+  },
+  {
+    "seller": "fronix",
+    "field": "Phone",
+    "query": "fronix phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://github.com/f/prompts.chat"
+    ],
+    "timestamp": "2026-08-26T14:23:28.644569",
+    "status": "results_found"
+  },
+  {
+    "business": "E-PROUD",
+    "field": "Business Name",
+    "value": "E-PROUD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DN56IBBH1DEJ&asin=B0C35V1CLK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T14:23:38.818275"
+  },
+  {
+    "seller": "E-PROUD",
+    "field": "Website",
+    "query": "E-PROUD official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T14:23:47.399644",
+    "status": "no_results"
+  },
+  {
+    "seller": "E-PROUD",
+    "field": "Legal Entity Name",
+    "query": "E-PROUD company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/topic/E-letter",
+      "https://ilifehacks.com/how-to-type-e-with-accent/",
+      "http://www.eand.com/en/index.html",
+      "https://quillbot.com/blog/letters/letter-e/?msockid=227d0f8dfb3b6d61264b184cfa026ced"
+    ],
+    "timestamp": "2026-08-26T14:24:38.433039",
+    "status": "results_found"
+  },
+  {
+    "seller": "E-PROUD",
+    "field": "PAN",
+    "query": "E-PROUD PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/download-epan-card"
+    ],
+    "timestamp": "2026-08-26T14:25:01.680711",
+    "status": "results_found"
+  },
+  {
+    "seller": "E-PROUD",
+    "field": "GST",
+    "query": "E-PROUD GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/gst-registration-for-proprietorship"
+    ],
+    "timestamp": "2026-08-26T14:25:15.959648",
+    "status": "results_found"
+  },
+  {
+    "seller": "E-PROUD",
+    "field": "GST",
+    "query": "E-PROUD GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/topic/E-letter",
+      "https://ilifehacks.com/how-to-type-e-with-accent/",
+      "http://www.eand.com/en/index.html",
+      "https://quillbot.com/blog/letters/letter-e/?msockid=227d0f8dfb3b6d61264b184cfa026ced"
+    ],
+    "timestamp": "2026-08-26T14:25:25.244118",
+    "status": "results_found"
+  },
+  {
+    "seller": "E-PROUD",
+    "field": "Owner",
+    "query": "E-PROUD director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/topic/E-letter",
+      "https://ilifehacks.com/how-to-type-e-with-accent/",
+      "http://www.eand.com/en/index.html",
+      "https://quillbot.com/blog/letters/letter-e/?msockid=227d0f8dfb3b6d61264b184cfa026ced"
+    ],
+    "timestamp": "2026-08-26T14:25:29.449015",
+    "status": "results_found"
+  },
+  {
+    "business": "Havels Group",
+    "field": "Business Name",
+    "value": "Havels Group",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3OCYMH5ME8MI7&asin=B0GHF8SRH1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T14:25:43.466523"
+  },
+  {
+    "seller": "Havels Group",
+    "field": "Website",
+    "query": "Havels Group official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://havells.com/",
+      "https://havells.com/all-products"
+    ],
+    "timestamp": "2026-08-26T14:25:49.022938",
+    "status": "results_found"
+  },
+  {
+    "seller": "Havels Group",
+    "field": "Legal Entity Name",
+    "query": "Havels Group company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://havells.com/",
+      "https://havells.com/products/new",
+      "https://havells.com/contact-us",
+      "https://havells.com/home-electricals/flexible-cables.html"
+    ],
+    "timestamp": "2026-08-26T14:26:25.752090",
+    "status": "results_found"
+  },
+  {
+    "seller": "Havels Group",
+    "field": "PAN",
+    "query": "Havels Group PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstserver.com/gst/08AAACH0351E1Z5/",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gst.jamku.app/gstin/29AAACH0351E1Z1",
+      "https://gstverify.co.in/gst/havells-india-ltd-33aaach0351e1zc/"
+    ],
+    "timestamp": "2026-08-26T14:26:39.112685",
+    "status": "results_found"
+  },
+  {
+    "business": "Havels Group",
+    "field": "Email Address",
+    "value": "info@gstserver.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/08AAACH0351E1Z5/",
+    "timestamp": "2026-08-26T14:26:44.043474"
+  },
+  {
+    "business": "Havels Group",
+    "field": "GST Number",
+    "value": "08AAACH0351E1Z5",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/08AAACH0351E1Z5/",
+    "timestamp": "2026-08-26T14:26:44.045998"
+  },
+  {
+    "business": "Havels Group",
+    "field": "PAN Number",
+    "value": "AAACH0351E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/08AAACH0351E1Z5/",
+    "timestamp": "2026-08-26T14:26:44.046018"
+  },
+  {
+    "seller": "Havels Group",
+    "field": "Owner",
+    "query": "Havels Group director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://havells.com/",
+      "https://havells.com/all-products",
+      "https://www.croma.com/havells-store/b/b-0717",
+      "https://havells.com/products/new"
+    ],
+    "timestamp": "2026-08-26T14:26:49.432946",
+    "status": "results_found"
+  },
+  {
+    "business": "Havels Group",
+    "field": "Billing Address",
+    "value": "904, surya kiran building, k.g. marg, new delhi \u2013 110001. (india)",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://havells.com/",
+    "timestamp": "2026-08-26T14:26:55.396586"
+  },
+  {
+    "business": "Havels Group",
+    "field": "City",
+    "value": "k.g. marg",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://havells.com/",
+    "timestamp": "2026-08-26T14:26:55.396615"
+  },
+  {
+    "business": "Havels Group",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://havells.com/",
+    "timestamp": "2026-08-26T14:26:55.396623"
+  },
+  {
+    "business": "Havels Group",
+    "field": "Pincode",
+    "value": "110001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://havells.com/",
+    "timestamp": "2026-08-26T14:26:55.396628"
+  },
+  {
+    "seller": "Havels Group",
+    "field": "Phone",
+    "query": "Havels Group phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://havells.com/",
+      "https://havells.com/all-products",
+      "https://www.croma.com/havells-store/b/b-0717",
+      "https://havells.com/products/new"
+    ],
+    "timestamp": "2026-08-26T14:27:11.889389",
+    "status": "results_found"
+  }
+]

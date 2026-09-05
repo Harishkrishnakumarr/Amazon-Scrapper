@@ -1,0 +1,540 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B00FEKUSDA&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T14:14:12.970775"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.zhihu.com/people/li-bo-jie",
+      "https://www.zhihu.com/question/1951273247036380422"
+    ],
+    "timestamp": "2026-08-24T14:14:15.111243",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.netflix.com/",
+      "https://app.netflix.com/signup",
+      "https://www.netflix.com/th/"
+    ],
+    "timestamp": "2026-08-24T14:14:25.883633",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=f77d8f27338d13534640e5ab37081994&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.registerkaro.in/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=2ddb8e39dd0d12beb476e4b5d988a9b7&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://www.indiafilings.com/search/retailez-private-limited-gstin-09AALCR3173P1ZL"
+    ],
+    "timestamp": "2026-08-24T14:14:38.836995",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.goshogawara-h.asn.ed.jp/gotaka/introduction",
+      "https://www.goshogawara-h.asn.ed.jp/",
+      "http://gosyotech-dousoukai.com/school_song.html",
+      "https://www.gakkou.net/kou/src/?srcmode=kka&kka=3&p=2",
+      "https://www.goshogawara-it.asn.ed.jp/overview/index.html"
+    ],
+    "timestamp": "2026-08-24T14:14:47.838648",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0",
+      "https://www.naver.com/"
+    ],
+    "timestamp": "2026-08-24T14:15:11.986639",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.plasmonictron.com/",
+      "https://www.plasmonictron.com/%E9%97%9C%E6%96%BC%E5%89%B5%E7%94%9F",
+      "https://www.plasmonictron.com/%E8%81%AF%E7%B5%A1%E6%88%91%E5%80%91",
+      "https://www.plasmonictron.com/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/%E5%9C%8B%E9%9A%9B%E5%90%88%E4%BD%9C",
+      "https://www.plasmonictron.com/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF"
+    ],
+    "timestamp": "2026-08-24T14:15:32.366115",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://apps.apple.com/gb/app/youtube/id544007664"
+    ],
+    "timestamp": "2026-08-24T14:15:34.377812",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://loterias.caixa.gov.br/paginas/lotomania.aspx",
+      "https://www.gigasena.com.br/lotomania/",
+      "https://loterias.caixa.gov.br/"
+    ],
+    "timestamp": "2026-08-24T14:15:38.250814",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ilovepdf.com/zh-tw",
+      "https://www.ilovepdf.com/zh-tw/merge_pdf",
+      "https://www.ilovepdf.com/zh-cn",
+      "https://www.ilovepdf.com/ja",
+      "https://www.ilovepdf.com/zh-tw/split_pdf"
+    ],
+    "timestamp": "2026-08-24T14:16:00.366376",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/2010141339665338773",
+      "https://www.zhihu.com/question/2018679818250646121",
+      "https://www.zhihu.com/topic/19662795/intro",
+      "https://www.zhihu.com/question/512721362",
+      "https://www.zhihu.com/question/26773523"
+    ],
+    "timestamp": "2026-08-24T14:16:16.009603",
+    "status": "results_found"
+  },
+  {
+    "business": "S B GLOBAL",
+    "field": "Business Name",
+    "value": "S B GLOBAL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NKUXDGJMW0JT&asin=B0DBGNYF8R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T14:16:18.742450"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "Website",
+    "query": "S B GLOBAL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s"
+    ],
+    "timestamp": "2026-08-24T14:16:21.437012",
+    "status": "results_found"
+  },
+  {
+    "business": "S B GLOBAL",
+    "field": "Website URL",
+    "value": "https://sbglobal.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://sbglobal.in/",
+    "timestamp": "2026-08-24T14:16:29.303682"
+  },
+  {
+    "business": "S B GLOBAL",
+    "field": "Phone Number",
+    "value": "+915190942024",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://sbglobal.in/",
+    "timestamp": "2026-08-24T14:16:30.887820"
+  },
+  {
+    "business": "S B GLOBAL",
+    "field": "Email Address",
+    "value": "info@sbglobal.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://sbglobal.in/",
+    "timestamp": "2026-08-24T14:16:30.898620"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "Legal Entity Name",
+    "query": "S B GLOBAL company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter",
+      "https://www.yourdictionary.com/s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1"
+    ],
+    "timestamp": "2026-08-24T14:16:56.961844",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "Legal Entity Name",
+    "query": "S B GLOBAL Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter",
+      "https://www.yourdictionary.com/s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1"
+    ],
+    "timestamp": "2026-08-24T14:17:05.376950",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "Legal Entity Name",
+    "query": "S B GLOBAL legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter",
+      "https://www.yourdictionary.com/s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1"
+    ],
+    "timestamp": "2026-08-24T14:17:16.318339",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "PAN",
+    "query": "S B GLOBAL PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter",
+      "https://www.yourdictionary.com/s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1"
+    ],
+    "timestamp": "2026-08-24T14:17:17.755577",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "PAN",
+    "query": "S B GLOBAL PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter",
+      "https://www.yourdictionary.com/s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1"
+    ],
+    "timestamp": "2026-08-24T14:17:25.945796",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "PAN",
+    "query": "S B GLOBAL PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter",
+      "https://www.yourdictionary.com/s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1"
+    ],
+    "timestamp": "2026-08-24T14:17:32.578147",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "GST",
+    "query": "S B GLOBAL GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter"
+    ],
+    "timestamp": "2026-08-24T14:17:49.486254",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "GST",
+    "query": "S B GLOBAL GSTIN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://open.spotify.com/home"
+    ],
+    "timestamp": "2026-08-24T14:17:54.433460",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "GST",
+    "query": "S B GLOBAL GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter"
+    ],
+    "timestamp": "2026-08-24T14:17:57.849981",
+    "status": "results_found"
+  },
+  {
+    "seller": "S B GLOBAL",
+    "field": "Owner",
+    "query": "S B GLOBAL director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://open.spotify.com/home",
+      "https://langeek.co/en/grammar/course/906/the-letter-s",
+      "https://www.britannica.com/topic/S-letter",
+      "https://www.yourdictionary.com/s",
+      "https://www.collinsdictionary.com/dictionary/english/s_1"
+    ],
+    "timestamp": "2026-08-24T14:18:12.806859",
+    "status": "results_found"
+  },
+  {
+    "business": "DEEPANKER",
+    "field": "Business Name",
+    "value": "DEEPANKER",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXUTOU66VW9WU&asin=B0H83989P7&ref_=dp_merchant_link",
+    "timestamp": "2026-08-24T14:18:19.806752"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Website",
+    "query": "DEEPANKER official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.walmart.com/",
+      "https://www.walmart.com/store/2243-redmond-or"
+    ],
+    "timestamp": "2026-08-24T14:18:26.721039",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Legal Entity Name",
+    "query": "DEEPANKER company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bbs.ruliweb.com/"
+    ],
+    "timestamp": "2026-08-24T14:18:37.500409",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Legal Entity Name",
+    "query": "DEEPANKER Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_adgroup=1355700361712359&network=o&device=c&msclkid=d9c55f62972010d463f535ee925cd4cb&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registering%20a%20pvt%20ltd%20company%20in%20india&utm_content=Search%20Query%20-%20LCPC",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx",
+      "https://golegally.com/mca-company-llp-search",
+      "https://www.falconebiz.com/company/DEEPANKAR-PROJECTS-PRIVATE-LIMITED-U70101DL2005PTC142766",
+      "https://www.registerkaro.in/company-details"
+    ],
+    "timestamp": "2026-08-24T14:18:45.052888",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Legal Entity Name",
+    "query": "DEEPANKER legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-24T14:18:57.306296",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "PAN",
+    "query": "DEEPANKER PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.office.com/login",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-24T14:18:59.129794",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "PAN",
+    "query": "DEEPANKER PAN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://superuser.com/questions/81454/can-i-use-a-scanner-connected-to-another-computer-on-my-computer",
+      "https://superuser.com/questions/1348913/should-i-disable-delayed-launcher-in-my-startup-programs",
+      "https://superuser.com/questions/948946/how-to-display-my-computer-icon-on-a-windows-10-desktop"
+    ],
+    "timestamp": "2026-08-24T14:19:12.815772",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "GST",
+    "query": "DEEPANKER GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/",
+      "https://www.whatsapp.com/android"
+    ],
+    "timestamp": "2026-08-24T14:19:26.174942",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "GST",
+    "query": "DEEPANKER GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.wukongsch.com/blog/greater-than-sign-less-than-equal-symbols-post-42823/",
+      "https://symbolsdb.com/inequality-symbols",
+      "https://www.mathsisfun.com/equal-less-greater.html"
+    ],
+    "timestamp": "2026-08-24T14:19:42.606159",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Owner",
+    "query": "DEEPANKER director owner founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.crunchbase.com/person/deepanker-verma",
+      "https://www.zoominfo.com/p/Deepanker-Mahajan/9065504431"
+    ],
+    "timestamp": "2026-08-24T14:19:51.084441",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Owner",
+    "query": "DEEPANKER managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/1973709336363701431",
+      "https://www.zhihu.com/question/548502150",
+      "https://blog.darkthread.net/",
+      "https://blog.darkthread.net/blog/openclaw-w-local-llm/",
+      "https://www.zhihu.com/question/402369560"
+    ],
+    "timestamp": "2026-08-24T14:19:54.374579",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Address",
+    "query": "DEEPANKER registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://ja.hinative.com/questions/4714651",
+      "https://ja.hinative.com/dictionaries/carnage",
+      "https://ja.hinative.com/questions/2498069",
+      "https://ja.hinative.com/questions/26405524",
+      "https://ja.hinative.com/questions/24585856"
+    ],
+    "timestamp": "2026-08-24T14:20:10.603279",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEEPANKER",
+    "field": "Address",
+    "query": "DEEPANKER registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://news.yahoo.co.jp/categories/domestic",
+      "https://news.yahoo.co.jp/",
+      "https://news.yahoo.co.jp/categories/sports",
+      "https://news.yahoo.co.jp/flash",
+      "https://news.yahoo.co.jp/categories/business"
+    ],
+    "timestamp": "2026-08-24T14:20:14.088974",
+    "status": "results_found"
+  }
+]

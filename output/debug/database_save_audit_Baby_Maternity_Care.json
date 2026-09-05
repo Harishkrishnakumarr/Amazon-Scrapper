@@ -1,0 +1,74 @@
+{
+  "category": "Baby Maternity Care",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RSH GLOBAL",
+      "database_id": 1223,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@rshglobal.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.rshglobal.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1224,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@rkgaming.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "GLOMAMA",
+      "database_id": 1225,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919818698421",
+      "email": "info@glomama.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.glomama.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Mylo Family",
+      "database_id": 1226,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047190745",
+      "email": "shop@mylofamily.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.mylofamily.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Wonder Care",
+      "database_id": 1227,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918139934388",
+      "email": "raj@how2shout.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.wondercare.com/",
+      "status": "Verified"
+    }
+  ]
+}

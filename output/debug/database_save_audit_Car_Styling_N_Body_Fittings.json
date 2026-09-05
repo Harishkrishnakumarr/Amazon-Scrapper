@@ -1,0 +1,74 @@
+{
+  "category": "Car Styling N Body Fittings",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 886,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "mswcorporatesupport@morganstanley.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cloud Premium",
+      "database_id": 887,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://ad.doubleclick.net/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "VINSU",
+      "database_id": 888,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "nagpur0101@gmail.com",
+      "gst": "24NAPPS1563C1ZD",
+      "pan": "NAPPS1563C",
+      "website": "https://www.vinsu.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KRISHNA.COLLECTION",
+      "database_id": 889,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919848646702",
+      "email": "rahuluda@gmail.com",
+      "gst": "27EAXPK8746J1ZM",
+      "pan": "EAXPK8746J",
+      "website": "https://www.krishnacollection.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "ARLOOK ENTERPRISES",
+      "database_id": 890,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "will.neal@thedailybeast.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

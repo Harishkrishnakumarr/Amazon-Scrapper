@@ -1,0 +1,491 @@
+[
+  {
+    "business": "Probecho",
+    "field": "Business Name",
+    "value": "Probecho",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2796R09QL36NR&asin=B0GVBKTZV1&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T19:34:26.195254"
+  },
+  {
+    "seller": "Probecho",
+    "field": "Website",
+    "query": "Probecho official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://aeka-pf.com/",
+      "https://aeka-pf.com/topics/topics.cgi"
+    ],
+    "timestamp": "2026-08-26T19:34:28.189517",
+    "status": "results_found"
+  },
+  {
+    "seller": "Probecho",
+    "field": "Legal Entity Name",
+    "query": "Probecho company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mykitten.in/",
+      "https://puppiezo.com/cats/",
+      "https://www.sanrio.com/collections/sale-hello-kitty",
+      "https://www.kidsville.co/collections/hello-kitty"
+    ],
+    "timestamp": "2026-08-26T19:34:32.067234",
+    "status": "results_found"
+  },
+  {
+    "business": "Probecho",
+    "field": "Phone Number",
+    "value": "+919211058928",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://puppiezo.com/cats/",
+    "timestamp": "2026-08-26T19:34:34.051125"
+  },
+  {
+    "business": "Probecho",
+    "field": "Email Address",
+    "value": "hello@puppiezo.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://puppiezo.com/cats/",
+    "timestamp": "2026-08-26T19:34:34.051350"
+  },
+  {
+    "seller": "Probecho",
+    "field": "Legal Entity Name",
+    "query": "Probecho Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.courthousenews.com/wp-content/uploads/2025/06/new-orleans-police-werent-trained-on-exculpatory-evidence-or-brady.pdf"
+    ],
+    "timestamp": "2026-08-26T19:34:41.827606",
+    "status": "results_found"
+  },
+  {
+    "seller": "Probecho",
+    "field": "PAN",
+    "query": "Probecho PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T19:34:46.797403",
+    "status": "results_found"
+  },
+  {
+    "seller": "Probecho",
+    "field": "PAN",
+    "query": "Probecho PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T19:34:57.342728",
+    "status": "no_results"
+  },
+  {
+    "seller": "Probecho",
+    "field": "GST",
+    "query": "Probecho GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thoughtstopaper.com/patent-applications/provisional-patent-application.php?platform=microsoft&campaign=471505298&campaignname=Provisional%20Patent%20Campaign%202026-04&adgroup=1230354933443989&adgroupname=Ad%20group%201&keywordid=kwd-76897706693213:loc-90&matchtype=p&bidmatchtype=bb&network=o&device=c&adid=76897328254274&keyword=patent%20registration%20process&querystring=provecho%20gstin%20registration&extension=&locationinterest=&locationphysical=262576&msclkid=b7eeaf0dd24a1fa12ae3c58320c7520a&utm_source=bing&utm_medium=cpc&utm_campaign=Provisional%20Patent%20Campaign%202026-04&utm_term=patent%20registration%20process&utm_content=Ad%20group%201",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=register%20a%20business%20online&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20a%20business%20online&target_name=kwd-84045335771849:loc-90&placement=&keyword_id=register%20a%20business%20online&msclkid=9b7df72cf40113ea3ac69da2068cd821",
+      "https://www.indiafilings.com/gst/tracking",
+      "https://www.thoughtstopaper.com/patent-applications/provisional-patent-application.php?platform=microsoft&campaign=471505298&campaignname=Provisional%20Patent%20Campaign%202026-04&adgroup=1230354933443989&adgroupname=Ad%20group%201&keywordid=kwd-76897706693213:loc-90&matchtype=p&bidmatchtype=bb&network=o&device=c&adid=76897328254274&keyword=patent%20registration%20process&querystring=provecho%20gstin%20registration&extension=&locationinterest=&locationphysical=262576&msclkid=bb6ac5f0711c1b841e71af7e8391efb5&utm_source=bing&utm_medium=cpc&utm_campaign=Provisional%20Patent%20Campaign%202026-04&utm_term=patent%20registration%20process&utm_content=Ad%20group%201"
+    ],
+    "timestamp": "2026-08-26T19:35:01.828370",
+    "status": "results_found"
+  },
+  {
+    "seller": "Probecho",
+    "field": "GST",
+    "query": "Probecho GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/probecho-enterprise-24eqppr7761n1zr/",
+      "https://www.knowyourgst.com/gst-number-search/probecho-enterprise-24EQPPR7761N1ZR/",
+      "https://gstverify.co.in/search/",
+      "https://gstserver.com/gst/27AAJCP2720Q1ZY/"
+    ],
+    "timestamp": "2026-08-26T19:35:16.054855",
+    "status": "results_found"
+  },
+  {
+    "seller": "Probecho",
+    "field": "Owner",
+    "query": "Probecho director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://about.youtube/",
+      "https://blog.youtube/",
+      "https://www.britannica.com/topic/YouTube"
+    ],
+    "timestamp": "2026-08-26T19:35:17.784718",
+    "status": "results_found"
+  },
+  {
+    "seller": "Probecho",
+    "field": "Owner",
+    "query": "Probecho founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.jeuxvideo.com/forums/42-19163-65307235-1-0-1-0-op-gg-ou-u-gg.htm",
+      "https://www.jeuxvideo.com/forums/42-19163-47221162-1-0-1-0-comment-visionner-un-replay-sur-op-gg.htm"
+    ],
+    "timestamp": "2026-08-26T19:35:23.571774",
+    "status": "results_found"
+  },
+  {
+    "seller": "Probecho",
+    "field": "Address",
+    "query": "Probecho registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jb51.net/softs/734639.html",
+      "https://www.pgyer.com/new_greensleaf",
+      "http://www.j9p.com/azrj/605842.html",
+      "https://www.douyin.com/user/MS4wLjABAAAAJ7Y0q2Hn4zHa3Sht1RYcaUNDhtuhLhSHU1L9ZX3QLeDkmMpmGAjmP13C0OicmEEY"
+    ],
+    "timestamp": "2026-08-26T19:35:28.034464",
+    "status": "results_found"
+  },
+  {
+    "business": "UNIVERSAL ENTERPRISES_",
+    "field": "Business Name",
+    "value": "UNIVERSAL ENTERPRISES_",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A32REROR4QOAJZ&asin=B0GGJ9PY42&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T19:35:45.345895"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "Website",
+    "query": "UNIVERSAL ENTERPRISES_ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.universalpictures.com/",
+      "https://www.universalstore.com/"
+    ],
+    "timestamp": "2026-08-26T19:35:46.798402",
+    "status": "results_found"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "Legal Entity Name",
+    "query": "UNIVERSAL ENTERPRISES_ company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalpictures.com/",
+      "https://www.universalstore.com/",
+      "https://universalplus.com/",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T19:35:57.064875",
+    "status": "results_found"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "PAN",
+    "query": "UNIVERSAL ENTERPRISES_ PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalpictures.com/",
+      "https://www.universalstore.com/",
+      "https://universalplus.com/",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T19:36:11.942948",
+    "status": "results_found"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "PAN",
+    "query": "UNIVERSAL ENTERPRISES_ PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalpictures.com/",
+      "https://www.universalstore.com/",
+      "https://universalplus.com/",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T19:36:24.322731",
+    "status": "results_found"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "GST",
+    "query": "UNIVERSAL ENTERPRISES_ GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/universal-enterprises-27aabpt3950f1zo/",
+      "https://gstverify.co.in/gst/universal-enterprises-27mgjpk9824r1z3/",
+      "https://www.knowyourgst.com/gst-number-search/universal-enterprises-33AETPN0159E1ZI/",
+      "https://www.knowyourgst.com/gst-number-search/universal-enterprises-33AAHFU1338G1ZD/"
+    ],
+    "timestamp": "2026-08-26T19:36:28.971519",
+    "status": "results_found"
+  },
+  {
+    "business": "UNIVERSAL ENTERPRISES_",
+    "field": "GST Number",
+    "value": "33AETPN0159E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/universal-enterprises-33AETPN0159E1ZI/",
+    "timestamp": "2026-08-26T19:36:37.310814"
+  },
+  {
+    "business": "UNIVERSAL ENTERPRISES_",
+    "field": "PAN Number",
+    "value": "AETPN0159E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/universal-enterprises-33AETPN0159E1ZI/",
+    "timestamp": "2026-08-26T19:36:37.310848"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "Owner",
+    "query": "UNIVERSAL ENTERPRISES_ director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.universalpictures.com/"
+    ],
+    "timestamp": "2026-08-26T19:36:39.161718",
+    "status": "results_found"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "Owner",
+    "query": "UNIVERSAL ENTERPRISES_ founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.universalpictures.com/",
+      "https://www.universalstore.com/",
+      "https://universalplus.com/",
+      "https://universal.edu.in/"
+    ],
+    "timestamp": "2026-08-26T19:36:41.217955",
+    "status": "results_found"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "Address",
+    "query": "UNIVERSAL ENTERPRISES_ registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opencorpdata.com/uk/00778162",
+      "https://find-and-update.company-information.service.gov.uk/company/03840316",
+      "https://opencorpdata.com/lei/213800NNANA3Y2HZF967",
+      "https://www.falconebiz.com/company/UNIVERSAL-ENTERPRISES-LIMITED-L51491WB1984PLC038118"
+    ],
+    "timestamp": "2026-08-26T19:36:54.303857",
+    "status": "results_found"
+  },
+  {
+    "business": "UNIVERSAL ENTERPRISES_",
+    "field": "Billing Address",
+    "value": "8 york house, york house place, london, gb-lnd, w8 4ey, gb",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/213800NNANA3Y2HZF967",
+    "timestamp": "2026-08-26T19:36:59.275448"
+  },
+  {
+    "business": "UNIVERSAL ENTERPRISES_",
+    "field": "City",
+    "value": "gb",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/213800NNANA3Y2HZF967",
+    "timestamp": "2026-08-26T19:36:59.275464"
+  },
+  {
+    "seller": "UNIVERSAL ENTERPRISES_",
+    "field": "Phone",
+    "query": "UNIVERSAL ENTERPRISES_ phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "http://ueinc.us/contact_us.html",
+      "https://www.justdial.com/Bangalore/Universal-Enterprises-Near-Indian-Gas-Agency-Btm-Layout-1St-Stage/080PXX80-XX80-130311161246-E5N2_BZDET",
+      "https://universalenterprises.biz/contact-us.html",
+      "https://ship.theuniversalenterprises.com/contact"
+    ],
+    "timestamp": "2026-08-26T19:37:03.552941",
+    "status": "results_found"
+  },
+  {
+    "business": "UNIVERSAL ENTERPRISES_",
+    "field": "Email Address",
+    "value": "greece@ueinc.us",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://ueinc.us/contact_us.html",
+    "timestamp": "2026-08-26T19:37:04.768060"
+  },
+  {
+    "business": "UNIVERSAL ENTERPRISES_",
+    "field": "Phone Number",
+    "value": "+919869039174",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://universalenterprises.biz/contact-us.html",
+    "timestamp": "2026-08-26T19:37:07.451102"
+  },
+  {
+    "business": "INFINITE MART",
+    "field": "Business Name",
+    "value": "INFINITE MART",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1OL6JPK7V7G46&asin=B08K4R9WTM&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T19:37:07.895186"
+  },
+  {
+    "seller": "INFINITE MART",
+    "field": "Website",
+    "query": "INFINITE MART official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/"
+    ],
+    "timestamp": "2026-08-26T19:37:09.133546",
+    "status": "results_found"
+  },
+  {
+    "seller": "INFINITE MART",
+    "field": "Legal Entity Name",
+    "query": "INFINITE MART company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.azquotes.com/",
+      "https://www.azquotes.com/author/14883-Mark_Twain",
+      "https://ja.hinative.com/questions/6562590",
+      "https://ja.hinative.com/questions/19515539"
+    ],
+    "timestamp": "2026-08-26T19:37:17.709410",
+    "status": "results_found"
+  },
+  {
+    "seller": "INFINITE MART",
+    "field": "Legal Entity Name",
+    "query": "INFINITE MART Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=48adb68f1fae119dc08ddc01ec8eaeba&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.falconebiz.com/company/INFINITE-ENGINEERING-MART-PRIVATE-LIMITED-U74999TZ2016PTC022369",
+      "https://www.indiafilings.com/search/infinite-engineering-mart-private-limited-cin-U74999TZ2016PTC022369",
+      "https://www.companydetails.in/company/infinite-engineering-mart-privatelimited"
+    ],
+    "timestamp": "2026-08-26T19:37:28.218334",
+    "status": "results_found"
+  },
+  {
+    "business": "INFINITE MART",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=48adb68f1fae119dc08ddc01ec8eaeba&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-26T19:37:29.199594"
+  },
+  {
+    "business": "INFINITE MART",
+    "field": "Email Address",
+    "value": "t.rahavan@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/INFINITE-ENGINEERING-MART-PRIVATE-LIMITED-U74999TZ2016PTC022369",
+    "timestamp": "2026-08-26T19:37:30.716097"
+  },
+  {
+    "seller": "INFINITE MART",
+    "field": "PAN",
+    "query": "INFINITE MART PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-26T19:37:34.382928",
+    "status": "results_found"
+  },
+  {
+    "business": "INFINITE MART",
+    "field": "Billing Address",
+    "value": "idfc first bank tower, (the square), c-61, g block, bandra-kurla complex, bandra (east), mumbai - 400 051, maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-08-26T19:37:35.735445"
+  },
+  {
+    "business": "INFINITE MART",
+    "field": "City",
+    "value": "maharashtra.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-08-26T19:37:35.735462"
+  },
+  {
+    "business": "INFINITE MART",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.idfcfirst.bank.in/finfirst-blogs/savings-account/how-to-find-pan-card-number",
+    "timestamp": "2026-08-26T19:37:35.735467"
+  },
+  {
+    "seller": "INFINITE MART",
+    "field": "PAN",
+    "query": "INFINITE MART PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.famousbiographys.com/dunken-hina/",
+      "https://www.babepedia.com/babe/Dunken_Hina",
+      "https://www.boobpedia.com/boobs/Dunken_Hina",
+      "https://www.performerpedia.com/en/performer/p/dunken-hina"
+    ],
+    "timestamp": "2026-08-26T19:37:38.235228",
+    "status": "results_found"
+  },
+  {
+    "seller": "INFINITE MART",
+    "field": "GST",
+    "query": "INFINITE MART GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T19:59:28.145569",
+    "status": "no_results"
+  }
+]

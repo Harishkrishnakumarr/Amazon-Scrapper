@@ -1,0 +1,74 @@
+{
+  "category": "Jumpsuits & Dungarees",
+  "records_before_save": 12,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1435,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SarvayoniCouture",
+      "database_id": 1551,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "mittal8@gmail.com",
+      "gst": "07BAVPN9139B1ZA",
+      "pan": "BAVPN9139B",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KARISHMA FASHIONS",
+      "database_id": 1438,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "editor@appuals.com",
+      "gst": "24BCGPL2920K1ZP",
+      "pan": "BCGPL2920K",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Pants Theory Private Limited",
+      "database_id": 1437,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "cloftlifestyle@gmail.com",
+      "gst": "27AAKCP5603K1Z5",
+      "pan": "AAKCP5603K",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "StyleStone",
+      "database_id": 1436,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919899782251",
+      "email": "info@silestone-surfaces.com",
+      "gst": "06ACVFS1380A1Z4",
+      "pan": "ACVFS1380A",
+      "website": "https://www.stylestone.in/",
+      "status": "Verified"
+    }
+  ]
+}

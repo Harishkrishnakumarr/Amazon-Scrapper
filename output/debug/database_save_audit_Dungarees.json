@@ -1,0 +1,87 @@
+{
+  "category": "Dungarees",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Woven Fabric Company.",
+      "database_id": 1444,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918045802870",
+      "email": "ngs_1983@rediffmail.com",
+      "gst": "27AAAFW8351Q1ZF",
+      "pan": "AAAFW8351Q",
+      "website": "https://www.wovenfabriccompany.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1415,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918239685690",
+      "email": "customercare@clicktechretail.in",
+      "gst": "24AAJCC9783E1ZD",
+      "pan": "AAJCC9783E",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1445,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Chase Labs",
+      "database_id": 1446,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "team@meetchase.ai",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://chase-labs.ai/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "KiddoPanti",
+      "database_id": 1470,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919972924523",
+      "email": "customercare@kiddopanti.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.kiddopanti.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Pants Theory Private Limited",
+      "database_id": 1471,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "cloftlifestyle@gmail.com",
+      "gst": "27AAKCP5603K1Z5",
+      "pan": "AAKCP5603K",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

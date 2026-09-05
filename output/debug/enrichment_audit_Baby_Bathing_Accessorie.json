@@ -1,0 +1,621 @@
+[
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0C7W6458R&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:44:06.398710"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-08-29T12:44:09.541334",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:44:21.776723",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:44:44.599179",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:45:13.091922",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "support@rkgaming.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkgamingstore.com/",
+    "timestamp": "2026-08-29T12:45:21.479765"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:45:24.980588",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Address",
+    "query": "RK World Infocom Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:45:41.992500",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Phone",
+    "query": "RK World Infocom Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://rkgroup.biz/",
+      "https://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T12:45:58.033040",
+    "status": "results_found"
+  },
+  {
+    "business": "BangBangWa",
+    "field": "Business Name",
+    "value": "BangBangWa",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AN3L1OSNIO6LP&asin=B0CHP79F2S&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:46:12.574763"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Website",
+    "query": "BangBangWa official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.trustingchoice.com/brand/7315.html",
+      "http://nc.bangbangwa.com:7880/index_en.jsp"
+    ],
+    "timestamp": "2026-08-29T12:46:16.545374",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Legal Entity Name",
+    "query": "BangBangWa company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.desmos.com/calculator",
+      "https://www.desmos.com/",
+      "https://www.desmos.com/3d"
+    ],
+    "timestamp": "2026-08-29T12:46:42.328775",
+    "status": "results_found"
+  },
+  {
+    "business": "BangBangWa",
+    "field": "Email Address",
+    "value": "usfeedback@desmos.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.desmos.com/",
+    "timestamp": "2026-08-29T12:46:44.183518"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Legal Entity Name",
+    "query": "BangBangWa Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/bangbangwa-27aaxfb5368d1z1/",
+      "https://fnshiftsolutions.com/gstin-search/bangbangwa-36AAXFB5368D1Z2",
+      "https://www.inspex.in/",
+      "https://www.knowyourgst.com/gst-number-search/bangbangwa-27AAXFB5368D1Z1/"
+    ],
+    "timestamp": "2026-08-29T12:46:51.165681",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "PAN",
+    "query": "BangBangWa PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.droracle.ai/articles/485832/what-are-the-treatment-options-for-anterolisthesis-of-l4",
+      "https://scienceinsights.org/what-is-grade-1-anterolisthesis-of-l4-on-l5/",
+      "https://radiologyinplainenglish.com/grade-1-anterolisthesis/",
+      "https://www.osmosis.org/answers/anterolisthesis"
+    ],
+    "timestamp": "2026-08-29T12:46:59.527408",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "PAN",
+    "query": "BangBangWa PAN number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/bangbangwa-29AAXFB5368D1ZX/",
+      "https://www.knowyourgst.com/gst-number-search/bangbangwa-07AAXFB5368D1Z3/",
+      "https://piceapp.com/gst-number-search/bangbangwa-27aaxfb5368d1z1/"
+    ],
+    "timestamp": "2026-08-29T12:47:15.845831",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "GST",
+    "query": "BangBangWa GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinejobs.ph/",
+      "https://www.onlinejobs.ph/jobseekers/jobsearch",
+      "https://blog.onlinejobs.ph/apply-points-helping-the-best-and-most-qualified-applicants-stand-out/",
+      "https://blog.onlinejobs.ph/everything-you-need-to-know-about-idproof/"
+    ],
+    "timestamp": "2026-08-29T12:47:17.160149",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "GST",
+    "query": "BangBangWa GST number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://supportcenter.ieee.org/app/answers/detail/a_id/1064/~/what-is-the-difference-between-the-excel-2007-and-excel-2007-data-export"
+    ],
+    "timestamp": "2026-08-29T12:47:20.163809",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Owner",
+    "query": "BangBangWa director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-29T12:47:24.160185",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Owner",
+    "query": "BangBangWa founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://translate.google.co.in/details",
+      "https://www.easyhindityping.com/english-to-gujarati-translation",
+      "https://gujarati.indiatyping.com/"
+    ],
+    "timestamp": "2026-08-29T12:47:28.213521",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Address",
+    "query": "BangBangWa registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://eziro.com/info/%EC%9C%A0%ED%8A%9C%EB%B8%8C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0"
+    ],
+    "timestamp": "2026-08-29T12:47:34.280083",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Address",
+    "query": "BangBangWa registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://web.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-29T12:47:38.608968",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Phone",
+    "query": "BangBangWa phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trustingchoice.com/brand/7315.html",
+      "https://www.zoominfo.com/c/chengdu-bangbangwa-industry-co-ltd/425789704",
+      "https://www.cnverify.com/company/Chengdu-Bangbangwa-Industry-Co-Ltd",
+      "https://usa-m.banggood.com/contact_us.html"
+    ],
+    "timestamp": "2026-08-29T12:47:44.801005",
+    "status": "results_found"
+  },
+  {
+    "seller": "BangBangWa",
+    "field": "Phone",
+    "query": "BangBangWa contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.trustingchoice.com/brand/7315.html",
+      "https://www.21food.com/showroom/enbangbangwal/contactus.html",
+      "https://www.zoominfo.com/c/chengdu-bangbangwa-industry-co-ltd/425789704",
+      "https://www.sellerratings.com/amazon/india/bangbangwa"
+    ],
+    "timestamp": "2026-08-29T12:47:54.091890",
+    "status": "results_found"
+  },
+  {
+    "business": "Shree_Hari_Enterprise\u00ae",
+    "field": "Business Name",
+    "value": "Shree_Hari_Enterprise\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1FW22Z5BASXPV&asin=B0B8YZT3M1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:47:58.133157"
+  },
+  {
+    "seller": "Shree_Hari_Enterprise\u00ae",
+    "field": "Website",
+    "query": "Shree_Hari_Enterprise\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shreemaruti.com/",
+      "https://byshree.com/"
+    ],
+    "timestamp": "2026-08-29T12:48:00.213247",
+    "status": "results_found"
+  },
+  {
+    "business": "Shree_Hari_Enterprise\u00ae",
+    "field": "Website URL",
+    "value": "https://www.shreeharienterprise.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.shreeharienterprise.com/",
+    "timestamp": "2026-08-29T12:48:03.475898"
+  },
+  {
+    "seller": "Shree_Hari_Enterprise\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Shree_Hari_Enterprise\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shreemaruti.com/",
+      "https://byshree.com/",
+      "https://shreemaruti.com/track-shipment/",
+      "https://www.shreenandancourier.com/"
+    ],
+    "timestamp": "2026-08-29T12:48:19.011237",
+    "status": "results_found"
+  },
+  {
+    "business": "Shree_Hari_Enterprise\u00ae",
+    "field": "Phone Number",
+    "value": "+919712666666",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shreemaruti.com/track-shipment/",
+    "timestamp": "2026-08-29T12:48:33.786205"
+  },
+  {
+    "business": "Shree_Hari_Enterprise\u00ae",
+    "field": "Email Address",
+    "value": "info@shreemaruti.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://shreemaruti.com/track-shipment/",
+    "timestamp": "2026-08-29T12:48:33.786391"
+  },
+  {
+    "seller": "Shree_Hari_Enterprise\u00ae",
+    "field": "PAN",
+    "query": "Shree_Hari_Enterprise\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shreemaruti.com/",
+      "https://byshree.com/",
+      "https://shreemaruti.com/track-shipment/",
+      "https://www.shreenandancourier.com/"
+    ],
+    "timestamp": "2026-08-29T12:48:36.248729",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shree_Hari_Enterprise\u00ae",
+    "field": "GST",
+    "query": "Shree_Hari_Enterprise\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shreemaruti.com/",
+      "https://byshree.com/",
+      "https://shreemaruti.com/track-shipment/",
+      "https://www.shreenandancourier.com/"
+    ],
+    "timestamp": "2026-08-29T12:48:54.181169",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shree_Hari_Enterprise\u00ae",
+    "field": "Owner",
+    "query": "Shree_Hari_Enterprise\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shreemaruti.com/",
+      "https://byshree.com/",
+      "https://shreemaruti.com/track-shipment/",
+      "https://www.shreenandancourier.com/"
+    ],
+    "timestamp": "2026-08-29T12:49:10.732350",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shree_Hari_Enterprise\u00ae",
+    "field": "Address",
+    "query": "Shree_Hari_Enterprise\u00ae registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://shreemaruti.com/",
+      "https://byshree.com/",
+      "https://shreemaruti.com/track-shipment/",
+      "https://www.shreenandancourier.com/"
+    ],
+    "timestamp": "2026-08-29T12:49:34.712146",
+    "status": "results_found"
+  },
+  {
+    "business": "SYGA108",
+    "field": "Business Name",
+    "value": "SYGA108",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1G2T13PPGUEDO&asin=B07JFY2XYH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T12:49:42.163631"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "Website",
+    "query": "SYGA108 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5556445"
+    ],
+    "timestamp": "2026-08-29T12:49:44.510982",
+    "status": "results_found"
+  },
+  {
+    "business": "SYGA108",
+    "field": "Website URL",
+    "value": "https://forum.lowyat.net/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://forum.lowyat.net/Kopitiam",
+    "timestamp": "2026-08-29T12:49:48.610511"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "Legal Entity Name",
+    "query": "SYGA108 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.le-dictionnaire.com/definition/empathie",
+      "https://dictionnaire.lerobert.com/definition/empathie",
+      "https://jade.psylio.com/fr/blog/definition-empathie",
+      "https://mobile-dictionary.reverso.net/francais-definition/empathie"
+    ],
+    "timestamp": "2026-08-29T12:49:55.056379",
+    "status": "results_found"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "PAN",
+    "query": "SYGA108 PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.urbanmoney.com/pan-card/pan-card-details"
+    ],
+    "timestamp": "2026-08-29T12:50:19.608623",
+    "status": "results_found"
+  },
+  {
+    "business": "SYGA108",
+    "field": "Email Address",
+    "value": "connect@urbanmoney.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.urbanmoney.com/pan-card/pan-card-details",
+    "timestamp": "2026-08-29T12:50:22.700079"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "PAN",
+    "query": "SYGA108 PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-29T12:50:32.708798",
+    "status": "results_found"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "GST",
+    "query": "SYGA108 GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.registerkaro.in/gst-number-search"
+    ],
+    "timestamp": "2026-08-29T12:50:38.264430",
+    "status": "results_found"
+  },
+  {
+    "business": "SYGA108",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T12:50:40.263444"
+  },
+  {
+    "business": "SYGA108",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T12:50:40.263468"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "Owner",
+    "query": "SYGA108 director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://rocketreach.co/rhythm-108-management_b5f4fbd8f42d2b96",
+      "https://companydata.com/business-owner-search/",
+      "https://rocketreach.co/rhythm-108-profile_b5f4fbd8f42d2b96",
+      "https://syga.in/pages/about-us"
+    ],
+    "timestamp": "2026-08-29T12:50:47.212422",
+    "status": "results_found"
+  },
+  {
+    "business": "SYGA108",
+    "field": "Phone Number",
+    "value": "+919427140037",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://syga.in/pages/about-us",
+    "timestamp": "2026-08-29T12:50:53.231717"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "Owner",
+    "query": "SYGA108 founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://rhythm108.co.uk/pages/meet-our-team",
+      "https://www.ey.com/en_ch/differenteyes-magazine/siddhi-mehta-interview",
+      "https://syga.in/products/1002052",
+      "https://tracxn.com/d/companies/108/__eMu1iLvkVbhm5jgwSESUyP8kTNFevTe22dip2nQpXBk/founders-and-board-of-directors"
+    ],
+    "timestamp": "2026-08-29T12:50:57.644038",
+    "status": "results_found"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "Address",
+    "query": "SYGA108 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.oomagari-hanabi.com/trademark.html"
+    ],
+    "timestamp": "2026-08-29T12:51:00.115539",
+    "status": "results_found"
+  },
+  {
+    "seller": "SYGA108",
+    "field": "Address",
+    "query": "SYGA108 registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.istockphoto.com/videos/cute-girls-bathing-suits?msockid=19c627c77a136105066c30037bab601b",
+      "https://www.istockphoto.com/videos/tween-swimsuit?msockid=19c627c77a136105066c30037bab601b",
+      "https://archive.org/details/sf17ut-2022_Little_Miss_Spanish_Fork_Pre-Teen_Teen_Pageant",
+      "https://www.seacoastonline.com/picture-gallery/news/2020/07/26/little-missjunior-miss-hampton-beach-pageant-2020/113934800/"
+    ],
+    "timestamp": "2026-08-29T12:51:05.715821",
+    "status": "results_found"
+  }
+]

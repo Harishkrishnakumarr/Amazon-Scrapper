@@ -1,0 +1,1047 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0CKBXW7KT&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T23:16:38.363193"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:16:39.847733",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+    "timestamp": "2026-09-04T23:17:13.077559"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:17:20.976898",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp"
+    ],
+    "timestamp": "2026-09-04T23:17:29.249540",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:17:34.776310",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:17:52.025778",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:17:53.341536",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:18:05.916671",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:18:15.513970",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:18:24.821992",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://us.etrade.com/e/t/user/login?msockid=3cf78bc13cf0679f09149c0b3df4662f",
+      "https://etrade.sbi.bank.in/CEWeb/SYS_index.jsp",
+      "https://us.etrade.com/trade?msockid=3cf78bc13cf0679f09149c0b3df4662f"
+    ],
+    "timestamp": "2026-09-04T23:18:26.140549",
+    "status": "results_found"
+  },
+  {
+    "business": "SNMMIFER",
+    "field": "Business Name",
+    "value": "SNMMIFER",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3M61JIW8FCQFX&asin=B0DKX3HX1W&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T23:18:40.534169"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "Website",
+    "query": "SNMMIFER official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365-0.html",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365.html"
+    ],
+    "timestamp": "2026-09-04T23:18:41.980839",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "Legal Entity Name",
+    "query": "SNMMIFER company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://mkt.swyftfilings.com/mkt/incorporation/?msclkid=70b12baed6e91358d8404135d2781002&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=direct%20incorporation&utm_content=DirectIncorporation",
+      "https://trademarking.in/details/Snmmifer-6856542.html",
+      "https://www.trademarkia.in/snmmifer-6856548",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-09-04T23:18:46.452717",
+    "status": "results_found"
+  },
+  {
+    "business": "SNMMIFER",
+    "field": "Email Address",
+    "value": "support@swyftlegal.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://mkt.swyftfilings.com/mkt/incorporation/?msclkid=70b12baed6e91358d8404135d2781002&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=direct%20incorporation&utm_content=DirectIncorporation",
+    "timestamp": "2026-09-04T23:18:47.949924"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "PAN",
+    "query": "SNMMIFER PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://obsproject.com/tr/downLOAD",
+      "https://obsproject.com/forum/threads/youtube-need-to-setup-broadcast-before-you-can-stream.149849/"
+    ],
+    "timestamp": "2026-09-04T23:19:21.946899",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "PAN",
+    "query": "SNMMIFER PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kaskus.co.id/post/64a408fc26416c27216aad88",
+      "https://www.kaskus.co.id/thread/65a109821532ca2dfe3f3ada/viral-video-sprei-mu-link-tersebar-di-tiktok-sampai-twitter-apa-isinya",
+      "https://www.kaskus.co.id/thread/63f62c6389f4a3501b2bade2/mengenal-lebih-dekat-dood-stream-situs-yang-banyak-dipakai-quotpemburu-linkquot",
+      "https://m.kaskus.co.id/thread/000000000000000017014967/nonton-bokep--sakit-jiwa"
+    ],
+    "timestamp": "2026-09-04T23:19:32.727786",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "GST",
+    "query": "SNMMIFER GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sachis.in/about-sachis",
+      "https://sabyasachi.com/",
+      "https://www.momjunction.com/baby-names/sachi/",
+      "https://sachiskin.com/"
+    ],
+    "timestamp": "2026-09-04T23:19:40.566793",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "GST",
+    "query": "SNMMIFER GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.usingenglish.com/forum/threads/what-does-lue-mean.21138/",
+      "https://www.usingenglish.com/reference/idioms/if+you+lie+down+with+the+devil+you+will+wake+up+in+hell.html",
+      "https://www.usingenglish.com/reference/idioms/rue+the+day.html",
+      "https://www.usingenglish.com/reference/idioms/thin+blue+line.html"
+    ],
+    "timestamp": "2026-09-04T23:19:52.425559",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "Owner",
+    "query": "SNMMIFER director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://trademarking.in/details/Snmmifer-6856542.html",
+      "https://www.trademarkia.in/snmmifer-6856546",
+      "https://companydata.com/business-owner-search/",
+      "https://www.forbes.com/profile/noubar-afeyan/"
+    ],
+    "timestamp": "2026-09-04T23:19:58.974604",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "Owner",
+    "query": "SNMMIFER founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://trademarking.in/details/Snmmifer-6856542.html",
+      "https://www.trademarkia.in/snmmifer-6856550",
+      "http://snmmifer.com/",
+      "https://www.forbes.com/profile/noubar-afeyan/"
+    ],
+    "timestamp": "2026-09-04T23:20:11.406833",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "Address",
+    "query": "SNMMIFER registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.credit-et-banque.com/caisse-depargne-mon-compte/"
+    ],
+    "timestamp": "2026-09-04T23:20:12.994159",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "Address",
+    "query": "SNMMIFER registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sellerratings.com/amazon/india/snmmifer",
+      "https://trademarking.in/details/Snmmifer-6856542.html",
+      "http://snmmifer.com/",
+      "https://www.trademarkia.in/snmmifer-6856543"
+    ],
+    "timestamp": "2026-09-04T23:20:18.709541",
+    "status": "results_found"
+  },
+  {
+    "seller": "SNMMIFER",
+    "field": "Phone",
+    "query": "SNMMIFER phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.wikihow.com/Contact-Samsung-Customer-Service",
+      "https://www.sellerratings.com/amazon/india/snmmifer",
+      "https://www.samsung.com/us/support/contact/",
+      "https://www.snapchat.com/@customer-help"
+    ],
+    "timestamp": "2026-09-04T23:20:51.470736",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0CTQ4RSMB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T23:20:51.858272"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-04T23:20:54.729995",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registration%20of%20private%20limited%20company%20in%20india&utm_adgroup=1353501333030805&network=o&device=c&msclkid=b01b2f07869318da3676459c8389851a&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registration%20of%20private%20limited%20company%20in%20india&utm_content=SP%20-%20PVT%20-%20LCPC",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-04T23:21:03.961306",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530909375&utm_medium=ad&utm_content=&utm_term=registration%20of%20private%20limited%20company%20in%20india&utm_adgroup=1353501333030805&network=o&device=c&msclkid=b01b2f07869318da3676459c8389851a&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20Low%20CPC%20-%202023%20BIng&utm_term=registration%20of%20private%20limited%20company%20in%20india&utm_content=SP%20-%20PVT%20-%20LCPC",
+    "timestamp": "2026-09-04T23:21:08.423732"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T23:21:09.771621"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T23:21:09.771639"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T23:21:09.771643"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-09-04T23:21:09.771647"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "ant.agarwal@retailez.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+    "timestamp": "2026-09-04T23:21:11.442877"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=pvt%20limited%20company%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=9c9ead02ca4610db1e0ac799cf611ee2&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=pvt%20limited%20company%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://www.falconebiz.com/company/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-04T23:21:16.629866",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED",
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited"
+    ],
+    "timestamp": "2026-09-04T23:21:19.727662",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+    "timestamp": "2026-09-04T23:21:20.386313"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+    "timestamp": "2026-09-04T23:21:20.386328"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://tracxn.com/d/companies/retailez/__4ffcYJrMqE3nIVz9ERkdnvFh5sMNw1Bs2KyrbLP8fvI",
+      "https://www.affluense.ai/profile/aparesh-agarwal-retailez-private-limited-16c092",
+      "https://mycorporateinfo.com/business-director/retailez-private-limited"
+    ],
+    "timestamp": "2026-09-04T23:21:24.659885",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://avtub.me/category/bokep-indo/",
+      "https://avtub.fit/",
+      "https://bokepindonesia.me/tag/avtub/"
+    ],
+    "timestamp": "2026-09-04T23:21:30.757132",
+    "status": "results_found"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/aag/main?ie=UTF8&seller=ADACSD4ANFTER&isAmazonFulfilled=1&asin=B08N6MLJH8&ref_=olp_merch_name_1",
+    "timestamp": "2026-09-04T23:21:36.399631"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Website",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php"
+    ],
+    "timestamp": "2026-09-04T23:21:37.593750",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.mensa.org/"
+    ],
+    "timestamp": "2026-09-04T23:21:45.895682",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:21:54.263543",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:22:00.448143",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "PAN",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:22:10.903313",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "GST",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:22:19.476121",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "GST",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/mensa-brand-technologies-private-limited-29AAOCM5326J2ZX/",
+      "https://tenderkart.in/gst-number-search/29AAOCM5326J2ZX",
+      "https://gst.jamku.app/gstin/29AAOCM5326J2ZX",
+      "https://tenderkart.in/gst-number-search/29AAOCM5326J1ZY"
+    ],
+    "timestamp": "2026-09-04T23:22:31.505371",
+    "status": "results_found"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "GST Number",
+    "value": "29AAOCM5326J2ZX",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/mensa-brand-technologies-private-limited-29AAOCM5326J2ZX/",
+    "timestamp": "2026-09-04T23:22:32.134410"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "PAN Number",
+    "value": "AAOCM5326J",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/mensa-brand-technologies-private-limited-29AAOCM5326J2ZX/",
+    "timestamp": "2026-09-04T23:22:32.134429"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:22:33.624511",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Owner",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:22:50.453822",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Address",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:22:52.926526",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Address",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:23:01.759614",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Phone",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:23:10.310339",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Phone",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mensa.org/",
+      "https://mensaindia.org/new/index.php",
+      "https://mensaindia.org/JoinUs",
+      "https://mensa.org.uk/mensa-online-iq-test/"
+    ],
+    "timestamp": "2026-09-04T23:23:24.219578",
+    "status": "results_found"
+  },
+  {
+    "seller": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Email",
+    "query": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://global.ishinfashions.com/en-us/pages/contact",
+      "https://www.dennislingo.com/pages/contact-us-1",
+      "https://indiatradezone.com/company/15764-mensa-brand-technologies-private-limited",
+      "https://www.zauba.company/company/mensa_brand_technologies_private_limited/U74999KA2021PTC146740"
+    ],
+    "timestamp": "2026-09-04T23:23:27.587862",
+    "status": "results_found"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Phone Number",
+    "value": "+919008489091",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://global.ishinfashions.com/en-us/pages/contact",
+    "timestamp": "2026-09-04T23:23:29.124633"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Email Address",
+    "value": "care@ishinfashions.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://global.ishinfashions.com/en-us/pages/contact",
+    "timestamp": "2026-09-04T23:23:29.124734"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Billing Address",
+    "value": "vaishnavi properties, #30/1, silicon terraces, 2nd and 3rd floor, adugodi, hosur main road, koramangala, bengaluru \u2013 560095",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://global.ishinfashions.com/en-us/pages/contact",
+    "timestamp": "2026-09-04T23:23:29.132141"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://global.ishinfashions.com/en-us/pages/contact",
+    "timestamp": "2026-09-04T23:23:29.132155"
+  },
+  {
+    "business": "MENSA BRAND TECHNOLOGIES PRIVATE LIMITED",
+    "field": "Pincode",
+    "value": "560095",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://global.ishinfashions.com/en-us/pages/contact",
+    "timestamp": "2026-09-04T23:23:29.132157"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "Business Name",
+    "value": "TOPPROSPER",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A47QFJXT42S7I&asin=B0B6V8NZD7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T23:23:29.614632"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Website",
+    "query": "TOPPROSPER official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thefreedictionary.com/appalling",
+      "https://www.merriam-webster.com/simple/appalling"
+    ],
+    "timestamp": "2026-09-04T23:23:31.607095",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Legal Entity Name",
+    "query": "TOPPROSPER company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gumtree.com.au/",
+      "https://www.gumtree.com.au/cars",
+      "https://www.gumtree.com.au/s-dogs-puppies/c18434",
+      "https://www.gumtree.com.au/s-sydney/l3003435"
+    ],
+    "timestamp": "2026-09-04T23:23:37.776430",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Legal Entity Name",
+    "query": "TOPPROSPER Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://github.com/RVC-Boss/GPT-SoVITS",
+      "https://github.com/idootop/mi-gpt"
+    ],
+    "timestamp": "2026-09-04T23:23:41.748589",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "PAN",
+    "query": "TOPPROSPER PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-04T23:23:51.869214",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "PAN",
+    "query": "TOPPROSPER PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T23:24:00.493971",
+    "status": "no_results"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "GST",
+    "query": "TOPPROSPER GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.easytax.live/s/gst-number-search"
+    ],
+    "timestamp": "2026-09-04T23:24:04.180027",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "GST",
+    "query": "TOPPROSPER GST number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/topprosper-07OKNPS0696M1ZW/",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-04T23:24:08.679983",
+    "status": "results_found"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "GST Number",
+    "value": "07OKNPS0696M1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/topprosper-07OKNPS0696M1ZW/",
+    "timestamp": "2026-09-04T23:24:09.029618"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "PAN Number",
+    "value": "OKNPS0696M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/topprosper-07OKNPS0696M1ZW/",
+    "timestamp": "2026-09-04T23:24:09.029629"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Owner",
+    "query": "TOPPROSPER director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://bokeplot.com/category/bokep-indo/",
+      "https://bokeplik.com/category/bokep-indo/"
+    ],
+    "timestamp": "2026-09-04T23:24:10.927414",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Owner",
+    "query": "TOPPROSPER founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-04T23:24:21.859665",
+    "status": "no_results"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Address",
+    "query": "TOPPROSPER registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://planner5d.com/blog/pt/tendencias-de-design-de-interiores-2026/",
+      "https://casavogue.globo.com/decoracao/noticia/2025/11/9-tendencias-de-decoracao-que-continuarao-em-alta-em-2026-e-quais-estao-prestes-a-desaparecer.ghtml",
+      "https://blog.archtrends.com/tendencias-de-arquitetura-e-decoracao-para-2026/"
+    ],
+    "timestamp": "2026-09-04T23:24:23.707129",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Address",
+    "query": "TOPPROSPER registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://texas-biz.com/co/topprosper-group-llc",
+      "http://topprosper.com/",
+      "https://www.bizapedia.com/tx/topprosper-group-llc.html",
+      "http://www.topprosper.com/topprosper-Contact"
+    ],
+    "timestamp": "2026-09-04T23:24:38.631537",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Phone",
+    "query": "TOPPROSPER phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dominos.com/en",
+      "https://www.dominos.com/en/menu",
+      "https://pizza.dominos.com/new-york/brooklyn",
+      "https://pizza.dominos.com/california/los-angeles"
+    ],
+    "timestamp": "2026-09-04T23:24:39.974175",
+    "status": "results_found"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Phone",
+    "query": "TOPPROSPER contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pubchem.ncbi.nlm.nih.gov/compound/Ammonia",
+      "https://www.geeksforgeeks.org/chemistry/ammonia-formula/",
+      "https://www.geeksforgeeks.org/chemistry/ammonia-structure-properties-preparation-uses/",
+      "https://www.britannica.com/science/ammonia"
+    ],
+    "timestamp": "2026-09-04T23:24:51.209727",
+    "status": "results_found"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "Billing Address",
+    "value": "a-143, 6th floor, sovereign corporate tower, sector- 136, noida, uttar pradesh (201305)",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/chemistry/ammonia-formula/",
+    "timestamp": "2026-09-04T23:24:54.631076"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "City",
+    "value": "uttar pradesh ()",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/chemistry/ammonia-formula/",
+    "timestamp": "2026-09-04T23:24:54.631092"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "State",
+    "value": "Uttar Pradesh",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/chemistry/ammonia-formula/",
+    "timestamp": "2026-09-04T23:24:54.631096"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "Pincode",
+    "value": "201305",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.geeksforgeeks.org/chemistry/ammonia-formula/",
+    "timestamp": "2026-09-04T23:24:54.631106"
+  },
+  {
+    "seller": "TOPPROSPER",
+    "field": "Email",
+    "query": "TOPPROSPER email contact address customer care",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "http://www.topprosper.com/topprosper-Contact",
+      "http://topprosper.com/",
+      "https://lbb.in/places/Topprosper-d083ad/",
+      "https://www.complaintsboard.com/prospercom-b135084/contacts"
+    ],
+    "timestamp": "2026-09-04T23:24:58.699250",
+    "status": "results_found"
+  },
+  {
+    "business": "TOPPROSPER",
+    "field": "Email Address",
+    "value": "ryan@brighter-hk.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://www.topprosper.com/topprosper-Contact",
+    "timestamp": "2026-09-04T23:25:00.988727"
+  }
+]

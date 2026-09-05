@@ -1,0 +1,124 @@
+[
+  {
+    "business": "HARI KRISHNA MART",
+    "field": "Business Name",
+    "value": "HARI KRISHNA MART",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AK16TCA572L9X&asin=B0DS6CBBC5&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-22T08:34:41.944664"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "Website",
+    "query": "HARI KRISHNA MART official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://harekrishnamart.com/pages/about-us",
+      "https://harekrishnamart.com/"
+    ],
+    "timestamp": "2026-08-22T08:34:44.368589",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "Legal Entity Name",
+    "query": "HARI KRISHNA MART company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://haridu.in/",
+      "https://www.wisdomlib.org/concept/hari",
+      "https://www.hariuniversity.com/",
+      "https://www.hariuniversity.com/campus",
+      "https://hinduvism.com/lord-hari-the-divine-preserver-of-harmony/"
+    ],
+    "timestamp": "2026-08-22T08:35:07.406148",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "PAN",
+    "query": "HARI KRISHNA MART PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-22T08:35:44.443928",
+    "status": "no_results"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "PAN",
+    "query": "HARI KRISHNA MART PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://harekrishnamart.com/",
+      "https://harekrishnamart.com/collections/rudraksha",
+      "https://harekrishnamart.com/collections",
+      "https://harekrishnamart.com/collections/shivling",
+      "https://harekrishnamart.com/collections/horse-shoe"
+    ],
+    "timestamp": "2026-08-22T08:35:46.944202",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "GST",
+    "query": "HARI KRISHNA MART GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://haridu.in/",
+      "https://www.wisdomlib.org/concept/hari",
+      "https://www.hariuniversity.com/",
+      "https://www.hariuniversity.com/campus",
+      "https://hinduvism.com/lord-hari-the-divine-preserver-of-harmony/"
+    ],
+    "timestamp": "2026-08-22T08:35:53.240093",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "Owner",
+    "query": "HARI KRISHNA MART director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-22T08:36:23.790094",
+    "status": "no_results"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "Owner",
+    "query": "HARI KRISHNA MART managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/allzen-foods-marketing-private-limited/__G-_lDBvr3NiKYS2s7TFTRzU2IBu4IVY95GWKZAR4avY",
+      "https://www.marketscreener.com/insider/HARI-KRISHAN-AGARWAL-A29SGY/",
+      "https://harekrishnamart.com/pages/about-us",
+      "https://founders-nation.com/Profile.aspx?id=34510&name=HareKrishna+Mart",
+      "https://people.equilar.com/bio/person/hari-krishna-canada-pension-plan-investment-board/33845547"
+    ],
+    "timestamp": "2026-08-22T08:36:26.340730",
+    "status": "results_found"
+  },
+  {
+    "seller": "HARI KRISHNA MART",
+    "field": "Address",
+    "query": "HARI KRISHNA MART registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://harekrishnamart.com/pages/about-us",
+      "https://www.hk.co/contact-global-diamond-manufacturer",
+      "https://www.hkimpex.com/contact/",
+      "https://officehours.com/hari-krishna",
+      "https://www.harikrishnagroup.in/"
+    ],
+    "timestamp": "2026-08-22T08:36:35.883700",
+    "status": "results_found"
+  }
+]

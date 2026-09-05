@@ -1,0 +1,61 @@
+{
+  "category": "Office Furniture",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Madan Artisans",
+      "database_id": 192,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911100412023",
+      "email": "madanretails@gmail.com",
+      "gst": "33AGZPA0130G1ZU",
+      "pan": "Not Found",
+      "website": "https://www.madanmohan.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Vaikunth Creations",
+      "database_id": 193,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+914499201226",
+      "email": "support@housing.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://housing.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 194,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Clickora",
+      "database_id": 195,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

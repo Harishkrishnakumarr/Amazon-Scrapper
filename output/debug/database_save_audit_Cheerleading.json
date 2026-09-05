@@ -1,0 +1,87 @@
+{
+  "category": "Cheerleading",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Kay Kay Overseas Corporation Store",
+      "database_id": 1507,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918888888888",
+      "email": "hardcoded@mail.com",
+      "gst": "33AACFK0693D1ZQ",
+      "pan": "AACFK0693D",
+      "website": "https://www.justdial.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KALAKARAM INDIA PRIVATE LIMITED",
+      "database_id": 1508,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@instafinancials.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Selibration",
+      "database_id": 1509,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918433852212",
+      "email": "connect@selibration.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.selibration.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SRIHANUMANAGENCY CREATION",
+      "database_id": 1510,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@inspex.in",
+      "gst": "33ASFPM8689N2ZT",
+      "pan": "ASFPM8689N",
+      "website": "https://www.sellerratings.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "KAKU FANCY DRESSES.",
+      "database_id": 1511,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919711440786",
+      "email": "contact@martfury.com",
+      "gst": "07BITPS6456GIZI",
+      "pan": "BITPS6456G",
+      "website": "https://www.kakufancydresses.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Gujral Industries - Gisco",
+      "database_id": 1507,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918888888888",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1718E1ZP",
+      "pan": "AABCR1718E",
+      "website": "https://www.justdial.com/",
+      "status": "Verified"
+    }
+  ]
+}

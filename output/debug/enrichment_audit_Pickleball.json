@@ -1,0 +1,130 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0FMF9GY4V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T18:13:59.530445"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-24T18:14:34.935626",
+    "status": "no_results"
+  },
+  {
+    "business": "FunBlast",
+    "field": "Business Name",
+    "value": "FunBlast",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3LH2KKDFG65UB&asin=B0DZHMV8L6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T18:16:10.241575"
+  },
+  {
+    "seller": "FunBlast",
+    "field": "Website",
+    "query": "FunBlast official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-24T18:16:43.588773",
+    "status": "no_results"
+  },
+  {
+    "business": "FunBlast",
+    "field": "Website URL",
+    "value": "https://funblast.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://funblast.in/",
+    "timestamp": "2026-08-24T18:17:28.764199"
+  },
+  {
+    "business": "FunBlast",
+    "field": "Phone Number",
+    "value": "+919917112023",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://funblast.in/",
+    "timestamp": "2026-08-24T18:17:32.461170"
+  },
+  {
+    "seller": "FunBlast",
+    "field": "Legal Entity Name",
+    "query": "FunBlast company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://funblast.in/",
+      "https://myahmedabad.blog/fun-blast-sports-arena-sindhubhavan-ahmedabad/",
+      "https://ticketpricenow.com/fun-blast-ahmedabad-ticket-price/",
+      "https://funblast.in/collections/all",
+      "https://thefunblast.com/"
+    ],
+    "timestamp": "2026-08-24T18:18:07.321045",
+    "status": "results_found"
+  },
+  {
+    "business": "Beauty_Basket",
+    "field": "Business Name",
+    "value": "Beauty_Basket",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A22JJ6NRXMS8SP&asin=B07YJL68VG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-24T18:18:40.357726"
+  },
+  {
+    "seller": "Beauty_Basket",
+    "field": "Website",
+    "query": "Beauty_Basket official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.nykaa.com/",
+      "https://www.vogue.in/beauty"
+    ],
+    "timestamp": "2026-08-24T18:18:45.681584",
+    "status": "results_found"
+  },
+  {
+    "business": "Beauty_Basket",
+    "field": "Website URL",
+    "value": "https://www.nykaa.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.nykaa.com/",
+    "timestamp": "2026-08-24T18:20:19.191763"
+  },
+  {
+    "business": "Beauty_Basket",
+    "field": "Phone Number",
+    "value": "+910002393920",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.nykaa.com/",
+    "timestamp": "2026-08-24T18:20:21.213383"
+  },
+  {
+    "seller": "Beauty_Basket",
+    "field": "Legal Entity Name",
+    "query": "Beauty_Basket company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.nykaa.com/",
+      "https://www.vogue.in/beauty",
+      "https://beautiful.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://rlaunch.in/rlaunch-salon-godda"
+    ],
+    "timestamp": "2026-08-24T18:20:25.452773",
+    "status": "results_found"
+  }
+]

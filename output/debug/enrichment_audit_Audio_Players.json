@@ -1,0 +1,416 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FSLFXV28&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:02:33.178332"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T18:02:39.420898",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T18:02:44.571218"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T18:02:45.955726"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:02:51.828855",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-26T18:02:59.828956"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=0f1fc519028d1c63a3fdaf97df8cb148&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://www.indiafilings.com/search/clicktech-retail-private-limited-cin-U52500WB2021PTC250343",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-33aajcc9783e1ze/"
+    ],
+    "timestamp": "2026-08-26T18:03:06.141423",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:03:08.427702",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:03:18.776208",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:03:25.774726",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:03:34.868651",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T18:03:47.753244",
+    "status": "no_results"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:04:04.934422",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T18:04:07.502537",
+    "status": "results_found"
+  },
+  {
+    "business": "DOCOSS INDIA",
+    "field": "Business Name",
+    "value": "DOCOSS INDIA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3TGE6ND60CUYK&asin=B0DPQXTSG8&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:04:36.676240"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Website",
+    "query": "DOCOSS INDIA official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T18:04:52.495193",
+    "status": "no_results"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Legal Entity Name",
+    "query": "DOCOSS INDIA company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lexilogos.com/keyboard/khmer.htm",
+      "https://vkboard.com/virtual-khmer-keyboard/",
+      "https://www.typingstudy.com/km-khmer-3/lesson/1",
+      "https://gate2home.com/Khmer-Keyboard"
+    ],
+    "timestamp": "2026-08-26T18:05:01.054395",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "PAN",
+    "query": "DOCOSS INDIA PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://docoss.in/",
+      "https://docoss.in/pages/contact"
+    ],
+    "timestamp": "2026-08-26T18:05:29.035528",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "GST",
+    "query": "DOCOSS INDIA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1343604421673036&utm_term=Online%20brand%20registration&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=Online%20brand%20registration&target_name=kwd-83976071688703:loc-90&placement=&keyword_id=Online%20brand%20registration&msclkid=399163f7f8fa15bca4e90979255ec0f6",
+      "https://piceapp.com/gst-number-search/docoss-india-27aacpj3904a1zd/",
+      "https://gst.jamku.app/gstin/27AACPJ3904A1ZD",
+      "https://www.knowyourgst.com/gst-number-search/docoss-india-private-limited-33AAJCD4724G1ZU/"
+    ],
+    "timestamp": "2026-08-26T18:05:51.958311",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Owner",
+    "query": "DOCOSS INDIA director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/search/sanyam-jayantilal-jain-din-09689965",
+      "https://www.companydetails.in/director/docoss-india-private-limited/U51909MH2022PTC387790",
+      "https://www.quickcompany.in/company/docoss-india-private-limited",
+      "https://www.thecompanycheck.com/people-profile/sanyam-jayantilal-jain/09689965"
+    ],
+    "timestamp": "2026-08-26T18:06:06.527732",
+    "status": "results_found"
+  },
+  {
+    "seller": "DOCOSS INDIA",
+    "field": "Address",
+    "query": "DOCOSS INDIA registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/DOCOSS-INDIA-PRIVATE-LIMITED-U51909MH2022PTC387790",
+      "https://www.insiderbiz.in/company-map/DOCOSS-INDIA-PRIVATE-LIMITED",
+      "https://www.instafinancials.com/company/docoss-india-private-limited-U51909MH2022PTC387790",
+      "https://tracxn.com/d/legal-entities/india/docoss-india-private-limited/__XZWYvp-jCHiJAdipv_xm40egJ5Eqy8AHpxRtlqI-bRw"
+    ],
+    "timestamp": "2026-08-26T18:06:56.579478",
+    "status": "results_found"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Business Name",
+    "value": "Corus Labs",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2VSFU9ZVNPNNH&asin=B014A676BK&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:07:00.877453"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "Website",
+    "query": "Corus Labs official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.corusdental.com/en/corus-laboratories",
+      "https://www.corusdental.com/en/"
+    ],
+    "timestamp": "2026-08-26T18:07:13.609377",
+    "status": "results_found"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Website URL",
+    "value": "https://www.coruslabs.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.coruslabs.com/",
+    "timestamp": "2026-08-26T18:07:16.007440"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "Legal Entity Name",
+    "query": "Corus Labs company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/",
+      "https://corusinternational.org/",
+      "https://www.corusent.com/"
+    ],
+    "timestamp": "2026-08-26T18:07:24.335436",
+    "status": "results_found"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Email Address",
+    "value": "care@1mg.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+    "timestamp": "2026-08-26T18:07:29.734051"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "Billing Address",
+    "value": "a)97/2, athiyawad, dabhel village, nani daman (ut) daman-300 210",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+    "timestamp": "2026-08-26T18:07:29.797197"
+  },
+  {
+    "business": "Corus Labs",
+    "field": "City",
+    "value": "dabhel village",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+    "timestamp": "2026-08-26T18:07:29.797218"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "PAN",
+    "query": "Corus Labs PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/",
+      "https://corusinternational.org/",
+      "https://www.corusent.com/"
+    ],
+    "timestamp": "2026-08-26T18:07:45.408407",
+    "status": "results_found"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "GST",
+    "query": "Corus Labs GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/",
+      "https://corusinternational.org/",
+      "https://www.corusent.com/"
+    ],
+    "timestamp": "2026-08-26T18:08:00.538271",
+    "status": "results_found"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "Owner",
+    "query": "Corus Labs director owner founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T18:08:22.161972",
+    "status": "no_results"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "Owner",
+    "query": "Corus Labs founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dental-tribune.com/news/integrating-leading-dental-laboratories-across-europe/",
+      "https://www.careventures.eu/companies/corus/",
+      "https://www.corusdental.com/en/corus-now/9/Corus-appoints-Nicolas-Bonnard-as-new-CEO",
+      "https://www.careventures.eu/juan-roma-founder-and-former-ceo-of-corus-steps-forward-to-be-the-new-executive-chairman/"
+    ],
+    "timestamp": "2026-08-26T18:08:32.738230",
+    "status": "results_found"
+  },
+  {
+    "seller": "Corus Labs",
+    "field": "Phone",
+    "query": "Corus Labs phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.1mg.com/otc/corus-soft-gelatin-capsule-otc140835",
+      "https://www.corusent.com/about-corus/overview/",
+      "https://corusinternational.org/",
+      "https://www.corusent.com/"
+    ],
+    "timestamp": "2026-08-26T18:08:37.474677",
+    "status": "results_found"
+  }
+]

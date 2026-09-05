@@ -1,0 +1,100 @@
+{
+  "category": "Motorhome Parts & Accessories",
+  "records_before_save": 9,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SUDHIRYADAV DECO WORLD FURNISHINGS LLP",
+      "database_id": 1000,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917303804040",
+      "email": "ffice07@gmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.falconebiz.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SHOPY LOOM",
+      "database_id": 1002,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@shopsy.co.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ONE STOP FASHIONS",
+      "database_id": 1028,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "yadav@inceptralifestyle.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "LR_DECOR",
+      "database_id": 1003,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "06AAKFL3339B1ZL",
+      "pan": "AAKFL3339B",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Kosliya Living",
+      "database_id": 1004,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "dictionary@rekhta.org",
+      "gst": "06AAZFK3136G1Z2",
+      "pan": "AAZFK3136G",
+      "website": "https://www.sellerratings.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "CREATIONIST",
+      "database_id": 1033,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919711800081",
+      "email": "info@ncse.ngo",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "SHUBNALI DECOR",
+      "database_id": 1034,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919987761000",
+      "email": "help@dhan.co",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+[
+  {
+    "business": "PUPPETNX",
+    "field": "Business Name",
+    "value": "PUPPETNX",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AOIZ0UCBU58XD&asin=B0D1KH3F5V&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T12:37:57.243409"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "Website",
+    "query": "PUPPETNX official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:37:59.854638",
+    "status": "results_found"
+  },
+  {
+    "business": "PUPPETNX",
+    "field": "Website URL",
+    "value": "https://puppetnx.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://puppetnx.com/",
+    "timestamp": "2026-08-15T12:38:23.122492"
+  },
+  {
+    "business": "PUPPETNX",
+    "field": "Phone Number",
+    "value": "+913800042026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://puppetnx.com/",
+    "timestamp": "2026-08-15T12:38:24.904999"
+  },
+  {
+    "business": "PUPPETNX",
+    "field": "Email Address",
+    "value": "puppetnx1986@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://puppetnx.com/",
+    "timestamp": "2026-08-15T12:38:24.905326"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "Legal Entity Name",
+    "query": "PUPPETNX company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:38:35.775097",
+    "status": "results_found"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "Legal Entity Name",
+    "query": "PUPPETNX Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:38:48.408289",
+    "status": "results_found"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "PAN",
+    "query": "PUPPETNX PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:39:01.168272",
+    "status": "results_found"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "PAN",
+    "query": "PUPPETNX PAN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:39:22.432584",
+    "status": "results_found"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "GST",
+    "query": "PUPPETNX GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:39:27.353335",
+    "status": "results_found"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "GST",
+    "query": "PUPPETNX GSTIN",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:39:35.854929",
+    "status": "results_found"
+  },
+  {
+    "seller": "PUPPETNX",
+    "field": "Owner",
+    "query": "PUPPETNX director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://puppetnx.com/",
+      "https://puppetnx.com/collections/school-uniforms-1"
+    ],
+    "timestamp": "2026-08-15T12:39:54.430433",
+    "status": "results_found"
+  },
+  {
+    "business": "Dress Emporium Pvt Ltd",
+    "field": "Business Name",
+    "value": "Dress Emporium Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=APO7002LZHWXN&asin=B0GCZTCF1R&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T12:39:59.473434"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Website",
+    "query": "Dress Emporium Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.westside.com/collections/dresses-jumpsuits-for-women",
+      "https://www.zara.com/in/en/woman-dresses-l1066.html"
+    ],
+    "timestamp": "2026-08-15T12:40:00.898062",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "Dress Emporium Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.westside.com/collections/dresses-jumpsuits-for-women",
+      "https://www.zara.com/in/en/woman-dresses-l1066.html",
+      "https://www.nykaafashion.com/women/westernwear/dresses/c/5",
+      "https://www.missmosa.in/collections/dresses",
+      "https://littleboxindia.com/collections/dresses"
+    ],
+    "timestamp": "2026-08-15T12:40:31.942876",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "PAN",
+    "query": "Dress Emporium Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.westside.com/collections/dresses-jumpsuits-for-women",
+      "https://www.zara.com/in/en/woman-dresses-l1066.html",
+      "https://www.nykaafashion.com/women/westernwear/dresses/c/5",
+      "https://www.missmosa.in/collections/dresses",
+      "https://littleboxindia.com/collections/dresses"
+    ],
+    "timestamp": "2026-08-15T12:40:58.913456",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "GST",
+    "query": "Dress Emporium Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.westside.com/collections/dresses-jumpsuits-for-women",
+      "https://www.zara.com/in/en/woman-dresses-l1066.html",
+      "https://www.nykaafashion.com/women/westernwear/dresses/c/5",
+      "https://www.missmosa.in/collections/dresses",
+      "https://littleboxindia.com/collections/dresses"
+    ],
+    "timestamp": "2026-08-15T12:41:25.674815",
+    "status": "results_found"
+  },
+  {
+    "seller": "Dress Emporium Pvt Ltd",
+    "field": "Owner",
+    "query": "Dress Emporium Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.westside.com/collections/dresses-jumpsuits-for-women",
+      "https://www.zara.com/in/en/woman-dresses-l1066.html",
+      "https://www.nykaafashion.com/women/westernwear/dresses/c/5",
+      "https://www.missmosa.in/collections/dresses",
+      "https://littleboxindia.com/collections/dresses"
+    ],
+    "timestamp": "2026-08-15T12:41:51.647582",
+    "status": "results_found"
+  },
+  {
+    "business": "ASHA TRADING & UNIFORM",
+    "field": "Business Name",
+    "value": "ASHA TRADING & UNIFORM",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A28D5IGF2MBNQZ&asin=B0GCZQ8NGR&ref_=dp_merchant_link",
+    "timestamp": "2026-08-15T12:42:01.402385"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "Website",
+    "query": "ASHA TRADING & UNIFORM official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/"
+    ],
+    "timestamp": "2026-08-15T12:42:02.609086",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "Legal Entity Name",
+    "query": "ASHA TRADING & UNIFORM company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:42:14.074396",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "PAN",
+    "query": "ASHA TRADING & UNIFORM PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:42:46.266233",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "PAN",
+    "query": "ASHA TRADING & UNIFORM PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:43:03.277054",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "GST",
+    "query": "ASHA TRADING & UNIFORM GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:43:05.942034",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "GST",
+    "query": "ASHA TRADING & UNIFORM GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:43:13.958660",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "GST",
+    "query": "ASHA TRADING & UNIFORM GST number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:43:21.970423",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "Owner",
+    "query": "ASHA TRADING & UNIFORM director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:43:25.831133",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "Owner",
+    "query": "ASHA TRADING & UNIFORM managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.asha.org/",
+      "https://www.asha.org/certification/",
+      "https://asha.nios.ac.in/",
+      "https://ashasoft.rajasthan.gov.in/",
+      "https://www.ashasoft.kerala.gov.in/"
+    ],
+    "timestamp": "2026-08-15T12:43:31.749295",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "Owner",
+    "query": "ASHA TRADING & UNIFORM founder",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ashatradingfze.com/",
+      "https://ashatradingfze.com/company-overview/"
+    ],
+    "timestamp": "2026-08-15T12:43:39.636555",
+    "status": "results_found"
+  },
+  {
+    "seller": "ASHA TRADING & UNIFORM",
+    "field": "Address",
+    "query": "ASHA TRADING & UNIFORM registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/company/15505930",
+      "https://in.worldorgs.com/catalog/chennai/electric-utility-company/asha-trading-company",
+      "https://ashatradingfze.com/company-overview/",
+      "https://ashatradingfze.com/",
+      "https://www.thecompanycheck.com/org/asha-trading/a74578efaa"
+    ],
+    "timestamp": "2026-08-15T12:43:52.134596",
+    "status": "results_found"
+  },
+  {
+    "business": "ASHA TRADING & UNIFORM",
+    "field": "Billing Address",
+    "value": "96, ayyasamy st, tambaram west, tambaram, chennai, tamil nadu 600045",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/chennai/electric-utility-company/asha-trading-company",
+    "timestamp": "2026-08-15T12:44:01.617024"
+  },
+  {
+    "business": "ASHA TRADING & UNIFORM",
+    "field": "City",
+    "value": "chennai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/chennai/electric-utility-company/asha-trading-company",
+    "timestamp": "2026-08-15T12:44:01.617034"
+  },
+  {
+    "business": "ASHA TRADING & UNIFORM",
+    "field": "State",
+    "value": "Tamil Nadu",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/chennai/electric-utility-company/asha-trading-company",
+    "timestamp": "2026-08-15T12:44:01.617036"
+  },
+  {
+    "business": "ASHA TRADING & UNIFORM",
+    "field": "Pincode",
+    "value": "600045",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://in.worldorgs.com/catalog/chennai/electric-utility-company/asha-trading-company",
+    "timestamp": "2026-08-15T12:44:01.617038"
+  }
+]

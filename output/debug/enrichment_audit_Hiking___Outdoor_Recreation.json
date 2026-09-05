@@ -1,0 +1,165 @@
+[
+  {
+    "business": "VIKA TEXTILES",
+    "field": "Business Name",
+    "value": "VIKA TEXTILES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3TJZBFV1ABVTC&asin=B0FSDW1VZV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-04T13:10:33.863162"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "Website",
+    "query": "VIKA TEXTILES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.vikaboutique.com/en-us",
+      "https://www.vikaboutique.com/collections/new-arrivals"
+    ],
+    "timestamp": "2026-09-04T13:10:38.643365",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "Legal Entity Name",
+    "query": "VIKA TEXTILES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.legis.la.gov/legis/LawSearch.aspx?u=true",
+      "https://www.justice.gov/usao/us-attorneys-listing",
+      "https://law.justia.com/cases/louisiana/second-circuit-court-of-appeal/2026/",
+      "https://lasc.libguides.com/ColonialLawinNOLA"
+    ],
+    "timestamp": "2026-09-04T13:10:46.549703",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "PAN",
+    "query": "VIKA TEXTILES PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.vika_textiles.78c6f562e2c9e8ae354f550174cbc170.html"
+    ],
+    "timestamp": "2026-09-04T13:11:12.862054",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "PAN",
+    "query": "VIKA TEXTILES PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/vika-textiles-33BMGPM0081E1ZH/",
+      "https://www.dnb.com/business-directory/company-profiles.vika_textiles.78c6f562e2c9e8ae354f550174cbc170.html",
+      "https://www.mastersindia.co/gst-search/?name=k-mohan-kumar&gstin=33BMGPM0081E1ZH",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-09-04T13:11:18.239504",
+    "status": "results_found"
+  },
+  {
+    "business": "VIKA TEXTILES",
+    "field": "GST Number",
+    "value": "33BMGPM0081E1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/vika-textiles-33BMGPM0081E1ZH/",
+    "timestamp": "2026-09-04T13:11:19.329182"
+  },
+  {
+    "business": "VIKA TEXTILES",
+    "field": "PAN Number",
+    "value": "BMGPM0081E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/vika-textiles-33BMGPM0081E1ZH/",
+    "timestamp": "2026-09-04T13:11:19.329206"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "Owner",
+    "query": "VIKA TEXTILES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://pl.ccm.net/download/pobierz-785-facebook-messenger-android",
+      "https://pl.ccm.net/faq/7788-jak-zalogowac-sie-do-facebook-messenger-na-komputerze",
+      "https://pl.ccm.net/forum/affich-25305-messenger-bez-facebooka",
+      "https://pl.ccm.net/download/pobierz-1614-messenger-lite-polska"
+    ],
+    "timestamp": "2026-09-04T13:11:21.011265",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "Owner",
+    "query": "VIKA TEXTILES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/topic/Memorial-Day",
+      "https://www.history.com/articles/memorial-day-history",
+      "https://monthlycalendar.net/memorial-day-dates",
+      "https://www.familysearch.org/en/blog/what-is-memorial-day"
+    ],
+    "timestamp": "2026-09-04T13:11:32.424195",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "Address",
+    "query": "VIKA TEXTILES registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.vika_textiles.78c6f562e2c9e8ae354f550174cbc170.html",
+      "https://www.knowyourgst.com/gst-number-search/vika-textiles-33BMGPM0081E1ZH/",
+      "https://www.vikaboutique.com/pages/contact-us",
+      "https://www.falconebiz.com/LLP/VREEKAA-TEXTILES-INDUSTRIES-LLP-ADB-8900"
+    ],
+    "timestamp": "2026-09-04T13:11:40.331112",
+    "status": "results_found"
+  },
+  {
+    "business": "VIKA TEXTILES",
+    "field": "Email Address",
+    "value": "ka@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/LLP/VREEKAA-TEXTILES-INDUSTRIES-LLP-ADB-8900",
+    "timestamp": "2026-09-04T13:11:50.609999"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "Phone",
+    "query": "VIKA TEXTILES phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.vika_textiles.78c6f562e2c9e8ae354f550174cbc170.html",
+      "https://www.knowyourgst.com/gst-number-search/vika-textiles-33BMGPM0081E1ZH/"
+    ],
+    "timestamp": "2026-09-04T13:11:54.612998",
+    "status": "results_found"
+  },
+  {
+    "seller": "VIKA TEXTILES",
+    "field": "Phone",
+    "query": "VIKA TEXTILES contact phone",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://de.wikihow.com/Verbindungen-zu-Bluetooth-Audioger%C3%A4ten-und-drahtlosen-Displays-unter-Windows-10-reparieren",
+      "https://www.pchardwarepro.com/de/Reparieren-Sie-Bluetooth-unter-Windows-10-und-verbinden-Sie-Audioger%C3%A4te-mit-einem-drahtlosen-Display./",
+      "https://www.dell.com/support/contents/de-de/article/product-support/self-support-knowledgebase/networking-wifi-and-bluetooth/bluetooth?msockid=1574cb0aacd76e2339f2dcc0ade96f66"
+    ],
+    "timestamp": "2026-09-04T13:11:59.083006",
+    "status": "results_found"
+  }
+]

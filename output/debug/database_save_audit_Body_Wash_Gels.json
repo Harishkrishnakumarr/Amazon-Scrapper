@@ -1,0 +1,74 @@
+{
+  "category": "Body Wash Gels",
+  "records_before_save": 6,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 290,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "FoxTale Skin",
+      "database_id": 291,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917158672026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://foxtale.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Pep Technologies Pvt Ltd",
+      "database_id": 292,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917538412026",
+      "email": "customercare@peptechnology.in",
+      "gst": "33AAICP2804J1ZJ",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Overseas_shop",
+      "database_id": 293,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913674442026",
+      "email": "info@overseaslogistic.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://overseaslogistic.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AKANSHA HAIR & SKIN CARE HERBAL UNIT PVT. LTD.",
+      "database_id": 294,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "category": "Construction Tools And Equipments",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1246,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Tomahawk Tools",
+      "database_id": 1247,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "sales@toolguy.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.tomahawktools.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Trending Retail",
+      "database_id": 1248,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.ndtv.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Calibre Engineering",
+      "database_id": 1249,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://calibre-ebook.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "TECZON",
+      "database_id": 1250,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919990816667",
+      "email": "sales@teczonsolutions.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "WISHBOX RETAIL INC",
+      "database_id": 1251,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919663635025",
+      "email": "hello@pice.one",
+      "gst": "06CIGPK7849K2ZN",
+      "pan": "CIGPK7849K",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

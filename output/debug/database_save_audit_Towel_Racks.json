@@ -1,0 +1,74 @@
+{
+  "category": "Towel Racks",
+  "records_before_save": 5,
+  "records_saved": 5,
+  "records_verified_after_save": 5,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Plantex India",
+      "database_id": 1684,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918043890273",
+      "email": "cs@plantex.in",
+      "gst": "24AALCP2951M1Z1",
+      "pan": "AALCP2951M",
+      "website": "https://www.plantex.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Gloxy Store",
+      "database_id": 1685,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918047187451",
+      "email": "mindspark@ei.study",
+      "gst": "29AAYFG9972F1ZD",
+      "pan": "AAYFG9972F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1686,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Adarsh Ent",
+      "database_id": 1687,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916364921355",
+      "email": "sales@adarshdevelopers.com",
+      "gst": "09ATDPG6411H1ZW",
+      "pan": "ATDPG6411H",
+      "website": "https://www.adarshent.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Lukzer",
+      "database_id": 1688,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919987378140",
+      "email": "info@lukzer.com",
+      "gst": "07AACCL8467F1ZA",
+      "pan": "AACCL8467F",
+      "website": "https://www.lukzer.com/",
+      "status": "Verified"
+    }
+  ]
+}

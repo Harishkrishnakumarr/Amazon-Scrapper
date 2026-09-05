@@ -1,0 +1,600 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0GK6KB28V&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T13:23:37.116280"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/work-with-us/"
+    ],
+    "timestamp": "2026-09-02T13:23:41.445773",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T13:23:49.819683"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T13:23:52.447024"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-09-02T13:23:52.447493"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+      "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-36AAJCC8517E1ZM/",
+      "https://gstverify.co.in/gst/cocoblu-retail-limited-29aajcc8517e1zh/",
+      "https://gst.jamku.app/gstin/29AAJCC8517E1ZH"
+    ],
+    "timestamp": "2026-09-02T13:24:04.405531",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "GST Number",
+    "value": "19AAJCC8517E1ZI",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T13:24:07.246717"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "PAN Number",
+    "value": "AAJCC8517E",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/COCOBLU-RETAIL-LIMITED-19AAJCC8517E1ZI/",
+    "timestamp": "2026-09-02T13:24:07.246740"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.filesure.in/company/cocoblu-retail-limited/U52399DL2021PLC388574",
+      "https://www.masterdata.in/company/cocoblu_retail_limited/U52399DL2021PLC388574",
+      "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574"
+    ],
+    "timestamp": "2026-09-02T13:24:09.344060",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T13:24:10.554862"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T13:24:10.554879"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T13:24:10.554884"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+    "timestamp": "2026-09-02T13:24:10.554888"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/cocoblu-retail-limited-U52399DL2021PLC388574",
+    "timestamp": "2026-09-02T13:24:18.108255"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Cocoblu Retail founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/companies/cocoblu/__hK9Rz07BgcpWt8z7MJ1G8nrWIZuS5-qK4nQmmLFeXGM",
+      "https://www.cocoblu.in/about-us/",
+      "https://tracxn.com/d/legal-entities/india/cocoblu-retail-limited/__Fgu6lIoWmdNfTv3qlGmKl9x86XWrwMKWDTP6J1V2G3U",
+      "https://www.cocoblu.in/"
+    ],
+    "timestamp": "2026-09-02T13:24:20.925915",
+    "status": "results_found"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Business Name",
+    "value": "DEVCHARAN RETAIL CONCEPTS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SYB35BWN0U4J&asin=B08P55PJ8M&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T13:24:27.700075"
+  },
+  {
+    "seller": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Website",
+    "query": "DEVCHARAN RETAIL CONCEPTS official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/devcharan-retail-concepts-llp/AAT-4842",
+      "https://ryvan.in/"
+    ],
+    "timestamp": "2026-09-02T13:24:29.620368",
+    "status": "results_found"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Website URL",
+    "value": "https://www.thecompanycheck.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.thecompanycheck.com/company/devcharan-retail-concepts-llp/AAT-4842",
+    "timestamp": "2026-09-02T13:24:35.793276"
+  },
+  {
+    "seller": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Legal Entity Name",
+    "query": "DEVCHARAN RETAIL CONCEPTS company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.startupcaservices.com/llpfirm/maharashtra/d/devcharan-retail-concepts-llp-aat-4842#:~:text=Devcharan%20Retail%20Concepts%20Llp%20is%20a%20Limited%20Liability,It%20has%202%20partners%20and%202%20designated%20partners.",
+      "https://www.thecompanycheck.com/company/devcharan-retail-concepts-llp/AAT-4842",
+      "https://opencorporates.com/companies/in/AAT-4842",
+      "https://www.credhive.in/ind/corporate/AAT-4842/DEVCHARAN%2525252520RETAIL%2525252520CONCEPTS%2525252520LLP/overview"
+    ],
+    "timestamp": "2026-09-02T13:24:59.972714",
+    "status": "results_found"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Phone Number",
+    "value": "+919958793238",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.startupcaservices.com/llpfirm/maharashtra/d/devcharan-retail-concepts-llp-aat-4842#:~:text=Devcharan%20Retail%20Concepts%20Llp%20is%20a%20Limited%20Liability,It%20has%202%20partners%20and%202%20designated%20partners.",
+    "timestamp": "2026-09-02T13:25:05.822371"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Email Address",
+    "value": "info@startupcaservices.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.startupcaservices.com/llpfirm/maharashtra/d/devcharan-retail-concepts-llp-aat-4842#:~:text=Devcharan%20Retail%20Concepts%20Llp%20is%20a%20Limited%20Liability,It%20has%202%20partners%20and%202%20designated%20partners.",
+    "timestamp": "2026-09-02T13:25:05.823522"
+  },
+  {
+    "seller": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Legal Entity Name",
+    "query": "DEVCHARAN RETAIL CONCEPTS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/devcharan-retail-concepts-llp/AAT-4842",
+      "https://www.indiafilings.com/search/devcharan-retail-concepts-llp-AAT-4842",
+      "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ",
+      "https://www.credhive.in/ind/corporate/AAT-4842/DEVCHARAN%252520RETAIL%252520CONCEPTS%252520LLP/overview"
+    ],
+    "timestamp": "2026-09-02T13:25:14.276232",
+    "status": "results_found"
+  },
+  {
+    "seller": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "PAN",
+    "query": "DEVCHARAN RETAIL CONCEPTS PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/DEVCHARAN-RETAIL-CONCEPTS-LLP-27AARFD3737C1ZE/",
+      "https://gst.unifers.ai/gst/36AARFD3737C1ZF/devcharan-retail-concepts-llp",
+      "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ",
+      "https://www.dnb.com/business-directory/company-profiles.devcharan_retail_concepts_llp.e8aee087c39410f950ceb2a791af5255.html"
+    ],
+    "timestamp": "2026-09-02T13:25:15.841327",
+    "status": "results_found"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "GST Number",
+    "value": "27AARFD3737C1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/DEVCHARAN-RETAIL-CONCEPTS-LLP-27AARFD3737C1ZE/",
+    "timestamp": "2026-09-02T13:25:16.457538"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "PAN Number",
+    "value": "AARFD3737C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/DEVCHARAN-RETAIL-CONCEPTS-LLP-27AARFD3737C1ZE/",
+    "timestamp": "2026-09-02T13:25:16.457556"
+  },
+  {
+    "seller": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Owner",
+    "query": "DEVCHARAN RETAIL CONCEPTS director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/devcharan-retail-concepts-llp/AAT-4842",
+      "https://www.filesure.in/company/devcharan-retail-concepts-llp/AAT-4842",
+      "https://www.quickcompany.in/company/devcharan-retail-concepts-llp",
+      "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ"
+    ],
+    "timestamp": "2026-09-02T13:25:18.396082",
+    "status": "results_found"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ",
+    "timestamp": "2026-09-02T13:25:26.614677"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ",
+    "timestamp": "2026-09-02T13:25:26.614693"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ",
+    "timestamp": "2026-09-02T13:25:26.614698"
+  },
+  {
+    "business": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ",
+    "timestamp": "2026-09-02T13:25:26.614702"
+  },
+  {
+    "seller": "DEVCHARAN RETAIL CONCEPTS",
+    "field": "Owner",
+    "query": "DEVCHARAN RETAIL CONCEPTS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/devcharan-retail-concepts-llp/AAT-4842",
+      "https://tracxn.com/d/legal-entities/india/devcharan-retail-concepts-llp/__W9fiO6gy1JcPmRRQD6OsEgbWifWhftzjmfOzK6lWWhQ",
+      "https://www.dnb.com/business-directory/company-profiles.devcharan_retail_concepts_llp.e8aee087c39410f950ceb2a791af5255.html",
+      "https://www.quickcompany.in/company/devcharan-retail-concepts-llp"
+    ],
+    "timestamp": "2026-09-02T13:25:29.402775",
+    "status": "results_found"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "Business Name",
+    "value": "SoSh\u00ae Hub",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JBCAIPFLX9AQ&asin=B0F7M2Z76L&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-02T13:25:41.583179"
+  },
+  {
+    "seller": "SoSh\u00ae Hub",
+    "field": "Website",
+    "query": "SoSh\u00ae Hub official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://soshhub.com/about-us/",
+      "https://soshhub.com/TOP-COLLECTIONS/collection/sxlqwJ5U"
+    ],
+    "timestamp": "2026-09-02T13:25:54.358737",
+    "status": "results_found"
+  },
+  {
+    "seller": "SoSh\u00ae Hub",
+    "field": "Legal Entity Name",
+    "query": "SoSh\u00ae Hub company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/sosh-hub-24EUEPS8164M1ZW/",
+      "https://piceapp.com/gst-number-search/sosh-hub-08eueps8164m1zq/",
+      "https://www.knowyourgst.com/gst-number-search/sosh-hub-36EUEPS8164M1ZR/",
+      "https://soshhub.com/about-us/"
+    ],
+    "timestamp": "2026-09-02T13:26:38.861286",
+    "status": "results_found"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "GST Number",
+    "value": "24EUEPS8164M1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sosh-hub-24EUEPS8164M1ZW/",
+    "timestamp": "2026-09-02T13:26:42.013882"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "PAN Number",
+    "value": "EUEPS8164M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sosh-hub-24EUEPS8164M1ZW/",
+    "timestamp": "2026-09-02T13:26:42.013898"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "Phone Number",
+    "value": "+919460093299",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://soshhub.com/about-us/",
+    "timestamp": "2026-09-02T13:26:48.793907"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "Email Address",
+    "value": "soshhub@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://soshhub.com/about-us/",
+    "timestamp": "2026-09-02T13:26:48.793969"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "Billing Address",
+    "value": "shanti vihar, jodhpur, jodhpur city, rajasthan, jodhpur, 342001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://soshhub.com/about-us/",
+    "timestamp": "2026-09-02T13:26:48.795171"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "City",
+    "value": "jodhpur",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://soshhub.com/about-us/",
+    "timestamp": "2026-09-02T13:26:48.795182"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "State",
+    "value": "Rajasthan",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://soshhub.com/about-us/",
+    "timestamp": "2026-09-02T13:26:48.795186"
+  },
+  {
+    "business": "SoSh\u00ae Hub",
+    "field": "Pincode",
+    "value": "342001",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://soshhub.com/about-us/",
+    "timestamp": "2026-09-02T13:26:48.795190"
+  },
+  {
+    "seller": "SoSh\u00ae Hub",
+    "field": "Owner",
+    "query": "SoSh\u00ae Hub director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cbinsights.com/company/sosh/people",
+      "https://www.crunchbase.com/person/rishi-mandal",
+      "https://www.dnb.com/business-directory/company-profiles.sosh_hub.db9cd7ef7afbce0a45a820926f9edffa.html",
+      "https://piceapp.com/gst-number-search/sosh-hub-08eueps8164m1zq/"
+    ],
+    "timestamp": "2026-09-02T13:26:58.021079",
+    "status": "results_found"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "Business Name",
+    "value": "AARYAN FAB",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A203RNH4WCCHI8&asin=B0H3NPTSQ3&ref_=dp_merchant_link",
+    "timestamp": "2026-09-02T13:27:12.658026"
+  },
+  {
+    "seller": "AARYAN FAB",
+    "field": "Website",
+    "query": "AARYAN FAB official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://aranyafab.com/about-us/",
+      "https://aryanapparels.com/"
+    ],
+    "timestamp": "2026-09-02T13:27:17.394427",
+    "status": "results_found"
+  },
+  {
+    "seller": "AARYAN FAB",
+    "field": "Legal Entity Name",
+    "query": "AARYAN FAB company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/aaryan-fab-24bispc5205n1z3/#:~:text=Under%20the%20GST%20Act%202017%2C%20AARYAN%20FAB%20a,generated%20from%20publicly%20available%20data%20and%20automated%20systems.",
+      "https://piceapp.com/gst-number-search/aaryan-fab-24bispc5205n1z3/",
+      "https://gstserver.com/gst/24ANVPD6370Q1Z8/",
+      "https://piceapp.com/gst-number-search/aaryan-fab-24anvpd6370q1z8/"
+    ],
+    "timestamp": "2026-09-02T13:27:31.342692",
+    "status": "results_found"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "Email Address",
+    "value": "info@gstserver.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/24ANVPD6370Q1Z8/",
+    "timestamp": "2026-09-02T13:27:38.823385"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "GST Number",
+    "value": "24ANVPD6370Q1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/24ANVPD6370Q1Z8/",
+    "timestamp": "2026-09-02T13:27:38.823672"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "PAN Number",
+    "value": "ANVPD6370Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/24ANVPD6370Q1Z8/",
+    "timestamp": "2026-09-02T13:27:38.823680"
+  },
+  {
+    "seller": "AARYAN FAB",
+    "field": "Legal Entity Name",
+    "query": "AARYAN FAB Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://piceapp.com/gst-number-search/aaryan-fab-24bispc5205n1z3/",
+      "https://piceapp.com/gst-number-search/aaryan-fab-24anvpd6370q1z8/",
+      "https://www.indiafilings.com/search/aaryan-lamifab-private-limited-cin-U74140DL2011PTC224186"
+    ],
+    "timestamp": "2026-09-02T13:27:41.828009",
+    "status": "results_found"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-09-02T13:27:42.745268"
+  },
+  {
+    "seller": "AARYAN FAB",
+    "field": "Owner",
+    "query": "AARYAN FAB director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/aaryan-lamifab-private-limited/U74140DL2011PTC224186",
+      "https://tracxn.com/d/legal-entities/india/aaryan-lamifab-private-limited/__gV2QoH_gmvk7pJ-s_42QwS5glQyf1zOCkfn9D-VB8Jo",
+      "https://www.companydetails.in/company/aaryan-lamifab-private-limited",
+      "https://www.indiafilings.com/search/aaryan-lamifab-private-limited-cin-U74140DL2011PTC224186"
+    ],
+    "timestamp": "2026-09-02T13:27:45.883259",
+    "status": "results_found"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/aaryan-lamifab-private-limited/__gV2QoH_gmvk7pJ-s_42QwS5glQyf1zOCkfn9D-VB8Jo",
+    "timestamp": "2026-09-02T13:27:54.161407"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/aaryan-lamifab-private-limited/__gV2QoH_gmvk7pJ-s_42QwS5glQyf1zOCkfn9D-VB8Jo",
+    "timestamp": "2026-09-02T13:27:54.161424"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/aaryan-lamifab-private-limited/__gV2QoH_gmvk7pJ-s_42QwS5glQyf1zOCkfn9D-VB8Jo",
+    "timestamp": "2026-09-02T13:27:54.161430"
+  },
+  {
+    "business": "AARYAN FAB",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/aaryan-lamifab-private-limited/__gV2QoH_gmvk7pJ-s_42QwS5glQyf1zOCkfn9D-VB8Jo",
+    "timestamp": "2026-09-02T13:27:54.161434"
+  }
+]

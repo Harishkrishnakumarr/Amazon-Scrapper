@@ -1,0 +1,87 @@
+{
+  "category": "Women'S Casual Shoes",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Bata_India Ltd",
+      "database_id": 1355,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "dept@bata.com",
+      "gst": "22AABCB1043Q1ZW",
+      "pan": "AABCB1043Q",
+      "website": "https://www.bata.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AhanjalBrands",
+      "database_id": 1356,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "27AABCR1234F1ZV",
+      "pan": "AABCR1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Campusactivewear",
+      "database_id": 1357,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919667706012",
+      "email": "compliance@campusshoes.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.campusactivewear.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1355,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VK Traders Shoes",
+      "database_id": 1358,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@vktraders.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Puma Sports India",
+      "database_id": 1359,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "cslegal.india@puma.com",
+      "gst": "30AADCP7081J1ZF",
+      "pan": "AADCP7081J",
+      "website": "https://in.puma.com/",
+      "status": "Verified"
+    }
+  ]
+}

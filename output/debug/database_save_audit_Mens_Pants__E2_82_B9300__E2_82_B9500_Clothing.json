@@ -1,0 +1,22 @@
+{
+  "category": "Mens Pants %E2%82%B9300 %E2%82%B9500 Clothing",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 143,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918600162026",
+      "email": "Not Found",
+      "gst": "29AAJCC8517E1ZH",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

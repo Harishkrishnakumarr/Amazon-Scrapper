@@ -1,0 +1,479 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0B34TC2ZM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:07:14.674881"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=398569e6ac1269982d437e5aad236834",
+      "https://us.etrade.com/e/t/user/login?msockid=398569e6ac1269982d437e5aad236834"
+    ],
+    "timestamp": "2026-08-21T17:07:16.783014",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=398569e6ac1269982d437e5aad236834",
+    "timestamp": "2026-08-21T17:08:17.775678"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Phone Number",
+    "value": "+910151693015",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://us.etrade.com/",
+    "timestamp": "2026-08-21T17:08:18.912892"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=398569e6ac1269982d437e5aad236834",
+      "https://us.etrade.com/e/t/user/login?msockid=398569e6ac1269982d437e5aad236834",
+      "https://us.etrade.com/what-we-offer/our-accounts?msockid=398569e6ac1269982d437e5aad236834",
+      "https://us.etrade.com/what-we-offer/investment-choices?msockid=398569e6ac1269982d437e5aad236834",
+      "https://us.etrade.com/planning?msockid=398569e6ac1269982d437e5aad236834"
+    ],
+    "timestamp": "2026-08-21T17:08:26.810126",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zoom.us/ko/join",
+      "https://zoom.us/join",
+      "https://support.zoom.com/hc/ko/article?id=zm_kb&sysparm_article=KB0060736",
+      "https://zoom.us/ko/signin",
+      "https://app.zoom.us/wc"
+    ],
+    "timestamp": "2026-08-21T17:08:34.050342",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m.me/r.php?locale=en_US",
+      "https://www.afl.com.au/"
+    ],
+    "timestamp": "2026-08-21T17:08:51.272410",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://us.etrade.com/e/t/user/login",
+      "https://us.etrade.com/e/t/user/xfr?Target=/etx/hw/accountshome?cnt=header_logon_startin_accounts",
+      "https://us.etrade.com/e/t/user/loginhelp",
+      "https://us.etrade.com/e/t/etpro/ETProLaunchPage",
+      "https://us.etrade.com/etx/trd/tradingcenter"
+    ],
+    "timestamp": "2026-08-21T17:08:58.477693",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/62850940",
+      "https://zhidao.baidu.com/question/725567645356284605.html",
+      "https://www.dafont.com/billion-dreams.font",
+      "https://www.dafont.com/grobold.font",
+      "https://zhidao.baidu.com/question/249145059553573324.html"
+    ],
+    "timestamp": "2026-08-21T17:09:09.797732",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/SmuleSing/comments/jg7cu7/download_all_your_songs_with_sownloader/",
+      "https://github.com/MarvinKlein1508/Sownloader-Windows",
+      "https://sing.salon/smule-downloader/",
+      "https://sownloader.com/",
+      "https://apkpure.com/smule-karaoke-sing-record-app/com.smule.singandroid"
+    ],
+    "timestamp": "2026-08-21T17:09:11.089149",
+    "status": "results_found"
+  },
+  {
+    "business": "VETKART",
+    "field": "Business Name",
+    "value": "VETKART",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AYBRGVU96GX2P&asin=B073RVF88P&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T17:09:15.318988"
+  },
+  {
+    "seller": "VETKART",
+    "field": "Website",
+    "query": "VETKART official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://blombo.io/",
+      "https://blombo.com/"
+    ],
+    "timestamp": "2026-08-21T17:09:16.793335",
+    "status": "results_found"
+  },
+  {
+    "seller": "VETKART",
+    "field": "Legal Entity Name",
+    "query": "VETKART company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://udyamregistration.gov.in/Default.aspx",
+      "https://www.vet-kart.com/",
+      "https://www.registerkaro.in/",
+      "https://www.registerkaro.in/company-registration",
+      "https://ofinlegal.com/resources/documents-required-private-limited-company/"
+    ],
+    "timestamp": "2026-08-21T17:10:25.210360",
+    "status": "results_found"
+  },
+  {
+    "seller": "VETKART",
+    "field": "Legal Entity Name",
+    "query": "VETKART Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-30213681-probleme-recycle-bin",
+      "https://www.tenforums.com/tutorials/67471-empty-recycle-bin-windows-10-a.html",
+      "https://www.tenforums.com/tutorials/29497-pin-recycle-bin-taskbar-windows-10-a.html",
+      "https://forums.commentcamarche.net/forum/affich-10671128-supprimer-fichiers-dans-c-recycle-bin",
+      "https://www.tenforums.com/general-support/125956-how-delete-recreate-my-corrupt-recycle-bins.html"
+    ],
+    "timestamp": "2026-08-21T17:10:34.275652",
+    "status": "results_found"
+  },
+  {
+    "seller": "VETKART",
+    "field": "Legal Entity Name",
+    "query": "VETKART legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mysql.com/products/workbench/",
+      "https://dev.mysql.com/downloads/workbench/",
+      "https://docs.oracle.com/cd/E17952_01/workbench-en/index.html",
+      "https://dev.mysql.com/doc/workbench/en/",
+      "https://www.mysql.com/products/workbench/admin/"
+    ],
+    "timestamp": "2026-08-21T17:10:41.243363",
+    "status": "results_found"
+  },
+  {
+    "seller": "VETKART",
+    "field": "PAN",
+    "query": "VETKART PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://bingquiz.com/bing-homepage-quiz/",
+      "https://bing.weeklyquiz.net/bing-homepage-quiz/",
+      "https://bingquizzes.com/bing-homepage-quiz-today/",
+      "https://mail.bingquiz.org/bing-homepage-quiz/",
+      "https://weeklyquiz.net/bing-homepage-quiz/"
+    ],
+    "timestamp": "2026-08-21T17:10:44.990439",
+    "status": "results_found"
+  },
+  {
+    "seller": "VETKART",
+    "field": "PAN",
+    "query": "VETKART PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://hk.trip.com/flights/?msockid=398569e6ac1269982d437e5aad236834",
+      "https://hk.trip.com/hotels/?msockid=398569e6ac1269982d437e5aad236834",
+      "https://hk.trip.com/?locale=en-HK&msockid=398569e6ac1269982d437e5aad236834",
+      "https://hk.trip.com/ask/questions/Trip.com%E6%A9%9F%E5%A0%B4%E8%B2%B4%E8%B3%93%E5%AE%A4.html?msockid=398569e6ac1269982d437e5aad236834",
+      "https://hk.trip.com/hotels/hong-kong-hotels-list-58/?msockid=398569e6ac1269982d437e5aad236834"
+    ],
+    "timestamp": "2026-08-21T17:11:00.929907",
+    "status": "results_found"
+  },
+  {
+    "seller": "VETKART",
+    "field": "GST",
+    "query": "VETKART GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://github.com/0xk1h0/ChatGPT_DAN",
+      "https://desktop.github.com/download/",
+      "https://github.com/basketikun/chatgpt2api",
+      "https://www.zhihu.com/question/2054005413406946147",
+      "https://www.reddit.com/r/writing/"
+    ],
+    "timestamp": "2026-08-21T17:11:05.549128",
+    "status": "results_found"
+  },
+  {
+    "seller": "VETKART",
+    "field": "GST",
+    "query": "VETKART GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.the-qrcode-generator.com/",
+      "https://www.the-qrcode-generator.com/text-to-qr-code",
+      "https://docs.the-qrcode-generator.com/en/articles/13009385-what-happens-to-my-qr-codes-when-my-account-or-trial-ends",
+      "https://docs.the-qrcode-generator.com/en/articles/8885719-create-your-first-qr-code-in-the-qr-code-generator",
+      "https://community.the-qrcode-generator.com/t/possible-to-create-a-qr-code-for-a-website-which-is-not-live-yet/243"
+    ],
+    "timestamp": "2026-08-21T17:11:14.155645",
+    "status": "results_found"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "Business Name",
+    "value": "Ram-Nath",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39G36GXO7W02J&asin=B07DKZP5K7&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:11:15.783908"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "Website",
+    "query": "Ram-Nath official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://modxcomputers.com/product-category/pc-components/ram/",
+      "https://elitehubs.com/collections/ram"
+    ],
+    "timestamp": "2026-08-21T17:11:17.464072",
+    "status": "results_found"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "Website URL",
+    "value": "https://elitehubs.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://elitehubs.com/collections/ram",
+    "timestamp": "2026-08-21T17:11:26.949585"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "Phone Number",
+    "value": "+913234394000",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://elitehubs.com/",
+    "timestamp": "2026-08-21T17:11:28.106691"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "Email Address",
+    "value": "contact@elitehubs.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://elitehubs.com/",
+    "timestamp": "2026-08-21T17:11:28.107539"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "Legal Entity Name",
+    "query": "Ram-Nath company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.swyftfilings.com?msclkid=6308febf0e5d1318c03f943737210c46&utm_source=bing&utm_medium=cpc&utm_campaign=SWF%20%7C%20US%20%7C%20Bing%20%7C%20Search%20%7C%20NB%20%7C%20National%20%7C%20Competitors&utm_term=biz%20filings&utm_content=BizFilings",
+      "https://www.companydetails.in/company/ram-nathcompany-private-limited",
+      "https://tracxn.com/d/legal-entities/india/ram-nath-company-private-limited/__HK3wc1L58qwBGxpru9WEA3Ly_DvajinvLfnE7FxybwM",
+      "https://www.instafinancials.com/company/ram-nath-company-private-limited-U24131TN1998PTC040557",
+      "https://leiworldwide.com/lei_record/335800ZA6VGEZIOKH948"
+    ],
+    "timestamp": "2026-08-21T17:11:38.298620",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "PAN",
+    "query": "Ram-Nath PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstserver.com/gst/33AABCR2080F1ZT/",
+      "https://cleartax.in/s/how-to-know-pan-card-number",
+      "https://www.bankbazaar.com/pan-card/pan-card-details.html",
+      "https://incometaxindia.gov.in/pan",
+      "https://incometaxindia.gov.in/pan-verification"
+    ],
+    "timestamp": "2026-08-21T17:12:01.651174",
+    "status": "results_found"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "PAN Number",
+    "value": "AABCR2080F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/33AABCR2080F1ZT/",
+    "timestamp": "2026-08-21T17:12:02.790305"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "GST",
+    "query": "Ram-Nath GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/ram-nath-copvtltd-33AABCR2080F2ZS/",
+      "https://gst.unifers.ai/gst/36AABCR2080F1ZN/ram-nath-and-company-private-limited",
+      "https://gst.jamku.app/gstin/33AABCR2080F1ZT",
+      "https://fnshiftsolutions.com/gstin-search/ram-nath-and-company-private-limited-33AABCR2080F2ZS",
+      "https://fnshiftsolutions.com/gstin-search/ram-nath-and-company-private-limited-24AABCR2080F1ZS"
+    ],
+    "timestamp": "2026-08-21T17:12:06.546391",
+    "status": "results_found"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "GST Number",
+    "value": "33AABCR2080F2ZS",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/ram-nath-copvtltd-33AABCR2080F2ZS/",
+    "timestamp": "2026-08-21T17:12:06.963277"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "Owner",
+    "query": "Ram-Nath director owner founder",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.ram-nath.com/about-us/",
+      "https://www.ram-nath.com/contact-us/",
+      "https://www.ram-nath.com/products/",
+      "https://www.ram-nath.com/our-history/",
+      "https://www.ram-nath.com/blog/"
+    ],
+    "timestamp": "2026-08-21T17:12:10.437634",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "Owner",
+    "query": "Ram-Nath managing director",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://modxcomputers.com/product-category/pc-components/ram/",
+      "https://elitehubs.com/collections/ram"
+    ],
+    "timestamp": "2026-08-21T17:12:19.683618",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "Owner",
+    "query": "Ram-Nath founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://modxcomputers.com/product-category/pc-components/ram/",
+      "https://elitehubs.com/collections/ram",
+      "https://www.geeksforgeeks.org/computer-science-fundamentals/random-access-memory-ram/",
+      "https://www.ramfincorp.com/"
+    ],
+    "timestamp": "2026-08-21T17:12:26.174424",
+    "status": "results_found"
+  },
+  {
+    "seller": "Ram-Nath",
+    "field": "Address",
+    "query": "Ram-Nath registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://modxcomputers.com/product-category/pc-components/ram/",
+      "https://elitehubs.com/collections/ram",
+      "https://www.geeksforgeeks.org/computer-science-fundamentals/random-access-memory-ram/",
+      "https://www.ramfincorp.com/"
+    ],
+    "timestamp": "2026-08-21T17:12:28.665803",
+    "status": "results_found"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "Billing Address",
+    "value": "305, 3rd floor, gedore house 51-52, nehru place, new delhi 110019",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://modxcomputers.com/product-category/pc-components/ram/",
+    "timestamp": "2026-08-21T17:12:29.377814"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "City",
+    "value": "new delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://modxcomputers.com/product-category/pc-components/ram/",
+    "timestamp": "2026-08-21T17:12:29.377833"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "State",
+    "value": "Delhi",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://modxcomputers.com/product-category/pc-components/ram/",
+    "timestamp": "2026-08-21T17:12:29.377838"
+  },
+  {
+    "business": "Ram-Nath",
+    "field": "Pincode",
+    "value": "110019",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://modxcomputers.com/product-category/pc-components/ram/",
+    "timestamp": "2026-08-21T17:12:29.377843"
+  }
+]

@@ -1,0 +1,946 @@
+[
+  {
+    "business": "NEW J.D. CAR ACCESSORIES",
+    "field": "Business Name",
+    "value": "NEW J.D. CAR ACCESSORIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A24THL7M6R71VZ&asin=B0CY5H6RT8&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:13:01.347031"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Website",
+    "query": "NEW J.D. CAR ACCESSORIES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/"
+    ],
+    "timestamp": "2026-08-27T06:13:03.749413",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Legal Entity Name",
+    "query": "NEW J.D. CAR ACCESSORIES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:13:08.736973",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Legal Entity Name",
+    "query": "NEW J.D. CAR ACCESSORIES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:13:21.169195",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "PAN",
+    "query": "NEW J.D. CAR ACCESSORIES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:13:22.839770",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "PAN",
+    "query": "NEW J.D. CAR ACCESSORIES PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:13:30.019368",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "GST",
+    "query": "NEW J.D. CAR ACCESSORIES GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/new-jd-car-accessories-07BRZPP9086N1ZA/",
+      "https://gstverify.co.in/search/",
+      "https://tallysolutions.com/business-tools-templates/company-name-to-gstin/"
+    ],
+    "timestamp": "2026-08-27T06:13:40.753770",
+    "status": "results_found"
+  },
+  {
+    "business": "NEW J.D. CAR ACCESSORIES",
+    "field": "GST Number",
+    "value": "07BRZPP9086N1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/new-jd-car-accessories-07BRZPP9086N1ZA/",
+    "timestamp": "2026-08-27T06:13:42.007426"
+  },
+  {
+    "business": "NEW J.D. CAR ACCESSORIES",
+    "field": "PAN Number",
+    "value": "BRZPP9086N",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/new-jd-car-accessories-07BRZPP9086N1ZA/",
+    "timestamp": "2026-08-27T06:13:42.007446"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Owner",
+    "query": "NEW J.D. CAR ACCESSORIES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:13:44.369762",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Owner",
+    "query": "NEW J.D. CAR ACCESSORIES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:13:52.582296",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Address",
+    "query": "NEW J.D. CAR ACCESSORIES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:13:58.616039",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Address",
+    "query": "NEW J.D. CAR ACCESSORIES registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:14:05.502682",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Phone",
+    "query": "NEW J.D. CAR ACCESSORIES phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:14:23.468490",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Phone",
+    "query": "NEW J.D. CAR ACCESSORIES contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:14:30.197760",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Email",
+    "query": "NEW J.D. CAR ACCESSORIES email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.hindustantimes.com/",
+      "https://www.newindianexpress.com/",
+      "https://m.timesofindia.com/news",
+      "https://www.ndtv.com/india"
+    ],
+    "timestamp": "2026-08-27T06:14:33.872875",
+    "status": "results_found"
+  },
+  {
+    "seller": "NEW J.D. CAR ACCESSORIES",
+    "field": "Email",
+    "query": "NEW J.D. CAR ACCESSORIES contact email",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/new-jd-car-accessories-07BRZPP9086N1ZA/",
+      "https://ndinesh93dd.wixsite.com/jdcaraccessories",
+      "https://www.jdna.com/contact/",
+      "https://www.justdial.com/Delhi/Jd-Car-Accessories-Near-Dichaon-Calan-Depot-Opposite-Indian-Oil-Petrol-Pump-Najafgarh/011PXX11-XX11-170413132720-K1F3_BZDET"
+    ],
+    "timestamp": "2026-08-27T06:14:40.149841",
+    "status": "results_found"
+  },
+  {
+    "business": "NEW J.D. CAR ACCESSORIES",
+    "field": "Phone Number",
+    "value": "+919561806101",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ndinesh93dd.wixsite.com/jdcaraccessories",
+    "timestamp": "2026-08-27T06:14:42.672256"
+  },
+  {
+    "business": "NEW J.D. CAR ACCESSORIES",
+    "field": "Email Address",
+    "value": "ndinesh93.dd@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ndinesh93dd.wixsite.com/jdcaraccessories",
+    "timestamp": "2026-08-27T06:14:42.672296"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "Business Name",
+    "value": "VASANLADII",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2XTSW5KXKZAK5&asin=B0H6JQPH55&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:14:43.302526"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Website",
+    "query": "VASANLADII official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tirumala.org/Advancebooking.aspx",
+      "https://www.tirumala.org/Sarvadarshanam.aspx"
+    ],
+    "timestamp": "2026-08-27T06:14:46.337750",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Legal Entity Name",
+    "query": "VASANLADII company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.qgis.org/en/site/forusers/alldownloads.html",
+      "https://www.moddb.com/games/counter-strike-source/downloads",
+      "https://github.com/ON4QZ/QSSTV",
+      "https://steamcommunity.com/app/240/"
+    ],
+    "timestamp": "2026-08-27T06:14:49.984222",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Legal Entity Name",
+    "query": "VASANLADII Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1340305886431193&utm_term=register%20pvt%20ltd%20company&device=c&Adposition=&physical=262576&match_type=p&gclid=&network=register%20pvt%20ltd%20company&target_name=kwd-83769913535123:loc-90&placement=&keyword_id=register%20pvt%20ltd%20company&msclkid=790f92e77c9e1a96eeeaf868f40c0ef8",
+      "https://www.inspex.in/",
+      "https://registry-lookup.com/",
+      "https://golegally.com/mca-company-llp-search"
+    ],
+    "timestamp": "2026-08-27T06:15:05.580334",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "PAN",
+    "query": "VASANLADII PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.chegg.com/writing/features/plagiarism-checker?msockid=3b91885bda1e6266297b9f99dbdd636f",
+      "https://www.chegg.com/books?msockid=3b91885bda1e6266297b9f99dbdd636f",
+      "https://www.chegg.com/textbooks?msockid=3b91885bda1e6266297b9f99dbdd636f",
+      "https://www.chegg.com/?str=login&page=login&msockid=3b91885bda1e6266297b9f99dbdd636f"
+    ],
+    "timestamp": "2026-08-27T06:15:07.004311",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "PAN",
+    "query": "VASANLADII PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum-auto.caradisiac.com/topic/207489-mercedes-207d-et-508d/",
+      "https://forum-auto.caradisiac.com/topic/81414-topic-changer-son-barillet-sur-une-w124/",
+      "https://www.mercedesforum.nl/forum/viewtopic.php?t=11809",
+      "https://www.mercedesforum.nl/forum/viewtopic.php?t=16635"
+    ],
+    "timestamp": "2026-08-27T06:15:16.853661",
+    "status": "results_found"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "Email Address",
+    "value": "fabrice.sciangula@wanadoo.fr",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forum-auto.caradisiac.com/topic/207489-mercedes-207d-et-508d/",
+    "timestamp": "2026-08-27T06:15:19.277864"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "GST",
+    "query": "VASANLADII GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-27T06:15:28.933653",
+    "status": "no_results"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "GST",
+    "query": "VASANLADII GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.expressgst.com/gst-number-search/",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-08-27T06:15:32.019544",
+    "status": "results_found"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T06:15:32.746092"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-27T06:15:32.746107"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Owner",
+    "query": "VASANLADII director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://paint.js.org/",
+      "https://www.canva.com/ko_kr/draw/?msockid=3b91885bda1e6266297b9f99dbdd636f",
+      "https://toolhan.com/image/paint/"
+    ],
+    "timestamp": "2026-08-27T06:15:34.248529",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Owner",
+    "query": "VASANLADII founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.lyricsbogie.com/vasaladi/",
+      "https://www.hinditracks.in/vasaladi-lyrics",
+      "https://lyricsupgrade.com/vasaladi-lyrics-falguni-pathak/",
+      "https://hindilyricsonline.com/vasaladi-lyrics-in-hindi"
+    ],
+    "timestamp": "2026-08-27T06:15:47.923475",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Address",
+    "query": "VASANLADII registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://jp.noxinfluencer.com/youtube-video-rank/top-jp-all-video-day"
+    ],
+    "timestamp": "2026-08-27T06:15:50.772139",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Address",
+    "query": "VASANLADII registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://officehikari119.com/",
+      "https://officehikari119.com/service/",
+      "https://office119.biz/lp/hikari/",
+      "https://note.com/toumei_group/n/nc3714d5f13ca"
+    ],
+    "timestamp": "2026-08-27T06:15:56.165352",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Phone",
+    "query": "VASANLADII phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.answers.com/travel-information/What_does_the_colors_mean_on_mapquest"
+    ],
+    "timestamp": "2026-08-27T06:16:08.037683",
+    "status": "results_found"
+  },
+  {
+    "seller": "VASANLADII",
+    "field": "Phone",
+    "query": "VASANLADII contact phone",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.vaseline.com/us/en/contact-us.html",
+      "https://truecallers.in/",
+      "https://numtrace.com/",
+      "https://krispcall.com/tools/free-phone-number-checker/"
+    ],
+    "timestamp": "2026-08-27T06:16:15.035214",
+    "status": "results_found"
+  },
+  {
+    "business": "VASANLADII",
+    "field": "Phone Number",
+    "value": "+919876543210",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://truecallers.in/",
+    "timestamp": "2026-08-27T06:16:19.018602"
+  },
+  {
+    "business": "MD FASHION store",
+    "field": "Business Name",
+    "value": "MD FASHION store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARXQN451QOJK2&asin=B0HBMK1DK6&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:16:19.952550"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Website",
+    "query": "MD FASHION store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/"
+    ],
+    "timestamp": "2026-08-27T06:16:21.521808",
+    "status": "results_found"
+  },
+  {
+    "business": "MD FASHION store",
+    "field": "Website URL",
+    "value": "https://mdcomputers.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://mdcomputers.in/",
+    "timestamp": "2026-08-27T06:16:27.268481"
+  },
+  {
+    "business": "MD FASHION store",
+    "field": "Email Address",
+    "value": "info@mdcomputers.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://mdcomputers.in/",
+    "timestamp": "2026-08-27T06:16:27.990271"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Legal Entity Name",
+    "query": "MD FASHION store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:16:36.521295",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "PAN",
+    "query": "MD FASHION store PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:16:51.831842",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "PAN",
+    "query": "MD FASHION store PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:04.600828",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "GST",
+    "query": "MD FASHION store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:07.803113",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "GST",
+    "query": "MD FASHION store GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:17.565810",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Owner",
+    "query": "MD FASHION store director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:22.912916",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Owner",
+    "query": "MD FASHION store founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:30.003617",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Address",
+    "query": "MD FASHION store registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:42.209396",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Address",
+    "query": "MD FASHION store registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:54.080602",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Phone",
+    "query": "MD FASHION store phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:17:55.731055",
+    "status": "results_found"
+  },
+  {
+    "seller": "MD FASHION store",
+    "field": "Phone",
+    "query": "MD FASHION store contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mdclasses.classx.co.in/",
+      "https://mdcomputers.in/",
+      "https://markdownviewer.org/",
+      "https://collegedunia.com/courses/doctor-of-medicine-md"
+    ],
+    "timestamp": "2026-08-27T06:18:11.056123",
+    "status": "results_found"
+  },
+  {
+    "business": "Xariya enterprise",
+    "field": "Business Name",
+    "value": "Xariya enterprise",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AZMHU0W5LKL98&asin=B0FHDXM622&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T06:18:12.449846"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "Website",
+    "query": "Xariya enterprise official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-27T06:18:15.248248",
+    "status": "results_found"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "Legal Entity Name",
+    "query": "Xariya enterprise company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.walmart.com/store-finder?location=page",
+      "https://www.walmart.com/",
+      "https://map.longdo.com/",
+      "https://isitnearme.com/walmart-near-me/"
+    ],
+    "timestamp": "2026-08-27T06:18:26.479172",
+    "status": "results_found"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "PAN",
+    "query": "Xariya enterprise PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.weeronline.nl/",
+      "https://www.knmi.nl/nederland-nu/weer/verwachtingen",
+      "https://www.buienradar.nl/",
+      "https://www.weer.nl/"
+    ],
+    "timestamp": "2026-08-27T06:18:44.529888",
+    "status": "results_found"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "GST",
+    "query": "Xariya enterprise GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20services&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=business%20registration%20services&target_name=kwd-84045335771844:loc-90&placement=&keyword_id=business%20registration%20services&msclkid=c0f4576364301b3b54fd3decedb5fae6",
+      "https://www.knowyourgst.com/gst-number-search/xariya-enterprise-24FZPPS1914C1ZB/",
+      "https://gstverify.co.in/search/",
+      "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20services&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=business%20registration%20services&target_name=kwd-84045335771844:loc-90&placement=&keyword_id=business%20registration%20services&msclkid=a454e111f626177d0a888b9e7fa3b2ad"
+    ],
+    "timestamp": "2026-08-27T06:19:09.078836",
+    "status": "results_found"
+  },
+  {
+    "business": "Xariya enterprise",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20services&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=business%20registration%20services&target_name=kwd-84045335771844:loc-90&placement=&keyword_id=business%20registration%20services&msclkid=c0f4576364301b3b54fd3decedb5fae6",
+    "timestamp": "2026-08-27T06:19:13.132143"
+  },
+  {
+    "business": "Xariya enterprise",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/company-registration/private-company-registration/?utm_source=bing&utm_campaign=CompanyReg&Campaignid=422312961&Adgroupid=1344703933789901&utm_term=business%20registration%20services&device=c&Adposition=&physical=149940&match_type=p&gclid=&network=business%20registration%20services&target_name=kwd-84045335771844:loc-90&placement=&keyword_id=business%20registration%20services&msclkid=c0f4576364301b3b54fd3decedb5fae6",
+    "timestamp": "2026-08-27T06:19:13.132925"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "Owner",
+    "query": "Xariya enterprise director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://zariyaenterprises.com/about-us/",
+      "https://zariyaenterprises.com/",
+      "https://www.dnb.com/business-directory/company-profiles.xaria_technologies_private_limited.99fa21fc701815f3841ed344729243be.html"
+    ],
+    "timestamp": "2026-08-27T06:19:18.599929",
+    "status": "results_found"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "Owner",
+    "query": "Xariya enterprise founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://jp.misumi-ec.com/?msockid=3b91885bda1e6266297b9f99dbdd636f",
+      "https://jp.misumi-ec.com/vona2/mech_material/?msockid=3b91885bda1e6266297b9f99dbdd636f",
+      "https://jp.misumi-ec.com/vona2/login/?msockid=3b91885bda1e6266297b9f99dbdd636f",
+      "https://jp.misumi-ec.com/vona2/maker/misumi/?msockid=3b91885bda1e6266297b9f99dbdd636f"
+    ],
+    "timestamp": "2026-08-27T06:19:29.903819",
+    "status": "results_found"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "Address",
+    "query": "Xariya enterprise registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/xariya-enterprise-24FZPPS1914C1ZB/",
+      "https://zariyaenterprises.com/products/",
+      "http://xariya.com/",
+      "https://zariyaenterprises.com/"
+    ],
+    "timestamp": "2026-08-27T06:19:34.335336",
+    "status": "results_found"
+  },
+  {
+    "business": "Xariya enterprise",
+    "field": "GST Number",
+    "value": "24FZPPS1914C1ZB",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/xariya-enterprise-24FZPPS1914C1ZB/",
+    "timestamp": "2026-08-27T06:19:36.282990"
+  },
+  {
+    "business": "Xariya enterprise",
+    "field": "PAN Number",
+    "value": "FZPPS1914C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/xariya-enterprise-24FZPPS1914C1ZB/",
+    "timestamp": "2026-08-27T06:19:36.283008"
+  },
+  {
+    "seller": "Xariya enterprise",
+    "field": "Address",
+    "query": "Xariya enterprise registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/xariya-enterprise-24FZPPS1914C1ZB/",
+      "https://zariyaenterprises.com/about-us/",
+      "https://lextechsuite.com/TM--XARIYA--class-28--5302655",
+      "https://zariyaenterprises.com/products/"
+    ],
+    "timestamp": "2026-08-27T06:19:45.987303",
+    "status": "results_found"
+  },
+  {
+    "business": "Cloud Premium",
+    "field": "Business Name",
+    "value": "Cloud Premium",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3B9KC7XM6QFF2&asin=B0DNZJM4T6&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T06:19:47.443727"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "Website",
+    "query": "Cloud Premium official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/"
+    ],
+    "timestamp": "2026-08-27T06:19:49.703374",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "Legal Entity Name",
+    "query": "Cloud Premium company registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://cloud.ibm.com/registration/premium2"
+    ],
+    "timestamp": "2026-08-27T06:21:02.428110",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "Legal Entity Name",
+    "query": "Cloud Premium Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=d5f9dfc044dc158f4e0fb54fceddda9a&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://www.cloudinc.co/"
+    ],
+    "timestamp": "2026-08-27T06:21:11.910340",
+    "status": "results_found"
+  },
+  {
+    "business": "Cloud Premium",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=d5f9dfc044dc158f4e0fb54fceddda9a&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-27T06:21:12.648392"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "PAN",
+    "query": "Cloud Premium PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/",
+      "https://www.icloud.com/iclouddrive"
+    ],
+    "timestamp": "2026-08-27T06:21:19.471174",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "PAN",
+    "query": "Cloud Premium PAN number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/",
+      "https://www.icloud.com/iclouddrive"
+    ],
+    "timestamp": "2026-08-27T06:21:25.240088",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cloud Premium",
+    "field": "GST",
+    "query": "Cloud Premium GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.icloud.com/",
+      "https://www.cloudflare.com/learning/cloud/what-is-the-cloud/",
+      "https://www.icloud.com/iclouddrive"
+    ],
+    "timestamp": "2026-08-27T06:21:40.231900",
+    "status": "results_found"
+  }
+]

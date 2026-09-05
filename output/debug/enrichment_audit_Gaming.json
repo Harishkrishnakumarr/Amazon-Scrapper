@@ -1,0 +1,453 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0G2YLY9GX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:46:39.913040"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-26T16:46:42.920610",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T16:46:46.799353"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T16:46:48.124167"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:46:55.663189",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/clicktech-retail-private-limited/__Qw_yJt6e7M_R5897b0n-PfHOQC-6MHzbyHlOM39pSzE",
+      "https://gst.unifers.ai/gst/27AAJCC9783E1Z7/clicktech-retail-private-limited",
+      "https://gst.unifers.ai/gst/29AAJCC9783E1Z3/clicktech-retail-private-limited",
+      "https://gstverify.co.in/gst/clicktech-retail-private-limited-27aajcc9783e1z7/"
+    ],
+    "timestamp": "2026-08-26T16:47:47.551860",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:47:50.035117",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T16:48:40.071195",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Business Name",
+    "value": "Kay Kay Overseas Corporation Store",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTG1HPYW8M2P&asin=B0GKFM3848&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T16:48:41.814035"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Website",
+    "query": "Kay Kay Overseas Corporation Store official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.kay.com/?msockid=21367cee74d56ba329fa6b2f75086a00",
+      "https://kaystore.in/"
+    ],
+    "timestamp": "2026-08-26T16:48:44.575888",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Legal Entity Name",
+    "query": "Kay Kay Overseas Corporation Store company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=21367cee74d56ba329fa6b2f75086a00",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-26T16:48:56.847282",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Phone Number",
+    "value": "+919840477576",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kaystore.in/",
+    "timestamp": "2026-08-26T16:49:04.256436"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Email Address",
+    "value": "orders@kaystore.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://kaystore.in/",
+    "timestamp": "2026-08-26T16:49:04.256579"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "PAN",
+    "query": "Kay Kay Overseas Corporation Store PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T16:49:26.473556",
+    "status": "no_results"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "GST",
+    "query": "Kay Kay Overseas Corporation Store GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.kay.com/?msockid=21367cee74d56ba329fa6b2f75086a00",
+      "https://kaystore.in/",
+      "https://www.nykaa.com/brands/kay-beauty/c/11433",
+      "https://www.kaybeauty.com/en-gb/"
+    ],
+    "timestamp": "2026-08-26T16:49:34.545507",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kay Kay Overseas Corporation Store",
+    "field": "Owner",
+    "query": "Kay Kay Overseas Corporation Store director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/sharad-khandelwal-78f2",
+      "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+      "https://www.marketscreener.com/insider/SHARAD-KHANDELWAL-A2NCRX/",
+      "https://www.datanyze.com/companies/kay-kay-overseas/447782697"
+    ],
+    "timestamp": "2026-08-26T16:49:57.948132",
+    "status": "results_found"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-08-26T16:50:02.512495"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-08-26T16:50:02.512531"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-08-26T16:50:02.512538"
+  },
+  {
+    "business": "Kay Kay Overseas Corporation Store",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/kay-kay-overseas-corporation/__cfSUiwdeqnFP4p7Xz3fhqUCCRkn3_CiCO2FjaDaP8LI",
+    "timestamp": "2026-08-26T16:50:02.512548"
+  },
+  {
+    "business": "Reva Selects",
+    "field": "Business Name",
+    "value": "Reva Selects",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2JKI5R3ALIFGB&asin=B0H6HVYVCP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T16:50:04.744021"
+  },
+  {
+    "seller": "Reva Selects",
+    "field": "Website",
+    "query": "Reva Selects official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://app.revarewards.com/welcome",
+      "https://booking-reva.com/admin"
+    ],
+    "timestamp": "2026-08-26T16:50:18.576444",
+    "status": "results_found"
+  },
+  {
+    "business": "Reva Selects",
+    "field": "Website URL",
+    "value": "https://app.revarewards.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://app.revarewards.com/welcome",
+    "timestamp": "2026-08-26T16:50:22.543220"
+  },
+  {
+    "seller": "Reva Selects",
+    "field": "Legal Entity Name",
+    "query": "Reva Selects company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bizapedia.com/va/reva-select-enterprises-llc.html",
+      "https://revacompanies.com/",
+      "https://www.falconebiz.com/company/REVA-BUSINESS-SOLUTIONS-SERVICES-INDIA-PRIVATE-LIMITED-U72501RJ2022PTC081098",
+      "https://secretaryofstate.com/"
+    ],
+    "timestamp": "2026-08-26T16:50:42.650893",
+    "status": "results_found"
+  },
+  {
+    "seller": "Reva Selects",
+    "field": "PAN",
+    "query": "Reva Selects PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T16:50:56.403912",
+    "status": "no_results"
+  },
+  {
+    "seller": "Reva Selects",
+    "field": "PAN",
+    "query": "Reva Selects PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.starsamstickers.com/en/43-trek-stickers",
+      "https://decalzone.co.uk/product/trek-factory-racing/",
+      "https://www.ebay.com/itm/315386960073?msockid=21367cee74d56ba329fa6b2f75086a00",
+      "https://www.starsamstickers.com/en/bike-stickers/1162-trek-factory-racing-degraded-frame-Sticker-8445346142069.html"
+    ],
+    "timestamp": "2026-08-26T16:51:00.260473",
+    "status": "results_found"
+  },
+  {
+    "seller": "Reva Selects",
+    "field": "GST",
+    "query": "Reva Selects GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T16:51:44.802889",
+    "status": "no_results"
+  },
+  {
+    "seller": "Reva Selects",
+    "field": "Owner",
+    "query": "Reva Selects director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.axis.bank.in/cards/credit-card/flipkart-axisbank-credit-card",
+      "https://www.sbicard.com/en/personal/credit-cards/flipkart-sbi-card.html"
+    ],
+    "timestamp": "2026-08-26T16:51:52.281004",
+    "status": "results_found"
+  },
+  {
+    "business": "MS MALIK ENTERPRISES",
+    "field": "Business Name",
+    "value": "MS MALIK ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AFSM9XMR041S9&asin=B0DB9L2RN5&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T16:52:11.093973"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "Website",
+    "query": "MS MALIK ENTERPRISES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269"
+    ],
+    "timestamp": "2026-08-26T16:52:15.882309",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "MS MALIK ENTERPRISES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    ],
+    "timestamp": "2026-08-26T16:52:33.560575",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "PAN",
+    "query": "MS MALIK ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    ],
+    "timestamp": "2026-08-26T16:52:49.297095",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "GST",
+    "query": "MS MALIK ENTERPRISES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms"
+    ],
+    "timestamp": "2026-08-26T16:53:02.792432",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "Owner",
+    "query": "MS MALIK ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    ],
+    "timestamp": "2026-08-26T16:53:18.118000",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "Owner",
+    "query": "MS MALIK ENTERPRISES founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    ],
+    "timestamp": "2026-08-26T16:53:33.203444",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "Address",
+    "query": "MS MALIK ENTERPRISES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    ],
+    "timestamp": "2026-08-26T16:53:36.525765",
+    "status": "results_found"
+  },
+  {
+    "seller": "MS MALIK ENTERPRISES",
+    "field": "Phone",
+    "query": "MS MALIK ENTERPRISES phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://signup.live.com/signup?...",
+      "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+      "https://www.webmd.com/multiple-sclerosis/multiple-sclerosis-symptoms",
+      "https://www.nhs.uk/conditions/multiple-sclerosis/"
+    ],
+    "timestamp": "2026-08-26T16:53:52.218279",
+    "status": "results_found"
+  }
+]

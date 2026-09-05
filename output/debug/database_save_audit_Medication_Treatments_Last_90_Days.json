@@ -1,0 +1,100 @@
+{
+  "category": "Medication Treatments Last 90 Days",
+  "records_before_save": 8,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "AccuPrints Gurgaon",
+      "database_id": 855,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919625197077",
+      "email": "mail@accuprints.in",
+      "gst": "06AURPS1867J1ZV",
+      "pan": "AURPS1867J",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "G Mart Global",
+      "database_id": 856,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "sahilgulwani20@gmail.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.gmartglobal.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AYURSTORE",
+      "database_id": 856,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918069029400",
+      "email": "info@onlinelegalindia.com",
+      "gst": "06ADCPI2643A1ZA",
+      "pan": "ADCPI2643A",
+      "website": "https://www.ayurstore.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "strongbox",
+      "database_id": 857,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@strongboxleasing.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "SAIRAM HERBALS",
+      "database_id": 858,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919179026596",
+      "email": "ccare@sairamherbals.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.sairamherbals.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "VS BROTHERS.",
+      "database_id": 859,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "\u5370\u5ea613",
+      "database_id": 860,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "sales@kdksoftware.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

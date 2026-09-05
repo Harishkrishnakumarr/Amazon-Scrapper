@@ -1,0 +1,100 @@
+{
+  "category": "Plumbing Supplies",
+  "records_before_save": 8,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "COSYEASY_",
+      "database_id": 1275,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918653469884",
+      "email": "enquiries@edgegeelong.com.au",
+      "gst": "01AAUCM7837L1ZU",
+      "pan": "AAUCM7837L",
+      "website": "https://www.cosyeasy.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1276,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "team@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Rejahousehold",
+      "database_id": 1277,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918681067890",
+      "email": "info@startupraja.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Overseas_shop",
+      "database_id": 1278,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919818367444",
+      "email": "info@overseaslogistic.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://overseaslogistic.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "shop_worldwide",
+      "database_id": 1279,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916458291255",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.worldshopping.global/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "seafloindia",
+      "database_id": 1280,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "mail@myseaflo.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "amiciKart",
+      "database_id": 1281,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.amicikart.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

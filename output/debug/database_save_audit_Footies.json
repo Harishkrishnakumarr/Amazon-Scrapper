@@ -1,0 +1,87 @@
+{
+  "category": "Footies",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "SuperSox",
+      "database_id": 1474,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@supersox.com",
+      "gst": "33AABCU7650C1ZM",
+      "pan": "AABCU7650C",
+      "website": "https://supersoxofficial.shop/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AddonHolding",
+      "database_id": 1475,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "info@addonholdings.com",
+      "gst": "27AAACA8827A1ZZ",
+      "pan": "AAACA8827A",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "QNIMSWAM",
+      "database_id": 1474,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "33AABCU7650C1ZM",
+      "pan": "AABCU7650C",
+      "website": "https://supersoxofficial.shop/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DIVUE\u00ae",
+      "database_id": 1474,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918427269387",
+      "email": "support@inspex.in",
+      "gst": "33AABCU7650C1ZM",
+      "pan": "AABCU7650C",
+      "website": "https://supersoxofficial.shop/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 1476,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "care@cocoblu.in",
+      "gst": "19AAJCC8517E1ZI",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AARNA BHL",
+      "database_id": 1476,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "support@inspex.in",
+      "gst": "03AATCA0996P1ZX",
+      "pan": "AATCA0996P",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    }
+  ]
+}

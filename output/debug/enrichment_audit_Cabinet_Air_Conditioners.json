@@ -1,0 +1,773 @@
+[
+  {
+    "business": "Kosliya Lab",
+    "field": "Business Name",
+    "value": "Kosliya Lab",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANS81TAC3TJNF&asin=B0H8XMJH2L&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:43:32.235610"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Website",
+    "query": "Kosliya Lab official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://helpforum.sky.com/t5/Broadband-Talk/Introducing-Gigafast/bc-p/5135020",
+      "https://helpforum.sky.com/t5/Sky-TV/What-is-Sky-Signature/ba-p/3684047"
+    ],
+    "timestamp": "2026-08-28T15:43:34.638938",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Legal Entity Name",
+    "query": "Kosliya Lab company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://registry-lookup.com/",
+      "https://www.dnb.com/business-directory/company-profiles.kosliya_enterprise_llp.3497fd8b13ee6a3c8f426f7707e4b5c6.html",
+      "https://www.thecompanycheck.com/company/kosliya-enterprise-llp/ABC-2877"
+    ],
+    "timestamp": "2026-08-28T15:43:46.387636",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T15:43:47.470840"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T15:43:47.470858"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T15:43:47.471147"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+    "timestamp": "2026-08-28T15:43:47.471162"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "PAN",
+    "query": "Kosliya Lab PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T15:44:01.746667",
+    "status": "no_results"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "PAN",
+    "query": "Kosliya Lab PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/kosliya-enterprise-llp/__l8LkEBmlNsOPgA994PufbbiM8YV9rNiIZrkSEhVQeAM",
+      "https://gstserver.com/gst/37EDEPK3412H1ZQ/",
+      "https://gstpan.com/",
+      "https://gstserver.com/gst/06AVIPS8370C1ZD/"
+    ],
+    "timestamp": "2026-08-28T15:44:06.185365",
+    "status": "results_found"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "Email Address",
+    "value": "info@gstserver.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/37EDEPK3412H1ZQ/",
+    "timestamp": "2026-08-28T15:44:09.179212"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "GST Number",
+    "value": "37EDEPK3412H1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/37EDEPK3412H1ZQ/",
+    "timestamp": "2026-08-28T15:44:09.179507"
+  },
+  {
+    "business": "Kosliya Lab",
+    "field": "PAN Number",
+    "value": "EDEPK3412H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/37EDEPK3412H1ZQ/",
+    "timestamp": "2026-08-28T15:44:09.179514"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Owner",
+    "query": "Kosliya Lab director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://cli.github.com/",
+      "https://github.com/thedotmack/claude-mem",
+      "https://github.com/ruvnet/ruflo"
+    ],
+    "timestamp": "2026-08-28T15:44:13.084767",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Owner",
+    "query": "Kosliya Lab founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/search-in-windows-11-file-explorer.21789/",
+      "https://www.elevenforum.com/t/rearrange-quick-access-folders-in-navigation-pane-of-file-explorer-in-windows-11.16179/"
+    ],
+    "timestamp": "2026-08-28T15:44:22.466583",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Phone",
+    "query": "Kosliya Lab phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://instagram.en.softonic.com/",
+      "https://www.meta.com/instagram/"
+    ],
+    "timestamp": "2026-08-28T15:44:29.780964",
+    "status": "results_found"
+  },
+  {
+    "seller": "Kosliya Lab",
+    "field": "Phone",
+    "query": "Kosliya Lab contact phone",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.kosliya_enterprise_llp.3497fd8b13ee6a3c8f426f7707e4b5c6.html"
+    ],
+    "timestamp": "2026-08-28T15:44:49.545400",
+    "status": "results_found"
+  },
+  {
+    "business": "AMFAH INDIA TRADING",
+    "field": "Business Name",
+    "value": "AMFAH INDIA TRADING",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1IWL26TT5GEDI&asin=B0F5GTXY4D&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:44:53.019732"
+  },
+  {
+    "seller": "AMFAH INDIA TRADING",
+    "field": "Website",
+    "query": "AMFAH INDIA TRADING official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://platform.openai.com/settings",
+      "https://openai.com/ja-JP/codex/"
+    ],
+    "timestamp": "2026-08-28T15:45:01.013486",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMFAH INDIA TRADING",
+    "field": "Legal Entity Name",
+    "query": "AMFAH INDIA TRADING company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://zauba.company/company/amfah_india_trading_private_limited/U51900MH2008PTC178598",
+      "https://tracxn.com/d/legal-entities/india/amfah-india-trading-private-limited/__rPYnGwBQWFSmr5KKUD8z7GJuiNjs3ZWWaP8Fu_0dJEc",
+      "https://www.falconebiz.com/company/AMFAH-INDIA-TRADING-PRIVATE-LIMITED-U51900MH2008PTC178598",
+      "https://www.indiafilings.com/search/amfah-india-trading-private-limited-cin-U51900MH2008PTC178598"
+    ],
+    "timestamp": "2026-08-28T15:45:29.300614",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMFAH INDIA TRADING",
+    "field": "PAN",
+    "query": "AMFAH INDIA TRADING PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AAGCA7912A1Z1/amfah-india-trading-private-limited",
+      "https://scoobysys.in/company/AMFAH-INDIA-TRADING-PRIVATE-LIMITED-U51900MH2008PTC178598",
+      "https://amfah.com/",
+      "https://tracxn.com/d/legal-entities/india/amfah-india-trading-private-limited/__rPYnGwBQWFSmr5KKUD8z7GJuiNjs3ZWWaP8Fu_0dJEc"
+    ],
+    "timestamp": "2026-08-28T15:45:42.200767",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMFAH INDIA TRADING",
+    "field": "GST",
+    "query": "AMFAH INDIA TRADING GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.onlinelegalindia.com/services/trademark-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=403741929&Adgroupid=1335907225705653&Adid=83494598968972&device=c&Adposition=&physical=258438&match_type=p&network=register%20trademark%20online&target_name=kwd-83494716304237:loc-90&placement=&keyword_id=register%20trademark%20online&msclkid=1bbe5e41194710e69e7934d046b3b7e9",
+      "https://gstverify.co.in/gst/amfah-india-trading-private-limited-27aagca7912a1z1/",
+      "https://piceapp.com/gst-number-search/amfah-india-trading-private-limited-27aagca7912a1z1/",
+      "https://fnshiftsolutions.com/gstin-search/amfah-india-trading-private-limited-07AAGCA7912A1Z3"
+    ],
+    "timestamp": "2026-08-28T15:46:20.116533",
+    "status": "results_found"
+  },
+  {
+    "business": "AMFAH INDIA TRADING",
+    "field": "Phone Number",
+    "value": "+918069029400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/trademark-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=403741929&Adgroupid=1335907225705653&Adid=83494598968972&device=c&Adposition=&physical=258438&match_type=p&network=register%20trademark%20online&target_name=kwd-83494716304237:loc-90&placement=&keyword_id=register%20trademark%20online&msclkid=1bbe5e41194710e69e7934d046b3b7e9",
+    "timestamp": "2026-08-28T15:46:25.200324"
+  },
+  {
+    "business": "AMFAH INDIA TRADING",
+    "field": "Email Address",
+    "value": "info@onlinelegalindia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.onlinelegalindia.com/services/trademark-registration-campaign/?utm_source=bing&utm_medium=cpc&Campaignid=403741929&Adgroupid=1335907225705653&Adid=83494598968972&device=c&Adposition=&physical=258438&match_type=p&network=register%20trademark%20online&target_name=kwd-83494716304237:loc-90&placement=&keyword_id=register%20trademark%20online&msclkid=1bbe5e41194710e69e7934d046b3b7e9",
+    "timestamp": "2026-08-28T15:46:25.200941"
+  },
+  {
+    "seller": "AMFAH INDIA TRADING",
+    "field": "Owner",
+    "query": "AMFAH INDIA TRADING director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://rocketreach.co/amfah-india-trading-pvt-ltd-management_b5ef7ef6f42e7090",
+      "https://www.crunchbase.com/person/mansoor-ali-f0a3",
+      "https://rocketreach.co/mansoor-ali-email_68513398"
+    ],
+    "timestamp": "2026-08-28T15:46:34.408151",
+    "status": "results_found"
+  },
+  {
+    "seller": "AMFAH INDIA TRADING",
+    "field": "Address",
+    "query": "AMFAH INDIA TRADING registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://amfah.com/contact/",
+      "https://tracxn.com/d/legal-entities/india/amfah-india-trading-private-limited/__rPYnGwBQWFSmr5KKUD8z7GJuiNjs3ZWWaP8Fu_0dJEc",
+      "https://www.falconebiz.com/company/AMFAH-INDIA-TRADING-PRIVATE-LIMITED-U51900MH2008PTC178598",
+      "https://b2bhint.com/en/company/in-mh/amfah-india-trading-private-limited--U51900MH2008PTC178598"
+    ],
+    "timestamp": "2026-08-28T15:46:58.422672",
+    "status": "results_found"
+  },
+  {
+    "business": "MiraHome",
+    "field": "Business Name",
+    "value": "MiraHome",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AWSE2FPBZFZ1F&asin=B0F8GL2RMD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T15:47:01.861178"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "Website",
+    "query": "MiraHome official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://support.usa.canon.com/kb/s/article/ART171453",
+      "https://th.canon/th/support/0200730201"
+    ],
+    "timestamp": "2026-08-28T15:47:04.953173",
+    "status": "results_found"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "Legal Entity Name",
+    "query": "MiraHome company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://momoshop.com.tw/",
+      "https://www.momoshop.com.tw/brand/Main.jsp",
+      "https://www.momoshop.com.tw/TP/TP000175/main",
+      "https://www.momoshop.com.tw/TP/TP0004840/main"
+    ],
+    "timestamp": "2026-08-28T15:47:38.563776",
+    "status": "results_found"
+  },
+  {
+    "business": "MiraHome",
+    "field": "Phone Number",
+    "value": "+916592500000",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.momoshop.com.tw/brand/Main.jsp",
+    "timestamp": "2026-08-28T15:47:46.706617"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "Legal Entity Name",
+    "query": "MiraHome Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sgpbusiness.com/company/Mira-Home-Pte-Ltd",
+      "https://www.companies.sg/business/202538821E/MIRA-HOME-PTE-LTD-",
+      "https://companieshouse.sg/mira-home-pte-ltd-202538821E",
+      "https://sgpdirectory.com/company/mira-home-pte-ltd"
+    ],
+    "timestamp": "2026-08-28T15:47:54.480638",
+    "status": "results_found"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "PAN",
+    "query": "MiraHome PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.mail.daum.net/",
+      "https://m.mail.daum.net/list/DRAFT",
+      "https://info.mail.daum.net/",
+      "https://mail.daum.net/policy"
+    ],
+    "timestamp": "2026-08-28T15:47:56.279822",
+    "status": "results_found"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "PAN",
+    "query": "MiraHome PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.timescope.com/",
+      "https://www.timescope.com/en",
+      "https://symboledeparis.timescope.com/en/",
+      "https://originesdeparis.timescope.com/en/"
+    ],
+    "timestamp": "2026-08-28T15:48:08.483580",
+    "status": "results_found"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "GST",
+    "query": "MiraHome GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://www.asiaodysseytravel.com/vietnam/food.html"
+    ],
+    "timestamp": "2026-08-28T15:48:13.294586",
+    "status": "results_found"
+  },
+  {
+    "business": "MiraHome",
+    "field": "Email Address",
+    "value": "contact@foodvietnamese.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://foodvietnamese.com/best-food-in-vietnam/",
+    "timestamp": "2026-08-28T15:48:15.816290"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "Owner",
+    "query": "MiraHome director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://sspscholarshipkarnataka.in/",
+      "https://eservices.icai.org/",
+      "https://sspscholarship.co.in/"
+    ],
+    "timestamp": "2026-08-28T15:48:30.220971",
+    "status": "results_found"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "Owner",
+    "query": "MiraHome founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-28T15:48:34.599950",
+    "status": "no_results"
+  },
+  {
+    "seller": "MiraHome",
+    "field": "Address",
+    "query": "MiraHome registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ncaa.com/standings/basketball-men/d1",
+      "https://goheels.com/sports/mens-basketball",
+      "https://www.foxsports.com/college-basketball/north-carolina-tar-heels-team-standings",
+      "https://www.ncaa.com/standings/basketball-%0D"
+    ],
+    "timestamp": "2026-08-28T15:48:37.028215",
+    "status": "results_found"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Business Name",
+    "value": "Hoteon Trading Pvt. Ltd.,",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1NO7NQ7CMFIEG&asin=B0B67M8RPG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-28T15:48:51.146959"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Website",
+    "query": "Hoteon Trading Pvt. Ltd., official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.hoteonlife.com/pages/about-us",
+      "https://www.hoteonlife.com/pages/hoteon"
+    ],
+    "timestamp": "2026-08-28T15:48:56.417802",
+    "status": "results_found"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Website URL",
+    "value": "https://www.hoteonlife.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.hoteonlife.com/pages/about-us",
+    "timestamp": "2026-08-28T15:49:00.591122"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Phone Number",
+    "value": "+919148183707",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.hoteonlife.com/",
+    "timestamp": "2026-08-28T15:49:05.252308"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Email Address",
+    "value": "customercare@hoteon.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.hoteonlife.com/",
+    "timestamp": "2026-08-28T15:49:05.252571"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Billing Address",
+    "value": "Hoteon Trading Private Limited 235, 39th Main, 1st Cross, KAS Officers Colony, Behind Central Silk Board, BTM 2nd Stage, Bengaluru 560068",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.hoteonlife.com/",
+    "timestamp": "2026-08-28T15:49:05.266175"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.hoteonlife.com/",
+    "timestamp": "2026-08-28T15:49:05.266194"
+  },
+  {
+    "business": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Pincode",
+    "value": "560068",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.hoteonlife.com/",
+    "timestamp": "2026-08-28T15:49:05.266199"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Legal Entity Name",
+    "query": "Hoteon Trading Pvt. Ltd., company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://wa.me/?lang=id",
+      "https://wa.me/",
+      "https://www.whatsapp.com/"
+    ],
+    "timestamp": "2026-08-28T15:49:10.784347",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Legal Entity Name",
+    "query": "Hoteon Trading Pvt. Ltd., Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web3.avolites.com/software/downloads/personality-builder",
+      "https://www.manualslib.com/manual/1152670/Showtec-Creator-1024.html",
+      "https://www.codeweavers.com/compatibility/crossover/showtec-dmg-personality-builder",
+      "https://www.manualslib.com/manual/1272951/Showtec-Creator-1024-Pro.html"
+    ],
+    "timestamp": "2026-08-28T15:49:21.628404",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "PAN",
+    "query": "Hoteon Trading Pvt. Ltd., PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://kcic.co.id/proyek/tiketwhoosh/",
+      "https://www.traveloka.com/id-id/kereta-api/whoosh",
+      "https://ticket.kcic.co.id/webTrade/",
+      "https://www.liputan6.com/hot/read/5694981/jadwal-amp-harga-tiket-whoosh-terbaru-simak-panduan-lengkap-untuk-mendapatkan-harga-tiket-termurah"
+    ],
+    "timestamp": "2026-08-28T15:49:30.845472",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "GST",
+    "query": "Hoteon Trading Pvt. Ltd., GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.chinatimes.com/newspapers/20260115000682-260109",
+      "https://www.chinatimes.com/realtimenews/20260707003061-260407",
+      "https://www.chinatimes.com/realtimenews/20260723001072-260407",
+      "https://www.chinatimes.com/hottopic/20160301004669-260812"
+    ],
+    "timestamp": "2026-08-28T15:50:35.017865",
+    "status": "results_found"
+  },
+  {
+    "seller": "Hoteon Trading Pvt. Ltd.,",
+    "field": "Owner",
+    "query": "Hoteon Trading Pvt. Ltd., director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.nikkei.com/article/DGXLRSP481326_R30C18A5000000/?msockid=1965b8c98daa6ba43e61af0a8c576aed",
+      "https://www.nikkei.com/article/DGXMZO27618100S8A300C1EA4000/?msockid=1965b8c98daa6ba43e61af0a8c576aed"
+    ],
+    "timestamp": "2026-08-28T15:50:43.838189",
+    "status": "results_found"
+  },
+  {
+    "business": "Salesio Nova",
+    "field": "Business Name",
+    "value": "Salesio Nova",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3EHIUBVT0VZTH&asin=B0DCF8Y31J&ref_=dp_merchant_link",
+    "timestamp": "2026-08-28T15:50:54.432509"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Website",
+    "query": "Salesio Nova official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.yamatotsurezure.com/entry/kitayamato01_takayamajo",
+      "https://ja.wikid.org/%E9%B7%B9%E5%B1%B1%E5%BC%98%E9%A0%BC"
+    ],
+    "timestamp": "2026-08-28T15:51:00.838397",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Legal Entity Name",
+    "query": "Salesio Nova company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.ptt.cc/bbs/Lifeismoney/index.html",
+      "https://www.ptt.cc/bbs/Lifeismoney/M.1786120893.A.8B3.html",
+      "https://www.ptt.cc/bbs/Lifeismoney/M.1782235629.A.715.html",
+      "https://www.ptt.cc/bbs/Lifeismoney/M.1564983322.A.0A1.html"
+    ],
+    "timestamp": "2026-08-28T15:51:18.585918",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Legal Entity Name",
+    "query": "Salesio Nova Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-28T15:51:26.750800",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "PAN",
+    "query": "Salesio Nova PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.meta.com/en-gb/facebook-app/"
+    ],
+    "timestamp": "2026-08-28T15:51:28.645487",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "PAN",
+    "query": "Salesio Nova PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.goodreturns.in/pan-card-details-pancid9.html",
+      "https://www.indiafilings.com/learn/know-your-pan-card"
+    ],
+    "timestamp": "2026-08-28T15:51:39.366444",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "GST",
+    "query": "Salesio Nova GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-28T15:51:57.282265",
+    "status": "results_found"
+  },
+  {
+    "business": "Salesio Nova",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T15:52:00.585230"
+  },
+  {
+    "business": "Salesio Nova",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-28T15:52:00.585256"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Owner",
+    "query": "Salesio Nova director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://salesio.co/",
+      "https://www.forbes.com/profile/richard-saghian/",
+      "https://www.crunchbase.com/person/richard-saghian",
+      "https://richniches.com/who-owns-fashion-nova/"
+    ],
+    "timestamp": "2026-08-28T15:52:09.364589",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Address",
+    "query": "Salesio Nova registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://eresources.nlb.gov.sg/main/sphnewspapers",
+      "https://eresources.nlb.gov.sg/main/Access/Login",
+      "https://www.nlb.gov.sg/main/services/faqs/NLB-Mobile/get-started-with-enews",
+      "https://www.nlb.gov.sg/main/home"
+    ],
+    "timestamp": "2026-08-28T15:52:18.732684",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Address",
+    "query": "Salesio Nova registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.walmart.com/store-finder?location=page",
+      "https://www.walmart.com/",
+      "https://corporate.walmart.com/askwalmart/how-do-i-find-information-about-my-local-stores",
+      "https://www.storeopeninghours.com/retailers/walmart"
+    ],
+    "timestamp": "2026-08-28T15:52:24.687728",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Phone",
+    "query": "Salesio Nova phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.0800076666.com.tw/",
+      "https://www.0800076666.com.tw/onlineNew/Home/Order1",
+      "https://napolixcola.0800076666.com.tw/Aboutus/AboutusSocial",
+      "https://napolixcola.0800076666.com.tw/Aboutus/AboutusPress"
+    ],
+    "timestamp": "2026-08-28T15:52:36.599027",
+    "status": "results_found"
+  },
+  {
+    "seller": "Salesio Nova",
+    "field": "Email",
+    "query": "Salesio Nova email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.elevenforum.com/t/enable-or-disable-usb-selective-suspend-in-windows-11.10251/",
+      "https://www.elevenforum.com/"
+    ],
+    "timestamp": "2026-08-28T15:52:50.080210",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "category": "Baby Jewellery Fashion",
+  "records_before_save": 8,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Dhruv's collection",
+      "database_id": 235,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910933882024",
+      "email": "dhruvscollection925@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://dhruvscollection.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DARSHRAJ",
+      "database_id": 236,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.darshraj.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MJ 925 Silver/ Parnika",
+      "database_id": 237,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Dreamworks",
+      "database_id": 238,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910020132026",
+      "email": "service@52pojie.cn",
+      "gst": "27AABCD0458P1ZD",
+      "pan": "Not Found",
+      "website": "https://www.dreamworks.com/",
+      "status": "Verified"
+    }
+  ]
+}

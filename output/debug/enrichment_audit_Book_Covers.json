@@ -1,0 +1,640 @@
+[
+  {
+    "business": "Cocoblu Retail",
+    "field": "Business Name",
+    "value": "Cocoblu Retail",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B0DJT293DR&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:44:13.346181"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Website",
+    "query": "Cocoblu Retail official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/"
+    ],
+    "timestamp": "2026-08-29T09:44:16.047885",
+    "status": "results_found"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Website URL",
+    "value": "https://www.cocoblu.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.cocoblu.in/about-us/",
+    "timestamp": "2026-08-29T09:44:24.100005"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Legal Entity Name",
+    "value": "Floor Cocoblu Retail Limited",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-29T09:44:26.202086"
+  },
+  {
+    "business": "Cocoblu Retail",
+    "field": "Email Address",
+    "value": "care@cocoblu.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.cocoblu.in/",
+    "timestamp": "2026-08-29T09:44:26.202625"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "PAN",
+    "query": "Floor Cocoblu Retail Limited PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.flooranddecor.com/?msockid=008e80a38720611f09b09767863a6009",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://thetileshouse.com/collections/floor-tiles"
+    ],
+    "timestamp": "2026-08-29T09:44:35.919232",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "GST",
+    "query": "Floor Cocoblu Retail Limited GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.flooranddecor.com/?msockid=008e80a38720611f09b09767863a6009",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://thetileshouse.com/collections/floor-tiles"
+    ],
+    "timestamp": "2026-08-29T09:44:56.481953",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Owner",
+    "query": "Floor Cocoblu Retail Limited director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.flooranddecor.com/?msockid=008e80a38720611f09b09767863a6009",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://thetileshouse.com/collections/floor-tiles"
+    ],
+    "timestamp": "2026-08-29T09:45:11.298077",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Address",
+    "query": "Floor Cocoblu Retail Limited registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.orientbell.com/tiles/floor-tiles",
+      "https://www.flooranddecor.com/?msockid=008e80a38720611f09b09767863a6009",
+      "https://www.livspace.com/in/magazine/types-flooring-available-india",
+      "https://thetileshouse.com/collections/floor-tiles"
+    ],
+    "timestamp": "2026-08-29T09:45:28.986657",
+    "status": "results_found"
+  },
+  {
+    "seller": "Cocoblu Retail",
+    "field": "Phone",
+    "query": "Cocoblu Retail phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.cocoblu.in/",
+      "https://www.cocoblu.in/about-us/",
+      "https://www.rattanindia.com/cocoblu/",
+      "http://cocoblu.com/"
+    ],
+    "timestamp": "2026-08-29T09:45:45.761565",
+    "status": "results_found"
+  },
+  {
+    "business": "Qzep",
+    "field": "Business Name",
+    "value": "Qzep",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEC7M2HJCA8MA&asin=B0D26V39PX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:45:57.802760"
+  },
+  {
+    "seller": "Qzep",
+    "field": "Website",
+    "query": "Qzep official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hyakkano.com/goods/",
+      "https://hyakkano.com/news/post-132/"
+    ],
+    "timestamp": "2026-08-29T09:46:00.554932",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "Legal Entity Name",
+    "query": "Qzep company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dailymotion.com/video/x8q9e1d",
+      "https://www.dailymotion.com/video/x4qm8to",
+      "https://www.openculture.com/2025/08/watch-joan-baez-endearingly-imitate-bob-dylan.html",
+      "https://www.tiktok.com/@celeb_vibes3/video/7677042795688774943"
+    ],
+    "timestamp": "2026-08-29T09:46:11.396249",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "Legal Entity Name",
+    "query": "Qzep Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company-details",
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://razorpay.com/rize/company-registration/private-limited/",
+      "https://www.indiafilings.com/search"
+    ],
+    "timestamp": "2026-08-29T09:46:29.280773",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "PAN",
+    "query": "Qzep PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://jupyter.org/",
+      "https://jupyter.org/install",
+      "https://cameronoelsen.github.io/jupytersite/",
+      "https://docs.jupyter.org/en/latest/install.html"
+    ],
+    "timestamp": "2026-08-29T09:46:31.601042",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "PAN",
+    "query": "Qzep PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-29T09:46:44.059908",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "GST",
+    "query": "Qzep GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://jpn.faq.panasonic.com/app/products/detail/p/18353",
+      "https://jpn.faq.panasonic.com/app/answers/detail/a_id/41977/~/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%88%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AC%EF%BC%89%E3%81%A7youtube%E3%82%84netflix%E3%81%AA%E3%81%A9%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E5%8B%95%E7%94%BB%E3%81%AF%E8%A6%8B%E3%82%89%E3%82%8C%E3%82%8B%E3%81%8B",
+      "https://jpn.faq.panasonic.com/app/answers/detail/a_id/41798/~/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%88%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AC%EF%BC%89%E3%81%8C%E7%84%A1%E7%B7%9Alan%EF%BC%88wi-fi%EF%BC%89%E3%82%84%E6%9C%89%E7%B7%9Alan%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AF",
+      "https://jpn.faq.panasonic.com/app/answers/detail/a_id/42833/~/%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC%EF%BC%88%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AC%EF%BC%89%E3%81%A7%E7%84%A1%E7%B7%9Alan%EF%BC%88wi-fi%EF%BC%89%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%97%E3%81%9F%E3%81%84%E3%81%A8%E3%81%8D%E3%81%AF"
+    ],
+    "timestamp": "2026-08-29T09:46:49.942303",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "GST",
+    "query": "Qzep GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.expressgst.com/gst-number-search/",
+      "https://gstextract.com/gstin-details",
+      "https://www.registerkaro.in/gst-number-search",
+      "https://www.knowyourgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-08-29T09:47:00.000228",
+    "status": "results_found"
+  },
+  {
+    "business": "Qzep",
+    "field": "Email Address",
+    "value": "sales@kdksoftware.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.expressgst.com/gst-number-search/",
+    "timestamp": "2026-08-29T09:47:02.579830"
+  },
+  {
+    "seller": "Qzep",
+    "field": "Owner",
+    "query": "Qzep director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://www.govietnam.tours/vietnamese-food-guide-21-dishes-you-cant-miss/"
+    ],
+    "timestamp": "2026-08-29T09:47:07.969577",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "Address",
+    "query": "Qzep registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-29T09:47:24.061043",
+    "status": "results_found"
+  },
+  {
+    "seller": "Qzep",
+    "field": "Address",
+    "query": "Qzep registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opencorpdata.com/lei/NU75S1Y8UH3706J5CS61",
+      "https://www.globaldata.com/company-profile/zep-inc/locations/",
+      "https://www.bizapedia.com/ga/zep-inc.html",
+      "https://www.dnb.com/business-directory/company-profiles.zep_inc.166d2c05a240ffd59304d6c88c78d6f0.html"
+    ],
+    "timestamp": "2026-08-29T09:47:35.137828",
+    "status": "results_found"
+  },
+  {
+    "business": "Qzep",
+    "field": "Billing Address",
+    "value": "1310 seaboard industrial boulevard, atlanta, us-ga, 30318, us",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/NU75S1Y8UH3706J5CS61",
+    "timestamp": "2026-08-29T09:47:37.322033"
+  },
+  {
+    "business": "Qzep",
+    "field": "City",
+    "value": "us",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://opencorpdata.com/lei/NU75S1Y8UH3706J5CS61",
+    "timestamp": "2026-08-29T09:47:37.322049"
+  },
+  {
+    "seller": "Qzep",
+    "field": "Phone",
+    "query": "Qzep phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.qep.com/pages/contact",
+      "https://www.suppliersolutions.com/zep/ContactUs.asp",
+      "https://zep.com/pages/contact",
+      "https://www.verizon.com/support/contact-us/"
+    ],
+    "timestamp": "2026-08-29T09:47:44.803922",
+    "status": "results_found"
+  },
+  {
+    "business": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Business Name",
+    "value": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A18VWQCKLEUZYC&asin=B0H3GDWWPD&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T09:47:56.601270"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Website",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.walmart.com/store-finder?location=page",
+      "https://walmartbd.com/contact/"
+    ],
+    "timestamp": "2026-08-29T09:47:58.982145",
+    "status": "results_found"
+  },
+  {
+    "business": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Website URL",
+    "value": "https://www.velveri.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.velveri.com/",
+    "timestamp": "2026-08-29T09:48:02.181320"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Legal Entity Name",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sport.es/es/",
+      "https://www.sport.es/es/barca/",
+      "https://areajugones.sport.es/",
+      "https://kiosco.sport.es/"
+    ],
+    "timestamp": "2026-08-29T09:48:10.948916",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T09:48:30.554892",
+    "status": "no_results"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "PAN",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 PAN number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://tincheck.io/india/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-29T09:48:35.869942",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.calculator.com/",
+      "https://solvecalc.net/",
+      "https://www.calculator.net/basic-calculator.html",
+      "https://www.symbolab.com/"
+    ],
+    "timestamp": "2026-08-29T09:48:44.461906",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "GST",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 GST number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.pinkbike.com/",
+      "https://www.pinkbike.com/sandbox/grimdonutgame/",
+      "https://www.pinkbike.com/buysell"
+    ],
+    "timestamp": "2026-08-29T09:48:58.601262",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forum.lowyat.net/Kopitiam",
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449"
+    ],
+    "timestamp": "2026-08-29T09:49:00.103159",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Owner",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.youtubekids.com/",
+      "https://about.youtube/"
+    ],
+    "timestamp": "2026-08-29T09:49:08.587446",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Address",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://punchng.com/",
+      "https://www.railforums.co.uk/",
+      "https://www.railforums.co.uk/forums/infrastructure-stations.43/",
+      "https://punchng.com/topics/metro-plus/page/2/"
+    ],
+    "timestamp": "2026-08-29T09:49:16.135426",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Address",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registeredaddress.co.uk/",
+      "https://rivian.com/",
+      "https://www.tantransco.org/en/tantransco/",
+      "https://www.truthfinder.com/"
+    ],
+    "timestamp": "2026-08-29T09:49:29.533150",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Phone",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.funtrivia.com/trivia-quiz/Animals/Serengeti-National-Park-62031.html",
+      "https://mytravelquiz.com/quiz/serengeti-national-park-quiz/",
+      "https://citybeep.com/quiz/serengeti-national-park-quiz/",
+      "https://wayground.com/admin/quiz/6553789c50649f449f25c449/serengeti-national-park"
+    ],
+    "timestamp": "2026-08-29T09:49:31.322400",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Phone",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 contact phone",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://translate.google.co.in/details",
+      "https://translate.google.co.in/m"
+    ],
+    "timestamp": "2026-08-29T09:49:46.119928",
+    "status": "results_found"
+  },
+  {
+    "seller": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50",
+    "field": "Email",
+    "query": "VELVERI \u2b50\u2b50\u2b50\u2b50\u2b50 email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.60millions-mag.com/",
+      "https://www.60millions-mag.com/commerce/article/amazon-haul-la-foire-aux-produits-non-conformes-20260506/",
+      "https://www.dvd-forum.at/",
+      "https://www.dvd-forum.at/amazon-startet-die-blockbuster-days-mit-starken-filmdeals"
+    ],
+    "timestamp": "2026-08-29T09:49:47.670516",
+    "status": "results_found"
+  },
+  {
+    "business": "Regal utility",
+    "field": "Business Name",
+    "value": "Regal utility",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3NE0MMEF26PNE&asin=B0F28Q4NHJ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:50:09.163419"
+  },
+  {
+    "seller": "Regal utility",
+    "field": "Website",
+    "query": "Regal utility official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.regalshoes.in/",
+      "https://www.regaljewellers.net/"
+    ],
+    "timestamp": "2026-08-29T09:50:12.031851",
+    "status": "results_found"
+  },
+  {
+    "business": "Regal utility",
+    "field": "Website URL",
+    "value": "https://www.regaljewellers.net/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.regaljewellers.net/",
+    "timestamp": "2026-08-29T09:50:16.918462"
+  },
+  {
+    "business": "Regal utility",
+    "field": "Owner Name",
+    "value": "Regal Jewellers",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.regaljewellers.net/about",
+    "timestamp": "2026-08-29T09:50:20.518128"
+  },
+  {
+    "seller": "Regal utility",
+    "field": "Legal Entity Name",
+    "query": "Regal utility company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.regalshoes.in/",
+      "https://www.regaljewellers.net/",
+      "https://www.regal.org.in/",
+      "https://www.fandango.com/regal-theaters_movietimes"
+    ],
+    "timestamp": "2026-08-29T09:50:32.421339",
+    "status": "results_found"
+  },
+  {
+    "business": "Regal utility",
+    "field": "Phone Number",
+    "value": "+919819939302",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.regalshoes.in/",
+    "timestamp": "2026-08-29T09:50:37.931049"
+  },
+  {
+    "business": "Regal utility",
+    "field": "Email Address",
+    "value": "orders@regalshoes.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.regalshoes.in/",
+    "timestamp": "2026-08-29T09:50:37.932019"
+  },
+  {
+    "seller": "Regal utility",
+    "field": "PAN",
+    "query": "Regal utility PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.regalshoes.in/",
+      "https://www.regaljewellers.net/",
+      "https://www.regal.org.in/",
+      "https://www.fandango.com/regal-theaters_movietimes"
+    ],
+    "timestamp": "2026-08-29T09:50:48.898196",
+    "status": "results_found"
+  },
+  {
+    "seller": "Regal utility",
+    "field": "GST",
+    "query": "Regal utility GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.regalshoes.in/",
+      "https://www.regaljewellers.net/",
+      "https://www.regal.org.in/",
+      "https://www.fandango.com/regal-theaters_movietimes"
+    ],
+    "timestamp": "2026-08-29T09:51:05.132695",
+    "status": "results_found"
+  },
+  {
+    "seller": "Regal utility",
+    "field": "Address",
+    "query": "Regal utility registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.regalshoes.in/",
+      "https://www.regaljewellers.net/",
+      "https://www.regal.org.in/",
+      "https://www.fandango.com/regal-theaters_movietimes"
+    ],
+    "timestamp": "2026-08-29T09:51:21.177509",
+    "status": "results_found"
+  }
+]

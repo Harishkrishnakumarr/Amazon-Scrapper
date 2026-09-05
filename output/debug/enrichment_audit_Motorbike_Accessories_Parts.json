@@ -1,0 +1,1461 @@
+[
+  {
+    "business": "ETrade Online",
+    "field": "Business Name",
+    "value": "ETrade Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2AL6IVND0I91F&asin=B0GFTVS394&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T22:57:00.821831"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Website",
+    "query": "ETrade Online official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70"
+    ],
+    "timestamp": "2026-08-27T22:57:02.184203",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Website URL",
+    "value": "https://us.etrade.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+    "timestamp": "2026-08-27T22:57:37.512286"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:57:43.214717",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "Email Address",
+    "value": "mswcorporatesupport@morganstanley.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+    "timestamp": "2026-08-27T22:57:48.482247"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Legal Entity Name",
+    "query": "ETrade Online Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:57:50.866743",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:57:57.420522",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "PAN",
+    "query": "ETrade Online PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:03.916861",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:10.195649",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "GST",
+    "query": "ETrade Online GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+      "https://gstserver.com/gst/27AADCV4254H1Z8/",
+      "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-33AADCV4254H1ZF/",
+      "https://gst.jamku.app/gstin/27AADCV4254H1Z8"
+    ],
+    "timestamp": "2026-08-27T22:58:18.355464",
+    "status": "results_found"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "GST Number",
+    "value": "27AADCV4254H1Z8",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-27T22:58:18.761133"
+  },
+  {
+    "business": "ETrade Online",
+    "field": "PAN Number",
+    "value": "AADCV4254H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/etrade-marketing-private-limited-27AADCV4254H1Z8/",
+    "timestamp": "2026-08-27T22:58:18.761153"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:20.195701",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Owner",
+    "query": "ETrade Online founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:26.883089",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:33.551095",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Address",
+    "query": "ETrade Online registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:40.366517",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Phone",
+    "query": "ETrade Online phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:46.521449",
+    "status": "results_found"
+  },
+  {
+    "seller": "ETrade Online",
+    "field": "Phone",
+    "query": "ETrade Online contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://us.etrade.com/home?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://us.etrade.com/e/t/user/login?msockid=063f4332f09e6c3b0ff154f0f1346d70",
+      "https://corpserviceshome.etrade.com/etx/pxy/cspuser/login_csp",
+      "https://patrd.etrade.com/etx/trdclt"
+    ],
+    "timestamp": "2026-08-27T22:58:54.908745",
+    "status": "results_found"
+  },
+  {
+    "business": "WEST HOME + LIVING",
+    "field": "Business Name",
+    "value": "WEST HOME + LIVING",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3QIBHBWZSO851&asin=B0HF8JTTWV&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T22:59:01.903748"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Website",
+    "query": "WEST HOME + LIVING official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.westelm.com/",
+      "https://www.westelm.com/shop/furniture/"
+    ],
+    "timestamp": "2026-08-27T22:59:05.501219",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Legal Entity Name",
+    "query": "WEST HOME + LIVING company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T22:59:29.276994",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Legal Entity Name",
+    "query": "WEST HOME + LIVING Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://find-and-update.company-information.service.gov.uk/?topic_id=18",
+      "https://find-and-update.company-information.service.gov.uk/help/cookies",
+      "https://find-and-update.company-information.service.gov.uk/signin",
+      "https://find-and-update.company-information.service.gov.uk/help/accessibility-statement"
+    ],
+    "timestamp": "2026-08-27T22:59:37.767487",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "PAN",
+    "query": "WEST HOME + LIVING PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-27T22:59:44.620840",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "PAN",
+    "query": "WEST HOME + LIVING PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T22:59:50.027288",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "GST",
+    "query": "WEST HOME + LIVING GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T22:59:53.713191",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "GST",
+    "query": "WEST HOME + LIVING GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T22:59:57.515171",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Owner",
+    "query": "WEST HOME + LIVING director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T23:00:01.643185",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Owner",
+    "query": "WEST HOME + LIVING founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.westwing.com/story/",
+      "https://www.westwing.com/company/",
+      "https://www.crunchbase.com/organization/west-home"
+    ],
+    "timestamp": "2026-08-27T23:00:07.568532",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Address",
+    "query": "WEST HOME + LIVING registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T23:00:12.297064",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Address",
+    "query": "WEST HOME + LIVING registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://thatsthem.com/reverse-address-lookup",
+      "https://thatsthem.com/people-search",
+      "https://thatsthem.com/region/TN",
+      "https://thatsthem.com/reverse-phone-lookup"
+    ],
+    "timestamp": "2026-08-27T23:00:17.795180",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Phone",
+    "query": "WEST HOME + LIVING phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T23:00:21.028537",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Phone",
+    "query": "WEST HOME + LIVING contact phone",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T23:00:25.965779",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Email",
+    "query": "WEST HOME + LIVING email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T23:00:33.052705",
+    "status": "results_found"
+  },
+  {
+    "seller": "WEST HOME + LIVING",
+    "field": "Email",
+    "query": "WEST HOME + LIVING contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://dictionary.cambridge.org/us/dictionary/english/west",
+      "https://dictionary.cambridge.org/dictionary/english/west",
+      "https://www.westside.com/",
+      "https://www.merriam-webster.com/dictionary/west"
+    ],
+    "timestamp": "2026-08-27T23:00:43.346336",
+    "status": "results_found"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "Business Name",
+    "value": "ViaTerra Gear",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A16ILXM13IN2GK&asin=B0FPQDFPBB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T23:00:47.419533"
+  },
+  {
+    "seller": "ViaTerra Gear",
+    "field": "Website",
+    "query": "ViaTerra Gear official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://viaterragear.com/",
+      "https://viaterragear.com/collections/all"
+    ],
+    "timestamp": "2026-08-27T23:00:49.113314",
+    "status": "results_found"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "Website URL",
+    "value": "https://viaterragear.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://viaterragear.com/",
+    "timestamp": "2026-08-27T23:01:00.121390"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "Phone Number",
+    "value": "+918886651324",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://viaterragear.com/",
+    "timestamp": "2026-08-27T23:01:03.241243"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "Email Address",
+    "value": "help@viaterra.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://viaterragear.com/",
+    "timestamp": "2026-08-27T23:01:03.241913"
+  },
+  {
+    "seller": "ViaTerra Gear",
+    "field": "Legal Entity Name",
+    "query": "ViaTerra Gear company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://viaterragear.com/",
+      "https://viaterragear.com/collections/all",
+      "https://powersports.in/collections/viaterra",
+      "https://motocentral.in/collections/viaterra-gear"
+    ],
+    "timestamp": "2026-08-27T23:01:21.371858",
+    "status": "results_found"
+  },
+  {
+    "seller": "ViaTerra Gear",
+    "field": "PAN",
+    "query": "ViaTerra Gear PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://viaterragear.com/",
+      "https://viaterragear.com/collections/all",
+      "https://powersports.in/collections/viaterra",
+      "https://motocentral.in/collections/viaterra-gear"
+    ],
+    "timestamp": "2026-08-27T23:01:37.052955",
+    "status": "results_found"
+  },
+  {
+    "seller": "ViaTerra Gear",
+    "field": "GST",
+    "query": "ViaTerra Gear GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://viaterragear.com/",
+      "https://viaterragear.com/collections/all",
+      "https://powersports.in/collections/viaterra",
+      "https://motocentral.in/collections/viaterra-gear"
+    ],
+    "timestamp": "2026-08-27T23:01:52.330636",
+    "status": "results_found"
+  },
+  {
+    "seller": "ViaTerra Gear",
+    "field": "GST",
+    "query": "ViaTerra Gear GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/viaterra-gear-27AADCV5752A1ZH/",
+      "https://piceapp.com/gst-number-search/viaterra-gear-27aadcv5752a1zh/",
+      "https://gst.iadv.io/VIATERRA-GEAR-27AADCV5752A1ZH/",
+      "https://www.knowyourgst.com/gst-number-search/viaterra-gear-33AADCV5752A1ZO/"
+    ],
+    "timestamp": "2026-08-27T23:02:03.896583",
+    "status": "results_found"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "GST Number",
+    "value": "27AADCV5752A1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/viaterra-gear-27AADCV5752A1ZH/",
+    "timestamp": "2026-08-27T23:02:04.295703"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "PAN Number",
+    "value": "AADCV5752A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/viaterra-gear-27AADCV5752A1ZH/",
+    "timestamp": "2026-08-27T23:02:04.295712"
+  },
+  {
+    "seller": "ViaTerra Gear",
+    "field": "Owner",
+    "query": "ViaTerra Gear director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://viaterragear.com/pages/our-story",
+      "https://tracxn.com/d/companies/viaterratravelgear/__fFUIsyMBgvB-iblQ9fDiUyanaYjOxOoWosYR09WnoDE",
+      "https://tracxn.com/d/legal-entities/india/viaterra-travel-gear-private-limited/__PBR6zIDqjwqlD2s1GxXiEg41RhwFIzKHY96n9BgPvvI",
+      "https://yourstory.com/people/suki-tatineni"
+    ],
+    "timestamp": "2026-08-27T23:02:07.410834",
+    "status": "results_found"
+  },
+  {
+    "seller": "ViaTerra Gear",
+    "field": "Owner",
+    "query": "ViaTerra Gear founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://viaterragear.com/pages/our-story",
+      "https://viaterragear.com/",
+      "https://tracxn.com/d/companies/viaterratravelgear/__fFUIsyMBgvB-iblQ9fDiUyanaYjOxOoWosYR09WnoDE",
+      "https://yourstory.com/people/suki-tatineni"
+    ],
+    "timestamp": "2026-08-27T23:02:14.053689",
+    "status": "results_found"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/viaterratravelgear/__fFUIsyMBgvB-iblQ9fDiUyanaYjOxOoWosYR09WnoDE",
+    "timestamp": "2026-08-27T23:02:18.135961"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/viaterratravelgear/__fFUIsyMBgvB-iblQ9fDiUyanaYjOxOoWosYR09WnoDE",
+    "timestamp": "2026-08-27T23:02:18.135979"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/viaterratravelgear/__fFUIsyMBgvB-iblQ9fDiUyanaYjOxOoWosYR09WnoDE",
+    "timestamp": "2026-08-27T23:02:18.135985"
+  },
+  {
+    "business": "ViaTerra Gear",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/viaterratravelgear/__fFUIsyMBgvB-iblQ9fDiUyanaYjOxOoWosYR09WnoDE",
+    "timestamp": "2026-08-27T23:02:18.135988"
+  },
+  {
+    "business": "mm customs",
+    "field": "Business Name",
+    "value": "mm customs",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2CJOZECMRV986&asin=B0H7XYTJNP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T23:02:18.935125"
+  },
+  {
+    "seller": "mm customs",
+    "field": "Website",
+    "query": "mm customs official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm"
+    ],
+    "timestamp": "2026-08-27T23:02:20.319798",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "Legal Entity Name",
+    "query": "mm customs company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+      "https://www.unitconverters.net/length/mm-to-inches.htm",
+      "https://www.splashlearn.com/math-vocabulary/measurements/millimeter-mm"
+    ],
+    "timestamp": "2026-08-27T23:02:27.633816",
+    "status": "results_found"
+  },
+  {
+    "business": "mm customs",
+    "field": "Email Address",
+    "value": "info@brighterly.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://brighterly.com/math/mm/",
+    "timestamp": "2026-08-27T23:02:28.044817"
+  },
+  {
+    "business": "mm customs",
+    "field": "Phone Number",
+    "value": "+919792458000",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+    "timestamp": "2026-08-27T23:02:28.812029"
+  },
+  {
+    "seller": "mm customs",
+    "field": "Legal Entity Name",
+    "query": "mm customs Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+      "https://www.unitconverters.net/length/mm-to-inches.htm",
+      "https://www.splashlearn.com/math-vocabulary/measurements/millimeter-mm"
+    ],
+    "timestamp": "2026-08-27T23:02:33.679087",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "PAN",
+    "query": "mm customs PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://customs.gov.mm:2083/",
+      "https://mmcustoms.us/pages/contact"
+    ],
+    "timestamp": "2026-08-27T23:02:38.896867",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "PAN",
+    "query": "mm customs PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+      "https://www.unitconverters.net/length/mm-to-inches.htm",
+      "https://www.splashlearn.com/math-vocabulary/measurements/millimeter-mm"
+    ],
+    "timestamp": "2026-08-27T23:02:49.096506",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "GST",
+    "query": "mm customs GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+      "https://www.unitconverters.net/length/mm-to-inches.htm",
+      "https://www.splashlearn.com/math-vocabulary/measurements/millimeter-mm"
+    ],
+    "timestamp": "2026-08-27T23:02:52.499376",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "GST",
+    "query": "mm customs GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+      "https://www.unitconverters.net/length/mm-to-inches.htm",
+      "https://www.splashlearn.com/math-vocabulary/measurements/millimeter-mm"
+    ],
+    "timestamp": "2026-08-27T23:02:56.100050",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "Owner",
+    "query": "mm customs director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+      "https://www.unitconverters.net/length/mm-to-inches.htm",
+      "https://www.splashlearn.com/math-vocabulary/measurements/millimeter-mm"
+    ],
+    "timestamp": "2026-08-27T23:02:59.603071",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "Owner",
+    "query": "mm customs founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://brighterly.com/math/mm/",
+      "https://www.metric-conversions.org/length/millimeters-conversion.htm",
+      "https://www.unitconverters.net/length/mm-to-inches.htm",
+      "https://www.splashlearn.com/math-vocabulary/measurements/millimeter-mm"
+    ],
+    "timestamp": "2026-08-27T23:03:02.802804",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "Address",
+    "query": "mm customs registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://opengovny.com/corporation/5272938",
+      "https://www.bizprofile.net/ny/brooklyn/mm-customs-nyc-llc",
+      "https://opencorporates.com/companies/us_ny/5272938",
+      "https://mmcustoms.us/pages/contact"
+    ],
+    "timestamp": "2026-08-27T23:03:08.282460",
+    "status": "results_found"
+  },
+  {
+    "seller": "mm customs",
+    "field": "Address",
+    "query": "mm customs registered address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://brighterly.com/math/mm/"
+    ],
+    "timestamp": "2026-08-27T23:03:13.704778",
+    "status": "results_found"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Business Name",
+    "value": "JSAUX IN",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2UNEPI5W13YX9&asin=B0H8CFKPND&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-27T23:03:14.583443"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Website",
+    "query": "JSAUX IN official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://jsaux.shop/",
+      "https://jsauxhq.shop/"
+    ],
+    "timestamp": "2026-08-27T23:03:18.359741",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Legal Entity Name",
+    "query": "JSAUX IN company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://eikaiwa.dmm.com/app/login",
+      "https://eikaiwa.dmm.com/redirect/engoo/",
+      "https://eikaiwa.dmm.com/uknow/questions/3161/",
+      "https://eikaiwa.dmm.com/blog/learning-english/english-usage/any-some/"
+    ],
+    "timestamp": "2026-08-27T23:03:24.614779",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Legal Entity Name",
+    "query": "JSAUX IN Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=ee020c18ddca174b7af56688a93aea48&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+      "https://golegally.com/mca-company-llp-search",
+      "https://www.companyseekers.com/",
+      "https://jaanoindia.in/company-search/"
+    ],
+    "timestamp": "2026-08-27T23:03:33.725240",
+    "status": "results_found"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/ads/private-limited-company-registration?utm_source=bing&campaignId=530229397&utm_medium=ad&utm_content=&utm_term=private%20limited%20registration&utm_adgroup=1357898695889625&network=o&device=c&msclkid=ee020c18ddca174b7af56688a93aea48&utm_source=bing&utm_medium=cpc&utm_campaign=Pvt%20-%20%22Company%20Registration%22%20Keyword%20Bing&utm_term=private%20limited%20registration&utm_content=Private%20Limited%20Co%20-%20Rajesh%20Landing",
+    "timestamp": "2026-08-27T23:03:34.392498"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "PAN",
+    "query": "JSAUX IN PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://translate.google.co.in/",
+      "https://www.google.co.in/intl/en_uk/chrome/index.html",
+      "https://www.google.co.in/inputtools/try/",
+      "https://maps.google.co.in/mapfiles/home3.html"
+    ],
+    "timestamp": "2026-08-27T23:03:37.914732",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "PAN",
+    "query": "JSAUX IN PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://becekku.com/category/bokep-bocil/",
+      "https://lendirqu.xyz/",
+      "https://bokepindi.watch/category/bokep-bocil/",
+      "https://bokeptod.pro/tag/bokep-bocil/"
+    ],
+    "timestamp": "2026-08-27T23:03:42.061406",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "GST",
+    "query": "JSAUX IN GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://itch.io/c/3421798/dimpixel",
+      "https://www.deviantart.com/dimpixelanimations",
+      "https://itch.io/c/5610775/my-favorite-dimpixelanimations",
+      "https://dimpixelanimations.itch.io/birthdeccs2"
+    ],
+    "timestamp": "2026-08-27T23:03:51.892561",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "GST",
+    "query": "JSAUX IN GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.britannica.com/animal/cat",
+      "https://catpedia.net/cat-breed-list/",
+      "https://cats.com/cat-Breeds",
+      "https://www.petfinder.com/search/cats-for-adoption/us/wa/seattle/"
+    ],
+    "timestamp": "2026-08-27T23:03:59.050966",
+    "status": "results_found"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Owner",
+    "query": "JSAUX IN director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.datanyze.com/companies/jsaux/465081047",
+      "https://www.zoominfo.com/c/jsaux/465081047",
+      "https://parsers.vc/startup/jsaux.com/",
+      "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg"
+    ],
+    "timestamp": "2026-08-27T23:04:09.818623",
+    "status": "results_found"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Email Address",
+    "value": "support@parsers.vc",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://parsers.vc/startup/jsaux.com/",
+    "timestamp": "2026-08-27T23:04:13.067218"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg",
+    "timestamp": "2026-08-27T23:04:14.250268"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg",
+    "timestamp": "2026-08-27T23:04:14.250286"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg",
+    "timestamp": "2026-08-27T23:04:14.250290"
+  },
+  {
+    "business": "JSAUX IN",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg",
+    "timestamp": "2026-08-27T23:04:14.250294"
+  },
+  {
+    "seller": "JSAUX IN",
+    "field": "Owner",
+    "query": "JSAUX IN founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.thecompanycheck.com/company/b/jsaux/d264e411f5094a7ab",
+      "https://en.everybodywiki.com/Jsaux",
+      "https://tracxn.com/d/companies/jsaux/__OvC8l-vJV6k79_lKKxQbxtiAPTZlSNFYWgclyR0hBrg",
+      "https://parsers.vc/startup/jsaux.com/"
+    ],
+    "timestamp": "2026-08-27T23:04:18.558790",
+    "status": "results_found"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "Business Name",
+    "value": "FD MALIK TRADERS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A31PLGIEM0ASAY&asin=B0H6V4YTWQ&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T23:04:24.888203"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "Website",
+    "query": "FD MALIK TRADERS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "http://maliktrader.net/",
+      "https://maliktrader.store/"
+    ],
+    "timestamp": "2026-08-27T23:04:28.262611",
+    "status": "results_found"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "Legal Entity Name",
+    "query": "FD MALIK TRADERS company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bizprofile.net/fl/fort-myers/malik-traders-inc",
+      "https://www.dnb.com/business-directory/company-profiles.malik_traders.e352bea52df57fd4a30f22ca95648914.html",
+      "https://www.bizapedia.com/fl/malik-traders-inc.html",
+      "https://find-and-update.company-information.service.gov.uk/company/05348454"
+    ],
+    "timestamp": "2026-08-27T23:04:35.776105",
+    "status": "results_found"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "Legal Entity Name",
+    "query": "FD MALIK TRADERS Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.ilovepdf.com/word_to_pdf",
+      "https://www.ilovepdf.com/id/word-ke-pdf",
+      "https://www.ilovepdf.io/word_to_pdf/"
+    ],
+    "timestamp": "2026-08-27T23:04:41.317375",
+    "status": "results_found"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "PAN",
+    "query": "FD MALIK TRADERS PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gst.iadv.io/MALIK-TRADERS-03FBPPR0487D1ZH/",
+      "https://my.gstzen.in/m/taxpayers/pan/showkat-hussain-malik/ATIPM7077L/"
+    ],
+    "timestamp": "2026-08-27T23:04:46.020610",
+    "status": "results_found"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "GST Number",
+    "value": "03FBPPR0487D1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/MALIK-TRADERS-03FBPPR0487D1ZH/",
+    "timestamp": "2026-08-27T23:04:46.502329"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "PAN Number",
+    "value": "FBPPR0487D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/MALIK-TRADERS-03FBPPR0487D1ZH/",
+    "timestamp": "2026-08-27T23:04:46.502342"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "Owner",
+    "query": "FD MALIK TRADERS director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.malik_traders.9df8ba1142520b54b32d23000d1fd299.html",
+      "https://www.malikstraders.com/management.html",
+      "https://www.bloomberg.com/profile/company/1252133D:US",
+      "https://www.thecompanycheck.com/org/malik-traders/fd79f85955"
+    ],
+    "timestamp": "2026-08-27T23:04:49.512187",
+    "status": "results_found"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "Email Address",
+    "value": "maliks@bom5.vsnl.net.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.malikstraders.com/management.html",
+    "timestamp": "2026-08-27T23:04:51.016719"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "Owner",
+    "query": "FD MALIK TRADERS founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.jeuxvideo.com/forums/42-51-51161064-1-0-1-0-officiel-18-25-page-d-accueil-forum-18-25-1825.htm",
+      "https://www.jeuxvideo.com/forums/42-69-77259824-1-0-1-0-guerre-ukraine-russie-en-crimee-le-doute-est-seme.htm",
+      "https://www.jeuxvideo.com/forums/0-3017788-0-1-0-1-0-playstation-5.htm",
+      "https://www.jeuxvideo.com/forums/42-69-76589348-1-0-1-0-guerre-de-crimee-quand-l-europe-punissait-la-russie.htm"
+    ],
+    "timestamp": "2026-08-27T23:04:53.000937",
+    "status": "results_found"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "Address",
+    "query": "FD MALIK TRADERS registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://apps.apple.com/us/app/youtube/id544007664"
+    ],
+    "timestamp": "2026-08-27T23:04:59.562401",
+    "status": "results_found"
+  },
+  {
+    "seller": "FD MALIK TRADERS",
+    "field": "Address",
+    "query": "FD MALIK TRADERS registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/malik-traders-33acspf4533h1zn/",
+      "https://www.bizprofile.net/fl/fort-myers/malik-traders-inc",
+      "https://maliktraders.in/contact-us/",
+      "https://registry-lookup.com/"
+    ],
+    "timestamp": "2026-08-27T23:05:05.465040",
+    "status": "results_found"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/malik-traders-33acspf4533h1zn/",
+    "timestamp": "2026-08-27T23:05:08.403657"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/malik-traders-33acspf4533h1zn/",
+    "timestamp": "2026-08-27T23:05:08.406849"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/malik-traders-33acspf4533h1zn/",
+    "timestamp": "2026-08-27T23:05:08.406865"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/malik-traders-33acspf4533h1zn/",
+    "timestamp": "2026-08-27T23:05:08.406869"
+  },
+  {
+    "business": "FD MALIK TRADERS",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/malik-traders-33acspf4533h1zn/",
+    "timestamp": "2026-08-27T23:05:08.406873"
+  },
+  {
+    "business": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Business Name",
+    "value": "GURU HARKRISHAN ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JWK47SZMIX4L&asin=B0H8TC9V7C&ref_=dp_merchant_link",
+    "timestamp": "2026-08-27T23:05:08.715843"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Website",
+    "query": "GURU HARKRISHAN ENTERPRISES official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://ghes.org/",
+      "https://www.dnb.com/business-directory/company-profiles.guru_harkrishan_enterprises.5bcdab007e76525029f2c7ca1eb57e27.html"
+    ],
+    "timestamp": "2026-08-27T23:05:11.925043",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "GURU HARKRISHAN ENTERPRISES company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:05:21.675625",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "GURU HARKRISHAN ENTERPRISES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:05:29.391094",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "PAN",
+    "query": "GURU HARKRISHAN ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:05:34.057449",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "PAN",
+    "query": "GURU HARKRISHAN ENTERPRISES PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:05:38.051789",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "GST",
+    "query": "GURU HARKRISHAN ENTERPRISES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:05:42.732938",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "GST",
+    "query": "GURU HARKRISHAN ENTERPRISES GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:05:47.114559",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Owner",
+    "query": "GURU HARKRISHAN ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:05:51.653300",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Owner",
+    "query": "GURU HARKRISHAN ENTERPRISES founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.guru_harkrishan_enterprises.5bcdab007e76525029f2c7ca1eb57e27.html",
+      "https://www.dnb.com/business-directory/company-profiles.guru_harkrishan_enterprises.05104e2a9e5a23e6c9bb395feede8585.html",
+      "https://dhdiscoveryhometheater.tradeindia.com/company-profile.html",
+      "https://about.me/guruharkrishan"
+    ],
+    "timestamp": "2026-08-27T23:05:57.641944",
+    "status": "results_found"
+  },
+  {
+    "business": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Phone Number",
+    "value": "+919810089598",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://dhdiscoveryhometheater.tradeindia.com/company-profile.html",
+    "timestamp": "2026-08-27T23:06:04.011620"
+  },
+  {
+    "business": "GURU HARKRISHAN ENTERPRISES",
+    "field": "GST Number",
+    "value": "07AGFPT5051K1Z3",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://dhdiscoveryhometheater.tradeindia.com/company-profile.html",
+    "timestamp": "2026-08-27T23:06:04.011824"
+  },
+  {
+    "business": "GURU HARKRISHAN ENTERPRISES",
+    "field": "PAN Number",
+    "value": "AGFPT5051K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://dhdiscoveryhometheater.tradeindia.com/company-profile.html",
+    "timestamp": "2026-08-27T23:06:04.011827"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Address",
+    "query": "GURU HARKRISHAN ENTERPRISES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:06:07.265010",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Address",
+    "query": "GURU HARKRISHAN ENTERPRISES registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:06:11.647139",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Email",
+    "query": "GURU HARKRISHAN ENTERPRISES email contact address customer care",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.guru.com/",
+      "https://www.guru.com/login.aspx",
+      "https://www.getguru.com/",
+      "https://govtjobguru.in/"
+    ],
+    "timestamp": "2026-08-27T23:06:16.064467",
+    "status": "results_found"
+  },
+  {
+    "seller": "GURU HARKRISHAN ENTERPRISES",
+    "field": "Email",
+    "query": "GURU HARKRISHAN ENTERPRISES contact email",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.guru.com/"
+    ],
+    "timestamp": "2026-08-27T23:06:20.617234",
+    "status": "results_found"
+  }
+]

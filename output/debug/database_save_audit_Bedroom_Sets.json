@@ -1,0 +1,35 @@
+{
+  "category": "Bedroom Sets",
+  "records_before_save": 6,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1694,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917033547397",
+      "email": "info@bhartiyacalendar.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://us.etrade.com/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "RK Wooden Arts",
+      "database_id": 1695,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919321981806",
+      "email": "support@rkgaming.com",
+      "gst": "27AEOPN1632D1ZM",
+      "pan": "AEOPN1632D",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

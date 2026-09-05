@@ -1,0 +1,61 @@
+{
+  "category": "Pot Pan Sets",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 254,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+912012065294",
+      "email": "info@retailez.co.in",
+      "gst": "27AALCR3173P1ZN",
+      "pan": "Not Found",
+      "website": "https://tracxn.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cuisinart India Official",
+      "database_id": 255,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911180260067",
+      "email": "grievance.officer@flipkart.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "TIGMAAN",
+      "database_id": 256,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+913418202022",
+      "email": "pr@tigmaan.com",
+      "gst": "27AAQFT4977R1ZS",
+      "pan": "Not Found",
+      "website": "https://www.tigmaan.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Pigeon By Stovekraft",
+      "database_id": 257,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910253872025",
+      "email": "customercare@stovekraft.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://stovekraft.com/",
+      "status": "Verified"
+    }
+  ]
+}

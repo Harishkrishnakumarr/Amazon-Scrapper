@@ -1,0 +1,1120 @@
+[
+  {
+    "business": "SIFOZ",
+    "field": "Business Name",
+    "value": "SIFOZ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2JTYC46R1G0EP&asin=B0BDZPWY73&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:49:44.469563"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "Website",
+    "query": "SIFOZ official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://sifoz.in/collections/",
+      "https://sifoz.in/collections/top-products"
+    ],
+    "timestamp": "2026-08-26T18:49:49.075677",
+    "status": "results_found"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "Website URL",
+    "value": "https://www.sifoz.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.sifoz.in/",
+    "timestamp": "2026-08-26T18:49:52.840620"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "Legal Entity Name",
+    "query": "SIFOZ company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/SIFOZ-BIO-ENERGIES-PRIVATE-LIMITED-U43214RJ2026PTC110723",
+      "https://tracxn.com/d/legal-entities/india/sifoz-bio-energies-private-limited/__JoTLRr4Xg1faupuNWLGMasp7E1p3ZX_W2um1qKHvqtQ",
+      "https://buysellprivatelimited.com/company/sifoz-bio-energies-private-limited/U43214RJ2026PTC110723",
+      "https://compfilings.com/company/SIFOZ-BIO-ENERGIES-PRIVATE-LIMITED-U43214RJ2026PTC110723"
+    ],
+    "timestamp": "2026-08-26T18:50:04.089209",
+    "status": "results_found"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "Email Address",
+    "value": "bioenergies@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/SIFOZ-BIO-ENERGIES-PRIVATE-LIMITED-U43214RJ2026PTC110723",
+    "timestamp": "2026-08-26T18:50:05.658091"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "Legal Entity Name",
+    "query": "SIFOZ Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "http://home.mail.nate.com/",
+      "https://mail.nate.com/mail2013.html",
+      "https://www.nate.com/",
+      "https://mail3.nate.com/app_ie8.html"
+    ],
+    "timestamp": "2026-08-26T18:50:10.257309",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "PAN",
+    "query": "SIFOZ PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://foodvietnamese.com/best-food-in-vietnam/",
+      "https://vietnam.travel/things-to-do/21-must-try-vietnamese-dishes",
+      "https://www.tasteatlas.com/best-rated-dishes-in-vietnam",
+      "https://www.asiaodysseytravel.com/vietnam/food.html"
+    ],
+    "timestamp": "2026-08-26T18:50:17.006567",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "PAN",
+    "query": "SIFOZ PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/sifoz-36HFWPS2002N1ZQ/",
+      "https://www.knowyourgst.com/gst-number-search/sifoz-33HFWPS2002N1ZW/",
+      "https://sifoz.in/pages/contact",
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number"
+    ],
+    "timestamp": "2026-08-26T18:50:26.358976",
+    "status": "results_found"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "GST Number",
+    "value": "36HFWPS2002N1ZQ",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sifoz-36HFWPS2002N1ZQ/",
+    "timestamp": "2026-08-26T18:50:26.811710"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "PAN Number",
+    "value": "HFWPS2002N",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/sifoz-36HFWPS2002N1ZQ/",
+    "timestamp": "2026-08-26T18:50:26.811723"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "Owner",
+    "query": "SIFOZ director owner founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.filesure.in/company/sifoz-bio-energies-private-limited/U43214RJ2026PTC110723?tab=about",
+      "https://www.planetexim.net/indian-company/directors/sifoz-bio-energies-private-limited/cin/U43214RJ2026PTC110723.html",
+      "https://piceapp.com/gst-number-search/sifoz-09hfwps2002n1zn/"
+    ],
+    "timestamp": "2026-08-26T18:50:30.655491",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "Owner",
+    "query": "SIFOZ founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.india.com/business/lpg-png-prices-july-11-2026-check-domestic-commercial-cylinder-rates-delhi-kolkata-mumbai-chennai-oil-bharat-petroleum-hindustan-peace-deal-crude-oil-png-donald-trump-petrol-straight-of-hormuz-8470910/",
+      "https://www.india.com/news/india/maharashtra-imd-weather-update-mumbai-rains-thunderstorm-palghar-thane-raigad-ratnagiri-dhule-nandurbar-jalgaon-ahilyanagar-8480354/",
+      "https://www.india.com/travel/mumbai/",
+      "https://www.india.com/news/india/maharashtra-monsoon-rains-thunderstorm-imd-weather-update-bmc-flood-mumbai-thane-pune-nagpur-satara-ratnagiri-raigad-nashik-8465698/"
+    ],
+    "timestamp": "2026-08-26T18:50:37.060908",
+    "status": "results_found"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "Phone Number",
+    "value": "+919819375136",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.india.com/travel/mumbai/",
+    "timestamp": "2026-08-26T18:50:42.203230"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "Address",
+    "query": "SIFOZ registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/2087-hyper-v-virtualization-setup-use-windows-10-a.html"
+    ],
+    "timestamp": "2026-08-26T18:50:45.840205",
+    "status": "results_found"
+  },
+  {
+    "seller": "SIFOZ",
+    "field": "Address",
+    "query": "SIFOZ registered address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/sifoz-bio-energies-private-limited/__JoTLRr4Xg1faupuNWLGMasp7E1p3ZX_W2um1qKHvqtQ",
+      "https://www.falconebiz.com/company/SIFOZ-BIO-ENERGIES-PRIVATE-LIMITED-U43214RJ2026PTC110723",
+      "https://buysellprivatelimited.com/company/sifoz-bio-energies-private-limited/U43214RJ2026PTC110723",
+      "https://compfilings.com/company/SIFOZ-BIO-ENERGIES-PRIVATE-LIMITED-U43214RJ2026PTC110723"
+    ],
+    "timestamp": "2026-08-26T18:50:51.379212",
+    "status": "results_found"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sifoz-bio-energies-private-limited/__JoTLRr4Xg1faupuNWLGMasp7E1p3ZX_W2um1qKHvqtQ",
+    "timestamp": "2026-08-26T18:50:51.927466"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sifoz-bio-energies-private-limited/__JoTLRr4Xg1faupuNWLGMasp7E1p3ZX_W2um1qKHvqtQ",
+    "timestamp": "2026-08-26T18:50:51.927482"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sifoz-bio-energies-private-limited/__JoTLRr4Xg1faupuNWLGMasp7E1p3ZX_W2um1qKHvqtQ",
+    "timestamp": "2026-08-26T18:50:51.927487"
+  },
+  {
+    "business": "SIFOZ",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/sifoz-bio-energies-private-limited/__JoTLRr4Xg1faupuNWLGMasp7E1p3ZX_W2um1qKHvqtQ",
+    "timestamp": "2026-08-26T18:50:51.927492"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "Business Name",
+    "value": "ZCARE.PHARMA",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3BCN8SOAIADG3&asin=B0BR9WCK3R&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:50:52.550732"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "Website",
+    "query": "ZCARE.PHARMA official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://thesmartcanine.com/fun-dog-facts/",
+      "https://www.dogster.com/lifestyle/fun-dog-facts/"
+    ],
+    "timestamp": "2026-08-26T18:50:54.016040",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "Legal Entity Name",
+    "query": "ZCARE.PHARMA company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://expert-coffee-times.com/tullys-free-customization-order-guide/",
+      "https://shachirin.com/column/2026/01/14/tullys-custom-drink-guide/"
+    ],
+    "timestamp": "2026-08-26T18:50:57.669045",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "Legal Entity Name",
+    "query": "ZCARE.PHARMA Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T18:51:46.306155",
+    "status": "no_results"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "PAN",
+    "query": "ZCARE.PHARMA PAN card number",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://novelai.net/"
+    ],
+    "timestamp": "2026-08-26T18:51:48.206640",
+    "status": "results_found"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "PAN",
+    "query": "ZCARE.PHARMA PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://supremetoday.ai/issue/amending-plaint-for-subsequent-events-cpc-order-vi-rule-17",
+      "https://www.scribd.com/document/532488609/Amendment-of-Pleadings",
+      "https://supremetoday.ai/search/subsequent-events-plaint-amendment-bar",
+      "https://www.casemine.com/search/in/subsequent+events+and+amendment+of+plaint"
+    ],
+    "timestamp": "2026-08-26T18:51:51.689514",
+    "status": "results_found"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "Email Address",
+    "value": "info@supremetoday.ai",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://supremetoday.ai/issue/amending-plaint-for-subsequent-events-cpc-order-vi-rule-17",
+    "timestamp": "2026-08-26T18:51:52.613540"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "Phone Number",
+    "value": "+919453048988",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.scribd.com/document/532488609/Amendment-of-Pleadings",
+    "timestamp": "2026-08-26T18:51:59.370659"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "GST",
+    "query": "ZCARE.PHARMA GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/zcare-pharma-private-limited-29AAACZ7463K1ZN/",
+      "https://gst.unifers.ai/gst/09AAACZ7463K1ZP/zcare-pharma-private-limited",
+      "https://www.knowyourgst.com/gst-number-search/zcare-pharma-private-limited-19AAACZ7463K1ZO/",
+      "https://www.mastersindia.co/gst-search/?name=zcare-pharma-private-limited&gstin=27AAACZ7463K1ZR"
+    ],
+    "timestamp": "2026-08-26T18:52:08.356178",
+    "status": "results_found"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "GST Number",
+    "value": "29AAACZ7463K1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/zcare-pharma-private-limited-29AAACZ7463K1ZN/",
+    "timestamp": "2026-08-26T18:52:09.393931"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "PAN Number",
+    "value": "AAACZ7463K",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/zcare-pharma-private-limited-29AAACZ7463K1ZN/",
+    "timestamp": "2026-08-26T18:52:09.393940"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "Owner",
+    "query": "ZCARE.PHARMA director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/zcare-pharma-private-limited",
+      "https://www.thecompanycheck.com/company/zcare-pharma-private-limited/U51900UP2013PTC061604",
+      "https://www.zoominfo.com/c/zcare-pharma/369309155",
+      "https://tracxn.com/d/legal-entities/india/zcare-pharma-private-limited/__1ptdJNJmv1gb631jqFW9DI_G0gbv_e3dcsg2k517L4s"
+    ],
+    "timestamp": "2026-08-26T18:52:13.717471",
+    "status": "results_found"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/zcare-pharma-private-limited/__1ptdJNJmv1gb631jqFW9DI_G0gbv_e3dcsg2k517L4s",
+    "timestamp": "2026-08-26T18:52:23.962794"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/zcare-pharma-private-limited/__1ptdJNJmv1gb631jqFW9DI_G0gbv_e3dcsg2k517L4s",
+    "timestamp": "2026-08-26T18:52:23.962808"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/zcare-pharma-private-limited/__1ptdJNJmv1gb631jqFW9DI_G0gbv_e3dcsg2k517L4s",
+    "timestamp": "2026-08-26T18:52:23.962812"
+  },
+  {
+    "business": "ZCARE.PHARMA",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/zcare-pharma-private-limited/__1ptdJNJmv1gb631jqFW9DI_G0gbv_e3dcsg2k517L4s",
+    "timestamp": "2026-08-26T18:52:23.962815"
+  },
+  {
+    "seller": "ZCARE.PHARMA",
+    "field": "Owner",
+    "query": "ZCARE.PHARMA founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.companydetails.in/company/zcare-pharma-private-limited",
+      "https://tracxn.com/d/legal-entities/india/zcare-pharma-private-limited/__1ptdJNJmv1gb631jqFW9DI_G0gbv_e3dcsg2k517L4s",
+      "https://www.dnb.com/business-directory/company-profiles.zcare_pharma_private_limited.f4187bb269d26df80fbcd67cd82ee77a.html"
+    ],
+    "timestamp": "2026-08-26T18:52:27.364817",
+    "status": "results_found"
+  },
+  {
+    "business": "VENGANZA TRADING PVT LTD",
+    "field": "Business Name",
+    "value": "VENGANZA TRADING PVT LTD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39T65DOC0BGJX&asin=B0DPKX5RN4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:52:27.773956"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "Website",
+    "query": "VENGANZA TRADING PVT LTD official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://bizroad-svc.com/blog/bingai/"
+    ],
+    "timestamp": "2026-08-26T18:52:29.744051",
+    "status": "results_found"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "Legal Entity Name",
+    "query": "VENGANZA TRADING PVT LTD company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://shopee.ph/list/trash%20bin",
+      "https://shopee.ph/list/trash%20bin%20with%20wheels",
+      "https://shopee.ph/search?keyword=trash%20bag"
+    ],
+    "timestamp": "2026-08-26T18:52:38.821723",
+    "status": "results_found"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "Legal Entity Name",
+    "query": "VENGANZA TRADING PVT LTD Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/VENGANZA-TRADING-PRIVATE-LIMITED-U47219DL2021PTC387459",
+      "https://www.falconebiz.com/company/venganza-trading-private-limited-u51909dl2021ptc387459",
+      "https://www.indiafilings.com/search/venganza-trading-private-limited-cin-U51909DL2021PTC387459",
+      "https://www.companydetails.in/company/venganza-trading-private-limited"
+    ],
+    "timestamp": "2026-08-26T18:52:43.956018",
+    "status": "results_found"
+  },
+  {
+    "business": "VENGANZA TRADING PVT LTD",
+    "field": "Email Address",
+    "value": "asharmaroc@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/VENGANZA-TRADING-PRIVATE-LIMITED-U47219DL2021PTC387459",
+    "timestamp": "2026-08-26T18:52:45.090931"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "PAN",
+    "query": "VENGANZA TRADING PVT LTD PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-26T18:53:02.331495",
+    "status": "results_found"
+  },
+  {
+    "business": "VENGANZA TRADING PVT LTD",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-26T18:53:03.094006"
+  },
+  {
+    "business": "VENGANZA TRADING PVT LTD",
+    "field": "GST Number",
+    "value": "27AABCR1234F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-26T18:53:03.094721"
+  },
+  {
+    "business": "VENGANZA TRADING PVT LTD",
+    "field": "PAN Number",
+    "value": "AABCR1234F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/post/how-to-check-company-pan-number",
+    "timestamp": "2026-08-26T18:53:03.094735"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "Owner",
+    "query": "VENGANZA TRADING PVT LTD director owner founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.falconebiz.com/company/VENGANZA-TRADING-PRIVATE-LIMITED-U47219DL2021PTC387459",
+      "https://www.falconebiz.com/company/venganza-trading-private-limited-u51909dl2021ptc387459",
+      "https://www.companydetails.in/Director/venganza-trading-private-limited/U51909DL2021PTC387459",
+      "https://mycorporateinfo.com/director/anshu-gupta-9341168"
+    ],
+    "timestamp": "2026-08-26T18:53:08.195018",
+    "status": "results_found"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "Owner",
+    "query": "VENGANZA TRADING PVT LTD founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.dnb.com/en-us/",
+      "https://www.dnb.com/en-us/smb/duns/duns-lookup.html"
+    ],
+    "timestamp": "2026-08-26T18:53:13.213039",
+    "status": "results_found"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "Address",
+    "query": "VENGANZA TRADING PVT LTD registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://govonestop.com/nws/iowa-moderate-special-weather-statement-effective-08232026-0259",
+      "https://govonestop.com/nws/iowa-nebraska-moderate-dense-fog-advisory-effective-08252026-2333",
+      "https://www.weather.gov/dmx/",
+      "https://preview.weather.gov/dmx/"
+    ],
+    "timestamp": "2026-08-26T18:53:17.815305",
+    "status": "results_found"
+  },
+  {
+    "seller": "VENGANZA TRADING PVT LTD",
+    "field": "Address",
+    "query": "VENGANZA TRADING PVT LTD registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.hancomtaja.com/ko",
+      "https://www.hancom.com/service/taja",
+      "https://tt.hancomtaja.com/ko/",
+      "https://www.hancomtaja.com/ko/game"
+    ],
+    "timestamp": "2026-08-26T18:53:28.721062",
+    "status": "results_found"
+  },
+  {
+    "business": "Bharat Retails\u00ae",
+    "field": "Business Name",
+    "value": "Bharat Retails\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A327CGC7CSUP0N&asin=B0DK7PK6DH&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T18:53:36.961063"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "Website",
+    "query": "Bharat Retails\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://queens-boat.com/race/kojima/score-rate/",
+      "https://queens-boat.com/race/score-rate/"
+    ],
+    "timestamp": "2026-08-26T18:53:38.806874",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Bharat Retails\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.positivityblog.com/quote-of-the-day/",
+      "https://www.brainyquote.com/quote_of_the_day",
+      "https://quotesoftheday.org/",
+      "https://wisdomquotes.com/quote-of-the-day/"
+    ],
+    "timestamp": "2026-08-26T18:54:13.001294",
+    "status": "results_found"
+  },
+  {
+    "business": "Bharat Retails\u00ae",
+    "field": "Email Address",
+    "value": "maxime@wisdomquotes.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://wisdomquotes.com/quote-of-the-day/",
+    "timestamp": "2026-08-26T18:54:23.904764"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "Legal Entity Name",
+    "query": "Bharat Retails\u00ae Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T18:54:32.019802",
+    "status": "no_results"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "PAN",
+    "query": "Bharat Retails\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://mediabytesph.com/national/habagat-brings-luzon-rains-while-visayas-and-mindanao-see-fair-weather/",
+      "https://newsinfo.inquirer.net/2289756/habagat-to-bring-rains-in-parts-of-luzon-fair-weather-over-visayas-mindanao-on-saturday",
+      "https://cebudailynews.inquirer.net/759617/habagat-to-bring-rains-over-luzon-fair-weather-seen-in-visayas-mindanao",
+      "https://www.gmanetwork.com/news/weather/content/999851/luzon-western-visayas-to-see-rains-as-habagat-prevails/story/"
+    ],
+    "timestamp": "2026-08-26T18:54:33.221583",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "GST",
+    "query": "Bharat Retails\u00ae GSTIN registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.avvo.com/legal-answers/i-received-a-email-is-this-scam-or-not--1785098.html"
+    ],
+    "timestamp": "2026-08-26T18:54:53.311127",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "GST",
+    "query": "Bharat Retails\u00ae GST number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/bharat-retails-01AAIFB3898B1ZR/",
+      "https://gstverify.co.in/search/",
+      "https://www.falconebiz.com/company/BHARAT-RETAILS-PRIVATE-LIMITED-U51909UP2018PTC099829",
+      "https://www.knowyourgst.com/gst-number-search/tesori-bharat-retails-private-limited-08AAKCT3102H1ZI/"
+    ],
+    "timestamp": "2026-08-26T18:55:03.470071",
+    "status": "results_found"
+  },
+  {
+    "business": "Bharat Retails\u00ae",
+    "field": "GST Number",
+    "value": "01AAIFB3898B1ZR",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/bharat-retails-01AAIFB3898B1ZR/",
+    "timestamp": "2026-08-26T18:55:03.995411"
+  },
+  {
+    "business": "Bharat Retails\u00ae",
+    "field": "PAN Number",
+    "value": "AAIFB3898B",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/bharat-retails-01AAIFB3898B1ZR/",
+    "timestamp": "2026-08-26T18:55:03.995430"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "Owner",
+    "query": "Bharat Retails\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://poki.com/?msockid=34949a69d564681a07458da8d4ae6934",
+      "https://poki.com/en/popular?msockid=34949a69d564681a07458da8d4ae6934",
+      "https://poki.homes/category/casual",
+      "https://poki.to/poki"
+    ],
+    "timestamp": "2026-08-26T18:55:05.722909",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "Owner",
+    "query": "Bharat Retails\u00ae founder",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.companydetails.in/company/bharat-retails-private-limited",
+      "https://mycorporateinfo.com/business/bharat-retails-private-limited",
+      "https://www.falconebiz.com/company/BHARAT-RETAILS-PRIVATE-LIMITED-U51909UP2018PTC099829"
+    ],
+    "timestamp": "2026-08-26T18:55:14.053152",
+    "status": "results_found"
+  },
+  {
+    "seller": "Bharat Retails\u00ae",
+    "field": "Address",
+    "query": "Bharat Retails\u00ae registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://mycorporateinfo.com/business/bharat-retails-private-limited",
+      "https://www.companydetails.in/company/bharat-retails-private-limited",
+      "https://www.indiafilings.com/search/bharat-retails-private-limited-cin-U51909UP2018PTC099829",
+      "https://www.falconebiz.com/company/BHARAT-RETAILS-PRIVATE-LIMITED-U51909UP2018PTC099829"
+    ],
+    "timestamp": "2026-08-26T18:55:23.473714",
+    "status": "results_found"
+  },
+  {
+    "business": "GROWTOP BHARAT",
+    "field": "Business Name",
+    "value": "GROWTOP BHARAT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AY149KA2I5LGF&asin=B0D1KPD6TY&ref_=dp_merchant_link",
+    "timestamp": "2026-08-26T18:56:02.966334"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "Website",
+    "query": "GROWTOP BHARAT official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.tvguide.com/tvshows/you/1000222158/",
+      "https://watch.plex.tv/show/you"
+    ],
+    "timestamp": "2026-08-26T18:56:05.187082",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "Legal Entity Name",
+    "query": "GROWTOP BHARAT company registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.mobexer.com/bird-ride-electric/co.bird.android"
+    ],
+    "timestamp": "2026-08-26T18:56:13.209684",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "Legal Entity Name",
+    "query": "GROWTOP BHARAT Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.inspex.in/",
+      "https://www.indiafilings.com/company-registration",
+      "https://zauba.company/",
+      "https://www.legalwiz.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-08-26T18:56:17.350754",
+    "status": "results_found"
+  },
+  {
+    "business": "GROWTOP BHARAT",
+    "field": "Phone Number",
+    "value": "+918427269387",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-26T18:56:17.827523"
+  },
+  {
+    "business": "GROWTOP BHARAT",
+    "field": "Email Address",
+    "value": "support@inspex.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.inspex.in/",
+    "timestamp": "2026-08-26T18:56:17.827637"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "PAN",
+    "query": "GROWTOP BHARAT PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://web.whatsapp.com/",
+      "https://www.whatsapp.com/download",
+      "https://www.whatsapp.com/",
+      "https://wa.me/?text=Login"
+    ],
+    "timestamp": "2026-08-26T18:56:23.773847",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "PAN",
+    "query": "GROWTOP BHARAT PAN number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://growtop.in/contact/"
+    ],
+    "timestamp": "2026-08-26T18:56:34.157642",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "GST",
+    "query": "GROWTOP BHARAT GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.justanswer.com/email/t9z3a-outlook-login-authenticator-app-failure.html?msockid=34949a69d564681a07458da8d4ae6934",
+      "https://www.justanswer.com/email/ta4fz-outlook-account-blocked-after-failed-logins.html?msockid=34949a69d564681a07458da8d4ae6934",
+      "https://www.justanswer.com/microsoft-office/ujcae-outlook-login-error-after-reinstall-windows11.html?msockid=34949a69d564681a07458da8d4ae6934",
+      "https://www.justanswer.com/microsoft-office/sxmld-cannot-log-outlook-hacked-no-passwords.html?msockid=34949a69d564681a07458da8d4ae6934"
+    ],
+    "timestamp": "2026-08-26T18:56:37.989949",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "GST",
+    "query": "GROWTOP BHARAT GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.servicenow.com/",
+      "https://learning.servicenow.com/now/lxp/home"
+    ],
+    "timestamp": "2026-08-26T18:56:40.458882",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "Owner",
+    "query": "GROWTOP BHARAT director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.nhl.com/scores",
+      "https://www.nhl.com/",
+      "https://www.espn.com/nhl/scoreboard",
+      "https://www.cbssports.com/nhl/scoreboard/"
+    ],
+    "timestamp": "2026-08-26T18:56:49.059564",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "Owner",
+    "query": "GROWTOP BHARAT founder",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-26T18:56:54.367334",
+    "status": "no_results"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "Address",
+    "query": "GROWTOP BHARAT registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://growtop.in/contact/",
+      "https://growtop.in/about/",
+      "https://www.sellerratings.com/amazon/india/growtop-bharat",
+      "https://growtop.net/contact"
+    ],
+    "timestamp": "2026-08-26T18:56:57.849430",
+    "status": "results_found"
+  },
+  {
+    "seller": "GROWTOP BHARAT",
+    "field": "Address",
+    "query": "GROWTOP BHARAT registered address",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fao.org/world-bee-day/en/",
+      "https://www.worldanimalprotection.org/our-campaigns/sentience/animal-awareness-days/world-bee-day/"
+    ],
+    "timestamp": "2026-08-26T18:57:06.049895",
+    "status": "results_found"
+  },
+  {
+    "business": "TATA 1MG",
+    "field": "Business Name",
+    "value": "TATA 1MG",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A397WLD5JAEYSG&asin=B0BR1H9VLM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T18:57:10.609234"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Website",
+    "query": "TATA 1MG official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.1mg.com/",
+      "https://1mgtata.com/"
+    ],
+    "timestamp": "2026-08-26T18:57:12.340458",
+    "status": "results_found"
+  },
+  {
+    "business": "TATA 1MG",
+    "field": "Website URL",
+    "value": "https://www.tata1mg.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.tata1mg.com/",
+    "timestamp": "2026-08-26T18:57:13.257537"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Legal Entity Name",
+    "query": "TATA 1MG company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:57:20.304710",
+    "status": "results_found"
+  },
+  {
+    "business": "TATA 1MG",
+    "field": "Phone Number",
+    "value": "+918002098282",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://cars.tatamotors.com/",
+    "timestamp": "2026-08-26T18:57:22.052090"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Legal Entity Name",
+    "query": "TATA 1MG Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/"
+    ],
+    "timestamp": "2026-08-26T18:57:30.816614",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "PAN",
+    "query": "TATA 1MG PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:57:35.720554",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "PAN",
+    "query": "TATA 1MG PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:57:45.548088",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "GST",
+    "query": "TATA 1MG GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/tata-1mg-technologies-private-limited-06AAACZ8318D1ZE/",
+      "https://gst.jamku.app/gstin/06AAACZ8318D1ZE",
+      "https://piceapp.com/gst-number-search/tata-1mg-technologies-private-limited-06aaacz8318d2zd/",
+      "https://piceapp.com/gst-number-search/tata-1mg-technologies-private-limited-06aaacz8318d1ze/"
+    ],
+    "timestamp": "2026-08-26T18:57:55.785133",
+    "status": "results_found"
+  },
+  {
+    "business": "TATA 1MG",
+    "field": "GST Number",
+    "value": "06AAACZ8318D1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/tata-1mg-technologies-private-limited-06AAACZ8318D1ZE/",
+    "timestamp": "2026-08-26T18:57:56.118740"
+  },
+  {
+    "business": "TATA 1MG",
+    "field": "PAN Number",
+    "value": "AAACZ8318D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/tata-1mg-technologies-private-limited-06AAACZ8318D1ZE/",
+    "timestamp": "2026-08-26T18:57:56.118754"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Owner",
+    "query": "TATA 1MG director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:57:57.371868",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Owner",
+    "query": "TATA 1MG founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:58:04.575661",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Address",
+    "query": "TATA 1MG registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:58:12.271031",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Address",
+    "query": "TATA 1MG registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:58:19.825352",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Email",
+    "query": "TATA 1MG email contact address customer care",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/"
+    ],
+    "timestamp": "2026-08-26T18:58:27.932449",
+    "status": "results_found"
+  },
+  {
+    "seller": "TATA 1MG",
+    "field": "Email",
+    "query": "TATA 1MG contact email",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://cars.tatamotors.com/",
+      "https://www.tata.com/",
+      "https://www.tatamotors.com/",
+      "https://www.carwale.com/TATA-Cars/"
+    ],
+    "timestamp": "2026-08-26T18:58:32.840761",
+    "status": "results_found"
+  }
+]

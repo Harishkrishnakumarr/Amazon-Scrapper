@@ -1,0 +1,605 @@
+[
+  {
+    "business": "Prosharx",
+    "field": "Business Name",
+    "value": "Prosharx",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A39OOX0GREWNRN&asin=B0D4HZ615R&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T09:34:43.895523"
+  },
+  {
+    "seller": "Prosharx",
+    "field": "Website",
+    "query": "Prosharx official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://prosharx.com/",
+      "https://prosharx.com/collections/shorts"
+    ],
+    "timestamp": "2026-08-25T09:34:46.054280",
+    "status": "results_found"
+  },
+  {
+    "business": "Prosharx",
+    "field": "Website URL",
+    "value": "https://www.prosharx.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.prosharx.com/",
+    "timestamp": "2026-08-25T09:34:52.383004"
+  },
+  {
+    "business": "Prosharx",
+    "field": "Phone Number",
+    "value": "+919900149000",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.prosharx.com/",
+    "timestamp": "2026-08-25T09:34:55.019468"
+  },
+  {
+    "seller": "Prosharx",
+    "field": "Legal Entity Name",
+    "query": "Prosharx company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://prosharx.com/",
+      "https://prosharx.com/collections/shorts",
+      "https://prosharx.com/collections/all-products",
+      "https://prosharx.com/collections/all"
+    ],
+    "timestamp": "2026-08-25T09:35:07.094371",
+    "status": "results_found"
+  },
+  {
+    "seller": "Prosharx",
+    "field": "Legal Entity Name",
+    "query": "Prosharx Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://prosharx.com/",
+      "https://prosharx.com/collections/shorts",
+      "https://prosharx.com/collections/all-products",
+      "https://prosharx.com/collections/all"
+    ],
+    "timestamp": "2026-08-25T09:35:20.502405",
+    "status": "results_found"
+  },
+  {
+    "seller": "Prosharx",
+    "field": "PAN",
+    "query": "Prosharx PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://prosharx.com/",
+      "https://prosharx.com/collections/shorts",
+      "https://prosharx.com/collections/all-products"
+    ],
+    "timestamp": "2026-08-25T09:35:42.575135",
+    "status": "results_found"
+  },
+  {
+    "seller": "Prosharx",
+    "field": "PAN",
+    "query": "Prosharx PAN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://prosharx.com/",
+      "https://prosharx.com/collections/shorts",
+      "https://prosharx.com/collections/all-products",
+      "https://prosharx.com/collections/all"
+    ],
+    "timestamp": "2026-08-25T09:35:54.213024",
+    "status": "results_found"
+  },
+  {
+    "seller": "Prosharx",
+    "field": "GST",
+    "query": "Prosharx GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://prosharx.com/",
+      "https://prosharx.com/collections/shorts",
+      "https://prosharx.com/collections/all-products",
+      "https://prosharx.com/collections/all"
+    ],
+    "timestamp": "2026-08-25T09:36:08.308923",
+    "status": "results_found"
+  },
+  {
+    "seller": "Prosharx",
+    "field": "Owner",
+    "query": "Prosharx director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://prosharx.com/",
+      "https://prosharx.com/collections/shorts",
+      "https://prosharx.com/collections/all-products",
+      "https://prosharx.com/collections/all"
+    ],
+    "timestamp": "2026-08-25T09:36:32.946424",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0F3G1LF7H&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T09:36:44.891290"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://caselaw.findlaw.com/court/la-court-of-appeal/1240290.html",
+      "https://www.mercurynews.com/2022/08/25/convicted-at-17-prisoner-exonerated-of-rape-at-53/"
+    ],
+    "timestamp": "2026-08-25T09:36:47.160403",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.office.com/login",
+      "https://signup.live.com/"
+    ],
+    "timestamp": "2026-08-25T09:37:09.898194",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tiktok.com/es-419/",
+      "https://www.tiktok.com/",
+      "https://business.tiktok.com/",
+      "https://support.tiktok.com/en/using-tiktok/exploring-videos/tiktok-lite-app",
+      "https://seller-ph.tiktok.com/?msockid=24d73e941c5d690c0a8f29541d1c6857"
+    ],
+    "timestamp": "2026-08-25T09:37:27.964777",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM"
+    ],
+    "timestamp": "2026-08-25T09:37:33.027958",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-09aalcr3173p1zl/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/",
+      "https://gst.jamku.app/gstin/06AALCR3173P1ZR"
+    ],
+    "timestamp": "2026-08-25T09:37:54.613461",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "27AALCR3173P1ZN",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+    "timestamp": "2026-08-25T09:37:55.316076"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://7plus.com.au/",
+      "https://7plus.com.au/live-tv?channel-id=Seven",
+      "https://7news.com.au/",
+      "https://www.7now.com.au/",
+      "https://7plus.app.link/Stream-Channel7"
+    ],
+    "timestamp": "2026-08-25T09:37:56.877787",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.reddit.com/r/googlefiber/comments/bjawcp/getting_some_pretty_slow_internet_speeds_with/",
+      "https://www.reddit.com/r/googlefiber/comments/10ppx5f/new_google_fiber_account_experiencing_packet_loss/",
+      "https://www.reddit.com/r/googlefiber/comments/16c3ant/google_fiber_1gb_only_outputting_100mbps_over_wifi/",
+      "https://www.reddit.com/r/googlefiber/"
+    ],
+    "timestamp": "2026-08-25T09:38:20.714122",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "RetailEZ Pvt Ltd registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.naver.com/",
+      "https://naverapp.m.naver.com/",
+      "https://map.naver.com/p/",
+      "https://land.naver.com/",
+      "https://form.naver.com/"
+    ],
+    "timestamp": "2026-08-25T09:38:33.725288",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "RetailEZ Pvt Ltd phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/",
+      "https://retailez.co.in/e-waste-management/"
+    ],
+    "timestamp": "2026-08-25T09:38:41.452650",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+915600012023",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://retailez.co.in/",
+    "timestamp": "2026-08-25T09:38:44.612433"
+  },
+  {
+    "business": "Anugrah Mart",
+    "field": "Business Name",
+    "value": "Anugrah Mart",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AVXWRIOLOZWVZ&asin=B089161XT9&ref_=dp_merchant_link",
+    "timestamp": "2026-08-25T09:38:45.831556"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "Website",
+    "query": "Anugrah Mart official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://courtcasefinder.com/warrant-records",
+      "https://www.prisonlegalnews.org/news/2024/aug/15/nevada-doc-under-fire-hiring-unlicensed-medical-director/"
+    ],
+    "timestamp": "2026-08-25T09:38:47.865248",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "Legal Entity Name",
+    "query": "Anugrah Mart company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/anugrah-mart-24dzipk6702d1zm/",
+      "https://www.knowyourgst.com/gst-number-search/anugrah-mart-24DZIPK6702D1ZM/",
+      "https://www.companyvakil.com/trademarksearch/ANUGRAH-LABEL/94743",
+      "https://www.permitindo.com/legal-services/company-registry",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx"
+    ],
+    "timestamp": "2026-08-25T09:39:02.259412",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "PAN",
+    "query": "Anugrah Mart PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pcl.uscourts.gov/pcl/pages/search/results/cases.jsf",
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/courthouses/la/",
+      "https://court-records.org/louisiana-court-records/",
+      "https://www.open-public-records.com/louisiana"
+    ],
+    "timestamp": "2026-08-25T09:39:22.113966",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "GST",
+    "query": "Anugrah Mart GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://forum.lowyat.net/topic/5538738",
+      "https://forum.lowyat.net/topic/5556445",
+      "https://forum.lowyat.net/topic/5556449",
+      "https://forum.lowyat.net/topic/5565190",
+      "https://forum.lowyat.net/topic/5519991"
+    ],
+    "timestamp": "2026-08-25T09:39:41.555111",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "GST",
+    "query": "Anugrah Mart GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://jingyan.baidu.com/article/aa6a2c14eb59090d4c19c495.html",
+      "https://zhidao.baidu.com/question/1459566910964029140.html",
+      "https://www.zhihu.com/question/474766109",
+      "https://zhidao.baidu.com/question/2151888186428325908.html",
+      "https://jingyan.baidu.com/article/a681b0de1bc21b3b19434660.html"
+    ],
+    "timestamp": "2026-08-25T09:39:50.483998",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "Owner",
+    "query": "Anugrah Mart director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/OutOfTheLoop/comments/wr1uyf/whats_going_on_with_wikipedia_asking_for/",
+      "https://www.reddit.com/r/wikipedians/",
+      "https://www.reddit.com/r/Annas_Archive/comments/14f0b9a/official_annas_archive_links/",
+      "https://www.reddit.com/r/wikipedia/comments/88wwh/deleted_wikipedia_articles_with_freaky_titles/",
+      "https://www.reddit.com/r/libgen/"
+    ],
+    "timestamp": "2026-08-25T09:40:08.767501",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "Owner",
+    "query": "Anugrah Mart managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jeuxvideo.com/jeux/xbox-360/00021805-50-cent-blood-on-the-sand.htm",
+      "https://www.zhihu.com/question/48781503",
+      "https://www.jeuxvideo.com/jeux/playstation-2-ps2/00014163-50-cent-bulletproof.htm",
+      "https://www.zhihu.com/question/584162231",
+      "https://www.jeuxvideo.com/articles/0000/00006322_test.htm"
+    ],
+    "timestamp": "2026-08-25T09:40:23.930283",
+    "status": "results_found"
+  },
+  {
+    "seller": "Anugrah Mart",
+    "field": "Address",
+    "query": "Anugrah Mart registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/29563273",
+      "https://www.zhihu.com/question/27730347",
+      "https://forum.macmagazine.com.br/topic/43939-problema-na-ativa%C3%A7%C3%A3o-do-imessage/",
+      "https://www.zhihu.com/question/27524361",
+      "https://www.zhihu.com/question/33211056"
+    ],
+    "timestamp": "2026-08-25T09:40:28.326381",
+    "status": "results_found"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "Business Name",
+    "value": "A.P. ENTERPRISES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AKUYA9TL48E5J&asin=B0DKBKG2PD&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-25T09:40:48.945513"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Website",
+    "query": "A.P. ENTERPRISES official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://chambredessecrets.com/fan/archives/63744",
+      "https://girlscreation.wikiru.jp/"
+    ],
+    "timestamp": "2026-08-25T09:40:52.114657",
+    "status": "results_found"
+  },
+  {
+    "business": "A.P. ENTERPRISES",
+    "field": "Website URL",
+    "value": "https://www.apenterprises.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.apenterprises.com/",
+    "timestamp": "2026-08-25T09:40:53.018232"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "A.P. ENTERPRISES company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.britannica.com/place/ancient-Greece",
+      "https://www.britannica.com/place/ancient-Greece/The-Athenian-empire",
+      "https://completeera.com/lifespan-in-ancient-greece-how-long-did-people-really-live/",
+      "https://historygreek.org/settlements/athens",
+      "https://greekreporter.com/2026/02/25/life-expectancy-ancient-greeks/"
+    ],
+    "timestamp": "2026-08-25T09:40:58.697859",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Legal Entity Name",
+    "query": "A.P. ENTERPRISES Private Limited registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.gmail.com/app",
+      "https://www.gmail.co.za/web/login"
+    ],
+    "timestamp": "2026-08-25T09:41:13.583534",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "PAN",
+    "query": "A.P. ENTERPRISES PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/41295607",
+      "https://www.zhihu.com/question/43552600",
+      "https://www.zhihu.com/question/433441825",
+      "https://www.zhihu.com/question/21443475",
+      "https://www.zhihu.com/question/289591906"
+    ],
+    "timestamp": "2026-08-25T09:41:21.506757",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "GST",
+    "query": "A.P. ENTERPRISES GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://translate.google.co.kr/",
+      "https://www.google.co.kr/index.html",
+      "https://trends.google.co.kr/trends/",
+      "https://www.google.co.kr/intl/en_uk/chrome/",
+      "https://ageverification.google.co.kr/ageverification?hl=ko&prev=google.com/search&cl=0"
+    ],
+    "timestamp": "2026-08-25T09:41:50.180618",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "GST",
+    "query": "A.P. ENTERPRISES GSTIN",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.azfamily.com/news/",
+      "https://www.rds.ca/nouvelles/",
+      "https://www.brigitte.de/"
+    ],
+    "timestamp": "2026-08-25T09:42:01.501503",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Owner",
+    "query": "A.P. ENTERPRISES director owner founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.zhihu.com/question/1945629068243481180",
+      "https://www.zhihu.com/question/1903231775980913051",
+      "https://www.zhihu.com/question/373322044"
+    ],
+    "timestamp": "2026-08-25T09:42:16.332683",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Owner",
+    "query": "A.P. ENTERPRISES managing director",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-25T09:42:20.129956",
+    "status": "no_results"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Owner",
+    "query": "A.P. ENTERPRISES founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://petunjuk.id/this-site-cant-be-reached-google-chrome/",
+      "https://idcloudhost.com/blog/penyebab-error-this-site-cant-be-reached/",
+      "https://techdaily.id/cara-mudah-mengatasi-error-this-site-cant-be-reached/"
+    ],
+    "timestamp": "2026-08-25T09:42:22.333057",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Address",
+    "query": "A.P. ENTERPRISES registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html",
+      "https://www.tenforums.com/tutorials/75078-add-remove-dropbox-desktop-icon-windows-10-a.html",
+      "https://www.tenforums.com/software-apps/109545-dropbox-failed-install-april-2018-update-build-build-17134-1-a.html",
+      "https://www.tenforums.com/software-apps/6887-get-windows-10-gwx-app-appraiser-reservation-notification-icon.html",
+      "https://www.tenforums.com/windows-10-news/222426-kb5077796-windows-10-out-band-esu-build-19045-6811-22h2-jan-17-a.html"
+    ],
+    "timestamp": "2026-08-25T09:42:39.404255",
+    "status": "results_found"
+  },
+  {
+    "seller": "A.P. ENTERPRISES",
+    "field": "Address",
+    "query": "A.P. ENTERPRISES registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "https://zhidao.baidu.com/question/374802771099533332.html",
+      "https://www.zhihu.com/question/302904967",
+      "https://www.zhihu.com/question/63026381",
+      "https://zhidao.baidu.com/question/1960540317682721108.html"
+    ],
+    "timestamp": "2026-08-25T09:42:49.118061",
+    "status": "results_found"
+  }
+]

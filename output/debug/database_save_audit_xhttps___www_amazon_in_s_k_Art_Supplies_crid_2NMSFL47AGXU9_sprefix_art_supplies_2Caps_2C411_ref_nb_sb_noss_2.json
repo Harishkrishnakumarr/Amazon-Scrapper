@@ -1,0 +1,22 @@
+{
+  "category": "xhttps://www.amazon.in/s?k=Art+Supplies&crid=2NMSFL47AGXU9&sprefix=art+supplies%2Caps%2C411&ref=nb_sb_noss_2",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "HARI KRISHNA MART",
+      "database_id": 401,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

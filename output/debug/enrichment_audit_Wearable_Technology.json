@@ -1,0 +1,323 @@
+[
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0GFP631WZ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:10:47.745611"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://clicktechretail.in/"
+    ],
+    "timestamp": "2026-08-26T17:11:03.624646",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-26T17:11:09.410795"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-26T17:11:13.412728"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T17:11:27.974825",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T17:12:26.858991",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T17:12:29.214423",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-26T17:13:22.083113",
+    "status": "results_found"
+  },
+  {
+    "business": "Whoop India",
+    "field": "Business Name",
+    "value": "Whoop India",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ASN90SR50D6WO&asin=B0DY2SWV16&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:13:26.595108"
+  },
+  {
+    "seller": "Whoop India",
+    "field": "Website",
+    "query": "Whoop India official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.whoop.in/",
+      "https://www.whoop.in/pages/whoop-devices"
+    ],
+    "timestamp": "2026-08-26T17:13:39.747831",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whoop India",
+    "field": "Legal Entity Name",
+    "query": "Whoop India company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.whoop.com/",
+      "https://www.whoop.in/",
+      "https://www.whoop.com/us/en/membership/",
+      "https://www.whoop.in/pages/whoop-devices"
+    ],
+    "timestamp": "2026-08-26T17:13:57.347579",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whoop India",
+    "field": "PAN",
+    "query": "Whoop India PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.whoop.com/",
+      "https://www.whoop.in/",
+      "https://www.whoop.com/us/en/membership/",
+      "https://www.whoop.in/pages/whoop-devices"
+    ],
+    "timestamp": "2026-08-26T17:14:19.845084",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whoop India",
+    "field": "GST",
+    "query": "Whoop India GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.whoop.com/",
+      "https://www.whoop.in/",
+      "https://www.whoop.com/us/en/membership/",
+      "https://www.whoop.in/pages/whoop-devices"
+    ],
+    "timestamp": "2026-08-26T17:14:39.520921",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whoop India",
+    "field": "Owner",
+    "query": "Whoop India director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.whoop.com/",
+      "https://www.whoop.in/",
+      "https://www.whoop.com/us/en/membership/",
+      "https://www.whoop.in/pages/whoop-devices"
+    ],
+    "timestamp": "2026-08-26T17:14:55.805218",
+    "status": "results_found"
+  },
+  {
+    "seller": "Whoop India",
+    "field": "Address",
+    "query": "Whoop India registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.whoop.com/",
+      "https://www.whoop.in/",
+      "https://www.whoop.com/us/en/membership/",
+      "https://www.whoop.in/pages/whoop-devices"
+    ],
+    "timestamp": "2026-08-26T17:15:12.058404",
+    "status": "results_found"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Business Name",
+    "value": "VRP Telematics",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JFLV2BUSJ5AK&asin=B0GVYTML1K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-26T17:15:29.828632"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Website",
+    "query": "VRP Telematics official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://shopee.ph/search?keyword=oil%20pastel",
+      "https://shopee.ph/TrueColor-Original-Oil-Pastel-24-Colors-i.224846863.16551868146"
+    ],
+    "timestamp": "2026-08-26T17:15:32.985211",
+    "status": "results_found"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Website URL",
+    "value": "https://www.vrptelematics.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vrptelematics.com/",
+    "timestamp": "2026-08-26T17:15:35.682645"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Email Address",
+    "value": "info@vrptl.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vrptelematics.com/",
+    "timestamp": "2026-08-26T17:15:36.566379"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Legal Entity Name",
+    "query": "VRP Telematics company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://forums.commentcamarche.net/forum/affich-19363587-fenetre-aide-et-support-qui-s-ouvre-seule",
+      "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+      "https://forums.commentcamarche.net/forum/affich-34501790-defilement-qui-se-font-tout-seul",
+      "https://forums.commentcamarche.net/forum/affich-35549551-icone-batterie-disparue-windows-10"
+    ],
+    "timestamp": "2026-08-26T17:15:44.002055",
+    "status": "results_found"
+  },
+  {
+    "business": "VRP Telematics",
+    "field": "Phone Number",
+    "value": "+917174142663",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://forums.commentcamarche.net/forum/affich-38130243-facebook-verrouille-et-code-recu-par-whatsapp",
+    "timestamp": "2026-08-26T17:15:51.302304"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "PAN",
+    "query": "VRP Telematics PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.sydney.com/",
+      "https://www.sydney.com/things-to-do",
+      "https://www.australia.com/en/places/sydney-and-surrounds/guide-to-sydney.html",
+      "https://www.leo-travel.idv.tw/20340/australia-sydney-top-10-attractions"
+    ],
+    "timestamp": "2026-08-26T17:15:58.986677",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "GST",
+    "query": "VRP Telematics GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.me/www.facebook.com",
+      "https://m.me/login/",
+      "https://www.meta.com/en-gb/facebook-app/",
+      "https://apps.apple.com/us/app/facebook/id284882215"
+    ],
+    "timestamp": "2026-08-26T17:16:21.079489",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Owner",
+    "query": "VRP Telematics director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.accuweather.com/en/us/san-diego/92101/weather-forecast/347628",
+      "https://weather.com/us/california/city/san-diego/today",
+      "https://weather.com/us/california/city/san-diego/tenday",
+      "https://www.wunderground.com/forecast/us/ca/san-diego"
+    ],
+    "timestamp": "2026-08-26T17:16:38.828917",
+    "status": "results_found"
+  },
+  {
+    "seller": "VRP Telematics",
+    "field": "Address",
+    "query": "VRP Telematics registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://vrptelematics.com/contact-us.html",
+      "https://www.vrptelematics.com/",
+      "https://tracxn.com/d/legal-entities/india/vrp-telematics-private-limited/__6lzjW3fWIwwcauO-dYSir1JXUGzaTaOLeoIFFcx1h6Q",
+      "https://www.falconebiz.com/company/VRP-TELEMATICS-PRIVATE-LIMITED-U32200DL2005PTC134708"
+    ],
+    "timestamp": "2026-08-26T17:17:05.159626",
+    "status": "results_found"
+  }
+]

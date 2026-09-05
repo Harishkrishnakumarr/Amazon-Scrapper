@@ -1,0 +1,87 @@
+{
+  "category": "Ref=Nb Sb Noss",
+  "records_before_save": 6,
+  "records_saved": 6,
+  "records_verified_after_save": 6,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Clicktech Retail Private Ltd",
+      "database_id": 1143,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917017660880",
+      "email": "customercare@clicktechretail.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://clicktechretail.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RK World Infocom Pvt Ltd",
+      "database_id": 1144,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918849425521",
+      "email": "info@rk.world",
+      "gst": "37AAECR0564M1Z2",
+      "pan": "AAECR0564M",
+      "website": "https://rk.world/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "STOP N BUY .",
+      "database_id": 1150,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "ROOTNRISE",
+      "database_id": 1151,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "ndrisegifting@gmail.com",
+      "gst": "09THVPS4769B1Z3",
+      "pan": "THVPS4769B",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "DAZIBAO\u00ae",
+      "database_id": 1152,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917600737948",
+      "email": "support@gstextract.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://en.dazibao.art/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Incredible World Pvt. Ltd.",
+      "database_id": 1153,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919149053854",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.falconebiz.com/",
+      "status": "Verified"
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+[
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "Business Name",
+    "value": "AccuPrints Gurgaon",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1TSZZP0EGZBYH&asin=B0G6L81P1T&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:37:04.919022"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Website",
+    "query": "AccuPrints Gurgaon official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://accuprints.in/",
+      "https://accuprints.in/collections/all"
+    ],
+    "timestamp": "2026-08-21T17:37:06.657430",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "Website URL",
+    "value": "https://accuprints.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://accuprints.in/",
+    "timestamp": "2026-08-21T17:37:10.160230"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "Phone Number",
+    "value": "+911970772026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://accuprints.in/",
+    "timestamp": "2026-08-21T17:37:10.979404"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "Email Address",
+    "value": "mail@accuprints.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://accuprints.in/",
+    "timestamp": "2026-08-21T17:37:10.979847"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Legal Entity Name",
+    "query": "AccuPrints Gurgaon company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://accuprints.in/",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/",
+      "https://gst.jamku.app/gstin/06AURPS1867J1ZV",
+      "https://www.inspex.in/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html"
+    ],
+    "timestamp": "2026-08-21T17:37:19.699365",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Legal Entity Name",
+    "query": "AccuPrints Gurgaon Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.firststartup.in/blog/mca-company-search",
+      "https://golegally.com/mca-company-search",
+      "https://www.inspex.in/",
+      "https://delhinewz.com/mca-company-search/"
+    ],
+    "timestamp": "2026-08-21T17:37:33.970175",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "PAN",
+    "query": "AccuPrints Gurgaon PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://accuprints.in/pages/contact",
+      "https://accuprints.in/",
+      "https://www.goodreturns.in/pan-card-office-and-centres-in-gurgaon-c653.html",
+      "https://www.utiitsl.com/branchlocator",
+      "https://gurgaon.idbf.in/gurgaon/105510/accuprints"
+    ],
+    "timestamp": "2026-08-21T17:37:39.343207",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "PAN",
+    "query": "AccuPrints Gurgaon PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.bingplaces.com/DashBoard/Edit?Id=YNB6EE3217E24D6061&market=en-IN&src=SERPIC",
+      "https://accuprints.in/",
+      "https://accuprints.in/pages/contact",
+      "https://gurgaon.idbf.in/gurgaon/105510/accuprints",
+      "https://www.justdial.com/Gurgaon/File-Folder-Dealers-AccuPrints/nct-14570595"
+    ],
+    "timestamp": "2026-08-21T17:37:49.380838",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "PAN",
+    "query": "AccuPrints Gurgaon PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://accuprints.in/pages/contact",
+      "https://accuprints.in/",
+      "https://gst.jamku.app/gstin/06AURPS1867J1ZV",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-21T17:37:59.870313",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "GST",
+    "query": "AccuPrints Gurgaon GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.jamku.app/gstin/06AURPS1867J1ZV",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/",
+      "https://accuprints.in/",
+      "https://reg.gst.gov.in/registration/",
+      "https://gst.jamku.app/gstin/33AURPS1867J1ZY"
+    ],
+    "timestamp": "2026-08-21T17:38:01.745471",
+    "status": "results_found"
+  },
+  {
+    "business": "AccuPrints Gurgaon",
+    "field": "GST Number",
+    "value": "06AURPS1867J1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.jamku.app/gstin/06AURPS1867J1ZV",
+    "timestamp": "2026-08-21T17:38:02.845542"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Owner",
+    "query": "AccuPrints Gurgaon director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rocketreach.co/bharat-sindhwani-email_123817331",
+      "https://accuprints.in/",
+      "https://rocketreach.co/bharat-sindhwani-email_318758220",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/",
+      "https://www.zoominfo.com/c/accuprints/468229959"
+    ],
+    "timestamp": "2026-08-21T17:38:05.341714",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Owner",
+    "query": "AccuPrints Gurgaon managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.infyner.com/people-profile/ankur-kapur/09669108",
+      "https://www.datanyze.com/people/Rakesh-Gupta/9641580366",
+      "https://mmpil.com/wp-content/uploads/2026/08/MMP-Composition-of-Board.pdf",
+      "https://mishindia.com/wp-content/uploads/2026/08/BRIEF-PROFILE-OF-OUR-DIRECTORS.pdf",
+      "https://zauba.company/"
+    ],
+    "timestamp": "2026-08-21T17:38:11.174415",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Owner",
+    "query": "AccuPrints Gurgaon founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rocketreach.co/bharat-sindhwani-email_123817331#:~:text=Bharat%20Sindhwani%2C%20based%20in%20India%2C%20is%20currently%20a,Bharat%20Sindhwani%20contributes%20valuable%20insights%20to%20the%20industry.",
+      "https://accuprints.in/",
+      "https://rocketreach.co/bharat-sindhwani-email_123817331",
+      "https://accuprints.in/pages/contact",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/"
+    ],
+    "timestamp": "2026-08-21T17:38:20.179106",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Address",
+    "query": "AccuPrints Gurgaon registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://accuprints.in/pages/contact",
+      "https://accuprints.in/",
+      "https://gurgaon.idbf.in/gurgaon/105510/accuprints",
+      "https://www.zoominfo.com/c/accuprints/468229959",
+      "https://www.addressschool.com/corporate-office-in-gurgaon/1"
+    ],
+    "timestamp": "2026-08-21T17:38:32.532317",
+    "status": "results_found"
+  },
+  {
+    "seller": "AccuPrints Gurgaon",
+    "field": "Address",
+    "query": "AccuPrints Gurgaon registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://accuprints.in/pages/contact",
+      "https://accuprints.in/",
+      "https://gurgaon.idbf.in/gurgaon/105510/accuprints",
+      "https://piceapp.com/gst-number-search/accuprints-06aurps1867j1zv/",
+      "https://gst.jamku.app/gstin/06AURPS1867J1ZV"
+    ],
+    "timestamp": "2026-08-21T17:38:41.689427",
+    "status": "results_found"
+  },
+  {
+    "business": "Shakti Mart Ahmednagar",
+    "field": "Business Name",
+    "value": "Shakti Mart Ahmednagar",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A31LT323A0F8X7&asin=B0G4F1NFV3&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T17:38:46.753591"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "Website",
+    "query": "Shakti Mart Ahmednagar official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://hinduvism.com/shakti-the-divine-energy-of-creation-mythology/",
+      "https://www.hotstar.com/in/shows/shakti-astitva-ke-ehsaas-ki/1971000177"
+    ],
+    "timestamp": "2026-08-21T17:38:50.883383",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "Legal Entity Name",
+    "query": "Shakti Mart Ahmednagar company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://udyamregistration.gov.in/SearchRegistration.aspx",
+      "https://golegally.com/mca-company-search",
+      "https://san.rajasthan.gov.in/Registration.aspx",
+      "https://www.filesure.in/company/durvashakti-fibers-private-limited/U01632PN2026PTC252178"
+    ],
+    "timestamp": "2026-08-21T17:39:01.949254",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "Legal Entity Name",
+    "query": "Shakti Mart Ahmednagar Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://golegally.com/mca-company-search",
+      "https://cleartax.in/gst-number-search/",
+      "https://gstverify.co.in/search/",
+      "https://www.inspex.in/"
+    ],
+    "timestamp": "2026-08-21T17:39:17.673975",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "PAN",
+    "query": "Shakti Mart Ahmednagar PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://istart.rajasthan.gov.in/public/uploads/startup/17786645623247.pdf#:~:text=ount%20Number%20Card%20AFNFS2127Q,%2F%20Name%20SHAKTI%20T",
+      "https://www.goodreturns.in/pan-card-office-and-centres-in-ahmednagar-c1048.html",
+      "https://gstverify.co.in/search/",
+      "https://incometaxindia.gov.in/pan",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/"
+    ],
+    "timestamp": "2026-08-21T17:39:24.831500",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "PAN",
+    "query": "Shakti Mart Ahmednagar PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://incometaxindia.gov.in/pan-verification",
+      "https://razorpay.com/gst-number-search/pan/",
+      "http://services.gst.gov.in/services/searchtpbypan",
+      "https://maps.google.co.in/mapfiles/home3.html",
+      "https://www.knowyourgst.com/gst-number-search/by-name-pan/"
+    ],
+    "timestamp": "2026-08-21T17:39:41.344116",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "GST",
+    "query": "Shakti Mart Ahmednagar GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://hinduvism.com/shakti-the-divine-energy-of-creation-mythology/",
+      "https://www.hotstar.com/in/shows/shakti-astitva-ke-ehsaas-ki/1971000177",
+      "https://shakti.org.in/",
+      "https://www.alightindia.com/shakti-peetha",
+      "https://shaktichhattisgarh.co.in/"
+    ],
+    "timestamp": "2026-08-21T17:39:52.241108",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "Owner",
+    "query": "Shakti Mart Ahmednagar director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.crunchbase.com/person/hastimalji-munot",
+      "https://bankofmaharashtra.bank.in/writereaddata/documentlibrary/d07b9c4a-04c8-43cf-8fdb-8a160716e8a4.pdf",
+      "https://in.marketscreener.com/quote/stock/SWASTIKA-INVESTMART-LIMIT-42436975/company-governance/",
+      "https://www.crunchbase.com/person/jon-heslop-db8c",
+      "http://www.pfcindia.co.in/DocumentRepository/ckfinder/files/Investors/Equities/Unclaimed_Dividend_Amount/3RD%20INTERIM%20DIVIDEND%202024-25.pdf"
+    ],
+    "timestamp": "2026-08-21T17:40:24.939962",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "Owner",
+    "query": "Shakti Mart Ahmednagar managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.etnownews.com/stocks/company-profile/sg-mart-112329#:~:text=The%20company%27s%20management%20includes%20Sanjay%20Gupta%2C%20Sachin%20Kumar,%3A%20Sanjay%20Gupta%20Company%20Secretory%20%3A%20Sachin%20Kumar",
+      "https://tracxn.com/d/legal-entities/india/nitrex-chemicals-india-limited/__YSc4IOhkFU7mqpn5LlKrKIOm0rxAnl29xPbXrdI7mDw",
+      "https://in.marketscreener.com/quote/stock/SHAKTI-PUMPS-INDIA-LIMITE-10752221/company-governance/",
+      "https://tracxn.com/d/legal-entities/india/shakti-pumps-india-limited/__jgA4yf4rFvxFCEpsoGZ74kj8Buifm4jIl7kozGdZGEg",
+      "https://www.infyner.com/people-profile/priti-agarwala/03515014"
+    ],
+    "timestamp": "2026-08-21T17:40:38.222013",
+    "status": "results_found"
+  },
+  {
+    "seller": "Shakti Mart Ahmednagar",
+    "field": "Address",
+    "query": "Shakti Mart Ahmednagar registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.indiafilings.com/search/shakti-s-mart-private-limited-cin-U52609GJ2022PTC135105",
+      "https://maps.google.co.in/mapfiles/home3.html",
+      "https://shaktipumps.com/branch-and-overseas-offices/",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://shaktipumps.com/contact-us/"
+    ],
+    "timestamp": "2026-08-21T17:40:45.208798",
+    "status": "results_found"
+  },
+  {
+    "business": "A Pixel Perfect",
+    "field": "Business Name",
+    "value": "A Pixel Perfect",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A150BDVKXY3B0V&asin=B0BMQ8M94Q&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:40:53.107903"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Website",
+    "query": "A Pixel Perfect official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://pixelperfect.co.in/",
+      "https://pixelperfect.co.in/our-services/"
+    ],
+    "timestamp": "2026-08-21T17:40:54.764426",
+    "status": "results_found"
+  },
+  {
+    "business": "A Pixel Perfect",
+    "field": "Website URL",
+    "value": "https://pixelperfect.co.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://pixelperfect.co.in/",
+    "timestamp": "2026-08-21T17:40:59.612817"
+  },
+  {
+    "business": "A Pixel Perfect",
+    "field": "Phone Number",
+    "value": "+912115972026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://pixelperfect.co.in/",
+    "timestamp": "2026-08-21T17:41:03.210132"
+  },
+  {
+    "business": "A Pixel Perfect",
+    "field": "Email Address",
+    "value": "support@pixelperfect.co.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://pixelperfect.co.in/",
+    "timestamp": "2026-08-21T17:41:03.210913"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Legal Entity Name",
+    "query": "A Pixel Perfect company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://pixelperfect.co.in/",
+      "https://pixelperfect.co.in/our-services/",
+      "https://pixelperfect.co.in/contact-us/",
+      "https://pixelperfect.co.in/erp-software-development/",
+      "https://pixelperfect.co.in/careers/"
+    ],
+    "timestamp": "2026-08-21T17:41:12.296598",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Legal Entity Name",
+    "query": "A Pixel Perfect Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.instafinancials.com/company/aec-pixel-perfect-private-limited/U73100KL2023PTC083623",
+      "https://cin.iadv.io/AEC-PIXEL-PERFECT-PRIVATE-LIMITED-U73100KL2023PTC083623/",
+      "https://www.falconebiz.com/company/AEC-PIXEL-PERFECT-PRIVATE-LIMITED-U73100KL2023PTC083623",
+      "https://www.companydetails.in/company/aec-pixel-perfect-private-limited",
+      "https://infomint.co.in/companies/aec-pixel-perfect-private-limited/U73100KL2023PTC083623/roc-ernakulam/kerala/"
+    ],
+    "timestamp": "2026-08-21T17:41:19.913587",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Legal Entity Name",
+    "query": "A Pixel Perfect legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/aec-pixel-perfect-private-limited/__Fz6DMFepYUWwaRnAtNIymJAFnL7ZAY5sB1am0kU-j-U#:~:text=AEC%20PIXEL%20PERFECT%20PRIVATE%20LIMITED%20is%20a%20Private,India.%20Its%20corporate%20identification%20number%20is%20%28CIN%29%20U73100KL2023PTC083623.",
+      "https://tracxn.com/d/legal-entities/india/aec-pixel-perfect-private-limited/__Fz6DMFepYUWwaRnAtNIymJAFnL7ZAY5sB1am0kU-j-U",
+      "https://www.thecompanycheck.com/company/aec-pixel-perfect-private-limited/U73100KL2023PTC083623",
+      "https://tracxn.com/d/legal-entities/india/lugosi-pixel-perfect-technologies-llp/__jaC0vz1E3Skn-ui_7Xd9lgQ8xDUKs9o7GRfEgYYHRkA",
+      "https://opencorpdata.com/lei/2549000GQ4LNHLBZL840"
+    ],
+    "timestamp": "2026-08-21T17:41:29.988653",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "PAN",
+    "query": "A Pixel Perfect PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://gentools.io/pan-card-generator",
+      "https://incometaxindia.gov.in/pan",
+      "https://pancardsize.com/",
+      "https://smartcsctools.org/pan-card-photo-sign-resizer.html",
+      "https://www.protecto.ai/blog/personal-dataset-sample-indian-pan-number-download-pii-data-examples/"
+    ],
+    "timestamp": "2026-08-21T17:41:34.365927",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "PAN",
+    "query": "A Pixel Perfect PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.shutterstock.com/search/pixel-pan?msockid=1764982c209a6fa003168f9021cf6e18",
+      "https://disneydreamlightvalley.com/en/news/ThePixelPerfectUpdate",
+      "https://pixelperfect.berrry.app/",
+      "https://www.shutterstock.com/search/pixel-perfect-cooking-pan?msockid=1764982c209a6fa003168f9021cf6e18",
+      "https://pancardresizer.net/"
+    ],
+    "timestamp": "2026-08-21T17:41:51.731373",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "GST",
+    "query": "A Pixel Perfect GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://reg.gst.gov.in/registration/",
+      "https://services.gst.gov.in/services/login",
+      "https://services.gst.gov.in/services/arnstatus",
+      "https://tutorial.gst.gov.in/userguide/registration/Apply_for_Registration_Normal_Taxpayer.htm",
+      "https://services.gst.gov.in/services/gstlaw/gstlawlist"
+    ],
+    "timestamp": "2026-08-21T17:41:54.965254",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "GST",
+    "query": "A Pixel Perfect GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/a-pixel-perfect-27bcdpj3964n1z4/",
+      "https://www.knowyourgst.com/gst-number-search/pixel-perfect-27ABDHS7109G1Z1/",
+      "https://www.knowyourgst.com/gst-number-search/pixel-perfect-27AWSPS9792D1ZJ/",
+      "https://piceapp.com/gst-number-search/pixel-perfect-27abdhs7109g1z1/",
+      "https://cleartax.in/gst-number-search/"
+    ],
+    "timestamp": "2026-08-21T17:42:03.059018",
+    "status": "results_found"
+  },
+  {
+    "business": "A Pixel Perfect",
+    "field": "GST Number",
+    "value": "27ABDHS7109G1Z1",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/pixel-perfect-27ABDHS7109G1Z1/",
+    "timestamp": "2026-08-21T17:42:04.371993"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Owner",
+    "query": "A Pixel Perfect director owner founder",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.crunchbase.com/person/dave-benton-c744"
+    ],
+    "timestamp": "2026-08-21T17:42:09.910793",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Owner",
+    "query": "A Pixel Perfect managing director",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.zoominfo.com/p/Conrad-Mathison/2618835951"
+    ],
+    "timestamp": "2026-08-21T17:42:13.033119",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Owner",
+    "query": "A Pixel Perfect founder",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.behance.net/muruganettiyan#:~:text=This%20is%20Murugan%20Ettiyan%20-%20Lead%20Photographer%20%26,to%20tackle%20any%20photography%20job%20quickly%20and%20effect%E2%80%A6",
+      "https://pixelperfectfilms.co.in/portfolio%20ppf/portfolio",
+      "https://www.behance.net/muruganettiyan"
+    ],
+    "timestamp": "2026-08-21T17:42:17.060401",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Address",
+    "query": "A Pixel Perfect registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.falconebiz.com/company/AEC-PIXEL-PERFECT-PRIVATE-LIMITED-U73100KL2023PTC083623",
+      "https://tracxn.com/d/legal-entities/india/aec-pixel-perfect-private-limited/__Fz6DMFepYUWwaRnAtNIymJAFnL7ZAY5sB1am0kU-j-U",
+      "https://mycorporateinfo.com/business/aec-pixel-perfect-private-limited",
+      "https://www.thecompanycheck.com/company/aec-pixel-perfect-private-limited/U73100KL2023PTC083623",
+      "https://pixelperfect.co.in/terms-and-conditions/"
+    ],
+    "timestamp": "2026-08-21T17:42:29.160350",
+    "status": "results_found"
+  },
+  {
+    "seller": "A Pixel Perfect",
+    "field": "Address",
+    "query": "A Pixel Perfect registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/a-pixel-perfect-27bcdpj3964n1z4/",
+      "https://pixelperfect.co.in/contact-us/",
+      "https://www.falconebiz.com/company/PIXEL-PERFECT-DESIGN-PRIVATE-LIMITED-U73100KL2025PTC093308",
+      "https://www.indiafilings.com/search/pixel-perfect-design-private-limited-cin-U73100KL2025PTC093308",
+      "https://www.tradeindia.com/pixel-perfect-11046104/"
+    ],
+    "timestamp": "2026-08-21T17:42:43.572279",
+    "status": "results_found"
+  },
+  {
+    "business": "SnF shop",
+    "field": "Business Name",
+    "value": "SnF shop",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2V2RGN11POKKM&asin=B0GY9QZTMH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-21T17:42:47.299803"
+  },
+  {
+    "seller": "SnF shop",
+    "field": "Website",
+    "query": "SnF shop official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://snfonlinestore.com/",
+      "https://snfonlinestore.com/collections/new-arrivals"
+    ],
+    "timestamp": "2026-08-21T17:42:49.111425",
+    "status": "results_found"
+  },
+  {
+    "business": "SnF shop",
+    "field": "Website URL",
+    "value": "https://snfonlinestore.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://snfonlinestore.com/",
+    "timestamp": "2026-08-21T17:44:20.411106"
+  },
+  {
+    "business": "SnF shop",
+    "field": "Phone Number",
+    "value": "+913399002026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://snfonlinestore.com/",
+    "timestamp": "2026-08-21T17:44:24.309030"
+  },
+  {
+    "seller": "SnF shop",
+    "field": "Legal Entity Name",
+    "query": "SnF shop company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/38333569/adding-nocache-1-to-every-url-including-the-assets-like-stylesheet-behind-the",
+      "https://stackoverflow.com/questions/367786/prevent-browser-caching-of-ajax-call-result",
+      "https://es.stackoverflow.com/questions/63716/como-evitar-el-cach%c3%a9-de-los-archivos-css-y-js",
+      "https://stackoverflow.com/questions/14197276/how-can-i-force-window-location-to-make-an-http-request-instead-of-using-the-cac",
+      "https://stackoverflow.com/questions/126772/how-to-force-a-web-browser-not-to-cache-images"
+    ],
+    "timestamp": "2026-08-21T17:44:34.382822",
+    "status": "results_found"
+  },
+  {
+    "seller": "SnF shop",
+    "field": "Legal Entity Name",
+    "query": "SnF shop Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://zhidao.baidu.com/question/580670653.html",
+      "http://zhidao.baidu.com/",
+      "https://zhidao.baidu.com/question/1895836602481204948.html",
+      "https://www.zhihu.com/question/342843755",
+      "https://www.zhihu.com/question/469195344"
+    ],
+    "timestamp": "2026-08-21T17:44:38.725291",
+    "status": "results_found"
+  },
+  {
+    "business": "Zoozo Artz",
+    "field": "Business Name",
+    "value": "Zoozo Artz",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A26HCFUD8993OZ&asin=B0CP61XSQY&ref_=dp_merchant_link",
+    "timestamp": "2026-08-21T17:44:53.686726"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Website",
+    "query": "Zoozo Artz official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11304353466",
+      "https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10285715145"
+    ],
+    "timestamp": "2026-08-21T17:44:56.562073",
+    "status": "results_found"
+  },
+  {
+    "business": "Zoozo Artz",
+    "field": "Website URL",
+    "value": "https://www.zoozoartz.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.zoozoartz.in/",
+    "timestamp": "2026-08-21T17:45:02.594515"
+  },
+  {
+    "business": "Zoozo Artz",
+    "field": "Phone Number",
+    "value": "+910202650106",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.zoozoartz.in/",
+    "timestamp": "2026-08-21T17:45:03.294275"
+  },
+  {
+    "business": "Zoozo Artz",
+    "field": "Email Address",
+    "value": "zoozoartz@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.zoozoartz.in/",
+    "timestamp": "2026-08-21T17:45:03.294516"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Legal Entity Name",
+    "query": "Zoozo Artz company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.aboutstemcells.org/stem-cell-intro",
+      "https://www.britannica.com/science/stem-cell",
+      "https://www.sciencenewstoday.org/what-are-stem-cells-and-why-are-they-so-special",
+      "https://sciencenotes.org/10-facts-about-cells/",
+      "https://www.siyavula.com/read/za/life-sciences/grade-10/cells-the-basic-units-of-life/02-cells-the-basic-units-of-life-03"
+    ],
+    "timestamp": "2026-08-21T17:45:09.174567",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Legal Entity Name",
+    "query": "Zoozo Artz Private Limited registration",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://netbanking.hdfcbank.com/netbanking/epientry"
+    ],
+    "timestamp": "2026-08-21T17:45:25.597617",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Legal Entity Name",
+    "query": "Zoozo Artz legal entity",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.jagran.com/",
+      "https://www.jagran.com/citizen-journalism-hindi",
+      "https://epaper.jagran.com/epaper/",
+      "https://jagranindia.com/",
+      "https://edainikjagran.com/epaper/"
+    ],
+    "timestamp": "2026-08-21T17:45:27.883362",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "PAN",
+    "query": "Zoozo Artz PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.calculator.com/",
+      "https://www.calculator.net/basic-calculator.html",
+      "https://solvecalc.net/",
+      "https://okcalc.com/en/",
+      "https://www.online-calculator.com/full-screen-calculator/"
+    ],
+    "timestamp": "2026-08-21T17:45:29.307663",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "PAN",
+    "query": "Zoozo Artz PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://uptogo.com.tw/%e6%88%b6%e5%a4%96%e6%b4%bb%e5%8b%95/%e6%a1%83%e5%9c%92%e9%87%91%e9%9d%a2%e5%b1%b1%e7%88%ac%e5%a4%9a%e4%b9%85%ef%bc%9f/",
+      "https://www.samejantravel.tw/small-peaks/21",
+      "https://www.dcard.tw/f/hiking/p/261131551",
+      "https://vocus.cc/article/681459eefd89780001e2c55b",
+      "https://www.kkday.com/zh-tw/blog/144362/asia-taiwan-taipei-jinmianshan-hiking-trail"
+    ],
+    "timestamp": "2026-08-21T17:45:42.111598",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "GST",
+    "query": "Zoozo Artz GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://statisticsbyjim.com/basics/frequency-table/",
+      "https://www.exceldemy.com/make-frequency-distribution-table-in-excel/",
+      "https://spreadsheeto.com/frequency-table-excel/",
+      "https://thirdspacelearning.com/us/math-resources/topic-guides/statistics-and-probability/frequency-table/",
+      "https://www.statscalculators.com/calculators/descriptive-statistics/frequency-table-calculator"
+    ],
+    "timestamp": "2026-08-21T17:45:53.132848",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "GST",
+    "query": "Zoozo Artz GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://summerplaceal.com/",
+      "https://summerplaceal.com/guestcard/",
+      "https://summerplaceal.com/portal/",
+      "https://summerplaceal.com/neighborhood/",
+      "https://summerplaceal.com/privacy-policy/"
+    ],
+    "timestamp": "2026-08-21T17:46:09.921047",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Owner",
+    "query": "Zoozo Artz director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text",
+      "https://stackoverflow.com/questions/4810803/open-facebook-page-from-android-app",
+      "https://stackoverflow.com/questions/7543077/getting-fb-me-url",
+      "https://stackoverflow.com/questions/2925620/facebook-links-to-my-site-resolve-as-403-forbidden",
+      "https://stackoverflow.com/questions/5205652/facebook-profile-url-regular-expression"
+    ],
+    "timestamp": "2026-08-21T17:46:13.061724",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Owner",
+    "query": "Zoozo Artz managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.astrologyanswers.com/horoscopes/",
+      "https://www.zhihu.com/explore",
+      "https://www.zhihu.com/",
+      "https://www.astrologyanswers.com/",
+      "https://bbs.huaweicloud.com/blogs/453371"
+    ],
+    "timestamp": "2026-08-21T17:46:15.358340",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Owner",
+    "query": "Zoozo Artz founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.qr-code-generator.com/",
+      "https://qrcodecreator.com/",
+      "https://www.canva.com/qr-code-generator/?msockid=1764982c209a6fa003168f9021cf6e18",
+      "https://www.the-qrcode-generator.com/",
+      "https://www.qrcode-monkey.com/"
+    ],
+    "timestamp": "2026-08-21T17:46:31.908234",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Address",
+    "query": "Zoozo Artz registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.reddit.com/r/MicrosoftRewards/",
+      "https://www.reddit.com/r/BingHomepageQuiz/hot/",
+      "https://www.reddit.com/r/BingQuizAnswers/comments/w52krw/bing_news_quiz_7222022/",
+      "https://www.reddit.com/r/BingQuizAnswers/comments/xxdvry/bing_news_quiz_1072022/",
+      "https://www.reddit.com/r/BingHomepageQuiz/comments/vjeqh9/us_bing_news_quiz_6242022/"
+    ],
+    "timestamp": "2026-08-21T17:46:32.989147",
+    "status": "results_found"
+  },
+  {
+    "seller": "Zoozo Artz",
+    "field": "Address",
+    "query": "Zoozo Artz registered address",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.meteo-reunion.com/",
+      "http://meteoburkina.bf/",
+      "https://www.meteo-reunion.com/faq/index.php",
+      "https://meteoburkina.bf/news/",
+      "https://stackoverflow.com/questions/690465/which-are-more-performant-cte-or-temporary-tables"
+    ],
+    "timestamp": "2026-08-21T17:46:43.324638",
+    "status": "results_found"
+  }
+]

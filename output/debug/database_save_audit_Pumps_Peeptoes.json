@@ -1,0 +1,48 @@
+{
+  "category": "Pumps Peeptoes",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 53,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH; 07AAJCC8517E1ZN; 09AAJCC8517E1ZJ; 18AAJCC8517E1ZK; 27AAJCC8517E1ZL; 06AAJCC8517E1ZP; 36AAJCC8517E1ZM; 24AAJCC8517E1ZR; 33AAJCC8517E1ZS; 19AAJCC8517E1ZI; 08AAJCC8517E1ZL; 03AAJCC8517E1ZV; 23AAJCC8517E1ZT; 10AAJCC8517E1Z0; 32AAJCC8517E1ZU; 37AAJCC8517E1ZK; 21AAJCC8517E1ZX; 04AAJCC8517E1ZT; 30AAJCC8517E1ZY; 05AAJCC8517E1ZR; 20AAJCC8517E1ZZ; 29AAJCC8517E3ZF",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Marc Loire",
+      "database_id": 54,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+910900352026",
+      "email": "care@marcloire.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://marcloire.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "JM LOOKS",
+      "database_id": 55,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919299931199",
+      "email": "support@jmlooks.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.jmlooks.com/",
+      "status": "Verified"
+    }
+  ]
+}

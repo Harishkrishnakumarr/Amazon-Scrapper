@@ -1,0 +1,21 @@
+{
+  "amazon_base_url": "https://www.amazon.in",
+  "product_limit": 20,
+  "top_businesses": 100,
+  "max_sellers_per_product": 100,
+  "max_offer_scroll_attempts": 40,
+  "max_no_new_seller_attempts": 3,
+  "offer_load_wait_ms": 1000,
+  "max_product_offer_runtime_seconds": 90,
+  "max_pages": 1,
+  "headless": false,
+  "allow_category_reprocess": false,
+  "max_seller_enrichment_seconds": 120,
+  "output_file": "output/Amazon_Seller_Data.xlsx",
+  "master_output_file": "output/Amazon_Seller_Master_Data.xlsx",
+  "database_file": "amazon_sellers.db",
+  "urls_file": "input/amazon_urls.txt",
+  "urls": [
+    "https://www.amazon.in/s?k=men+shoes"
+  ]
+}

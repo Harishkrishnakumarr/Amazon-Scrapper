@@ -1,0 +1,956 @@
+[
+  {
+    "business": "AHPL",
+    "field": "Business Name",
+    "value": "AHPL",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AW8L6TFKCXSAI&asin=B071WBXFXQ&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:08:11.239421"
+  },
+  {
+    "seller": "AHPL",
+    "field": "Website",
+    "query": "AHPL official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://superuser.com/questions/171917/force-a-program-to-run-without-administrator-privileges-or-uac",
+      "https://superuser.com/questions/43206/how-can-i-hide-an-application-from-the-windows-taskbar"
+    ],
+    "timestamp": "2026-08-29T09:08:15.188481",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "Legal Entity Name",
+    "query": "AHPL company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://ahpl.co/",
+      "https://ahpl.co/about-us/",
+      "https://ahpl.co/shop/",
+      "https://ahpl.co/oral-solid-dosage-forms/"
+    ],
+    "timestamp": "2026-08-29T09:08:23.904511",
+    "status": "results_found"
+  },
+  {
+    "business": "AHPL",
+    "field": "Phone Number",
+    "value": "+919822309980",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ahpl.co/",
+    "timestamp": "2026-08-29T09:08:25.019549"
+  },
+  {
+    "business": "AHPL",
+    "field": "Email Address",
+    "value": "export@ahpl.co",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://ahpl.co/",
+    "timestamp": "2026-08-29T09:08:25.019632"
+  },
+  {
+    "seller": "AHPL",
+    "field": "Legal Entity Name",
+    "query": "AHPL Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://ahpl.co/",
+      "https://ahpl.co/about-us/",
+      "https://ahpl.co/shop/",
+      "https://ahpl.co/oral-solid-dosage-forms/"
+    ],
+    "timestamp": "2026-08-29T09:08:28.932748",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "PAN",
+    "query": "AHPL PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://seibishinote.com/%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%AF%E3%82%B4%E3%83%B3%E6%95%85%E9%9A%9C/",
+      "https://car-premium.net/symptom/carName/MK-HONDA/CN-STEPWGN",
+      "https://carweakpoints.net/rk1-rk2-rk5-rk6-stepwgn/",
+      "https://carproblems.hatenablog.com/entry/2025/07/05/020347"
+    ],
+    "timestamp": "2026-08-29T09:08:31.847871",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "PAN",
+    "query": "AHPL PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mercedes-benz.nl/",
+      "https://www.mercedes-benz.nl/passengercars/models.html",
+      "https://www.mercedes-benz.com/en/",
+      "https://www.mercedes-benz.com.hk/en"
+    ],
+    "timestamp": "2026-08-29T09:08:43.163885",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "GST",
+    "query": "AHPL GSTIN registration",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.hellotoby.com/zh-hk/id/%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88",
+      "https://www.interiordesign.hk/"
+    ],
+    "timestamp": "2026-08-29T09:08:48.351043",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "GST",
+    "query": "AHPL GST number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://crystalmark.info/en/software/crystaldiskinfo/",
+      "https://crystalmark.info/en/download/"
+    ],
+    "timestamp": "2026-08-29T09:08:54.399556",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "Owner",
+    "query": "AHPL director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.azquotes.com/quote_of_the_day.html",
+      "https://www.azquotes.com/author/440-Maya_Angelou",
+      "https://ja.hinative.com/questions/6562590",
+      "https://ja.hinative.com/questions/19515539"
+    ],
+    "timestamp": "2026-08-29T09:08:58.648753",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "Owner",
+    "query": "AHPL founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://plantsbulbsseeds.com/is-mosses-and-ferns-a-pioneer-species.html",
+      "https://www.britannica.com/science/pioneer-species",
+      "https://sciencenotes.org/pioneer-species-definition-and-examples/",
+      "https://pioneeracademyonline.com/topics/overview-of-plant-kingdoms-mosses-ferns-angiosperms-gymnosperms/"
+    ],
+    "timestamp": "2026-08-29T09:09:09.228959",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "Address",
+    "query": "AHPL registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://support.mozilla.org/ja/kb/install-older-version-of-firefox",
+      "https://support.mozilla.org/ja/kb/how-download-and-install-firefox-windows?redirect=no",
+      "https://www.mozilla.org/en-US/firefox/nightly/notes/",
+      "https://addons.mozilla.org/ja/firefox/"
+    ],
+    "timestamp": "2026-08-29T09:09:17.397018",
+    "status": "results_found"
+  },
+  {
+    "seller": "AHPL",
+    "field": "Address",
+    "query": "AHPL registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bbs.ruliweb.com/family/242/board/300017/read/2422241",
+      "https://bbs.ruliweb.com/family/4948/board/184900/read/55486",
+      "https://bbs.ruliweb.com/pc/board/300006/read/2218701",
+      "https://bbs.ruliweb.com/family/4948/board/184900/read/29268"
+    ],
+    "timestamp": "2026-08-29T09:09:28.785282",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Business Name",
+    "value": "Clicktech Retail Private Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJ6SIZC8YQDZX&asin=B0FLYG1VCL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:09:33.485396"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Website",
+    "query": "Clicktech Retail Private Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/"
+    ],
+    "timestamp": "2026-08-29T09:09:35.703933",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Website URL",
+    "value": "https://clicktechretail.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://clicktechretail.in/about/",
+    "timestamp": "2026-08-29T09:09:39.262715"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Email Address",
+    "value": "customercare@clicktechretail.in",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://clicktechretail.in/",
+    "timestamp": "2026-08-29T09:09:40.261037"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:09:45.853926",
+    "status": "results_found"
+  },
+  {
+    "business": "Clicktech Retail Private Ltd",
+    "field": "Phone Number",
+    "value": "+917017660880",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://clicktech.co.in/",
+    "timestamp": "2026-08-29T09:09:51.021193"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Legal Entity Name",
+    "query": "Clicktech Retail Private Ltd Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:09:53.089594",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:09:59.622187",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "PAN",
+    "query": "Clicktech Retail Private Ltd PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:10:07.466973",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:10:16.115584",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "GST",
+    "query": "Clicktech Retail Private Ltd GST number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:10:22.499961",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:10:30.245039",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Owner",
+    "query": "Clicktech Retail Private Ltd founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:10:36.084294",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:10:41.542818",
+    "status": "results_found"
+  },
+  {
+    "seller": "Clicktech Retail Private Ltd",
+    "field": "Address",
+    "query": "Clicktech Retail Private Ltd registered address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://clicktechretail.in/about/",
+      "https://www.clicktech.com/",
+      "https://clicktechretail.in/",
+      "https://clicktech.co.in/"
+    ],
+    "timestamp": "2026-08-29T09:10:47.589863",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "Business Name",
+    "value": "SHREVI\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20MDIK5LAHCR6&asin=B0FJM7F94Y&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T09:10:51.898353"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "Website",
+    "query": "SHREVI\u00ae official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://abs.gov.au/census/find-census-data/quickstats/2021/8203_AUS",
+      "https://www.abs.gov.au/statistics/people/population/australias-population-country-birth/latest-release"
+    ],
+    "timestamp": "2026-08-29T09:10:53.983775",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "Legal Entity Name",
+    "query": "SHREVI\u00ae company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.positivityblog.com/quote-of-the-day/",
+      "https://mediaindonesia.com/humaniora/823722/100-quotes-of-the-day-indonesia-singkat-keren-dan-penuh-makna-mendalam",
+      "https://www.brainyquote.com/quote_of_the_day",
+      "https://quotesoftheday.org/"
+    ],
+    "timestamp": "2026-08-29T09:11:00.717011",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "Email Address",
+    "value": "cs@mediaindonesia.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://mediaindonesia.com/humaniora/823722/100-quotes-of-the-day-indonesia-singkat-keren-dan-penuh-makna-mendalam",
+    "timestamp": "2026-08-29T09:11:02.647727"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "Legal Entity Name",
+    "query": "SHREVI\u00ae Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/company-registration/private-limited-registration-india",
+      "https://www.indiafilings.com/company-registration",
+      "https://www.instafinancials.com/company/shrevi-information-technology-private-limited-U72200HR2018PTC076578",
+      "https://www.legalwiz.in/private-limited-company-registration"
+    ],
+    "timestamp": "2026-08-29T09:11:10.752944",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "PAN",
+    "query": "SHREVI\u00ae PAN card number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://champsorchumps.us/team/nhl/chicago-blackhawks/head-to-head/pittsburgh-penguins",
+      "https://www.nhl.com/blackhawks/schedule",
+      "https://pucky.com/matchup/blackhawks-vs-penguins/",
+      "https://www.statmuse.com/nhl/ask?q=blackhawks+all-time+record+vs+penguins"
+    ],
+    "timestamp": "2026-08-29T09:11:17.419194",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "PAN",
+    "query": "SHREVI\u00ae PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.computerhope.com/issues/ch002135.htm",
+      "https://www.simpleslides.co/blog/track-changes-in-powerpoint",
+      "https://24slides.com/presentbetter/tutorial-track-changes-in-powerpoint",
+      "https://pptproductivity.com/blog/how-to-track-changes-in-powerpoint-using-review-compare-feature"
+    ],
+    "timestamp": "2026-08-29T09:11:29.856050",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "GST",
+    "query": "SHREVI\u00ae GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-29T09:11:39.896118",
+    "status": "results_found"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "Phone Number",
+    "value": "+919663635025",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+    "timestamp": "2026-08-29T09:11:42.369876"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "GST Number",
+    "value": "24ADPPL8119H1ZB",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+    "timestamp": "2026-08-29T09:11:42.370873"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "PAN Number",
+    "value": "ADPPL8119H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+    "timestamp": "2026-08-29T09:11:42.370882"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+    "timestamp": "2026-08-29T09:11:42.380271"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+    "timestamp": "2026-08-29T09:11:42.380299"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+    "timestamp": "2026-08-29T09:11:42.380452"
+  },
+  {
+    "business": "SHREVI\u00ae",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/shrevi-impex-24adppl8119h1zb/",
+    "timestamp": "2026-08-29T09:11:42.380459"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "Owner",
+    "query": "SHREVI\u00ae director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://golferhive.com/best-mid-compression-golf-balls/"
+    ],
+    "timestamp": "2026-08-29T09:11:47.370783",
+    "status": "results_found"
+  },
+  {
+    "seller": "SHREVI\u00ae",
+    "field": "Owner",
+    "query": "SHREVI\u00ae founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.azquotes.com/",
+      "https://www.azquotes.com/author/6539-Ernest_Hemingway",
+      "https://ja.hinative.com/questions/6562590",
+      "https://ja.hinative.com/questions/19515539"
+    ],
+    "timestamp": "2026-08-29T09:12:01.903377",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0FGXTGQND&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:12:02.989742"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rk.world/",
+      "https://rkgroup.biz/"
+    ],
+    "timestamp": "2026-08-29T09:12:04.816560",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://rk.world/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://rk.world/",
+    "timestamp": "2026-08-29T09:12:08.071217"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "info@rk.world",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://rk.world/",
+    "timestamp": "2026-08-29T09:12:10.434691"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Owner Name",
+    "value": "Mahendra Chordia",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://rk.world/about",
+    "timestamp": "2026-08-29T09:12:12.232666"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+      "https://www.companydetails.in/company/rk-worldinfocom-private-limited",
+      "https://www.indiafilings.com/search/rk-worldinfocom-private-limited-cin-U32204KA2008PTC046634",
+      "https://www.instafinancials.com/company/rk-worldinfocom-private-limited-U32204KA2008PTC046634/index.html"
+    ],
+    "timestamp": "2026-08-29T09:12:20.220415",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "GST Number",
+    "value": "37AAECR0564M1Z2",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T09:12:22.923026"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AAECR0564M",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T09:12:22.923058"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Billing Address",
+    "value": "l-248, 2nd floor, 17th cross, sector 6, hsr layout, bengaluru, karnataka 560102. cin: l72200ka2012plc065294.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T09:12:22.937904"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T09:12:22.937923"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T09:12:22.937929"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-29T09:12:22.937934"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Phone",
+    "query": "RK World Infocom Pvt Ltd phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "https://en.rkgaming.com/",
+      "https://rkgroup.biz/",
+      "https://rkgamingstore.com/collections/rk-keyboard"
+    ],
+    "timestamp": "2026-08-29T09:13:21.602906",
+    "status": "results_found"
+  },
+  {
+    "business": "Smile Shop Online",
+    "field": "Business Name",
+    "value": "Smile Shop Online",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A32OI528AGV596&asin=B08GY1ZBB6&ref_=dp_merchant_link",
+    "timestamp": "2026-08-29T09:13:35.653524"
+  },
+  {
+    "seller": "Smile Shop Online",
+    "field": "Website",
+    "query": "Smile Shop Online official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.goodsmile.com/en?pubDate=20250314",
+      "https://www.goodsmile.com/ja"
+    ],
+    "timestamp": "2026-08-29T09:13:41.551473",
+    "status": "results_found"
+  },
+  {
+    "seller": "Smile Shop Online",
+    "field": "Legal Entity Name",
+    "query": "Smile Shop Online company registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T09:14:20.469787",
+    "status": "no_results"
+  },
+  {
+    "seller": "Smile Shop Online",
+    "field": "PAN",
+    "query": "Smile Shop Online PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-29T09:14:37.620967",
+    "status": "no_results"
+  },
+  {
+    "seller": "Smile Shop Online",
+    "field": "GST",
+    "query": "Smile Shop Online GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://setupfiling.in/register-for-gstin/"
+    ],
+    "timestamp": "2026-08-29T09:14:55.995351",
+    "status": "results_found"
+  },
+  {
+    "seller": "Smile Shop Online",
+    "field": "Owner",
+    "query": "Smile Shop Online director owner founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.foodnetwork.com/"
+    ],
+    "timestamp": "2026-08-29T09:15:03.902406",
+    "status": "results_found"
+  },
+  {
+    "seller": "Smile Shop Online",
+    "field": "Owner",
+    "query": "Smile Shop Online founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://whitesmileshop.com/pages/about",
+      "https://cambodiainvestmentreview.com/2026/03/06/cambodia-leadership-review-50-international-voices-2026-jack-lee-founder-and-chief-executive-officer-of-smile-shop/",
+      "https://www.smileshop.co.za/pages/about-us",
+      "https://www.zoominfo.com/c/smileshop/501847148"
+    ],
+    "timestamp": "2026-08-29T09:15:29.617026",
+    "status": "results_found"
+  },
+  {
+    "seller": "Smile Shop Online",
+    "field": "Address",
+    "query": "Smile Shop Online registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.provenexpert.com/de-de/projektron-gmbh/",
+      "https://erp-software.org/software/projektron-bcs/",
+      "https://omr.com/de/reviews/product/projektron-bcs",
+      "https://www.software-made-in-germany.org/unternehmen/projektron-gmbh/"
+    ],
+    "timestamp": "2026-08-29T09:15:34.923077",
+    "status": "results_found"
+  },
+  {
+    "business": "Smile Shop Online",
+    "field": "Email Address",
+    "value": "info@projektron.de",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.provenexpert.com/de-de/projektron-gmbh/",
+    "timestamp": "2026-08-29T09:15:38.845194"
+  },
+  {
+    "business": "MAPPERZ",
+    "field": "Business Name",
+    "value": "MAPPERZ",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1JU7ABJNLE0TW&asin=B0BQWDPC8Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-29T09:15:40.269394"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "Website",
+    "query": "MAPPERZ official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tabelog.com/grouplst/G02161/aichi/?msockid=15b9d71ea0ed62940d6cc0daa1386371",
+      "https://ramenmogi.com/kairikiya-menu-guide/"
+    ],
+    "timestamp": "2026-08-29T09:15:46.021775",
+    "status": "results_found"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "Legal Entity Name",
+    "query": "MAPPERZ company registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://registry-lookup.com/",
+      "https://entitysearch.us/",
+      "https://golegally.com/mca-company-llp-search",
+      "https://mapperz.in/pages/contact"
+    ],
+    "timestamp": "2026-08-29T09:16:26.070092",
+    "status": "results_found"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "PAN",
+    "query": "MAPPERZ PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-08-29T09:16:54.398072",
+    "status": "results_found"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "GST",
+    "query": "MAPPERZ GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-29T09:17:02.619010",
+    "status": "results_found"
+  },
+  {
+    "business": "MAPPERZ",
+    "field": "GST Number",
+    "value": "06ADCPI2643A1ZA",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T09:17:04.380370"
+  },
+  {
+    "business": "MAPPERZ",
+    "field": "PAN Number",
+    "value": "ADCPI2643A",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstverify.co.in/search/",
+    "timestamp": "2026-08-29T09:17:04.380390"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "Owner",
+    "query": "MAPPERZ director owner founder",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://bokepasar.cam/",
+      "https://bokepbox.day/",
+      "https://bokepindo.guru/category/bokep-indo-terbaru/page/17/",
+      "https://bokepindo.guru/category/bokep-indonesia/"
+    ],
+    "timestamp": "2026-08-29T09:17:09.155259",
+    "status": "results_found"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "Owner",
+    "query": "MAPPERZ founder",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.crunchbase.com/person/mohit-singh-0dcd",
+      "https://www.f6s.com/company/mindmapperzinnovationpvt.ltd",
+      "https://www.f6s.com/company/mindmapperz",
+      "https://tracxn.com/d/companies/mind-mapperz/__eP-4NBH1aay0Pf1DtCx1f1JbHifTGDPPJhvNm7giKmc"
+    ],
+    "timestamp": "2026-08-29T09:17:21.364005",
+    "status": "results_found"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "Address",
+    "query": "MAPPERZ registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.mayoclinic.org/diseases-conditions/blood-in-urine/symptoms-causes/syc-20353432",
+      "https://www.mayoclinic.org/diseases-conditions/low-blood-pressure/symptoms-causes/syc-20355465",
+      "https://www.mayoclinic.org/diseases-conditions/sjogrens-syndrome/symptoms-causes/syc-20353216",
+      "https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/symptoms-causes/syc-20355034"
+    ],
+    "timestamp": "2026-08-29T09:17:26.201347",
+    "status": "results_found"
+  },
+  {
+    "seller": "MAPPERZ",
+    "field": "Phone",
+    "query": "MAPPERZ phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.india.com/entertainment/xxx-the-return-of-xander-cage-actor-vin-diesel-is-crushing-over-deepika-padukone-this-statement-is-proof-1756703/",
+      "https://www.india.com/topic/desi/videos/"
+    ],
+    "timestamp": "2026-08-29T09:17:41.381259",
+    "status": "results_found"
+  }
+]

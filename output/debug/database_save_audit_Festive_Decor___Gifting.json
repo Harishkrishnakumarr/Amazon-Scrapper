@@ -1,0 +1,48 @@
+{
+  "category": "Festive Decor & Gifting",
+  "records_before_save": 9,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "ETrade Online",
+      "database_id": 1067,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "mswcorporatesupport@morganstanley.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "METSCAPE INDIA",
+      "database_id": 1068,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919927605178",
+      "email": "metscapeindia65@gmail.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.metscapeindia.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Behoma",
+      "database_id": 1069,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "07AAKCB8242J1ZE",
+      "pan": "AAKCB8242J",
+      "website": "https://www.behoma.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "category": "Fashion Sandals Women",
+  "records_before_save": 7,
+  "records_saved": 7,
+  "records_verified_after_save": 7,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "TRUTONE LIFESTYLE PRIVATE LIMITED",
+      "database_id": 56,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916020162026",
+      "email": "mohit@trutone.in",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.falconebiz.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Cocoblu Retail",
+      "database_id": 57,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915600712026",
+      "email": "care@cocoblu.in",
+      "gst": "29AAJCC8517E1ZH; 07AAJCC8517E1ZN; 09AAJCC8517E1ZJ; 18AAJCC8517E1ZK; 27AAJCC8517E1ZL; 06AAJCC8517E1ZP; 36AAJCC8517E1ZM; 24AAJCC8517E1ZR; 33AAJCC8517E1ZS; 19AAJCC8517E1ZI; 08AAJCC8517E1ZL; 03AAJCC8517E1ZV; 23AAJCC8517E1ZT; 10AAJCC8517E1Z0; 32AAJCC8517E1ZU; 37AAJCC8517E1ZK; 21AAJCC8517E1ZX; 04AAJCC8517E1ZT; 30AAJCC8517E1ZY; 05AAJCC8517E1ZR; 20AAJCC8517E1ZZ; 29AAJCC8517E3ZF",
+      "pan": "AAJCC8517E",
+      "website": "https://www.cocoblu.in/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Arcatron Mobility",
+      "database_id": 58,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918886152025",
+      "email": "mobility@myfrido.com",
+      "gst": "29AANCA5219P1ZZ; 27AANCA5219P1Z3; 06AANCA5219P1Z7; 19AANCA5219P1Z0; 33AANCA5219P1ZA; 36AANCA5219P1Z4; 27AANCA5219P2Z2",
+      "pan": "AANCA5219P",
+      "website": "https://mobility.myfrido.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RUMJHUM CREATIONS",
+      "database_id": 59,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+911010122026",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Yuvi Royals",
+      "database_id": 60,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+915853442026",
+      "email": "support@yuvistyle.com",
+      "gst": "08GSWPS3557L1ZH",
+      "pan": "GSWPS3557L",
+      "website": "https://www.yuvistyle.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "RAZEEN COLLECTION",
+      "database_id": 61,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+916264402285",
+      "email": "info@razeen-gs.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Riddhi Siddhi Traders",
+      "database_id": 62,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919241101233",
+      "email": "Not Found",
+      "gst": "27ATCPS5940A1ZT",
+      "pan": "ATCPS5940A",
+      "website": "https://www.riddhisiddhitraders.com/",
+      "status": "Verified"
+    }
+  ]
+}

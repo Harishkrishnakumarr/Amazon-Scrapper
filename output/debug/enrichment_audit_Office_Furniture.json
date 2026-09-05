@@ -1,0 +1,690 @@
+[
+  {
+    "business": "Madan Artisans",
+    "field": "Business Name",
+    "value": "Madan Artisans",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2PNF6ETSXZBB6&asin=B0GXB6DD7V&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:12:45.324516"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Website",
+    "query": "Madan Artisans official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.madanmohan.in/",
+      "https://www.madanmohan.in/html/the_legend/snapshot/snapshot.html"
+    ],
+    "timestamp": "2026-08-17T09:12:47.730590",
+    "status": "results_found"
+  },
+  {
+    "business": "Madan Artisans",
+    "field": "Website URL",
+    "value": "https://www.madanmohan.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.madanmohan.in/",
+    "timestamp": "2026-08-17T09:12:50.143538"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Legal Entity Name",
+    "query": "Madan Artisans company registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/",
+      "https://www.madanmohan.in/",
+      "https://www.madanstores.com/"
+    ],
+    "timestamp": "2026-08-17T09:12:53.629353",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Legal Entity Name",
+    "query": "Madan Artisans Private Limited registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/",
+      "https://www.madanmohan.in/",
+      "https://www.madanstores.com/"
+    ],
+    "timestamp": "2026-08-17T09:12:57.745733",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Legal Entity Name",
+    "query": "Madan Artisans legal entity",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/",
+      "https://www.madanmohan.in/",
+      "https://www.madanstores.com/"
+    ],
+    "timestamp": "2026-08-17T09:13:01.520503",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "PAN",
+    "query": "Madan Artisans PAN card number",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/",
+      "https://www.madanmohan.in/"
+    ],
+    "timestamp": "2026-08-17T09:13:05.022155",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "PAN",
+    "query": "Madan Artisans PAN",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/"
+    ],
+    "timestamp": "2026-08-17T09:13:07.445065",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "PAN",
+    "query": "Madan Artisans PAN number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.incometaxindia.gov.in/pan-verification",
+      "https://www.paisabazaar.com/pan-card/pan-card-details/",
+      "https://gstverify.co.in/search/",
+      "https://my.gstzen.in/m/taxpayers/pan/madan-traders/AHRPJ3062D/",
+      "https://gstverify.co.in/gst/ms-madan-industries-09abapk4993p1zw/"
+    ],
+    "timestamp": "2026-08-17T09:13:11.583808",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "GST",
+    "query": "Madan Artisans GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/",
+      "https://www.madanmohan.in/",
+      "https://www.madanstores.com/"
+    ],
+    "timestamp": "2026-08-17T09:13:20.774236",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "GST",
+    "query": "Madan Artisans GSTIN",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://cleartax.in/gst-number-search/",
+      "https://piceapp.com/gst-number-search/madan-enterprises-33agzpa0130g1zu/",
+      "https://piceapp.com/gst-number-search/madan-enterprises-27aabpb4056c1zd/",
+      "https://gstverify.co.in/gst/madan-machinery-store-07aanfm7919f1zx/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-08-17T09:13:25.682214",
+    "status": "results_found"
+  },
+  {
+    "business": "Madan Artisans",
+    "field": "GST Number",
+    "value": "33AGZPA0130G1ZU",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/madan-enterprises-33agzpa0130g1zu/",
+    "timestamp": "2026-08-17T09:13:29.086461"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Owner",
+    "query": "Madan Artisans director owner founder",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.crunchbase.com/person/kuldeep-madan"
+    ],
+    "timestamp": "2026-08-17T09:13:32.806947",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Owner",
+    "query": "Madan Artisans managing director",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/",
+      "https://www.madanmohan.in/",
+      "https://www.madanstores.com/"
+    ],
+    "timestamp": "2026-08-17T09:13:34.773468",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Owner",
+    "query": "Madan Artisans founder",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/"
+    ],
+    "timestamp": "2026-08-17T09:13:38.242719",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Address",
+    "query": "Madan Artisans registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/",
+      "https://www.madanmohan.in/"
+    ],
+    "timestamp": "2026-08-17T09:13:40.803423",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Address",
+    "query": "Madan Artisans registered address",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://registry-lookup.com/",
+      "https://www.whitepages.com/people-search",
+      "https://madanplus.com/",
+      "https://tnartisan.tn.gov.in/artisan_register"
+    ],
+    "timestamp": "2026-08-17T09:13:45.463444",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Address",
+    "query": "Madan Artisans head office address",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/"
+    ],
+    "timestamp": "2026-08-17T09:13:55.668760",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Phone",
+    "query": "Madan Artisans phone contact number customer support",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.madanarts.com/contact",
+      "https://www.madanstores.com/",
+      "https://madan-traders-1.ueniweb.com/about-us/our-customer-service-1100908",
+      "https://madansales.com/",
+      "https://prospeo.io/c/madan-stores"
+    ],
+    "timestamp": "2026-08-17T09:14:00.852995",
+    "status": "results_found"
+  },
+  {
+    "business": "Madan Artisans",
+    "field": "Phone Number",
+    "value": "+911100412023",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.madanarts.com/contact",
+    "timestamp": "2026-08-17T09:14:03.089850"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Email",
+    "query": "Madan Artisans email contact address customer care",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://indianexpress.com/article/entertainment/bollywood/bollywood-ghazal-king-madan-mohan-drowned-his-sorrows-in-alcohol-died-at-51-10266381/"
+    ],
+    "timestamp": "2026-08-17T09:14:04.858216",
+    "status": "results_found"
+  },
+  {
+    "seller": "Madan Artisans",
+    "field": "Email",
+    "query": "Madan Artisans official email id",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.madanstores.com/contact-us",
+      "https://www.madanfashion.com/contact_us",
+      "https://contactout.com/jai-madaan-81497",
+      "https://www.madanfashion.com/"
+    ],
+    "timestamp": "2026-08-17T09:14:09.389759",
+    "status": "results_found"
+  },
+  {
+    "business": "Madan Artisans",
+    "field": "Email Address",
+    "value": "madanretails@gmail.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.madanstores.com/contact-us",
+    "timestamp": "2026-08-17T09:14:12.501512"
+  },
+  {
+    "business": "Vaikunth Creations",
+    "field": "Business Name",
+    "value": "Vaikunth Creations",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1M3RYADBBBEQK&asin=B0GW9NZ31F&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:14:12.848397"
+  },
+  {
+    "seller": "Vaikunth Creations",
+    "field": "Website",
+    "query": "Vaikunth Creations official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://vaikunthvillage.com/",
+      "https://housing.com/buy-jp-vaikunth-by-jp-initiatives-llp-in-ambli-ahmedabad-pid-309528"
+    ],
+    "timestamp": "2026-08-17T09:14:14.236370",
+    "status": "results_found"
+  },
+  {
+    "business": "Vaikunth Creations",
+    "field": "Website URL",
+    "value": "https://housing.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://housing.com/buy-jp-vaikunth-by-jp-initiatives-llp-in-ambli-ahmedabad-pid-309528",
+    "timestamp": "2026-08-17T09:14:20.646879"
+  },
+  {
+    "business": "Vaikunth Creations",
+    "field": "Phone Number",
+    "value": "+914499201226",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://housing.com/",
+    "timestamp": "2026-08-17T09:14:21.978634"
+  },
+  {
+    "business": "Vaikunth Creations",
+    "field": "Email Address",
+    "value": "support@housing.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://housing.com/contact-us",
+    "timestamp": "2026-08-17T09:14:26.120687"
+  },
+  {
+    "seller": "Vaikunth Creations",
+    "field": "Legal Entity Name",
+    "query": "Vaikunth Creations company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/company-llp-name-search.html",
+      "https://www.mca.gov.in/content/mca/global/en/data-and-reports/company-llp-info/csr-data-summary.html",
+      "https://www.mca.gov.in/content/mca/global/en/contact-us/grievance-cell.html",
+      "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/enquire-din-status.html",
+      "https://www.dnb.com/business-directory/company-profiles.vaikunth_creation.74cb6587b09b76c30da3c55e1b8a753e.html"
+    ],
+    "timestamp": "2026-08-17T09:14:31.057664",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vaikunth Creations",
+    "field": "Legal Entity Name",
+    "query": "Vaikunth Creations Private Limited registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://vaikunthvillage.com/",
+      "https://housing.com/buy-jp-vaikunth-by-jp-initiatives-llp-in-ambli-ahmedabad-pid-309528",
+      "https://www.makemytrip.com/hotels/vaikunth_village_resort-details-raipur_chhattisgarh.html?msockid=3d8e27a89e4a6ab5083630109f726b22",
+      "https://vaikunth.co/"
+    ],
+    "timestamp": "2026-08-17T09:14:38.995362",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vaikunth Creations",
+    "field": "PAN",
+    "query": "Vaikunth Creations PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vaikunthvillage.com/",
+      "https://housing.com/buy-jp-vaikunth-by-jp-initiatives-llp-in-ambli-ahmedabad-pid-309528",
+      "https://www.makemytrip.com/hotels/vaikunth_village_resort-details-raipur_chhattisgarh.html?msockid=3d8e27a89e4a6ab5083630109f726b22",
+      "https://vaikunth.co/",
+      "https://www.booking.com/hotel/in/vaikunth-village-resort.html?msockid=3d8e27a89e4a6ab5083630109f726b22"
+    ],
+    "timestamp": "2026-08-17T09:14:55.284062",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vaikunth Creations",
+    "field": "GST",
+    "query": "Vaikunth Creations GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vaikunthvillage.com/",
+      "https://housing.com/buy-jp-vaikunth-by-jp-initiatives-llp-in-ambli-ahmedabad-pid-309528",
+      "https://www.makemytrip.com/hotels/vaikunth_village_resort-details-raipur_chhattisgarh.html?msockid=3d8e27a89e4a6ab5083630109f726b22",
+      "https://vaikunth.co/",
+      "https://www.booking.com/hotel/in/vaikunth-village-resort.html?msockid=3d8e27a89e4a6ab5083630109f726b22"
+    ],
+    "timestamp": "2026-08-17T09:15:18.402717",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vaikunth Creations",
+    "field": "Owner",
+    "query": "Vaikunth Creations director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vaikunthvillage.com/",
+      "https://housing.com/buy-jp-vaikunth-by-jp-initiatives-llp-in-ambli-ahmedabad-pid-309528",
+      "https://www.makemytrip.com/hotels/vaikunth_village_resort-details-raipur_chhattisgarh.html?msockid=3d8e27a89e4a6ab5083630109f726b22",
+      "https://vaikunth.co/",
+      "https://www.booking.com/hotel/in/vaikunth-village-resort.html?msockid=3d8e27a89e4a6ab5083630109f726b22"
+    ],
+    "timestamp": "2026-08-17T09:15:38.976664",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vaikunth Creations",
+    "field": "Address",
+    "query": "Vaikunth Creations registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://vaikunthvillage.com/",
+      "https://housing.com/buy-jp-vaikunth-by-jp-initiatives-llp-in-ambli-ahmedabad-pid-309528",
+      "https://www.makemytrip.com/hotels/vaikunth_village_resort-details-raipur_chhattisgarh.html?msockid=3d8e27a89e4a6ab5083630109f726b22",
+      "https://vaikunth.co/",
+      "https://www.booking.com/hotel/in/vaikunth-village-resort.html?msockid=3d8e27a89e4a6ab5083630109f726b22"
+    ],
+    "timestamp": "2026-08-17T09:16:05.315640",
+    "status": "results_found"
+  },
+  {
+    "business": "Vaikunth Creations",
+    "field": "Billing Address",
+    "value": "village jaunda, champaran dc, jaunda-2 (jonda), jonda",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.makemytrip.com/hotels/vaikunth_village_resort-details-raipur_chhattisgarh.html?msockid=3d8e27a89e4a6ab5083630109f726b22",
+    "timestamp": "2026-08-17T09:16:15.876329"
+  },
+  {
+    "business": "Vaikunth Creations",
+    "field": "City",
+    "value": "jonda",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.makemytrip.com/hotels/vaikunth_village_resort-details-raipur_chhattisgarh.html?msockid=3d8e27a89e4a6ab5083630109f726b22",
+    "timestamp": "2026-08-17T09:16:15.876347"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0D2XZ6SZC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-17T09:16:17.459828"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-17T09:16:20.954099",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+    "timestamp": "2026-08-17T09:16:24.857034"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T09:16:25.378068"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T09:16:25.422457"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T09:16:25.422478"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T09:16:25.422484"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-17T09:16:25.422512"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.registerkaro.in/ads/company-registration-online-india?utm_source=bing&campaignId=530909812&utm_medium=ad&utm_content=&utm_term=india%20private%20limited%20company%20registration&utm_adgroup=1352401813567748&network=o&device=c&msclkid=3d5ca8ffaff01eed8ebfc27d2bed25a5&utm_source=bing&utm_medium=cpc&utm_campaign=Private%20-%20High%20CPC%20-%202023-G20658903333%20bing&utm_term=india%20private%20limited%20company%20registration&utm_content=Ad%20group%201",
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=262576&loc_interest_ms=&adgroupid=1345804810076798&keywords=registration%20of%20a%20private%20limited%20company&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct&campaignid=606415594&device=c&domain=companyregistration.direct&placement=&msclkid=fa564490000c194d63842e1284113afc",
+      "https://clickexpose.com/monitoring/click-tracker?adposition=&loc_physical_ms=262576&loc_interest_ms=&adgroupid=1345804810076798&keywords=registration%20of%20a%20private%20limited%20company&network=o&lpurl=https%3A%2F%2Fwww.companyregistration.direct%2Fbuy%2Fincorporation-service%2F&campaignid=606415594&device=c&domain=companyregistration.direct&placement=&msclkid=b2b0c566ebd21a03174fafe46fcf29c8",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-08-17T09:16:34.376397",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd Private Limited registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-08-17T09:16:47.329435",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RetailEZ Pvt Ltd legal entity",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-07aalcr3173p1zp/",
+      "https://retailez.co.in/"
+    ],
+    "timestamp": "2026-08-17T09:17:04.757628",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN card number",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://gst.unifers.ai/gst/27AALCR3173P1ZN/retailez-private-limited",
+      "https://gst.unifers.ai/gst/36AALCR3173P1ZO/retailez-private-limited",
+      "https://fnshiftsolutions.com/gstin-search/retailez-private-limited-27AALCR3173P1ZN",
+      "https://www.scribd.com/document/811814713/PAN-CARD-OF-RETAILEZ-PRIVATE-LIMITED",
+      "https://gstverify.co.in/gst/retailez-private-limited-27aalcr3173p1zn/"
+    ],
+    "timestamp": "2026-08-17T09:17:08.376946",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "RetailEZ Pvt Ltd PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.isico.or.jp/",
+      "https://www.isico.or.jp/event/",
+      "https://www.isico.or.jp/site/jibasan/",
+      "https://www.isico.or.jp/support/",
+      "https://www.isico.or.jp/site/jibasan/rental.html"
+    ],
+    "timestamp": "2026-08-17T09:17:23.531084",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "RetailEZ Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/explore",
+      "https://www.zhihu.com/question/19860864",
+      "https://www.zhihu.com/question/12113462690",
+      "https://www.zhihu.com/question/19614936",
+      "https://www.zhihu.com/question/19792825"
+    ],
+    "timestamp": "2026-08-17T09:17:28.165817",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://apps.apple.com/vn/app/google-d%E1%BB%8Bch/id414706506?l=vi",
+      "https://www.thegioididong.com/game-app/google-dich-cong-cu-dich-ngon-ngu-thong-minh-220700"
+    ],
+    "timestamp": "2026-08-17T09:17:57.145913",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "RetailEZ Pvt Ltd managing director",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.masterdata.in/company/retailez_private_limited/U52602WB2021PTC248134",
+      "https://retailez.co.in/",
+      "https://www.thecompanycheck.com/company/retailez-private-limited/U52602WB2021PTC248134",
+      "https://info.edgeinsights.in/company/Retailez-Private-Limited/217728"
+    ],
+    "timestamp": "2026-08-17T09:18:08.042772",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Email",
+    "query": "RetailEZ Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.zhihu.com/question/2031458671385911868",
+      "https://www.zhihu.com/question/2052047431735550018",
+      "https://jingyan.baidu.com/article/c33e3f483b65d5ea15cbb516.html",
+      "https://jingyan.baidu.com/article/c910274b3adbdf8d371d2d03.html",
+      "https://www.zhihu.com/question/309660435"
+    ],
+    "timestamp": "2026-08-17T09:18:15.177942",
+    "status": "results_found"
+  },
+  {
+    "business": "Clickora",
+    "field": "Business Name",
+    "value": "Clickora",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3O1M8W6LJHCNG&asin=B0BZ572CVP&ref_=dp_merchant_link",
+    "timestamp": "2026-08-17T09:18:19.767378"
+  },
+  {
+    "seller": "Clickora",
+    "field": "Website",
+    "query": "Clickora official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.ptt.cc/bbs/Lifeismoney/index.html",
+      "https://www.ptt.cc/bbs/Lifeismoney/M.1786120893.A.8B3.html"
+    ],
+    "timestamp": "2026-08-17T09:18:21.377994",
+    "status": "results_found"
+  }
+]

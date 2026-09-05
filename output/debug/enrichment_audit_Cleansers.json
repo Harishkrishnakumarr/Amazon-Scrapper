@@ -1,0 +1,732 @@
+[
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0FDQXZD7K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T09:16:34.542378"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://rkgroup.biz/",
+      "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w"
+    ],
+    "timestamp": "2026-08-20T09:16:36.336817",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Website URL",
+    "value": "https://tracxn.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://tracxn.com/d/legal-entities/india/rk-worldinfocom-private-limited/__LAwDlOC-UymIt-BUB4DskGwWojt6aLk8oeI_m1AvS0w",
+    "timestamp": "2026-08-20T09:16:40.018253"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Phone Number",
+    "value": "+912012065294",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T09:16:40.458059"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Billing Address",
+    "value": "L-248, 2nd Floor, 17th Cross, Sector 6, HSR Layout, Bengaluru, Karnataka 560102. CIN: L72200KA2012PLC065294.",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T09:16:40.489166"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "City",
+    "value": "Bengaluru",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T09:16:40.489184"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T09:16:40.489189"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://tracxn.com/",
+    "timestamp": "2026-08-20T09:16:40.489194"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "query": "RK World Infocom Pvt Ltd company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "http://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/"
+    ],
+    "timestamp": "2026-08-20T09:16:45.630975",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "PAN",
+    "query": "RK World Infocom Pvt Ltd PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "http://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/"
+    ],
+    "timestamp": "2026-08-20T09:17:12.475044",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "http://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/"
+    ],
+    "timestamp": "2026-08-20T09:17:33.941278",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "GST",
+    "query": "RK World Infocom Pvt Ltd GSTIN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "http://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/"
+    ],
+    "timestamp": "2026-08-20T09:17:52.238858",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Owner",
+    "query": "RK World Infocom Pvt Ltd director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "http://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/"
+    ],
+    "timestamp": "2026-08-20T09:17:53.462123",
+    "status": "results_found"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Email",
+    "query": "RK World Infocom Pvt Ltd email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://rkgamingstore.com/",
+      "http://en.rkgaming.com/",
+      "https://rkgamingstore.com/collections/rk-keyboard",
+      "https://drive.rkgaming.com/",
+      "http://en.rkgaming.com/product/11/"
+    ],
+    "timestamp": "2026-08-20T09:18:18.027171",
+    "status": "results_found"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Email Address",
+    "value": "support@rkgaming.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://rkgamingstore.com/",
+    "timestamp": "2026-08-20T09:18:22.795600"
+  },
+  {
+    "business": "Fixderma India Pvt. Ltd.",
+    "field": "Business Name",
+    "value": "Fixderma India Pvt. Ltd.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A22WJPWD0J1V45&asin=B08RJ69GKW&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T09:18:24.006070"
+  },
+  {
+    "seller": "Fixderma India Pvt. Ltd.",
+    "field": "Website",
+    "query": "Fixderma India Pvt. Ltd. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.fixderma.com/",
+      "https://www.fixderma.com/collections/skin-care"
+    ],
+    "timestamp": "2026-08-20T09:18:25.795578",
+    "status": "results_found"
+  },
+  {
+    "business": "Fixderma India Pvt. Ltd.",
+    "field": "Website URL",
+    "value": "https://www.fixderma.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.fixderma.com/",
+    "timestamp": "2026-08-20T09:18:34.884104"
+  },
+  {
+    "business": "Fixderma India Pvt. Ltd.",
+    "field": "Phone Number",
+    "value": "+918392025100",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.fixderma.com/",
+    "timestamp": "2026-08-20T09:18:38.848026"
+  },
+  {
+    "business": "Fixderma India Pvt. Ltd.",
+    "field": "Email Address",
+    "value": "support@fixderma.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.fixderma.com/",
+    "timestamp": "2026-08-20T09:18:38.848473"
+  },
+  {
+    "seller": "Fixderma India Pvt. Ltd.",
+    "field": "Legal Entity Name",
+    "query": "Fixderma India Pvt. Ltd. company registration",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.fixderma.com/",
+      "https://www.fixderma.com/collections/skin-care",
+      "https://www.nykaa.com/brands/fixderma/c/23725",
+      "https://www.purplle.com/brand/fixderma"
+    ],
+    "timestamp": "2026-08-20T09:19:04.223337",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fixderma India Pvt. Ltd.",
+    "field": "PAN",
+    "query": "Fixderma India Pvt. Ltd. PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.fixderma.com/",
+      "https://www.fixderma.com/collections/skin-care",
+      "https://www.nykaa.com/brands/fixderma/c/23725",
+      "https://www.purplle.com/brand/fixderma",
+      "https://www.clinikally.com/collections/fixderma"
+    ],
+    "timestamp": "2026-08-20T09:19:25.984327",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fixderma India Pvt. Ltd.",
+    "field": "GST",
+    "query": "Fixderma India Pvt. Ltd. GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.fixderma.com/",
+      "https://www.fixderma.com/collections/skin-care",
+      "https://www.nykaa.com/brands/fixderma/c/23725",
+      "https://www.purplle.com/brand/fixderma",
+      "https://www.clinikally.com/collections/fixderma"
+    ],
+    "timestamp": "2026-08-20T09:19:46.985349",
+    "status": "results_found"
+  },
+  {
+    "seller": "Fixderma India Pvt. Ltd.",
+    "field": "Owner",
+    "query": "Fixderma India Pvt. Ltd. director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.fixderma.com/",
+      "https://www.fixderma.com/collections/skin-care",
+      "https://www.nykaa.com/brands/fixderma/c/23725",
+      "https://www.purplle.com/brand/fixderma",
+      "https://www.clinikally.com/collections/fixderma"
+    ],
+    "timestamp": "2026-08-20T09:20:08.945355",
+    "status": "results_found"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "Business Name",
+    "value": "Vedi Herbals",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AZNAQ5DF3TW20&asin=B0DZ23Q4SV&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T09:20:24.639201"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "Website",
+    "query": "Vedi Herbals official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964"
+    ],
+    "timestamp": "2026-08-20T09:20:26.207273",
+    "status": "results_found"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "Website URL",
+    "value": "https://www.vediherbals.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vediherbals.com/",
+    "timestamp": "2026-08-20T09:20:33.820665"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "Phone Number",
+    "value": "+919313162026",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vediherbals.com/",
+    "timestamp": "2026-08-20T09:20:37.531737"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "Email Address",
+    "value": "bengaluru@vediwellness.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vediherbals.com/",
+    "timestamp": "2026-08-20T09:20:37.532374"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "Billing Address",
+    "value": "Plot No- 266/3328, Gangadhar Meher Marg Patia, PO-KIIT, Bhubaneswar, Odisha 751024",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vediherbals.com/",
+    "timestamp": "2026-08-20T09:20:37.990591"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "City",
+    "value": "Bhubaneswar",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vediherbals.com/",
+    "timestamp": "2026-08-20T09:20:37.990608"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "State",
+    "value": "Odisha",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vediherbals.com/",
+    "timestamp": "2026-08-20T09:20:37.990613"
+  },
+  {
+    "business": "Vedi Herbals",
+    "field": "Pincode",
+    "value": "751024",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vediherbals.com/",
+    "timestamp": "2026-08-20T09:20:37.990630"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "Legal Entity Name",
+    "query": "Vedi Herbals company registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/",
+      "https://www.sunpictures.in/movies/vedi/",
+      "https://www.sunnxt.com/tamil-movie-vedi-2011/detail/6964"
+    ],
+    "timestamp": "2026-08-20T09:20:51.627543",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "Legal Entity Name",
+    "query": "Vedi Herbals Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/",
+      "https://www.sunpictures.in/movies/vedi/",
+      "https://www.sunnxt.com/tamil-movie-vedi-2011/detail/6964"
+    ],
+    "timestamp": "2026-08-20T09:21:02.104181",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "PAN",
+    "query": "Vedi Herbals PAN card number",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/"
+    ],
+    "timestamp": "2026-08-20T09:21:19.163773",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "PAN",
+    "query": "Vedi Herbals PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/",
+      "https://www.sunpictures.in/movies/vedi/",
+      "https://www.sunnxt.com/tamil-movie-vedi-2011/detail/6964"
+    ],
+    "timestamp": "2026-08-20T09:21:30.441347",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "GST",
+    "query": "Vedi Herbals GSTIN registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/",
+      "https://www.sunpictures.in/movies/vedi/",
+      "https://www.sunnxt.com/tamil-movie-vedi-2011/detail/6964"
+    ],
+    "timestamp": "2026-08-20T09:21:39.655739",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "GST",
+    "query": "Vedi Herbals GSTIN",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/",
+      "https://www.sunpictures.in/movies/vedi/"
+    ],
+    "timestamp": "2026-08-20T09:21:51.572647",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "Owner",
+    "query": "Vedi Herbals director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/",
+      "https://www.sunpictures.in/movies/vedi/",
+      "https://www.sunnxt.com/tamil-movie-vedi-2011/detail/6964"
+    ],
+    "timestamp": "2026-08-20T09:22:00.075073",
+    "status": "results_found"
+  },
+  {
+    "seller": "Vedi Herbals",
+    "field": "Owner",
+    "query": "Vedi Herbals managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://m.imdb.com/title/tt2073138/",
+      "https://www.airtelxstream.in/movies/vedi/SUNNXT_MOVIE_6964",
+      "https://vedi.co.in/",
+      "https://www.sunpictures.in/movies/vedi/",
+      "https://www.sunnxt.com/tamil-movie-vedi-2011/detail/6964"
+    ],
+    "timestamp": "2026-08-20T09:22:12.312959",
+    "status": "results_found"
+  },
+  {
+    "business": "Mosaic Wellness Private Ltd.",
+    "field": "Business Name",
+    "value": "Mosaic Wellness Private Ltd.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2LCMLWCV4CNLP&asin=B0F3DGBX4T&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-08-20T09:22:19.190882"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Website",
+    "query": "Mosaic Wellness Private Ltd. official website",
+    "provider": "Bing",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/"
+    ],
+    "timestamp": "2026-08-20T09:22:20.816654",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Legal Entity Name",
+    "query": "Mosaic Wellness Private Ltd. company registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/mosaic-wellness-private-limited/__zF313IuYiDHxnBUXhloxlTmoXo6UjzWn4ka9qUv4Pvk",
+      "https://www.falconebiz.com/company/MOSAIC-WELLNESS-PRIVATE-LIMITED-U52609MH2019PTC328779",
+      "https://www.instafinancials.com/company/mosaic-wellness-private-limited-U52609MH2019PTC328779/company-overview",
+      "https://www.indiafilings.com/search/mosaic-wellness-private-limited-cin-U52609MH2019PTC328779",
+      "https://www.registrationwala.com/company/mosaic-wellness-private-limited/U52609MH2019PTC328779"
+    ],
+    "timestamp": "2026-08-20T09:22:34.262526",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Legal Entity Name",
+    "query": "Mosaic Wellness Private Ltd. Private Limited registration",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:22:43.131995",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "PAN",
+    "query": "Mosaic Wellness Private Ltd. PAN card number",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:22:52.751341",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "PAN",
+    "query": "Mosaic Wellness Private Ltd. PAN",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:23:05.833585",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "GST",
+    "query": "Mosaic Wellness Private Ltd. GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/mosaic-wellness-private-limited-27AASCA5755D1ZE/",
+      "https://www.knowyourgst.com/gst-number-search/mosaic-wellness-private-limited-06AASCA5755D1ZI/",
+      "https://piceapp.com/gst-number-search/mosaic-wellness-private-limited-06aasca5755d1zi/",
+      "https://gst.unifers.ai/gst/27AASCA5755D2ZD/mosaic-wellness-private-limited",
+      "https://gst.jamku.app/gstin/27AASCA5755D1ZE"
+    ],
+    "timestamp": "2026-08-20T09:23:24.669088",
+    "status": "results_found"
+  },
+  {
+    "business": "Mosaic Wellness Private Ltd.",
+    "field": "GST Number",
+    "value": "27AASCA5755D1ZE",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/mosaic-wellness-private-limited-27AASCA5755D1ZE/",
+    "timestamp": "2026-08-20T09:23:25.253766"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Owner",
+    "query": "Mosaic Wellness Private Ltd. director owner founder",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:23:26.723140",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Owner",
+    "query": "Mosaic Wellness Private Ltd. managing director",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:23:39.546298",
+    "status": "results_found"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Address",
+    "query": "Mosaic Wellness Private Ltd. registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:23:47.720560",
+    "status": "results_found"
+  },
+  {
+    "business": "Mosaic Wellness Private Ltd.",
+    "field": "Billing Address",
+    "value": "s-194, ugf, school block",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mosaiccoindia.com/",
+    "timestamp": "2026-08-20T09:23:49.705699"
+  },
+  {
+    "business": "Mosaic Wellness Private Ltd.",
+    "field": "City",
+    "value": "school block",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mosaiccoindia.com/",
+    "timestamp": "2026-08-20T09:23:49.705714"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Phone",
+    "query": "Mosaic Wellness Private Ltd. phone contact number customer support",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:23:51.884557",
+    "status": "results_found"
+  },
+  {
+    "business": "Mosaic Wellness Private Ltd.",
+    "field": "Phone Number",
+    "value": "+911244546400",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mosaiccoindia.com/",
+    "timestamp": "2026-08-20T09:23:53.739873"
+  },
+  {
+    "seller": "Mosaic Wellness Private Ltd.",
+    "field": "Email",
+    "query": "Mosaic Wellness Private Ltd. email contact address customer care",
+    "provider": "Bing",
+    "result_count": 5,
+    "result_urls": [
+      "https://www.mosaiccoindia.com/",
+      "http://www.mosaicco.com/",
+      "https://www.mosaiccoindia.com/india-overview/",
+      "https://www.britannica.com/art/mosaic-art",
+      "https://www.worldhistory.org/Mosaic/"
+    ],
+    "timestamp": "2026-08-20T09:23:56.213568",
+    "status": "results_found"
+  },
+  {
+    "business": "Mosaic Wellness Private Ltd.",
+    "field": "Email Address",
+    "value": "care.india@mosaicco.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.mosaiccoindia.com/",
+    "timestamp": "2026-08-20T09:23:57.873429"
+  }
+]
