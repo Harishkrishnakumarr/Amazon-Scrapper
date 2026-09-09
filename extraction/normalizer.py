@@ -1,6 +1,6 @@
 import re
 from typing import Dict, Optional, Tuple
-from extraction.address_parser import parse_indian_address
+from extraction.address_parser import parse_indian_address, clean_text_field, GST_STATE_PREFIXES
 
 CATEGORY_MAPPINGS = {
     r"(?i)\bmen'?s?\s*(shoes|footwear|foot\s*wear)\b": "Men's Footwear",
@@ -20,7 +20,7 @@ def normalize_category(category_raw: str) -> str:
     if not category_raw or category_raw.strip() in ("", "Unknown", "Not Found"):
         return "Unknown"
     
-    clean_cat = category_raw.strip()
+    clean_cat = clean_text_field(category_raw)
     for pattern, normalized in CATEGORY_MAPPINGS.items():
         if re.search(pattern, clean_cat):
             return normalized
@@ -45,28 +45,20 @@ def normalize_email(email_raw: str) -> str:
     if not email_raw or email_raw in ("Not Found", "N/A"):
         return "Not Found"
     
-    match = re.search(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", email_raw)
+    clean_em = clean_text_field(email_raw)
+    match = re.search(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", clean_em)
     if match:
         return match.group(0).lower()
     return "Not Found"
 
-GST_STATE_CODES = {
-    "01": "Jammu and Kashmir", "02": "Himachal Pradesh", "03": "Punjab", "04": "Chandigarh",
-    "05": "Uttarakhand", "06": "Haryana", "07": "Delhi", "08": "Rajasthan",
-    "09": "Uttar Pradesh", "10": "Bihar", "11": "Sikkim", "12": "Arunachal Pradesh",
-    "13": "Nagaland", "14": "Manipur", "15": "Mizoram", "16": "Tripura",
-    "17": "Meghalaya", "18": "Assam", "19": "West Bengal", "20": "Jharkhand",
-    "21": "Odisha", "22": "Chhattisgarh", "23": "Madhya Pradesh", "24": "Gujarat",
-    "26": "Dadra and Nagar Haveli and Daman and Diu", "27": "Maharashtra", "29": "Karnataka",
-    "30": "Goa", "31": "Lakshadweep", "32": "Kerala", "33": "Tamil Nadu",
-    "34": "Puducherry", "35": "Andaman and Nicobar Islands", "36": "Telangana", "37": "Andhra Pradesh"
-}
+GST_STATE_CODES = GST_STATE_PREFIXES
 
 def normalize_gst(gst_raw: str) -> str:
     if not gst_raw or gst_raw in ("Not Found", "N/A", "Unverified"):
         return "Not Found"
     
-    match = re.search(r"\b[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}\b", gst_raw.upper())
+    clean_gst = clean_text_field(gst_raw).upper()
+    match = re.search(r"\b[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}\b", clean_gst)
     if match:
         return match.group(0)
     return "Not Found"
@@ -101,7 +93,8 @@ def normalize_pan(pan_raw: str) -> str:
     if not pan_raw or pan_raw in ("Not Found", "N/A"):
         return "Not Found"
     
-    match = re.search(r"\b[A-Z]{5}[0-9]{4}[A-Z]{1}\b", pan_raw.upper())
+    clean_p = clean_text_field(pan_raw).upper()
+    match = re.search(r"\b[A-Z]{5}[0-9]{4}[A-Z]{1}\b", clean_p)
     if match:
         return match.group(0)
     return "Not Found"
@@ -112,10 +105,10 @@ def validate_pan(pan_raw: str) -> bool:
 def validate_pincode(pincode_raw: str) -> bool:
     if not pincode_raw or pincode_raw in ("Not Found", "N/A"):
         return False
-    return bool(re.search(r"\b[1-9][0-9]{5}\b", str(pincode_raw)))
+    return bool(re.search(r"\b[1-9][0-9]{2}\s?[0-9]{3}\b", str(pincode_raw)))
 
-def normalize_address(addr_raw: str) -> Dict[str, str]:
-    return parse_indian_address(addr_raw)
+def normalize_address(addr_raw: str, gst_raw: str = "") -> Dict[str, str]:
+    return parse_indian_address(addr_raw, gst_number=gst_raw)
 
 def normalize_seller_key(name: str) -> str:
     """

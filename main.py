@@ -417,16 +417,25 @@ def process_category_run(
             enriched_record.s_no = s_no
             enriched_record.sub_sub_category = category_name
 
-            # Completion Banner
+            # Completion Banner & Audit Logging
+            gst_yes = 'YES' if enriched_record.gst_number not in ('Not Found', 'Unverified', 'N/A', None) else 'NO'
+            phone_yes = 'YES' if enriched_record.phone_number not in ('Not Found', 'N/A', None) else 'NO'
+            email_yes = 'YES' if enriched_record.email_address not in ('Not Found', 'N/A', None) else 'NO'
+            pan_yes = 'YES' if enriched_record.pan_number not in ('Not Found', 'N/A', None) else 'NO'
+            addr_yes = 'YES' if enriched_record.billing_address not in ('Not Found', 'N/A', None) else 'NO'
+            web_yes = 'YES' if enriched_record.website_url not in ('Not Found', 'N/A', None) else 'NO'
+
+            logger.info(f"[INFO] Scraped '{enriched_record.business_name}' -> GST: {gst_yes} | Phone: {phone_yes} | Address: {addr_yes} | Email: {email_yes} | PAN: {pan_yes} | Website: {web_yes}")
+
             print("\nSELLER ENRICHMENT COMPLETE")
             print(f"\nSeller:\n{enriched_record.business_name}\n")
             print(f"Fields found:")
-            print(f"Phone: {'YES' if enriched_record.phone_number != 'Not Found' else 'NO'}")
-            print(f"Email: {'YES' if enriched_record.email_address != 'Not Found' else 'NO'}")
-            print(f"GST: {'YES' if enriched_record.gst_number not in ('Not Found', 'Unverified') else 'NO'}")
-            print(f"PAN: {'YES' if enriched_record.pan_number != 'Not Found' else 'NO'}")
-            print(f"Address: {'YES' if enriched_record.billing_address != 'Not Found' else 'NO'}")
-            print(f"Website: {'YES' if enriched_record.website_url != 'Not Found' else 'NO'}")
+            print(f"Phone: {phone_yes}")
+            print(f"Email: {email_yes}")
+            print(f"GST: {gst_yes}")
+            print(f"PAN: {pan_yes}")
+            print(f"Address: {addr_yes}")
+            print(f"Website: {web_yes}")
             print("\nContinuing to next seller...\n")
 
             # Save Partial Data Immediately in SQLite Database

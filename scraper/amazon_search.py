@@ -114,6 +114,17 @@ Status: {last_block_reason}
                         continue
                     else:
                         raise AmazonBlockedException("Navigation Timeout (30s)", current_url)
+                except Exception as e:
+                    last_block_reason = f"Navigation Error: {e}"
+                    print(f"Amazon navigation error (attempt {attempt}/{self.max_retries}): {e}")
+                    logger.warning(f"Error opening Amazon search page (attempt {attempt}): {e}")
+                    if attempt < self.max_retries:
+                        delay = backoff_delays[attempt - 1]
+                        print(f"Retrying in {delay}s...")
+                        time.sleep(delay)
+                        continue
+                    else:
+                        raise AmazonBlockedException(str(e), current_url)
 
             if not page_loaded:
                 break

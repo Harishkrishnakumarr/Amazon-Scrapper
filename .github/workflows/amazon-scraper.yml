@@ -55,6 +55,17 @@ jobs:
         run: |
           python main.py --batch --headless
 
+      # 6b. Upload Debug Captcha/HTML Dumps on Failure
+      - name: Upload Debug Screenshots
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-debug-dumps
+          path: |
+            output/debug/
+            output/*.png
+            logs/
+
       # 7. Verify output
       - name: Verify output
         if: always()

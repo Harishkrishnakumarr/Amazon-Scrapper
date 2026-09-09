@@ -1,0 +1,640 @@
+[
+  {
+    "business": "Yuvi Royals",
+    "field": "Business Name",
+    "value": "Yuvi Royals",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5NBC6PX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-09T19:41:42.936839"
+  },
+  {
+    "business": "Yuvi Royals",
+    "field": "Legal Entity Name",
+    "value": "Yuvi Royals",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5NBC6PX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-09T19:41:42.937220"
+  },
+  {
+    "seller": "Yuvi Royals",
+    "field": "Website",
+    "query": "Yuvi Royals official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.mlb.com/royals?c_id=kc",
+      "https://www.mlb.com/royals/tickets"
+    ],
+    "timestamp": "2026-09-09T19:41:49.122881",
+    "status": "results_found"
+  },
+  {
+    "seller": "Yuvi Royals",
+    "field": "PAN",
+    "query": "\"Yuvi Royals\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number"
+    ],
+    "timestamp": "2026-09-09T19:42:00.686483",
+    "status": "results_found"
+  },
+  {
+    "seller": "Yuvi Royals",
+    "field": "PAN",
+    "query": "\"Yuvi Royals\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/yuvi-royals-08GSWPS3557L1ZH/",
+      "https://gstverify.co.in/search/",
+      "https://www.infobel.com/en/india/yuvi_royals/jaipur/IN121726000/businessdetails.aspx",
+      "https://piceapp.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-09T19:42:04.675320",
+    "status": "results_found"
+  },
+  {
+    "business": "Yuvi Royals",
+    "field": "GST Number",
+    "value": "08GSWPS3557L1ZH",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/yuvi-royals-08GSWPS3557L1ZH/",
+    "timestamp": "2026-09-09T19:42:05.249287"
+  },
+  {
+    "business": "Yuvi Royals",
+    "field": "PAN Number",
+    "value": "GSWPS3557L",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/yuvi-royals-08GSWPS3557L1ZH/",
+    "timestamp": "2026-09-09T19:42:05.249298"
+  },
+  {
+    "seller": "Yuvi Royals",
+    "field": "Owner",
+    "query": "\"Yuvi Royals\" \"08GSWPS3557L1ZH\" director owner ZaubaCorp Tofler",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://m.cricbuzz.com/profiles/69/yuvraj-singh",
+      "https://www.cricinfo.com/cricketers/yuvraj-singh-36084",
+      "https://yuvi.co.in/"
+    ],
+    "timestamp": "2026-09-09T19:42:06.837745",
+    "status": "results_found"
+  },
+  {
+    "business": "Yuvi Royals",
+    "field": "Phone Number",
+    "value": "+919163042833",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://yuvi.co.in/",
+    "timestamp": "2026-09-09T19:42:10.081418"
+  },
+  {
+    "business": "Yuvi Royals",
+    "field": "Email Address",
+    "value": "info@yuvi.co.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://yuvi.co.in/",
+    "timestamp": "2026-09-09T19:42:10.081551"
+  },
+  {
+    "seller": "Yuvi Royals",
+    "field": "Owner",
+    "query": "\"Yuvi Royals\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zaubacorp.com/",
+      "https://www.zaubacorp.com/deep-research",
+      "https://www.zaubacorp.com/signup",
+      "https://www.zaubacorp.com/company-research"
+    ],
+    "timestamp": "2026-09-09T19:42:13.318201",
+    "status": "results_found"
+  },
+  {
+    "seller": "Yuvi Royals",
+    "field": "Address",
+    "query": "\"Yuvi Royals\" registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/yuvi-royals-08GSWPS3557L1ZH/",
+      "https://www.infobel.com/en/india/yuvi_royals/jaipur/IN121726000/businessdetails.aspx",
+      "https://www.scribd.com/document/577326585/2020100746",
+      "https://indiancompanies.in/hatsun-agro-product/"
+    ],
+    "timestamp": "2026-09-09T19:42:18.596053",
+    "status": "results_found"
+  },
+  {
+    "seller": "Yuvi Royals",
+    "field": "Address",
+    "query": "\"Yuvi Royals\" India contact address",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.infobel.com/en/india/yuvi_royals/jaipur/IN121726000/businessdetails.aspx",
+      "https://www.justdial.com/Jaipur/Yuvi-Royals-Amer-Natata/0141PX141-X141-221202005626-S6S6_BZDET",
+      "https://www.knowyourgst.com/gst-number-search/yuvi-royals-08GSWPS3557L1ZH/"
+    ],
+    "timestamp": "2026-09-09T19:42:32.406930",
+    "status": "results_found"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Business Name",
+    "value": "FashionVillage20",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP798T8C&ref_=dp_merchant_link",
+    "timestamp": "2026-09-09T19:42:32.555623"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Legal Entity Name",
+    "value": "FashionVillage20",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP798T8C&ref_=dp_merchant_link",
+    "timestamp": "2026-09-09T19:42:32.555636"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Website",
+    "query": "FashionVillage20 official website",
+    "provider": "Bing",
+    "result_count": 1,
+    "result_urls": [
+      "https://es.ccm.net/descargas/entretenimiento/7152-youtube-vanced-para-android-apk/"
+    ],
+    "timestamp": "2026-09-09T19:42:35.835482",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "PAN",
+    "query": "\"FashionVillage20\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://quicko.com/tools/verify-pan-details",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-09-09T19:42:40.276038",
+    "status": "results_found"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Phone Number",
+    "value": "+918001801961",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+    "timestamp": "2026-09-09T19:42:42.868441"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "Email Address",
+    "value": "contact@jaagrukbharat.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+    "timestamp": "2026-09-09T19:42:42.868846"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "PAN",
+    "query": "\"FashionVillage20\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://gstpan.com/",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.caclubindia.com/forum/searching-name-by-pan-number-without-any-other-details-556050.asp"
+    ],
+    "timestamp": "2026-09-09T19:42:46.343331",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "GST",
+    "query": "\"FashionVillage20\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-09T19:43:04.059481",
+    "status": "no_results"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "GST",
+    "query": "\"FashionVillage20\" GST number India",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.checkyourgst.com/",
+      "https://gstextract.com/gstin-details",
+      "https://gstverify.co.in/search/",
+      "https://www.invoizzy.in/gst-number-search"
+    ],
+    "timestamp": "2026-09-09T19:43:06.931658",
+    "status": "results_found"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "GST Number",
+    "value": "27AAPFU0939F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.checkyourgst.com/",
+    "timestamp": "2026-09-09T19:43:11.238072"
+  },
+  {
+    "business": "FashionVillage20",
+    "field": "PAN Number",
+    "value": "AAPFU0939F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.checkyourgst.com/",
+    "timestamp": "2026-09-09T19:43:11.238083"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Owner",
+    "query": "\"FashionVillage20\" \"27AAPFU0939F1ZV\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-09T19:43:17.731063",
+    "status": "no_results"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Owner",
+    "query": "\"FashionVillage20\" director owner ZaubaCorp Tofler",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://chatgpt.com/",
+      "https://chatgpt.com/features",
+      "https://openai.com/index/chatgpt/",
+      "https://openai.com/"
+    ],
+    "timestamp": "2026-09-09T19:43:19.281493",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Address",
+    "query": "\"FashionVillage20\" registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://courtcasefinder.com/",
+      "https://recordsfinder.com/court/",
+      "https://publiccourtrecords.org/court-records-search/",
+      "https://unicourt.com/courts/state"
+    ],
+    "timestamp": "2026-09-09T19:43:24.067818",
+    "status": "results_found"
+  },
+  {
+    "seller": "FashionVillage20",
+    "field": "Address",
+    "query": "\"FashionVillage20\" India contact address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365-0.html",
+      "https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365.html",
+      "https://caselaw.findlaw.com/court/la-court-of-appeal/116769851.html",
+      "https://courtcasefinder.com/"
+    ],
+    "timestamp": "2026-09-09T19:43:35.796557",
+    "status": "results_found"
+  },
+  {
+    "business": "Desire Footwears Creations",
+    "field": "Business Name",
+    "value": "Desire Footwears Creations",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEIYDXMAA4CJC&asin=B0GWMV2PXX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-09T19:43:38.178700"
+  },
+  {
+    "business": "Desire Footwears Creations",
+    "field": "Legal Entity Name",
+    "value": "Desire Footwears Creations",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEIYDXMAA4CJC&asin=B0GWMV2PXX&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-09T19:43:38.178709"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "Website",
+    "query": "Desire Footwears Creations official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://desireatl.com/",
+      "https://desireonlinestore.com/"
+    ],
+    "timestamp": "2026-09-09T19:43:42.571554",
+    "status": "results_found"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "PAN",
+    "query": "\"Desire Footwears Creations\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://gstverify.co.in/search/",
+      "https://www.goodreturns.in/pan-card-details-pancid9.html"
+    ],
+    "timestamp": "2026-09-09T19:43:49.699625",
+    "status": "results_found"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "PAN",
+    "query": "\"Desire Footwears Creations\" PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/desire",
+      "https://www.themoviedb.org/movie/1668364-deseo",
+      "https://dictionary.cambridge.org/dictionary/english/desire",
+      "https://vimeo.com/481045519?msockid=364e881f6bdb65dd03729fd06a656417"
+    ],
+    "timestamp": "2026-09-09T19:43:52.070298",
+    "status": "results_found"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "GST",
+    "query": "\"Desire Footwears Creations\" GSTIN registration",
+    "provider": "Bing",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/desire",
+      "https://www.themoviedb.org/movie/1668364-deseo",
+      "https://dictionary.cambridge.org/dictionary/english/desire"
+    ],
+    "timestamp": "2026-09-09T19:44:17.984751",
+    "status": "results_found"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "Owner",
+    "query": "\"Desire Footwears Creations\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zaubacorp.com/",
+      "https://www.zaubacorp.com/deep-research",
+      "https://www.zaubacorp.com/signup",
+      "https://www.zaubacorp.com/company-research"
+    ],
+    "timestamp": "2026-09-09T19:44:46.781749",
+    "status": "results_found"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "Owner",
+    "query": "\"Desire Footwears Creations\" founder managing director",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.bwtech.in/public/news/a-special-celebration-for-nikita-kumawat-co-founder-managing-director",
+      "https://www.wordplays.com/crossword-solver/%22calculation-agency-services-in-Europe%22-founder-managing-director",
+      "https://leadlearngrow.libsyn.com/carla-fowler-md-phd-founder-and-managing-director-thaxa"
+    ],
+    "timestamp": "2026-09-09T19:44:56.669124",
+    "status": "results_found"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "Address",
+    "query": "\"Desire Footwears Creations\" registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/desire",
+      "https://www.themoviedb.org/movie/1668364-deseo",
+      "https://dictionary.cambridge.org/dictionary/english/desire",
+      "https://vimeo.com/481045519?msockid=364e881f6bdb65dd03729fd06a656417"
+    ],
+    "timestamp": "2026-09-09T19:44:58.798674",
+    "status": "results_found"
+  },
+  {
+    "seller": "Desire Footwears Creations",
+    "field": "Phone",
+    "query": "\"Desire Footwears Creations\" India contact email phone official website",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.merriam-webster.com/dictionary/desire",
+      "https://www.themoviedb.org/movie/1668364-deseo",
+      "https://dictionary.cambridge.org/dictionary/english/desire",
+      "https://vimeo.com/481045519?msockid=364e881f6bdb65dd03729fd06a656417"
+    ],
+    "timestamp": "2026-09-09T19:45:23.031452",
+    "status": "results_found"
+  },
+  {
+    "business": "H.V Global",
+    "field": "Business Name",
+    "value": "H.V Global",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3K984F2AD6G92&asin=B0G2H7GD13&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-09T19:45:45.220557"
+  },
+  {
+    "business": "H.V Global",
+    "field": "Legal Entity Name",
+    "value": "H.V Global",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3K984F2AD6G92&asin=B0G2H7GD13&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-09T19:45:45.220575"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "Website",
+    "query": "H.V Global official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.hollingsworth-vose.com/",
+      "https://www.hollingsworth-vose.com/products/energy-solutions/"
+    ],
+    "timestamp": "2026-09-09T19:45:51.065538",
+    "status": "results_found"
+  },
+  {
+    "business": "H.V Global",
+    "field": "Website URL",
+    "value": "https://www.hollingsworth-vose.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.hollingsworth-vose.com/",
+    "timestamp": "2026-09-09T19:46:39.589143"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "PAN",
+    "query": "\"H.V Global\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.registerkaro.in/company/h-v-global-private-limited-U18101DL2000PTC103960",
+      "https://www.masterdata.in/company/h_v_global_private_limited/U18101DL2000PTC103960",
+      "https://www.thecompanycheck.com/company/h-v-global-private-limited/U18101DL2000PTC103960",
+      "https://www.falconebiz.com/company/H-V-GLOBAL-PRIVATE-LIMITED-U18101DL2000PTC103960"
+    ],
+    "timestamp": "2026-09-09T19:46:53.544629",
+    "status": "results_found"
+  },
+  {
+    "business": "H.V Global",
+    "field": "Phone Number",
+    "value": "+919217326570",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.registerkaro.in/company/h-v-global-private-limited-U18101DL2000PTC103960",
+    "timestamp": "2026-09-09T19:46:54.928446"
+  },
+  {
+    "business": "H.V Global",
+    "field": "Email Address",
+    "value": "schdv@yahoo.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.falconebiz.com/company/H-V-GLOBAL-PRIVATE-LIMITED-U18101DL2000PTC103960",
+    "timestamp": "2026-09-09T19:46:58.722765"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "PAN",
+    "query": "\"H.V Global\" PAN number",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=364e881f6bdb65dd03729fd06a656417",
+      "https://www.britannica.com/topic/H-letter",
+      "https://en.wiktionary.org/wiki/h",
+      "https://www.havefunteaching.com/resource/letter-h-song-original-music-video/"
+    ],
+    "timestamp": "2026-09-09T19:47:00.414111",
+    "status": "results_found"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "GST",
+    "query": "\"H.V Global\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/h-v-global-p-ltd-03AAACH7298C4ZO",
+      "https://www.mastersindia.co/gst-search/?name=h-v-global-p-ltd&gstin=07AAACH7298C2ZI",
+      "https://www.knowyourgst.com/gst-number-search/h-v-global-p-ltd-07AAACH7298C2ZI/",
+      "https://fnshiftsolutions.com/gstin-search/h-v-global-p-ltd-06AAACH7298C2ZK"
+    ],
+    "timestamp": "2026-09-09T19:47:09.567672",
+    "status": "results_found"
+  },
+  {
+    "business": "H.V Global",
+    "field": "GST Number",
+    "value": "03AAACH7298C4ZO",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/h-v-global-p-ltd-03AAACH7298C4ZO",
+    "timestamp": "2026-09-09T19:47:10.071706"
+  },
+  {
+    "business": "H.V Global",
+    "field": "PAN Number",
+    "value": "AAACH7298C",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://fnshiftsolutions.com/gstin-search/h-v-global-p-ltd-03AAACH7298C4ZO",
+    "timestamp": "2026-09-09T19:47:10.071717"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "Owner",
+    "query": "\"H.V Global\" \"03AAACH7298C4ZO\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://fnshiftsolutions.com/gstin-search/h-v-global-p-ltd-03AAACH7298C4ZO"
+    ],
+    "timestamp": "2026-09-09T19:47:13.053284",
+    "status": "results_found"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "Owner",
+    "query": "\"H.V Global\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tofler.in/h-v-global-private-limited/company/U18101DL2000PTC103960",
+      "https://www.zaubacorp.com/company-directors/H-V-GLOBAL-PRIVATE-LIMITED/U18101DL2000PTC103960",
+      "https://www.zaubacorp.com/company/H-V-GLOBAL-PRIVATE-LIMITED/U18101DL2000PTC103960",
+      "https://www.zaubacorp.com/"
+    ],
+    "timestamp": "2026-09-09T19:47:16.310446",
+    "status": "results_found"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "Address",
+    "query": "\"H.V Global\" registered office address corporate office",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=364e881f6bdb65dd03729fd06a656417",
+      "https://www.britannica.com/topic/H-letter",
+      "https://en.wiktionary.org/wiki/h",
+      "https://www.havefunteaching.com/resource/letter-h-song-original-music-video/"
+    ],
+    "timestamp": "2026-09-09T19:47:21.312317",
+    "status": "results_found"
+  },
+  {
+    "seller": "H.V Global",
+    "field": "Address",
+    "query": "\"H.V Global\" India contact address",
+    "provider": "Bing",
+    "result_count": 4,
+    "result_urls": [
+      "https://www2.hm.com/en_in/index.html?msockid=364e881f6bdb65dd03729fd06a656417",
+      "https://www.britannica.com/topic/H-letter",
+      "https://en.wiktionary.org/wiki/h",
+      "https://www.havefunteaching.com/resource/letter-h-song-original-music-video/"
+    ],
+    "timestamp": "2026-09-09T19:47:25.539931",
+    "status": "results_found"
+  }
+]

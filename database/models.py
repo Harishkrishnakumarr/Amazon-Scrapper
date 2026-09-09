@@ -21,10 +21,10 @@ class SellerRecord:
     city: str = "Not Found"
     state: str = "Not Found"
     pincode: str = "Not Found"
-    country: str = "Not Found"
+    country: str = "India"
     website_url: str = "Not Found"
     status: str = "Observed on Amazon"
-    source: str = "Amazon"
+    source: str = "Amazon.in Marketplace"
     
     # Internal fields
     display_name: Optional[str] = None

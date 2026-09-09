@@ -71500,3 +71500,446 @@ Call log:
 2026-09-06 00:15:22,024 - INFO - Clicking offer load-more control: a:has-text('See more')
 2026-09-06 00:15:34,905 - WARNING - Category run 'Bag Accessories' interrupted by user.
 2026-09-06 00:15:35,203 - WARNING - Batch run interrupted by user (Ctrl+C).
+2026-09-09 19:37:25,840 - INFO - Starting Amazon Multi-Category Top 20 Seller Web Scraper (Single Category Mode)
+2026-09-09 19:37:25,852 - INFO - Initialized SQLite database schema at amazon_sellers.db
+2026-09-09 19:37:25,871 - INFO - Target Category: 'Women's Flats Amazon'
+2026-09-09 19:37:25,872 - INFO - Target URL: 'https://www.amazon.in/s?k=Women%27s+Flats+Amazon'
+2026-09-09 19:37:27,701 - INFO - Started Playwright Chromium session with stealth hardening (headless=True, timeout=30000ms)
+2026-09-09 19:37:27,704 - INFO - Discovering products for category 'Women's Flats Amazon' from https://www.amazon.in/s?k=Women%27s+Flats+Amazon...
+2026-09-09 19:37:27,963 - INFO - Navigating to Amazon search page 1: https://www.amazon.in/s?k=Women%27s+Flats+Amazon
+2026-09-09 19:37:32,454 - INFO - Found 354 raw product links on page 1
+2026-09-09 19:37:33,487 - INFO - Discovered 20 total unique product URLs so far
+2026-09-09 19:37:33,534 - INFO - Discovered 20 products for category 'Women's Flats Amazon'
+2026-09-09 19:37:33,545 - INFO - [1/20] Processing product ASIN: B0G2H7GD13
+2026-09-09 19:37:33,662 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0G2H7GD13
+2026-09-09 19:37:35,998 - INFO - PRODUCT: KazarMax Easy On Women's Breathable Mesh Slip-On Loafers | Quick-Dry Casual Sneakers with No-Hands Design | Lightweight Anti-Skid Sole
+2026-09-09 19:37:35,998 - INFO - ASIN: B0G2H7GD13
+2026-09-09 19:37:36,121 - INFO - BUY BOX SELLER: H.V Global
+2026-09-09 19:37:36,121 - INFO - AOD: Opening All Offers...
+2026-09-09 19:37:36,229 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:37:36,303 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:37:37,950 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:37:39,067 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:37:40,161 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:37:40,281 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:37:40,287 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0G2H7GD13 | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:37:40,287 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3K984F2AD6G92&asin=B0G2H7GD13&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:37:44,372 - INFO - [2/20] Processing product ASIN: B0C5NBC6PX
+2026-09-09 19:37:44,479 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5NBC6PX
+2026-09-09 19:37:47,267 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:37:47,267 - INFO - ASIN: B0C5NBC6PX
+2026-09-09 19:37:47,373 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:37:47,376 - INFO - AOD: Opening All Offers...
+2026-09-09 19:37:47,816 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:37:47,946 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:37:49,618 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:37:50,819 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:37:51,955 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:37:52,055 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:37:52,067 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5NBC6PX | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:37:52,067 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5NBC6PX&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:37:56,256 - INFO - [3/20] Processing product ASIN: B0C5N94S1M
+2026-09-09 19:37:56,334 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5N94S1M
+2026-09-09 19:37:59,202 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:37:59,202 - INFO - ASIN: B0C5N94S1M
+2026-09-09 19:37:59,309 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:37:59,309 - INFO - AOD: Opening All Offers...
+2026-09-09 19:37:59,422 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:37:59,517 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:38:01,190 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:38:02,371 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:38:03,517 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:38:03,619 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:38:03,634 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5N94S1M | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:38:03,634 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5N94S1M&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:38:07,924 - INFO - [4/20] Processing product ASIN: B0C5N889XR
+2026-09-09 19:38:08,005 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5N889XR
+2026-09-09 19:38:10,539 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:38:10,539 - INFO - ASIN: B0C5N889XR
+2026-09-09 19:38:10,704 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:38:10,711 - INFO - AOD: Opening All Offers...
+2026-09-09 19:38:10,852 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:38:10,959 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:38:12,639 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:38:13,853 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:38:15,086 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:38:15,179 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:38:15,196 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5N889XR | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:38:15,198 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5N889XR&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:38:19,101 - INFO - [5/20] Processing product ASIN: B0C5N8YZX5
+2026-09-09 19:38:19,186 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5N8YZX5
+2026-09-09 19:38:25,534 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:38:25,535 - INFO - ASIN: B0C5N8YZX5
+2026-09-09 19:38:25,579 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:38:25,580 - INFO - AOD: Opening All Offers...
+2026-09-09 19:38:25,947 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:38:26,060 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:38:27,722 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:38:28,883 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:38:30,057 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:38:30,139 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:38:30,150 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5N8YZX5 | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:38:30,151 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5N8YZX5&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:38:41,521 - INFO - [6/20] Processing product ASIN: B0C5N9ZMVN
+2026-09-09 19:38:41,614 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5N9ZMVN
+2026-09-09 19:38:44,309 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:38:44,310 - INFO - ASIN: B0C5N9ZMVN
+2026-09-09 19:38:44,404 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:38:44,405 - INFO - AOD: Opening All Offers...
+2026-09-09 19:38:44,684 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:38:44,784 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:38:46,416 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:38:47,568 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:38:48,722 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:38:48,813 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:38:48,827 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5N9ZMVN | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:38:48,828 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5N9ZMVN&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:38:52,499 - INFO - [7/20] Processing product ASIN: B0C5N7Q2KD
+2026-09-09 19:38:52,599 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5N7Q2KD
+2026-09-09 19:38:55,173 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:38:55,175 - INFO - ASIN: B0C5N7Q2KD
+2026-09-09 19:38:55,265 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:38:55,266 - INFO - AOD: Opening All Offers...
+2026-09-09 19:38:55,514 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:38:55,623 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:38:57,287 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:38:58,490 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:38:59,647 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:38:59,736 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:38:59,751 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5N7Q2KD | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:38:59,752 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5N7Q2KD&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:39:03,832 - INFO - [8/20] Processing product ASIN: B0C5N8TWHV
+2026-09-09 19:39:03,919 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5N8TWHV
+2026-09-09 19:39:06,552 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:39:06,552 - INFO - ASIN: B0C5N8TWHV
+2026-09-09 19:39:06,738 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:39:06,738 - INFO - AOD: Opening All Offers...
+2026-09-09 19:39:06,842 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:39:06,938 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:39:08,617 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:39:09,785 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:39:10,953 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:39:11,029 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:39:11,038 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5N8TWHV | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:39:11,039 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5N8TWHV&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:39:15,584 - INFO - [9/20] Processing product ASIN: B0C5N7CWK5
+2026-09-09 19:39:15,668 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0C5N7CWK5
+2026-09-09 19:39:19,150 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:39:19,150 - INFO - ASIN: B0C5N7CWK5
+2026-09-09 19:39:19,326 - INFO - BUY BOX SELLER: Yuvi Royals
+2026-09-09 19:39:19,326 - INFO - AOD: Opening All Offers...
+2026-09-09 19:39:19,464 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:39:19,583 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:39:21,247 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:39:22,414 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:39:23,559 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:39:23,643 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:39:23,653 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0C5N7CWK5 | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:39:23,653 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3FKYFN0HD0SH6&asin=B0C5N7CWK5&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:39:37,407 - INFO - [10/20] Processing product ASIN: B0GP798T8C
+2026-09-09 19:39:37,481 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GP798T8C
+2026-09-09 19:39:40,182 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:39:40,182 - INFO - ASIN: B0GP798T8C
+2026-09-09 19:39:40,285 - INFO - BUY BOX SELLER: FashionVillage20
+2026-09-09 19:39:40,286 - INFO - AOD: Opening All Offers...
+2026-09-09 19:39:40,548 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:39:40,695 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:39:42,553 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:39:43,733 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:39:44,887 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:39:44,967 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:39:44,981 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GP798T8C | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:39:44,981 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP798T8C&ref_=dp_merchant_link
+2026-09-09 19:39:49,252 - INFO - [11/20] Processing product ASIN: B0GP7L9Y4X
+2026-09-09 19:39:49,332 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GP7L9Y4X
+2026-09-09 19:39:51,896 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:39:51,899 - INFO - ASIN: B0GP7L9Y4X
+2026-09-09 19:39:52,132 - INFO - BUY BOX SELLER: FashionVillage20
+2026-09-09 19:39:52,149 - INFO - AOD: Opening All Offers...
+2026-09-09 19:39:52,314 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:39:52,398 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:39:54,064 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:39:55,229 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:39:56,541 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:39:56,619 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:39:56,632 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GP7L9Y4X | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:39:56,632 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP7L9Y4X&ref_=dp_merchant_link
+2026-09-09 19:40:00,971 - INFO - [12/20] Processing product ASIN: B0GP889CNQ
+2026-09-09 19:40:01,065 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GP889CNQ
+2026-09-09 19:40:03,730 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:40:03,734 - INFO - ASIN: B0GP889CNQ
+2026-09-09 19:40:03,831 - INFO - BUY BOX SELLER: FashionVillage20
+2026-09-09 19:40:03,831 - INFO - AOD: Opening All Offers...
+2026-09-09 19:40:04,126 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:40:04,234 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:40:05,898 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:40:07,058 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:40:08,348 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:40:08,429 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:40:08,440 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GP889CNQ | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:40:08,443 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP889CNQ&ref_=dp_merchant_link
+2026-09-09 19:40:11,979 - INFO - [13/20] Processing product ASIN: B0GP8WRPWN
+2026-09-09 19:40:12,057 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GP8WRPWN
+2026-09-09 19:40:14,045 - INFO - PRODUCT: Women Flats Sandals | Stylish Embroidered Slip-On Flats for Women | Comfortable Lightweight Sandals | Ethnic & Casual Footwear for Ladies SL1043
+2026-09-09 19:40:14,045 - INFO - ASIN: B0GP8WRPWN
+2026-09-09 19:40:14,094 - INFO - BUY BOX SELLER: FashionVillage20
+2026-09-09 19:40:14,121 - INFO - AOD: Opening All Offers...
+2026-09-09 19:40:14,276 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:40:14,320 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:40:15,915 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:40:16,998 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:40:18,078 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:40:18,133 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:40:18,138 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GP8WRPWN | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:40:18,139 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP8WRPWN&ref_=dp_merchant_link
+2026-09-09 19:40:21,907 - INFO - [14/20] Processing product ASIN: B0GP8SH7MY
+2026-09-09 19:40:21,978 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GP8SH7MY
+2026-09-09 19:40:24,736 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:40:24,736 - INFO - ASIN: B0GP8SH7MY
+2026-09-09 19:40:24,832 - INFO - BUY BOX SELLER: FashionVillage20
+2026-09-09 19:40:24,832 - INFO - AOD: Opening All Offers...
+2026-09-09 19:40:25,092 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:40:25,185 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:40:26,886 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:40:28,039 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:40:29,203 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:40:29,292 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:40:29,303 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GP8SH7MY | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:40:29,303 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP8SH7MY&ref_=dp_merchant_link
+2026-09-09 19:40:33,043 - INFO - [15/20] Processing product ASIN: B0GP741N87
+2026-09-09 19:40:33,127 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GP741N87
+2026-09-09 19:40:35,982 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:40:35,983 - INFO - ASIN: B0GP741N87
+2026-09-09 19:40:36,151 - INFO - BUY BOX SELLER: FashionVillage20
+2026-09-09 19:40:36,152 - INFO - AOD: Opening All Offers...
+2026-09-09 19:40:36,262 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:40:36,336 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:40:38,027 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:40:39,307 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:40:40,463 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:40:40,540 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:40:40,552 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GP741N87 | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:40:40,553 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ANLTAAL1GINTR&asin=B0GP741N87&ref_=dp_merchant_link
+2026-09-09 19:40:44,831 - INFO - [16/20] Processing product ASIN: B0GWMV2PXX
+2026-09-09 19:40:44,909 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GWMV2PXX
+2026-09-09 19:40:47,765 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:40:47,765 - INFO - ASIN: B0GWMV2PXX
+2026-09-09 19:40:47,844 - INFO - BUY BOX SELLER: Desire Footwears Creations
+2026-09-09 19:40:47,844 - INFO - AOD: Opening All Offers...
+2026-09-09 19:40:48,069 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:40:48,165 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:40:49,846 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:40:51,002 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:40:52,137 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:40:52,217 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:40:52,227 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GWMV2PXX | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:40:52,227 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEIYDXMAA4CJC&asin=B0GWMV2PXX&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:40:56,280 - INFO - [17/20] Processing product ASIN: B0GWMDR3M4
+2026-09-09 19:40:56,373 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GWMDR3M4
+2026-09-09 19:40:59,030 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:40:59,030 - INFO - ASIN: B0GWMDR3M4
+2026-09-09 19:40:59,068 - INFO - BUY BOX SELLER: Desire Footwears Creations
+2026-09-09 19:40:59,068 - INFO - AOD: Opening All Offers...
+2026-09-09 19:40:59,172 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:40:59,266 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:41:00,934 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:41:02,083 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:41:03,214 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:41:03,292 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:41:03,303 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GWMDR3M4 | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:41:03,303 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEIYDXMAA4CJC&asin=B0GWMDR3M4&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:41:07,842 - INFO - [18/20] Processing product ASIN: B09W5YJFQY
+2026-09-09 19:41:07,911 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B09W5YJFQY
+2026-09-09 19:41:10,359 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:41:10,359 - INFO - ASIN: B09W5YJFQY
+2026-09-09 19:41:10,495 - INFO - BUY BOX SELLER: Cocoblu Retail
+2026-09-09 19:41:10,496 - INFO - AOD: Opening All Offers...
+2026-09-09 19:41:10,600 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:41:10,761 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:41:12,508 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:41:12,563 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:41:14,196 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:41:14,272 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:41:16,781 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:41:16,818 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:41:16,821 - INFO - AOD EXTRACTION COMPLETE | ASIN: B09W5YJFQY | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:41:16,821 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1WYWER0W24N8S&asin=B09W5YJFQY&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:41:20,947 - INFO - [19/20] Processing product ASIN: B0GWRCDJZZ
+2026-09-09 19:41:21,021 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GWRCDJZZ
+2026-09-09 19:41:23,457 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:41:23,458 - INFO - ASIN: B0GWRCDJZZ
+2026-09-09 19:41:23,502 - INFO - BUY BOX SELLER: Desire Footwears Creations
+2026-09-09 19:41:23,502 - INFO - AOD: Opening All Offers...
+2026-09-09 19:41:23,586 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:41:23,658 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:41:25,312 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:41:26,442 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:41:27,594 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:41:27,678 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:41:27,687 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GWRCDJZZ | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:41:27,687 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEIYDXMAA4CJC&asin=B0GWRCDJZZ&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:41:31,993 - INFO - [20/20] Processing product ASIN: B0GWR8P4M2
+2026-09-09 19:41:32,070 - INFO - Opening Amazon product page for multi-seller extraction: https://www.amazon.in/dp/B0GWR8P4M2
+2026-09-09 19:41:34,571 - INFO - PRODUCT: Product summary presents key product information
+2026-09-09 19:41:34,571 - INFO - ASIN: B0GWR8P4M2
+2026-09-09 19:41:34,613 - INFO - BUY BOX SELLER: Desire Footwears Creations
+2026-09-09 19:41:34,613 - INFO - AOD: Opening All Offers...
+2026-09-09 19:41:34,712 - INFO - AOD: Initial offers found: 0
+2026-09-09 19:41:34,818 - INFO - Clicking offer load-more control: a:has-text('See more')
+2026-09-09 19:41:36,498 - INFO - AOD: No new sellers found (attempt 1/3)
+2026-09-09 19:41:37,633 - INFO - AOD: No new sellers found (attempt 2/3)
+2026-09-09 19:41:38,761 - INFO - AOD: No new sellers found (attempt 3/3)
+2026-09-09 19:41:38,828 - INFO - AMAZON OFFER LIST EXHAUSTED
+2026-09-09 19:41:38,837 - INFO - AOD EXTRACTION COMPLETE | ASIN: B0GWR8P4M2 | TOTAL UNIQUE SELLERS: 1
+2026-09-09 19:41:38,837 - INFO - Opening Amazon seller profile page: https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AEIYDXMAA4CJC&asin=B0GWR8P4M2&ref_=dp_merchant_link&isAmazonFulfilled=1
+2026-09-09 19:41:42,832 - INFO - Top businesses requested: 100, found: 5 for 'Women's Flats Amazon'
+2026-09-09 19:41:42,833 - INFO - Starting Phase 2 Deep Enrichment Waterfall for top 5 businesses...
+2026-09-09 19:41:42,846 - INFO - Starting Public Enrichment Waterfall for business 'Yuvi Royals'...
+2026-09-09 19:41:42,937 - INFO - [ENRICH] Searching web: "Yuvi Royals" email
+2026-09-09 19:41:49,129 - INFO - Verifying website ownership candidate: https://www.yuviroyals.com/
+2026-09-09 19:41:49,535 - INFO - Verifying website ownership candidate: https://www.yuviroyals.in/
+2026-09-09 19:41:49,637 - INFO - Verifying website ownership candidate: https://www.mlb.com/royals?c_id=kc
+2026-09-09 19:41:53,643 - WARNING - WEBSITE TIMEOUT during verification: https://www.mlb.com/royals?c_id=kc
+2026-09-09 19:41:53,685 - INFO - Verifying website ownership candidate: https://www.mlb.com/royals/tickets
+2026-09-09 19:41:57,740 - WARNING - WEBSITE TIMEOUT during verification: https://www.mlb.com/royals/tickets
+2026-09-09 19:41:57,743 - INFO - ENRICHMENT HEARTBEAT: Seller = Yuvi Royals, Elapsed = 15s, Current field = PAN (Attempt 1)
+2026-09-09 19:42:00,690 - INFO - Fetching text from target page: https://www.indiafilings.com/learn/find-pan-card-number
+2026-09-09 19:42:04,677 - INFO - Fetching text from target page: https://www.knowyourgst.com/gst-number-search/yuvi-royals-08GSWPS3557L1ZH/
+2026-09-09 19:42:06,842 - INFO - Fetching text from target page: https://m.cricbuzz.com/profiles/69/yuvraj-singh
+2026-09-09 19:42:07,331 - INFO - Fetching text from target page: https://www.cricinfo.com/cricketers/yuvraj-singh-36084
+2026-09-09 19:42:07,470 - INFO - Fetching text from target page: https://yuvi.co.in/
+2026-09-09 19:42:10,083 - INFO - ENRICHMENT HEARTBEAT: Seller = Yuvi Royals, Elapsed = 27s, Current field = Owner (Attempt 2)
+2026-09-09 19:42:13,320 - INFO - Fetching text from target page: https://www.zaubacorp.com/
+2026-09-09 19:42:14,485 - INFO - Fetching text from target page: https://www.zaubacorp.com/deep-research
+2026-09-09 19:42:14,855 - INFO - Fetching text from target page: https://www.zaubacorp.com/signup
+2026-09-09 19:42:15,134 - INFO - Fetching text from target page: https://www.zaubacorp.com/company-research
+2026-09-09 19:42:15,434 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-09 19:42:18,598 - INFO - Fetching text from target page: https://www.knowyourgst.com/gst-number-search/yuvi-royals-08GSWPS3557L1ZH/
+2026-09-09 19:42:19,061 - INFO - Fetching text from target page: https://www.infobel.com/en/india/yuvi_royals/jaipur/IN121726000/businessdetails.aspx
+2026-09-09 19:42:22,101 - INFO - Fetching text from target page: https://www.scribd.com/document/577326585/2020100746
+2026-09-09 19:42:28,114 - WARNING - WEBSITE TIMEOUT: https://www.scribd.com/document/577326585/2020100746
+2026-09-09 19:42:28,284 - INFO - Fetching text from target page: https://indiancompanies.in/hatsun-agro-product/
+2026-09-09 19:42:29,763 - INFO - ENRICHMENT HEARTBEAT: Seller = Yuvi Royals, Elapsed = 47s, Current field = Address (Attempt 2)
+2026-09-09 19:42:32,407 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-09 19:42:32,415 - INFO - [INFO] Scraped 'Yuvi Royals' -> GST: YES | Phone: YES | Address: NO | Email: YES | PAN: YES | Website: NO
+2026-09-09 19:42:32,492 - INFO - Starting Public Enrichment Waterfall for business 'FashionVillage20'...
+2026-09-09 19:42:32,555 - INFO - [ENRICH] Searching web: "FashionVillage20" email
+2026-09-09 19:42:35,837 - INFO - Verifying website ownership candidate: https://www.fashionvillage20.com/
+2026-09-09 19:42:36,000 - INFO - Verifying website ownership candidate: https://www.fashionvillage20.in/
+2026-09-09 19:42:36,101 - INFO - Verifying website ownership candidate: https://es.ccm.net/descargas/entretenimiento/7152-youtube-vanced-para-android-apk/
+2026-09-09 19:42:40,279 - INFO - Fetching text from target page: https://www.indiafilings.com/learn/find-pan-card-number
+2026-09-09 19:42:41,016 - INFO - Fetching text from target page: https://www.indiafilings.com/learn/find-pan-card-number/
+2026-09-09 19:42:41,448 - INFO - Fetching text from target page: https://quicko.com/tools/verify-pan-details
+2026-09-09 19:42:42,114 - INFO - Fetching text from target page: https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==
+2026-09-09 19:42:42,880 - INFO - ENRICHMENT HEARTBEAT: Seller = FashionVillage20, Elapsed = 10s, Current field = PAN (Attempt 2)
+2026-09-09 19:42:46,345 - INFO - Fetching text from target page: https://gstverify.co.in/search/
+2026-09-09 19:42:47,127 - INFO - Fetching text from target page: https://gstpan.com/
+2026-09-09 19:42:53,134 - WARNING - WEBSITE TIMEOUT: https://gstpan.com/
+2026-09-09 19:42:53,134 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-09 19:42:53,136 - INFO - ENRICHMENT HEARTBEAT: Seller = FashionVillage20, Elapsed = 21s, Current field = GST (Attempt 1)
+2026-09-09 19:43:04,059 - INFO - ENRICHMENT HEARTBEAT: Seller = FashionVillage20, Elapsed = 32s, Current field = GST (Attempt 2)
+2026-09-09 19:43:06,933 - INFO - Fetching text from target page: https://www.checkyourgst.com/
+2026-09-09 19:43:17,729 - WARNING - SEARCH TIMEOUT: '"FashionVillage20" "27AAPFU0939F1ZV" director owner ZaubaCorp Tofler' on Yahoo
+2026-09-09 19:43:17,731 - INFO - ENRICHMENT HEARTBEAT: Seller = FashionVillage20, Elapsed = 45s, Current field = Owner (Attempt 2)
+2026-09-09 19:43:19,284 - INFO - Fetching text from target page: https://chatgpt.com/
+2026-09-09 19:43:19,676 - INFO - Fetching text from target page: https://chatgpt.com/features
+2026-09-09 19:43:20,299 - INFO - Fetching text from target page: https://openai.com/index/chatgpt/
+2026-09-09 19:43:21,421 - INFO - Fetching text from target page: https://openai.com/
+2026-09-09 19:43:22,028 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-09 19:43:24,072 - INFO - Fetching text from target page: https://courtcasefinder.com/
+2026-09-09 19:43:27,468 - INFO - Fetching text from target page: https://recordsfinder.com/court/
+2026-09-09 19:43:30,427 - INFO - Fetching text from target page: https://publiccourtrecords.org/court-records-search/
+2026-09-09 19:43:32,181 - INFO - Fetching text from target page: https://unicourt.com/courts/state
+2026-09-09 19:43:34,562 - INFO - ENRICHMENT HEARTBEAT: Seller = FashionVillage20, Elapsed = 62s, Current field = Address (Attempt 2)
+2026-09-09 19:43:35,801 - INFO - Fetching text from target page: https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365-0.html
+2026-09-09 19:43:36,686 - INFO - Fetching text from target page: https://law.justia.com/cases/louisiana/fourth-circuit-court-of-appeal/2024/2024-ca-0365.html
+2026-09-09 19:43:36,938 - INFO - Fetching text from target page: https://caselaw.findlaw.com/court/la-court-of-appeal/116769851.html
+2026-09-09 19:43:37,996 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-09 19:43:38,006 - INFO - [INFO] Scraped 'FashionVillage20' -> GST: YES | Phone: YES | Address: NO | Email: YES | PAN: YES | Website: NO
+2026-09-09 19:43:38,114 - INFO - Starting Public Enrichment Waterfall for business 'Desire Footwears Creations'...
+2026-09-09 19:43:38,178 - INFO - [ENRICH] Searching web: "Desire Footwears Creations" email
+2026-09-09 19:43:42,572 - INFO - Verifying website ownership candidate: https://www.desirefootwearscreations.com/
+2026-09-09 19:43:42,730 - INFO - Verifying website ownership candidate: https://www.desirefootwearscreations.in/
+2026-09-09 19:43:42,829 - INFO - Verifying website ownership candidate: https://desireatl.com/
+2026-09-09 19:43:44,381 - INFO - Verifying website ownership candidate: https://desireonlinestore.com/
+2026-09-09 19:43:49,700 - INFO - Fetching text from target page: https://gstverify.co.in/search/
+2026-09-09 19:43:49,892 - INFO - Fetching text from target page: https://www.goodreturns.in/pan-card-details-pancid9.html
+2026-09-09 19:43:50,569 - INFO - ENRICHMENT HEARTBEAT: Seller = Desire Footwears Creations, Elapsed = 12s, Current field = PAN (Attempt 2)
+2026-09-09 19:43:52,077 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/desire
+2026-09-09 19:43:54,699 - INFO - Fetching text from target page: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:44:00,702 - WARNING - WEBSITE TIMEOUT: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:44:15,863 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/desire
+2026-09-09 19:44:16,420 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-09 19:44:16,422 - INFO - ENRICHMENT HEARTBEAT: Seller = Desire Footwears Creations, Elapsed = 38s, Current field = GST (Attempt 1)
+2026-09-09 19:44:18,035 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/desire
+2026-09-09 19:44:19,246 - INFO - Fetching text from target page: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:44:25,247 - WARNING - WEBSITE TIMEOUT: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:44:40,396 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/desire
+2026-09-09 19:44:40,779 - WARNING - FIELD TIME LIMIT REACHED (15s) for GST. Moving to next field.
+2026-09-09 19:44:40,779 - INFO - FIELD SEARCH EXHAUSTED: GST
+2026-09-09 19:44:40,780 - INFO - ENRICHMENT HEARTBEAT: Seller = Desire Footwears Creations, Elapsed = 63s, Current field = Owner (Attempt 1)
+2026-09-09 19:44:46,785 - INFO - Fetching text from target page: https://www.zaubacorp.com/
+2026-09-09 19:44:49,346 - INFO - Fetching text from target page: https://www.zaubacorp.com/deep-research
+2026-09-09 19:44:49,663 - INFO - Fetching text from target page: https://www.zaubacorp.com/signup
+2026-09-09 19:44:50,144 - INFO - Fetching text from target page: https://www.zaubacorp.com/company-research
+2026-09-09 19:44:56,669 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-09 19:44:56,669 - INFO - ENRICHMENT HEARTBEAT: Seller = Desire Footwears Creations, Elapsed = 79s, Current field = Address (Attempt 1)
+2026-09-09 19:44:58,805 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/desire
+2026-09-09 19:44:59,346 - INFO - Fetching text from target page: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:45:05,349 - WARNING - WEBSITE TIMEOUT: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:45:21,221 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/desire
+2026-09-09 19:45:21,448 - WARNING - FIELD TIME LIMIT REACHED (15s) for Address. Moving to next field.
+2026-09-09 19:45:21,448 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-09 19:45:21,449 - INFO - ENRICHMENT HEARTBEAT: Seller = Desire Footwears Creations, Elapsed = 103s, Current field = Phone (Attempt 1)
+2026-09-09 19:45:23,038 - INFO - Fetching text from target page: https://www.merriam-webster.com/dictionary/desire
+2026-09-09 19:45:23,665 - INFO - Fetching text from target page: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:45:29,668 - WARNING - WEBSITE TIMEOUT: https://www.themoviedb.org/movie/1668364-deseo
+2026-09-09 19:45:44,805 - INFO - Fetching text from target page: https://dictionary.cambridge.org/dictionary/english/desire
+2026-09-09 19:45:45,027 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED during Phone.
+2026-09-09 19:45:45,027 - INFO - FIELD SEARCH EXHAUSTED: Phone
+2026-09-09 19:45:45,028 - WARNING - SELLER ENRICHMENT TIME LIMIT REACHED (120s). Aborting remaining fields for 'Desire Footwears Creations'.
+2026-09-09 19:45:45,035 - INFO - [INFO] Scraped 'Desire Footwears Creations' -> GST: NO | Phone: NO | Address: NO | Email: NO | PAN: NO | Website: NO
+2026-09-09 19:45:45,152 - INFO - Starting Public Enrichment Waterfall for business 'H.V Global'...
+2026-09-09 19:45:45,220 - INFO - [ENRICH] Searching web: "H.V Global" email
+2026-09-09 19:45:51,067 - INFO - Verifying website ownership candidate: https://www.hvglobal.com/
+2026-09-09 19:45:55,082 - WARNING - WEBSITE TIMEOUT during verification: https://www.hvglobal.com/
+2026-09-09 19:46:33,550 - INFO - Verifying website ownership candidate: https://www.hvglobal.in/
+2026-09-09 19:46:37,553 - WARNING - WEBSITE TIMEOUT during verification: https://www.hvglobal.in/
+2026-09-09 19:46:37,561 - INFO - Verifying website ownership candidate: https://www.hollingsworth-vose.com/
+2026-09-09 19:46:39,588 - INFO - Successfully verified website candidate 'https://www.hollingsworth-vose.com/' for business 'H.V Global'
+2026-09-09 19:46:39,589 - INFO - Verified official website for 'H.V Global': https://www.hollingsworth-vose.com/
+2026-09-09 19:46:39,589 - INFO - ENRICHMENT HEARTBEAT: Seller = H.V Global, Elapsed = 54s, Current field = Website Inspection
+2026-09-09 19:46:50,250 - INFO - ENRICHMENT HEARTBEAT: Seller = H.V Global, Elapsed = 65s, Current field = PAN (Attempt 1)
+2026-09-09 19:46:53,546 - INFO - Fetching text from target page: https://www.registerkaro.in/company/h-v-global-private-limited-U18101DL2000PTC103960
+2026-09-09 19:46:55,013 - INFO - Fetching text from target page: https://www.masterdata.in/company/h_v_global_private_limited/U18101DL2000PTC103960
+2026-09-09 19:46:55,784 - INFO - Fetching text from target page: https://www.thecompanycheck.com/company/h-v-global-private-limited/U18101DL2000PTC103960
+2026-09-09 19:46:57,518 - INFO - Fetching text from target page: https://www.falconebiz.com/company/H-V-GLOBAL-PRIVATE-LIMITED-U18101DL2000PTC103960
+2026-09-09 19:47:00,423 - INFO - Fetching text from target page: https://www2.hm.com/en_in/index.html?msockid=364e881f6bdb65dd03729fd06a656417
+2026-09-09 19:47:00,719 - INFO - Fetching text from target page: https://www.britannica.com/topic/H-letter
+2026-09-09 19:47:01,963 - INFO - Fetching text from target page: https://en.wiktionary.org/wiki/h
+2026-09-09 19:47:04,671 - INFO - Fetching text from target page: https://www.havefunteaching.com/resource/letter-h-song-original-music-video/
+2026-09-09 19:47:06,691 - INFO - FIELD SEARCH EXHAUSTED: PAN
+2026-09-09 19:47:06,693 - INFO - ENRICHMENT HEARTBEAT: Seller = H.V Global, Elapsed = 82s, Current field = GST (Attempt 1)
+2026-09-09 19:47:09,569 - INFO - Fetching text from target page: https://fnshiftsolutions.com/gstin-search/h-v-global-p-ltd-03AAACH7298C4ZO
+2026-09-09 19:47:13,055 - INFO - Fetching text from target page: https://fnshiftsolutions.com/gstin-search/h-v-global-p-ltd-03AAACH7298C4ZO
+2026-09-09 19:47:16,312 - INFO - Fetching text from target page: https://www.tofler.in/h-v-global-private-limited/company/U18101DL2000PTC103960
+2026-09-09 19:47:17,693 - INFO - Fetching text from target page: https://www.zaubacorp.com/company-directors/H-V-GLOBAL-PRIVATE-LIMITED/U18101DL2000PTC103960
+2026-09-09 19:47:19,013 - INFO - Fetching text from target page: https://www.zaubacorp.com/company/H-V-GLOBAL-PRIVATE-LIMITED/U18101DL2000PTC103960
+2026-09-09 19:47:19,699 - INFO - Fetching text from target page: https://www.zaubacorp.com/
+2026-09-09 19:47:19,985 - INFO - FIELD SEARCH EXHAUSTED: Owner
+2026-09-09 19:47:19,986 - INFO - ENRICHMENT HEARTBEAT: Seller = H.V Global, Elapsed = 95s, Current field = Address (Attempt 1)
+2026-09-09 19:47:21,315 - INFO - Fetching text from target page: https://www2.hm.com/en_in/index.html?msockid=364e881f6bdb65dd03729fd06a656417
+2026-09-09 19:47:21,419 - INFO - Fetching text from target page: https://www.britannica.com/topic/H-letter
+2026-09-09 19:47:22,386 - INFO - Fetching text from target page: https://en.wiktionary.org/wiki/h
+2026-09-09 19:47:23,146 - INFO - Fetching text from target page: https://www.havefunteaching.com/resource/letter-h-song-original-music-video/
+2026-09-09 19:47:25,548 - INFO - Fetching text from target page: https://www2.hm.com/en_in/index.html?msockid=364e881f6bdb65dd03729fd06a656417
+2026-09-09 19:47:25,647 - INFO - Fetching text from target page: https://www.britannica.com/topic/H-letter
+2026-09-09 19:47:26,638 - INFO - Fetching text from target page: https://en.wiktionary.org/wiki/h
+2026-09-09 19:47:27,866 - INFO - Fetching text from target page: https://www.havefunteaching.com/resource/letter-h-song-original-music-video/
+2026-09-09 19:47:28,895 - INFO - FIELD SEARCH EXHAUSTED: Address
+2026-09-09 19:47:28,932 - INFO - [INFO] Scraped 'H.V Global' -> GST: YES | Phone: YES | Address: NO | Email: YES | PAN: YES | Website: YES
+2026-09-09 19:47:29,036 - WARNING - CATEGORY TIMEOUT reached during seller enrichment for 'Women's Flats Amazon' (Elapsed: 603.2s)
+2026-09-09 19:47:29,328 - INFO - Closed Playwright browser session safely
+2026-09-09 19:47:29,332 - INFO - Read 9 final verified records from SQLite for 'Women's Flats Amazon'
+2026-09-09 19:47:29,634 - INFO - Created safety backup of master Excel at E:\sell\Amazongithub\Amazon\output\backups\Amazon_Seller_Master_Data_20260909_194729_backup.xlsx
+2026-09-09 19:47:30,046 - INFO - Master Excel updated: Added 9 rows for category 'Women's Flats Amazon'. Total seller records=391

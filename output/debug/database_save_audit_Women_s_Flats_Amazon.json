@@ -1,0 +1,61 @@
+{
+  "category": "Women's Flats Amazon",
+  "records_before_save": 5,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Yuvi Royals",
+      "database_id": 21,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919163042833",
+      "email": "info@yuvi.co.in",
+      "gst": "08GSWPS3557L1ZH",
+      "pan": "GSWPS3557L",
+      "website": "https://www.yuvistyle.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FashionVillage20",
+      "database_id": 1701,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918001801961",
+      "email": "contact@jaagrukbharat.com",
+      "gst": "27AAPFU0939F1ZV",
+      "pan": "AAPFU0939F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Desire Footwears Creations",
+      "database_id": 33,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "H.V Global",
+      "database_id": 1702,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919217326570",
+      "email": "schdv@yahoo.com",
+      "gst": "03AAACH7298C4ZO",
+      "pan": "AAACH7298C",
+      "website": "https://www.hollingsworth-vose.com/",
+      "status": "Verified"
+    }
+  ]
+}

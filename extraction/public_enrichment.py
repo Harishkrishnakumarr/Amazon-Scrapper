@@ -1,12 +1,14 @@
 import os
 import re
 import time
+import random
 import base64
 import logging
 from abc import ABC, abstractmethod
 from typing import Tuple, List, Optional, Dict, Any, Set
 from urllib.parse import urlparse, quote_plus, parse_qs, unquote
 from datetime import datetime
+import requests
 from database.models import SellerRecord, SellerSource
 from extraction.normalizer import (
     normalize_phone, normalize_email, normalize_gst, normalize_pan,
@@ -34,15 +36,42 @@ MAX_WEBSITE_PAGES = 6
 
 SKIP_DOMAINS = [
     "amazon.", "flipkart.com", "myntra.com", "ajio.com", "facebook.com",
-    "instagram.com", "linkedin.com", "twitter.com", "x.com", "youtube.com", "wikipedia.org",
-    "indiatimes.com", "indiamart.com", "zaubacorp.com", "tofler.in",
+    "instagram.com", "linkedin.com", "twitter.com", "x.com", "youtube.com", "wikipedia.org"
+]
+
+DISALLOWED_DOMAINS = {
+    # Dictionaries & Encyclopedias
+    "merriam-webster.com", "cambridge.org", "dictionary.com", "wiktionary.org",
+    "wikipedia.org", "britannica.com", "vocabulary.com", "collinsdictionary.com",
+    "oxfordlearnersdictionaries.com", "thefreedictionary.com", "yourdictionary.com",
+    "wordreference.com", "urbandictionary.com", "wordsmyth.net", "macmillandictionary.com",
+    "thesaurus.com", "ahdictionary.com",
+
+    # Entertainment, Media & Pop culture
+    "themoviedb.org", "imdb.com", "youtube.com", "havefunteaching.com", "spotify.com",
+    "thecinemaholic.com", "fandom.com", "guide4moms.com", "rottentomatoes.com", "netflix.com",
+
+    # Social Networks & Discussion
+    "facebook.com", "instagram.com", "twitter.com", "x.com", "pinterest.com",
+    "linkedin.com", "reddit.com", "quora.com", "medium.com", "tiktok.com",
     "zhihu.com", "baidu.com", "tistory.com", "weibo.com", "naver.com", "qq.com",
-    "bilibili.com", "douban.com", "tieba.com", "163.com", "sohu.com",
-    "thecinemaholic.com", "guide4moms.com", "pinterest.com", "reddit.com", "quora.com",
-    "medium.com", "blogspot.com", "wordpress.com", "fandom.com", "imdb.com",
+    "bilibili.com", "douban.com", "tieba.com", "163.com", "sohu.com", "blogspot.com", "wordpress.com",
+
+    # Marketplaces (Avoid circular references)
+    "amazon.in", "amazon.com", "flipkart.com", "myntra.com", "meesho.com",
+    "ajio.com", "snapdeal.com", "indiamart.com", "alibaba.com", "aliexpress.com",
+    "ebay.com", "etsy.com", "nykaa.com", "tatacliq.com", "jiomart.com",
+
+    # Generic Registry Auth / Govt / Banking
     "incometaxindia.gov.in", "gst.gov.in", "mca.gov.in", "utiitsl.com", "tin-nsdl.com",
     "paisabazaar.com", "bankbazaar.com", "cleartax.in", "policybazaar.com", "uidai.gov.in",
     "gov.in", "nic.in"
+}
+
+DISALLOWED_URL_SUBSTRINGS = [
+    "zaubacorp.com/signup", "zaubacorp.com/deep-research", "zaubacorp.com/company-research",
+    "zaubacorp.com/login", "tofler.in/login", "tofler.in/register", "tofler.in/signup",
+    "instafinancials.com/login", "instafinancials.com/signup"
 ]
 
 DISALLOWED_TLDS = (".cn", ".ru", ".kr", ".jp", ".de", ".fr", ".br", ".vn", ".th", ".pl", ".cz")
@@ -50,6 +79,192 @@ DISALLOWED_TLDS = (".cn", ".ru", ".kr", ".jp", ".de", ".fr", ".br", ".vn", ".th"
 INTERNAL_SEARCH_DOMAINS = [
     "bing.com", "yahoo.com", "google.com", "microsoft.com", "duckduckgo.com", "msn.com"
 ]
+
+INVALID_EMAIL_EXTENSIONS = (
+    ".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg", ".bmp", ".ico",
+    ".css", ".js", ".json", ".xml", ".txt", ".woff", ".woff2", ".ttf"
+)
+
+UNWANTED_EMAIL_DOMAINS = (
+    "amazon.", "marketplace.amazon.", "sentry.", "example.com", "example.org",
+    "google.com", "schema.org", "w3.org", "duckduckgo.com", "cloudflare.com",
+    "domain.com", "yourdomain.com", "test.com", "email.com", "yoursite.com"
+)
+
+EMAIL_PRIORITY_PREFIXES = (
+    "contact@", "info@", "support@", "care@", "sales@", "help@",
+    "service@", "admin@", "office@", "customercare@", "hello@"
+)
+
+DISALLOWED_EMAIL_SEARCH_DOMAINS = (
+    "amazon.", "flipkart.com", "myntra.com", "ajio.com", "facebook.com",
+    "instagram.com", "linkedin.com", "twitter.com", "x.com", "youtube.com",
+    "wikipedia.org", "pinterest.com", "reddit.com", "quora.com",
+    "duckduckgo.com", "bing.com", "google.com", "yahoo.com", "msn.com"
+)
+
+def filter_and_rank_emails(candidates: List[str], seller_name: str = "") -> Optional[str]:
+    """Filters invalid email artifacts and ranks by operational priority and seller relevance."""
+    valid_emails = []
+    seen = set()
+
+    for em in candidates:
+        if not em or not isinstance(em, str):
+            continue
+        em_clean = em.strip().lower()
+        if em_clean in seen:
+            continue
+        seen.add(em_clean)
+
+        # Validate standard syntax
+        if not re.match(r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$", em_clean):
+            continue
+
+        # Reject invalid file extensions at the end of email
+        if any(em_clean.endswith(ext) for ext in INVALID_EMAIL_EXTENSIONS):
+            continue
+
+        # Reject unwanted / internal / dummy domains
+        if any(unwanted in em_clean for unwanted in UNWANTED_EMAIL_DOMAINS):
+            continue
+
+        valid_emails.append(em_clean)
+
+    if not valid_emails:
+        return None
+
+    # Score and rank emails
+    name_clean = re.sub(r"[^a-z0-9]", "", seller_name.lower()) if seller_name else ""
+    scored_emails = []
+
+    for em in valid_emails:
+        score = 10
+        # Priority operational prefixes
+        for idx, pfx in enumerate(EMAIL_PRIORITY_PREFIXES):
+            if em.startswith(pfx):
+                score += (60 - idx * 2)
+                break
+
+        # Name match in username or domain
+        if name_clean and len(name_clean) >= 3:
+            em_no_punct = re.sub(r"[^a-z0-9]", "", em)
+            if name_clean in em_no_punct:
+                score += 25
+
+        scored_emails.append((score, em))
+
+    scored_emails.sort(key=lambda x: x[0], reverse=True)
+    return scored_emails[0][1]
+
+def search_and_extract_seller_email(seller_name: str, session: Optional[requests.Session] = None) -> Optional[str]:
+    """
+    Dedicated email search routine that queries the web for the seller's operational email.
+    1. Queries DuckDuckGo HTML endpoint: f'"{clean_seller_name}" email'
+    2. Scans snippet text directly for email matches
+    3. If none in snippet, decodes top 2 external candidate URLs and scans page HTML (5s timeout)
+    4. Ranks extracted emails favoring contact/info/support prefixes
+    """
+    if not seller_name or len(seller_name.strip()) < 2 or seller_name.strip() in ("Not Found", "Unknown", "N/A"):
+        return None
+
+    clean_seller_name = seller_name.strip()
+    clean_query_name = re.sub(r"(?i)\s*(?:Pvt\.?\s*Ltd\.?|Private\s+Limited|LLP|Ltd\.?|Inc\.?)\s*$", "", clean_seller_name).strip()
+    if not clean_query_name or len(clean_query_name) < 2:
+        clean_query_name = clean_seller_name
+
+    query = f'"{clean_query_name}" email'
+    logger.info(f'[ENRICH] Searching web: "{clean_query_name}" email')
+
+    if session is None:
+        session = requests.Session()
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept-Language": "en-IN,en-US;q=0.9,en;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Origin": "https://html.duckduckgo.com",
+        "Referer": "https://html.duckduckgo.com/"
+    }
+
+    try:
+        time.sleep(random.uniform(1.0, 2.0))
+
+        # 1. Query DuckDuckGo HTML endpoint
+        ddg_resp = session.post(
+            "https://html.duckduckgo.com/html/",
+            data={"q": query},
+            headers=headers,
+            timeout=10
+        )
+
+        html_text = ddg_resp.text if ddg_resp else ""
+        if not html_text or ddg_resp.status_code == 202:
+            try:
+                ddg_resp = session.get(
+                    f"https://html.duckduckgo.com/html/?q={requests.utils.quote(query)}",
+                    headers=headers,
+                    timeout=10
+                )
+                html_text = ddg_resp.text if ddg_resp else ""
+            except Exception:
+                pass
+
+        # 2. Extract emails directly from snippet text
+        snippet_emails = re.findall(r"\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b", html_text)
+        best_snippet_email = filter_and_rank_emails(snippet_emails, clean_seller_name)
+        if best_snippet_email:
+            logger.info(f"[ENRICH] Found email for '{clean_seller_name}' in search snippet: {best_snippet_email}")
+            return best_snippet_email
+
+        # 3. Extract top 2 organic external destination URLs from DDG redirect links
+        raw_links = re.findall(r'href=[\'"]([^\'"]*uddg=[^\'"]*)[\'"]', html_text)
+        candidate_urls: List[str] = []
+
+        for l in raw_links:
+            try:
+                qs = parse_qs(urlparse(l).query)
+                dest = unquote(qs.get("uddg", [""])[0])
+                if dest and dest.startswith("http"):
+                    parsed_dest = urlparse(dest)
+                    netloc = parsed_dest.netloc.lower()
+                    if not any(skip in netloc for skip in DISALLOWED_EMAIL_SEARCH_DOMAINS):
+                        if dest not in candidate_urls:
+                            candidate_urls.append(dest)
+                if len(candidate_urls) >= 2:
+                    break
+            except Exception:
+                continue
+
+        # 4. Fetch candidate destination pages and scan HTML for emails (5s timeout)
+        page_emails: List[str] = []
+        for cand_url in candidate_urls[:2]:
+            try:
+                time.sleep(random.uniform(0.5, 1.0))
+                cand_resp = session.get(
+                    cand_url,
+                    headers={"User-Agent": headers["User-Agent"], "Accept-Language": headers["Accept-Language"]},
+                    timeout=5
+                )
+                if cand_resp and cand_resp.status_code == 200:
+                    found = re.findall(r"\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b", cand_resp.text)
+                    page_emails.extend(found)
+                    best_cand_email = filter_and_rank_emails(found, clean_seller_name)
+                    if best_cand_email:
+                        logger.info(f"[ENRICH] Found email for '{clean_seller_name}' on {cand_url}: {best_cand_email}")
+                        return best_cand_email
+            except Exception as e_page:
+                logger.debug(f"[ENRICH] Non-critical error fetching candidate URL {cand_url}: {e_page}")
+                continue
+
+        best_overall = filter_and_rank_emails(page_emails, clean_seller_name)
+        if best_overall:
+            return best_overall
+
+    except Exception as e:
+        logger.warning(f"[ENRICH] Error during email search for '{clean_seller_name}': {e}")
+
+    return None
 
 def decode_search_redirect_url(href: str) -> str:
     """Decodes Bing /ck/a?, Yahoo /RU=, and Google /url? redirect wrappers to pure target URLs."""
@@ -97,19 +312,40 @@ def decode_search_redirect_url(href: str) -> str:
     return href
 
 def is_valid_search_result_url(url: str) -> bool:
-    """Validates destination search result URLs."""
+    """Validates destination search result URLs against strict domain and URL blacklist."""
     if not url or not url.startswith("http"):
         return False
     parsed = urlparse(url)
     domain = parsed.netloc.lower()
     if not domain:
         return False
+
+    # 1. Check internal search engine domains
     if any(internal in domain for internal in INTERNAL_SEARCH_DOMAINS):
         return False
-    if any(skip in domain for skip in SKIP_DOMAINS):
-        return False
+
+    # 2. Check disallowed foreign TLDs
     if any(domain.endswith(tld) for tld in DISALLOWED_TLDS):
         return False
+
+    # 3. Check disallowed domains (Dictionaries, Encyclopedias, Entertainment, Marketplaces, Social)
+    for disallowed in DISALLOWED_DOMAINS:
+        if disallowed in domain:
+            return False
+
+    # 4. Check disallowed URL substrings (e.g. signup/login/deep-research landing pages)
+    url_lower = url.lower()
+    for sub in DISALLOWED_URL_SUBSTRINGS:
+        if sub in url_lower:
+            return False
+
+    # 5. Skip binary and static media files
+    path_lower = parsed.path.lower()
+    if any(path_lower.endswith(ext) for ext in INVALID_EMAIL_EXTENSIONS):
+        return False
+    if any(path_lower.endswith(ext) for ext in (".pdf", ".zip", ".tar", ".gz", ".exe", ".mp4", ".mp3", ".avi", ".mov")):
+        return False
+
     return True
 
 # -------------------------------------------------------------
@@ -125,13 +361,17 @@ class SearchProvider(ABC):
     def search(self, page: Page, query: str, limit: int = MAX_RESULTS_PER_QUERY, timeout_sec: int = SEARCH_TIMEOUT_SECONDS) -> Tuple[List[str], Dict[str, Any]]:
         pass
 
-class BingSearchProvider(SearchProvider):
+class DuckDuckGoSearchProvider(SearchProvider):
+    """
+    Primary Search Provider: DuckDuckGo HTML / Lite endpoint.
+    Performs fast search with immediate failover within 1.5s if status != 200 or HTML < 500 bytes.
+    """
     @property
     def name(self) -> str:
-        return "Bing"
+        return "DuckDuckGo"
 
     def search(self, page: Page, query: str, limit: int = MAX_RESULTS_PER_QUERY, timeout_sec: int = SEARCH_TIMEOUT_SECONDS) -> Tuple[List[str], Dict[str, Any]]:
-        search_url = f"https://www.bing.com/search?q={quote_plus(query)}"
+        search_url = f"https://html.duckduckgo.com/html/?q={quote_plus(query)}"
         urls = []
         diag = {
             "query": query,
@@ -143,55 +383,95 @@ class BingSearchProvider(SearchProvider):
             "extracted_count": 0,
             "raw_html": ""
         }
+
+        session = requests.Session()
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "Accept-Language": "en-IN,en;q=0.9",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Content-Type": "application/x-www-form-urlencoded",
+            "Origin": "https://html.duckduckgo.com",
+            "Referer": "https://html.duckduckgo.com/"
+        }
+
         try:
+            # 1. Fast HTTP request via requests (max 1.5s)
+            resp = None
             try:
-                page.evaluate("() => window.stop()")
+                resp = session.post(
+                    "https://html.duckduckgo.com/html/",
+                    data={"q": query},
+                    headers=headers,
+                    timeout=1.5
+                )
             except Exception:
                 pass
 
-            resp = page.goto(search_url, wait_until="domcontentloaded", timeout=timeout_sec * 1000)
-            page.wait_for_timeout(500)
-            diag["status"] = str(resp.status) if resp else "200"
-            try:
-                diag["title"] = page.title() or ""
-            except Exception:
-                diag["title"] = ""
+            html_content = resp.text if (resp and resp.status_code == 200) else ""
+            status_code = resp.status_code if resp else 0
 
-            try:
-                html_content = page.content() or ""
-            except Exception:
-                html_content = ""
+            # 2. If requests failed or produced empty HTML, attempt fast Playwright navigation (max 2s)
+            if not html_content or len(html_content) < 500:
+                try:
+                    page_resp = page.goto(
+                        search_url,
+                        wait_until="domcontentloaded",
+                        timeout=2000
+                    )
+                    status_code = page_resp.status if page_resp else 200
+                    html_content = page.content() or ""
+                    try:
+                        diag["title"] = page.title() or ""
+                    except Exception:
+                        pass
+                except Exception as e_page:
+                    diag["status"] = f"PAGE FAILOVER: {e_page}"
 
+            diag["status"] = str(status_code)
             diag["html_length"] = len(html_content)
             diag["raw_html"] = html_content
 
-            try:
-                links = page.query_selector_all("li.b_algo h2 a, .b_algo h2 a, #b_results h2 a, #b_results li a")
-            except Exception:
-                links = []
+            # Failover immediately if response is non-200 or HTML stub (< 500 chars)
+            if status_code != 200 or len(html_content) < 500:
+                logger.warning(f"DuckDuckGo returned status {status_code} (length: {len(html_content)}). Triggering immediate failover within 1.5s.")
+                return urls, diag
 
-            for l in links:
-                try:
-                    raw_href = l.get_attribute("href")
-                    decoded_href = decode_search_redirect_url(raw_href)
-                    if is_valid_search_result_url(decoded_href):
-                        if decoded_href not in urls:
-                            urls.append(decoded_href)
-                    if len(urls) >= limit:
-                        break
-                except Exception:
-                    continue
+            # Extract URLs from HTML
+            # Strategy A: result__url links
+            result_links = re.findall(r'<a[^>]+class="[^"]*result__url[^"]*"[^>]*href="([^"]+)"', html_content)
+            for link in result_links:
+                decoded = decode_search_redirect_url(link)
+                if is_valid_search_result_url(decoded) and decoded not in urls:
+                    urls.append(decoded)
+                if len(urls) >= limit:
+                    break
+
+            # Strategy B: /l/?uddg= redirect links
+            if len(urls) < limit:
+                raw_uddg = re.findall(r'href=[\'"]([^\'"]*uddg=[^\'"]*)[\'"]', html_content)
+                for l in raw_uddg:
+                    try:
+                        qs = parse_qs(urlparse(l).query)
+                        dest = unquote(qs.get("uddg", [""])[0])
+                        if is_valid_search_result_url(dest) and dest not in urls:
+                            urls.append(dest)
+                        if len(urls) >= limit:
+                            break
+                    except Exception:
+                        continue
 
             diag["extracted_count"] = len(urls)
-        except PlaywrightTimeoutError:
-            diag["status"] = f"SEARCH TIMEOUT ({timeout_sec}s)"
-            logger.warning(f"SEARCH TIMEOUT: '{query}' on {self.name}")
+
         except Exception as e:
             diag["status"] = f"ERROR: {e}"
 
         return urls, diag
 
 class YahooSearchProvider(SearchProvider):
+    """
+    Secondary / Fallback Search Provider: Yahoo Search.
+    Fails over immediately if status != 200 or HTML < 500 bytes.
+    """
     @property
     def name(self) -> str:
         return "Yahoo"
@@ -216,8 +496,13 @@ class YahooSearchProvider(SearchProvider):
                 pass
 
             resp = page.goto(search_url, wait_until="domcontentloaded", timeout=timeout_sec * 1000)
-            page.wait_for_timeout(500)
-            diag["status"] = str(resp.status) if resp else "200"
+            page.wait_for_timeout(300)
+            status_code = resp.status if resp else 200
+            diag["status"] = str(status_code)
+
+            if status_code in (429, 202, 503):
+                logger.warning(f"Yahoo search returned HTTP {status_code} (Rate limited/Blocked). Backing off safely...")
+                time.sleep(1.5)
             
             try:
                 diag["title"] = page.title() or ""
@@ -232,8 +517,13 @@ class YahooSearchProvider(SearchProvider):
             diag["html_length"] = len(html_content)
             diag["raw_html"] = html_content
 
+            # Failover immediately if response is non-200 or HTML is stub
+            if status_code != 200 or len(html_content) < 500:
+                logger.warning(f"{self.name} returned status {status_code} (length: {len(html_content)}). Triggering failover.")
+                return urls, diag
+
             try:
-                links = page.query_selector_all("div.compTitle a, div.compText a, h3.title a, .algo h3 a, #web a")
+                links = page.query_selector_all("div.compTitle a, div.compText a, h3.title a, .algo h3 a, #web a, .dd a")
             except Exception:
                 links = []
 
@@ -273,8 +563,9 @@ class PublicEnrichmentEngine:
         self.browser_mgr = browser_mgr
         self.max_seller_enrichment_seconds = max_seller_enrichment_seconds
         self.audit_log: List[Dict[str, Any]] = []
+        self.session = requests.Session()
         
-        self.primary_provider = BingSearchProvider()
+        self.primary_provider = DuckDuckGoSearchProvider()
         self.fallback_provider = YahooSearchProvider()
 
         # Performance Tracking Statistics
@@ -466,6 +757,31 @@ class PublicEnrichmentEngine:
                 record_field("Email Address", record.email_address, "Amazon Profile", record.seller_url or "")
 
             # -------------------------------------------------------------
+            # DEDICATED WEB SEARCH FOR SELLER EMAIL (If missing from Amazon profile)
+            # -------------------------------------------------------------
+            if self._is_field_missing(record, "Email") and not is_seller_timed_out():
+                check_heartbeat("Email Search")
+                email_query_name = record.business_name if record.business_name not in ("Not Found", "Unknown", "") else (record.legal_entity or record.display_name)
+                if email_query_name and email_query_name not in ("Not Found", "Unknown", ""):
+                    found_email = search_and_extract_seller_email(email_query_name, session=self.session)
+                    # Fallback to Display Name if business_name query yielded no email and display_name differs
+                    if not found_email and record.display_name and record.display_name not in ("Not Found", "Unknown", "") and record.display_name.lower().strip() != email_query_name.lower().strip():
+                        logger.info(f'[ENRICH] Falling back to display name: "{record.display_name}" email')
+                        found_email = search_and_extract_seller_email(record.display_name, session=self.session)
+
+                    if found_email:
+                        record.email_address = found_email
+                        record_field("Email Address", found_email, "Web Search - Seller Email", "https://html.duckduckgo.com/html/")
+                        sources.append(SellerSource(
+                            source_name="Web Search - Seller Email",
+                            source_url="https://html.duckduckgo.com/html/",
+                            field_name="Email Address",
+                            field_value=found_email,
+                            verification_status="Verified"
+                        ))
+                        logger.info(f"[ENRICH] Successfully enriched email for '{email_query_name}': {found_email}")
+
+            # -------------------------------------------------------------
             # LEVEL 3: Find & Verify Official Website
             # -------------------------------------------------------------
             official_website = record.website_url if record.website_url != "Not Found" else None
@@ -546,40 +862,49 @@ class PublicEnrichmentEngine:
                 query_entity = record.legal_entity or business_name
                 queries_for_field: List[str] = []
 
+                gst_val = record.gst_number if record.gst_number not in ("Not Found", "N/A", "Unverified", None) else ""
+
                 if field_name == "Legal Entity Name":
                     queries_for_field = [
-                        f"{business_name} company registration",
-                        f"{business_name} Private Limited registration"
+                        f'"{business_name}" company registration Private Limited',
+                        f'"{business_name}" legal name India'
                     ]
                 elif field_name == "PAN":
+                    if gst_val:
+                        derived_p = extract_pan_from_gstin(gst_val)
+                        if derived_p:
+                            record.pan_number = derived_p
+                            record_field("PAN Number", derived_p, "GST Derivation", record.seller_url or "")
+                            continue
                     queries_for_field = [
-                        f"{query_entity} PAN card number",
-                        f"{business_name} PAN number"
+                        f'"{query_entity}" PAN card number',
+                        f'"{business_name}" PAN number'
                     ]
                 elif field_name == "GST":
                     queries_for_field = [
-                        f"{query_entity} GSTIN registration",
-                        f"{business_name} GST number"
+                        f'"{query_entity}" GSTIN registration',
+                        f'"{business_name}" GST number India'
                     ]
                 elif field_name == "Owner":
-                    queries_for_field = [
-                        f"{query_entity} director owner founder",
-                        f"{business_name} founder"
-                    ]
+                    if gst_val:
+                        queries_for_field = [
+                            f'"{business_name}" "{gst_val}" director owner ZaubaCorp Tofler',
+                            f'"{business_name}" director owner ZaubaCorp Tofler'
+                        ]
+                    else:
+                        queries_for_field = [
+                            f'"{business_name}" director owner ZaubaCorp Tofler',
+                            f'"{query_entity}" founder managing director'
+                        ]
                 elif field_name == "Address":
                     queries_for_field = [
-                        f"{query_entity} registered office address corporate office",
-                        f"{business_name} registered address"
+                        f'"{query_entity}" registered office address corporate office',
+                        f'"{business_name}" India contact address'
                     ]
-                elif field_name == "Phone":
+                elif field_name in ("Phone", "Email"):
                     queries_for_field = [
-                        f"{business_name} phone contact number customer support",
-                        f"{business_name} contact phone"
-                    ]
-                elif field_name == "Email":
-                    queries_for_field = [
-                        f"{business_name} email contact address customer care",
-                        f"{business_name} contact email"
+                        f'"{business_name}" India contact email phone official website',
+                        f'"{query_entity}" customer care phone email'
                     ]
 
                 field_found = False
@@ -628,11 +953,14 @@ class PublicEnrichmentEngine:
                     logger.info(f"FIELD SEARCH EXHAUSTED: {field_name}")
 
             # 6. Pincode from Address if present
-            if record.pincode == "Not Found" and record.billing_address != "Not Found":
-                parsed = parse_indian_address(record.billing_address)
+            if record.pincode in ("Not Found", "N/A", "") and record.billing_address != "Not Found":
+                parsed = parse_indian_address(record.billing_address, gst_number=record.gst_number)
                 if parsed["pincode"] != "Not Found":
                     record.pincode = parsed["pincode"]
                     record_field("Pincode", record.pincode, "Address Extraction", record.website_url or "")
+                if record.state in ("Not Found", "Unknown", "") and parsed["state"] != "Not Found":
+                    record.state = parsed["state"]
+                    record_field("State", record.state, "Address Extraction", record.website_url or "")
 
         finally:
             safe_close_page(page)
@@ -753,6 +1081,8 @@ class PublicEnrichmentEngine:
         return urls
 
     def _fetch_page_text(self, page: Page, url: str) -> str:
+        if not is_valid_search_result_url(url):
+            return ""
         try:
             try:
                 page.evaluate("() => window.stop()")
@@ -770,6 +1100,8 @@ class PublicEnrichmentEngine:
         return ""
 
     def _verify_website_ownership(self, page: Page, candidate_url: str, business_name: str) -> bool:
+        if not is_valid_search_result_url(candidate_url):
+            return False
         try:
             try:
                 page.evaluate("() => window.stop()")
