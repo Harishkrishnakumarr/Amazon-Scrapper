@@ -41,8 +41,9 @@ jobs:
         run: |
           python -m playwright install --with-deps chromium
 
-      # 5. Prepare directories
+      ## 5. Prepare directories
       - name: Prepare directories
+        working-directory: Amazon
         run: |
           mkdir -p logs
           mkdir -p output
@@ -50,10 +51,11 @@ jobs:
 
       # 6. Run Amazon scraper
       - name: Run Amazon Seller Scraper
+        working-directory: Amazon
         env:
           PYTHONUNBUFFERED: "1"
         run: |
-          python main.py --batch --headless
+          python main.py --batch --batch-file input/amazon_urls.txt --headless --force
 
       # 6b. Upload Debug Captcha/HTML Dumps on Failure
       - name: Upload Debug Screenshots
@@ -79,23 +81,24 @@ jobs:
           echo "===== LOGS ====="
           find logs -maxdepth 1 -type f -print || true
 
-      # 8. Upload artifacts
+      ## 8. Upload artifacts
       - name: Upload scraper artifacts
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: amazon-scraper-results
           path: |
-            output/Amazon_Seller_Master_Data.xlsx
-            output/backups/
-            amazon_sellers.db
-            logs/
+            Amazon/output/Amazon_Seller_Master_Data.xlsx
+            Amazon/output/backups/
+            Amazon/amazon_sellers.db
+            Amazon/logs/
           if-no-files-found: warn
           retention-days: 14
 
       # 9. Commit generated data
       - name: Commit generated data
         if: success()
+        working-directory: Amazon
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -109,6 +112,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update Amazon seller data"
+            git push origin HEAD:master
           fi
 
       # 10. Push generated data to master
