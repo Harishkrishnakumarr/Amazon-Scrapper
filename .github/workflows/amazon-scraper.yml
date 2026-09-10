@@ -35,12 +35,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Install Playwright Chromium
+      # 4. Install Playwright Chromium & system libraries
       - name: Install Playwright Chromium
         run: |
           python -m playwright install --with-deps chromium
 
-      # 5. Prepare directories
+      # 5. Prepare output and log directories
       - name: Prepare directories
         run: |
           mkdir -p logs
@@ -64,21 +64,22 @@ jobs:
           path: |
             output/debug/
             output/*.png
+            output/*.html
             logs/
           if-no-files-found: ignore
           retention-days: 7
 
-      # 8. Verify output
+      # 8. Output audit summary
       - name: Verify output
         if: always()
         run: |
-          echo "===== OUTPUT ====="
+          echo "===== GENERATED FILES ====="
           find output -maxdepth 2 -type f -print || true
 
-          echo "===== DATABASE ====="
-          ls -lh database/amazon_sellers.db 2>/dev/null || ls -lh amazon_sellers.db 2>/dev/null || true
+          echo "===== DATABASE CHECK ====="
+          ls -lh database/amazon_sellers.db* 2>/dev/null || ls -lh amazon_sellers.db* 2>/dev/null || true
 
-          echo "===== LOGS ====="
+          echo "===== LOG CHECK ====="
           find logs -maxdepth 1 -type f -print || true
 
       # 9. Upload final artifacts
@@ -90,28 +91,31 @@ jobs:
           path: |
             output/Amazon_Seller_Master_Data.xlsx
             output/backups/
-            database/amazon_sellers.db
-            amazon_sellers.db
+            database/amazon_sellers.db*
+            amazon_sellers.db*
             logs/
           if-no-files-found: warn
           retention-days: 14
 
-      # 10. Commit generated data
+      # 10. Commit generated data back to repository
       - name: Commit generated data
         if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add output/Amazon_Seller_Master_Data.xlsx
-          git add output/backups/
-          git add database/amazon_sellers.db 2>/dev/null || true
-          git add amazon_sellers.db 2>/dev/null || true
-          git add logs/
+          # Stage master Excel, backups, database, and logs
+          [ -f "output/Amazon_Seller_Master_Data.xlsx" ] && git add output/Amazon_Seller_Master_Data.xlsx
+          [ -d "output/backups" ] && git add output/backups/
+          git add database/amazon_sellers.db* 2>/dev/null || true
+          git add amazon_sellers.db* 2>/dev/null || true
+          [ -d "logs" ] && git add logs/
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No data changes detected to commit."
           else
-            git commit -m "Update Amazon seller data [skip ci]"
+            git commit -m "Auto-update Amazon seller master data and database [skip ci]"
+            # Pull rebase prevents rejected pushes if changes occurred during the run
+            git pull --rebase origin master
             git push origin HEAD:master
           fi
