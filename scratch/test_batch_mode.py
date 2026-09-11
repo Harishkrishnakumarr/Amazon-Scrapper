@@ -39,6 +39,7 @@ Home Decor|https://www.amazon.in/s?k=home+decor
 Electronics|https://www.amazon.in/s?k=electronics
 https://www.amazon.in/s?k=sports+shoes
 Handbags
+Messenger & Sling Bags|[https://www.amazon.in/s?k=Messenger+%26+Sling+Bags](https://www.amazon.in/s?k=Messenger+%26+Sling+Bags)
 """)
 
     cats = load_batch_categories(batch_file)
@@ -46,7 +47,7 @@ Handbags
     for c, u in cats:
         print(f"  - Category: '{c}' | URL: '{u}'")
 
-    assert len(cats) == 7, f"Expected 7 categories, got {len(cats)}"
+    assert len(cats) == 8, f"Expected 8 categories, got {len(cats)}"
     assert cats[0] == ("Women's Flats Amazon", "https://www.amazon.in/s?k=women+flats")
     assert cats[1] == ("Men's Shoes", "https://www.amazon.in/s?k=men+shoes")
     assert cats[2] == ("School Shoes", "https://www.amazon.in/s?k=school+shoes")
@@ -54,6 +55,7 @@ Handbags
     assert cats[4] == ("Electronics", "https://www.amazon.in/s?k=electronics")
     assert cats[5][0] == "Sports Shoes"
     assert cats[6][0] == "Handbags"
+    assert cats[7] == ("Messenger & Sling Bags", "https://www.amazon.in/s?k=Messenger+%26+Sling+Bags")
     print("PASS: Batch URL File Parsing passed all test cases.")
 
     # -------------------------------------------------------------

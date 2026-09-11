@@ -67,6 +67,20 @@ def load_config() -> dict:
         "urls_file": "input/amazon_urls.txt"
     }
 
+def sanitize_url_input(url_str: str) -> str:
+    url_str = url_str.strip()
+    if not url_str:
+        return ""
+    # Extract URL if enclosed in markdown link format e.g. [text](https://...) or [https://...](https://...)
+    md_match = re.search(r'\((https?://[^\s\)]+)\)', url_str)
+    if md_match:
+        return md_match.group(1).strip()
+    # Extract standard http(s) URL if wrapped in brackets or quotes e.g. <https://...>, [https://...]
+    url_match = re.search(r'https?://[^\s\)\]\>\"\'\`]+', url_str)
+    if url_match:
+        return url_match.group(0).strip()
+    return url_str.strip("[]<>()\"' ")
+
 def load_current_category_and_url(config: dict) -> Tuple[str, str]:
     cat_file = "input/current_category.txt"
     if os.path.exists(cat_file):
@@ -77,28 +91,32 @@ def load_current_category_and_url(config: dict) -> Tuple[str, str]:
                     if "|" in line:
                         parts = line.split("|", 1)
                         cat_name = parts[0].strip()
-                        url_val = parts[1].strip()
+                        url_val = sanitize_url_input(parts[1])
                         if not cat_name or cat_name.lower() == "current category":
                             raise ValueError(f"Invalid category '{cat_name}' in {cat_file}. Please provide a valid category name.")
+                        if not url_val:
+                            url_val = "https://www.amazon.in/s?k=" + quote_plus(cat_name)
                         return cat_name, url_val
-                    elif line.startswith("http"):
-                        parsed = urlparse(line)
-                        qs = parse_qs(parsed.query)
-                        if "k" in qs and qs["k"][0].strip():
-                            inferred = qs["k"][0].replace("+", " ").strip().title()
-                            return inferred, line
-                        # Infer category from URL path e.g. /Sports-Outdoor-Women-Shoes/b?node=...
-                        path_parts = [p for p in parsed.path.split("/") if p and p not in ("b", "s", "dp", "gp", "ref=sr_1_1")]
-                        if path_parts:
-                            inferred = path_parts[0].replace("-", " ").replace("+", " ").replace("_", " ").strip().title()
-                            if inferred and inferred.lower() != "current category":
-                                return inferred, line
-                        raise ValueError(f"Could not infer category name from URL '{line}'. Please format input/current_category.txt as 'Category Name|URL'.")
                     else:
-                        cat_name = line.strip()
-                        if not cat_name or cat_name.lower() == "current category":
-                            raise ValueError(f"Invalid category '{cat_name}' in {cat_file}.")
-                        return cat_name, "https://www.amazon.in/s?k=" + quote_plus(cat_name)
+                        clean_line = sanitize_url_input(line)
+                        if clean_line.startswith("http"):
+                            parsed = urlparse(clean_line)
+                            qs = parse_qs(parsed.query)
+                            if "k" in qs and qs["k"][0].strip():
+                                inferred = qs["k"][0].replace("+", " ").strip().title()
+                                return inferred, clean_line
+                            # Infer category from URL path e.g. /Sports-Outdoor-Women-Shoes/b?node=...
+                            path_parts = [p for p in parsed.path.split("/") if p and p not in ("b", "s", "dp", "gp", "ref=sr_1_1")]
+                            if path_parts:
+                                inferred = path_parts[0].replace("-", " ").replace("+", " ").replace("_", " ").strip().title()
+                                if inferred and inferred.lower() != "current category":
+                                    return inferred, clean_line
+                            raise ValueError(f"Could not infer category name from URL '{line}'. Please format input/current_category.txt as 'Category Name|URL'.")
+                        else:
+                            cat_name = line.strip()
+                            if not cat_name or cat_name.lower() == "current category":
+                                raise ValueError(f"Invalid category '{cat_name}' in {cat_file}.")
+                            return cat_name, "https://www.amazon.in/s?k=" + quote_plus(cat_name)
 
     configured_category = config.get("default_category", "Women's Flats Amazon")
     return configured_category, "https://www.amazon.in/s?k=" + quote_plus(configured_category)
@@ -117,32 +135,34 @@ def load_batch_categories(file_path: str = "input/amazon_urls.txt") -> List[Tupl
             if "|" in line:
                 parts = line.split("|", 1)
                 cat_name = parts[0].strip()
-                url_val = parts[1].strip()
+                url_val = sanitize_url_input(parts[1])
                 if not cat_name or cat_name.lower() == "current category":
                     raise ValueError(f"Invalid category name '{cat_name}' on line {line_idx} of {file_path}.")
                 if not url_val:
                     url_val = "https://www.amazon.in/s?k=" + quote_plus(cat_name)
                 categories.append((cat_name, url_val))
-            elif line.startswith("http"):
-                parsed = urlparse(line)
-                qs = parse_qs(parsed.query)
-                if "k" in qs and qs["k"][0].strip():
-                    cat_name = qs["k"][0].replace("+", " ").strip().title()
-                else:
-                    path_parts = [p for p in parsed.path.split("/") if p and p not in ("b", "s", "dp", "gp", "ref=sr_1_1")]
-                    if path_parts:
-                        cat_name = path_parts[0].replace("-", " ").replace("+", " ").replace("_", " ").strip().title()
-                    else:
-                        raise ValueError(f"Could not infer category name from URL '{line}' on line {line_idx} of {file_path}. Please format as 'Category Name|URL'.")
-                if not cat_name or cat_name.lower() == "current category":
-                    raise ValueError(f"Invalid category inferred on line {line_idx} of {file_path}.")
-                categories.append((cat_name, line))
             else:
-                cat_name = line.strip()
-                if not cat_name or cat_name.lower() == "current category":
-                    raise ValueError(f"Invalid category name on line {line_idx} of {file_path}.")
-                url_val = "https://www.amazon.in/s?k=" + quote_plus(cat_name)
-                categories.append((cat_name, url_val))
+                clean_line = sanitize_url_input(line)
+                if clean_line.startswith("http"):
+                    parsed = urlparse(clean_line)
+                    qs = parse_qs(parsed.query)
+                    if "k" in qs and qs["k"][0].strip():
+                        cat_name = qs["k"][0].replace("+", " ").strip().title()
+                    else:
+                        path_parts = [p for p in parsed.path.split("/") if p and p not in ("b", "s", "dp", "gp", "ref=sr_1_1")]
+                        if path_parts:
+                            cat_name = path_parts[0].replace("-", " ").replace("+", " ").replace("_", " ").strip().title()
+                        else:
+                            raise ValueError(f"Could not infer category name from URL '{line}' on line {line_idx} of {file_path}. Please format as 'Category Name|URL'.")
+                    if not cat_name or cat_name.lower() == "current category":
+                        raise ValueError(f"Invalid category inferred on line {line_idx} of {file_path}.")
+                    categories.append((cat_name, clean_line))
+                else:
+                    cat_name = line.strip()
+                    if not cat_name or cat_name.lower() == "current category":
+                        raise ValueError(f"Invalid category name on line {line_idx} of {file_path}.")
+                    url_val = "https://www.amazon.in/s?k=" + quote_plus(cat_name)
+                    categories.append((cat_name, url_val))
 
     return categories
 
@@ -1041,7 +1061,7 @@ def run_single_product_test(product_url_or_asin: str, headless: bool = False, ca
 def main():
     parser = argparse.ArgumentParser(description="Amazon Multi-Category Multi-Seller Web Scraper")
     parser.add_argument("--batch", action="store_true", help="Enable Multi-Category Batch Mode (reads amazon_urls.txt)")
-    parser.add_argument("--urls-file", type=str, default=None, help="Path to batch category URLs file")
+    parser.add_argument("--urls-file", "--batch-file", dest="urls_file", type=str, default=None, help="Path to batch category URLs file")
     parser.add_argument("--category", type=str, default=None, help="Target category name (single category mode)")
     parser.add_argument("--url", type=str, default=None, help="Target Amazon URL (single category mode)")
     parser.add_argument("--force", action="store_true", help="Force reprocess category")
