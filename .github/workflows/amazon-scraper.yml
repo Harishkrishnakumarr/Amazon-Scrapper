@@ -47,12 +47,13 @@ jobs:
           mkdir -p output
           mkdir -p output/backups
           mkdir -p output/debug
-# 6. Run Amazon scraper
+
+      # 6. Run Amazon scraper with amazon_urls.txt
       - name: Run Amazon Seller Scraper
         env:
           PYTHONUNBUFFERED: "1"
         run: |
-          python main.py --batch --batch-file input/amazon_urls.txt --headless --force
+          python main.py --batch --urls-file input/amazon_urls.txt --headless --force
 
       # 7. Upload debug dumps on failure
       - name: Upload debug dumps
@@ -114,7 +115,6 @@ jobs:
             echo "No data changes detected to commit."
           else
             git commit -m "Auto-update Amazon seller master data and database [skip ci]"
-            # Pull rebase prevents rejected pushes if changes occurred during the run
             git pull --rebase origin master
             git push origin HEAD:master
           fi
