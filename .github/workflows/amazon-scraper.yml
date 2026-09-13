@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+# Prevent two scraper runs from modifying master at the same time.
+concurrency:
+  group: amazon-scraper-master
+  cancel-in-progress: false
+
 jobs:
   amazon-scraper:
     runs-on: ubuntu-latest
@@ -21,26 +26,37 @@ jobs:
         with:
           ref: master
           fetch-depth: 0
+          # Do not persist credentials beyond what is needed by git push.
+          persist-credentials: true
 
-      # 2. Setup Python
+      # 2. Sync with the latest master BEFORE generating any files.
+      - name: Sync with master
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin master
+          git checkout master
+          git reset --hard origin/master
+
+      # 3. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pip"
 
-      # 3. Install dependencies
+      # 4. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Install Playwright Chromium & system libraries
+      # 5. Install Playwright Chromium & system libraries
       - name: Install Playwright Chromium
         run: |
           python -m playwright install --with-deps chromium
 
-      # 5. Prepare output and log directories
+      # 6. Prepare output and log directories
       - name: Prepare directories
         run: |
           mkdir -p logs
@@ -48,14 +64,14 @@ jobs:
           mkdir -p output/backups
           mkdir -p output/debug
 
-      # 6. Run Amazon scraper with amazon_urls.txt
+      # 7. Run Amazon scraper with amazon_urls.txt
       - name: Run Amazon Seller Scraper
         env:
           PYTHONUNBUFFERED: "1"
         run: |
           python main.py --batch --urls-file input/amazon_urls.txt --headless --force
 
-      # 7. Upload debug dumps on failure
+      # 8. Upload debug dumps on failure
       - name: Upload debug dumps
         if: failure()
         uses: actions/upload-artifact@v4
@@ -69,7 +85,7 @@ jobs:
           if-no-files-found: ignore
           retention-days: 7
 
-      # 8. Output audit summary
+      # 9. Output audit summary
       - name: Verify output
         if: always()
         run: |
@@ -82,7 +98,7 @@ jobs:
           echo "===== LOG CHECK ====="
           find logs -maxdepth 1 -type f -print || true
 
-      # 9. Upload final artifacts
+      # 10. Upload final artifacts
       - name: Upload scraper artifacts
         if: always()
         uses: actions/upload-artifact@v4
@@ -97,24 +113,30 @@ jobs:
           if-no-files-found: warn
           retention-days: 14
 
-      # 10. Commit generated data back to repository
+      # 11. Commit generated data back to repository
       - name: Commit generated data
         if: success()
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stage master Excel, backups, database, and logs
-          [ -f "output/Amazon_Seller_Master_Data.xlsx" ] && git add output/Amazon_Seller_Master_Data.xlsx
-          [ -d "output/backups" ] && git add output/backups/
-          git add database/amazon_sellers.db* 2>/dev/null || true
-          git add amazon_sellers.db* 2>/dev/null || true
-          [ -d "logs" ] && git add logs/
+          # Stage every generated repository change. This is important because
+          # the scraper may update files other than the explicitly listed ones.
+          git add -A
 
           if git diff --cached --quiet; then
-            echo "No data changes detected to commit."
-          else
-            git commit -m "Auto-update Amazon seller master data and database [skip ci]"
-            git pull --rebase origin master
-            git push origin HEAD:master
+            echo "No changes detected to commit."
+            exit 0
           fi
+
+          git commit -m "Auto-update Amazon seller master data and database [skip ci]"
+
+          # The working tree must be clean before rebase. Because all changes
+          # were staged and committed above, pull --rebase can safely run here.
+          git fetch origin master
+          git rebase origin/master
+
+          # Push the rebased commit to master.
+          git push origin HEAD:master
