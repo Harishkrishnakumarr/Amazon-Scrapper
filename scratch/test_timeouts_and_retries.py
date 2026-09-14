@@ -151,6 +151,30 @@ def test_all_timeouts_and_retries():
     safe_close_page(broken_page)
     print("PASS: Safe close ignored internal Playwright teardown exceptions.")
 
+    # -------------------------------------------------------------
+    # TEST 7: Download Trap / Navigation Error Fallback to UI Search
+    # -------------------------------------------------------------
+    print("\n--- TEST 7: UI Search Fallback on Direct Navigation Block/Download ---")
+    mock_page_dl = MagicMock()
+    # First goto throws download error, subsequent goto to amazon.in succeeds
+    mock_page_dl.goto.side_effect = [Exception("Page.goto: Download is starting"), MagicMock()]
+    mock_input = MagicMock()
+    mock_page_dl.wait_for_selector.return_value = mock_input
+    mock_link = MagicMock()
+    mock_link.get_attribute.return_value = "/dp/B00EXAMPLE"
+    mock_link.inner_text.return_value = "Gym Bag Pro"
+    mock_page_dl.query_selector_all.return_value = [mock_link]
+    mock_page_dl.query_selector.return_value = None
+    mock_page_dl.title.return_value = "Amazon Search"
+    mock_page_dl.content.return_value = "<html><body>Results</body></html>"
+
+    scraper_dl = AmazonSearchScraper(mock_page_dl, max_retries=1)
+    results = scraper_dl.discover_products("https://www.amazon.in/s?k=Gym+Bags", limit=1, category_name="Gym Bags")
+    assert len(results) == 1, f"Expected 1 product from UI fallback search, got {len(results)}"
+    assert results[0]["asin"] == "B00EXAMPLE"
+    assert mock_input.type.call_count == 1
+    print("PASS: Download trap automatically triggered UI search fallback and discovered products.")
+
     print("\n==================================================")
     print("ALL TIMEOUT, RETRY & ANTI-HANGING TESTS PASSED!")
     print("==================================================")

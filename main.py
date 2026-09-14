@@ -10,8 +10,10 @@ import re
 import time
 import logging
 import argparse
+import os
+import urllib.parse
 from typing import List, Tuple, Dict, Any, Optional
-from urllib.parse import urlparse, parse_qs, quote_plus
+from urllib.parse import urlparse, parse_qs, quote_plus, unquote_plus
 from database.database import init_db
 from database.repository import SellerRepository
 from database.models import SellerRecord, SellerOffer, CategoryRun
@@ -1060,17 +1062,21 @@ def run_single_product_test(product_url_or_asin: str, headless: bool = False, ca
 
 def main():
     parser = argparse.ArgumentParser(description="Amazon Multi-Category Multi-Seller Web Scraper")
-    parser.add_argument("--batch", action="store_true", help="Enable Multi-Category Batch Mode (reads amazon_urls.txt)")
-    parser.add_argument("--urls-file", "--batch-file", dest="urls_file", type=str, default=None, help="Path to batch category URLs file")
+    parser.add_argument("--batch", action="store_true", help="Enable Multi-Category Batch Mode")
+    parser.add_argument("--urls-file", "--batch-file", dest="urls_file", type=str, default="input/amazon_urls.txt", help="Path to batch category URLs file")
     parser.add_argument("--category", type=str, default=None, help="Target category name (single category mode)")
     parser.add_argument("--url", type=str, default=None, help="Target Amazon URL (single category mode)")
     parser.add_argument("--force", action="store_true", help="Force reprocess category")
     parser.add_argument("--test-business", type=str, default=None, help="Run Single Business Test")
-    parser.add_argument("--test-product", type=str, default=None, help="Run Single Product Multi-Seller Extraction Test (ASIN or URL)")
+    parser.add_argument("--test-product", type=str, default=None, help="Run Single Product Multi-Seller Extraction Test")
     parser.add_argument("--test-asin", type=str, default=None, help="Run Single ASIN Multi-Seller Extraction Test")
     parser.add_argument("--headless", action="store_true", default=None, help="Headless browser mode")
+    
     args, unknown = parser.parse_known_args()
 
+    # 1. Fallback to default path if None was somehow provided
+    if args.batch and not args.urls_file:
+        args.urls_file = "input/amazon_urls.txt"
     if args.test_business:
         run_single_business_test(args.test_business, headless=args.headless if args.headless is not None else False)
         return
@@ -1096,10 +1102,11 @@ def main():
             config=config,
             category=args.category,
             url=args.url,
-            headless=args.headless,
+            headless=headless,
             force=args.force
         )
 
 if __name__ == "__main__":
     main()
+
 

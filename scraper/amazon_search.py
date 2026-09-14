@@ -68,6 +68,30 @@ class AmazonSearchScraper:
         self.page = page
         self.max_retries = max_retries
         self.navigation_timeout_ms = 30000
+        self.logger = logger
+
+    def _perform_ui_search(self, category_name: str, fallback_url: str):
+        # 1. Establish session on the home page first
+        self.page.goto("https://www.amazon.in", wait_until="domcontentloaded", timeout=20000)
+        self.page.wait_for_timeout(1000)
+        
+        # Determine keyword
+        keyword = category_name.strip()
+        if not keyword or keyword.startswith("http"):
+            qs = parse_qs(urlparse(fallback_url).query)
+            keyword = qs.get("k", [""])[0] or "Gym Bags"
+        
+        # 2. Fill search box and submit
+        search_input = self.page.wait_for_selector("#twotabsearchtextbox", timeout=8000)
+        if search_input:
+            search_input.fill("")
+            search_input.type(keyword, delay=40)
+            self.page.wait_for_timeout(300)
+            
+            with self.page.expect_navigation(wait_until="domcontentloaded", timeout=25000):
+                self.page.click("#nav-search-submit-button")
+        else:
+            raise Exception("Search input (#twotabsearchtextbox) not found on Amazon home page")
 
     def _close_and_replace_page(self):
         """Replace the current page after a failed navigation."""
@@ -88,16 +112,25 @@ class AmazonSearchScraper:
         except Exception as exc:
             logger.warning(f"Unable to replace failed Amazon search page: {exc}")
 
-    def _navigate(self, url: str):
+    def _navigate(self, url: str, category_name: str = ""):
         """Navigate with an explicit timeout and return the response when available."""
         self.page.set_default_navigation_timeout(self.navigation_timeout_ms)
         # wait_until=domcontentloaded is intentional: Amazon can continue loading
         # many secondary resources after the document itself is available.
-        return self.page.goto(
-            url,
-            wait_until="domcontentloaded",
-            timeout=self.navigation_timeout_ms,
-        )
+        try:
+            return self.page.goto(
+                url,
+                wait_until="domcontentloaded",
+                timeout=self.navigation_timeout_ms,
+            )
+        except Exception as exc:
+            if _is_download_navigation_error(exc):
+                logger.warning(
+                    f"Direct navigation triggered download trap for '{category_name}'. Trying UI search fallback..."
+                )
+                self._perform_ui_search(category_name, url)
+                return None
+            raise exc
 
     def discover_products(
         self,
@@ -127,7 +160,7 @@ class AmazonSearchScraper:
                 print(f"Attempt: {attempt}/{self.max_retries}")
 
                 try:
-                    response = self._navigate(current_url)
+                    response = self._navigate(current_url, category_hint)
                     is_blocked, block_reason = check_amazon_block(response, self.page)
 
                     if is_blocked:
