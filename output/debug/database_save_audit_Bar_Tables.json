@@ -1,0 +1,48 @@
+{
+  "category": "Bar Tables",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "PRITI INTERNATIONAL LTD",
+      "database_id": 1706,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919830082815",
+      "email": "contact@pritiinternationalltd.com",
+      "gst": "08AAJCP2782Q1ZK",
+      "pan": "AAJCP2782Q",
+      "website": "https://www.pritiinternationalltd.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Furniture Factory Outlet",
+      "database_id": 1707,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919846180055",
+      "email": "contact@jaagrukbharat.com",
+      "gst": "27AAPFU0939F1ZV",
+      "pan": "AAPFU0939F",
+      "website": "https://www.furniturefactoryoutlet.in/",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "MTANK",
+      "database_id": 1708,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

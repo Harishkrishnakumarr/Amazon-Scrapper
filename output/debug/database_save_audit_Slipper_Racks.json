@@ -1,0 +1,48 @@
+{
+  "category": "Slipper Racks",
+  "records_before_save": 3,
+  "records_saved": 3,
+  "records_verified_after_save": 3,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "KSP HOME\u00ae",
+      "database_id": 1703,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919899199769",
+      "email": "info@kspinc.in",
+      "gst": "27ABCDE1234F1Z5",
+      "pan": "ABCDE1234F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Devam Trading Impex",
+      "database_id": 1704,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919726107013",
+      "email": "Not Found",
+      "gst": "07FUQPK3330E1ZM",
+      "pan": "FUQPK3330E",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "STELITE",
+      "database_id": 1705,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@fnshiftsolutions.com",
+      "gst": "27ABDCS5646R1ZI",
+      "pan": "ABDCS5646R",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
+}

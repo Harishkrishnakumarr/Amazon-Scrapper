@@ -1,0 +1,35 @@
+{
+  "category": "Beds",
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1709,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "Caspian Mumbai",
+      "database_id": 1710,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

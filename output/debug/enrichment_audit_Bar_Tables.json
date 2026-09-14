@@ -1,0 +1,322 @@
+[
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "Business Name",
+    "value": "PRITI INTERNATIONAL LTD",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ZUJTCCOU0UKY&asin=B07XXVGV2M&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-14T04:19:03.110682"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "Legal Entity Name",
+    "value": "PRITI INTERNATIONAL LTD",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ZUJTCCOU0UKY&asin=B07XXVGV2M&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-14T04:19:03.110695"
+  },
+  {
+    "seller": "PRITI INTERNATIONAL LTD",
+    "field": "Website",
+    "query": "PRITI INTERNATIONAL LTD official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://pritiinternational.com/",
+      "https://pritiinternational.com/about-us/"
+    ],
+    "timestamp": "2026-09-14T04:19:07.140768",
+    "status": "results_found"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "Website URL",
+    "value": "https://www.pritiinternationalltd.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.pritiinternationalltd.com/",
+    "timestamp": "2026-09-14T04:19:07.693415"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "Email Address",
+    "value": "contact@pritiinternationalltd.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.pritiinternationalltd.com/",
+    "timestamp": "2026-09-14T04:19:07.803202"
+  },
+  {
+    "seller": "PRITI INTERNATIONAL LTD",
+    "field": "PAN",
+    "query": "\"PRITI INTERNATIONAL LTD\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/priti-international-limited/__F1K3kXAiUHFRQXPhaD780u06U2S94ivwmG_D-zhnq1s",
+      "https://gstserver.com/gst/08AAJCP2782Q1ZK/",
+      "https://www.dnb.com/business-directory/company-profiles.priti_international_limited.a60c624f9c9eeccaa0a0e0773478b786.html",
+      "https://find-and-update.company-information.service.gov.uk/company/16640953"
+    ],
+    "timestamp": "2026-09-14T04:19:10.057112",
+    "status": "results_found"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "GST Number",
+    "value": "08AAJCP2782Q1ZK",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/08AAJCP2782Q1ZK/",
+    "timestamp": "2026-09-14T04:19:10.766066"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "PAN Number",
+    "value": "AAJCP2782Q",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gstserver.com/gst/08AAJCP2782Q1ZK/",
+    "timestamp": "2026-09-14T04:19:10.766078"
+  },
+  {
+    "seller": "PRITI INTERNATIONAL LTD",
+    "field": "Owner",
+    "query": "\"PRITI INTERNATIONAL LTD\" \"08AAJCP2782Q1ZK\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-14T04:19:12.053909",
+    "status": "no_results"
+  },
+  {
+    "seller": "PRITI INTERNATIONAL LTD",
+    "field": "Owner",
+    "query": "\"PRITI INTERNATIONAL LTD\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zaubacorp.com/PRITI-INTERNATIONAL-LIMITED-L36994RJ2017PLC058454",
+      "https://www.tofler.in/priti-international-limited/company/L36994RJ2017PLC058454",
+      "https://www.zaubacorp.com/",
+      "https://anandrathi.com/stocks/priti-international-ltd/board-of-directors"
+    ],
+    "timestamp": "2026-09-14T04:19:13.518150",
+    "status": "results_found"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "Billing Address",
+    "value": "express zone a wing, 10th floor, western express highway, goregaon east, mumbai 400063.",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://anandrathi.com/stocks/priti-international-ltd/board-of-directors",
+    "timestamp": "2026-09-14T04:19:19.127540"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "City",
+    "value": "mumbai .",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://anandrathi.com/stocks/priti-international-ltd/board-of-directors",
+    "timestamp": "2026-09-14T04:19:19.127552"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "Pincode",
+    "value": "400063",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://anandrathi.com/stocks/priti-international-ltd/board-of-directors",
+    "timestamp": "2026-09-14T04:19:19.127554"
+  },
+  {
+    "seller": "PRITI INTERNATIONAL LTD",
+    "field": "Phone",
+    "query": "\"PRITI INTERNATIONAL LTD\" India contact email phone official website",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://pritiinternational.com/contact-us/",
+      "https://pritiinternational.com/",
+      "https://www.pritiinternational.in/contact-us/",
+      "https://www.exportersindia.com/priti-international-jodhpur/contact.htm"
+    ],
+    "timestamp": "2026-09-14T04:19:20.576141",
+    "status": "results_found"
+  },
+  {
+    "business": "PRITI INTERNATIONAL LTD",
+    "field": "Phone Number",
+    "value": "+919830082815",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.pritiinternational.in/contact-us/",
+    "timestamp": "2026-09-14T04:19:23.569808"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Business Name",
+    "value": "Furniture Factory Outlet",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A103DCFQN1T61Q&asin=B0GCX16CVJ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-14T04:19:23.623277"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Legal Entity Name",
+    "value": "Furniture Factory Outlet",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A103DCFQN1T61Q&asin=B0GCX16CVJ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-14T04:19:23.623289"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Website",
+    "query": "Furniture Factory Outlet official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://furnfactoryoutlet.com/",
+      "https://www.shopffo.com/"
+    ],
+    "timestamp": "2026-09-14T04:19:27.209671",
+    "status": "results_found"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Website URL",
+    "value": "https://www.furniturefactoryoutlet.in/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.furniturefactoryoutlet.in/",
+    "timestamp": "2026-09-14T04:19:28.927706"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Phone Number",
+    "value": "+919846180055",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.furniturefactoryoutlet.in/",
+    "timestamp": "2026-09-14T04:19:29.021253"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "PAN",
+    "query": "\"Furniture Factory Outlet\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.synchrony.com/marketplace/partner?market=homefurnishings&store=furniturefactoryoutlet",
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://www.indiafilings.com/learn/find-pan-card-number/",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg=="
+    ],
+    "timestamp": "2026-09-14T04:19:31.199031",
+    "status": "results_found"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "Email Address",
+    "value": "contact@jaagrukbharat.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+    "timestamp": "2026-09-14T04:19:37.450835"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "PAN",
+    "query": "\"Furniture Factory Outlet\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bbb.org/us/il/matteson/profile/furniture-stores/factory-furniture-outlet-0654-88493600",
+      "https://www.dnb.com/business-directory/company-profiles.furniture_factory_outlet_llc.b4f1471f8c27c444f1054e9ac8bb19fe.html",
+      "https://furnfactoryoutlet.com/",
+      "https://www.bloomberg.com/profile/company/1377960D:US"
+    ],
+    "timestamp": "2026-09-14T04:19:38.922492",
+    "status": "results_found"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "GST",
+    "query": "\"Furniture Factory Outlet\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gstsearch.net/",
+      "https://tenderkart.in/gst-number-search",
+      "https://ledgers.cloud/in/gst/search/",
+      "https://www.expressgst.com/gst-number-search/"
+    ],
+    "timestamp": "2026-09-14T04:19:41.428236",
+    "status": "results_found"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "GST Number",
+    "value": "27AAPFU0939F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-14T04:19:43.874830"
+  },
+  {
+    "business": "Furniture Factory Outlet",
+    "field": "PAN Number",
+    "value": "AAPFU0939F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-14T04:19:43.874842"
+  },
+  {
+    "seller": "Furniture Factory Outlet",
+    "field": "Owner",
+    "query": "\"Furniture Factory Outlet\" \"27AAPFU0939F1ZV\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-14T04:22:00.032546",
+    "status": "no_results"
+  },
+  {
+    "business": "MTANK",
+    "field": "Business Name",
+    "value": "MTANK",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A34F8DPJELYFC0&asin=B0FDQH4VJY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-14T04:22:00.081518"
+  },
+  {
+    "business": "MTANK",
+    "field": "Legal Entity Name",
+    "value": "MTANK",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A34F8DPJELYFC0&asin=B0FDQH4VJY&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-14T04:22:00.081528"
+  },
+  {
+    "seller": "MTANK",
+    "field": "Website",
+    "query": "MTANK official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://wargaming.net/en/games/wot",
+      "https://worldoftanks.com/en/game/download/"
+    ],
+    "timestamp": "2026-09-14T04:24:27.718383",
+    "status": "results_found"
+  }
+]

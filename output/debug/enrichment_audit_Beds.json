@@ -1,0 +1,64 @@
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0FG2CDQ7P&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-14T04:31:21.811987"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0FG2CDQ7P&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-14T04:31:21.811998"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/"
+    ],
+    "timestamp": "2026-09-14T04:33:52.817073",
+    "status": "results_found"
+  },
+  {
+    "business": "Caspian Mumbai",
+    "field": "Business Name",
+    "value": "Caspian Mumbai",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARVSD54NXBAR9&asin=B0915CNF4F&ref_=dp_merchant_link",
+    "timestamp": "2026-09-14T04:33:52.871640"
+  },
+  {
+    "business": "Caspian Mumbai",
+    "field": "Legal Entity Name",
+    "value": "Caspian Mumbai",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARVSD54NXBAR9&asin=B0915CNF4F&ref_=dp_merchant_link",
+    "timestamp": "2026-09-14T04:33:52.871653"
+  },
+  {
+    "seller": "Caspian Mumbai",
+    "field": "Website",
+    "query": "Caspian Mumbai official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://caspianfurniture.com/",
+      "https://thecaspianfurniture.shop/"
+    ],
+    "timestamp": "2026-09-14T04:36:20.278242",
+    "status": "results_found"
+  }
+]
