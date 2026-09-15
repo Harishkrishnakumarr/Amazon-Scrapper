@@ -96,7 +96,6 @@ class AmazonPublicSource(SellerDiscoverySource):
                 "source": "Amazon (Visible Seller Fallback)",
             }
 
-        # First use stable seller/profile link patterns.
         link_selectors = [
             "#sellerProfileTriggerId",
             "#merchant-info a",
@@ -118,7 +117,6 @@ class AmazonPublicSource(SellerDiscoverySource):
             except Exception as exc:
                 logger.debug(f"Seller fallback selector failed ({selector}): {exc}")
 
-        # Then inspect the buy-box/offer text for "Sold by ..." patterns.
         text_selectors = [
             "#merchant-info",
             "#tabular-buybox",
@@ -134,9 +132,8 @@ class AmazonPublicSource(SellerDiscoverySource):
                 if not elem:
                     continue
                 text = elem.inner_text()
-                for match in re.finditer(r"(?im)\bSold\s+by\s*[:\-]?\s*([^\\n|]+)", text):
+                for match in re.finditer(r"(?im)\bSold\s+by\s*[:\-]?\s*([^\n|]+)", text):
                     candidate = match.group(1).strip()
-                    # Stop at common trailing offer metadata.
                     candidate = re.split(r"(?i)\s+(?:and\s+)?fulfilled\s+by\s+", candidate)[0]
                     candidate = re.split(r"(?i)\s+(?:Ships|Condition|Delivery|Price)\s*[:\-]", candidate)[0]
                     add_seller(candidate)
