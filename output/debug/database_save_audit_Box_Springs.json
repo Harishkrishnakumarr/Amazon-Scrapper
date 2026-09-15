@@ -1,0 +1,35 @@
+{
+  "category": "Box Springs",
+  "records_before_save": 3,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "N.S. AUTOMOBILES.",
+      "database_id": 1716,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    },
+    {
+      "business_name": "LEMBOSE BRAND",
+      "database_id": 1717,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

@@ -1,1 +1,340 @@
-[]
+[
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "Business Name",
+    "value": "THE WOODEN CITY STORE",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2T5PC5S1SCCN&asin=B0HF1XDYK4&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:38:41.548472"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "Legal Entity Name",
+    "value": "THE WOODEN CITY STORE",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2T5PC5S1SCCN&asin=B0HF1XDYK4&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:38:41.548484"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "Email Address",
+    "value": "woodencity09@gmail.com",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2T5PC5S1SCCN&asin=B0HF1XDYK4&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:38:41.548489"
+  },
+  {
+    "seller": "THE WOODEN CITY STORE",
+    "field": "Website",
+    "query": "THE WOODEN CITY STORE official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:38:42.482999",
+    "status": "no_results"
+  },
+  {
+    "seller": "THE WOODEN CITY STORE",
+    "field": "PAN",
+    "query": "\"THE WOODEN CITY STORE\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:38:43.256735",
+    "status": "no_results"
+  },
+  {
+    "seller": "THE WOODEN CITY STORE",
+    "field": "PAN",
+    "query": "\"THE WOODEN CITY STORE\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:38:43.877718",
+    "status": "no_results"
+  },
+  {
+    "seller": "THE WOODEN CITY STORE",
+    "field": "GST",
+    "query": "\"THE WOODEN CITY STORE\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://gstverify.co.in/search/",
+      "https://www.gstsearch.net/",
+      "https://gstextract.com/gstin-details"
+    ],
+    "timestamp": "2026-09-15T03:38:44.990232",
+    "status": "results_found"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "GST Number",
+    "value": "27AAPFU0939F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-15T03:38:48.413831"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "PAN Number",
+    "value": "AAPFU0939F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-15T03:38:48.413843"
+  },
+  {
+    "seller": "THE WOODEN CITY STORE",
+    "field": "Owner",
+    "query": "\"THE WOODEN CITY STORE\" \"27AAPFU0939F1ZV\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:38:49.739847",
+    "status": "no_results"
+  },
+  {
+    "seller": "THE WOODEN CITY STORE",
+    "field": "Owner",
+    "query": "\"THE WOODEN CITY STORE\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zaubacorp.com/",
+      "https://www.zaubacorp.com/signin",
+      "https://www.zaubacorp.com/companies-list",
+      "https://www.zaubacorp.com/AMAZON-DEVELOPMENT-CENTRE-INDIA-PRIVATE-LIMITED-U72200KA2004FTC034233"
+    ],
+    "timestamp": "2026-09-15T03:38:51.013709",
+    "status": "results_found"
+  },
+  {
+    "seller": "THE WOODEN CITY STORE",
+    "field": "Address",
+    "query": "\"THE WOODEN CITY STORE\" registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://wooden.city/contact-us/",
+      "https://apps.ilsos.gov/businessentitysearch/",
+      "https://www.yellowpages.com/chicago-il/mip/mcdonalds-corporate-office-556349338",
+      "https://wooden.city/faq/"
+    ],
+    "timestamp": "2026-09-15T03:38:52.423011",
+    "status": "results_found"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "Phone Number",
+    "value": "+918534254646",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://wooden.city/contact-us/",
+    "timestamp": "2026-09-15T03:38:53.479940"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "Billing Address",
+    "value": "110 n carpenter st, chicago, il 60607",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.yellowpages.com/chicago-il/mip/mcdonalds-corporate-office-556349338",
+    "timestamp": "2026-09-15T03:38:54.177929"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "City",
+    "value": "chicago",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.yellowpages.com/chicago-il/mip/mcdonalds-corporate-office-556349338",
+    "timestamp": "2026-09-15T03:38:54.177939"
+  },
+  {
+    "business": "THE WOODEN CITY STORE",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Address Extraction",
+    "source_url": "Not Found",
+    "timestamp": "2026-09-15T03:38:54.178076"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "Business Name",
+    "value": "AADITYA WOODS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20259TPB6EH7I&asin=B0D2P6S7KK&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:38:54.245739"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "Legal Entity Name",
+    "value": "AADITYA WOODS",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A20259TPB6EH7I&asin=B0D2P6S7KK&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:38:54.245751"
+  },
+  {
+    "seller": "AADITYA WOODS",
+    "field": "Website",
+    "query": "AADITYA WOODS official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://aadityawoods.com/collections/all",
+      "https://aadityawoods.com/products/beds"
+    ],
+    "timestamp": "2026-09-15T03:38:57.200092",
+    "status": "results_found"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "Website URL",
+    "value": "https://www.aadityawoods.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.aadityawoods.com/",
+    "timestamp": "2026-09-15T03:38:58.348246"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "Phone Number",
+    "value": "+918690327995",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.aadityawoods.com/",
+    "timestamp": "2026-09-15T03:38:58.853432"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "Email Address",
+    "value": "aadityawoods995@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.aadityawoods.com/",
+    "timestamp": "2026-09-15T03:38:58.853583"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "Billing Address",
+    "value": "Aaditya Woods, Plot No G-102 Road No. 02 Riico Industrial Area",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.aadityawoods.com/",
+    "timestamp": "2026-09-15T03:38:58.855428"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "City",
+    "value": "Aaditya Woods",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.aadityawoods.com/",
+    "timestamp": "2026-09-15T03:38:58.855431"
+  },
+  {
+    "seller": "AADITYA WOODS",
+    "field": "PAN",
+    "query": "\"AADITYA WOODS\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 3,
+    "result_urls": [
+      "https://www.indiafilings.com/learn/find-pan-card-number",
+      "https://jaagrukbharat.com/how-to-know-your-pan-card-number-a-stepbystep-complete-guide-MTIxNg==",
+      "https://www.sellerratings.com/amazon/india/aaditya-woods"
+    ],
+    "timestamp": "2026-09-15T03:39:02.316932",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADITYA WOODS",
+    "field": "PAN",
+    "query": "\"AADITYA WOODS\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://housing.com/in/buy/projects/page/225878-aaditya-woods-by-aaditya-builders-in-cidco",
+      "https://www.aurumproptech.in/pulse/rera/maharashtra/aurangabad/aaditya-woods-P51500022090",
+      "https://reradetails.in/project/P51500022090",
+      "https://www.geosquare.in/aaditya-woods-aurangabad-aurangabad-real-estate-project"
+    ],
+    "timestamp": "2026-09-15T03:39:06.695947",
+    "status": "results_found"
+  },
+  {
+    "seller": "AADITYA WOODS",
+    "field": "GST",
+    "query": "\"AADITYA WOODS\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://smartgst.in/tools/gst-registration-status",
+      "https://reragenie.com/p/aaditya-woods-cidco-2fe7g0yp/",
+      "https://www.gstsearch.net/",
+      "https://gstverify.co.in/search/"
+    ],
+    "timestamp": "2026-09-15T03:39:12.084329",
+    "status": "results_found"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "GST Number",
+    "value": "27AAPFU0939F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-15T03:39:12.703750"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "PAN Number",
+    "value": "AAPFU0939F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-15T03:39:12.703762"
+  },
+  {
+    "seller": "AADITYA WOODS",
+    "field": "Owner",
+    "query": "\"AADITYA WOODS\" \"27AAPFU0939F1ZV\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:39:13.788709",
+    "status": "no_results"
+  },
+  {
+    "seller": "AADITYA WOODS",
+    "field": "Owner",
+    "query": "\"AADITYA WOODS\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.aurumproptech.in/pulse/rera/maharashtra/aurangabad/aaditya-woods-P51500022090",
+      "https://www.tofler.in/",
+      "https://www.zaubacorp.com/",
+      "https://reradetails.in/project/P51500022090"
+    ],
+    "timestamp": "2026-09-15T03:39:15.466630",
+    "status": "results_found"
+  },
+  {
+    "business": "AADITYA WOODS",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Address Extraction",
+    "source_url": "https://www.aadityawoods.com/",
+    "timestamp": "2026-09-15T03:39:17.130629"
+  }
+]

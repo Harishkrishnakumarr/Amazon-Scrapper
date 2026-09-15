@@ -1,8 +1,22 @@
 {
   "category": "Footboards",
-  "records_before_save": 0,
-  "records_saved": 0,
-  "records_verified_after_save": 0,
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
   "records_failed": 0,
-  "sellers": []
+  "sellers": [
+    {
+      "business_name": "HCM AUTOMOTIVE PARTS",
+      "database_id": 1718,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
 }

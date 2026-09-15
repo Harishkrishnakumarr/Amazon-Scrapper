@@ -1,8 +1,22 @@
 {
   "category": "Cabinets & Sideboards",
-  "records_before_save": 0,
-  "records_saved": 0,
-  "records_verified_after_save": 0,
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
   "records_failed": 0,
-  "sellers": []
+  "sellers": [
+    {
+      "business_name": "RetailEZ Pvt Ltd",
+      "database_id": 1712,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@tofler.in",
+      "gst": "06AALCR3173P1ZR",
+      "pan": "AALCR3173P",
+      "website": "Not Found",
+      "status": "Verified"
+    }
+  ]
 }

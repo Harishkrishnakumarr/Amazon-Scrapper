@@ -1,8 +1,22 @@
 {
   "category": "Benches",
-  "records_before_save": 0,
-  "records_saved": 0,
-  "records_verified_after_save": 0,
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
   "records_failed": 0,
-  "sellers": []
+  "sellers": [
+    {
+      "business_name": "VIKASH-INDUSTRIES",
+      "database_id": 1711,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917004247461",
+      "email": "info@vikashgroup.com",
+      "gst": "24AAEFV2547D1ZF",
+      "pan": "AAEFV2547D",
+      "website": "https://www.vikashindustries.com/",
+      "status": "Verified"
+    }
+  ]
 }

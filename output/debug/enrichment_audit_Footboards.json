@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "business": "HCM AUTOMOTIVE PARTS",
+    "field": "Business Name",
+    "value": "HCM AUTOMOTIVE PARTS",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A12B28GATRZO6&asin=B0H4B94PZD&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T04:09:08.547066"
+  },
+  {
+    "business": "HCM AUTOMOTIVE PARTS",
+    "field": "Legal Entity Name",
+    "value": "HCM AUTOMOTIVE PARTS",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A12B28GATRZO6&asin=B0H4B94PZD&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T04:09:08.547076"
+  },
+  {
+    "seller": "HCM AUTOMOTIVE PARTS",
+    "field": "Website",
+    "query": "HCM AUTOMOTIVE PARTS official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T04:11:34.755493",
+    "status": "no_results"
+  }
+]

@@ -1,1 +1,190 @@
-[]
+[
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Business Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0GV4B4DXS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-15T03:34:51.581934"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Legal Entity Name",
+    "value": "RetailEZ Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AXOGFIT0PZZ7G&asin=B0GV4B4DXS&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-15T03:34:51.581948"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Website",
+    "query": "RetailEZ Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:34:54.288793",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "\"RetailEZ Pvt Ltd\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:34:55.107371",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "PAN",
+    "query": "\"RetailEZ Pvt Ltd\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:34:55.709430",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "\"RetailEZ Pvt Ltd\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:34:56.337461",
+    "status": "no_results"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "GST",
+    "query": "\"RetailEZ Pvt Ltd\" GST number India",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-27AALCR3173P1ZN/",
+      "https://gst.jamku.app/gstin/06AALCR3173P1ZR",
+      "https://piceapp.com/gst-number-search/retailez-private-limited-06aalcr3173p1zr/"
+    ],
+    "timestamp": "2026-09-15T03:34:57.636984",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "GST Number",
+    "value": "06AALCR3173P1ZR",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+    "timestamp": "2026-09-15T03:34:58.457022"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "PAN Number",
+    "value": "AALCR3173P",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/",
+    "timestamp": "2026-09-15T03:34:58.457034"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "\"RetailEZ Pvt Ltd\" \"06AALCR3173P1ZR\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.knowyourgst.com/gst-number-search/retailez-private-limited-06AALCR3173P1ZR/"
+    ],
+    "timestamp": "2026-09-15T03:34:59.931319",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Owner",
+    "query": "\"RetailEZ Pvt Ltd\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zaubacorp.com/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://www.zaubacorp.com/company-directors/RETAILEZ-PRIVATE-LIMITED/U52602WB2021PTC248134",
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.tofler.in/retailez-private-limited/company/U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-15T03:35:01.567879",
+    "status": "results_found"
+  },
+  {
+    "business": "RetailEZ Pvt Ltd",
+    "field": "Email Address",
+    "value": "support@tofler.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tofler.in/retailez-private-limited/company/U52602WB2021PTC248134",
+    "timestamp": "2026-09-15T03:35:03.261055"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "\"RetailEZ Pvt Ltd\" registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://tracxn.com/d/legal-entities/india/retailez-private-limited/__FVVqI52Y4ulvwoh4wmkoz3L88HIiiSyXazBWuPsgtiM",
+      "https://www.zaubacorp.com/RETAILEZ-PRIVATE-LIMITED-U52602WB2021PTC248134",
+      "https://mycorporateinfo.com/business/retailez-private-limited",
+      "https://www.indiafilings.com/search/retailez-private-limited-cin-U52602WB2021PTC248134"
+    ],
+    "timestamp": "2026-09-15T03:35:04.465979",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Address",
+    "query": "\"RetailEZ Pvt Ltd\" India contact address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/"
+    ],
+    "timestamp": "2026-09-15T03:35:07.687373",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "\"RetailEZ Pvt Ltd\" India contact email phone official website",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/"
+    ],
+    "timestamp": "2026-09-15T03:35:11.380548",
+    "status": "results_found"
+  },
+  {
+    "seller": "RetailEZ Pvt Ltd",
+    "field": "Phone",
+    "query": "\"RetailEZ Pvt Ltd\" customer care phone email",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://retailez.co.in/",
+      "https://retailez.co.in/about-us/",
+      "https://retailez.co.in/partner/",
+      "https://retailez.co.in/careers/"
+    ],
+    "timestamp": "2026-09-15T03:35:14.699159",
+    "status": "results_found"
+  }
+]

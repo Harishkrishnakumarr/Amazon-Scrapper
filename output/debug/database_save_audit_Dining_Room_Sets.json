@@ -1,8 +1,35 @@
 {
   "category": "Dining Room Sets",
-  "records_before_save": 0,
-  "records_saved": 0,
-  "records_verified_after_save": 0,
+  "records_before_save": 2,
+  "records_saved": 2,
+  "records_verified_after_save": 2,
   "records_failed": 0,
-  "sellers": []
+  "sellers": [
+    {
+      "business_name": "THE WOODEN CITY STORE",
+      "database_id": 1713,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918534254646",
+      "email": "woodencity09@gmail.com",
+      "gst": "27AAPFU0939F1ZV",
+      "pan": "AAPFU0939F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "AADITYA WOODS",
+      "database_id": 1713,
+      "operation": "UPDATE",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+918690327995",
+      "email": "aadityawoods995@gmail.com",
+      "gst": "27AAPFU0939F1ZV",
+      "pan": "AAPFU0939F",
+      "website": "https://www.aadityawoods.com/",
+      "status": "Verified"
+    }
+  ]
 }

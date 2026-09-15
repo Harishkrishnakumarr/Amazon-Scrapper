@@ -1,0 +1,61 @@
+[
+  {
+    "business": "N.S. AUTOMOBILES.",
+    "field": "Business Name",
+    "value": "N.S. AUTOMOBILES.",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2CL18FJZ6BSXV&asin=B0DDQK1FTM&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:58:45.782275"
+  },
+  {
+    "business": "N.S. AUTOMOBILES.",
+    "field": "Legal Entity Name",
+    "value": "N.S. AUTOMOBILES.",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2CL18FJZ6BSXV&asin=B0DDQK1FTM&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:58:45.782306"
+  },
+  {
+    "seller": "N.S. AUTOMOBILES.",
+    "field": "Website",
+    "query": "N.S. AUTOMOBILES. official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T04:01:12.270155",
+    "status": "no_results"
+  },
+  {
+    "business": "LEMBOSE BRAND",
+    "field": "Business Name",
+    "value": "LEMBOSE BRAND",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A37UVRXYB1NCD9&asin=B0C96NLVMQ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T04:01:12.318856"
+  },
+  {
+    "business": "LEMBOSE BRAND",
+    "field": "Legal Entity Name",
+    "value": "LEMBOSE BRAND",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A37UVRXYB1NCD9&asin=B0C96NLVMQ&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T04:01:12.318866"
+  },
+  {
+    "seller": "LEMBOSE BRAND",
+    "field": "Website",
+    "query": "LEMBOSE BRAND official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://skims.com/",
+      "https://www.justdial.com/Rajkot/Lembose-Brand-Opposite-Radhika-Hadrolics-Mavadi-Industrial-Area/0281PX281-X281-251129083358-H6I1_BZDET"
+    ],
+    "timestamp": "2026-09-15T04:03:40.322729",
+    "status": "results_found"
+  }
+]

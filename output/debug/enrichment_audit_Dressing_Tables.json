@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "business": "NEUDOT",
+    "field": "Business Name",
+    "value": "NEUDOT",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3U4549FCZN45L&asin=B0CWP9WJ3Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-15T03:46:17.120343"
+  },
+  {
+    "business": "NEUDOT",
+    "field": "Legal Entity Name",
+    "value": "NEUDOT",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3U4549FCZN45L&asin=B0CWP9WJ3Z&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-15T03:46:17.120356"
+  },
+  {
+    "seller": "NEUDOT",
+    "field": "Website",
+    "query": "NEUDOT official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:46:19.589598",
+    "status": "no_results"
+  },
+  {
+    "seller": "NEUDOT",
+    "field": "PAN",
+    "query": "\"NEUDOT\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:46:20.720474",
+    "status": "no_results"
+  },
+  {
+    "seller": "NEUDOT",
+    "field": "PAN",
+    "query": "\"NEUDOT\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:46:21.324446",
+    "status": "no_results"
+  },
+  {
+    "seller": "NEUDOT",
+    "field": "GST",
+    "query": "\"NEUDOT\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:46:21.958004",
+    "status": "no_results"
+  },
+  {
+    "seller": "NEUDOT",
+    "field": "GST",
+    "query": "\"NEUDOT\" GST number India",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/neudot-lifestyle-private-limited-29AAICN2439H1Z8/",
+      "https://www.knowyourgst.com/gst-number-search/neudot-lifestyle-private-limited-33AAICN2439H1ZJ/",
+      "https://www.mastersindia.co/gst-search/?name=neudot-lifestyle-private-limited&gstin=29AAICN2439H1Z8",
+      "https://piceapp.com/gst-number-search/neudot-lifestyle-private-limited-29aaicn2439h1z8/"
+    ],
+    "timestamp": "2026-09-15T03:48:39.141776",
+    "status": "results_found"
+  },
+  {
+    "business": "Caspian Mumbai",
+    "field": "Business Name",
+    "value": "Caspian Mumbai",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARVSD54NXBAR9&asin=B0C8NCRQ6N&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:48:39.191147"
+  },
+  {
+    "business": "Caspian Mumbai",
+    "field": "Legal Entity Name",
+    "value": "Caspian Mumbai",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=ARVSD54NXBAR9&asin=B0C8NCRQ6N&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:48:39.191159"
+  },
+  {
+    "seller": "Caspian Mumbai",
+    "field": "Website",
+    "query": "Caspian Mumbai official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://caspianfurniture.com/",
+      "https://thecaspianfurniture.shop/"
+    ],
+    "timestamp": "2026-09-15T03:51:06.552882",
+    "status": "results_found"
+  }
+]

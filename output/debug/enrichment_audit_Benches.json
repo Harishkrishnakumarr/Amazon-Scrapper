@@ -1,1 +1,181 @@
-[]
+[
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "Business Name",
+    "value": "VIKASH-INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMYZ3W0FKXNOA&asin=B0FQ5BPTVC&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:29:03.808480"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "Legal Entity Name",
+    "value": "VIKASH-INDUSTRIES",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMYZ3W0FKXNOA&asin=B0FQ5BPTVC&ref_=dp_merchant_link",
+    "timestamp": "2026-09-15T03:29:03.808496"
+  },
+  {
+    "seller": "VIKASH-INDUSTRIES",
+    "field": "Website",
+    "query": "VIKASH-INDUSTRIES official website",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:29:06.573850",
+    "status": "no_results"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "Website URL",
+    "value": "https://www.vikashindustries.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.vikashindustries.com/",
+    "timestamp": "2026-09-15T03:29:07.004682"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "Phone Number",
+    "value": "+917004247461",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vikashindustries.com/",
+    "timestamp": "2026-09-15T03:29:07.053151"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "Email Address",
+    "value": "info@vikashgroup.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.vikashindustries.com/",
+    "timestamp": "2026-09-15T03:29:07.053260"
+  },
+  {
+    "seller": "VIKASH-INDUSTRIES",
+    "field": "PAN",
+    "query": "\"VIKASH-INDUSTRIES\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:29:08.131126",
+    "status": "no_results"
+  },
+  {
+    "seller": "VIKASH-INDUSTRIES",
+    "field": "PAN",
+    "query": "\"VIKASH-INDUSTRIES\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:29:08.719940",
+    "status": "no_results"
+  },
+  {
+    "seller": "VIKASH-INDUSTRIES",
+    "field": "GST",
+    "query": "\"VIKASH-INDUSTRIES\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:29:09.319554",
+    "status": "no_results"
+  },
+  {
+    "seller": "VIKASH-INDUSTRIES",
+    "field": "GST",
+    "query": "\"VIKASH-INDUSTRIES\" GST number India",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://piceapp.com/gst-number-search/vikash-industries-24aaefv2547d1zf/",
+      "https://www.knowyourgst.com/gst-number-search/vikash-industries-24AAEFV2547D1ZF/",
+      "https://gst.jamku.app/gstin/06AKZPD9515G1ZS",
+      "https://piceapp.com/gst-number-search/vikash-industries-08iigpd5935k1zu/"
+    ],
+    "timestamp": "2026-09-15T03:29:10.515338",
+    "status": "results_found"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "GST Number",
+    "value": "24AAEFV2547D1ZF",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/vikash-industries-24aaefv2547d1zf/",
+    "timestamp": "2026-09-15T03:29:12.127038"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "PAN Number",
+    "value": "AAEFV2547D",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/vikash-industries-24aaefv2547d1zf/",
+    "timestamp": "2026-09-15T03:29:12.127050"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "Billing Address",
+    "value": "ground floor, urbanvault, pice hq, 1350, 17th cross rd, parangi palaya, sector 2, hsr layout, bengaluru, karnataka 560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/vikash-industries-24aaefv2547d1zf/",
+    "timestamp": "2026-09-15T03:29:12.130301"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "City",
+    "value": "bengaluru",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/vikash-industries-24aaefv2547d1zf/",
+    "timestamp": "2026-09-15T03:29:12.130311"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "State",
+    "value": "Karnataka",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/vikash-industries-24aaefv2547d1zf/",
+    "timestamp": "2026-09-15T03:29:12.130314"
+  },
+  {
+    "business": "VIKASH-INDUSTRIES",
+    "field": "Pincode",
+    "value": "560102",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://piceapp.com/gst-number-search/vikash-industries-24aaefv2547d1zf/",
+    "timestamp": "2026-09-15T03:29:12.130316"
+  },
+  {
+    "seller": "VIKASH-INDUSTRIES",
+    "field": "Owner",
+    "query": "\"VIKASH-INDUSTRIES\" \"24AAEFV2547D1ZF\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-15T03:29:13.111720",
+    "status": "no_results"
+  },
+  {
+    "seller": "VIKASH-INDUSTRIES",
+    "field": "Owner",
+    "query": "\"VIKASH-INDUSTRIES\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zaubacorp.com/company/U27320JH1987PTC002690",
+      "https://www.zaubacorp.com/company/VIKASH-INDUSTRIES-STEEL-PRIVATE-LIMITED/U27320JH1987PTC002690",
+      "https://www.tofler.in/vikash-industries-steel-private-limited/company/U27320JH1987PTC002690",
+      "https://www.thecompanycheck.com/company/vikash-industries-steel-private-limited/U27320JH1987PTC002690"
+    ],
+    "timestamp": "2026-09-15T03:29:14.230246",
+    "status": "results_found"
+  }
+]
