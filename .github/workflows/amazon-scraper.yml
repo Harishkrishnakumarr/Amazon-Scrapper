@@ -9,7 +9,6 @@ on:
 permissions:
   contents: write
 
-# Prevent two scraper runs from modifying master at the same time.
 concurrency:
   group: amazon-scraper-master
   cancel-in-progress: false
@@ -27,7 +26,6 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      # Always start from the current remote master before generating data.
       - name: Sync with master
         run: |
           set -e
@@ -64,7 +62,59 @@ jobs:
         env:
           PYTHONUNBUFFERED: "1"
         run: |
-          python main.py --batch --urls-file input/amazon_urls.txt --headless --force
+          set -o pipefail
+          python main.py --batch --urls-file input/amazon_urls.txt --headless --force 2>&1 | tee logs/batch-run.log
+
+      - name: Validate batch quality
+        if: always()
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
+
+          log = Path("logs/batch-run.log")
+          if not log.exists():
+              raise SystemExit("Batch quality gate failed: logs/batch-run.log was not created")
+
+          text = log.read_text(encoding="utf-8", errors="replace")
+
+          def number(pattern, label):
+              match = re.search(pattern, text)
+              if not match:
+                  raise SystemExit(f"Batch quality gate failed: could not find {label} in scraper output")
+              return int(match.group(1))
+
+          requested = number(r"Categories requested:\s*(\d+)", "Categories requested")
+          processed = number(r"Categories processed:\s*(\d+)", "Categories processed")
+          skipped = number(r"Categories skipped:\s*(\d+)", "Categories skipped")
+          failed = number(r"Categories failed:\s*(\d+)", "Categories failed")
+          added = number(r"Total category seller records added:\s*(\d+)", "Total category seller records added")
+
+          attempted = requested - skipped
+          failure_rate = (failed / attempted) if attempted else 1.0
+
+          print("===== BATCH QUALITY =====")
+          print(f"requested={requested}")
+          print(f"processed={processed}")
+          print(f"skipped={skipped}")
+          print(f"failed={failed}")
+          print(f"seller_records_added={added}")
+          print(f"failure_rate={failure_rate:.1%}")
+
+          # Do not silently publish a mostly-blocked or empty scrape.
+          if requested <= 0:
+              raise SystemExit("Batch quality gate failed: no categories were requested")
+          if attempted <= 0:
+              raise SystemExit("Batch quality gate failed: all categories were skipped")
+          if added <= 0:
+              raise SystemExit("Batch quality gate failed: zero seller records were added")
+          if failure_rate > 0.50:
+              raise SystemExit(
+                  f"Batch quality gate failed: {failed}/{attempted} attempted categories failed ({failure_rate:.1%})"
+              )
+
+          print("Batch quality gate PASSED")
+          PY
 
       - name: Upload debug dumps
         if: failure()
@@ -103,32 +153,20 @@ jobs:
           if-no-files-found: warn
           retention-days: 14
 
-      # Commit generated data. Do NOT pull/rebase after the commit.
-      # The job was synchronized before the scraper ran, and concurrency
-      # prevents another instance of this workflow from changing master.
       - name: Commit generated data
         if: success()
         run: |
           set -e
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           echo "===== GIT STATUS BEFORE COMMIT ====="
           git status --short
-
-          # The scraper may change more files than the known output files.
           git add -A
-
           if git diff --cached --quiet; then
             echo "No changes detected to commit."
             exit 0
           fi
-
           git commit -m "Auto-update Amazon seller master data and database [skip ci]"
-
           echo "===== GIT STATUS AFTER COMMIT ====="
           git status --short
-
-          # Push directly. No pull/rebase is performed here.
           git push origin HEAD:master
