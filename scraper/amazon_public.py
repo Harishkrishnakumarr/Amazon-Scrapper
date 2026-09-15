@@ -33,9 +33,16 @@ class AmazonPublicSource(SellerDiscoverySource):
     def discover_products(self, search_url: str, limit: int = 10, max_pages: int = 1, category_name: str = "") -> List[Dict[str, Any]]:
         page = self.browser_mgr.new_page()
         try:
-            search_scraper = AmazonSearchScraper(page)
-            products = search_scraper.discover_products(search_url, limit=limit, max_pages=max_pages, category_name=category_name)
-            return products
+            search_scraper = AmazonSearchScraper(
+                page,
+                context_reset_callback=self.browser_mgr.reset_context,
+            )
+            return search_scraper.discover_products(
+                search_url,
+                limit=limit,
+                max_pages=max_pages,
+                category_name=category_name,
+            )
         finally:
             safe_close_page(page)
 
@@ -77,7 +84,6 @@ class AmazonPublicSource(SellerDiscoverySource):
                     "product_title": offer.get("product_title", product_info.get("product_title"))
                 }
 
-                # Extract seller business details from seller profile URL if present
                 if seller_profile_url:
                     try:
                         details = profile_scraper.extract_seller_details(seller_profile_url)
