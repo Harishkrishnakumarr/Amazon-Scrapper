@@ -3,7 +3,6 @@ name: Amazon Seller Scraper
 on:
   workflow_dispatch:
   schedule:
-    # Runs every day at 12:00 AM UTC = 5:30 AM IST
     - cron: "0 0 * * *"
 
 permissions:
@@ -116,13 +115,14 @@ jobs:
 
           requested = number(r"Categories requested:\s*(\d+)", "Categories requested")
           processed = number(r"Categories processed:\s*(\d+)", "Categories processed")
+          no_data = number(r"Categories no data:\s*(\d+)", "Categories no data")
           skipped = number(r"Categories skipped:\s*(\d+)", "Categories skipped")
           failed = number(r"Categories failed:\s*(\d+)", "Categories failed")
           added = number(r"Total category seller records added:\s*(\d+)", "Total category seller records added")
-          no_data = len(re.findall(r"^Status: NO_DATA$", text, flags=re.MULTILINE))
 
           attempted = requested - skipped
           failure_rate = (failed / attempted) if attempted else 1.0
+          accounted = processed + no_data + skipped + failed
 
           print("===== BATCH QUALITY =====")
           print(f"requested={requested}")
@@ -131,13 +131,19 @@ jobs:
           print(f"skipped={skipped}")
           print(f"failed={failed}")
           print(f"seller_records_added={added}")
+          print(f"accounted={accounted}")
+          print(f"attempted={attempted}")
           print(f"failure_rate={failure_rate:.1%}")
 
-          # Do not silently publish a mostly-blocked or empty scrape.
           if requested <= 0:
               raise SystemExit("Batch quality gate failed: no categories were requested")
           if attempted <= 0:
               raise SystemExit("Batch quality gate failed: all categories were skipped")
+          if accounted != requested:
+              raise SystemExit(
+                  f"Batch quality gate failed: category counts do not reconcile "
+                  f"({processed}+{no_data}+{skipped}+{failed} != {requested})"
+              )
           if added <= 0:
               raise SystemExit("Batch quality gate failed: zero seller records were added")
           if failure_rate > 0.50:
