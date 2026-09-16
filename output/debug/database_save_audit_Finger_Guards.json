@@ -1,0 +1,61 @@
+{
+  "category": "Finger Guards",
+  "records_before_save": 4,
+  "records_saved": 4,
+  "records_verified_after_save": 4,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "Sheetal Traders...",
+      "database_id": 1720,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+917574884961",
+      "email": "info@sheetaltrader.com",
+      "gst": "27AAZPR9243F1ZW",
+      "pan": "AAZPR9243F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "FreshDcart\u00ae",
+      "database_id": 1721,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "+919763002200",
+      "email": "abhidukhande@gmail.com",
+      "gst": "06BPLPD6902H1Z0",
+      "pan": "BPLPD6902H",
+      "website": "https://www.freshdcart.com/",
+      "status": "Verified"
+    },
+    {
+      "business_name": "finistra",
+      "database_id": 1722,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "support@tofler.in",
+      "gst": "27AAPFU0939F1ZV",
+      "pan": "AAPFU0939F",
+      "website": "Not Found",
+      "status": "Verified"
+    },
+    {
+      "business_name": "Anzailala\u00ae",
+      "database_id": 1723,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "Not Found",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "https://www.anzailala.com/",
+      "status": "Partially Verified"
+    }
+  ]
+}

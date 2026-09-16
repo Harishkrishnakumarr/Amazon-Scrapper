@@ -1,0 +1,33 @@
+[
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Business Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0F8QZHQPG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-16T11:27:44.073142"
+  },
+  {
+    "business": "RK World Infocom Pvt Ltd",
+    "field": "Legal Entity Name",
+    "value": "RK World Infocom Pvt Ltd",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A15APWRK6P7LBV&asin=B0F8QZHQPG&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-16T11:27:44.073154"
+  },
+  {
+    "seller": "RK World Infocom Pvt Ltd",
+    "field": "Website",
+    "query": "RK World Infocom Pvt Ltd official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://rk.world/",
+      "https://rkgroup.biz/rk-world-infocom/"
+    ],
+    "timestamp": "2026-09-16T11:30:12.838975",
+    "status": "results_found"
+  }
+]

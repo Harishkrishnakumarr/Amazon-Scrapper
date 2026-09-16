@@ -8,7 +8,7 @@
     {
       "business_name": "RK World Infocom Pvt Ltd",
       "database_id": 327,
-      "operation": "INSERT",
+      "operation": "UPDATE",
       "saved": true,
       "verified_after_save": true,
       "phone": "+912012065294",
@@ -16,7 +16,7 @@
       "gst": "Not Found",
       "pan": "Not Found",
       "website": "https://tracxn.com/",
-      "status": "Verified"
+      "status": "Partially Verified"
     }
   ]
 }

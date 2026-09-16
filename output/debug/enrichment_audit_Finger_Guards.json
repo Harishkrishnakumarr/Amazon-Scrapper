@@ -1,0 +1,610 @@
+[
+  {
+    "business": "Sheetal Traders...",
+    "field": "Business Name",
+    "value": "Sheetal Traders...",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ESPXLHMYLBTV&asin=B0BJVGZB7H&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:15:38.254847"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "Legal Entity Name",
+    "value": "Sheetal Traders...",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ESPXLHMYLBTV&asin=B0BJVGZB7H&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:15:38.254861"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "Website",
+    "query": "Sheetal Traders... official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://sheetaltrader.com/",
+      "https://sheetalonline.com/"
+    ],
+    "timestamp": "2026-09-16T11:15:40.956323",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "PAN",
+    "query": "\"Sheetal Traders...\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://gst.iadv.io/SHEETAL-TRADERS-27AAZPR9243F1ZW/",
+      "https://gst.iadv.io/SHEETAL-TRADERS-08CJPPK0653R1ZF/",
+      "https://www.knowyourgst.com/gst-number-search/sheetal-traders-36APMPN1454L1ZH/",
+      "https://gst.jamku.app/gstin/27AFGPM5822B1ZP"
+    ],
+    "timestamp": "2026-09-16T11:15:45.150487",
+    "status": "results_found"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "GST Number",
+    "value": "27AAZPR9243F1ZW",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SHEETAL-TRADERS-27AAZPR9243F1ZW/",
+    "timestamp": "2026-09-16T11:15:46.132699"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "PAN Number",
+    "value": "AAZPR9243F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://gst.iadv.io/SHEETAL-TRADERS-27AAZPR9243F1ZW/",
+    "timestamp": "2026-09-16T11:15:46.132709"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "Owner",
+    "query": "\"Sheetal Traders...\" \"27AAZPR9243F1ZW\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 1,
+    "result_urls": [
+      "https://gst.iadv.io/SHEETAL-TRADERS-27AAZPR9243F1ZW/"
+    ],
+    "timestamp": "2026-09-16T11:15:47.102103",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "Owner",
+    "query": "\"Sheetal Traders...\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.dnb.com/business-directory/company-profiles.sheetal_traders.bd9608704746ffedcb65e48ee55d508b.html",
+      "https://www.zaubacorp.com/",
+      "https://www.dnb.com/business-directory/company-profiles.sheetal_traders.1de5f1b43fde573bfdebc0cfcccaa20a.html",
+      "https://www.dnb.com/business-directory/company-profiles.sheetal_traders.f2329d3efe7c681a67e7f06eb042d9d2.html"
+    ],
+    "timestamp": "2026-09-16T11:15:48.524962",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "Address",
+    "query": "\"Sheetal Traders...\" registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.northwestregisteredagent.com/125-northwest-ra?msclkid=85ec698fda1814b917fe0325a07d47ab&utm_source=bing&utm_medium=cpc&utm_campaign=RA%20-%20Registered%20Agent%20-%20National&utm_term=registered%20agent&utm_content=RA%20Service%20-National",
+      "https://www.northwestregisteredagent.com/125-northwest-ra?msclkid=cd195759a8af18b473673df3d2cab420&utm_source=bing&utm_medium=cpc&utm_campaign=RA%20-%20Registered%20Agent%20-%20National&utm_term=registered%20agent&utm_content=RA%20Service%20-National",
+      "https://www.northwestregisteredagent.com/contact-us-ppc?msclkid=6d7a98848c161ff2c424f22ef673f964&utm_source=bing&utm_medium=cpc&utm_campaign=RA%20-%20Registered%20Agent%20-%20National&utm_term=registered%20agent&utm_content=RA%20Service%20-National",
+      "https://www.northwestregisteredagent.com/llc-ppc?msclkid=e8f4682f8dcd115c63e20285f7a8bb24&utm_source=bing&utm_medium=cpc&utm_campaign=RA%20-%20Registered%20Agent%20-%20National&utm_term=registered%20agent&utm_content=RA%20Service%20-National"
+    ],
+    "timestamp": "2026-09-16T11:15:49.964791",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "Address",
+    "query": "\"Sheetal Traders...\" India contact address",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiaindustry.biz/company-sheetal-traders-in-karnataka-80993",
+      "https://www.dial4trade.com/sheetal-traders-1311922/contact-us.htm",
+      "https://www.indiaindustry.biz/company-sheetal-traders-in-delhi-65371",
+      "https://www.dnb.com/business-directory/company-profiles.sheetal_traders.f2329d3efe7c681a67e7f06eb042d9d2.html"
+    ],
+    "timestamp": "2026-09-16T11:15:53.442437",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "Phone",
+    "query": "\"Sheetal Traders...\" India contact email phone official website",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.indiaindustry.biz/company-sheetal-traders-in-karnataka-80993",
+      "https://www.dial4trade.com/sheetal-traders-1311922/contact-us.htm",
+      "https://www.dial4trade.com/sheetal-traders-1843112/contact-us.htm",
+      "https://www.indiaindustry.biz/company-sheetal-traders-regd-in-delhi-1688"
+    ],
+    "timestamp": "2026-09-16T11:15:55.762163",
+    "status": "results_found"
+  },
+  {
+    "seller": "Sheetal Traders...",
+    "field": "Phone",
+    "query": "\"Sheetal Traders...\" customer care phone email",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "http://sheetaltrader.com/",
+      "https://www.mapsofindia.com/whitepages/businesses/index/sheetaltrdrsmp",
+      "https://www.dial4trade.com/sheetal-traders-1843112/contact-us.htm",
+      "https://www.dial4trade.com/sheetal-traders-1311922/contact-us.htm"
+    ],
+    "timestamp": "2026-09-16T11:15:57.629805",
+    "status": "results_found"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "Phone Number",
+    "value": "+917574884961",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://sheetaltrader.com/",
+    "timestamp": "2026-09-16T11:15:58.594416"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "Email Address",
+    "value": "info@sheetaltrader.com",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://sheetaltrader.com/",
+    "timestamp": "2026-09-16T11:15:58.594496"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "Billing Address",
+    "value": "shop no. 63, ratnakar business hub",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://sheetaltrader.com/",
+    "timestamp": "2026-09-16T11:15:58.596377"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "City",
+    "value": "ratnakar business hub",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "http://sheetaltrader.com/",
+    "timestamp": "2026-09-16T11:15:58.596382"
+  },
+  {
+    "business": "Sheetal Traders...",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Address Extraction",
+    "source_url": "Not Found",
+    "timestamp": "2026-09-16T11:15:58.596513"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "Business Name",
+    "value": "FreshDcart\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AK3K6D2Z71Y81&asin=B09P4ZZ3GC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-16T11:15:58.662778"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "Legal Entity Name",
+    "value": "FreshDcart\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AK3K6D2Z71Y81&asin=B09P4ZZ3GC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-16T11:15:58.662794"
+  },
+  {
+    "seller": "FreshDcart\u00ae",
+    "field": "Website",
+    "query": "FreshDcart\u00ae official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://freshdcart.com/",
+      "https://freshdcart.com/KITCHEN/collection/YF3XYKOb"
+    ],
+    "timestamp": "2026-09-16T11:16:01.467099",
+    "status": "results_found"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "Website URL",
+    "value": "https://www.freshdcart.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.freshdcart.com/",
+    "timestamp": "2026-09-16T11:16:03.636916"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "Phone Number",
+    "value": "+919763002200",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.freshdcart.com/",
+    "timestamp": "2026-09-16T11:16:04.663735"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "Email Address",
+    "value": "abhidukhande@gmail.com",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.freshdcart.com/",
+    "timestamp": "2026-09-16T11:16:04.663820"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "Billing Address",
+    "value": "Lewa gujar samaj karyalay, shirsagar colony Hirawadi, apposite lane from green pharma NASHIK MAHARASHTRA India 422003, Maharashtra, Nashik, 422003",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.freshdcart.com/",
+    "timestamp": "2026-09-16T11:16:04.664957"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "City",
+    "value": "Nashik",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.freshdcart.com/",
+    "timestamp": "2026-09-16T11:16:04.664961"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.freshdcart.com/",
+    "timestamp": "2026-09-16T11:16:04.664964"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "Pincode",
+    "value": "422003",
+    "status": "VERIFIED",
+    "source": "Official Website",
+    "source_url": "https://www.freshdcart.com/",
+    "timestamp": "2026-09-16T11:16:04.664965"
+  },
+  {
+    "seller": "FreshDcart\u00ae",
+    "field": "PAN",
+    "query": "\"FreshDcart\u00ae\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/freshdcart-06BPLPD6902H1Z0/",
+      "https://www.knowyourgst.com/gst-number-search/freshdcart-27BPLPD6902H2ZV/",
+      "https://freshdcart.com/about-us",
+      "https://www.mastersindia.co/gst-search/?name=abhijeet-rajendra-dukhande&gstin=06BPLPD6902H1Z0"
+    ],
+    "timestamp": "2026-09-16T11:16:09.933726",
+    "status": "results_found"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "GST Number",
+    "value": "06BPLPD6902H1Z0",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/freshdcart-06BPLPD6902H1Z0/",
+    "timestamp": "2026-09-16T11:16:10.912193"
+  },
+  {
+    "business": "FreshDcart\u00ae",
+    "field": "PAN Number",
+    "value": "BPLPD6902H",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.knowyourgst.com/gst-number-search/freshdcart-06BPLPD6902H1Z0/",
+    "timestamp": "2026-09-16T11:16:10.912202"
+  },
+  {
+    "seller": "FreshDcart\u00ae",
+    "field": "Owner",
+    "query": "\"FreshDcart\u00ae\" \"06BPLPD6902H1Z0\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.knowyourgst.com/gst-number-search/freshdcart-06BPLPD6902H1Z0/",
+      "https://www.mastersindia.co/gst-search/?name=abhijeet-rajendra-dukhande&gstin=06BPLPD6902H1Z0",
+      "https://www.scribd.com/document/869784151/1",
+      "https://www.dnb.com/business-directory/company-profiles/freshcart-inc.4efaccfe09c1b8e83818765cebb74e61"
+    ],
+    "timestamp": "2026-09-16T11:16:11.946902",
+    "status": "results_found"
+  },
+  {
+    "seller": "FreshDcart\u00ae",
+    "field": "Owner",
+    "query": "\"FreshDcart\u00ae\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.zaubacorp.com/",
+      "https://www.zaubacorp.com/signin",
+      "https://www.zaubacorp.com/companies-list",
+      "https://www.zaubacorp.com/AMAZON-DEVELOPMENT-CENTRE-INDIA-PRIVATE-LIMITED-U72200KA2004FTC034233"
+    ],
+    "timestamp": "2026-09-16T11:16:14.286960",
+    "status": "results_found"
+  },
+  {
+    "business": "finistra",
+    "field": "Business Name",
+    "value": "finistra",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1G8DJP70IK75J&asin=B0FLDC7BCD&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:16:14.509836"
+  },
+  {
+    "business": "finistra",
+    "field": "Legal Entity Name",
+    "value": "finistra",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1G8DJP70IK75J&asin=B0FLDC7BCD&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:16:14.509847"
+  },
+  {
+    "seller": "finistra",
+    "field": "Website",
+    "query": "finistra official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://www.renewalbyandersenoffers.com/wiz-door/20off/2step?eccmp=6604&headline=Get+Your+Free+Window+and+Door+Quote&eckwd=window%20and%20door%20companies&ecadid=85144027660258&ecplacement=&ecadpos=&ecmatch=p&eclocid=66702&ectrgtid=kwd-85144852481130:loc-4129&ecfeedid=&ecnwk=o&ecdevice=c&ecadgpid=1362297628666541&msclkid=9f7eff876ba414a930fd952d11246f83",
+      "https://monitor.clickcease.com/tracker/tracker.aspx?id=XSctNNzOB25Vsa&adpos=&locphisical=66702&locinterest=&adgrp=1279832880601650&kw=window%20replacement%20company&nw=o&url=https%3A%2F%2Fwww.alcohomeimprovements.com%2F%3Futm_source%3Dbing%26utm_medium%3Dsearch%26utm_campaign%3Dwindowconv%26utm_source%3Dbing%26utm_campaign%3DWR-Branding%26utm_term%3Dwindow%2520replacement%2520company%26matchtype%3Dp%26keyword%3Dwindow%2520replacement%2520company&cpn=486288853&device=c&ccpturl=alcoproductsinc.com&pl=&msclkid=565dfa39660e101fd59790931c8e9675&utm_source=bing&utm_medium=cpc&utm_campaign=Non%20l%20Windows%20l%20Max%20Conv&utm_term=window%20replacement%20company&utm_content=General"
+    ],
+    "timestamp": "2026-09-16T11:16:16.994602",
+    "status": "results_found"
+  },
+  {
+    "seller": "finistra",
+    "field": "PAN",
+    "query": "\"finistra\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://binlist.io/",
+      "https://binlist.io/banks/all/",
+      "https://binlist.io/schemes/all/",
+      "https://binlist.io/countries/all/"
+    ],
+    "timestamp": "2026-09-16T11:16:20.333953",
+    "status": "results_found"
+  },
+  {
+    "seller": "finistra",
+    "field": "PAN",
+    "query": "\"finistra\" PAN number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-16T11:16:21.801759",
+    "status": "no_results"
+  },
+  {
+    "seller": "finistra",
+    "field": "GST",
+    "query": "\"finistra\" GSTIN registration",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-16T11:16:22.842775",
+    "status": "no_results"
+  },
+  {
+    "seller": "finistra",
+    "field": "GST",
+    "query": "\"finistra\" GST number India",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.gstsearch.net/",
+      "https://gstverify.co.in/search/",
+      "https://www.falconebiz.com/company/FINISTRA-CORPORATE-SERVICES-PRIVATE-LIMITED-U74900MH2013PTC249771",
+      "https://www.planetexim.net/indian-company/finistra-corporate-services-private-limited/cin/U74900MH2013PTC249771.html"
+    ],
+    "timestamp": "2026-09-16T11:16:23.995709",
+    "status": "results_found"
+  },
+  {
+    "business": "finistra",
+    "field": "GST Number",
+    "value": "27AAPFU0939F1ZV",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-16T11:16:24.953770"
+  },
+  {
+    "business": "finistra",
+    "field": "PAN Number",
+    "value": "AAPFU0939F",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.gstsearch.net/",
+    "timestamp": "2026-09-16T11:16:24.953780"
+  },
+  {
+    "seller": "finistra",
+    "field": "Owner",
+    "query": "\"finistra\" \"27AAPFU0939F1ZV\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-16T11:16:25.920962",
+    "status": "no_results"
+  },
+  {
+    "seller": "finistra",
+    "field": "Owner",
+    "query": "\"finistra\" director owner ZaubaCorp Tofler",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.tofler.in/amita-shantilal-jain/director/06702612",
+      "https://www.zaubacorp.com/FINISTRA-CORPORATE-SERVICES-PRIVATE-LIMITED-U74900MH2013PTC249771",
+      "https://www.tofler.in/finistra-corporate-services-private-limited/company/U74900MH2013PTC249771",
+      "https://www.zaubacorp.com/"
+    ],
+    "timestamp": "2026-09-16T11:16:26.938812",
+    "status": "results_found"
+  },
+  {
+    "business": "finistra",
+    "field": "Email Address",
+    "value": "support@tofler.in",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://www.tofler.in/amita-shantilal-jain/director/06702612",
+    "timestamp": "2026-09-16T11:16:27.746900"
+  },
+  {
+    "seller": "finistra",
+    "field": "Address",
+    "query": "\"finistra\" registered office address corporate office",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://rekvizitai.vz.lt/en/company/finistra/",
+      "https://rekvizitai.vz.lt/en/company/finistra/legal-entity/",
+      "https://scoris.lt/en/imone/305003843",
+      "https://www.emis.com/php/company-profile/LT/UAB_Finistra_en_17122317.html"
+    ],
+    "timestamp": "2026-09-16T11:16:29.602971",
+    "status": "results_found"
+  },
+  {
+    "business": "finistra",
+    "field": "Billing Address",
+    "value": "vilnius, kirtim\u0173 g. 69, lt-02244",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://scoris.lt/en/imone/305003843",
+    "timestamp": "2026-09-16T11:16:30.973126"
+  },
+  {
+    "business": "finistra",
+    "field": "City",
+    "value": "vilnius",
+    "status": "VERIFIED",
+    "source": "Targeted Search",
+    "source_url": "https://scoris.lt/en/imone/305003843",
+    "timestamp": "2026-09-16T11:16:30.973136"
+  },
+  {
+    "seller": "finistra",
+    "field": "Phone",
+    "query": "\"finistra\" India contact email phone official website",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.companydetails.in/company/finistra-corporate-services-privatelimited",
+      "https://www.zaubacorp.com/FINISTRA-CORPORATE-SERVICES-PRIVATE-LIMITED-U74900MH2013PTC249771",
+      "https://www.falconebiz.com/company/FINISTRA-CORPORATE-SERVICES-PRIVATE-LIMITED-U74900MH2013PTC249771",
+      "https://www.zaubacorp.com/company/FINISTRA-CORPORATE-SERVICES-PRIVATE-LIMITED/U74900MH2013PTC249771"
+    ],
+    "timestamp": "2026-09-16T11:16:32.066409",
+    "status": "results_found"
+  },
+  {
+    "seller": "finistra",
+    "field": "Phone",
+    "query": "\"finistra\" customer care phone email",
+    "provider": "Yahoo",
+    "result_count": 4,
+    "result_urls": [
+      "https://www.bbb.org/ca/on/toronto/profile/credit-services/finistra-0107-1291143",
+      "https://www.bbb.org/ca/on/toronto/profile/credit-services/finistra-0107-1291143/addressId/63779",
+      "https://mycorporateinfo.com/business/finistra-corporate-services-private-limited",
+      "https://www.zaubacorp.com/FINISTRA-CORPORATE-SERVICES-PRIVATE-LIMITED-U74900MH2013PTC249771"
+    ],
+    "timestamp": "2026-09-16T11:16:35.588484",
+    "status": "results_found"
+  },
+  {
+    "business": "finistra",
+    "field": "State",
+    "value": "Maharashtra",
+    "status": "VERIFIED",
+    "source": "Address Extraction",
+    "source_url": "Not Found",
+    "timestamp": "2026-09-16T11:16:36.786443"
+  },
+  {
+    "business": "Anzailala\u00ae",
+    "field": "Business Name",
+    "value": "Anzailala\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AR1B94ADTBVBP&asin=B09QJTHW5Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-16T11:16:36.857417"
+  },
+  {
+    "business": "Anzailala\u00ae",
+    "field": "Legal Entity Name",
+    "value": "Anzailala\u00ae",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AR1B94ADTBVBP&asin=B09QJTHW5Y&ref_=dp_merchant_link&isAmazonFulfilled=1",
+    "timestamp": "2026-09-16T11:16:36.857426"
+  },
+  {
+    "seller": "Anzailala\u00ae",
+    "field": "Website",
+    "query": "Anzailala\u00ae official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://anzailala.com/",
+      "https://anzailala.com/collections/all"
+    ],
+    "timestamp": "2026-09-16T11:16:41.142027",
+    "status": "results_found"
+  },
+  {
+    "business": "Anzailala\u00ae",
+    "field": "Website URL",
+    "value": "https://www.anzailala.com/",
+    "status": "VERIFIED",
+    "source": "Official Website Discovery",
+    "source_url": "https://www.anzailala.com/",
+    "timestamp": "2026-09-16T11:16:42.168046"
+  },
+  {
+    "seller": "Anzailala\u00ae",
+    "field": "PAN",
+    "query": "\"Anzailala\u00ae\" PAN card number",
+    "provider": "Yahoo",
+    "result_count": 0,
+    "result_urls": [],
+    "timestamp": "2026-09-16T11:19:00.274305",
+    "status": "no_results"
+  }
+]

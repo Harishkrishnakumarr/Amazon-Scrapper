@@ -1,0 +1,33 @@
+[
+  {
+    "business": "AAROYAA PRIVATE LIMITED",
+    "field": "Business Name",
+    "value": "AAROYAA PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A7NL4N2QE3YQV&asin=B0GRJXD993&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:21:59.449264"
+  },
+  {
+    "business": "AAROYAA PRIVATE LIMITED",
+    "field": "Legal Entity Name",
+    "value": "AAROYAA PRIVATE LIMITED",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A7NL4N2QE3YQV&asin=B0GRJXD993&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:21:59.449273"
+  },
+  {
+    "seller": "AAROYAA PRIVATE LIMITED",
+    "field": "Website",
+    "query": "AAROYAA PRIVATE LIMITED official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://aaroyaa.com/",
+      "https://aaroyaa.com/about"
+    ],
+    "timestamp": "2026-09-16T11:24:29.023804",
+    "status": "results_found"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "category": "Cutting Boards",
+  "records_before_save": 1,
+  "records_saved": 1,
+  "records_verified_after_save": 1,
+  "records_failed": 0,
+  "sellers": [
+    {
+      "business_name": "E-COSMOS\u00ae LIFESTYLE LLP \u2b50\u2b50\u2b50\u2b50\u2b50",
+      "database_id": 1719,
+      "operation": "INSERT",
+      "saved": true,
+      "verified_after_save": true,
+      "phone": "Not Found",
+      "email": "contact@tollfreenumbers4u.com",
+      "gst": "Not Found",
+      "pan": "Not Found",
+      "website": "Not Found",
+      "status": "Partially Verified"
+    }
+  ]
+}

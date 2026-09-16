@@ -1,0 +1,33 @@
+[
+  {
+    "business": "Bharatgaurav Enterprises",
+    "field": "Business Name",
+    "value": "Bharatgaurav Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3BMYFYIR00HDG&asin=B0H592P531&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:43:52.141018"
+  },
+  {
+    "business": "Bharatgaurav Enterprises",
+    "field": "Legal Entity Name",
+    "value": "Bharatgaurav Enterprises",
+    "status": "VERIFIED",
+    "source": "Amazon Profile",
+    "source_url": "https://www.amazon.in/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3BMYFYIR00HDG&asin=B0H592P531&ref_=dp_merchant_link",
+    "timestamp": "2026-09-16T11:43:52.141028"
+  },
+  {
+    "seller": "Bharatgaurav Enterprises",
+    "field": "Website",
+    "query": "Bharatgaurav Enterprises official website",
+    "provider": "Yahoo",
+    "result_count": 2,
+    "result_urls": [
+      "https://bharatgaurav.irctc.co.in/",
+      "https://irctctourism.com/bharatgaurav"
+    ],
+    "timestamp": "2026-09-16T11:46:19.847250",
+    "status": "results_found"
+  }
+]
