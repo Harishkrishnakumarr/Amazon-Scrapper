@@ -68,15 +68,30 @@ class BrowserManager:
         context.add_init_script(
             """
             Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
-            window.chrome = window.chrome || { runtime: {} };
+            window.chrome = window.chrome || { runtime: {}, loadTimes: function(){}, csi: function(){}, app: {} };
             Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
-            Object.defineProperty(navigator, 'languages', { get: () => ['en-IN', 'en-GB', 'en'] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['en-IN', 'en-GB', 'en-US', 'en'] });
+            Object.defineProperty(navigator, 'hardwareConcurrency', { get: () => 8 });
+            Object.defineProperty(navigator, 'deviceMemory', { get: () => 8 });
+            Object.defineProperty(navigator, 'platform', { get: () => 'Win32' });
             """
         )
         context.set_default_timeout(self.timeout_ms)
         self._context_generation += 1
         logger.info(f"Created Amazon browser context generation {self._context_generation}")
         return context
+
+    def warmup_session(self):
+        """Warm up context with Amazon session cookies to avoid cold-start bot challenges."""
+        try:
+            page = self.new_page()
+            logger.info("Warming up Amazon browser session...")
+            page.goto("https://www.amazon.in", wait_until="domcontentloaded", timeout=20000)
+            page.wait_for_timeout(1000)
+            safe_close_page(page)
+            logger.info("Amazon session warmed up successfully")
+        except Exception as e:
+            logger.debug(f"Amazon session warmup notice: {e}")
 
     def start(self):
         if self.context and self.browser and self.browser.is_connected():
@@ -86,11 +101,15 @@ class BrowserManager:
             self.browser = self.playwright.chromium.launch(
                 headless=self.headless,
                 args=[
+                    "--window-size=1920,1080",
                     "--start-maximized",
                     "--disable-blink-features=AutomationControlled",
                     "--no-sandbox",
                     "--disable-setuid-sandbox",
+                    "--disable-dev-shm-usage",
                     "--disable-infobars",
+                    "--disable-features=IsolateOrigins,site-per-process",
+                    "--lang=en-IN,en-GB,en",
                 ],
             )
             self.context = self._create_context()
@@ -98,6 +117,7 @@ class BrowserManager:
                 f"Started Playwright Chromium session "
                 f"(headless={self.headless}, timeout={self.timeout_ms}ms, downloads=enabled)"
             )
+            self.warmup_session()
         except Exception as e:
             logger.error(f"Failed to start Playwright browser: {e}")
             self.close()
@@ -117,6 +137,7 @@ class BrowserManager:
                 except Exception as e:
                     logger.debug(f"Error closing challenged Amazon context: {e}")
             self.context = self._create_context()
+            self.warmup_session()
         return self.new_page()
 
     def new_page(self) -> Page:

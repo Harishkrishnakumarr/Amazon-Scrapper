@@ -1,4 +1,5 @@
 import logging
+import random
 import re
 import time
 from typing import List, Dict, Any, Optional, Tuple
@@ -22,10 +23,11 @@ class AmazonProductScraper:
         self,
         page: Page,
         max_sellers_per_product: int = 100,
-        max_offer_scroll_attempts: int = 60,
-        max_no_new_seller_attempts: int = 8,
-        offer_load_wait_ms: int = 1500,
-        max_product_runtime_seconds: int = 180
+        max_offer_scroll_attempts: int = 30,
+        max_no_new_seller_attempts: int = 3,
+        offer_load_wait_ms: int = 800,
+        max_product_runtime_seconds: int = 60,
+        context_reset_callback=None
     ):
         self.page = page
         self.max_sellers_per_product = max_sellers_per_product
@@ -33,6 +35,7 @@ class AmazonProductScraper:
         self.max_no_new_seller_attempts = max_no_new_seller_attempts
         self.offer_load_wait_ms = offer_load_wait_ms
         self.max_product_runtime_seconds = max_product_runtime_seconds
+        self.context_reset_callback = context_reset_callback
         self.duplicates_removed = 0
 
     def extract_product_sellers(self, product_url: str) -> List[Dict[str, Any]]:
@@ -49,7 +52,14 @@ class AmazonProductScraper:
                 if is_blocked:
                     logger.warning(f"Amazon product page blocked ({block_reason}) on attempt {attempt}/3: {product_url}")
                     if attempt < 3:
-                        time.sleep(2 * attempt)
+                        if self.context_reset_callback:
+                            try:
+                                new_p = self.context_reset_callback()
+                                if new_p:
+                                    self.page = new_p
+                            except Exception as e_rst:
+                                logger.debug(f"Unable to reset context after product block: {e_rst}")
+                        time.sleep(2 * attempt + random.uniform(0.5, 1.5))
                         continue
                     return []
                 page_loaded = True
@@ -162,7 +172,7 @@ class AmazonProductScraper:
         product_title = ""
 
         # ASIN from URL
-        asin_match = re.search(r"/dp/([A-Z0-9]{10})", product_url)
+        asin_match = re.search(r"/(?:dp|gp/product)/([A-Z0-9]{10})", product_url)
         if asin_match:
             asin = asin_match.group(1)
 
@@ -177,12 +187,12 @@ class AmazonProductScraper:
 
         # Product Title
         try:
-            title_elem = self.page.query_selector("span#productTitle, #productTitle, h1#title span, h1")
+            title_elem = self.page.query_selector("span#productTitle, #productTitle, h1#title span, #title span, h1")
             if title_elem:
                 raw_t = title_elem.inner_text().strip()
                 raw_t = re.sub(r"(?i)Product\s*summary\s*presents\s*key.*$", "", raw_t).strip()
                 raw_t = re.sub(r"(?i)Keyboard\s*shortcut.*$", "", raw_t).strip()
-                if raw_t:
+                if raw_t and len(raw_t) > 3:
                     product_title = raw_t
         except Exception:
             pass
@@ -329,29 +339,30 @@ class AmazonProductScraper:
         return scrolled
 
     def _click_offer_load_more(self) -> bool:
-        """Detects and clicks offer load-more / pagination controls if present."""
+        """Detects and clicks offer load-more / pagination controls strictly inside AOD panel."""
+        aod_panel = self.page.query_selector(
+            "#all-offers-display, #aod-offer-list, #all-offers-display-scroller, .aod-popover-content, #aod-container"
+        )
+        if not aod_panel:
+            return False
+
         load_more_selectors = [
             "#aod-load-more",
             "input[name='submit.load-more']",
-            "button:has-text('Load more')",
-            "a:has-text('Load more')",
-            "a:has-text('See more')",
-            "button:has-text('See more')",
-            "button:has-text('Show more')",
-            "a:has-text('Show more')",
             "#aod-show-more-offers",
             "[data-action='aod-load-more-offers']",
             "a[id*='aod-page-']",
             ".aod-pagination a.s-pagination-next",
-            "li.a-last a"
+            "button[aria-label*='more offers']",
+            "a[aria-label*='more offers']",
         ]
 
         for sel in load_more_selectors:
             try:
-                btn = self.page.query_selector(sel)
+                btn = aod_panel.query_selector(sel)
                 if btn and btn.is_visible():
-                    logger.info(f"Clicking offer load-more control: {sel}")
-                    btn.click(timeout=3000)
+                    logger.info(f"Clicking AOD offer load-more control: {sel}")
+                    btn.click(timeout=2000)
                     self.page.wait_for_timeout(500)
                     return True
             except Exception:

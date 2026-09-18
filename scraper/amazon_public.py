@@ -160,7 +160,8 @@ class AmazonPublicSource(SellerDiscoverySource):
                 max_offer_scroll_attempts=self.max_offer_scroll_attempts,
                 max_no_new_seller_attempts=self.max_no_new_seller_attempts,
                 offer_load_wait_ms=self.offer_load_wait_ms,
-                max_product_runtime_seconds=self.max_product_offer_runtime_seconds
+                max_product_runtime_seconds=self.max_product_offer_runtime_seconds,
+                context_reset_callback=self.browser_mgr.reset_context
             )
             raw_offers = product_scraper.extract_product_sellers(product_info["product_url"])
             if not raw_offers:

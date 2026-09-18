@@ -31,22 +31,41 @@ def check_amazon_block(response, page: Page) -> Tuple[bool, str]:
 
     try:
         current_url = (page.url or "").lower()
-        if "validatecaptcha" in current_url:
+        if "validatecaptcha" in current_url or "/errors/validatecaptcha" in current_url:
             return True, "validateCaptcha URL detected"
+        if "/ap/signin" in current_url:
+            return True, "Amazon Sign-In Redirect"
 
         title = (page.title() or "").lower()
         if "robot check" in title or "captcha" in title:
             return True, "Robot Check / CAPTCHA"
         if "503 - service unavailable" in title or "503 service unavailable" in title:
             return True, "503 Service Unavailable"
+        if "sorry! something went wrong" in title:
+            return True, "Amazon Something Went Wrong"
+
+        # Check DOM elements for CAPTCHA
+        captcha_elem = page.query_selector(
+            "form[action*='validateCaptcha'], form[action*='captcha'], input#captchacharacters, img[src*='captcha'], input[name='field-keywords'][id='captchacharacters']"
+        )
+        if captcha_elem:
+            return True, "Robot Check / CAPTCHA form detected"
 
         content = page.content().lower()
         if (
             "api-services-support@amazon.com" in content
             or "type the characters you see in this image" in content
-            or ("enter the characters you see below" in content and "robot" in content)
+            or "enter the characters you see below" in content
+            or "sorry, we just need to make sure you're not a robot" in content
+            or "to discuss automated access to amazon data" in content
+            or "automated access" in content
+            or "enter the characters from the image" in content
+            or "bm-verify" in content
+            or "_sec/verify" in content
+            or "triggerinterstitialchallenge" in content
+            or ("<title>&nbsp;</title>" in content and len(content) < 5000)
         ):
-            return True, "Robot Check / CAPTCHA"
+            return True, "Robot Check / Interstitial Challenge"
         if "sorry, we couldn't find that page" in title and "amazon" in title:
             return False, "Page Not Found"
     except Exception:
@@ -197,6 +216,17 @@ class AmazonSearchScraper:
                         if attempt < self.max_retries:
                             print("Refreshing Amazon browser session before retry...")
                             self._recover_after_block(block_reason, category_hint, attempt)
+                            # Try UI search fallback on subsequent attempt if direct URL was blocked
+                            if attempt >= 2:
+                                try:
+                                    logger.info(f"Attempting UI search fallback for '{category_hint}'...")
+                                    self._perform_ui_search(category_hint, current_url)
+                                    is_blocked, block_reason = check_amazon_block(None, self.page)
+                                    if not is_blocked:
+                                        page_loaded = True
+                                        break
+                                except Exception as e_ui:
+                                    logger.debug(f"UI search fallback attempt failed: {e_ui}")
                             continue
 
                         print("CATEGORY STATUS: BLOCKED")
@@ -249,36 +279,89 @@ class AmazonSearchScraper:
             except Exception as exc:
                 logger.debug(f"Optional Amazon search scroll failed: {exc}")
 
-            links = self.page.query_selector_all("a[href*='/dp/']")
-            logger.info(f"Found {len(links)} raw product links on page {page_num}")
+            # -------------------------------------------------------------
+            # Strategy A: Structured Search Result Cards
+            # -------------------------------------------------------------
+            search_cards = self.page.query_selector_all(
+                "div[data-component-type='s-search-result'], div.s-result-item[data-asin]:not([data-asin=''])"
+            )
+            logger.info(f"Found {len(search_cards)} structured search result cards on page {page_num}")
 
-            for link in links:
+            for card in search_cards:
                 if len(products) >= limit:
                     break
                 try:
-                    href = link.get_attribute("href")
-                    if not href:
+                    asin = (card.get_attribute("data-asin") or "").strip()
+                    if not asin or len(asin) != 10:
                         continue
-                    full_url = f"https://www.amazon.in{href}" if href.startswith("/") else href
-                    asin_match = re.search(r"/dp/([A-Z0-9]{10})", full_url)
-                    if not asin_match:
-                        continue
-                    asin = asin_match.group(1)
                     clean_product_url = f"https://www.amazon.in/dp/{asin}"
                     if clean_product_url in visited_urls:
                         continue
+
+                    # Extract proper title
+                    title_text = ""
+                    title_elem = card.query_selector(
+                        "h2 a span, h2.a-size-medium, h2.a-size-base-plus, [data-cy='title-recipe'] h2, h2 a, h2"
+                    )
+                    if title_elem:
+                        raw_title = title_elem.inner_text().strip()
+                        raw_title = re.sub(r"(?i)Product\s*summary\s*presents\s*key.*$", "", raw_title).strip()
+                        raw_title = re.sub(r"(?i)Keyboard\s*shortcut.*$", "", raw_title).strip()
+                        if raw_title and len(raw_title) > 3:
+                            title_text = raw_title
+
+                    if not title_text:
+                        title_text = f"Amazon Product {asin}"
+
                     visited_urls.add(clean_product_url)
-                    title_text = link.inner_text().strip() or f"Amazon Product {asin}"
                     products.append({
                         "asin": asin,
                         "product_url": clean_product_url,
-                        "product_title": title_text[:120],
+                        "product_title": title_text[:140],
                         "category": category_hint,
                         "source_search_url": search_url,
                     })
                 except Exception as exc:
-                    logger.debug(f"Error parsing product link: {exc}")
+                    logger.debug(f"Error parsing search card: {exc}")
                     continue
+
+            # -------------------------------------------------------------
+            # Strategy B: Fallback link extraction if cards selector yielded 0
+            # -------------------------------------------------------------
+            if not products:
+                links = self.page.query_selector_all("a[href*='/dp/'], a[href*='/gp/product/']")
+                logger.info(f"Fallback link search found {len(links)} raw product links on page {page_num}")
+
+                for link in links:
+                    if len(products) >= limit:
+                        break
+                    try:
+                        href = link.get_attribute("href")
+                        if not href:
+                            continue
+                        full_url = f"https://www.amazon.in{href}" if href.startswith("/") else href
+                        asin_match = re.search(r"/(?:dp|gp/product)/([A-Z0-9]{10})", full_url)
+                        if not asin_match:
+                            continue
+                        asin = asin_match.group(1)
+                        clean_product_url = f"https://www.amazon.in/dp/{asin}"
+                        if clean_product_url in visited_urls:
+                            continue
+                        visited_urls.add(clean_product_url)
+                        title_text = link.inner_text().strip()
+                        title_text = re.sub(r"(?i)Product\s*summary\s*presents\s*key.*$", "", title_text).strip()
+                        if not title_text or len(title_text) < 3:
+                            title_text = f"Amazon Product {asin}"
+                        products.append({
+                            "asin": asin,
+                            "product_url": clean_product_url,
+                            "product_title": title_text[:140],
+                            "category": category_hint,
+                            "source_search_url": search_url,
+                        })
+                    except Exception as exc:
+                        logger.debug(f"Error parsing product link: {exc}")
+                        continue
 
             print(f"Products discovered: {len(products)}")
             logger.info(f"Discovered {len(products)} total unique product URLs so far")

@@ -8,6 +8,7 @@ if sys.platform == "win32":
 import json
 import re
 import time
+import random
 import logging
 import argparse
 import os
@@ -344,6 +345,8 @@ def process_category_run(
 
             asin = prod.get("asin")
             logger.info(f"[{idx}/{len(products)}] Processing product ASIN: {asin}")
+            if idx > 1:
+                time.sleep(random.uniform(0.5, 1.2))
 
             seller_offers_data = discovery_source.extract_seller_offers(prod)
             if not seller_offers_data:

@@ -25,14 +25,14 @@ logger = logging.getLogger("amazon_scraper")
 # -------------------------------------------------------------
 # Configuration Constants
 # -------------------------------------------------------------
-SEARCH_TIMEOUT_SECONDS = 6
+SEARCH_TIMEOUT_SECONDS = 4
 MAX_SEARCH_ATTEMPTS_PER_FIELD = 2
-MAX_ENRICHMENT_TIME_PER_SELLER = 120  # 120 seconds maximum per seller
-MAX_FIELD_ENRICHMENT_SECONDS = 15    # 15 seconds maximum per missing field
-MAX_RESULTS_PER_QUERY = 4
-WEBSITE_TIMEOUT_SECONDS = 6
-CANDIDATE_WEBSITE_TIMEOUT_SECONDS = 4
-MAX_WEBSITE_PAGES = 6
+MAX_ENRICHMENT_TIME_PER_SELLER = 45   # 45 seconds maximum per seller
+MAX_FIELD_ENRICHMENT_SECONDS = 8     # 8 seconds maximum per missing field
+MAX_RESULTS_PER_QUERY = 3
+WEBSITE_TIMEOUT_SECONDS = 4
+CANDIDATE_WEBSITE_TIMEOUT_SECONDS = 3
+MAX_WEBSITE_PAGES = 4
 
 SKIP_DOMAINS = [
     "amazon.", "flipkart.com", "myntra.com", "ajio.com", "facebook.com",
@@ -188,23 +188,27 @@ def search_and_extract_seller_email(seller_name: str, session: Optional[requests
     }
 
     try:
-        time.sleep(random.uniform(1.0, 2.0))
+        time.sleep(random.uniform(0.5, 1.0))
 
         # 1. Query DuckDuckGo HTML endpoint
-        ddg_resp = session.post(
-            "https://html.duckduckgo.com/html/",
-            data={"q": query},
-            headers=headers,
-            timeout=10
-        )
+        ddg_resp = None
+        try:
+            ddg_resp = session.post(
+                "https://html.duckduckgo.com/html/",
+                data={"q": query},
+                headers=headers,
+                timeout=3
+            )
+        except Exception:
+            pass
 
         html_text = ddg_resp.text if ddg_resp else ""
-        if not html_text or ddg_resp.status_code == 202:
+        if not html_text or (ddg_resp and ddg_resp.status_code == 202):
             try:
                 ddg_resp = session.get(
                     f"https://html.duckduckgo.com/html/?q={requests.utils.quote(query)}",
                     headers=headers,
-                    timeout=10
+                    timeout=3
                 )
                 html_text = ddg_resp.text if ddg_resp else ""
             except Exception:
